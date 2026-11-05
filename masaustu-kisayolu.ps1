@@ -1,4 +1,4 @@
-# Haber Masası için Başlat menüsü ve masaüstü kısayolu oluşturur.
+﻿# Haber Masası için Başlat menüsü ve masaüstü kısayolu oluşturur.
 # Kısayol, uygulamayı Edge'de adres çubuğu olmadan kendi penceresinde açar.
 # Kullanım:  powershell -ExecutionPolicy Bypass -File masaustu-kisayolu.ps1 -Url https://KULLANICI.github.io/haber-masasi/
 param(
