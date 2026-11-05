@@ -1,0 +1,39 @@
+name: Günlük haber baskısı
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # 05:00 UTC = 08:00 Türkiye
+  workflow_dispatch: {}   # Actions sekmesinden elle çalıştırmak için
+
+permissions:
+  contents: write
+
+concurrency:
+  group: daily-news
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Bağımlılıkları kur
+        run: pip install -r requirements.txt
+
+      - name: Haberleri derle ve özetle
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python scripts/build_news.py
+
+      - name: Yeni baskıyı kaydet
+        run: |
+          git config user.name "haber-masasi-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A docs/data
+          git diff --cached --quiet || git commit -m "Günlük baskı $(TZ=Europe/Istanbul date +%F)"
+          git push

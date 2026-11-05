@@ -1,0 +1,16 @@
+{
+  "name": "Haber Masası: Almanya & Türkiye",
+  "short_name": "Haber Masası",
+  "description": "Almanya ve Türkiye'den günün önemli haberleri, Türkçe özet ve değerlendirmeyle.",
+  "lang": "tr",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#15192a",
+  "theme_color": "#15192a",
+  "icons": [
+    {"src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png"},
+    {"src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable"}
+  ]
+}
