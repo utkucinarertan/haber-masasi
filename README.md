@@ -2,12 +2,13 @@
 
 Her sabah Almanya ve Türkiye'den 5-10'ar önemli haberi Türkçe özetleyen, günün kısa değerlendirmesini yazan kişisel haber uygulaması. Claude uygulamasından bağımsız çalışır:
 
-- **Haberler:** GitHub Actions her sabah 08:00'de (Türkiye saati) tagesschau, DW Türkçe ve BBC Türkçe'den haberleri çeker, Claude API ile Türkçe özetler ve `docs/data` altına kaydeder.
+- **Haberler:** Her sabah 08:00'de Claude masaüstü uygulamasındaki "Günlük Almanya–Türkiye haber baskısı" görevi tagesschau, DW Türkçe ve BBC Türkçe'den haberleri toplar (`build_news.py --collect`), Türkçe özetler ve `build_news.py --publish` ile GitHub'a gönderir. API anahtarı gerekmez; o saatte bilgisayarın açık ve Claude'un çalışıyor olması yeterli.
+  - İleride bilgisayardan bağımsız çalıştırmak isterseniz: aşağıdaki API anahtarı adımlarını yapın ve `.github/workflows/daily-news.yml` içindeki `schedule` satırlarını açın.
 - **Uygulama:** `docs/` klasörü GitHub Pages'te yayınlanan, kurulabilir bir web uygulamasıdır (PWA). Bilgisayarda görev çubuğuna, telefonda ana ekrana eklenir. Son 30 günün baskıları saklanır, son açılan baskı internetsiz de görünür.
 
 ## Kurulum (bir kez)
 
-### 1. Claude API anahtarı
+### 1. Claude API anahtarı (isteğe bağlı, yalnızca GitHub'da otomatik üretim için)
 1. https://console.anthropic.com adresinde hesap açın, **Billing** bölümünden en az 5 dolar kredi yükleyin.
 2. **API Keys** → **Create Key**. Anahtarı bir kenara kopyalayın (`sk-ant-...`).
 

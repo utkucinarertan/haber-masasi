@@ -3,12 +3,17 @@
 RSS kaynaklarından haberleri çeker, Claude API ile Türkçe özetleyip
 değerlendirir ve docs/data altına JSON olarak yazar.
 
-Çalıştırma:  ANTHROPIC_API_KEY=... python scripts/build_news.py
+Çalıştırma:
+  ANTHROPIC_API_KEY=... python scripts/build_news.py   # topla + özetle + yaz (GitHub Actions)
+  python scripts/build_news.py --collect haberler.json  # yalnızca haberleri topla
+  python scripts/build_news.py --publish baski.json     # hazır baskıyı yaz, commit et, gönder
+                                                         # (Claude masaüstü sabah görevi bu ikisini kullanır)
 """
 import html
 import json
 import os
 import re
+import subprocess
 import sys
 import urllib.request
 import xml.etree.ElementTree as ET
@@ -16,7 +21,6 @@ from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
 
-import anthropic
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "docs" / "data"
@@ -135,6 +139,8 @@ def collect(since):
 
 
 def summarize(items):
+    import anthropic  # yalnızca API ile özetlerken gerekir
+
     client = anthropic.Anthropic()
     request = dict(
         model=MODEL,
@@ -176,7 +182,55 @@ def write_edition(edition):
         json.dumps({"editions": dates[:KEEP_DAYS]}, ensure_ascii=False), encoding="utf-8")
 
 
+def check_edition(edition):
+    for desk in ("germany", "turkey"):
+        d = edition.get(desk) or {}
+        if not isinstance(d.get("overview"), str) or not d["overview"].strip():
+            raise SystemExit(f"{desk}.overview eksik")
+        items = d.get("items")
+        if not isinstance(items, list) or not 3 <= len(items) <= 12:
+            raise SystemExit(f"{desk}.items 3-12 haber olmalı")
+        for it in items:
+            missing = [k for k in ITEM_SCHEMA["required"] if k not in it]
+            if missing:
+                raise SystemExit(f"{desk} haberinde eksik alan: {', '.join(missing)}")
+            if it["importance"] not in (1, 2, 3):
+                raise SystemExit(f"{desk}: importance 1, 2 ya da 3 olmalı")
+            it["url"] = strip_tracking(it["url"])
+
+
+def git(*args):
+    subprocess.run(["git", "-C", str(ROOT), *args], check=True)
+
+
+def publish(path):
+    now = datetime.now(TR_TZ)
+    edition = json.loads(Path(path).read_text(encoding="utf-8"))
+    check_edition(edition)
+    edition = {"date": edition.get("date") or now.date().isoformat(),
+               "updatedAt": now.isoformat(timespec="minutes"),
+               "germany": edition["germany"], "turkey": edition["turkey"]}
+    git("pull", "--rebase", "--autostash", "-q")
+    write_edition(edition)
+    git("add", "-A", "docs/data")
+    if subprocess.run(["git", "-C", str(ROOT), "diff", "--cached", "--quiet"]).returncode:
+        git("commit", "-q", "-m", f"Günlük baskı {edition['date']}")
+    git("push", "-q")
+    print(f"{edition['date']} yayında: Almanya {len(edition['germany']['items'])}, "
+          f"Türkiye {len(edition['turkey']['items'])} haber")
+
+
 def main():
+    sys.stdout.reconfigure(encoding="utf-8")
+    if len(sys.argv) == 3 and sys.argv[1] == "--collect":
+        items, failed = collect(since=datetime.now(TR_TZ) - timedelta(hours=30))
+        Path(sys.argv[2]).write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
+        note = f", alınamayan kaynak: {', '.join(failed)}" if failed else ""
+        print(f"{len(items)} haber toplandı{note}")
+        return
+    if len(sys.argv) == 3 and sys.argv[1] == "--publish":
+        publish(sys.argv[2])
+        return
     now = datetime.now(TR_TZ)
     items, failed = collect(since=now - timedelta(hours=30))
     if len(items) < 5:

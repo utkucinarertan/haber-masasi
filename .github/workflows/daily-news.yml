@@ -1,8 +1,11 @@
 name: Günlük haber baskısı
 
+# Günlük baskıyı şu an Claude masaüstündeki sabah görevi hazırlıyor (API anahtarı gerekmez).
+# ANTHROPIC_API_KEY secret'ı eklenirse aşağıdaki schedule satırlarını açın; baskı bilgisayardan
+# bağımsız olarak GitHub'da üretilir.
 on:
-  schedule:
-    - cron: "0 5 * * *"   # 05:00 UTC = 08:00 Türkiye
+  # schedule:
+  #   - cron: "0 5 * * *"   # 05:00 UTC = 08:00 Türkiye
   workflow_dispatch: {}   # Actions sekmesinden elle çalıştırmak için
 
 permissions:
