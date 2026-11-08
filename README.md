@@ -2,11 +2,20 @@
 
 Her sabah Almanya ve Türkiye'den 5-10'ar önemli haberi Türkçe özetleyen, günün kısa değerlendirmesini yazan kişisel haber uygulaması. Claude uygulamasından bağımsız çalışır:
 
-- **Haberler:** Her sabah 08:00'de Claude masaüstü uygulamasındaki "Günlük Almanya–Türkiye haber baskısı" görevi tagesschau, DW Türkçe ve BBC Türkçe'den haberleri toplar (`build_news.py --collect`), Türkçe özetler ve `build_news.py --publish` ile GitHub'a gönderir. API anahtarı gerekmez; o saatte bilgisayarın açık ve Claude'un çalışıyor olması yeterli.
-  - İleride bilgisayardan bağımsız çalıştırmak isterseniz: aşağıdaki API anahtarı adımlarını yapın ve `.github/workflows/daily-news.yml` içindeki `schedule` satırlarını açın.
+- **Haber havuzu:** GitHub Actions saatte bir (06:40-23:40) tagesschau, DW Türkçe ve BBC Türkçe'den son haberleri `docs/data/feeds.json`'a yazar. Anahtar gerekmez.
+- **Güncelleme cihazda yapılır:** Uygulamada **Güncelle**'ye basınca ya da ayarlanan saatten (varsayılan 08:00) sonra uygulama açıkken bugünün baskısı yoksa, o an açık olan cihaz (telefon ya da bilgisayar) havuzu ücretsiz Google Gemini ile Türkçe özetler. Ayarlar'a girilen GitHub anahtarıyla baskıyı depoya yazar; böylece diğer cihazda da görünür.
+  - Bilgisayarda `masaustu-kisayolu.ps1` her sabah uygulamayı kendiliğinden açan bir Windows görevi de kurar.
+  - Claude masaüstündeki sabah görevi de `build_news.py --collect/--publish` ile baskı hazırlayabilir (isteğe bağlı).
 - **Uygulama:** `docs/` klasörü GitHub Pages'te yayınlanan, kurulabilir bir web uygulamasıdır (PWA). Bilgisayarda görev çubuğuna, telefonda ana ekrana eklenir. Son 30 günün baskıları saklanır, son açılan baskı internetsiz de görünür.
 
-## Kurulum (bir kez)
+## Uygulama ayarları (her cihazda bir kez)
+
+Uygulamada sağ üstteki dişli → **Ayarlar**:
+1. **Gemini API anahtarı:** https://aistudio.google.com/app/apikey → Google hesabıyla giriş → **Create API key** → kopyala, yapıştır. Ücretsizdir, kart istemez. (Ücretsiz katmanda Google gönderilen metni ürün geliştirmek için kullanabilir; burada yalnızca herkese açık haber metinleri gönderilir.)
+2. **GitHub anahtarı (paylaşım için):** https://github.com/settings/personal-access-tokens/new → ad: `haber-masasi`, süre: 1 yıl, **Repository access: Only select repositories → haber-masasi**, **Permissions → Contents: Read and write** → **Generate token** → kopyala, yapıştır.
+3. **Anahtarları dene** → **Kaydet**.
+
+## Eski kurulum notları
 
 ### 1. Claude API anahtarı (isteğe bağlı, yalnızca GitHub'da otomatik üretim için)
 1. https://console.anthropic.com adresinde hesap açın, **Billing** bölümünden en az 5 dolar kredi yükleyin.

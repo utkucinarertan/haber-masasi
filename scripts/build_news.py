@@ -7,6 +7,8 @@ değerlendirir ve docs/data altına JSON olarak yazar.
   ANTHROPIC_API_KEY=... python scripts/build_news.py   # topla + özetle + yaz (GitHub Actions)
   python scripts/build_news.py --collect haberler.json  # yalnızca haberleri topla
   python scripts/build_news.py --publish baski.json     # hazır baskıyı yaz, commit et, gönder
+  python scripts/build_news.py --pool                   # docs/data/feeds.json haber havuzunu yenile
+                                                         # (uygulama "Güncelle"de bu havuzu Gemini ile özetler)
                                                          # (Claude masaüstü sabah görevi bu ikisini kullanır)
 """
 import html
@@ -220,8 +222,31 @@ def publish(path):
           f"Türkiye {len(edition['turkey']['items'])} haber")
 
 
+def write_pool():
+    """Uygulamanın cihazda özetleyeceği haber havuzu; tarayıcı BBC'yi doğrudan okuyamadığı için gerekir."""
+    now = datetime.now(TR_TZ)
+    items, failed = collect(since=now - timedelta(hours=30))
+    items.sort(key=lambda it: it["time"], reverse=True)
+    for it in items:
+        it["description"] = it["description"][:400]
+    DATA.mkdir(parents=True, exist_ok=True)
+    (DATA / "feeds.json").write_text(json.dumps(
+        {"updatedAt": now.isoformat(timespec="minutes"), "failed": failed, "items": items},
+        ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
+    # Cihazlardan gelen baskıları da 30 günle sınırla ve listeyi dosyalarla eşitle.
+    dates = sorted((p.stem for p in EDITIONS.glob("*.json")), reverse=True)
+    for old in dates[KEEP_DAYS:]:
+        (EDITIONS / f"{old}.json").unlink()
+    (DATA / "index.json").write_text(
+        json.dumps({"editions": dates[:KEEP_DAYS]}, ensure_ascii=False), encoding="utf-8")
+    print(f"Havuz: {len(items)} haber" + (f", alınamayan: {', '.join(failed)}" if failed else ""))
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
+    if sys.argv[1:] == ["--pool"]:
+        write_pool()
+        return
     if len(sys.argv) == 3 and sys.argv[1] == "--collect":
         items, failed = collect(since=datetime.now(TR_TZ) - timedelta(hours=30))
         Path(sys.argv[2]).write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
