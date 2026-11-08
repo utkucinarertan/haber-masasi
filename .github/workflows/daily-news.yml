@@ -1,12 +1,14 @@
 name: Günlük haber baskısı
 
-# Her sabah 07:00'de (Türkiye) haberleri toplar, ücretsiz Google Gemini ile Türkçe özetler
-# ve docs/data altına yazar. Uygulamayı kullanan herkes bu baskıyı okur; kimsenin anahtar girmesi gerekmez.
-# Gerekli secret: GEMINI_API_KEY (Settings → Secrets and variables → Actions).
+# Saatte bir çalışır; betik yalnızca yönetim sayfasında ayarlanan saatten sonra ve o günün baskısı
+# henüz yoksa üretir (docs/data/config.json → time). Ülkeler, kaynaklar ve diller de oradan gelir.
+# Haberler ücretsiz Google Gemini ile özetlenir. Gerekli secret: GEMINI_API_KEY (yönetim sayfasından kaydedilir).
 on:
   schedule:
-    - cron: "0 4 * * *"   # 04:00 UTC = 07:00 Türkiye
-  workflow_dispatch: {}   # Actions sekmesinden elle çalıştırmak için
+    - cron: "2 * * * *"
+  push:
+    paths: ["docs/data/config.json"]   # ayarlar değişince bugünün baskısı yoksa hemen dene
+  workflow_dispatch: {}   # yönetim sayfasındaki "Şimdi hazırla" düğmesi (saate bakmadan üretir)
 
 permissions:
   contents: write

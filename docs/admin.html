@@ -1,0 +1,373 @@
+<!doctype html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="robots" content="noindex">
+<title>Haber Masası Yönetim</title>
+<meta name="theme-color" content="#15192a">
+<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap">
+<style>
+/* Admin panel: stacked cards (connection, Gemini key, schedule+languages, countries+sources, run) */
+:root{
+  --bg:#eef0f3; --surface:#fff; --ink:#15192a; --muted:#5b6275; --line:#d9dce4; --field:#f6f7f9;
+  --accent:#1f3a8a; --accent-soft:#e3e8f7; --bar:#15192a; --bar-ink:#f3f4f8; --ok:#1d7a46; --err:#b42318; --warn:#b26b00;
+  color-scheme:light;
+}
+@media (prefers-color-scheme:dark){:root{
+  --bg:#10131c; --surface:#181c28; --ink:#e8eaf1; --muted:#9aa1b4; --line:#2a3042; --field:#11141d;
+  --accent:#9db4ff; --accent-soft:#222b46; --bar:#0b0d14; --ok:#5fd394; --err:#ff8a7a; --warn:#f0a640; color-scheme:dark}}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:15px/1.5 "Archivo",system-ui,sans-serif}
+button,input,select{font:inherit;color:inherit}
+button{cursor:pointer}
+:focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+[hidden]{display:none!important}
+header{background:var(--bar);color:var(--bar-ink);padding:calc(env(safe-area-inset-top,0px) + 12px) 16px 12px}
+header .row{max-width:860px;margin:0 auto;display:flex;align-items:center;gap:12px}
+header img{width:32px;height:32px;border-radius:8px}
+header b{font-size:1.1rem;font-weight:800;flex:1}
+header a{color:var(--bar-ink);font-weight:600;font-size:.9rem}
+main{max-width:860px;margin:0 auto;padding:16px 16px calc(48px + env(safe-area-inset-bottom,0px));display:flex;flex-direction:column;gap:16px}
+.card{background:var(--surface);border:1px solid var(--line);border-radius:14px;padding:18px;display:flex;flex-direction:column;gap:12px}
+.card h2{margin:0;font-size:1.1rem;font-weight:800;display:flex;align-items:center;gap:8px}
+.card h2 .n{width:24px;height:24px;border-radius:50%;background:var(--accent);color:var(--surface);display:inline-grid;place-items:center;font-size:.8rem}
+.card p{margin:0;color:var(--muted);font-size:.9rem}
+.card p a,.help a{color:var(--accent);font-weight:600}
+ol.help{margin:0;padding-left:20px;color:var(--muted);font-size:.88rem;display:flex;flex-direction:column;gap:3px}
+label.f{display:flex;flex-direction:column;gap:5px;font-weight:700;font-size:.9rem}
+input[type=text],input[type=password],input[type=url],select{padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--field);width:100%;min-width:0}
+.row2{display:flex;gap:8px;flex-wrap:wrap;align-items:flex-end}
+.row2 > *{flex:1 1 200px}
+.btn{border:1px solid var(--line);background:var(--surface);border-radius:9px;padding:9px 14px;font-weight:700;white-space:nowrap}
+.btn.primary{background:var(--accent);border-color:var(--accent);color:#fff}
+@media (prefers-color-scheme:dark){.btn.primary{color:#0b0d14}}
+.btn.danger{color:var(--err)}
+.btn[disabled]{opacity:.55;cursor:default}
+.actions{display:flex;gap:8px;flex-wrap:wrap}
+.msg{font-size:.88rem;min-height:1.3em}
+.msg.ok{color:var(--ok)} .msg.err{color:var(--err)} .msg.warn{color:var(--warn)}
+.pill{display:inline-block;font-size:.75rem;font-weight:700;padding:2px 8px;border-radius:999px;background:var(--accent-soft);color:var(--accent)}
+.pill.ok{background:color-mix(in srgb,var(--ok) 16%,var(--surface));color:var(--ok)}
+.pill.err{background:color-mix(in srgb,var(--err) 16%,var(--surface));color:var(--err)}
+.checks{display:flex;gap:16px;flex-wrap:wrap}
+.checks label{display:flex;gap:8px;align-items:center;font-weight:600}
+.checks input{width:18px;height:18px}
+.country{border:1px solid var(--line);border-radius:12px;padding:12px;display:flex;flex-direction:column;gap:10px;background:var(--field)}
+.country .top{display:flex;gap:10px;align-items:center}
+.country .top img{width:30px;height:21px;border-radius:3px;object-fit:cover;box-shadow:0 0 0 1px var(--line)}
+.country .top select{flex:1}
+.feed{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr) auto;gap:6px}
+.feed input{background:var(--surface)}
+@media (max-width:600px){.feed{grid-template-columns:1fr auto}.feed .fname{grid-column:1 / -1}}
+.runs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
+.runs li{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+.runs a{color:var(--accent)}
+.locked{opacity:.5;pointer-events:none}
+</style>
+</head>
+<body>
+<header><div class="row"><img src="icons/icon-192.png" alt=""><b>Haber Masası · Yönetim</b><a href="./">Uygulamaya dön</a></div></header>
+<main>
+
+<section class="card" id="c-conn">
+  <h2><span class="n">1</span>GitHub bağlantısı</h2>
+  <p>Ayarlar ve günlük baskılar GitHub deposunda (<b id="repo-name"></b>) tutulur. Bu sayfanın değişiklik yapabilmesi için bir kez GitHub anahtarı girin; anahtar yalnızca bu cihazda saklanır. Uygulamayı kullananların hiçbir şey girmesi gerekmez.</p>
+  <ol class="help">
+    <li><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Yeni GitHub anahtarı sayfasını</a> açın. Token name: <b>haber-masasi-yonetim</b>, Expiration: 1 yıl.</li>
+    <li><b>Repository access</b> → <b>Only select repositories</b> → <b>haber-masasi</b>.</li>
+    <li><b>Permissions → Repository permissions</b>: <b>Contents</b>, <b>Actions</b> ve <b>Secrets</b> için <b>Read and write</b> seçin.</li>
+    <li><b>Generate token</b> deyin, çıkan <code>github_pat_…</code> metnini aşağıya yapıştırın.</li>
+  </ol>
+  <div class="row2">
+    <label class="f">GitHub anahtarı<input type="password" id="gh-token" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></label>
+    <div class="actions" style="flex:0 0 auto"><button class="btn primary" id="gh-connect">Bağlan</button><button class="btn" id="gh-forget" hidden>Bu cihazdan sil</button></div>
+  </div>
+  <div class="msg" id="gh-msg"></div>
+</section>
+
+<div id="locked" class="locked">
+<section class="card" id="c-gemini">
+  <h2><span class="n">2</span>Gemini anahtarı <span class="pill" id="gem-state">bilinmiyor</span></h2>
+  <p>Haberleri her sabah özetleyen Google Gemini'nin anahtarı. Ücretsizdir, kart istemez. Anahtar GitHub'a şifrelenerek kaydedilir; bu sayfada bile bir daha görünmez.</p>
+  <ol class="help">
+    <li><a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">aistudio.google.com/app/apikey</a> adresinde Google hesabınızla giriş yapın.</li>
+    <li><b>Create API key</b> deyin, anahtarı kopyalayıp aşağıya yapıştırın.</li>
+  </ol>
+  <div class="row2">
+    <label class="f">Gemini API anahtarı<input type="password" id="gem-key" autocomplete="off" spellcheck="false" placeholder="AIza…"></label>
+    <div class="actions" style="flex:0 0 auto"><button class="btn" id="gem-test">Dene</button><button class="btn primary" id="gem-save">Kaydet</button></div>
+  </div>
+  <div class="msg" id="gem-msg"></div>
+</section>
+
+<section class="card">
+  <h2><span class="n">3</span>Yayın saati ve diller</h2>
+  <div class="row2">
+    <label class="f">Her gün baskının hazırlanacağı saat (Türkiye)<select id="cfg-time"></select></label>
+  </div>
+  <p>Baskı bu saatten sonraki ilk birkaç dakika içinde hazırlanır.</p>
+  <div class="f" style="font-weight:700;font-size:.9rem">Diller (kullanıcı bunlardan birini seçer)</div>
+  <div class="checks" id="cfg-langs"></div>
+</section>
+
+<section class="card">
+  <h2><span class="n">4</span>Ülkeler ve kaynaklar</h2>
+  <p>Kullanıcılar burada eklediğiniz ülkelerden istediklerini seçer. Her ülke için haberlerin derleneceği RSS adreslerini girin (haber sitesinin "RSS" bağlantısı). Gemini her ülke için bu kaynaklardan 5-10 önemli haber seçer.</p>
+  <div id="countries" style="display:flex;flex-direction:column;gap:10px"></div>
+  <div class="actions"><button class="btn" id="add-country">+ Ülke ekle</button></div>
+</section>
+
+<section class="card">
+  <h2><span class="n">5</span>Kaydet ve yayınla</h2>
+  <p>Ayarları kaydedin. Bugünün baskısı henüz yoksa hemen hazırlanır; varsa yeni ayarlar yarın sabahtan geçerli olur. Hemen yeni bir baskı için <b>Şimdi hazırla</b>'ya basın (birkaç dakika sürer).</p>
+  <div class="actions"><button class="btn primary" id="cfg-save">Ayarları kaydet</button><button class="btn" id="run-now">Şimdi hazırla</button></div>
+  <div class="msg" id="cfg-msg"></div>
+  <div style="font-weight:700;font-size:.9rem">Son çalıştırmalar</div>
+  <ul class="runs" id="runs"><li>—</li></ul>
+</section>
+</div>
+
+</main>
+
+<script type="module">
+const REPO = "utkucinarertan/haber-masasi";
+const WORKFLOW = "daily-news.yml";
+const LANGS = {tr:"Türkçe", en:"İngilizce", de:"Almanca"};
+const REGIONS = "AD AE AF AG AL AM AO AR AT AU AZ BA BB BD BE BF BG BH BI BJ BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FM FR GA GB GD GE GH GM GN GQ GR GT GW GY HK HN HR HT HU ID IE IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MR MT MU MV MW MX MY MZ NA NE NG NI NL NO NP NR NZ OM PA PE PG PH PK PL PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SI SK SL SM SN SO SR SS ST SV SY SZ TD TG TH TJ TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VN VU WS XK YE ZA ZM ZW".split(" ");
+const nameTR = new Intl.DisplayNames(["tr"], {type:"region"});
+const nameEN = new Intl.DisplayNames(["en"], {type:"region"});
+const REGION_OPTS = REGIONS.map(c => [c.toLowerCase(), nameTR.of(c)]).sort((a, b) => a[1].localeCompare(b[1], "tr"));
+
+const $ = s => document.querySelector(s);
+const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
+const say = (id, cls, text) => { const m = $(id); m.className = "msg " + cls; m.textContent = text; };
+const store = {
+  get(k){ try { return localStorage.getItem(k) || ""; } catch { return ""; } },
+  set(k, v){ try { v ? localStorage.setItem(k, v) : localStorage.removeItem(k); } catch {} },
+};
+$("#repo-name").textContent = REPO;
+
+/* ---------- GitHub API ---------- */
+let token = store.get("admin-gh-token");
+async function gh(path, opts = {}){
+  const r = await fetch("https://api.github.com/" + path, {...opts, headers:{
+    "Authorization":"Bearer " + token, "Accept":"application/vnd.github+json", "X-GitHub-Api-Version":"2022-11-28",
+    ...(opts.body ? {"Content-Type":"application/json"} : {})}});
+  if (r.status === 204) return null;
+  if (r.status === 404 && opts.allow404) return null;
+  const data = await r.json().catch(() => ({}));
+  if (!r.ok){
+    const hint = r.status === 401 ? "GitHub anahtarı geçersiz ya da süresi dolmuş."
+      : r.status === 403 || r.status === 404 ? "GitHub anahtarının bu işlem için izni yok (Contents, Actions ve Secrets: Read and write gerekli)."
+      : `GitHub hatası (${r.status}): ${data.message || ""}`;
+    const e = new Error(hint); e.status = r.status; throw e;
+  }
+  return data;
+}
+const b64 = s => { const bytes = new TextEncoder().encode(s); let bin = ""; for (let i = 0; i < bytes.length; i += 0x8000) bin += String.fromCharCode(...bytes.subarray(i, i + 0x8000)); return btoa(bin); };
+const unb64 = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\s/g, "")), c => c.charCodeAt(0)));
+const bytesB64 = u8 => { let bin = ""; u8.forEach(b => bin += String.fromCharCode(b)); return btoa(bin); };
+
+/* ---------- 1. Bağlantı ---------- */
+async function connect(){
+  say("#gh-msg", "", "Bağlanılıyor…");
+  try {
+    const repo = await gh(`repos/${REPO}`);
+    if (!repo.permissions?.push) throw new Error("Bu GitHub anahtarıyla depoya yazılamıyor. Anahtarda haber-masasi deposunu ve Contents: Read and write iznini seçin.");
+    store.set("admin-gh-token", token);
+    $("#gh-forget").hidden = false; $("#gh-token").value = ""; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)";
+    $("#locked").classList.remove("locked");
+    say("#gh-msg", "ok", "Bağlandı.");
+    await Promise.all([loadConfig(), checkSecret(), loadRuns()]);
+  } catch (e){
+    $("#locked").classList.add("locked");
+    say("#gh-msg", "err", e.message);
+  }
+}
+$("#gh-connect").onclick = () => { const v = $("#gh-token").value.trim(); if (v) token = v; if (!token) return say("#gh-msg", "err", "GitHub anahtarını yapıştırın."); connect(); };
+$("#gh-forget").onclick = () => { store.set("admin-gh-token", ""); token = ""; $("#gh-forget").hidden = true; $("#gh-token").placeholder = "github_pat_…"; $("#locked").classList.add("locked"); say("#gh-msg", "", "Anahtar bu cihazdan silindi."); };
+
+/* ---------- 2. Gemini anahtarı ---------- */
+async function checkSecret(){
+  const pill = $("#gem-state");
+  try {
+    const s = await gh(`repos/${REPO}/actions/secrets/GEMINI_API_KEY`, {allow404:true});
+    pill.className = "pill " + (s ? "ok" : "err");
+    pill.textContent = s ? "kayıtlı · " + new Date(s.updated_at).toLocaleDateString("tr-TR") : "kayıtlı değil";
+  } catch { pill.className = "pill"; pill.textContent = "kontrol edilemedi"; }
+}
+async function testGemini(key){
+  const r = await fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent", {
+    method:"POST", headers:{"Content-Type":"application/json", "x-goog-api-key":key},
+    body:JSON.stringify({contents:[{role:"user", parts:[{text:"Yalnızca 'tamam' yaz."}]}], generationConfig:{maxOutputTokens:20}})});
+  if (r.ok) return;
+  const t = await r.text();
+  if (/API key/i.test(t)) throw new Error("Anahtar geçersiz. Kopyalarken eksik kalmış olabilir.");
+  if (r.status === 429) return;   // kota anlık dolu ama anahtar geçerli
+  throw new Error(`Gemini hatası (${r.status}).`);
+}
+let sealLib;
+async function seal(message, publicKeyB64){
+  if (!sealLib){
+    const [n, b] = await Promise.all([import("https://cdn.jsdelivr.net/npm/tweetnacl@1.0.3/+esm"), import("https://cdn.jsdelivr.net/npm/blakejs@1.2.1/+esm")]);
+    sealLib = {nacl:n.default || n, blake2b:b.blake2b || b.default.blake2b};
+  }
+  const {nacl, blake2b} = sealLib;
+  const pk = Uint8Array.from(atob(publicKeyB64), c => c.charCodeAt(0));
+  const eph = nacl.box.keyPair();
+  const nonceInput = new Uint8Array(64); nonceInput.set(eph.publicKey); nonceInput.set(pk, 32);
+  const nonce = blake2b(nonceInput, undefined, 24);
+  const boxed = nacl.box(new TextEncoder().encode(message), nonce, pk, eph.secretKey);
+  const out = new Uint8Array(32 + boxed.length); out.set(eph.publicKey); out.set(boxed, 32);
+  return bytesB64(out);
+}
+window.__seal = seal;   // yalnızca test için
+$("#gem-test").onclick = async () => {
+  const key = $("#gem-key").value.trim(); if (!key) return say("#gem-msg", "err", "Anahtarı yapıştırın.");
+  say("#gem-msg", "", "Deneniyor…");
+  try { await testGemini(key); say("#gem-msg", "ok", "Anahtar çalışıyor."); } catch (e){ say("#gem-msg", "err", e.message); }
+};
+$("#gem-save").onclick = async () => {
+  const key = $("#gem-key").value.trim(); if (!key) return say("#gem-msg", "err", "Anahtarı yapıştırın.");
+  const btn = $("#gem-save"); btn.disabled = true;
+  try {
+    say("#gem-msg", "", "Anahtar deneniyor…");
+    await testGemini(key);
+    say("#gem-msg", "", "GitHub'a şifrelenerek kaydediliyor…");
+    const pub = await gh(`repos/${REPO}/actions/secrets/public-key`);
+    await gh(`repos/${REPO}/actions/secrets/GEMINI_API_KEY`, {method:"PUT", body:JSON.stringify({encrypted_value:await seal(key, pub.key), key_id:pub.key_id})});
+    $("#gem-key").value = "";
+    say("#gem-msg", "ok", "Gemini anahtarı kaydedildi.");
+    checkSecret();
+  } catch (e){ say("#gem-msg", "err", e.message); }
+  finally { btn.disabled = false; }
+};
+
+/* ---------- 3-4. Ayarlar ---------- */
+let cfg = {time:"07:00", languages:["tr"], countries:[]}, cfgSha = null;
+const timeSel = $("#cfg-time");
+for (let h = 0; h < 24; h++){ const v = String(h).padStart(2, "0") + ":00"; const o = el("option", null, v); o.value = v; timeSel.append(o); }
+
+async function loadConfig(){
+  const f = await gh(`repos/${REPO}/contents/docs/data/config.json?ref=main`, {allow404:true});
+  if (f){ cfg = JSON.parse(unb64(f.content)); cfgSha = f.sha; }
+  renderConfig();
+}
+function renderConfig(){
+  timeSel.value = cfg.time && /^\d\d:00$/.test(cfg.time) ? cfg.time : "07:00";
+  $("#cfg-langs").replaceChildren(...Object.entries(LANGS).map(([code, name]) => {
+    const l = el("label"); const c = el("input"); c.type = "checkbox"; c.value = code; c.checked = cfg.languages.includes(code);
+    l.append(c, document.createTextNode(name)); return l;
+  }));
+  $("#countries").replaceChildren(...cfg.countries.map(renderCountry));
+}
+function feedRow(f = {name:"", url:""}){
+  const row = el("div", "feed");
+  const n = el("input", "fname"); n.type = "text"; n.placeholder = "Kaynak adı (ör. tagesschau)"; n.value = f.name || "";
+  const u = el("input", "furl"); u.type = "url"; u.placeholder = "https://…/rss.xml"; u.value = f.url || "";
+  const x = el("button", "btn danger", "Sil"); x.type = "button"; x.onclick = () => row.remove();
+  row.append(n, u, x); return row;
+}
+function renderCountry(c = {code:"", feeds:[]}){
+  const box = el("div", "country");
+  const top = el("div", "top");
+  const img = el("img"); img.alt = "";
+  const sel = el("select", "code");
+  sel.append(el("option", null, "Ülke seçin…"));
+  REGION_OPTS.forEach(([code, name]) => { const o = el("option", null, name); o.value = code; sel.append(o); });
+  sel.value = c.code || "";
+  const setFlag = () => { img.src = sel.value ? `https://flagcdn.com/${sel.value}.svg` : ""; img.hidden = !sel.value; };
+  sel.onchange = setFlag; setFlag();
+  const del = el("button", "btn danger", "Ülkeyi kaldır"); del.type = "button"; del.onclick = () => box.remove();
+  top.append(img, sel, del);
+  const feeds = el("div"); feeds.style.cssText = "display:flex;flex-direction:column;gap:6px";
+  (c.feeds?.length ? c.feeds : [{}]).forEach(f => feeds.append(feedRow(f)));
+  const add = el("button", "btn", "+ Kaynak ekle"); add.type = "button"; add.style.alignSelf = "flex-start";
+  add.onclick = () => feeds.append(feedRow());
+  box.append(top, feeds, add);
+  return box;
+}
+$("#add-country").onclick = () => { const b = renderCountry(); $("#countries").append(b); b.querySelector("select").focus(); };
+
+function readConfig(){
+  const languages = [...document.querySelectorAll("#cfg-langs input:checked")].map(c => c.value);
+  if (!languages.length) throw new Error("En az bir dil seçin.");
+  const countries = [], seen = new Set();
+  for (const box of document.querySelectorAll("#countries .country")){
+    const code = box.querySelector("select.code").value;
+    if (!code) throw new Error("Her ülke kutusunda bir ülke seçin ya da kutuyu kaldırın.");
+    if (seen.has(code)) throw new Error(`${nameTR.of(code.toUpperCase())} iki kez eklenmiş.`);
+    seen.add(code);
+    const feeds = [];
+    for (const row of box.querySelectorAll(".feed")){
+      const name = row.querySelector(".fname").value.trim(), url = row.querySelector(".furl").value.trim();
+      if (!name && !url) continue;
+      if (!/^https:\/\/\S+$/.test(url)) throw new Error(`${nameTR.of(code.toUpperCase())}: kaynak adresi https:// ile başlamalı.`);
+      feeds.push({name:name || new URL(url).hostname, url});
+    }
+    if (!feeds.length) throw new Error(`${nameTR.of(code.toUpperCase())} için en az bir kaynak girin.`);
+    countries.push({code, name:nameEN.of(code.toUpperCase()), feeds});
+  }
+  if (!countries.length) throw new Error("En az bir ülke ekleyin.");
+  return {time:timeSel.value, languages, countries};
+}
+
+$("#cfg-save").onclick = async () => {
+  const btn = $("#cfg-save"); btn.disabled = true;
+  try {
+    const next = readConfig();
+    say("#cfg-msg", "", "Kaydediliyor…");
+    const cur = await gh(`repos/${REPO}/contents/docs/data/config.json?ref=main`, {allow404:true});
+    const res = await gh(`repos/${REPO}/contents/docs/data/config.json`, {method:"PUT", body:JSON.stringify({
+      message:"Ayarlar güncellendi (yönetim sayfası)", branch:"main",
+      content:b64(JSON.stringify(next, null, 1) + "\n"), ...(cur ? {sha:cur.sha} : {})})});
+    cfg = next; cfgSha = res.content.sha;
+    say("#cfg-msg", "ok", "Ayarlar kaydedildi. Uygulamada birkaç dakika içinde görünür.");
+    setTimeout(loadRuns, 5000);
+  } catch (e){ say("#cfg-msg", "err", e.message); }
+  finally { btn.disabled = false; }
+};
+
+/* ---------- 5. Çalıştırma ---------- */
+const STATUS = {queued:"sırada", in_progress:"hazırlanıyor", completed:"bitti", waiting:"bekliyor", requested:"istendi", pending:"bekliyor"};
+const RESULT = {success:["ok","başarılı"], failure:["err","başarısız"], cancelled:["", "iptal"], skipped:["", "atlandı"]};
+let pollTimer;
+async function loadRuns(){
+  try {
+    const data = await gh(`repos/${REPO}/actions/workflows/${WORKFLOW}/runs?per_page=6`);
+    const runs = (data.workflow_runs || []).filter(r => r.event !== "schedule" || r.conclusion !== "success" || true);
+    $("#runs").replaceChildren(...(runs.length ? runs : [null]).map(r => {
+      const li = el("li");
+      if (!r){ li.textContent = "Henüz çalıştırma yok."; return li; }
+      const [cls, txt] = r.status === "completed" ? (RESULT[r.conclusion] || ["", r.conclusion]) : ["", STATUS[r.status] || r.status];
+      const how = {schedule:"saatlik kontrol", workflow_dispatch:"Şimdi hazırla", push:"ayar değişikliği"}[r.event] || r.event;
+      const a = el("a", null, "ayrıntı"); a.href = r.html_url; a.target = "_blank"; a.rel = "noopener";
+      li.append(el("span", "pill " + cls, txt), document.createTextNode(`${new Date(r.created_at).toLocaleString("tr-TR", {day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"})} · ${how} · `), a);
+      return li;
+    }));
+    clearTimeout(pollTimer);
+    if (runs.some(r => r.status !== "completed")) pollTimer = setTimeout(loadRuns, 10000);
+  } catch (e){ $("#runs").replaceChildren(el("li", null, e.message)); }
+}
+$("#run-now").onclick = async () => {
+  const btn = $("#run-now"); btn.disabled = true;
+  try {
+    await gh(`repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {method:"POST", body:JSON.stringify({ref:"main"})});
+    say("#cfg-msg", "ok", "Baskı hazırlanmaya başladı. Birkaç dakika sürer; durum aşağıda görünür.");
+    setTimeout(loadRuns, 4000);
+  } catch (e){ say("#cfg-msg", "err", e.message); }
+  finally { setTimeout(() => btn.disabled = false, 5000); }
+};
+
+if (token){ $("#gh-forget").hidden = false; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)"; connect(); }
+else {
+  // Bağlanmadan önce de mevcut ayarları göster
+  fetch("data/config.json?t=" + Date.now()).then(r => r.json()).then(c => { cfg = c; renderConfig(); }).catch(() => {});
+}
+</script>
+</body>
+</html>

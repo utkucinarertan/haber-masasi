@@ -1,6 +1,6 @@
 // App shell is cached for offline start; news data is network-first so new editions show up at once.
-const CACHE = "haber-masasi-v3";
-const SHELL = ["./", "index.html", "manifest.webmanifest", "icons/favicon.svg", "icons/icon-192.png", "icons/icon-512.png"];
+const CACHE = "haber-masasi-v4";
+const SHELL = ["./", "index.html", "admin.html", "manifest.webmanifest", "icons/favicon.svg", "icons/icon-192.png", "icons/icon-512.png"];
 
 self.addEventListener("install", e => {
   e.waitUntil(caches.open(CACHE).then(c => c.addAll(SHELL)).then(() => self.skipWaiting()));
