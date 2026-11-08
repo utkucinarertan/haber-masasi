@@ -1,11 +1,11 @@
 name: Günlük haber baskısı
 
-# Günlük baskıyı şu an Claude masaüstündeki sabah görevi hazırlıyor (API anahtarı gerekmez).
-# ANTHROPIC_API_KEY secret'ı eklenirse aşağıdaki schedule satırlarını açın; baskı bilgisayardan
-# bağımsız olarak GitHub'da üretilir.
+# Her sabah 07:00'de (Türkiye) haberleri toplar, ücretsiz Google Gemini ile Türkçe özetler
+# ve docs/data altına yazar. Uygulamayı kullanan herkes bu baskıyı okur; kimsenin anahtar girmesi gerekmez.
+# Gerekli secret: GEMINI_API_KEY (Settings → Secrets and variables → Actions).
 on:
-  # schedule:
-  #   - cron: "0 5 * * *"   # 05:00 UTC = 08:00 Türkiye
+  schedule:
+    - cron: "0 4 * * *"   # 04:00 UTC = 07:00 Türkiye
   workflow_dispatch: {}   # Actions sekmesinden elle çalıştırmak için
 
 permissions:
@@ -25,12 +25,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Bağımlılıkları kur
-        run: pip install -r requirements.txt
-
       - name: Haberleri derle ve özetle
         env:
-          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scripts/build_news.py
 
       - name: Yeni baskıyı kaydet
@@ -38,5 +35,7 @@ jobs:
           git config user.name "haber-masasi-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A docs/data
-          git diff --cached --quiet || git commit -m "Günlük baskı $(TZ=Europe/Istanbul date +%F)"
-          git push
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Günlük baskı $(TZ=Europe/Istanbul date +%F)"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          exit 1

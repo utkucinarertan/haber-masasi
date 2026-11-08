@@ -1,14 +1,13 @@
 """Almanya & Türkiye Haber Masası - günlük baskı üretici.
 
-RSS kaynaklarından haberleri çeker, Claude API ile Türkçe özetleyip
-değerlendirir ve docs/data altına JSON olarak yazar.
+RSS kaynaklarından haberleri çeker, Türkçe özetleyip değerlendirir ve docs/data
+altına JSON olarak yazar. Özet için GEMINI_API_KEY (ücretsiz Google Gemini) varsa
+onu, yoksa ANTHROPIC_API_KEY (Claude) kullanır.
 
 Çalıştırma:
-  ANTHROPIC_API_KEY=... python scripts/build_news.py   # topla + özetle + yaz (GitHub Actions)
+  GEMINI_API_KEY=... python scripts/build_news.py      # topla + özetle + yaz (GitHub Actions, her sabah 07:00)
   python scripts/build_news.py --collect haberler.json  # yalnızca haberleri topla
   python scripts/build_news.py --publish baski.json     # hazır baskıyı yaz, commit et, gönder
-  python scripts/build_news.py --pool                   # docs/data/feeds.json haber havuzunu yenile
-                                                         # (uygulama "Güncelle"de bu havuzu Gemini ile özetler)
                                                          # (Claude masaüstü sabah görevi bu ikisini kullanır)
 """
 import html
@@ -17,6 +16,8 @@ import os
 import re
 import subprocess
 import sys
+import time
+import urllib.error
 import urllib.request
 import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
@@ -38,6 +39,7 @@ FEEDS = [
 ]
 
 MODEL = "claude-opus-5-5"
+GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.5-flash-lite"]  # ücretsiz katman; ilki olmazsa ikincisi
 
 ITEM_SCHEMA = {
     "type": "object",
@@ -140,7 +142,51 @@ def collect(since):
     return unique, failed
 
 
+def summarize_gemini(items):
+    key = os.environ["GEMINI_API_KEY"]
+    body = {
+        "systemInstruction": {"parts": [{"text": SYSTEM}]},
+        "contents": [{"role": "user", "parts": [{"text": "Son haberler (JSON):\n" + json.dumps(items, ensure_ascii=False)}]}],
+        "generationConfig": {"responseMimeType": "application/json", "responseJsonSchema": EDITION_SCHEMA, "temperature": 0.4},
+    }
+    last = None
+    for model in GEMINI_MODELS:
+        for attempt in range(3):
+            req = urllib.request.Request(
+                f"https://generativelanguage.googleapis.com/v1beta/models/{model}:generateContent",
+                data=json.dumps(body).encode(), method="POST",
+                headers={"Content-Type": "application/json", "x-goog-api-key": key})
+            try:
+                with urllib.request.urlopen(req, timeout=240) as r:
+                    data = json.load(r)
+            except urllib.error.HTTPError as e:
+                detail = e.read().decode(errors="replace")[:300]
+                last = f"{model}: HTTP {e.code} {detail}"
+                print(last, file=sys.stderr)
+                if e.code in (429, 500, 503) and attempt < 2:
+                    time.sleep(30 * (attempt + 1))
+                    continue
+                if e.code in (400, 401, 403) and "API key" in detail:
+                    raise SystemExit("GEMINI_API_KEY geçersiz.")
+                break  # sonraki modele geç
+            cand = (data.get("candidates") or [{}])[0]
+            if cand.get("finishReason") not in (None, "STOP"):
+                last = f"{model}: finishReason {cand.get('finishReason')}"
+                print(last, file=sys.stderr)
+                break
+            text = "".join(p.get("text", "") for p in cand.get("content", {}).get("parts", []))
+            try:
+                return json.loads(text)
+            except json.JSONDecodeError:
+                last = f"{model}: JSON çözülemedi"
+                print(last, file=sys.stderr)
+                break
+    raise SystemExit(f"Gemini özet üretemedi ({last}); bugünkü baskı üretilmedi.")
+
+
 def summarize(items):
+    if os.environ.get("GEMINI_API_KEY"):
+        return summarize_gemini(items)
     import anthropic  # yalnızca API ile özetlerken gerekir
 
     client = anthropic.Anthropic()
@@ -222,31 +268,8 @@ def publish(path):
           f"Türkiye {len(edition['turkey']['items'])} haber")
 
 
-def write_pool():
-    """Uygulamanın cihazda özetleyeceği haber havuzu; tarayıcı BBC'yi doğrudan okuyamadığı için gerekir."""
-    now = datetime.now(TR_TZ)
-    items, failed = collect(since=now - timedelta(hours=30))
-    items.sort(key=lambda it: it["time"], reverse=True)
-    for it in items:
-        it["description"] = it["description"][:400]
-    DATA.mkdir(parents=True, exist_ok=True)
-    (DATA / "feeds.json").write_text(json.dumps(
-        {"updatedAt": now.isoformat(timespec="minutes"), "failed": failed, "items": items},
-        ensure_ascii=False, separators=(",", ":")), encoding="utf-8")
-    # Cihazlardan gelen baskıları da 30 günle sınırla ve listeyi dosyalarla eşitle.
-    dates = sorted((p.stem for p in EDITIONS.glob("*.json")), reverse=True)
-    for old in dates[KEEP_DAYS:]:
-        (EDITIONS / f"{old}.json").unlink()
-    (DATA / "index.json").write_text(
-        json.dumps({"editions": dates[:KEEP_DAYS]}, ensure_ascii=False), encoding="utf-8")
-    print(f"Havuz: {len(items)} haber" + (f", alınamayan: {', '.join(failed)}" if failed else ""))
-
-
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
-    if sys.argv[1:] == ["--pool"]:
-        write_pool()
-        return
     if len(sys.argv) == 3 and sys.argv[1] == "--collect":
         items, failed = collect(since=datetime.now(TR_TZ) - timedelta(hours=30))
         Path(sys.argv[2]).write_text(json.dumps(items, ensure_ascii=False, indent=1), encoding="utf-8")
@@ -261,6 +284,7 @@ def main():
     if len(items) < 5:
         raise SystemExit(f"Yeterli haber alınamadı ({len(items)}); bugünkü baskı üretilmedi.")
     result = summarize(items)
+    check_edition(result)
     edition = {"date": now.date().isoformat(), "updatedAt": now.isoformat(timespec="minutes"), **result}
     write_edition(edition)
     note = f", alınamayan kaynak: {', '.join(failed)}" if failed else ""

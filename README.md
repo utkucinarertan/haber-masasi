@@ -1,77 +1,38 @@
 # Haber Masası: Almanya & Türkiye
 
-Her sabah Almanya ve Türkiye'den 5-10'ar önemli haberi Türkçe özetleyen, günün kısa değerlendirmesini yazan kişisel haber uygulaması. Claude uygulamasından bağımsız çalışır:
+Her sabah Almanya ve Türkiye'den 5-10'ar önemli haberi Türkçe özetleyen, günün kısa değerlendirmesini yazan haber uygulaması. Kullananların hiçbir hesap ya da anahtar girmesi gerekmez.
 
-- **Haber havuzu:** GitHub Actions saatte bir (06:40-23:40) tagesschau, DW Türkçe ve BBC Türkçe'den son haberleri `docs/data/feeds.json`'a yazar. Anahtar gerekmez.
-- **Güncelleme cihazda yapılır:** Uygulamada **Güncelle**'ye basınca ya da ayarlanan saatten (varsayılan 08:00) sonra uygulama açıkken bugünün baskısı yoksa, o an açık olan cihaz (telefon ya da bilgisayar) havuzu ücretsiz Google Gemini ile Türkçe özetler. Ayarlar'a girilen GitHub anahtarıyla baskıyı depoya yazar; böylece diğer cihazda da görünür.
-  - Bilgisayarda `masaustu-kisayolu.ps1` her sabah uygulamayı kendiliğinden açan bir Windows görevi de kurar.
-  - Claude masaüstündeki sabah görevi de `build_news.py --collect/--publish` ile baskı hazırlayabilir (isteğe bağlı).
-- **Uygulama:** `docs/` klasörü GitHub Pages'te yayınlanan, kurulabilir bir web uygulamasıdır (PWA). Bilgisayarda görev çubuğuna, telefonda ana ekrana eklenir. Son 30 günün baskıları saklanır, son açılan baskı internetsiz de görünür.
+- **Baskı:** GitHub Actions her sabah 07:00'de (Türkiye) tagesschau, DW Türkçe ve BBC Türkçe'den haberleri çeker, ücretsiz Google Gemini ile Türkçe özetler ve `docs/data` altına kaydeder. Bilgisayarın açık olması gerekmez.
+- **Uygulama:** `docs/` klasörü https://utkucinarertan.github.io/haber-masasi/ adresinde yayınlanır. Bilgisayarda görev çubuğuna, telefonda ana ekrana eklenir. **Yenile** en son baskıyı getirir. Son 30 günün baskıları saklanır.
 
-## Uygulama ayarları (her cihazda bir kez)
+## Yönetici kurulumu (bir kez, yalnızca depo sahibi)
 
-Uygulamada sağ üstteki dişli → **Ayarlar**:
-1. **Gemini API anahtarı:** https://aistudio.google.com/app/apikey → Google hesabıyla giriş → **Create API key** → kopyala, yapıştır. Ücretsizdir, kart istemez. (Ücretsiz katmanda Google gönderilen metni ürün geliştirmek için kullanabilir; burada yalnızca herkese açık haber metinleri gönderilir.)
-2. **GitHub anahtarı (paylaşım için):** https://github.com/settings/personal-access-tokens/new → ad: `haber-masasi`, süre: 1 yıl, **Repository access: Only select repositories → haber-masasi**, **Permissions → Contents: Read and write** → **Generate token** → kopyala, yapıştır.
-3. **Anahtarları dene** → **Kaydet**.
+1. https://aistudio.google.com/app/apikey → Google hesabıyla giriş → **Create API key** → kopyala. Ücretsizdir, kart istemez. (Ücretsiz katmanda Google gönderilen metni ürün geliştirmek için kullanabilir; gönderilen yalnızca herkese açık haber metinleridir.)
+2. https://github.com/utkucinarertan/haber-masasi/settings/secrets/actions/new → Name: `GEMINI_API_KEY`, Secret: anahtar → **Add secret**.
+3. **Actions → Günlük haber baskısı → Run workflow** ile ilk baskıyı hemen üretin.
 
-## Eski kurulum notları
+## Kullanıcılar için kurulum
 
-### 1. Claude API anahtarı (isteğe bağlı, yalnızca GitHub'da otomatik üretim için)
-1. https://console.anthropic.com adresinde hesap açın, **Billing** bölümünden en az 5 dolar kredi yükleyin.
-2. **API Keys** → **Create Key**. Anahtarı bir kenara kopyalayın (`sk-ant-...`).
+**Bilgisayar (Edge ya da Chrome):** adresi açın → adres çubuğundaki **Uygulamayı yükle** simgesi → **Yükle** → çıkan pencerede **Görev çubuğuna sabitle**.
+Alternatif (Windows): `powershell -ExecutionPolicy Bypass -File masaustu-kisayolu.ps1 -Url https://utkucinarertan.github.io/haber-masasi/`
 
-Günde tek çağrı yapılır; maliyet ayda yaklaşık 2-4 dolardır.
+**iPhone (Safari):** adresi Safari'de açın → **Paylaş** → **Ana Ekrana Ekle** → **Ekle**.
 
-### 2. GitHub deposu
-1. https://github.com adresinde ücretsiz hesap açın.
-2. **New repository** → ad: `haber-masasi`, **Public** seçin (GitHub Pages ücretsiz planda public depo ister), README eklemeden oluşturun.
-3. Bu klasörü depoya gönderin:
-   ```
-   git remote add origin https://github.com/KULLANICI/haber-masasi.git
-   git push -u origin main
-   ```
-4. Depoda **Settings → Secrets and variables → Actions → New repository secret**: ad `ANTHROPIC_API_KEY`, değer API anahtarınız.
-5. **Settings → Pages**: Source **Deploy from a branch**, Branch **main**, klasör **/docs** → Save.
-6. **Actions** sekmesi → **Günlük haber baskısı** → **Run workflow** ile ilk baskıyı hemen üretin.
-
-Birkaç dakika sonra uygulama `https://KULLANICI.github.io/haber-masasi/` adresinde açılır.
-
-## Bilgisayara kurulum (görev çubuğu)
-
-**Önerilen, Microsoft Edge ile:** adresi Edge'de açın → adres çubuğundaki **Uygulamayı yükle** simgesi (ya da **⋯ → Uygulamalar → Bu siteyi uygulama olarak yükle**) → **Yükle**. Çıkan pencerede **Görev çubuğuna sabitle**'yi işaretleyin. Chrome'da da adres çubuğundaki yükle simgesi aynı işi yapar.
-
-**Alternatif:** bu klasörde PowerShell açıp çalıştırın, sonra Başlat menüsünde **Haber Masası** → sağ tık → **Görev çubuğuna sabitle**:
-```
-powershell -ExecutionPolicy Bypass -File masaustu-kisayolu.ps1 -Url https://KULLANICI.github.io/haber-masasi/
-```
-
-## Telefona kurulum
-
-**Android (Chrome):** adresi açın → sağ üstte **⋮** → **Ana ekrana ekle** → **Yükle**. Uygulama çekmecesinde kendi simgesiyle görünür.
-
-**iPhone (Safari):** adresi Safari'de açın → alttaki **Paylaş** düğmesi → **Ana Ekrana Ekle** → **Ekle**.
-
-Uygulama tam ekran, adres çubuğu olmadan açılır. Yeni baskı her sabah kendiliğinden gelir; uygulamayı açtığınızda ya da **Yenile**'ye bastığınızda yüklenir.
+**Android (Chrome):** adresi açın → **⋮** → **Ana ekrana ekle** → **Yükle**.
 
 ## Yerelde deneme
 
 ```
 python -m http.server 8765 -d docs
-```
-Sonra http://localhost:8765 adresini açın. Yeni baskıyı yerelde üretmek için:
-```
-pip install -r requirements.txt
-set ANTHROPIC_API_KEY=sk-ant-...
-python scripts/build_news.py
+GEMINI_API_KEY=... python scripts/build_news.py
 ```
 
 ## Dosyalar
 
 | Yol | İşlevi |
 |---|---|
-| `scripts/build_news.py` | Haberleri çeker, Claude ile özetler, baskıyı yazar |
-| `.github/workflows/daily-news.yml` | Her sabah 08:00'de betiği çalıştırır ve sonucu kaydeder |
+| `scripts/build_news.py` | Haberleri çeker, Gemini (yoksa Claude) ile özetler, baskıyı yazar; `--collect` / `--publish` ile elle baskı da hazırlanabilir |
+| `.github/workflows/daily-news.yml` | Her sabah 07:00'de betiği çalıştırır ve sonucu kaydeder |
 | `docs/index.html` | Uygulamanın kendisi |
 | `docs/manifest.webmanifest`, `docs/sw.js` | Kurulabilirlik ve internetsiz açılış |
 | `docs/data/` | Günlük baskılar (`editions/YYYY-MM-DD.json`) ve liste (`index.json`) |
