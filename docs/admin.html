@@ -67,6 +67,9 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 .runs li{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .runs a{color:var(--accent)}
 .locked{opacity:.5;pointer-events:none}
+.lock-note{margin:0 0 16px;padding:12px 16px;border-radius:12px;border:1px solid #e3b341;background:#fff8e1;color:#5c4400;font-size:.92rem}
+.lock-note a{color:inherit;font-weight:700}
+@media (prefers-color-scheme:dark){.lock-note{background:#3a2f0b;color:#f5df9c;border-color:#7a6115}}
 </style>
 </head>
 <body>
@@ -89,6 +92,7 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
   <div class="msg" id="gh-msg"></div>
 </section>
 
+<div class="lock-note" id="lock-note"><b>Aşağıdaki bölümler kilitli.</b> Bu tarayıcı GitHub'a bağlı değil. Bağlantı her tarayıcıda ayrı tutulur; başka bir tarayıcıda bağlandıysanız burada da bir kez <a href="#c-conn">1. adımda</a> GitHub anahtarını yapıştırıp <b>Bağlan</b> deyin.</div>
 <div id="locked" class="locked">
 <section class="card" id="c-gemini">
   <h2><span class="n">2</span>Gemini anahtarı <span class="pill" id="gem-state">bilinmiyor</span></h2>
@@ -173,6 +177,7 @@ const unb64 = s => new TextDecoder().decode(Uint8Array.from(atob(s.replace(/\s/g
 const bytesB64 = u8 => { let bin = ""; u8.forEach(b => bin += String.fromCharCode(b)); return btoa(bin); };
 
 /* ---------- 1. Bağlantı ---------- */
+function setLocked(on){ $("#locked").classList.toggle("locked", on); $("#lock-note").hidden = !on; }
 async function connect(){
   say("#gh-msg", "", "Bağlanılıyor…");
   try {
@@ -180,16 +185,16 @@ async function connect(){
     if (!repo.permissions?.push) throw new Error("Bu GitHub anahtarıyla depoya yazılamıyor. Anahtarda haber-masasi deposunu ve Contents: Read and write iznini seçin.");
     store.set("admin-gh-token", token);
     $("#gh-forget").hidden = false; $("#gh-token").value = ""; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)";
-    $("#locked").classList.remove("locked");
+    setLocked(false);
     say("#gh-msg", "ok", "Bağlandı.");
     await Promise.all([loadConfig(), checkSecret(), loadRuns()]);
   } catch (e){
-    $("#locked").classList.add("locked");
+    setLocked(true);
     say("#gh-msg", "err", e.message);
   }
 }
 $("#gh-connect").onclick = () => { const v = $("#gh-token").value.trim(); if (v) token = v; if (!token) return say("#gh-msg", "err", "GitHub anahtarını yapıştırın."); connect(); };
-$("#gh-forget").onclick = () => { store.set("admin-gh-token", ""); token = ""; $("#gh-forget").hidden = true; $("#gh-token").placeholder = "github_pat_…"; $("#locked").classList.add("locked"); say("#gh-msg", "", "Anahtar bu cihazdan silindi."); };
+$("#gh-forget").onclick = () => { store.set("admin-gh-token", ""); token = ""; $("#gh-forget").hidden = true; $("#gh-token").placeholder = "github_pat_…"; setLocked(true); say("#gh-msg", "", "Anahtar bu cihazdan silindi."); };
 
 /* ---------- 2. Gemini anahtarı ---------- */
 async function checkSecret(){
