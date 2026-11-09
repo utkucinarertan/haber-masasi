@@ -144,6 +144,7 @@ Your task:
 - For every selected story write, in each of the languages below, a short clear headline (title), a 2-3 sentence summary and a one- or two-word category (e.g. Politics, Economy, Security, Society, Technology, Justice, Environment, Culture - translated). Use only facts stated in the source; never invent anything. All languages must describe the same story with the same facts.
 - importance: 3 very important, 2 important, 1 general. At most 3 stories may get 3. Order the list by importance.
 - source, url and time: copy them unchanged from the input item (use the main item when merging).
+- Official titles, offices and institutions must use the established equivalent in each language, never a literal or generic substitute. Germany's head of government is the Federal Chancellor: Turkish "Şansölye" (Başbakan is wrong), English "Chancellor", German "Bundeskanzler"; the German head of state is the Federal President (Turkish "Cumhurbaşkanı"). Likewise use each language's standard names for ministries, parliaments (Bundestag, TBMM), parties and courts.
 - overview: for each language, a 3-4 sentence paragraph assessing the day's overall picture for {country_name}, explaining how the stories connect and why they matter.
 
 Languages (use the language codes as JSON keys):
