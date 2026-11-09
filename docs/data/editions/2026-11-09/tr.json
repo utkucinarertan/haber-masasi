@@ -1,0 +1,127 @@
+{
+ "date": "2026-11-09",
+ "updatedAt": "2026-11-09T11:09+03:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "Almanya'da siyaset gündemi, Başbakan Friedrich Merz'in CSU'lu Ilse Aigner'i ülkenin ilk kadın cumhurbaşkanı adayı olarak önermesiyle hareketlendi. 9 Kasım anma gününde demokrasiye sahip çıkma çağrıları ve halkın demokratik işleyişe dair memnuniyetsizliğini ortaya koyan veriler öne çıkarken, koalisyon ortakları arasında plastik vergisi konusundaki anlaşmazlık sürüyor. Aynı zamanda meclis binası önünde yaşanan bayrak krizi güvenlik birimlerini alarma geçirirken, eğitim fonlarının kullanımı ve liberal FDP'nin krizden çıkış arayışları da iç politikanın başlıca başlıklarını oluşturdu.",
+   "items": [
+    {
+     "title": "Kanzler Merz Cumhurbaşkanlığı İçin Ilse Aigner'i Önerdi",
+     "summary": "Almanya Başbakanı Friedrich Merz, uzun süren bekleyişin ardından CSU'lu Ilse Aigner'i cumhurbaşkanlığı için aday gösterme kararı aldı. İkilinin resmi açıklamayı bugün kamuoyuyla paylaşması bekleniyor. Aigner seçilmesi halinde Almanya'nın ilk kadın cumhurbaşkanı unvanını alacak.",
+     "category": "Politika",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-bundespraesidentin-100.html",
+     "time": "2026-11-09T04:34:40+01:00"
+    },
+    {
+     "title": "9 Kasım Anması ve Demokrasi Tartışmaları",
+     "summary": "Almanya'da 9 Kasım anma gününde SED Kurbanları Temsilcisi Zupke, Doğu Almanya mirasının siyasi çıkarlar için çarpıtılmaması konusunda uyardı. Başbakan Merz demokrasiyi koruma çağrısı yaparken, yayımlanan güncel bir ARD anketi halkın yalnızca üçte birinin demokrasinin iyi işlediğine inandığını ortaya koydu.",
+     "category": "Toplum",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/november-gedenken-100.html",
+     "time": "2026-11-09T08:19:35+01:00"
+    },
+    {
+     "title": "Birlik Partileri Plastik Vergisine Karşı Çıktı",
+     "summary": "CDU/CSU Meclis Grubu Başkanı Thorsten Frei, planlanan plastik vergisine net bir dille karşı çıkarak uygulamanın hem ekonomik hem de ekolojik açıdan yanlış olduğunu savundu. Buna karşılık SPD Meclis Grubu Başkanı Miersch, konuya ilişkin müzakerelerin halen devam ettiğine dikkat çekti.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/plastiksteuer-absage-100.html",
+     "time": "2026-11-08T21:38:04+01:00"
+    },
+    {
+     "title": "Reichstag Önünde Bayrak Eylemi: Soruşturma Başlatıldı",
+     "summary": "Berlin'deki Federal Meclis binasının önünde bulunan yaklaşık 30 metrelik direğe tırmanan bir kişi, Almanya bayrağını indirerek yerine Filistin bayrağı astı. 22 yaşındaki şüphelinin gözaltına alınmasının ardından devlet güvenlik birimleri olayla ilgili soruşturma başlattı.",
+     "category": "Güvenlik",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/reichstag-palaestina-flagge-100.html",
+     "time": "2026-11-08T15:05:08+01:00"
+    },
+    {
+     "title": "Krizdeki FDP Dijital Kurultayda Güç Topluyor",
+     "summary": "Üst üste gelen seçim yenilgilerinin ardından kriz yaşayan Hür Demokrat Parti (FDP), dijital ortamda federal kurultayını gerçekleştirdi. Genel Başkan Wolfgang Kubicki, yaklaşan eyalet seçimleri öncesinde partisini hükümete karşı güçlü bir denge unsuru olarak konumlandırmaya çalıştı.",
+     "category": "Politika",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/fdp-bundesparteitag-122.html",
+     "time": "2026-11-08T19:53:14+01:00"
+    },
+    {
+     "title": "Eğitim Altyapısı İçin Ayrılan Özel Fonlar Kullanılamadı",
+     "summary": "Almanya'da federal hükümetin özel fonundan okullar, kreşler ve bilimsel araştırmalar için ayrılan kaynağın şu ana kadar sadece çok küçük bir kısmının harcandığı ortaya çıktı. Yaşanan bu gecikme Yeşiller partisinin sert tepkisine yol açtı.",
+     "category": "Politika",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/sondervermoegen-bildungsinfrastruktur-100.html",
+     "time": "2026-11-08T04:28:25+01:00"
+    },
+    {
+     "title": "Almanya'da Binaların Önemli Kısmı Doğal Afetlere Karşı Sigortasız",
+     "summary": "Şiddetli yağışlar ve sellerin konutlarda yarattığı yüksek maliyetli hasarlara rağmen, Almanya'daki binaların yalnızca yaklaşık yarısının doğal afet sigortasına sahip olduğu bildirildi. Uzmanlar, artan risk karşısında acil yasal düzenleme çağrısında bulunuyor.",
+     "category": "Ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/klimaschaeden-versicherungen-100.html",
+     "time": "2026-11-08T16:28:00+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "overview": "Türkiye gündeminde diplomatik açılımlar, bölgesel güvenlik adımları ve iç piyasadaki denetim süreçleri öne çıkıyor. Cumhurbaşkanı Erdoğan'ın Bakü ziyaretiyle Azerbaycan ile yaşanan son pürüzler giderilirken, Irak'taki Başika üssünün devri için resmi sürecin başlatılması Ankara'nın bölgesel stratejisindeki değişime işaret ediyor. Antalya'da başlayan COP31 zirvesi Türkiye'nin küresel platformdaki görünürlüğünü artırırken, sermaye piyasalarını sarsan fon soruşturmasındaki üst düzey tutuklamalar ile sahte ilaç iddiaları kurumsal denetim ihtiyacını gözler önüne seriyor.",
+   "items": [
+    {
+     "title": "Erdoğan ve Aliyev'den gerilimin ardından birlik mesajı",
+     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, haftalardır süren ikili gerilimin ardından Azerbaycan'a giderek Cumhurbaşkanı İlham Aliyev ile bir araya geldi. İki lider düzenledikleri ortak basın toplantısında, iki ülke arasındaki ilişkileri zayıflatmak isteyen girişimlere karşı güçlü bir birlik ve dayanışma mesajı verdi.",
+     "category": "Dış Politika",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/gerilimin-ardından-erdoğan-ve-aliyev-den-birlik-mesajı/a-79890995",
+     "time": "2026-11-08T13:37:00+00:00"
+    },
+    {
+     "title": "Türkiye ve Irak, Başika üssünün devir sürecini başlattı",
+     "summary": "Türkiye Cumhuriyeti ve Irak Cumhuriyeti ortak bir bildiri yayımlayarak Türk Silahlı Kuvvetleri'nin konuşlu olduğu Başika askeri üssünün Irak güçlerine devredilmesi sürecinin başladığını duyurdu. Tahliye adımı, eylül ayı sonunda taraflar arasında varılan mutabakat çerçevesinde hayata geçiriliyor.",
+     "category": "Güvenlik",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cxnv04p1dvgpo",
+     "time": "2026-11-08T15:42:33+00:00"
+    },
+    {
+     "title": "COP31 iklim zirvesi Antalya'da başladı",
+     "summary": "Birleşmiş Milletler İklim Değişikliği Çerçeve Sözleşmesi 31. Taraflar Konferansı (COP31), Türkiye ve Avustralya eş başkanlığında Antalya'da çalışmalarına başladı. Zirvenin eylem gündeminde elektrifikasyon ve emisyon azaltımı hedefleri öne çıkarken, sivil toplum örgütleri Türkiye'deki ifade ve toplanma özgürlüğü baskılarının da delegasyonlarca gündeme getirilmesini talep ediyor.",
+     "category": "Çevre",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cw073jxd20jro",
+     "time": "2026-11-08T08:27:16+00:00"
+    },
+    {
+     "title": "Fon soruşturmasında BDDK daire başkanı tutuklandı",
+     "summary": "Borsa İstanbul'da sert değer kayıplarına yol açan fon işlemlerine yönelik adli soruşturmada Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) 3. Daire Başkanı Bilal Soysal tutuklandı. Son kararla birlikte kriz kapsamında tutuklanan zanlı sayısı 118'e yükseldi.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/fon-soruşturması-bddk-daire-başkanı-tutuklandı-tutuklu-sayısı-118-e-yükseldi/a-79889218",
+     "time": "2026-11-08T08:04:00+00:00"
+    },
+    {
+     "title": "Tarihi geçmiş kanser ilaçları iddiaları denetimleri tartışmaya açtı",
+     "summary": "Kullanım süresi dolmuş kanser ilaçlarının yeniden piyasaya sürüldüğüne dair iddiaların ardından uzmanlar sağlık denetim mekanizmalarını mercek altına aldı. Sağlık uzmanları, mevcut kontrol süreçlerinin aksaması durumunda kanser hastalarının hayati risklerle karşı karşıya kalabileceği uyarısında bulunuyor.",
+     "category": "Sağlık",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/tarihi-geçmiş-kanser-ilaçları-denetim-nasıl-işliyor/a-79875607",
+     "time": "2026-11-08T07:13:00+00:00"
+    }
+   ]
+  }
+ ]
+}
