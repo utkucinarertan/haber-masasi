@@ -1,15 +1,46 @@
 {
  "time": "07:00",
- "languages": ["tr", "en", "de"],
+ "languages": [
+  "tr",
+  "en",
+  "de"
+ ],
  "countries": [
-  {"code": "de", "name": "Germany", "feeds": [
-   {"name": "tagesschau", "url": "https://www.tagesschau.de/xml/rss2"},
-   {"name": "tagesschau", "url": "https://www.tagesschau.de/inland/index~rss2.xml"},
-   {"name": "DW Türkçe", "url": "https://rss.dw.com/rdf/rss-tur-all"}
-  ]},
-  {"code": "tr", "name": "Turkey", "feeds": [
-   {"name": "BBC Türkçe", "url": "https://feeds.bbci.co.uk/turkce/rss.xml"},
-   {"name": "DW Türkçe", "url": "https://rss.dw.com/rdf/rss-tur-all"}
-  ]}
+  {
+   "code": "de",
+   "name": "Germany",
+   "feeds": [
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/xml/rss2"
+    },
+    {
+     "name": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/index~rss2.xml"
+    },
+    {
+     "name": "DW Türkçe",
+     "url": "https://rss.dw.com/rdf/rss-tur-all"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "name": "Türkiye",
+   "feeds": [
+    {
+     "name": "BBC Türkçe",
+     "url": "https://feeds.bbci.co.uk/turkce/rss.xml"
+    },
+    {
+     "name": "DW Türkçe",
+     "url": "https://rss.dw.com/rdf/rss-tur-all"
+    },
+    {
+     "name": "Sozcu",
+     "url": "https://www.sozcu.com.tr/feeds-rss-category-sozcu"
+    }
+   ]
+  }
  ]
 }
