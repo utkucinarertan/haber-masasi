@@ -8,7 +8,7 @@ on:
   schedule:
     - cron: "2 * * * *"
   push:
-    paths: ["docs/data/config.json"]   # ayarlar değişince bugünün baskısı yoksa hemen dene
+    paths: ["docs/data/config.json", "scripts/build_news.py", ".github/workflows/daily-news.yml"]   # ayar ya da kod değişince hemen çalış (baskı yalnızca saati gelmişse)
   workflow_dispatch:      # yönetim sayfasındaki "Şimdi hazırla" düğmesi (saate bakmadan üretir)
     inputs:
       flash_only:
