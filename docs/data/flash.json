@@ -1,8 +1,26 @@
 {
  "since": "2026-11-09T07:00+03:00",
- "updatedAt": "2026-11-10T03:40+03:00",
+ "updatedAt": "2026-11-10T04:53+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-10T02:28:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss",
+    "text": {
+     "tr": "FBI, Nvidia CEO'su Jensen Huang ile ilgili iddialar ve olası bir Çinli casus hakkında inceleme başlatıldığını bildirdi.",
+     "de": "Das FBI ermittelt im Fall des Nvidia-Chefs Jensen Huang und einer mutmaßlichen chinesischen Spionin."
+    }
+   },
+   {
+    "time": "2026-11-10T02:13:48+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
+    "text": {
+     "tr": "Ukrayna, ABD ve Rusya'nın katılımıyla Abu Dabi'de başlayan üçlü görüşmelerden barış konusunda beklentilerini düşük tutuyor.",
+     "de": "In Abu Dhabi haben trilaterale Verhandlungen zwischen der Ukraine, den USA und Russland mit gedämpften Erwartungen begonnen."
+    }
+   },
    {
     "time": "2026-11-10T01:32:00+01:00",
     "source": "Der Spiegel",
@@ -29,18 +47,36 @@
      "tr": "Berlin'de beş gündür kayıp olan 13 yaşındaki bir kız çocuğu, Brandenburg'da sağ olarak bulundu.",
      "de": "Eine seit fünf Tagen vermisste 13-Jährige aus Berlin ist in Brandenburg lebend aufgefunden worden."
     }
-   },
-   {
-    "time": "2026-11-09T17:09:03+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
-    "text": {
-     "tr": "Vodafone, Almanya'da yapay zekaya ağırlık vererek yaklaşık 2 bin 300 çalışanını işten çıkaracağını duyurdu.",
-     "de": "Vodafone plant in Deutschland den Abbau von rund 2.300 Arbeitsplätzen und will verstärkt auf Künstliche Intelligenz setzen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-10T04:40:32+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/4-dakikada-bir-esnaf-kepenk-indirdi-p379712",
+    "text": {
+     "tr": "Türkiye'de son 9 ayda 93 bin 95 esnaf iş yerini kapatarak kepenk indirdi.",
+     "de": "In der Türkei haben in den letzten neun Monaten insgesamt 93.955 Gewerbetreibende ihre Geschäfte geschlossen."
+    }
+   },
+   {
+    "time": "2026-11-10T04:20:07+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/er-gaziler-ankara-ya-geri-dondu-p379711",
+    "text": {
+     "tr": "Özlük hakları için Ankara'da eylem yapan şehit aileleri ve er gaziler verilen sözlerin ardından geri döndü.",
+     "de": "Angehörige von Gefallenen und verletzte Soldaten sind nach Zusagen von ihrem Protest in Ankara zurückgekehrt."
+    }
+   },
+   {
+    "time": "2026-11-10T03:54:33+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/trumptan-iran-aciklamasi-catismanin-sona-ermesi-icin-olumlu-ivme-goruyoruz-p379710",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, İran ile yaşanan çatışmaların sona ermesi yönünde olumlu bir ivme gördüklerini belirtti.",
+     "de": "US-Präsident Donald Trump erklärte nach einem Treffen, man sehe eine positive Dynamik zur Beendigung des Iran-Konflikts."
+    }
+   },
    {
     "time": "2026-11-10T02:15:44+03:00",
     "source": "Sozcu",
@@ -58,15 +94,6 @@
      "tr": "Birleşmiş Milletler İklim Değişikliği Konferansı COP31, Antalya'da başladı.",
      "de": "Die UN-Klimakonferenz COP31 ist im türkischen Antalya eröffnet worden."
     }
-   },
-   {
-    "time": "2026-11-09T20:19:16+03:00",
-    "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641",
-    "text": {
-     "tr": "İstanbul'da yürütülen fon soruşturmasında OMG Capital Advisors Yönetim Kurulu Başkanı Ömer Murat Gülkan gözaltına alındı.",
-     "de": "Im Rahmen von Ermittlungen zu Investmentfonds wurde OMG-Capital-Advisors-Chef Ömer Murat Gülkan in Istanbul festgenommen."
-    }
    }
   ]
  },
@@ -78,18 +105,25 @@
   "https://www.bbc.com/turkce/articles/cqn7372n31ejo",
   "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo",
   "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo",
+  "https://www.dw.com/tr/abd-çin-yapay-zeka-rekabeti-amerikan-teknoloji-devi-nvidia-yı-sarsan-casusluk-iddiası/a-79899338",
   "https://www.dw.com/tr/almanya-dâhil-9-ab-ülkesi-için-sera-gazı-uyarısı/a-79902257",
+  "https://www.dw.com/tr/almanya-ya-suriye-den-göç-yüzde-40-6-azaldı-ayrılanlar-gelenlerle-aynı-düzeyde/a-79898939",
   "https://www.dw.com/tr/avrupa-da-marketler-hacklendi-türkiye-de-risk-ne/a-79900913",
   "https://www.dw.com/tr/başbakan-merz-ten-kadın-cumhurbaşkanı-adayına-tam-destek-en-iyi-koşullara-sahip/a-79900886",
+  "https://www.dw.com/tr/cop31-başladı-elektrikleşme-önde-fosilden-çıkış-nerede/a-79876535",
   "https://www.dw.com/tr/erdoğan-trump-a-iran-la-ilgili-çekincemizi-anlattım/a-79899648",
   "https://www.dw.com/tr/fransa-buzdolabı-saldırılarından-iran-ı-sorumlu-tuttu/a-79904747",
   "https://www.dw.com/tr/girit-e-ulaşmaya-çalışan-20-göçmen-öldü/a-79900464",
   "https://www.dw.com/tr/gs-amedspor-maçı-sarı-torba-tartışmasının-perde-arkası-ne/a-79900351",
+  "https://www.dw.com/tr/israil-in-başbakan-adayı-gadi-eisenkot-un-türkiye-bakışı-ne/a-79778747",
   "https://www.dw.com/tr/izmir-aliağa-habaş-demir-çelik-fabrikasında-patlama/a-79898945",
+  "https://www.dw.com/tr/krakow-saldırısının-faili-hastanede-öldü-soruşturma-sürüyor/a-79889755",
   "https://www.dw.com/tr/kıbrıs-ta-iki-yeni-sınır-kapısı-açılıyor/a-79904707",
   "https://www.dw.com/tr/rusya-abd-arabuluculuğunda-abu-dabi-de-yapılacak-ukrayna-müzakereleri-öncesinde-avrupa-yı-hedef-aldı-savaşa-hazırlanıyorlar/a-79902777",
   "https://www.sozcu.com.tr/2-portekizli-tutuklanmisti-kavgada-yaralanan-genc-hayatini-kaybetti-p379699",
   "https://www.sozcu.com.tr/4-bin-sut-kutusunu-biriktirip-kendine-iki-odali-ev-yapti-p379662",
+  "https://www.sozcu.com.tr/4-dakikada-bir-esnaf-kepenk-indirdi-p379712",
+  "https://www.sozcu.com.tr/5-tegmene-yargi-tacizi-bitmiyor-p379703",
   "https://www.sozcu.com.tr/7-ilde-yasa-disi-bahis-operasyonu-14-supheli-tutuklandi-p379632",
   "https://www.sozcu.com.tr/ankara-trafik-yol-kapali-10-kasim-2026-p379652",
   "https://www.sozcu.com.tr/antalya-cop31-unlu-isimler-katildi-p379663",
@@ -99,8 +133,11 @@
   "https://www.sozcu.com.tr/butce-gorusmelerinde-imamoglu-kavgasi-p379639",
   "https://www.sozcu.com.tr/ceyda-ela-karabiyik-in-olumune-neden-olan-surucuye-6-yila-kadar-hapis-talebi-p379629",
   "https://www.sozcu.com.tr/cin-in-savas-ucaklarina-talip-oldular-20-adet-birden-alip-taksitlerle-odeyecekler-p379682",
+  "https://www.sozcu.com.tr/cop31-iklim-krizinde-yeni-bir-caga-giriyoruz-p379705",
+  "https://www.sozcu.com.tr/deniz-manzarali-yuzlerce-ev-bos-kaldi-5-bin-tl-ye-bile-kiraci-bulamiyorlar-p379621",
   "https://www.sozcu.com.tr/dev-cukuru-suyla-doldurmaya-basladilar-kisin-butun-sehri-isitacak-p379631",
   "https://www.sozcu.com.tr/ekrem-imamoglu-ndan-aliaga-daki-fabrika-faciasina-tepki-p379696",
+  "https://www.sozcu.com.tr/er-gaziler-ankara-ya-geri-dondu-p379711",
   "https://www.sozcu.com.tr/erdogan-dan-kabine-sonrasi-aciklamalar-p379656",
   "https://www.sozcu.com.tr/eski-dolabin-icinden-servet-cikti-degeri-tam-150-milyon-tl-p379644",
   "https://www.sozcu.com.tr/feti-yildiz-fon-vurgunu-cikisi-p379655",
@@ -108,6 +145,7 @@
   "https://www.sozcu.com.tr/haluk-bilginer-den-cok-konusulacak-aciklama-p379657",
   "https://www.sozcu.com.tr/ibb-meclisi-nde-yeni-parti-grubu-kuruldu-p379697",
   "https://www.sozcu.com.tr/iran-da-kapali-kapilar-ardinda-farkli-bir-yasam-kadinlar-spor-salonlarinda-boyle-antrenman-yapiyor-p379672",
+  "https://www.sozcu.com.tr/iste-butlanin-korktugu-mutlak-demokrasi-p379708",
   "https://www.sozcu.com.tr/kalbimizdesin-p379701",
   "https://www.sozcu.com.tr/kavsagi-hamburgere-donusturecekler-ortasindan-yol-gececek-p379658",
   "https://www.sozcu.com.tr/kedinin-bitmek-bilmeyen-miyavlamasi-felaketi-onledi-4-kisilik-aile-olumden-dondu-p379668",
@@ -126,11 +164,14 @@
   "https://www.sozcu.com.tr/spk-dan-fon-dolandiriciligi-uyarisi-p379649",
   "https://www.sozcu.com.tr/tarlalarin-uzerini-mor-panellerle-kaplamaya-basladilar-p379700",
   "https://www.sozcu.com.tr/tren-istasyonundaki-sorunu-cozmek-icin-kecileri-devreye-soktular-p379654",
+  "https://www.sozcu.com.tr/trumptan-iran-aciklamasi-catismanin-sona-ermesi-icin-olumlu-ivme-goruyoruz-p379710",
   "https://www.sozcu.com.tr/turkiye-de-baslayan-cop31-de-korkutan-uyari-2027-de-cok-daha-kotusu-yasanabilir-p379635",
+  "https://www.sozcu.com.tr/unlu-oyuncu-safak-karali-son-yolculuguna-ugurlandi-cenazede-tek-unlu-vardi-p379622",
   "https://www.sozcu.com.tr/vedat-isikhan-izmir-patlama-nedenini-acikladi-p379667",
   "https://www.sozcu.com.tr/viktor-orban-in-kardesi-gozaltina-alindi-p379643",
   "https://www.sozcu.com.tr/yollara-fotokatalitik-asfalt-sermeye-basladilar-asfalt-artik-baska-bir-amaca-da-hizmet-edecek-p379626",
   "https://www.sozcu.com.tr/zehirli-deniz-canlilari-sahillere-vurmaya-basladi-p379648",
+  "https://www.spiegel.de/ausland/nvidia-fbi-ermittelt-im-fall-jensen-huang-und-mutmasslicher-china-spionin-a-4380e0db-f7a1-496d-8760-f447d120d982#ref=rss",
   "https://www.spiegel.de/ausland/polen-wer-war-der-moerder-von-krakau-a-59103b51-78fe-4304-9fa3-4a73839ef06d#ref=rss",
   "https://www.spiegel.de/kultur/musik/100-jahre-john-coltrane-wie-joe-lovano-und-melissa-aldana-in-der-elbphilharmonie-dem-uebervater-des-jazz-huldigen-a-35670ced-3820-4501-b799-ad61059e0bff#ref=rss",
   "https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss",
@@ -138,6 +179,7 @@
   "https://www.spiegel.de/panorama/gesellschaft/papst-leo-xiv-in-argentinien-zweieinhalb-millionen-bei-messe-in-buenos-aires-a-0dbe9b67-b743-45ab-81f8-e58b7633ce20#ref=rss",
   "https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss",
   "https://www.spiegel.de/panorama/russell-brand-was-sie-ueber-das-urteil-gegen-den-britischen-schauspieler-und-entertainer-wissen-muessen-a-9a3d6f9a-22d6-48be-b071-78b6b5fb202e#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/hubert-aiwanger-ist-tot-lebensgefaehrtin-tanja-schweiger-spricht-ueber-seinen-tod-a-3621a5c9-07b2-4cb3-8727-ca70f293605f#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss",
   "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
   "https://www.spiegel.de/reise/staedte/miniatur-wunderland-suedamerika-abschnitt-mit-amazonas-atacama-und-anden-eroeffnet-a-fe9aaec8-73a4-4afb-a5ec-e3e6d2ebed4e#ref=rss",
@@ -147,14 +189,19 @@
   "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
   "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+  "https://www.tagesschau.de/ausland/amerika/usa-trump-pressesprecher-dana-white-100.html",
   "https://www.tagesschau.de/ausland/cop-136.html",
+  "https://www.tagesschau.de/ausland/europa/bootsunglueck-kreta-100.html",
+  "https://www.tagesschau.de/ausland/europa/cop-gastgeber-turkei-100.html",
   "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-102.html",
   "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
   "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-lfi-wahlkampf-100.html",
   "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
+  "https://www.tagesschau.de/ausland/europa/krakau-todesschuetze-tot-100.html",
   "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
   "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html",
   "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
+  "https://www.tagesschau.de/ausland/europa/ukraine-erwartungen-gespraeche-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
   "https://www.tagesschau.de/ausland/russell-brand-strafmass-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/novemberpogrome-jahrestag-100.html",
@@ -162,6 +209,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/diskussion-plastiksteuer-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
@@ -170,6 +218,7 @@
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
-  "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html"
+  "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+  "https://www.tagesschau.de/wirtschaft/weltwirtschaft/oelpreise-gesunken-100.html"
  ]
 }
