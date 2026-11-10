@@ -2,13 +2,19 @@ name: Günlük haber baskısı
 
 # Saatte bir çalışır; betik yalnızca yönetim sayfasında ayarlanan saatten sonra ve o günün baskısı
 # henüz yoksa üretir (docs/data/config.json → time). Ülkeler, kaynaklar ve diller de oradan gelir.
+# Her çalıştırmada ayrıca son dakika listesi (docs/data/flash.json) güncellenir.
 # Haberler ücretsiz Google Gemini ile özetlenir. Gerekli secret: GEMINI_API_KEY (yönetim sayfasından kaydedilir).
 on:
   schedule:
     - cron: "2 * * * *"
   push:
     paths: ["docs/data/config.json"]   # ayarlar değişince bugünün baskısı yoksa hemen dene
-  workflow_dispatch: {}   # yönetim sayfasındaki "Şimdi hazırla" düğmesi (saate bakmadan üretir)
+  workflow_dispatch:      # yönetim sayfasındaki "Şimdi hazırla" düğmesi (saate bakmadan üretir)
+    inputs:
+      flash_only:
+        description: "Yalnızca son dakikayı güncelle (baskıya dokunma)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -30,7 +36,7 @@ jobs:
       - name: Haberleri derle ve özetle
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/build_news.py
+        run: python scripts/build_news.py ${{ inputs.flash_only && '--flash-only' || '' }}
 
       - name: Yeni baskıyı kaydet
         run: |
@@ -38,6 +44,6 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add -A docs/data
           git diff --cached --quiet && exit 0
-          git commit -q -m "Günlük baskı $(TZ=Europe/Istanbul date +%F)"
+          git commit -q -m "Haber güncellemesi $(TZ=Europe/Istanbul date '+%F %H:%M')"
           for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
           exit 1
