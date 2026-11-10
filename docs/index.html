@@ -91,12 +91,10 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 .flash{border:1px solid var(--line);border-left:3px solid var(--live);background:var(--surface);border-radius:12px;padding:12px 16px 12px 14px}
 .flash h3{display:flex;align-items:center;gap:8px;margin:0 0 8px;font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;color:var(--live);font-weight:800}
 .flash h3 .live{width:8px;height:8px;border-radius:50%;background:var(--live);animation:pulse 1.8s ease-in-out infinite}
-.flash h3 .upd{margin-left:auto;text-transform:none;letter-spacing:0;color:var(--muted);font-weight:500;font-size:.75rem}
 @keyframes pulse{50%{opacity:.25}}
 @media (prefers-reduced-motion:reduce){.flash h3 .live{animation:none}}
 .flash ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:7px;font-family:var(--f-body);font-size:.95rem;line-height:1.45}
 .flash li::marker{color:var(--live)}
-.flash .tm{font-variant-numeric:tabular-nums;color:var(--muted);font-size:.8rem;font-weight:700;margin-right:6px}
 .flash li a{color:var(--muted);font-size:.78rem;text-decoration:none;white-space:nowrap;margin-left:4px}
 .flash li a:hover{color:var(--accent)}
 .flash .empty{margin:0;font-size:.88rem;color:var(--muted)}
@@ -181,7 +179,7 @@ const T = {
       onlyLang:l => `Bu gün için haberler yalnızca ${l} olarak mevcut.`, noCountry:"Bu ülke için bu gün haber hazırlanmadı.",
       foot:"Haberler seçilen kaynaklardan derlenir; özet ve değerlendirmeler her sabah yapay zekâ ile hazırlanır. Ayrıntı için haberin kaynağına gidin.",
       admin:"Yönetim", locale:"tr-TR",
-      flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:h => `${h}'den beri yeni haber yok; liste saat başı güncellenir.`,
+      flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste saat başı güncellenir.",
       flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
   en:{brand:"News Desk", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
       overview:"The day at a glance", stories:n => n + (n === 1 ? " story" : " stories"), imp:{3:"Top story",2:"Important",1:"In brief"},
@@ -194,7 +192,7 @@ const T = {
       onlyLang:l => `For this day the news is only available in ${l}.`, noCountry:"No stories were prepared for this country on this day.",
       foot:"Stories are gathered from selected sources; summaries and analysis are written by AI every morning. Follow the link to read the full source.",
       admin:"Admin", locale:"en-GB",
-      flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:h => `No new stories since ${h}; the list updates every hour.`,
+      flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every hour.",
       flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
   de:{brand:"Nachrichtenpult", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
       overview:"Der Tag im Überblick", stories:n => n + (n === 1 ? " Meldung" : " Meldungen"), imp:{3:"Sehr wichtig",2:"Wichtig",1:"Kurz notiert"},
@@ -207,7 +205,7 @@ const T = {
       onlyLang:l => `Für diesen Tag gibt es die Nachrichten nur auf ${l}.`, noCountry:"Für dieses Land wurden an diesem Tag keine Meldungen erstellt.",
       foot:"Die Meldungen stammen aus ausgewählten Quellen; Zusammenfassungen und Einordnung erstellt jeden Morgen eine KI. Den vollständigen Text finden Sie bei der Quelle.",
       admin:"Verwaltung", locale:"de-DE",
-      flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:h => `Seit ${h} Uhr keine neuen Meldungen; die Liste wird stündlich aktualisiert.`,
+      flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:"Noch keine neuen Meldungen; die Liste wird stündlich aktualisiert.",
       flashUpd:h => `Aktualisiert ${h}`, more:n => `Alle anzeigen (${n})`, less:"Weniger anzeigen"},
 };
 const NATIVE = {tr:"Türkçe", en:"English", de:"Deutsch"};
@@ -388,14 +386,13 @@ function renderFlash(code){
   if (!flash || !current || current.date !== index[0]?.date) return null;
   const all = (flash.countries?.[code] || []).filter(x => x.text && (x.text[lang] || x.text.tr));
   const box = el("div", "flash");
-  const h = el("h3"); h.append(el("span", "live"), document.createTextNode(`${t().flash} · ${t().flashSince(fmtClock(flash.since))}`));
-  if (flash.updatedAt) h.append(el("span", "upd", t().flashUpd(fmtClock(flash.updatedAt))));
+  const h = el("h3"); h.append(el("span", "live"), document.createTextNode(t().flash));
   box.append(h);
-  if (!all.length){ box.append(el("p", "empty", t().flashEmpty(fmtClock(flash.since)))); return box; }
+  if (!all.length){ box.append(el("p", "empty", t().flashEmpty)); return box; }
   const ul = el("ul");
   all.slice(0, FLASH_SHOW).forEach(x => {
     const li = el("li");
-    li.append(el("span", "tm", fmtClock(x.time)), document.createTextNode(x.text[lang] || x.text.tr));
+    li.append(document.createTextNode(x.text[lang] || x.text.tr));
     if (x.url && /^https:\/\//.test(x.url)){
       const a = el("a", null, (x.source || "") + " ↗"); a.href = x.url; a.target = "_blank"; a.rel = "noopener";
       li.append(document.createTextNode(" "), a);
