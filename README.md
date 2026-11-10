@@ -5,6 +5,7 @@ Seçilen ülkelerin günün önemli haberlerini her sabah Türkçe, İngilizce v
 - **Kullanıcılar** hiçbir hesap ya da anahtar girmez. Uygulamayı açar, bir dil ve istediği ülkeleri (birden fazla) seçer. **Yenile** en son baskıyı getirir.
 - **Yönetici** `admin.html` sayfasından bir kez GitHub'a bağlanır ve Gemini anahtarını, yayın saatini, dilleri, ülkeleri ve her ülkenin haber kaynaklarını (RSS) belirler.
 - **Baskı** GitHub Actions'ta hazırlanır. Ayarlanan saatte (varsayılan 07:00, Türkiye) kaynaklardan son 30 saatin haberleri çekilir. Ücretsiz Google Gemini her ülke için 5-10 önemli haberi seçer ve seçili dillerin hepsinde başlık, özet ve günün değerlendirmesini yazar. Bilgisayarın açık olması gerekmez.
+- **Son dakika** saat başı güncellenir: baskı saatinden (07:00) beri kaynaklara düşen yeni haberler, her dilde tek cümleyle ve madde işaretleriyle her ülkenin en üstünde görünür. Liste her sabah baskı saatinde sıfırlanır.
 
 Uygulama: https://utkucinarertan.github.io/haber-masasi/
 Yönetim: https://utkucinarertan.github.io/haber-masasi/admin.html
@@ -34,7 +35,8 @@ Yönetim sayfası her adımı kendisi anlatır:
 | `docs/admin.html` | Yönetim sayfası |
 | `docs/data/config.json` | Yayın saati, diller, ülkeler ve kaynaklar (yönetim sayfası yazar) |
 | `docs/data/editions/YYYY-MM-DD/<dil>.json` | Günlük baskılar; `docs/data/index.json` listesi, son 30 gün |
-| `scripts/build_news.py` | Haberleri çeker, Gemini ile özetler, baskıları yazar (`--force`: saate bakmadan) |
+| `scripts/build_news.py` | Haberleri çeker, Gemini ile özetler, baskıları ve son dakikayı yazar (`--force`: saate bakmadan, `--flash-only`: yalnızca son dakika) |
+| `docs/data/flash.json` | Son dakika maddeleri (saat başı eklenir, baskı saatinde sıfırlanır) |
 | `.github/workflows/daily-news.yml` | Saatte bir kontrol eder; ayarlanan saatten sonra o günün baskısı yoksa üretir |
 | `docs/manifest.webmanifest`, `docs/sw.js` | Kurulabilirlik ve internetsiz açılış |
 | `masaustu-kisayolu.ps1` | Windows için Başlat menüsü / masaüstü kısayolu |

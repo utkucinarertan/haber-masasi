@@ -21,7 +21,7 @@
 /* App shell: top bar with language + refresh, country chips, one desk per selected country */
 :root{
   --bg:#eef0f3; --surface:#ffffff; --ink:#15192a; --muted:#5b6275; --line:#d9dce4;
-  --accent:#1f3a8a; --accent-soft:#e3e8f7; --bar:#15192a; --bar-ink:#f3f4f8; --bar-muted:#a9afc2;
+  --accent:#1f3a8a; --accent-soft:#e3e8f7; --live:#c62828; --bar:#15192a; --bar-ink:#f3f4f8; --bar-muted:#a9afc2;
   --hi:#c8102e; --mid:#b26b00; --lo:#6b7385; --ok:#1d7a46; --err:#b42318;
   --f-display:"Archivo",system-ui,sans-serif;
   --f-body:"Literata",Georgia,serif;
@@ -30,7 +30,7 @@
 }
 @media (prefers-color-scheme:dark){:root{
   --bg:#10131c; --surface:#181c28; --ink:#e8eaf1; --muted:#9aa1b4; --line:#2a3042;
-  --accent:#9db4ff; --accent-soft:#222b46; --bar:#0b0d14; --bar-ink:#e8eaf1; --bar-muted:#8a92a6;
+  --accent:#9db4ff; --accent-soft:#222b46; --live:#ff7b72; --bar:#0b0d14; --bar-ink:#e8eaf1; --bar-muted:#8a92a6;
   --hi:#ff6b7c; --mid:#f0a640; --lo:#8a92a6; --ok:#5fd394; --err:#ff8a7a; color-scheme:dark}}
 
 *{box-sizing:border-box}
@@ -88,6 +88,19 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 .overview{background:var(--accent-soft);border-radius:12px;padding:14px 16px}
 .overview h3{margin:0 0 6px;font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:700}
 .overview p{margin:0;font-family:var(--f-body);font-size:.98rem;line-height:1.6}
+.flash{border:1px solid var(--line);border-left:3px solid var(--live);background:var(--surface);border-radius:12px;padding:12px 16px 12px 14px}
+.flash h3{display:flex;align-items:center;gap:8px;margin:0 0 8px;font-size:.72rem;letter-spacing:.09em;text-transform:uppercase;color:var(--live);font-weight:800}
+.flash h3 .live{width:8px;height:8px;border-radius:50%;background:var(--live);animation:pulse 1.8s ease-in-out infinite}
+.flash h3 .upd{margin-left:auto;text-transform:none;letter-spacing:0;color:var(--muted);font-weight:500;font-size:.75rem}
+@keyframes pulse{50%{opacity:.25}}
+@media (prefers-reduced-motion:reduce){.flash h3 .live{animation:none}}
+.flash ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:7px;font-family:var(--f-body);font-size:.95rem;line-height:1.45}
+.flash li::marker{color:var(--live)}
+.flash .tm{font-variant-numeric:tabular-nums;color:var(--muted);font-size:.8rem;font-weight:700;margin-right:6px}
+.flash li a{color:var(--muted);font-size:.78rem;text-decoration:none;white-space:nowrap;margin-left:4px}
+.flash li a:hover{color:var(--accent)}
+.flash .empty{margin:0;font-size:.88rem;color:var(--muted)}
+.flash .more{margin-top:8px;border:0;background:none;padding:4px 0;color:var(--accent);font-weight:700;font-size:.85rem;cursor:pointer}
 .items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
 .item{padding:14px 16px;background:var(--surface);border:1px solid var(--line);border-radius:12px;display:flex;flex-direction:column;gap:6px;min-width:0}
 .meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-size:.75rem;color:var(--muted)}
@@ -168,7 +181,9 @@ const T = {
       failedText:"Bağlantınızı kontrol edin ya da başka bir gün seçin.", pick:"Haberlerini görmek istediğiniz ülkeleri yukarıdan seçin.",
       onlyLang:l => `Bu gün için haberler yalnızca ${l} olarak mevcut.`, noCountry:"Bu ülke için bu gün haber hazırlanmadı.",
       foot:"Haberler seçilen kaynaklardan derlenir; özet ve değerlendirmeler her sabah yapay zekâ ile hazırlanır. Ayrıntı için haberin kaynağına gidin.",
-      admin:"Yönetim", locale:"tr-TR"},
+      admin:"Yönetim", locale:"tr-TR",
+      flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:h => `${h}'den beri yeni haber yok; liste saat başı güncellenir.`,
+      flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
   en:{brand:"News Desk", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
       overview:"The day at a glance", stories:n => n + (n === 1 ? " story" : " stories"), imp:{3:"Top story",2:"Important",1:"In brief"},
       edition:"Edition", countries:"Countries", loading:"Loading the news", loadingText:"Today's edition will appear here in a few seconds.",
@@ -179,7 +194,9 @@ const T = {
       failedText:"Check your connection or pick another day.", pick:"Choose the countries you want to follow above.",
       onlyLang:l => `For this day the news is only available in ${l}.`, noCountry:"No stories were prepared for this country on this day.",
       foot:"Stories are gathered from selected sources; summaries and analysis are written by AI every morning. Follow the link to read the full source.",
-      admin:"Admin", locale:"en-GB"},
+      admin:"Admin", locale:"en-GB",
+      flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:h => `No new stories since ${h}; the list updates every hour.`,
+      flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
   de:{brand:"Nachrichtenpult", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
       overview:"Der Tag im Überblick", stories:n => n + (n === 1 ? " Meldung" : " Meldungen"), imp:{3:"Sehr wichtig",2:"Wichtig",1:"Kurz notiert"},
       edition:"Ausgabe", countries:"Länder", loading:"Nachrichten werden geladen", loadingText:"Die heutige Ausgabe erscheint in wenigen Sekunden.",
@@ -190,7 +207,9 @@ const T = {
       failedText:"Prüfen Sie die Verbindung oder wählen Sie einen anderen Tag.", pick:"Wählen Sie oben die Länder, die Sie verfolgen möchten.",
       onlyLang:l => `Für diesen Tag gibt es die Nachrichten nur auf ${l}.`, noCountry:"Für dieses Land wurden an diesem Tag keine Meldungen erstellt.",
       foot:"Die Meldungen stammen aus ausgewählten Quellen; Zusammenfassungen und Einordnung erstellt jeden Morgen eine KI. Den vollständigen Text finden Sie bei der Quelle.",
-      admin:"Verwaltung", locale:"de-DE"},
+      admin:"Verwaltung", locale:"de-DE",
+      flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:h => `Seit ${h} Uhr keine neuen Meldungen; die Liste wird stündlich aktualisiert.`,
+      flashUpd:h => `Aktualisiert ${h}`, more:n => `Alle anzeigen (${n})`, less:"Weniger anzeigen"},
 };
 const NATIVE = {tr:"Türkçe", en:"English", de:"Deutsch"};
 const LANG_IN = {tr:{tr:"Türkçe",en:"İngilizce",de:"Almanca"}, en:{tr:"Turkish",en:"English",de:"German"}, de:{tr:"Türkisch",en:"Englisch",de:"Deutsch"}};
@@ -203,7 +222,9 @@ const store = {
 };
 
 let config = {time:"07:00", languages:["tr"], countries:[]};
-let index = [], current = null, loading = false;
+let index = [], current = null, loading = false, flash = null;
+const FLASH_SHOW = 8;
+const openFlash = new Set();
 let lang = store.get("lang", null);
 let picked = store.get("countries", null);
 const t = () => T[lang] || T.tr;
@@ -211,6 +232,7 @@ const countryName = code => { try { return new Intl.DisplayNames([lang], {type:"
 const flag = code => { const i = el("img", "flag"); i.alt = ""; i.loading = "lazy"; i.src = `https://flagcdn.com/${code.toLowerCase()}.svg`; return i; };
 const todayTR = () => new Intl.DateTimeFormat("en-CA", {timeZone:TZ, year:"numeric", month:"2-digit", day:"2-digit"}).format(new Date());
 const fmtDate = iso => new Date(iso + "T12:00:00").toLocaleDateString(t().locale, {weekday:"long", day:"numeric", month:"long", year:"numeric"});
+const fmtClock = iso => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleTimeString(t().locale, {timeZone:TZ, hour:"2-digit", minute:"2-digit"}); };
 const fmtTime = iso => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleString(t().locale, {timeZone:TZ, day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"}); };
 
 let statusTimer;
@@ -289,7 +311,8 @@ async function loadAll(keep, manual){
   try {
     let idx;
     try {
-      [idx, config] = await Promise.all([getJSON("data/index.json"), getJSON("data/config.json").catch(() => config)]);
+      [idx, config, flash] = await Promise.all([getJSON("data/index.json"), getJSON("data/config.json").catch(() => config),
+                                         getJSON("data/flash.json").catch(() => flash)]);
     } catch {
       if (!current) showState(t().offline, t().offlineText); else if (manual) showStatus("err", t().offlineKeep, 6000);
       return;
@@ -302,12 +325,12 @@ async function loadAll(keep, manual){
     applyLanguageUI();
     if (!index.length){ renderChips(); showState(t().none, t().noneText(config.time)); return; }
     fillEditionSelect();
-    const before = current && current.updatedAt;
+    const before = current && current.updatedAt + (flash?.updatedAt || "");
     const date = keep && current && index.some(e => e.date === current.date) ? current.date : index[0].date;
     await loadEdition(date);
     if (manual){
       if (index[0].date !== todayTR()) showStatus("", t().notToday(config.time), 6000);
-      else showStatus("ok", before && before === current?.updatedAt ? t().already : t().latest, 4000);
+      else showStatus("ok", before && before === current?.updatedAt + (flash?.updatedAt || "") ? t().already : t().latest, 4000);
     }
   } finally {
     loading = false; btn.disabled = false; btn.classList.remove("spin");
@@ -348,6 +371,8 @@ function renderDesk(code, data){
   const head = el("div", "desk-head");
   head.append(flag(code), el("h2", null, countryName(code)), el("span", "count", t().stories(items.length)));
   sec.append(head);
+  const fl = renderFlash(code);
+  if (fl) sec.append(fl);
   if (!data){ sec.append(el("p", "stamp", t().noCountry)); return sec; }
   if (data.overview){
     const ov = el("div", "overview");
@@ -358,6 +383,35 @@ function renderDesk(code, data){
   items.forEach(it => ol.append(renderItem(it)));
   sec.append(ol);
   return sec;
+}
+
+/* Son dakika: yalnızca en son baskı açıkken; baskı saatinden (07:00) beri saat başı eklenen tek cümlelik haberler */
+function renderFlash(code){
+  if (!flash || !current || current.date !== index[0]?.date) return null;
+  const all = (flash.countries?.[code] || []).filter(x => x.text && (x.text[lang] || x.text.tr));
+  const box = el("div", "flash");
+  const h = el("h3"); h.append(el("span", "live"), document.createTextNode(`${t().flash} · ${t().flashSince(fmtClock(flash.since))}`));
+  if (flash.updatedAt) h.append(el("span", "upd", t().flashUpd(fmtClock(flash.updatedAt))));
+  box.append(h);
+  if (!all.length){ box.append(el("p", "empty", t().flashEmpty(fmtClock(flash.since)))); return box; }
+  const open = openFlash.has(code);
+  const ul = el("ul");
+  (open ? all : all.slice(0, FLASH_SHOW)).forEach(x => {
+    const li = el("li");
+    li.append(el("span", "tm", fmtClock(x.time)), document.createTextNode(x.text[lang] || x.text.tr));
+    if (x.url && /^https:\/\//.test(x.url)){
+      const a = el("a", null, (x.source || "") + " ↗"); a.href = x.url; a.target = "_blank"; a.rel = "noopener";
+      li.append(document.createTextNode(" "), a);
+    }
+    ul.append(li);
+  });
+  box.append(ul);
+  if (all.length > FLASH_SHOW){
+    const b = el("button", "more", open ? t().less : t().more(all.length)); b.type = "button";
+    b.onclick = () => { open ? openFlash.delete(code) : openFlash.add(code); render(); };
+    box.append(b);
+  }
+  return box;
 }
 
 function renderItem(it){
