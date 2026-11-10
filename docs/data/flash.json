@@ -1,8 +1,35 @@
 {
  "since": "2026-11-10T07:00+03:00",
- "updatedAt": "2026-11-10T18:15+03:00",
+ "updatedAt": "2026-11-11T00:19+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-10T17:51:08+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+    "text": {
+     "tr": "Almanya Dışişleri Bakanı Wadephul, Fransa'daki siber saldırıların ardından Tahran yönetimini hibrit tehditlere karşı uyardı.",
+     "de": "Außenminister Wadephul hat die Führung in Teheran nach Cyberangriffen in Frankreich vor hybriden Attacken gewarnt."
+    }
+   },
+   {
+    "time": "2026-11-10T17:27:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss",
+    "text": {
+     "tr": "Alman ordusu, casusluk endişesiyle Çin menşeili ticari dron ve otomobilleri kışlalardan çıkarma kararı aldı.",
+     "de": "Die Bundeswehr mustert wegen Spionagegefahr handelsübliche Drohnen und Autos aus China aus ihren Kasernen aus."
+    }
+   },
+   {
+    "time": "2026-11-10T16:43:59+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+    "text": {
+     "tr": "Makine Mühendisliği Zirvesi'nde VDMA, Alman hükümetini reform eksikliğiyle sanayiyi tehlikeye atmakla eleştirdi.",
+     "de": "Beim Maschinenbaugipfel warf der Branchenverband VDMA der Bundesregierung vor, mit Reformstau den Industriestandort Deutschland zu gefährden."
+    }
+   },
    {
     "time": "2026-11-10T15:42:40+01:00",
     "source": "tagesschau",
@@ -20,36 +47,36 @@
      "tr": "Bulgaristan'da yoğun sis nedeniyle otoyolda meydana gelen zincirleme trafik kazalarında en az 12 kişi yaşamını yitirdi.",
      "de": "Auf einer Autobahn in Bulgarien starben bei Auffahrunfällen infolge dichten Nebels mindestens zwölf Menschen."
     }
-   },
-   {
-    "time": "2026-11-10T13:50:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss",
-    "text": {
-     "tr": "Hamburg'daki Elbphilharmonie binasında düzenlenen silahlı saldırıda iki kişi yaralanırken, şüpheli ölü bulundu.",
-     "de": "Bei einer Schießerei an der Elbphilharmonie in Hamburg wurden zwei Menschen verletzt, der Verdächtige wurde tot aufgefunden."
-    }
-   },
-   {
-    "time": "2026-11-10T12:37:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/justiz/fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894#ref=rss",
-    "text": {
-     "tr": "Rostock Eyalet Mahkemesi, 8 yaşındaki Fabian'ı öldüren Gina H.'yi müebbet hapis cezasına çarptırdı.",
-     "de": "Das Landgericht Rostock verurteilte Gina H. wegen der Tötung des achtjährigen Fabian zu lebenslanger Haft."
-    }
-   },
-   {
-    "time": "2026-11-10T07:26:38+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
-    "text": {
-     "tr": "Birlik'in cumhurbaşkanı adayı Ilse Aigner, Berlin'de meclis gruplarıyla bir araya gelirken AfD'nin davetini geri çevirdi.",
-     "de": "Die Unions-Kandidatin für das Bundespräsidentenamt, Ilse Aigner, stellt sich in Berlin den Bundestagsfraktionen vor und schlug eine AfD-Einladung aus."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-10T23:54:40+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/lula-erdogan-in-brezilya-ya-resmi-ziyaret-gerceklestirecegini-acikladi-p380073",
+    "text": {
+     "tr": "Brezilya Devlet Başkanı Lula, Antalya'daki görüşmenin ardından Cumhurbaşkanı Erdoğan'ın Brezilya'yı ziyaret edeceğini bildirdi.",
+     "de": "Brasiliens Präsident Lula kündigte nach einem Treffen in Antalya einen offiziellen Besuch von Präsident Erdoğan in Brasilien an."
+    }
+   },
+   {
+    "time": "2026-11-10T23:35:06+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/fon-sorusturmasinda-3-kisiye-tutuklama-talebi-p380059",
+    "text": {
+     "tr": "Fon soruşturması kapsamında eski Takasbank Genel Müdürü Yunus Arıncı dahil üç şüphelinin tutuklanması talep edildi.",
+     "de": "Bei einer Fondsermittlung in der Türkei wurde Haft für drei Verdächtige beantragt, darunter der frühere Takasbank-Chef Yunus Arıncı."
+    }
+   },
+   {
+    "time": "2026-11-10T21:32:48+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/bassavciliktan-kasif-kozinoglu-nun-olumune-iliskin-hazirlanan-rapora-itiraz-p380025",
+    "text": {
+     "tr": "Silivri Cumhuriyet Başsavcılığı, eski MİT görevlisi Kaşif Kozinoğlu'nun ölümüne dair Adli Tıp Kurumu raporuna itiraz etti.",
+     "de": "Die Staatsanwaltschaft Silivri hat Einspruch gegen das Gutachten der Rechtsmedizin zum Tod des früheren MİT-Mitarbeiters Kaşif Kozinoğlu eingelegt."
+    }
+   },
    {
     "time": "2026-11-10T18:06:45+03:00",
     "source": "Sozcu",
@@ -66,47 +93,73 @@
   "https://www.dw.com/tr/alman-ordusu-banyo-ördeği-satacak/a-79909705",
   "https://www.dw.com/tr/avrupa-ve-abd-den-güçlü-avrupa-güvenlik-mimarisine-bağlılık-çıkışı/a-79910497",
   "https://www.dw.com/tr/ev-sahibi-türkiye-ye-güvenilirlik-eleştirisi-tpao-üretimini-artırmayı-planlıyor/a-79909119",
+  "https://www.dw.com/tr/hamburg-da-saldırı-konser-binası-boşaltıldı/a-79910888",
   "https://www.dw.com/tr/hamburg-ta-saldırı-konser-binası-boşaltıldı/a-79910888",
   "https://www.dw.com/tr/izmir-aliağa-habaş-demir-çelik-fabrikasında-patlama/a-79898945",
+  "https://www.dw.com/tr/i̇zmir-de-18-işçinin-öldüğü-patlama-11-gözaltı-kararı/a-79911414",
   "https://www.dw.com/tr/rekor-ihracata-rağmen-türkiye-dünya-pazarında-geriliyor/a-79902703",
+  "https://www.dw.com/tr/ti̇p-li-ahmet-şık-ın-eşi-yonca-şık-casusluk-suçlamasıyla-gözaltına-alındı-daha-sonra-serbest-bırakıldı/a-79908470",
+  "https://www.dw.com/tr/yeni-yan-etki-keşfedildi-zayıflama-ilacı-körlük-yapabilir/a-79912512",
   "https://www.manager-magazin.de/lifestyle/stil/familienunternehmen-der-streit-in-reichen-familien-entzuendet-sich-oft-an-der-kunst-a-d322e802-07bf-4671-b9cb-88013c6f4c48#ref=rss",
   "https://www.sozcu.com.tr/1200-liraya-aldigi-2-kavanoz-hayatini-degistirdi-bir-anda-servet-sahibi-oldu-p379787",
   "https://www.sozcu.com.tr/14-gun-icinde-iptal-etmeyenin-elektrik-faturasi-bin-923-liraya-kadar-cikacak-p379779",
   "https://www.sozcu.com.tr/30-yillik-kombi-ustasi-acikladi-kombinin-sicak-su-ayari-kac-derecede-olmali-p379976",
   "https://www.sozcu.com.tr/abd-de-enflasyon-aciklandi-altin-cakildi-dolar-tirmanisa-gecti-p379986",
   "https://www.sozcu.com.tr/almanya-basbakani-merzden-abye-ukrayna-sarti-tum-ulkeler-katki-saglamazsa-butceye-onay-yok-p379785",
+  "https://www.sozcu.com.tr/ankara-da-atli-polislerden-ataturk-e-saygi-p380046",
+  "https://www.sozcu.com.tr/ataturk-vefatinin-88-yilinda-kolombiyada-anildi-p380072",
+  "https://www.sozcu.com.tr/avrupa-ulkesinde-kus-gribi-alarmi-bu-sularin-kullanimi-yasaklandi-p380047",
   "https://www.sozcu.com.tr/ayaklarimizin-altindaki-iki-ulke-donmeye-basladi-p379776",
   "https://www.sozcu.com.tr/aylin-kotil-den-emir-sarigul-le-ilgili-yillar-sonra-yanit-geldi-p379780",
   "https://www.sozcu.com.tr/bakanlik-acikladi-market-raflarindaki-peynirlerde-kullanimi-yasaklandi-p379778",
+  "https://www.sozcu.com.tr/bassavciliktan-kasif-kozinoglu-nun-olumune-iliskin-hazirlanan-rapora-itiraz-p380025",
   "https://www.sozcu.com.tr/bulutlara-kimyasal-mudahalenin-onu-acildi-ucaklarla-yagmur-yagdiracaklar-p379992",
   "https://www.sozcu.com.tr/denizin-4-bin-metre-altinda-kar-yagiyor-p379784",
+  "https://www.sozcu.com.tr/dev-gemiyi-bilerek-batirma-karari-son-anda-mahkemelik-oldu-p380039",
   "https://www.sozcu.com.tr/donel-kavsaktan-cikarken-bu-hatayi-yapan-suruculer-para-cezasiyla-karsilasiyor-p379977",
+  "https://www.sozcu.com.tr/el-frenini-cekmeyi-unuttugu-traktorun-altinda-hayatini-kaybetti-p380069",
   "https://www.sozcu.com.tr/esine-ise-gidiyorum-diyerek-evden-cikti-sosyal-medyadaki-paylasimi-asil-gercegi-ortaya-cikardi-p379768",
+  "https://www.sozcu.com.tr/ev-sahibinden-akilalmaz-tahliye-gerekcesi-gaz-cikardiklari-icin-p380050",
   "https://www.sozcu.com.tr/fatih-terim-den-devlet-bahceli-ye-ziyaret-p379990",
+  "https://www.sozcu.com.tr/fon-sorusturmasinda-3-kisiye-tutuklama-talebi-p380059",
   "https://www.sozcu.com.tr/haci-yakisiklidan-10-kasim-icin-bu-cebirdir-dayatmadir-p380002",
+  "https://www.sozcu.com.tr/herkesin-gozunden-kaciyor-buzdolabindaki-bu-dugme-sebzelerin-kaderini-degistiriyor-p380067",
   "https://www.sozcu.com.tr/ilk-basta-iyilik-gibi-gorunuyor-ama-sonradan-bedel-odetiyor-insanlardan-asla-kabul-etmemeniz-gereken-p379772",
+  "https://www.sozcu.com.tr/iran-dan-hurmuz-bogazi-icin-rest-7-sart-yerine-gelmeden-acilmayacak-p380078",
+  "https://www.sozcu.com.tr/iran-hurmuz-bogazinda-ucuncu-petrol-tankeri-mayina-carparak-patladi-p380040",
   "https://www.sozcu.com.tr/iran-komutani-yer-altindaki-gizli-fuze-sehrini-sokak-sokak-gezdi-p379984",
   "https://www.sozcu.com.tr/iranda-tatliciya-netanyahuya-benzedigi-icin-boykot-p379995",
+  "https://www.sozcu.com.tr/ispanya-hukumetinden-tiktoku-askiya-alma-talebi-p380045",
   "https://www.sozcu.com.tr/istanbul-da-bu-guzergah-2-gun-boyunca-kapali-bu-saatlere-dikkat-p380008",
   "https://www.sozcu.com.tr/istanbul-da-fuhus-operasyonu-10-supheli-gozaltina-alindi-p379765",
   "https://www.sozcu.com.tr/istanbul-da-sahte-icki-operasyonu-8-gozalti-p379774",
   "https://www.sozcu.com.tr/istanbulda-yagmur-cilesi-trafik-yogunlugu-yuzde-87e-cikti-p379770",
   "https://www.sozcu.com.tr/izmir-deki-faciada-habas-in-patronuna-gozalti-karari-p379981",
   "https://www.sozcu.com.tr/japonlar-kendilerine-ozel-playstation-hazirliyor-oyle-bir-ozelligi-var-ki-p379775",
+  "https://www.sozcu.com.tr/kanatli-karincalar-sehri-istila-etmeye-basladi-p380054",
+  "https://www.sozcu.com.tr/karakoyde-seyir-halindeki-taksi-alev-alev-yandi-p380041",
   "https://www.sozcu.com.tr/kaskli-yol-verme-kavgasinda-iki-surucuye-180er-bin-lira-ceza-p379747",
   "https://www.sozcu.com.tr/kastamonu-da-alevler-geceyi-aydinlatti-2-katli-ev-ve-ahir-kule-dondu-p379766",
+  "https://www.sozcu.com.tr/kazada-agir-yaralanan-uzman-cavus-yakup-nazli-hayatini-kaybetti-p380048",
   "https://www.sozcu.com.tr/kimsenin-yapmak-istemedigi-isi-servete-donusturdu-milyonlar-kazaniyor-p379987",
   "https://www.sozcu.com.tr/konyada-konteyner-yaninda-bulunan-bebekle-ilgili-davada-karar-p380000",
+  "https://www.sozcu.com.tr/lula-erdogan-in-brezilya-ya-resmi-ziyaret-gerceklestirecegini-acikladi-p380073",
   "https://www.sozcu.com.tr/market-buzdolaplarini-firina-ceviren-saldirinin-arkasindan-o-ulke-cikti-p379745",
   "https://www.sozcu.com.tr/marketlerde-gizemli-posetler-satisa-cikti-icinden-et-de-cikabilir-peynir-de-p380007",
   "https://www.sozcu.com.tr/metal-zirh-giydirilen-koyunlar-3-yil-sonra-imkansizi-basardi-p379781",
   "https://www.sozcu.com.tr/meteoroloji-den-bircok-bolge-icin-yagis-uyarisi-kar-ve-saganak-bekleniyor-p379777",
+  "https://www.sozcu.com.tr/miras-kalan-araclar-da-e-devlet-te-gorulebiliyor-cogu-kisi-bu-ekrani-bilmiyor-p380052",
   "https://www.sozcu.com.tr/misir-da-iki-tren-carpisti-7-olu-125-yarali-p379978",
+  "https://www.sozcu.com.tr/olen-kadinin-telefonu-caldi-acan-kisinin-bogazi-dugumlendi-kaza-yerinde-yurek-yakan-anlar-p380071",
   "https://www.sozcu.com.tr/ormanda-bulunan-kasadan-servet-cikti-p379998",
+  "https://www.sozcu.com.tr/pendikte-trafik-kavgasina-562-bin-719-lira-ceza-p380053",
   "https://www.sozcu.com.tr/psikologlara-gore-eski-sevgilinize-donmeden-once-bu-5-isarete-bakin-p379979",
   "https://www.sozcu.com.tr/rengi-solan-kot-pantolonlari-30-dakikada-eski-haline-donduren-yontem-p379975",
+  "https://www.sozcu.com.tr/rusya-dan-avrupa-ya-rest-talebi-kabul-etmeyecegiz-p380063",
+  "https://www.sozcu.com.tr/rusya-zaporijya-yi-vurdu-p380051",
   "https://www.sozcu.com.tr/saat-09-05-i-gosterdi-zaman-durdu-p379786",
   "https://www.sozcu.com.tr/samsun-da-el-freni-cekilmeyen-beton-mikseri-4-araca-carpti-p380005",
+  "https://www.sozcu.com.tr/sehre-yeni-makineler-koymaya-basladilar-15-saniye-reklam-izleyen-ucretsiz-su-aliyor-p380044",
   "https://www.sozcu.com.tr/seker-fabrikasinda-bicakli-kavga-p379762",
   "https://www.sozcu.com.tr/sokaklara-kirmizi-levhalar-yerlestirmeye-basladilar-anlamini-bilen-cok-az-p380004",
   "https://www.sozcu.com.tr/son-dakika-cafer-mahiroglu-sorusturmasinda-ikinci-dalga-operasyon-p379763",
@@ -114,32 +167,54 @@
   "https://www.sozcu.com.tr/surucu-kurslarina-joker-operasyonu-23-kisi-gozaltinda-p379960",
   "https://www.sozcu.com.tr/tartistigi-surucunun-basina-kaskla-vurdu-180-bin-lira-ceza-yedi-p379744",
   "https://www.sozcu.com.tr/tehditten-sonra-ulkedeki-abd-ucaklari-apar-topar-tahliye-edildi-p379782",
+  "https://www.sozcu.com.tr/trabzonda-yaylalara-cikmayin-uyarisi-p380049",
   "https://www.sozcu.com.tr/trump-in-gecmisine-gonderme-yapan-heykel-parkin-ortasina-dikildi-p380006",
   "https://www.sozcu.com.tr/trump-irana-yeni-askeri-harekat-su-an-gerekli-gorunmuyor-p379746",
   "https://www.sozcu.com.tr/tuvalet-sonrasi-el-yikamayan-en-pis-ulkeler-aciklandi-turkiye-nin-siralamasi-belli-oldu-p379983",
+  "https://www.sozcu.com.tr/uzayda-150-milyar-kilometrelik-dev-yapi-sirri-arastiriliyor-p380058",
   "https://www.sozcu.com.tr/uzmanlar-erkenden-stoklayin-uyarisinda-bulundu-tam-kis-gelmeden-fiyati-artabilir-p379962",
+  "https://www.sozcu.com.tr/yanan-tirdan-indi-baska-bir-tirin-carpmasiyla-hayatini-kaybetti-p380066",
   "https://www.sozcu.com.tr/yine-ters-kose-yapti-verdiklerini-geri-aldi-p379783",
   "https://www.sozcu.com.tr/zafer-havalimaninda-11-milyon-yolcu-garantisine-karsi-30-bin-yolcu-p379997",
+  "https://www.spiegel.de/ausland/golf-kooperationsrat-mehr-militaerische-zusammenarbeit-wegen-irankrieg-a-dae912cd-3ad2-42ea-97d8-c7f6f017e7a5#ref=rss",
   "https://www.spiegel.de/ausland/irankrieg-laut-donald-trump-effektiv-vorueber-teheran-spricht-von-fake-news-a-f83d28b2-502c-4353-a9df-50ffe4ee8278#ref=rss",
+  "https://www.spiegel.de/ausland/midterms-wie-die-republikaner-den-gerrymandering-krieg-verloren-haben-a-d09ab5e1-ca5f-495a-856d-842bb8f14357#ref=rss",
+  "https://www.spiegel.de/ausland/ukraine-friedensgespraeche-in-abu-dhabi-bisher-glaubt-nur-donald-trump-an-den-grossen-deal-zwischen-russland-ukraine-und-europa-a-904ecc1a-9c94-493a-9f1f-5ea1a9bbdca3#ref=rss",
   "https://www.spiegel.de/kultur/trump-hat-die-wahl-in-den-usa-verloren-kommt-der-rechte-vibe-shift-nun-auch-in-deutschland-an-sein-ende-a-6ac6c144-eff0-406e-ab91-9bb7be3a8c6c#ref=rss",
   "https://www.spiegel.de/mobilitaet/bus-bahn/bahnverkehr-in-deutschland-nur-34-kilometer-neue-oder-ausgebaute-schienenstrecke-in-betrieb-genommen-a-ac7b07a2-b10e-4b58-8a78-cd616bf27c4d#ref=rss",
+  "https://www.spiegel.de/mobilitaet/bus-bahn/helsinki-finnland-ist-das-die-schoenste-strassenbahnstrecke-der-welt-a-a3c12488-9112-489d-b472-79c44e8838e3#ref=rss",
+  "https://www.spiegel.de/netzwelt/millennial-optimism-wie-die-midterms-die-gute-stimmung-zurueckbrachten-a-f6fe3614-0b34-4f1b-8638-550cf3547b99#ref=rss",
   "https://www.spiegel.de/panorama/justiz/fall-fabian-gina-h-zu-lebenslanger-haft-verurteilt-a-04259c80-a4fe-4a3d-8a0d-5df5831fd894#ref=rss",
   "https://www.spiegel.de/panorama/justiz/hamburg-grosseinsatz-an-der-elbphilharmonie-zwei-verletzte-a-35b60686-e12a-4b73-a71b-9c73e75ad21a#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/rostocker-prozess-gegen-gina-h-im-mordfall-fabian-nach-dem-urteil-applaudieren-die-zuschauer-im-saal-a-8f1802b1-0b2f-4073-aa83-49b639e90ac0#ref=rss",
   "https://www.spiegel.de/panorama/leute/joerg-thadeusz-praesentiert-sein-ilse-aigner-tattoo-a-5d404b83-0e7d-495e-9ef6-8945f564ab40#ref=rss",
   "https://www.spiegel.de/panorama/leute/robbie-williams-saenger-verteidigt-olivia-rodrigo-gegen-plagiatsvorwuerfe-a-983dbfa6-a9f5-442f-b703-ffb72b8b0bda#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/afd-in-sachsen-anhalt-laesst-sich-ministerpraesident-ulrich-siegmund-noch-verhindern-a-2b76ca5c-9acb-42af-97bc-9a752329c8fe#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/bundeswehr-verbannt-drohnen-und-autos-aus-china-aus-den-kasernen-spionagegefahr-a-551cf80d-6065-427d-b469-70727ea4cf24#ref=rss",
   "https://www.spiegel.de/politik/robert-fico-slowakischer-premier-wirft-friedrich-merz-im-streit-ueber-ukrainehilfen-erpressung-vor-a-f5b85629-3165-46d8-b4bd-bbb568ea1679#ref=rss",
+  "https://www.spiegel.de/sport/fussball/felix-nmecha-jubel-sorgt-bei-borussia-dortmund-und-beim-dfb-fuer-irritationen-a-c6ebf97f-ba08-4ac6-9bec-7fc6559f7a00#ref=rss",
   "https://www.spiegel.de/sport/leichtathletik-paralympics-siegerin-franziska-liebhardt-mit-44-jahren-gestorben-a-fb4f7b20-b0e2-4a9d-a57b-f7c3fee614a6#ref=rss",
+  "https://www.spiegel.de/sport/stephanie-case-schafft-als-erste-frau-100-meilen-lauf-in-der-antarktis-eine-inspiration-fuer-alle-muetter-a-f60402e1-e539-447a-a87e-e8f4e4d1a39f#ref=rss",
+  "https://www.spiegel.de/sport/tennis/boris-becker-im-strassenverkehr-warum-er-das-steuer-ungern-aus-der-hand-gibt-a-f3adf867-eaf8-4fdf-8807-2572f26e3c98#ref=rss",
   "https://www.spiegel.de/wirtschaft/deutschland-buerger-wuenschen-mehr-staatsausgaben-lehnen-hoehere-steuern-ab-a-4e6aace3-50af-4810-bdce-478edb8de19a#ref=rss",
   "https://www.spiegel.de/wirtschaft/leihmutterschaft-diese-agenturchefin-traegt-selbst-kinder-fuer-andere-aus-a-ac098ee7-cf15-4e26-936c-9c56997ffa0d#ref=rss",
   "https://www.spiegel.de/wirtschaft/patricia-schlesinger-ard-skandal-um-fruehere-rbb-intendantin-vor-gericht-a-dcab2715-07d7-4f56-8125-ea704b86ec98#ref=rss",
+  "https://www.spiegel.de/wirtschaft/patricia-schlesinger-verteidiger-nennt-ex-rbb-intendantin-suendenbock-a-ee426ceb-4949-429c-a65a-75cb824a2423#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/friedrich-merz-dringt-auf-puenktlichen-start-des-europaeischen-co2-preises-mit-hintergedanken-a-a3a13ddb-615a-4830-8202-e5b1064901d6#ref=rss",
+  "https://www.spiegel.de/wirtschaft/soziales/maschinenbau-gipfel-katherina-reiche-kritisiert-eigene-regierung-a-207e0fe5-9058-450f-b83c-f102fcbc7236#ref=rss",
+  "https://www.spiegel.de/wirtschaft/unternehmen/lori-huang-welche-rolle-die-frau-von-nvidia-chef-jensen-huang-im-unternehmen-spielt-a-cfe58599-a415-4744-b3dd-48a8a64a84f2#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimagipfel-in-der-tuerkei-wie-teneo-regierungen-und-oelstaaten-zugleich-beraet-a-f5d4e97a-b411-4607-ad29-e8bcce920d17#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
+  "https://www.tagesschau.de/ausland/amerika/usa-hegseth-amtsenthebungsverfahren-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-masern-102.html",
+  "https://www.tagesschau.de/ausland/asien/ukraine-russland-krieg-gespraeche-abu-dhabi-100.html",
   "https://www.tagesschau.de/ausland/europa/bulgarien-tote-auffahrunfall-100.html",
+  "https://www.tagesschau.de/ausland/europa/trauermesse-spanien-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-gespraeche-abu-dhabi-104.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-russland-angriffe-206.html",
+  "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
   "https://www.tagesschau.de/faktenfinder/ukraine-angebliches-foltergefaengnis-100.html",
+  "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/aigner-vorstellung-bundestagsfraktionen-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/deutschland-rolle-ukraine-gespraeche-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/ticket-weiterverkauf-beschraenkung-100.html",
@@ -147,6 +222,8 @@
   "https://www.tagesschau.de/wirtschaft/australien-ki-regulieren-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-infineon-ki-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-104.html",
+  "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boerse-kuenstliche-intelligenz-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
   "https://www.tagesschau.de/wissen/klima/emissionen-klimawandel-global-carbon-budget-100.html"
  ]
