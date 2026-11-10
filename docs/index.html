@@ -100,7 +100,6 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 .flash li a{color:var(--muted);font-size:.78rem;text-decoration:none;white-space:nowrap;margin-left:4px}
 .flash li a:hover{color:var(--accent)}
 .flash .empty{margin:0;font-size:.88rem;color:var(--muted)}
-.flash .more{margin-top:8px;border:0;background:none;padding:4px 0;color:var(--accent);font-weight:700;font-size:.85rem;cursor:pointer}
 .items{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
 .item{padding:14px 16px;background:var(--surface);border:1px solid var(--line);border-radius:12px;display:flex;flex-direction:column;gap:6px;min-width:0}
 .meta{display:flex;flex-wrap:wrap;align-items:center;gap:6px 10px;font-size:.75rem;color:var(--muted)}
@@ -223,8 +222,7 @@ const store = {
 
 let config = {time:"07:00", languages:["tr"], countries:[]};
 let index = [], current = null, loading = false, flash = null;
-const FLASH_SHOW = 8;
-const openFlash = new Set();
+const FLASH_SHOW = 5;   // ülke başına en fazla 5 son dakika maddesi (en yeniler)
 let lang = store.get("lang", null);
 let picked = store.get("countries", null);
 const t = () => T[lang] || T.tr;
@@ -394,9 +392,8 @@ function renderFlash(code){
   if (flash.updatedAt) h.append(el("span", "upd", t().flashUpd(fmtClock(flash.updatedAt))));
   box.append(h);
   if (!all.length){ box.append(el("p", "empty", t().flashEmpty(fmtClock(flash.since)))); return box; }
-  const open = openFlash.has(code);
   const ul = el("ul");
-  (open ? all : all.slice(0, FLASH_SHOW)).forEach(x => {
+  all.slice(0, FLASH_SHOW).forEach(x => {
     const li = el("li");
     li.append(el("span", "tm", fmtClock(x.time)), document.createTextNode(x.text[lang] || x.text.tr));
     if (x.url && /^https:\/\//.test(x.url)){
@@ -406,11 +403,6 @@ function renderFlash(code){
     ul.append(li);
   });
   box.append(ul);
-  if (all.length > FLASH_SHOW){
-    const b = el("button", "more", open ? t().less : t().more(all.length)); b.type = "button";
-    b.onclick = () => { open ? openFlash.delete(code) : openFlash.add(code); render(); };
-    box.append(b);
-  }
   return box;
 }
 

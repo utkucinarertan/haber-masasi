@@ -39,7 +39,7 @@ TR_TZ = timezone(timedelta(hours=3))
 MAX_INPUT_ITEMS = 60
 FLASH = DATA / "flash.json"
 FLASH_MAX_NEW = 25        # bir saatte Gemini'ye gönderilecek en fazla yeni haber (ülke başına)
-FLASH_KEEP = 40           # ülke başına gün içinde tutulacak en fazla son dakika maddesi
+FLASH_KEEP = 5            # ülke başına tutulan en fazla son dakika maddesi (en yeniler)
 
 GEMINI_MODELS = ["gemini-3.8-flash", "gemini-3.5-flash-lite"]  # ücretsiz katman; ilki olmazsa ikincisi
 LANGS = {
