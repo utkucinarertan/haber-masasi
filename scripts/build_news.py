@@ -275,6 +275,14 @@ def update_flash(cfg, now, langs):
         old = {}
     if old.get("since") != since:
         old = {}   # baskı saati geçti: yeni gün, liste sıfırlanır
+    elif os.environ.get("GITHUB_EVENT_NAME") == "schedule" and old.get("updatedAt"):
+        try:
+            age = now - datetime.fromisoformat(old["updatedAt"])
+        except ValueError:
+            age = timedelta(hours=1)
+        if age < timedelta(minutes=45):   # saatte üç zamanlanmış deneme var; Gemini'yi gereksiz çağırma
+            log(f"Son dakika {int(age.total_seconds() // 60)} dakika önce güncellendi; atlandı.")
+            return
     codes = {c["code"] for c in cfg.get("countries", [])}
     lines = {c: v for c, v in old.get("countries", {}).items() if c in codes}
     seen = set(old.get("seen", []))

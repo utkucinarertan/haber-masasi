@@ -6,7 +6,9 @@ name: Günlük haber baskısı
 # Haberler ücretsiz Google Gemini ile özetlenir. Gerekli secret: GEMINI_API_KEY (yönetim sayfasından kaydedilir).
 on:
   schedule:
-    - cron: "2 * * * *"
+    # GitHub zamanlanmış işleri yoğun saat başlarında sık sık atlar; saatte üç deneme yapılır,
+    # betik son dakikayı en fazla ~45 dakikada bir günceller, baskıyı da günde bir kez üretir.
+    - cron: "17,37,57 * * * *"
   push:
     paths: ["docs/data/config.json", "scripts/build_news.py", ".github/workflows/daily-news.yml"]   # ayar ya da kod değişince hemen çalış (baskı yalnızca saati gelmişse)
   workflow_dispatch:      # yönetim sayfasındaki "Şimdi hazırla" düğmesi (saate bakmadan üretir)
