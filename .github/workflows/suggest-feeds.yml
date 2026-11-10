@@ -1,0 +1,54 @@
+name: Kaynak önerisi (LLM)
+
+# Yönetim sayfasındaki "LLM ile ekle" düğmesi çalıştırır: Gemini bir ülke için RSS kaynakları önerir,
+# adresler denenir ve çalışanlar suggest/<ülke>.json dosyasına yazılır. Ayarlar değişmez;
+# yönetim sayfası önerileri forma ekler, kaydetmek yöneticiye kalır.
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: "Ülke kodu (ör. fr)"
+        required: true
+      name:
+        description: "Ülke adı (İngilizce)"
+        required: false
+        default: ""
+      request:
+        description: "İstek kimliği (yönetim sayfası doldurur)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: suggest-feeds
+  cancel-in-progress: false
+
+jobs:
+  suggest:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kaynakları bul ve dene
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          COUNTRY: ${{ inputs.country }}
+          COUNTRY_NAME: ${{ inputs.name }}
+          REQUEST_ID: ${{ inputs.request }}
+        run: python scripts/suggest_feeds.py "$COUNTRY" "$REQUEST_ID" "$COUNTRY_NAME"
+
+      - name: Öneriyi kaydet
+        run: |
+          git config user.name "haber-masasi-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A suggest
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Kaynak önerisi: ${{ inputs.country }}"
+          for i in 1 2 3; do git pull -q --rebase && git push -q && exit 0; sleep 5; done
+          exit 1

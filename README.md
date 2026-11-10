@@ -16,7 +16,7 @@ Yönetim sayfası her adımı kendisi anlatır:
 1. **GitHub bağlantısı.** https://github.com/settings/personal-access-tokens/new adresinde yalnızca `haber-masasi` deposu için anahtar oluşturun. **Contents**, **Actions** ve **Secrets** izinleri **Read and write** olmalı. Anahtarı yapıştırıp **Bağlan** deyin. Anahtar yalnızca o cihazın tarayıcısında saklanır.
 2. **Gemini anahtarı.** https://aistudio.google.com/app/apikey adresinden ücretsiz anahtar alın (kart istemez). Yapıştırıp **Kaydet** deyin. Anahtar GitHub'a şifrelenerek `GEMINI_API_KEY` adıyla kaydedilir.
 3. **Yayın saati ve diller.**
-4. **Ülkeler ve kaynaklar.**
+4. **Ülkeler ve kaynaklar.** Her kaynak için kullanım seçilir: günlük + son dakika, yalnız günlük ya da yalnız son dakika. **✨ LLM ile ekle** düğmesi seçilen ülkenin haber kaynaklarını Gemini'ye buldurur; adresler denenir ve çalışanlar forma eklenir.
 5. **Ayarları kaydet**, ardından ilk baskı için **Şimdi hazırla**.
 
 Ücretsiz katmanda Google, gönderilen metni ürün geliştirmek için kullanabilir. Buraya gönderilen yalnızca herkese açık haber metinleridir. Her baskı ülke başına tek Gemini çağrısı yapar; kullanıcı sayısı maliyeti ve kotayı etkilemez.
@@ -37,6 +37,7 @@ Yönetim sayfası her adımı kendisi anlatır:
 | `docs/data/editions/YYYY-MM-DD/<dil>.json` | Günlük baskılar; `docs/data/index.json` listesi, son 30 gün |
 | `scripts/build_news.py` | Haberleri çeker, Gemini ile özetler, baskıları ve son dakikayı yazar (`--force`: saate bakmadan, `--flash-only`: yalnızca son dakika) |
 | `docs/data/flash.json` | Son dakika maddeleri (saat başı eklenir, baskı saatinde sıfırlanır) |
+| `scripts/suggest_feeds.py`, `.github/workflows/suggest-feeds.yml` | "LLM ile ekle": Gemini'nin önerdiği RSS adreslerini dener, çalışanları `suggest/<ülke>.json`'a yazar |
 | `.github/workflows/daily-news.yml` | Saatte bir kontrol eder; ayarlanan saatten sonra o günün baskısı yoksa üretir |
 | `docs/manifest.webmanifest`, `docs/sw.js` | Kurulabilirlik ve internetsiz açılış |
 | `masaustu-kisayolu.ps1` | Windows için Başlat menüsü / masaüstü kısayolu |

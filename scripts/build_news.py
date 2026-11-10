@@ -102,9 +102,17 @@ def read_feed(name, url, since):
     return out
 
 
-def collect(country, cache, since):
+def feed_use(feed):
+    """Kaynağın kullanımı: "daily" (yalnız günlük baskı), "flash" (yalnız son dakika) ya da "both"."""
+    use = feed.get("use", "both")
+    return use if use in ("daily", "flash", "both") else "both"
+
+
+def collect(country, cache, since, purpose="daily"):
     items, failed = [], []
     for feed in country.get("feeds", []):
+        if feed_use(feed) not in (purpose, "both"):
+            continue
         key = feed["url"]
         if key not in cache:
             try:
@@ -272,7 +280,7 @@ def update_flash(cfg, now, langs):
     seen = set(old.get("seen", []))
     cache, fresh = {}, {}
     for country in cfg.get("countries", []):
-        items, _ = collect(country, cache, start)
+        items, _ = collect(country, cache, start, "flash")
         new = [it for it in items if it["url"] not in seen][:FLASH_MAX_NEW]
         if new:
             fresh[country["code"]] = new

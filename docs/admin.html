@@ -60,9 +60,13 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 .country .top{display:flex;gap:10px;align-items:center}
 .country .top img{width:30px;height:21px;border-radius:3px;object-fit:cover;box-shadow:0 0 0 1px var(--line)}
 .country .top select{flex:1}
-.feed{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr) auto;gap:6px}
+.feed{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr) auto auto;gap:6px}
+.feed select{background:var(--surface);min-width:0}
+.country .top .btn.llm{white-space:nowrap}
+.country .cmsg{font-size:.85rem;color:var(--muted);min-height:0}
+.country .cmsg.ok{color:var(--ok, #1b7f3b)}.country .cmsg.err{color:var(--err, #b42318)}
 .feed input{background:var(--surface)}
-@media (max-width:600px){.feed{grid-template-columns:1fr auto}.feed .fname{grid-column:1 / -1}}
+@media (max-width:600px){.feed{grid-template-columns:1fr auto}.feed .fname,.feed .furl{grid-column:1 / -1}.country .top{flex-wrap:wrap}.country .top select{flex:1 1 60%}}
 .runs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
 .runs li{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .runs a{color:var(--accent)}
@@ -120,7 +124,11 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 
 <section class="card">
   <h2><span class="n">4</span>Ülkeler ve kaynaklar</h2>
-  <p>Kullanıcılar burada eklediğiniz ülkelerden istediklerini seçer. Her ülke için haberlerin derleneceği RSS adreslerini girin (haber sitesinin "RSS" bağlantısı). Gemini her ülke için bu kaynaklardan 5-10 önemli haber seçer.</p>
+  <p>Kullanıcılar burada eklediğiniz ülkelerden istediklerini seçer. Her ülke için haberlerin derleneceği RSS adreslerini girin (haber sitesinin "RSS" bağlantısı). Gemini günlük baskı için 5-10 önemli haber seçer, saat başı da son dakika maddelerini yazar.</p>
+  <ul class="help">
+    <li>Her kaynağın yanında nerede kullanılacağını seçin: <b>Günlük + Son dakika</b>, <b>Yalnız günlük</b> (seçilmiş manşetler) ya da <b>Yalnız son dakika</b> (sık güncellenen "son dakika" akışları).</li>
+    <li><b>LLM ile ekle</b>: ülkeyi seçip bu düğmeye basın. Gemini o ülkenin önemli haber sitelerini bulur, adresler tek tek denenir ve çalışanlar kullanım türleriyle birlikte forma eklenir (yaklaşık 1-2 dakika). Kontrol edip <b>Ayarları kaydet</b>'e basın.</li>
+  </ul>
   <div id="countries" style="display:flex;flex-direction:column;gap:10px"></div>
   <div class="actions"><button class="btn" id="add-country">+ Ülke ekle</button></div>
 </section>
@@ -270,12 +278,17 @@ function renderConfig(){
   }));
   $("#countries").replaceChildren(...cfg.countries.map(renderCountry));
 }
+const USES = [["both", "Günlük + Son dakika"], ["daily", "Yalnız günlük"], ["flash", "Yalnız son dakika"]];
 function feedRow(f = {name:"", url:""}){
   const row = el("div", "feed");
   const n = el("input", "fname"); n.type = "text"; n.placeholder = "Kaynak adı (ör. tagesschau)"; n.value = f.name || "";
   const u = el("input", "furl"); u.type = "url"; u.placeholder = "https://…/rss.xml"; u.value = f.url || "";
+  const use = el("select", "fuse"); use.setAttribute("aria-label", "Kullanım");
+  USES.forEach(([v, label]) => { const o = el("option", null, label); o.value = v; use.append(o); });
+  use.value = USES.some(([v]) => v === f.use) ? f.use : "both";
+  if (f.why) u.title = f.why;
   const x = el("button", "btn danger", "Sil"); x.type = "button"; x.onclick = () => row.remove();
-  row.append(n, u, x); return row;
+  row.append(n, u, use, x); return row;
 }
 function renderCountry(c = {code:"", feeds:[]}){
   const box = el("div", "country");
@@ -288,14 +301,51 @@ function renderCountry(c = {code:"", feeds:[]}){
   const setFlag = () => { img.src = sel.value ? `https://flagcdn.com/${sel.value}.svg` : ""; img.hidden = !sel.value; };
   sel.onchange = setFlag; setFlag();
   const del = el("button", "btn danger", "Ülkeyi kaldır"); del.type = "button"; del.onclick = () => box.remove();
-  top.append(img, sel, del);
-  const feeds = el("div"); feeds.style.cssText = "display:flex;flex-direction:column;gap:6px";
+  const llm = el("button", "btn llm", "✨ LLM ile ekle"); llm.type = "button";
+  llm.title = "Gemini bu ülkenin haber kaynaklarını bulsun ve denesin";
+  top.append(img, sel, llm, del);
+  const feeds = el("div", "feeds"); feeds.style.cssText = "display:flex;flex-direction:column;gap:6px";
   (c.feeds?.length ? c.feeds : [{}]).forEach(f => feeds.append(feedRow(f)));
   const add = el("button", "btn", "+ Kaynak ekle"); add.type = "button"; add.style.alignSelf = "flex-start";
   add.onclick = () => feeds.append(feedRow());
-  box.append(top, feeds, add);
+  const msg = el("div", "cmsg");
+  llm.onclick = () => suggestFeeds(sel.value, feeds, msg, llm);
+  box.append(top, msg, feeds, add);
   return box;
 }
+/* LLM ile ekle: suggest-feeds.yml iş akışını başlatır, sonucu suggest/<kod>.json'dan okuyup forma ekler */
+const sleep = ms => new Promise(r => setTimeout(r, ms));
+async function suggestFeeds(code, feeds, msg, btn){
+  const show = (cls, text) => { msg.className = "cmsg " + cls; msg.textContent = text; };
+  if (!code) return show("err", "Önce ülkeyi seçin.");
+  const country = nameTR.of(code.toUpperCase());
+  const request = Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
+  btn.disabled = true;
+  try {
+    await gh(`repos/${REPO}/actions/workflows/suggest-feeds.yml/dispatches`, {method:"POST", body:JSON.stringify({
+      ref:"main", inputs:{country:code, name:nameEN.of(code.toUpperCase()), request}})});
+    const started = Date.now();
+    let result = null;
+    while (Date.now() - started < 6 * 60 * 1000){
+      const sec = Math.round((Date.now() - started) / 1000);
+      show("", `Gemini ${country} için kaynak arıyor ve adresleri deniyor… (${sec} sn)`);
+      await sleep(8000);
+      const f = await gh(`repos/${REPO}/contents/suggest/${code}.json?ref=main&t=${Date.now()}`, {allow404:true});
+      if (f){ const j = JSON.parse(unb64(f.content)); if (j.request === request){ result = j; break; } }
+    }
+    if (!result) throw new Error("Öneri zamanında gelmedi. Aşağıdaki çalıştırma listesinden ayrıntıya bakın ya da yeniden deneyin.");
+    const have = new Set([...feeds.querySelectorAll(".furl")].map(i => i.value.trim()));
+    feeds.querySelectorAll(".feed").forEach(r => { if (!r.querySelector(".fname").value.trim() && !r.querySelector(".furl").value.trim()) r.remove(); });
+    const fresh = result.feeds.filter(f => !have.has(f.url));
+    fresh.forEach(f => feeds.append(feedRow(f)));
+    if (!feeds.querySelector(".feed")) feeds.append(feedRow());
+    if (!result.feeds.length) show("err", "Gemini çalışan bir kaynak bulamadı. Kaynakları elle ekleyebilir ya da yeniden deneyebilirsiniz.");
+    else show("ok", `${fresh.length} kaynak eklendi` + (result.feeds.length > fresh.length ? ` (${result.feeds.length - fresh.length} tanesi zaten vardı)` : "")
+      + `. Çalışmayan ${result.rejected.length} adres elendi. Kontrol edip "Ayarları kaydet"e basın.`);
+  } catch (e){ show("err", e.message); }
+  finally { btn.disabled = false; }
+}
+
 $("#add-country").onclick = () => { const b = renderCountry(); $("#countries").append(b); b.querySelector("select").focus(); };
 
 function readConfig(){
@@ -312,7 +362,7 @@ function readConfig(){
       const name = row.querySelector(".fname").value.trim(), url = row.querySelector(".furl").value.trim();
       if (!name && !url) continue;
       if (!/^https:\/\/\S+$/.test(url)) throw new Error(`${nameTR.of(code.toUpperCase())}: kaynak adresi https:// ile başlamalı.`);
-      feeds.push({name:name || new URL(url).hostname, url});
+      feeds.push({name:name || new URL(url).hostname, url, use:row.querySelector(".fuse").value});
     }
     if (!feeds.length) throw new Error(`${nameTR.of(code.toUpperCase())} için en az bir kaynak girin.`);
     countries.push({code, name:nameEN.of(code.toUpperCase()), feeds});
@@ -349,7 +399,7 @@ async function loadRuns(){
       const li = el("li");
       if (!r){ li.textContent = "Henüz çalıştırma yok."; return li; }
       const [cls, txt] = r.status === "completed" ? (RESULT[r.conclusion] || ["", r.conclusion]) : ["", STATUS[r.status] || r.status];
-      const how = {schedule:"saatlik kontrol", workflow_dispatch:"Şimdi hazırla", push:"ayar değişikliği"}[r.event] || r.event;
+      const how = {schedule:"saatlik kontrol", workflow_dispatch:"Şimdi hazırla", push:"ayar/kod değişikliği"}[r.event] || r.event;
       const a = el("a", null, "ayrıntı"); a.href = r.html_url; a.target = "_blank"; a.rel = "noopener";
       li.append(el("span", "pill " + cls, txt), document.createTextNode(`${new Date(r.created_at).toLocaleString("tr-TR", {day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"})} · ${how} · `), a);
       return li;
