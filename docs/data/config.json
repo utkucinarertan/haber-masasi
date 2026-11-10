@@ -2,7 +2,6 @@
  "time": "07:00",
  "languages": [
   "tr",
-  "en",
   "de"
  ],
  "countries": [
@@ -21,6 +20,14 @@
     {
      "name": "DW Türkçe",
      "url": "https://rss.dw.com/rdf/rss-tur-all"
+    },
+    {
+     "name": "Der Spiegel",
+     "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss"
+    },
+    {
+     "name": "Der Spiegel Son dakika",
+     "url": "https://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss"
     }
    ]
   },
@@ -39,6 +46,10 @@
     {
      "name": "Sozcu",
      "url": "https://www.sozcu.com.tr/feeds-rss-category-sozcu"
+    },
+    {
+     "name": "Sozcu Son Dakika",
+     "url": "https://www.sozcu.com.tr/feeds-son-dakika"
     }
    ]
   }
