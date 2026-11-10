@@ -1,0 +1,78 @@
+{
+ "code": "fr",
+ "country": "France",
+ "request": "claude-test-1",
+ "createdAt": "2026-11-10T04:01:27+03:00",
+ "feeds": [
+  {
+   "name": "Le Monde",
+   "url": "https://www.lemonde.fr/rss/une.xml",
+   "use": "both",
+   "language": "fr",
+   "why": "Front-page coverage from France's premier center-left national newspaper of record.",
+   "items": 16
+  },
+  {
+   "name": "Franceinfo",
+   "url": "https://www.francetvinfo.fr/titres.rss",
+   "use": "flash",
+   "language": "fr",
+   "why": "Continuous breaking news and real-time headlines from the French public broadcaster.",
+   "items": 28
+  },
+  {
+   "name": "Le Figaro",
+   "url": "https://www.lefigaro.fr/rss/figaro_actualites.xml",
+   "use": "both",
+   "language": "fr",
+   "why": "Main news feed from the prominent center-right national daily covering politics and society.",
+   "items": 20
+  },
+  {
+   "name": "Libération",
+   "url": "https://www.liberation.fr/arc/outboundfeeds/rss/?outputType=xml",
+   "use": "daily",
+   "language": "fr",
+   "why": "National news and analysis from the leading left-leaning daily.",
+   "items": 50
+  },
+  {
+   "name": "France 24 (Français)",
+   "url": "https://www.france24.com/fr/france/rss",
+   "use": "both",
+   "language": "fr",
+   "why": "Dedicated France-focused news feed from the international public television network.",
+   "items": 30
+  },
+  {
+   "name": "RFI France",
+   "url": "https://www.rfi.fr/fr/france/rss",
+   "use": "daily",
+   "language": "fr",
+   "why": "Domestic French news reporting from Radio France Internationale.",
+   "items": 24
+  },
+  {
+   "name": "L'Express",
+   "url": "https://www.lexpress.fr/rss/alaune.xml",
+   "use": "daily",
+   "language": "fr",
+   "why": "Top stories, political analysis, and investigations from a leading weekly news outlet.",
+   "items": 57
+  },
+  {
+   "name": "Euronews (Français)",
+   "url": "https://fr.euronews.com/rss",
+   "use": "flash",
+   "language": "fr",
+   "why": "European and French current affairs updated throughout the day in French.",
+   "items": 50
+  }
+ ],
+ "rejected": [
+  "https://services.lesechos.fr/rss/les-echos-une.xml",
+  "https://www.france24.com/en/france/rss",
+  "https://www.20minutes.fr/feeds/rss-actu-france.xml",
+  "https://www.lepoint.fr/rss.xml"
+ ]
+}
