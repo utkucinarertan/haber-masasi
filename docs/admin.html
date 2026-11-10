@@ -173,7 +173,7 @@ async function gh(path, opts = {}){
   if (r.status === 404 && opts.allow404) return null;
   const data = await r.json().catch(() => ({}));
   if (!r.ok){
-    const hint = r.status === 401 ? "GitHub anahtarı geçersiz ya da süresi dolmuş."
+    const hint = r.status === 401 ? `GitHub anahtarı geçersiz ya da süresi dolmuş (GitHub: ${data.message || "401"}). Anahtarı yeniden oluşturduysanız yenisini 1. adımda yapıştırıp Bağlan deyin.`
       : r.status === 403 || r.status === 404 ? "GitHub anahtarının bu işlem için izni yok (Contents, Actions ve Secrets: Read and write gerekli)."
       : `GitHub hatası (${r.status}): ${data.message || ""}`;
     const e = new Error(hint); e.status = r.status; throw e;
