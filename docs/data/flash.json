@@ -1,8 +1,17 @@
 {
  "since": "2026-11-09T07:00+03:00",
- "updatedAt": "2026-11-10T03:27+03:00",
+ "updatedAt": "2026-11-10T03:40+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-10T01:32:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b#ref=rss",
+    "text": {
+     "tr": "Alman hükümeti, istihdam kurumu ve elektrikli araç teşvikleri nedeniyle 2027 bütçesinde milyarlarca euroluk ek harcama bildirdi.",
+     "de": "Die Bundesregierung benötigt für den Haushalt 2027 zusätzliche Milliardenausgaben, insbesondere für die Bundesagentur für Arbeit und Elektroautoprämien."
+    }
+   },
    {
     "time": "2026-11-09T22:27:31+01:00",
     "source": "tagesschau",
@@ -19,6 +28,15 @@
     "text": {
      "tr": "Berlin'de beş gündür kayıp olan 13 yaşındaki bir kız çocuğu, Brandenburg'da sağ olarak bulundu.",
      "de": "Eine seit fünf Tagen vermisste 13-Jährige aus Berlin ist in Brandenburg lebend aufgefunden worden."
+    }
+   },
+   {
+    "time": "2026-11-09T17:09:03+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html",
+    "text": {
+     "tr": "Vodafone, Almanya'da yapay zekaya ağırlık vererek yaklaşık 2 bin 300 çalışanını işten çıkaracağını duyurdu.",
+     "de": "Vodafone plant in Deutschland den Abbau von rund 2.300 Arbeitsplätzen und will verstärkt auf Künstliche Intelligenz setzen."
     }
    }
   ],
@@ -40,37 +58,79 @@
      "tr": "Birleşmiş Milletler İklim Değişikliği Konferansı COP31, Antalya'da başladı.",
      "de": "Die UN-Klimakonferenz COP31 ist im türkischen Antalya eröffnet worden."
     }
+   },
+   {
+    "time": "2026-11-09T20:19:16+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641",
+    "text": {
+     "tr": "İstanbul'da yürütülen fon soruşturmasında OMG Capital Advisors Yönetim Kurulu Başkanı Ömer Murat Gülkan gözaltına alındı.",
+     "de": "Im Rahmen von Ermittlungen zu Investmentfonds wurde OMG-Capital-Advisors-Chef Ömer Murat Gülkan in Istanbul festgenommen."
+    }
    }
   ]
  },
  "seen": [
+  "https://www.bbc.com/turkce/articles/c65yny8m1kzyo",
   "https://www.bbc.com/turkce/articles/c6rryr2evv5qo",
+  "https://www.bbc.com/turkce/articles/cm86zz07qlx5o",
   "https://www.bbc.com/turkce/articles/cm93z0e73435o",
   "https://www.bbc.com/turkce/articles/cqn7372n31ejo",
+  "https://www.bbc.com/turkce/articles/crx2d2p8yjjvo",
+  "https://www.bbc.com/turkce/articles/cwvg0g89ne0mo",
+  "https://www.dw.com/tr/almanya-dâhil-9-ab-ülkesi-için-sera-gazı-uyarısı/a-79902257",
+  "https://www.dw.com/tr/avrupa-da-marketler-hacklendi-türkiye-de-risk-ne/a-79900913",
+  "https://www.dw.com/tr/başbakan-merz-ten-kadın-cumhurbaşkanı-adayına-tam-destek-en-iyi-koşullara-sahip/a-79900886",
+  "https://www.dw.com/tr/erdoğan-trump-a-iran-la-ilgili-çekincemizi-anlattım/a-79899648",
   "https://www.dw.com/tr/fransa-buzdolabı-saldırılarından-iran-ı-sorumlu-tuttu/a-79904747",
+  "https://www.dw.com/tr/girit-e-ulaşmaya-çalışan-20-göçmen-öldü/a-79900464",
+  "https://www.dw.com/tr/gs-amedspor-maçı-sarı-torba-tartışmasının-perde-arkası-ne/a-79900351",
+  "https://www.dw.com/tr/izmir-aliağa-habaş-demir-çelik-fabrikasında-patlama/a-79898945",
   "https://www.dw.com/tr/kıbrıs-ta-iki-yeni-sınır-kapısı-açılıyor/a-79904707",
+  "https://www.dw.com/tr/rusya-abd-arabuluculuğunda-abu-dabi-de-yapılacak-ukrayna-müzakereleri-öncesinde-avrupa-yı-hedef-aldı-savaşa-hazırlanıyorlar/a-79902777",
   "https://www.sozcu.com.tr/2-portekizli-tutuklanmisti-kavgada-yaralanan-genc-hayatini-kaybetti-p379699",
   "https://www.sozcu.com.tr/4-bin-sut-kutusunu-biriktirip-kendine-iki-odali-ev-yapti-p379662",
+  "https://www.sozcu.com.tr/7-ilde-yasa-disi-bahis-operasyonu-14-supheli-tutuklandi-p379632",
+  "https://www.sozcu.com.tr/ankara-trafik-yol-kapali-10-kasim-2026-p379652",
   "https://www.sozcu.com.tr/antalya-cop31-unlu-isimler-katildi-p379663",
+  "https://www.sozcu.com.tr/aydin-da-yeni-nesil-suc-orgutune-13-tutuklandi-p379645",
   "https://www.sozcu.com.tr/bes-seritli-yolu-sokup-meydani-agaclarla-kapladilar-p379693",
   "https://www.sozcu.com.tr/bursa-da-arac-yuklu-cekici-dehset-sacti-otomobil-ve-hafif-ticari-araca-carpip-eve-girdi-p379683",
+  "https://www.sozcu.com.tr/butce-gorusmelerinde-imamoglu-kavgasi-p379639",
+  "https://www.sozcu.com.tr/ceyda-ela-karabiyik-in-olumune-neden-olan-surucuye-6-yila-kadar-hapis-talebi-p379629",
   "https://www.sozcu.com.tr/cin-in-savas-ucaklarina-talip-oldular-20-adet-birden-alip-taksitlerle-odeyecekler-p379682",
+  "https://www.sozcu.com.tr/dev-cukuru-suyla-doldurmaya-basladilar-kisin-butun-sehri-isitacak-p379631",
   "https://www.sozcu.com.tr/ekrem-imamoglu-ndan-aliaga-daki-fabrika-faciasina-tepki-p379696",
+  "https://www.sozcu.com.tr/erdogan-dan-kabine-sonrasi-aciklamalar-p379656",
+  "https://www.sozcu.com.tr/eski-dolabin-icinden-servet-cikti-degeri-tam-150-milyon-tl-p379644",
+  "https://www.sozcu.com.tr/feti-yildiz-fon-vurgunu-cikisi-p379655",
   "https://www.sozcu.com.tr/habas-in-sahibi-kim-mehmet-rustu-basaran-kimdir-hangi-suctan-ceza-aldi-p379669",
+  "https://www.sozcu.com.tr/haluk-bilginer-den-cok-konusulacak-aciklama-p379657",
   "https://www.sozcu.com.tr/ibb-meclisi-nde-yeni-parti-grubu-kuruldu-p379697",
   "https://www.sozcu.com.tr/iran-da-kapali-kapilar-ardinda-farkli-bir-yasam-kadinlar-spor-salonlarinda-boyle-antrenman-yapiyor-p379672",
   "https://www.sozcu.com.tr/kalbimizdesin-p379701",
+  "https://www.sozcu.com.tr/kavsagi-hamburgere-donusturecekler-ortasindan-yol-gececek-p379658",
   "https://www.sozcu.com.tr/kedinin-bitmek-bilmeyen-miyavlamasi-felaketi-onledi-4-kisilik-aile-olumden-dondu-p379668",
+  "https://www.sozcu.com.tr/koc-holding-den-su-icin-2040-hedefi-p379628",
   "https://www.sozcu.com.tr/koca-adliye-binasini-satisa-cikardilar-p379664",
   "https://www.sozcu.com.tr/limon-ve-portakalin-pabucunu-dama-atti-c-vitamininde-tahtin-sahibi-belli-oldu-p379670",
+  "https://www.sozcu.com.tr/mezarda-altin-ayi-bulundu-p379627",
   "https://www.sozcu.com.tr/mustafa-sarigul-aciklamasi-9-kasim-2026-p379678",
   "https://www.sozcu.com.tr/olumunun-88-nci-yilinda-mustafa-kemal-ataturk-un-ilk-kez-goreceginiz-fotogaflari-p379659",
+  "https://www.sozcu.com.tr/omer-murat-gulkan-gozaltinda-p379641",
   "https://www.sozcu.com.tr/onderimiz-ataturk-u-saygi-sevgi-ve-ozlemle-aniyoruz-p379630",
   "https://www.sozcu.com.tr/pendik-chp-ilce-baskani-abidin-ekren-kaza-yapti-p379684",
+  "https://www.sozcu.com.tr/sehrin-dort-bir-yanina-yerlestiriyorlar-dugmeye-basan-bedava-alacak-p379640",
   "https://www.sozcu.com.tr/siddetli-dolu-yagisi-yolcu-ucagini-hurdaya-cikardi-p379673",
   "https://www.sozcu.com.tr/son-dakika-veya-izmir-de-habas-demir-celik-fabrikasi-nda-patlama-can-kaybi-10-a-yukseldi-p379510",
+  "https://www.sozcu.com.tr/spk-dan-fon-dolandiriciligi-uyarisi-p379649",
   "https://www.sozcu.com.tr/tarlalarin-uzerini-mor-panellerle-kaplamaya-basladilar-p379700",
+  "https://www.sozcu.com.tr/tren-istasyonundaki-sorunu-cozmek-icin-kecileri-devreye-soktular-p379654",
+  "https://www.sozcu.com.tr/turkiye-de-baslayan-cop31-de-korkutan-uyari-2027-de-cok-daha-kotusu-yasanabilir-p379635",
   "https://www.sozcu.com.tr/vedat-isikhan-izmir-patlama-nedenini-acikladi-p379667",
+  "https://www.sozcu.com.tr/viktor-orban-in-kardesi-gozaltina-alindi-p379643",
+  "https://www.sozcu.com.tr/yollara-fotokatalitik-asfalt-sermeye-basladilar-asfalt-artik-baska-bir-amaca-da-hizmet-edecek-p379626",
+  "https://www.sozcu.com.tr/zehirli-deniz-canlilari-sahillere-vurmaya-basladi-p379648",
   "https://www.spiegel.de/ausland/polen-wer-war-der-moerder-von-krakau-a-59103b51-78fe-4304-9fa3-4a73839ef06d#ref=rss",
   "https://www.spiegel.de/kultur/musik/100-jahre-john-coltrane-wie-joe-lovano-und-melissa-aldana-in-der-elbphilharmonie-dem-uebervater-des-jazz-huldigen-a-35670ced-3820-4501-b799-ad61059e0bff#ref=rss",
   "https://www.spiegel.de/kultur/musik/justin-timberlake-stellt-hintergrund-von-what-goes-around-comes-around-klar-a-a17ee76e-5379-4167-9927-b1e33f2edfcd#ref=rss",
@@ -78,21 +138,38 @@
   "https://www.spiegel.de/panorama/gesellschaft/papst-leo-xiv-in-argentinien-zweieinhalb-millionen-bei-messe-in-buenos-aires-a-0dbe9b67-b743-45ab-81f8-e58b7633ce20#ref=rss",
   "https://www.spiegel.de/panorama/justiz/lisa-t-maedchen-aus-berlin-marzahn-wurde-offenbar-zum-zufallsopfer-a-6a9b31e7-b6a3-4a4e-a686-0c7f9fb079f2#ref=rss",
   "https://www.spiegel.de/panorama/russell-brand-was-sie-ueber-das-urteil-gegen-den-britischen-schauspieler-und-entertainer-wissen-muessen-a-9a3d6f9a-22d6-48be-b071-78b6b5fb202e#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/ilse-aigner-gibt-sich-praesidial-aber-den-kleinen-seitenhieb-kann-sie-sich-nicht-verkneifen-a-d2733892-c533-4ec3-b7f9-89ff28124617#ref=rss",
   "https://www.spiegel.de/politik/deutschland/marco-rubio-nach-trumps-wahlniederlage-bleibt-sein-aussenminister-vage-a-ec3ef6e5-4d2a-4b0d-a054-e164ca0975b1#ref=rss",
   "https://www.spiegel.de/reise/staedte/miniatur-wunderland-suedamerika-abschnitt-mit-amazonas-atacama-und-anden-eroeffnet-a-fe9aaec8-73a4-4afb-a5ec-e3e6d2ebed4e#ref=rss",
+  "https://www.spiegel.de/wirtschaft/jensen-huang-die-affaere-des-nvidia-chefs-eine-geschichte-der-honigfallen-a-e96abebf-c82b-4e15-aa6d-f56af06d5c32#ref=rss",
+  "https://www.spiegel.de/wirtschaft/soziales/bundesregierung-meldet-milliardenschwere-mehrausgaben-fuer-den-haushalt-2027-a-b3c6d481-3700-4ddb-886c-2d0adeb6e46b#ref=rss",
   "https://www.spiegel.de/wissenschaft/natur/erderwaermung-1-5-grad-schwelle-wird-wohl-2029-gerissen-a-faffcc78-bb10-4f71-867c-fe7ee466843f#ref=rss",
+  "https://www.tagesschau.de/ausland/afrika/viele-tote-bootsunglueck-senegal-100.html",
   "https://www.tagesschau.de/ausland/amerika/papst-leo-argentinien-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-amtsenthebungsverfahren-hegseth-100.html",
   "https://www.tagesschau.de/ausland/cop-136.html",
+  "https://www.tagesschau.de/ausland/europa/ermittlungen-krakau-102.html",
   "https://www.tagesschau.de/ausland/europa/frankreich-erhoehung-mindestlohn-100.html",
   "https://www.tagesschau.de/ausland/europa/frankreich-melenchon-lfi-wahlkampf-100.html",
+  "https://www.tagesschau.de/ausland/europa/g7-paris-100.html",
   "https://www.tagesschau.de/ausland/europa/kuehlanlagen-cyberangriffe-100.html",
+  "https://www.tagesschau.de/ausland/europa/polen-uebung-koalicja-100.html",
   "https://www.tagesschau.de/ausland/europa/russland-zeitung-nowaja-gaseta-102.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-verhandlungen-abu-dhabi-102.html",
+  "https://www.tagesschau.de/ausland/russell-brand-strafmass-100.html",
+  "https://www.tagesschau.de/inland/gesellschaft/novemberpogrome-jahrestag-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/synagoge-muenchen-102.html",
+  "https://www.tagesschau.de/inland/innenpolitik/aigner-merz-bundespraesidentin-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/bilger-wahlarena-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/bundespraesidentin-bundesversammlung-aigner-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/haushalt-steuerplaene-bundesregierung-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-bundespraesidentin-100.html",
-  "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html"
+  "https://www.tagesschau.de/inland/innenpolitik/merz-aigner-kandidatin-bundespraesidentin-100.html",
+  "https://www.tagesschau.de/inland/november-gedenken-100.html",
+  "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-nvidia-ki-huang-100.html",
+  "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-170.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/commerzbank-uebernahme-unicredit-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/faq-nvidia-spionage-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/vodafone-stellenabbau-102.html"
  ]
 }
