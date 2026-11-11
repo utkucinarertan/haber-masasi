@@ -1,83 +1,116 @@
 {
  "since": "2026-11-11T07:00+03:00",
- "updatedAt": "2026-11-11T11:16+03:00",
+ "updatedAt": "2026-11-12T01:42+03:00",
  "countries": {
   "de": [
    {
-    "time": "2026-11-11T09:24:17+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html",
-    "text": {
-     "tr": "Die Linke, savunma harcamalarındaki artış nedeniyle savunma şirketlerine aşırı kâr vergisi getirilmesini talep ediyor.",
-     "de": "Die Linke fordert angesichts stark gestiegener Gewinne eine Übergewinnsteuer für Rüstungskonzerne."
-    }
-   },
-   {
-    "time": "2026-11-11T09:23:39+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
-    "text": {
-     "tr": "Yapay zeka ve rüzgar enerjisindeki büyüme, Siemens Energy şirketine rekor bir yıl yaşattı.",
-     "de": "Der Boom bei Windkraft und Künstlicher Intelligenz bescherte Siemens Energy ein Rekordjahr."
-    }
-   },
-   {
-    "time": "2026-11-11T09:09:54+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
-    "text": {
-     "tr": "ABD Adalet Bakanlığı, Avrupa ve ABD'de saldırı planlamaya katılan üç kişiyi terör desteğiyle suçladı.",
-     "de": "Das US-Justizministerium hat drei Männer wegen Terrorunterstützung bei geplanten Anschlägen angeklagt."
-    }
-   },
-   {
-    "time": "2026-11-11T08:52:00+01:00",
+    "time": "2026-11-11T23:00:00+01:00",
     "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss",
+    "url": "https://www.spiegel.de/panorama/titanic-schwesterschiff-ss-united-states-vor-florida-zum-riff-versenkt-a-f3ab75f8-7e01-42dc-8045-ab4347541368#ref=rss",
     "text": {
-     "tr": "Avrupa Parlamentosu ve üye ülkeler, 2027 yılı bütçesi konusunda uzlaşmaya vardılar.",
-     "de": "EU-Parlament und Mitgliedstaaten haben sich auf den Haushaltskompromiss für das Jahr 2027 geeinigt."
+     "tr": "Eski dev yolcu gemisi SS United States, yapay resif oluşturmak üzere Florida açıklarında batırıldı.",
+     "de": "Das ehemalige Passagierschiff SS United States wurde vor der Küste Floridas versenkt, um ein künstliches Riff zu bilden."
     }
    },
    {
-    "time": "2026-11-11T08:30:00+00:00",
-    "source": "DW Türkçe",
-    "url": "https://www.dw.com/tr/fon-soruşturmasında-eski-takasbank-müdürü-dahil-dört-tutuklama/a-79915181",
+    "time": "2026-11-11T22:30:05+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
     "text": {
-     "tr": "Fon soruşturmasında eski Takasbank Müdürü Yunus Arıncı dahil 4 kişi tutuklandı, toplam tutuklu sayısı 123 oldu.",
-     "de": "Vier Personen, darunter der ehemalige Takasbank-Direktor Yunus Arıncı, wurden in einer Fonds-Ermittlung festgenommen."
+     "tr": "Koalisyon bütçe müzakerelerinde şeker vergisini ertelemeyi ve elektrik vergisini düşürmemeyi kararlaştırdı.",
+     "de": "Die Koalition hat sich bei den Haushaltsverhandlungen darauf geeinigt, die Zuckersteuer zu verschieben und die Stromsteuer vorerst nicht zu senken."
+    }
+   },
+   {
+    "time": "2026-11-11T22:00:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-us-militaerhilfe-schrittweise-auslaufen-lassen-a-27598afe-8d8f-44ce-b523-04223f4c6366#ref=rss",
+    "text": {
+     "tr": "İsrail Başbakanı Binyamin Netanyahu, ABD'den alınan askeri yardımların kademeli olarak sonlandırılmasını istiyor.",
+     "de": "Der israelische Ministerpräsident Benjamin Netanyahu will die US-Militärhilfe schrittweise auslaufen lassen."
+    }
+   },
+   {
+    "time": "2026-11-11T20:26:10+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+    "text": {
+     "tr": "Polonya'nın Bağımsızlık Günü'nde Varşova'da bir araya gelen yüz binlerce aşırı sağcı yürüyüş düzenledi.",
+     "de": "In Warschau haben am polnischen Unabhängigkeitstag Hunderttausende Rechtsextreme an einem umstrittenen Marsch teilgenommen."
+    }
+   },
+   {
+    "time": "2026-11-11T20:13:07+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+    "text": {
+     "tr": "İtalya genelinde binlerce okul e-posta yoluyla gelen bomba tehditleri nedeniyle tahliye edildi.",
+     "de": "In Italien sind an Tausenden Schulen per E-Mail eingegangene Bombendrohungen gemeldet worden."
     }
    }
   ],
   "tr": [
    {
-    "time": "2026-11-11T11:39:20+03:00",
+    "time": "2026-11-12T01:14:29+03:00",
     "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/bddk-baskani-sahap-kavcioglu-istifa-etti-p380216",
+    "url": "https://www.sozcu.com.tr/avrupa-da-kirmizi-alarm-350-den-fazla-ucus-iptal-edildi-p380459",
     "text": {
-     "tr": "BDDK Başkanı Şahap Kavcıoğlu görevinden istifa ettiğini duyurdu.",
-     "de": "Der Präsident der Bankenaufsicht BDDK, Şahap Kavcıoğlu, hat seinen Rücktritt bekannt gegeben."
+     "tr": "Portekiz'i vuran Charles Kasırgası ve olumsuz hava koşulları nedeniyle Avrupa'da 350'den fazla uçuş iptal edildi.",
+     "de": "Wegen des Sturms Charles in Portugal wurden in Europa mehr als 350 Flüge gestrichen."
     }
    },
    {
-    "time": "2026-11-11T10:30:21+03:00",
+    "time": "2026-11-12T00:14:53+03:00",
     "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/besiktas-ta-gece-kulubu-onunde-kanli-pusu-24-yasindaki-genc-hayatini-kaybetti-p380177",
+    "url": "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
     "text": {
-     "tr": "İstanbul Beşiktaş'ta eğlence mekanının önünde açılan ateş sonucu 24 yaşındaki bir genç hayatını kaybetti.",
-     "de": "Vor einem Nachtklub in Istanbul-Beşiktaş wurde ein 24-jähriger Mann bei einer Schießerei getötet."
+     "tr": "Türkiye Cumhuriyet Merkez Bankası, ihtiyaç, taşıt ve ticari kredilerin büyüme sınırlarında değişikliğe gitti.",
+     "de": "Die türkische Zentralbank hat Änderungen an den Wachstumsgrenzen für Privat-, Auto- und Gewerbekredite vorgenommen."
+    }
+   },
+   {
+    "time": "2026-11-11T23:05:35+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/rize-de-kamyonet-dereye-yuvarlandi-3-kisi-hayatini-kaybetti-p380432",
+    "text": {
+     "tr": "Rize'nin Çayeli ilçesinde dereye yuvarlanan kamyonetteki 3 kişi hayatını kaybetti.",
+     "de": "Bei einem Unfall, bei dem ein Kleinbus in Rize in einen Bach stürzte, kamen drei Menschen ums Leben."
+    }
+   },
+   {
+    "time": "2026-11-11T23:04:34+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/disisleri-bakanligindan-israil-e-sert-tepki-alcakca-ve-hadsiz-iftiralar-p380431",
+    "text": {
+     "tr": "Dışişleri Bakanlığı, İsrail Dışişleri Bakanlığının Cumhurbaşkanı Recep Tayyip Erdoğan'ı hedef alan açıklamalarına tepki gösterdi.",
+     "de": "Das türkische Außenministerium hat scharf auf Äußerungen des israelischen Außenministeriums gegen Präsident Recep Tayyip Erdoğan reagiert."
+    }
+   },
+   {
+    "time": "2026-11-11T21:59:10+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/mikser-ile-kamyonet-carpisti-3-yarali-32-koyun-oldu-p380421",
+    "text": {
+     "tr": "Mardin'in Artuklu ilçesinde beton mikseri ile kamyonetin çarpışması sonucu 3 kişi yaralandı, 32 küçükbaş hayvan öldü.",
+     "de": "Bei einem Zusammenstoß zwischen einem Betonmischer und einem Transporter in Mardin wurden drei Personen verletzt und 32 Schafe getötet."
     }
    }
   ]
  },
  "seen": [
+  "https://www.bbc.com/turkce/articles/cmvg2rvpg774o",
   "https://www.dw.com/tr/abd-savunma-bakanı-hegseth-hakkındaki-azil-girişimini-cumhuriyetçiler-engelledi/a-79914579",
+  "https://www.dw.com/tr/almanya-da-işsiz-üniversite-mezunu-sayısı-rekor-düzeye-çıktı/a-79923359",
   "https://www.dw.com/tr/cop31-ev-sahibi-türkiye-iklim-endeksinde-53-üncü-sıraya-geriledi/a-79911061",
   "https://www.dw.com/tr/fon-soruşturmasında-eski-takasbank-müdürü-dahil-dört-tutuklama/a-79915181",
+  "https://www.dw.com/tr/kaos-gl-soruşturmasında-17-kişiye-müstehcenlik-davası/a-79923604",
+  "https://www.dw.com/tr/rusya-nın-abd-büyükelçisi-aleksandr-dartişiyev-hayatını-kaybetti/a-79923862",
   "https://www.manager-magazin.de/unternehmen/immobilien-der-unheimliche-aufstieg-des-maklers-evernest-a-12f69d68-1f3e-43bd-9ab9-fa27c461b524#ref=rss",
   "https://www.sozcu.com.tr/15-ilde-yasa-disi-bahis-operasyonu-38-tutuklama-p380170",
   "https://www.sozcu.com.tr/2-buyuksehir-ve-3-ilce-akp-ye-mi-geciyor-gozler-13-kasim-a-cevrildi-p380225",
+  "https://www.sozcu.com.tr/4-tonluk-beton-bloklar-tek-tek-denize-birakilacak-p380454",
   "https://www.sozcu.com.tr/6-ay-sonra-bu-peynirlerin-hicbiri-market-raflarinda-olmayacak-p380205",
+  "https://www.sozcu.com.tr/7-bin-plastik-siseden-karavan-yaptilar-icinde-yatak-ve-mutfak-bile-var-p380417",
   "https://www.sozcu.com.tr/70-yasini-gecen-suruculere-uyari-p380209",
   "https://www.sozcu.com.tr/986-balya-samanla-ev-yaptilar-ne-elektrik-faturasi-oduyorlar-ne-de-usuyorlar-p380228",
   "https://www.sozcu.com.tr/abd-de-dev-sirketlerde-isten-cikarmalar-suruyor-p380231",
@@ -87,34 +120,78 @@
   "https://www.sozcu.com.tr/ankara-da-avm-otoparkinda-korkutan-yangin-p380198",
   "https://www.sozcu.com.tr/ankara-kulislerinden-2027-asgari-ucret-rakami-sizdi-iste-konusulan-zam-orani-p380214",
   "https://www.sozcu.com.tr/arap-dunyasinin-en-borclu-ulkesi-aciklandi-listenin-zirvesinde-petrol-devi-var-p380224",
+  "https://www.sozcu.com.tr/avrupa-da-kirmizi-alarm-350-den-fazla-ucus-iptal-edildi-p380459",
+  "https://www.sozcu.com.tr/bakan-goktas-tan-tartisma-yaratacak-kisirlik-iddiasi-p380452",
+  "https://www.sozcu.com.tr/bayrampasada-yikim-sirasinda-hasar-goren-4-katli-bina-tahliye-edildi-p380450",
   "https://www.sozcu.com.tr/bddk-baskani-sahap-kavcioglu-istifa-etti-p380216",
   "https://www.sozcu.com.tr/besiktas-ta-gece-kulubu-onunde-kanli-pusu-24-yasindaki-genc-hayatini-kaybetti-p380177",
+  "https://www.sozcu.com.tr/bolu-dagi-tunelinde-arac-yangini-p380422",
+  "https://www.sozcu.com.tr/budoda-hava-engeli-8-sefer-iptal-p380456",
   "https://www.sozcu.com.tr/bursa-da-goren-donup-bir-daha-bakiyor-22-tonluk-ucagi-evinin-bahcesine-kondurdu-p380233",
+  "https://www.sozcu.com.tr/bursa-da-otomobil-ile-motosiklet-carpisti-anne-ve-oglu-yaralandi-p380436",
+  "https://www.sozcu.com.tr/chpden-istifa-eden-saniye-barutun-yeni-partisi-belli-oldu-p380458",
+  "https://www.sozcu.com.tr/cop31-icin-antalya-ya-gelen-pasinyan-dan-cay-keyfi-p380398",
   "https://www.sozcu.com.tr/dagin-tepesinden-her-gun-80-gram-altin-fiskiriyor-p380229",
+  "https://www.sozcu.com.tr/disisleri-bakanligindan-israil-e-sert-tepki-alcakca-ve-hadsiz-iftiralar-p380431",
+  "https://www.sozcu.com.tr/ela-rumeysa-cebeci-beraat-sonrasi-ilk-kez-goruntulendi-p380424",
+  "https://www.sozcu.com.tr/genc-doktorun-supheli-olumu-8-inci-kattan-dustugu-one-suruldu-p380400",
+  "https://www.sozcu.com.tr/hamile-esini-oldurmekle-suclaniyordu-yargitay-dan-tahliye-karari-p380444",
+  "https://www.sozcu.com.tr/italyada-6-binden-fazla-okula-bomba-tehdidi-meloniden-aciklama-geldi-p380435",
   "https://www.sozcu.com.tr/kapalicarsi-da-haliciya-giren-apple-ceo-su-tim-cook-kesenin-agzini-acti-p380204",
   "https://www.sozcu.com.tr/kara-kis-yaklasirken-kitlik-uyarisi-yapildi-p380171",
   "https://www.sozcu.com.tr/karanlik-coktugunde-koca-dag-maviye-rengine-donuyor-p380227",
+  "https://www.sozcu.com.tr/koltugunu-kaybeden-netanyahu-dan-son-hamle-p380425",
+  "https://www.sozcu.com.tr/mikser-ile-kamyonet-carpisti-3-yarali-32-koyun-oldu-p380421",
   "https://www.sozcu.com.tr/okul-saldirganinin-telefonunda-38-dakika-19-saniyelik-internet-kaydi-p380207",
+  "https://www.sozcu.com.tr/ozel-habasta-hayatini-kaybeden-iscilerin-aileleriyle-gorustu-p380433",
+  "https://www.sozcu.com.tr/rize-de-kamyonet-dereye-yuvarlandi-3-kisi-hayatini-kaybetti-p380432",
+  "https://www.sozcu.com.tr/rus-denizaltilarina-karsi-yeni-hamle-kablolar-icin-servet-harcayacaklar-p380423",
   "https://www.sozcu.com.tr/sahap-kavcioglu-kimdir-itifa-eden-bddk-baskani-kac-yasinda-ve-aslen-nereli-p380220",
+  "https://www.sozcu.com.tr/sehri-dev-bir-saate-donusturecekler-yollar-rakamlara-gore-duzenlenecek-p380434",
+  "https://www.sozcu.com.tr/son-dakika-merkez-bankasi-ndan-kredi-hamlesi-ihtiyac-tasit-ve-ticari-kredilerde-yeni-donem-p380426",
   "https://www.sozcu.com.tr/turkiye-nin-34-yillik-tekstil-devi-iflasin-esiginde-p380210",
+  "https://www.sozcu.com.tr/turkiye-nin-en-guvenli-5-sehri-belli-oldu-zirvedeki-il-sasirtti-p380455",
   "https://www.sozcu.com.tr/turkiye-nin-sifirdan-insa-edilen-ilinin-nufusu-uce-katlandi-buyuk-goc-akini-basladi-p380232",
   "https://www.sozcu.com.tr/umraniye-de-vinc-devrildi-yol-trafige-kapatildi-p380183",
   "https://www.sozcu.com.tr/uskudar-da-iett-otobusunun-onunu-kesti-semsiyeyle-camina-vurup-bagirdi-p380211",
+  "https://www.sozcu.com.tr/yollari-artik-bu-dev-makineyle-yapiyorlar-saatte-500-ton-asfalt-serebiliyor-p380446",
+  "https://www.spiegel.de/ausland/israel-benjamin-netanyahu-will-us-militaerhilfe-schrittweise-auslaufen-lassen-a-27598afe-8d8f-44ce-b523-04223f4c6366#ref=rss",
+  "https://www.spiegel.de/ausland/nvidia-jensen-huang-wer-ist-alice-huang-die-frau-im-zentrum-des-mutmasslichen-spionage-falls-a-e2ac78df-b6a3-4248-a836-753b92bd7776#ref=rss",
+  "https://www.spiegel.de/ausland/ukraine-gewinnt-im-krieg-gelaende-zurueck-so-gelang-operation-vivaldi-a-643a381b-1895-41c8-a71e-666723cc1b1b#ref=rss",
   "https://www.spiegel.de/kultur/krawalle-in-deutschland-wen-politiker-meinen-wenn-sie-von-chaoten-sprechen-a-2fd2977b-0b8a-4864-a3da-9be25e4e7b73#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/mercedes-amg-gt-viertuerer-im-test-das-passiert-wenn-verbrenner-freaks-ein-elektroauto-bauen-a-3a5fab2b-3228-4f96-b26f-5d6c6a70dc29#ref=rss",
+  "https://www.spiegel.de/mobilitaet/e-scooter-tiktok-videos-befeuern-trend-zu-frisierten-e-rollern-spiegel-tv-a-c70f3892-b590-4630-9d89-e4771c94dc44#ref=rss",
   "https://www.spiegel.de/panorama/der-herr-der-ringe-die-ringe-der-macht-warum-jamie-campbell-bowers-inneres-kind-vor-freude-schreit-a-93f595bd-c872-4d21-8954-0fa19d29d16f#ref=rss",
+  "https://www.spiegel.de/panorama/gesellschaft/autoritarismus-studie-so-sehr-broeckelt-die-ueberzeugung-demokratie-sei-eine-gute-idee-a-85bd6c2b-e2b1-44f3-811a-7ff1085fd442#ref=rss",
+  "https://www.spiegel.de/panorama/titanic-schwesterschiff-ss-united-states-vor-florida-zum-riff-versenkt-a-f3ab75f8-7e01-42dc-8045-ab4347541368#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/boris-pistorius-schafft-der-verteidigungsminister-die-wende-beim-kampf-gegen-sexuelles-fehlverhalten-in-der-bundeswehr-a-375d7184-5ee3-4aaa-8eaa-edc21847a3de#ref=rss",
   "https://www.spiegel.de/politik/deutschland/bundeswehr-sexuelle-belaestigung-dunkelfeldstudie-liefert-erschuetternde-zahlen-a-96511e9a-1184-4cfa-8485-6fc6ceb1a5da#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/die-linke-der-hort-des-antisemitismus-das-ist-doch-absurd-guener-balci-und-janine-wissler-im-spitzengespraech-a-d725b371-5965-40e9-8450-5617999e8dad#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/entwicklungshilfe-prominente-kirchenvertreter-warnen-vor-kuerzungen-a-79c79b86-fe11-4dde-90b4-be03c29a9dea#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/haushalt-2027-regierung-kann-sich-vorerst-nicht-auf-senkung-der-stromsteuer-einigen-a-b0f3c1e9-80e2-444f-b5ac-84fb332bf304#ref=rss",
   "https://www.spiegel.de/politik/ilse-aigner-mehr-als-jeder-dritte-haelt-csu-frau-fuer-geeignete-bundespraesidentin-a-9dec293e-8a34-46d3-b634-805e3bbe8566#ref=rss",
+  "https://www.spiegel.de/sport/fussball/dfb-team-wie-philipp-treu-und-derry-scherhant-die-herausforderungen-des-dfb-zeigen-a-0827eff1-7d20-4a65-80a1-84995a05226e#ref=rss",
   "https://www.spiegel.de/start/mobbende-chefs-sie-werden-angeschrien-so-wehren-sie-sich-a-49ee6ca3-f764-403f-90f1-8902ed10dd5c#ref=rss",
   "https://www.spiegel.de/wirtschaft/etat-2027-eu-parlament-und-mitgliedstaaten-erzielen-haushaltskompromiss-a-9ac077ee-ba28-47d2-b06b-660cb9ddd89c#ref=rss",
+  "https://www.spiegel.de/wissenschaft/polarwirbel-warum-die-angst-vor-einem-superwinter-derzeit-uebertrieben-ist-a-ed8b3258-2c24-488b-b223-c509a99e8b48#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/papst-argentinien-milei-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-anklage-unterstuetzung-terroranschlaege-100.html",
+  "https://www.tagesschau.de/ausland/asien/ukraine-russland-verhandlungen-abu-dhabi-104.html",
+  "https://www.tagesschau.de/ausland/europa/bombendrohungen-italien-100.html",
+  "https://www.tagesschau.de/ausland/europa/europa-sicherheitsarchitektur-russland-usa-100.html",
   "https://www.tagesschau.de/ausland/europa/spanien-generalstreik-mieterbewegung-100.html",
+  "https://www.tagesschau.de/ausland/europa/umstrittener-marsch-zu-unabhaengigkeitstag-in-polen-100.html",
+  "https://www.tagesschau.de/inland/gasreserve-126.html",
+  "https://www.tagesschau.de/inland/gesellschaft/karneval-start-koeln-duesseldorf-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/linke-uebergewinne-ruestungskonzerne-steuer-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/prien-unterhaltsvorschuss-gesetzentwurf-100.html",
   "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+  "https://www.tagesschau.de/kommentar/bundeswehr-sexuelle-uebergriffe-100.html",
   "https://www.tagesschau.de/podcast-11km-klimaschutz-rehe-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nasdaq-eon-nvidia-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/siemens-bilanz-energie-strom-ki-100.html",
+  "https://www.tagesschau.de/wirtschaft/verbraucher/bgh-urteil-rechtsschutzversicherung-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/digital-fairness-act-100.html"
  ]
 }
