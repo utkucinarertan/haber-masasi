@@ -1,0 +1,145 @@
+{
+ "date": "2026-11-11",
+ "updatedAt": "2026-11-11T11:16+03:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "Almanya'da gündem, güvenlik kurumlarındaki yapısal sorunlar ve iç siyasetteki önemli gelişmeler etrafında şekilleniyor. Federal ordu bünyesindeki cinsel taciz araştırması ve artan vicdani ret sayıları savunma politikasını sarsarken, cumhurbaşkanlığı adaylık süreci başkent kulislerini hareketlendiriyor. Öte yandan sanayicilerin hükümete yönelik reform eleştirileri ve Hamburg'daki ölümcül silahlı saldırı, hem ekonomik hem de toplumsal güvenlik tartışmalarını derinleştiriyor.",
+   "items": [
+    {
+     "title": "Alman ordusundaki cinsel taciz araştırması sarsıcı veriler ortaya koydu",
+     "summary": "Almanya Savunma Bakanı Boris Pistorius tarafından başlatılan anonim bir araştırma, orduda cinsel suistimalin yaygın olduğunu ortaya çıkardı. Elde edilen veriler, silahlı kuvvetler bünyesinde yapısal ve derin bir sorun bulunduğuna işaret ediyor. Rapor, askeri personelin maruz kaldığı suiistimallerin boyutunu gözler önüne seriyor.",
+     "category": "Güvenlik",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/politik/deutschland/bundeswehr-sexuelle-belaestigung-dunkelfeldstudie-liefert-erschuetternde-zahlen-a-96511e9a-1184-4cfa-8485-6fc6ceb1a5da#ref=rss",
+     "time": "2026-11-11T05:48:00+01:00"
+    },
+    {
+     "title": "Cumhurbaşkanı adayı Ilse Aigner meclis gruplarını ziyaret ediyor",
+     "summary": "Almanya'da hükümet ortakları tarafından Federal Cumhurbaşkanlığına aday gösterilen CSU'lu Ilse Aigner, Federal Meclis'teki (Bundestag) siyasi grupları ziyaret etti. Aigner, AfD ve Sol Parti gruplarını ise ziyaret programına dahil etmedi. Anketlere göre Alman halkının yüzde 37'si Aigner'i bu makam için uygun buluyor.",
+     "category": "Politika",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/aigner-fraktionen-100.html",
+     "time": "2026-11-11T02:17:49+01:00"
+    },
+    {
+     "title": "Hamburg'da silahlı saldırı: Şüpheli ölü bulundu",
+     "summary": "Hamburg'daki Elbphilharmonie yakınlarında düzenlenen silahlı saldırıda iki kişi yaralandı. Olayın ardından şüpheli bir otel odasında ölü olarak bulundu. Polis, Baden-Württemberg eyaletinde bulunan iki ceset ile Hamburg'daki saldırı arasındaki olası bağlantıyı araştırıyor.",
+     "category": "Güvenlik",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/hamburg-elbphilharmonie-etlingen-schuesse-100.html",
+     "time": "2026-11-10T18:27:27+01:00"
+    },
+    {
+     "title": "Almanya'da askerlik hizmetini reddedenlerin sayısı belirgin biçimde arttı",
+     "summary": "Almanya'da askerlik hizmeti gönüllülük esasına dayansa da erkekler için yoklama zorunluluğu devam ediyor. Bu yıl içinde vicdani ret başvurusunda bulunanların sayısında belirgin bir artış kaydedildi. Gelişme, ordunun personel açığını kapatmaya çalıştığı bir döneme denk geliyor.",
+     "category": "Toplum",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/kriegsdienstverweigerer-steigend-100.html",
+     "time": "2026-11-11T06:56:45+01:00"
+    },
+    {
+     "title": "Alman makine üreticilerinden federal hükümete sert tepki",
+     "summary": "Alman Makine ve Tesis Üreticileri Birliği (VDMA), koalisyon hükümetinin reform sürecindeki yavaşlığına tepki gösterdi. Sektör temsilcileri, koalisyon içindeki anlaşmazlıklar ve reform tıkanıklığı nedeniyle Almanya'nın sanayi merkezi konumunun tehlikeye girdiğini belirtti. Sektör, yüksek enerji maliyetleri ve bürokrasinin dördüncü kriz yılında üretimi baskıladığını vurguluyor.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/maschinenbaugipfel-100.html",
+     "time": "2026-11-10T16:43:59+01:00"
+    },
+    {
+     "title": "Alman hükümeti elektrikli araç teşvikini 917 milyon avro artırmayı planlıyor",
+     "summary": "Federal hükümet, dar ve orta gelirlilerin elektrikli araçlara geçişini kolaylaştırmayı amaçlayan satın alma teşvikini büyütmeye hazırlanıyor. Yoğun ilgi gören destek programının bütçesine gelecek yıl 900 milyon avroyu aşkın ilave kaynak aktarılması öngörülüyor. Kararın bütçe müzakerelerinde netleşmesi bekleniyor.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/e-autos-kaufpraemie-bundesregierung-100.html",
+     "time": "2026-11-10T13:11:01+01:00"
+    },
+    {
+     "title": "Eski RBB Genel Müdürü Schlesinger hakim karşısında",
+     "summary": "Eski kamu yayıncısı RBB Genel Müdürü Patricia Schlesinger ve diğer üç sanık hakkındaki ceza davası başladı. Görev süresindeki usulsüzlük iddialarını konu alan yargılamanın 56 duruşma günü sürmesi öngörülüyor. Schlesinger'in savunması suçlamaları reddederek müvekkilinin günah keçisi ilan edildiğini savundu.",
+     "category": "Hukuk",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/regional/brandenburg/rbb-strafprozess-gegen-ehemalige-rbb-intendantin-schlesinger-beginnt-102.html",
+     "time": "2026-11-10T12:35:39+01:00"
+    },
+    {
+     "title": "Dışişleri Bakanı Wadephul'dan İran'a hibrit saldırı uyarısı",
+     "summary": "Almanya Dışişleri Bakanı Johann Wadephul, Avrupa altyapısını hedef alan siber tehditler bağlamında Tahran yönetimini hibrit saldırılara karşı uyardı. Fransa'nın soğutma tesislerine yönelik saldırılardan İran'ı sorumlu tutmasının ardından Alman makamları gelişmeleri yakından incelemeyi sürdürüyor. İran yönetimi ise yöneltilen suçlamaları reddediyor.",
+     "category": "Politika",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/wadephul-iran-102.html",
+     "time": "2026-11-10T17:51:08+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "overview": "Bugünün haber akışı, Türkiye'de ekonomi yönetimi ve çevre politikalarındaki kritik gelişmelere odaklanıyor. BDDK Başkanı Şahap Kavcıoğlu'nun istifası ve Türkiye Varlık Fonu bünyesindeki üç katılım bankasının birleşmesi ekonomik alandaki başlıca gelişmeler olarak öne çıkıyor. Antalya'da başlayan COP31 İklim Zirvesi ve Türkiye'nin iklim endeksindeki konumu ise çevresel politikaların önemini artırıyor. Bu gelişmeler, ülkenin hem finansal istikrar hem de küresel iklim taahhütleri açısından önemli bir dönemden geçtiğini gösteriyor.",
+   "items": [
+    {
+     "title": "BDDK Başkanı Şahap Kavcıoğlu görevinden istifa etti",
+     "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) Başkanı Şahap Kavcıoğlu, fon kriziyle ilgili hakkındaki iddialar nedeniyle görevinden ayrıldı. Kavcıoğlu, bu kararı kurumun daha fazla yıpranmaması amacıyla aldığını açıkladı.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c5742lzd1m20o",
+     "time": "2026-11-11T08:25:49+00:00"
+    },
+    {
+     "title": "Türkiye Varlık Fonu'ndan resmi açıklama: 3 katılım bankası birleşiyor",
+     "summary": "Türkiye Varlık Fonu (TVF), bünyesindeki TVF Katılım Finans Yatırımları A.Ş. aracılığıyla Ziraat Katılım ve Halk Katılım'ın birleştirileceğini duyurdu. Yapılan resmi açıklamada sürecin detaylarına yer verildi.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/resmi-aciklama-geldii-3-banka-birlesiyor-p380173",
+     "time": "2026-11-11T09:46:12+03:00"
+    },
+    {
+     "title": "COP31 ev sahibi Türkiye iklim endeksinde geriledi",
+     "summary": "Antalya'da düzenlenen COP31 İklim Zirvesi'ne ev sahipliği yapan Türkiye, iklim performansı endeksinde 53. sıraya geriledi. Hazırlanan rapora göre ülkede yenilenebilir enerji büyürken fosil yakıtlardan çıkış planının eksik olduğu belirtildi.",
+     "category": "Çevre",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/cop31-ev-sahibi-türkiye-iklim-endeksinde-53-üncü-sıraya-geriledi/a-79911061",
+     "time": "2026-11-11T05:18:00+00:00"
+    },
+    {
+     "title": "HABAŞ fabrikasındaki facianın ardından geçmiş kazalar gündemde",
+     "summary": "İzmir'in Aliağa ilçesindeki HABAŞ Demir Çelik fabrikasında meydana gelen kazada 18 işçi hayatını kaybetti, 14 işçi yaralandı. Açık kaynak verilerine göre şirket bünyesinde 2018'den bu yana en az 28 işçi iş kazalarında yaşamını yitirdi.",
+     "category": "Güvenlik",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cmlylyr44wzdo",
+     "time": "2026-11-11T07:23:03+00:00"
+    },
+    {
+     "title": "Apple CEO'su Tim Cook'tan Kapalıçarşı'da halı alışverişi",
+     "summary": "İstanbul ziyareti kapsamında Kapalıçarşı'yı gezen Apple CEO'su Tim Cook, esnaf ziyareti sırasında bir dükkandan alışveriş yaptı. Cook, dükkandan 18 bin dolar değerinde halı satın aldı.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/kapalicarsi-da-haliciya-giren-apple-ceo-su-tim-cook-kesenin-agzini-acti-p380204",
+     "time": "2026-11-11T11:06:46+03:00"
+    },
+    {
+     "title": "Ümraniye'de şantiye vinci devrildi, yol trafiğe kapandı",
+     "summary": "İstanbul Ümraniye'deki Şile bağlantı yolunda bulunan bir şantiye alanında vinç devrildi. Yaşanan olay nedeniyle yol trafiğe kapatıldı.",
+     "category": "Güvenlik",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/umraniye-de-vinc-devrildi-yol-trafige-kapatildi-p380183",
+     "time": "2026-11-11T11:30:43+03:00"
+    }
+   ]
+  }
+ ]
+}
