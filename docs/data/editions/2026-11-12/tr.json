@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-12",
+ "updatedAt": "2026-11-12T14:44+03:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "Almanya'da bugün ağırlıklı olarak iç politika, bütçe müzakereleri ve finansal istikrar konuları öne çıkıyor. Federal hükümetin bütçe kompromisleri ve Bundesbank'ın bankacılık sektörüne yönelik uyarıları, ekonomik belirsizliklerin devam ettiğini gösteriyor. Ayrıca artan borçlanma oranları ve sosyal uyum meseleleri gündemi meşgul ediyor.",
+   "items": [
+    {
+     "title": "Federal Hükümetten Bütçe Kompromisi",
+     "summary": "Federal hükümet, 2027 bütçesi üzerindeki müzakerelerde kritik bir uzlaşıya vardı. Bu kapsamda şeker vergisinin getirilmesi ertelenirken, elektrik vergisinde ise bir indirim yapılmayacağı kararlaştırıldı. Bütçe komisyonu, mesai saatleri ve disiplin konusunda sıkı kurallar uyguluyor.",
+     "category": "Politika",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+     "time": "2026-11-12T00:12:02+01:00"
+    },
+    {
+     "title": "Bundesbank'tan Alman Bankalarına Uyarı",
+     "summary": "Almanya Merkez Bankası (Bundesbank) yayımladığı finansal istikrar raporunda, ülkedeki bankalar için risklerin arttığına dikkat çekti. Düşük ekonomik büyüme, yüksek kamu borçları ile hisse senedi ve emlak piyasasındaki riskler başlıca zorluklar olarak sıralandı.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-warnt-vor-wachsenden-risiken-fuer-deutschlands-banken-a-b53aea9b-ff04-4b9f-a3e5-59f07fd19cdc#ref=rss",
+     "time": "2026-11-12T12:26:00+01:00"
+    },
+    {
+     "title": "Almanya'da Borç Batağına Sürüklenenlerin Sayısı Artıyor",
+     "summary": "Almanya'da aşırı borçlu insan sayısı üst üste ikinci yılda da artış kaydetti. Hastalık, bağımlılık, kazalar veya işsizlik finansal krizlerin başlıca tetikleyicileri arasında yer alırken, krizden en çok gençlerin etkilendiği belirtildi.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
+     "time": "2026-11-12T12:31:51+01:00"
+    },
+    {
+     "title": "Baden-Württemberg'de 'Nomads Bosporus Türkiye' Çetesine Yasak",
+     "summary": "Almanya'nın Baden-Württemberg eyalet yönetimi 'Gremium MC Chapter Nomads Bosporus Türkiye' adlı motosiklet çetesini yasakladı. Kararın ardından polis çok sayıda ev ve buluşma noktasında arama gerçekleştirdi.",
+     "category": "Güvenlik",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.com/tr/almanya-baden-württemberg-nomads-bosporus-türkiye-yi-yasakladı/a-79926859",
+     "time": "2026-11-12T09:26:00+00:00"
+    },
+    {
+     "title": "Araştırma: Türkçe İsimler Kreş Bulmayı Zorlaştırıyor",
+     "summary": "Bilim insanları tarafından kreşlere gönderilen kurgusal e-postalarda, Türkçeye benzer soyadları kullanan ailelerin olumlu yanıt alma şansının daha düşük olduğu tespit edildi. Araştırma, kreş yeri bulma sürecinde fırsat eşitsizliğine işaret ediyor.",
+     "category": "Toplum",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/gesellschaft/tuerkisch-klingender-nachname-erschwert-offenbar-suche-nach-kitaplatz-a-578c2dd5-0e46-4183-a37c-426eb3969547#ref=rss",
+     "time": "2026-11-12T11:57:00+01:00"
+    },
+    {
+     "title": "IG Metall'den Sekiz Yıl Sonra İlk Defa Tam Gün Grev Kararı",
+     "summary": "Metal ve elektrik endüstrisindeki toplu sözleşme görüşmelerinde anlaşma sağlanamaması üzerine IG Metall, tam günlük uyarı grevleri düzenleme kararı aldı. Sendika, işverenleri müzakerelerde bloke edici tutum sergilemekle suçluyor.",
+     "category": "Ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+     "time": "2026-11-12T10:48:25+01:00"
+    },
+    {
+     "title": "Federal Kabine Ulusal Gaz Rezervi Kurulmasını Kararlaştırdı",
+     "summary": "Federal hükümet, olası kriz ve sabotaj durumlarında enerji güvenliğini artırmak amacıyla ulusal bir gaz rezervi oluşturulmasını kararlaştırdı. Alınan bu önlemin gaz tüketicilerine ek maliyetler getirmesi bekleniyor.",
+     "category": "Politika",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
+     "time": "2026-11-11T17:38:02+01:00"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,76 @@
+{
+ "date": "2026-11-12",
+ "updatedAt": "2026-11-12T14:44+03:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "In Deutschland stehen heute vor allem innenpolitische Themen, Haushaltsberatungen und Fragen der Finanzstabilität im Fokus. Die Kompromisse der Bundesregierung beim Etat und Warnungen der Bundesbank verdeutlichen anhaltende wirtschaftliche Herausforderungen. Zugleich prägen steigende Verschuldungszahlen und gesellschaftliche Debatten das Tagesgeschehen.",
+   "items": [
+    {
+     "title": "Haushaltskompromiss der Bundesregierung",
+     "summary": "Die Bundesregierung hat sich im Ringen um den Haushalt auf einen Kompromiss verständigt. Unter anderem wird die Einführung einer Zuckersteuer verschoben, zudem wird die Stromsteuer vorerst nicht gesenkt. Der Haushaltsausschuss achtet bei den Beratungen streng auf Pinhlichkeit und Disziplin.",
+     "category": "Politik",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/koalition-haushalt-kompromiss-100.html",
+     "time": "2026-11-12T00:12:02+01:00"
+    },
+    {
+     "title": "Bundesbank warnt vor Risiken für Banken",
+     "summary": "Laut dem Finanzstabilitätsbericht der Bundesbank stehen Deutschlands Banken vor wachsenden Herausforderungen. Geringes Wirtschaftswachstum, hohe Staatsschulden sowie Risiken am Aktien- und Immobilienmarkt gefährden demnach die Stabilität.",
+     "category": "Wirtschaft",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/bundesbank-warnt-vor-wachsenden-risiken-fuer-deutschlands-banken-a-b53aea9b-ff04-4b9f-a3e5-59f07fd19cdc#ref=rss",
+     "time": "2026-11-12T12:26:00+01:00"
+    },
+    {
+     "title": "Immer mehr Menschen in Deutschland überschuldet",
+     "summary": "Die Zahl überschuldeter Menschen in Deutschland steigt im zweiten Jahr in Folge. Auslöser einer finanziellen Notlage sind häufig Krankheit, Sucht, Unfälle oder Arbeitslosigkeit, wobei vor allem Jüngere betroffen sind.",
+     "category": "Wirtschaft",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mehr-menschen-ueberschuldet-schuldneratlas-100.html",
+     "time": "2026-11-12T12:31:51+01:00"
+    },
+    {
+     "title": "Baden-Württemberg verbietet Rockergruppe",
+     "summary": "Die Landesregierung von Baden-Württemberg hat die Motorradbande 'Gremium MC Chapter Nomads Bosporus Türkiye' verboten. Im Anschluss an das Verbot durchsuchten Hundertschaften der Polizei zahlreiche Wohnungen und Treffpunkte.",
+     "category": "Sicherheit",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.com/tr/almanya-baden-württemberg-nomads-bosporus-türkiye-yi-yasakladı/a-79926859",
+     "time": "2026-11-12T09:26:00+00:00"
+    },
+    {
+     "title": "Türkisch klingender Nachname erschwert Kitaplatz-Suche",
+     "summary": "Eine Untersuchung mit fiktiven Elternanfragen an Tausende Kitas zeigt, dass die Chancen auf eine Zusage ungleich verteilt sind. Demnach erschwert ein türkisch klingender Nachname offenbar die Suche nach einem Betreuungsplatz.",
+     "category": "Gesellschaft",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/gesellschaft/tuerkisch-klingender-nachname-erschwert-offenbar-suche-nach-kitaplatz-a-578c2dd5-0e46-4183-a37c-426eb3969547#ref=rss",
+     "time": "2026-11-12T11:57:00+01:00"
+    },
+    {
+     "title": "IG Metall beschließt ganztägige Warnstreiks",
+     "summary": "Im Tarifstreit der Metall- und Elektroindustrie sind ab sofort ganztägige Warnstreiks möglich. Die Gewerkschaft IG Metall wirft den Arbeitgebern nach drei gescheiterten Runden eine Blockadehaltung vor.",
+     "category": "Wirtschaft",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+     "time": "2026-11-12T10:48:25+01:00"
+    },
+    {
+     "title": "Bundeskabinett beschließt nationale Gasreserve",
+     "summary": "Die Bundesregierung hat den Aufbau einer nationalen Gasreserve beschlossen, um die Versorgung in Ausnahmefällen wie Sabotage zu sichern. Für die Gaskunden sind damit allerdings zusätzliche Mehrkosten verbunden.",
+     "category": "Politik",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gasreserve-126.html",
+     "time": "2026-11-11T17:38:02+01:00"
+    }
+   ]
+  }
+ ]
+}
