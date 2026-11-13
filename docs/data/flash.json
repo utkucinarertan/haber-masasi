@@ -1,8 +1,44 @@
 {
  "since": "2026-11-13T07:00+03:00",
- "updatedAt": "2026-11-13T10:07+03:00",
+ "updatedAt": "2026-11-13T18:22+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-13T16:13:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck-a-4912b4ec-028e-4bf3-828a-aed53aa80969#ref=rss",
+    "text": {
+     "tr": "Fransız oyuncu Gérard Depardieu, cinsel saldırı davasında temyiz başvurusunu geri çekti.",
+     "de": "Der französische Schauspieler Gérard Depardieu hat seine Berufung im Prozess wegen sexueller Übergriffe zurückgezogen."
+    }
+   },
+   {
+    "time": "2026-11-13T16:03:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss",
+    "text": {
+     "tr": "Eski Şansölye Angela Merkel, bugün olsaydı 'herkes için evlilik' yasasına evet oyu vereceğini söyledi.",
+     "de": "Die ehemalige Bundeskanzlerin Angela Merkel erklärte, sie würde heute für die Ehe für alle stimmen."
+    }
+   },
+   {
+    "time": "2026-11-13T15:35:01+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+    "text": {
+     "tr": "Avrupa Parlamentosu ve üye ülkeler, sanayi için ek ücretsiz emisyon sertifikaları verilmesi konusunda uzlaştı.",
+     "de": "EU-Parlament und Mitgliedstaaten haben sich auf zusätzliche kostenlose Emissionszertifikate für die Industrie verständigt."
+    }
+   },
+   {
+    "time": "2026-11-13T14:26:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/ukraine-verhandlungen-deutschland-laut-friedrich-merz-bei-naechsten-gespraechen-gesetzt-a-846f2c06-57be-4740-9452-b750a51456a2#ref=rss",
+    "text": {
+     "tr": "Şansölye Friedrich Merz, Almanya'nın yaklaşan Ukrayna barış görüşmelerinde yer alacağını duyurdu.",
+     "de": "Bundeskanzler Friedrich Merz kündigte an, dass Deutschland bei den nächsten Friedensgesprächen zur Ukraine dabei sein wird."
+    }
+   },
    {
     "time": "2026-11-13T08:09:00+01:00",
     "source": "Der Spiegel",
@@ -11,27 +47,36 @@
      "tr": "BVB'li futbolcu Felix Nmecha, Bundestrainer Jürgen Klopp ile yaptığı görüşmenin ardından gol sevinci sırasındaki taç hareketini yapmayacağını açıkladı.",
      "de": "Nach einem Gespräch mit Bundestrainer Jürgen Klopp will BVB-Profi Felix Nmecha seinen Torjubel zukünftig unterlassen."
     }
-   },
-   {
-    "time": "2026-11-13T07:38:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
-    "text": {
-     "tr": "Outlook, Teams ve Copilot dahil olmak üzere Microsoft çevrim içi hizmetlerinde dünya çapında büyük bir kesinti yaşandı.",
-     "de": "Zentrale Onlinedienste von Microsoft wie Outlook und Teams sind seit Donnerstag weltweit massiv gestört."
-    }
-   },
-   {
-    "time": "2026-11-13T05:23:02+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
-    "text": {
-     "tr": "Alman meclisi, istihbarat teşkilatlarına daha geniş yetkiler veren tartışmalı bir reform tasarısını oyluyor.",
-     "de": "Der Bundestag stimmt über eine Reform ab, die den Nachrichtendiensten mehr Befugnisse einräumen soll."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-13T18:03:24+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112",
+    "text": {
+     "tr": "İzmir Aliağa'daki fabrika patlamasında hayatını kaybedenlerin sayısı 19'a yükseldi.",
+     "de": "Die Zahl der Todesopfer nach der Fabrikexplosion im türkischen İzmir-Aliağa ist auf 19 gestiegen."
+    }
+   },
+   {
+    "time": "2026-11-13T17:56:23+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/son-dakika-osman-kavala-nin-yeniden-yargilanmasi-talebine-ust-mahkemeden-ret-p381106",
+    "text": {
+     "tr": "Üst mahkeme, Osman Kavala'nın yeniden yargılanması ve tahliyesi yönündeki talebi reddetti.",
+     "de": "Ein Obergericht hat den Antrag auf Wiederaufnahme des Verfahrens und Freilassung von Osman Kavala abgelehnt."
+    }
+   },
+   {
+    "time": "2026-11-13T17:19:39+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/erdogan-katar-emiri-al-sani-ile-dolmabahcede-gorustu-p381101",
+    "text": {
+     "tr": "Cumhurbaşkanı Recep Tayyip Erdoğan, Katar Emiri Şeyh Temim bin Hamed Al Sani ile İstanbul'da bir araya geldi.",
+     "de": "Präsident Recep Tayyip Erdoğan ist in Istanbul mit dem Katarischen Emir Scheich Tamim bin Hamad Al Thani zusammengekommen."
+    }
+   },
    {
     "time": "2026-11-13T09:49:04+03:00",
     "source": "Sozcu",
@@ -49,63 +94,104 @@
      "tr": "Sarıgül ailesine yönelik kara para aklama iddialarıyla yürütülen soruşturmada 17 kişi hakkında gözaltı kararı verildi.",
      "de": "Im Rahmen von Geldwäsche-Ermittlungen gegen die Familie Sarıgül wurden Haftbefehle gegen 17 Personen erlassen."
     }
-   },
-   {
-    "time": "2026-11-13T09:27:16+03:00",
-    "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/tokat-ta-silah-kacakciligi-operasyonu-14-gozalti-p380911",
-    "text": {
-     "tr": "Tokat'ta yasa dışı silah ticareti ve kaçakçılıkla mücadele kapsamında düzenlenen operasyonda 14 şüpheli gözaltına alındı.",
-     "de": "Bei einer Operation gegen WaffenSchmuggel in Tokat wurden 14 verdächtige Personen festgenommen."
-    }
    }
   ]
  },
  "seen": [
+  "https://www.11freunde.de/international/als-trans-frau-im-fussball-ich-nahm-sophie-mein-inneres-wahres-ich-und-brachte-sie-um-a-c1d554b2-8b89-475e-98df-2938364951a4#ref=rss",
+  "https://www.dw.com/tr/araştırma-almanya-da-türkçe-isim-kreş-yeri-bulmayı-zorlaştırıyor/a-79940741",
   "https://www.dw.com/tr/cop31-dünya-ve-türkiye-nin-hedefi-elektrifikasyon-nedir/a-79910393",
+  "https://www.dw.com/tr/habaş-ta-yakınlarını-kaybedenler-ölen-18-kişi-ama-arkada-kalan-200-kişi/a-79939487",
   "https://www.dw.com/tr/i̇bb-davası-mehmet-pehlivan-dahil-8-kişi-tahliye-edildi/a-79936716",
+  "https://www.sozcu.com.tr/12-saattir-suren-microsoft-arizasi-ulkelerdeki-devlet-sitelerini-ulasilamaz-hale-getirdi-p381099",
   "https://www.sozcu.com.tr/16-yillik-hava-yolu-sirketi-tum-ucuslarini-durdurdu-ruhsatini-teslim-ediyor-p380935",
+  "https://www.sozcu.com.tr/23-yil-5-ay-hapisle-aranan-firari-banyo-kapisinin-arkasinda-yakalandi-p381091",
   "https://www.sozcu.com.tr/abd-savunma-bakani-kendisini-azarlayan-askere-madalya-takti-p380915",
   "https://www.sozcu.com.tr/adana-da-misafir-oldugu-evin-sahibini-bogazindan-bicakladi-p380941",
+  "https://www.sozcu.com.tr/akbank-turkiye-nin-surdurulebilir-sogutma-donusumunu-destekliyor-p381104",
+  "https://www.sozcu.com.tr/ali-koc-tan-cop31-de-dikkat-ceken-mesaj-piyasa-gucleri-iklim-hedeflerinin-tamamini-karsilayamaz-p381103",
   "https://www.sozcu.com.tr/bankacilik-devlerinden-pes-pese-turkiye-analizi-faiz-enflasyon-ve-kurda-ayri-ayri-senaryolar-p380917",
   "https://www.sozcu.com.tr/beton-harcina-kahve-telvesi-karistirmaya-basladilar-p380926",
   "https://www.sozcu.com.tr/bogazici-odtu-ya-da-koc-degil-turkiye-nin-en-basarili-universitesi-belli-oldu-p380912",
   "https://www.sozcu.com.tr/bu-hafta-sonundan-itibaren-3-burc-icin-zor-gunler-nihayet-geride-kaliyor-13-kasim-donum-noktasi-p380918",
+  "https://www.sozcu.com.tr/camilerden-yukselen-itiraz-yayiliyor-simdi-de-ismailaga-cemaati-p381070",
   "https://www.sozcu.com.tr/corum-da-gece-yarisi-kaza-direk-ve-agaca-carpan-surucu-1-50-promil-alkollu-cikti-p380919",
   "https://www.sozcu.com.tr/e-posta-devi-coktu-mailler-havada-kaldi-bir-tanesi-bile-iletilemedi-p380910",
+  "https://www.sozcu.com.tr/elektrik-supurgesi-iyi-cekmiyorsa-bunu-yapin-evi-cok-daha-temiz-supurecek-p381094",
+  "https://www.sozcu.com.tr/erdogan-katar-emiri-al-sani-ile-dolmabahcede-gorustu-p381101",
   "https://www.sozcu.com.tr/evdeki-utuyle-servetlik-is-cikardi-p380936",
   "https://www.sozcu.com.tr/evlerde-hali-devri-tarihe-karisiyor-p380937",
+  "https://www.sozcu.com.tr/fedde-faiz-hesabi-degisti-25-baz-puan-artis-beklentisi-guclendi-p381077",
   "https://www.sozcu.com.tr/geriye-hareket-eden-minibusu-cirak-durdurdu-p380927",
+  "https://www.sozcu.com.tr/golun-dibinde-sehir-buldular-p381086",
+  "https://www.sozcu.com.tr/gunun-24-saati-elektrik-ureten-agac-p381078",
+  "https://www.sozcu.com.tr/haberi-duyan-markete-kosup-paket-paket-stokluyor-satisina-kisitlama-getirildi-p381089",
+  "https://www.sozcu.com.tr/iran-da-gecinemeyen-aileler-organ-pazari-kurdu-bobrek-caddesinden-araba-parasina-yasam-satiyorlar-p381059",
+  "https://www.sozcu.com.tr/israil-de-tutulan-doktor-icin-ilginc-protesto-akademisyen-kendini-vincten-iple-sarkitti-p381083",
   "https://www.sozcu.com.tr/istanbul-da-dijital-fuhus-aginin-kirli-yontemi-desifre-oldu-tehdit-santaj-zorla-fuhus-p380940",
   "https://www.sozcu.com.tr/istanbulda-15-eylemle-baglantili-suc-orgutune-operasyon-22-gozalti-p380924",
+  "https://www.sozcu.com.tr/izmir-aliaga-daki-faciada-can-kaybi-19-a-yukseldi-p381112",
   "https://www.sozcu.com.tr/jensen-huang-in-ucuncu-evlilik-disi-iliskisi-ortaya-cikti-p380929",
+  "https://www.sozcu.com.tr/kallastan-rusya-uyarisi-guvenlik-talepleriyle-ateskes-tuzaga-dusmesin-p381076",
+  "https://www.sozcu.com.tr/kaplanla-tiktok-videosu-cekmek-istedi-canindan-oldu-p381088",
   "https://www.sozcu.com.tr/kilosu-900-bin-liraya-firladi-tarlaya-giren-uretici-halay-cekerek-hasat-yapti-p380916",
+  "https://www.sozcu.com.tr/kiracilari-rahatlatmak-icin-askeri-arazilere-binalar-dikilecekler-p381093",
   "https://www.sozcu.com.tr/kuresel-piyasalar-karisik-seyrediyor-p380921",
   "https://www.sozcu.com.tr/malatya-daki-helikopter-kazasinda-buyuk-kahramanlik-pilotlar-faciayi-boyle-onlemis-p380891",
+  "https://www.sozcu.com.tr/milyonlarca-iphone-kullanicisina-acil-uyari-o-uygulamalari-hemen-silin-p381096",
+  "https://www.sozcu.com.tr/otel-lobisi-savas-alanina-dondu-dunyaca-unlu-iki-ismin-kavgasinin-faturasi-agir-oldu-p381098",
+  "https://www.sozcu.com.tr/pariste-dakikalar-icinde-1-milyon-euroyu-asan-mucevher-soygunu-p381087",
+  "https://www.sozcu.com.tr/pkkdan-aciklama-10dan-fazla-magara-bosaltildi-p381110",
   "https://www.sozcu.com.tr/sariyer-maslak-ta-korkunc-kaza-kamerada-otomobille-carpisan-motosiklet-otobusten-inen-yolcularin-p380928",
   "https://www.sozcu.com.tr/savunma-sanayi-devi-hacklendi-ordu-tum-iha-larin-fisini-cekti-p380938",
   "https://www.sozcu.com.tr/sigara-satisina-hes-kodu-benzeri-takip-sistemi-gundemde-p380882",
+  "https://www.sozcu.com.tr/sokak-ortasinda-kadinlara-siddet-kamerada-iki-supheli-gozaltina-alindi-p381108",
   "https://www.sozcu.com.tr/son-dakika-mustafa-sarigul-sorusturmasi-19-supheli-hakkinda-gozalti-karari-p380880",
+  "https://www.sozcu.com.tr/son-dakika-osman-kavala-nin-yeniden-yargilanmasi-talebine-ust-mahkemeden-ret-p381106",
   "https://www.sozcu.com.tr/tokat-ta-silah-kacakciligi-operasyonu-14-gozalti-p380911",
+  "https://www.sozcu.com.tr/undp-baskani-de-croo-iklim-plani-tek-basina-hicbir-seyi-degistirmez-p381107",
+  "https://www.sozcu.com.tr/yok-baskani-ozvarin-3-yillik-egitim-onerisine-gokce-gokcenden-damizlik-hayvan-tepkisi-p381102",
   "https://www.sozcu.com.tr/yolcu-otobusu-tir-a-carpti-2-kisi-yaralandi-p380914",
   "https://www.sozcu.com.tr/yollara-kamyonlarla-sigara-izmariti-atmaya-basladilar-p380939",
+  "https://www.spiegel.de/ausland/australien-chips-bachwasser-und-ein-lied-wie-ein-teenager-im-australischen-busch-ueberlebte-a-472c0376-845d-465f-b817-4fdbb918d710#ref=rss",
   "https://www.spiegel.de/kultur/kino/robert-pattinson-will-jetzt-offenbar-james-bond-spielen-kann-er-007-a-27f4e629-b43c-402b-ab35-9885002aee3f#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/dacia-spring-im-test-mit-dem-zweiten-faehrt-man-besser-a-ca7bfc5a-a994-402b-bdd9-87d662b74785#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/elektroauto-kaufen-budget-fuer-kaufpraemie-begrenzt-was-jetzt-passiert-a-76c4ccde-2757-414f-89d6-bc9ed69840bf#ref=rss",
   "https://www.spiegel.de/netzwelt/microsoft-bekommt-weltweite-stoerung-von-onlinediensten-nicht-in-den-griff-a-589712d4-e5b1-4fe0-a291-df65e1e54ffa#ref=rss",
+  "https://www.spiegel.de/netzwelt/microsoft-probleme-mit-mails-ki-und-kalender-wiederherstellung-dauert-an-a-8f1d3c22-5cc4-41e2-911e-d232835b280c#ref=rss",
+  "https://www.spiegel.de/panorama/gesellschaft/klimawandel-in-deutschland-hitzeaktionsplaene-was-kommunen-jetzt-aendern-a-4f10a614-8eae-431a-8f8e-8a43f0087ebd#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/gerard-depardieu-zieht-berufung-im-prozess-um-sexuelle-uebergriffe-zurueck-a-4912b4ec-028e-4bf3-828a-aed53aa80969#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/stade-staatsanwaltschaft-klagt-zwei-frauen-nach-bluttat-an-a-36435c7a-6289-4b4f-a18d-d040bfdfc527#ref=rss",
   "https://www.spiegel.de/panorama/leute/barbara-schoeneberger-muss-fuehrerschein-abgeben-a-aad190ae-2320-41f7-baed-c141219d6c95#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/angela-merkel-wuerde-heute-fuer-die-ehe-fuer-alle-stimmen-a-cbb28ada-b6d0-4d19-91a7-6c7abb9cd788#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-geheimdienstreform-cdu-frust-ueber-friedrich-merz-klimaproteste-a-b617fcc0-61d8-4ad1-9f37-75c82dc69dbf#ref=rss",
   "https://www.spiegel.de/politik/israel-gaza-krieg-aerzte-ohne-grenzen-kritisieren-zerstoerung-eines-krankenhauses-a-e68b1b81-b171-469a-93a1-fe4edea66ce8#ref=rss",
+  "https://www.spiegel.de/politik/ukraine-verhandlungen-deutschland-laut-friedrich-merz-bei-naechsten-gespraechen-gesetzt-a-846f2c06-57be-4740-9452-b750a51456a2#ref=rss",
   "https://www.spiegel.de/politik/verteidigung-in-europa-39-staaten-einigen-sich-auf-sicherheitscharta-in-dublin-a-558a1d73-49fa-4811-b702-bb39aeb4a95e#ref=rss",
+  "https://www.spiegel.de/sport/fussball/borussia-dortmund-bvb-beendet-umstrittene-partnerschaft-mit-rheinmetall-a-5e3992d3-304a-4650-8ae2-a0f096b03ffe#ref=rss",
+  "https://www.spiegel.de/sport/fussball/dfb-auswahl-in-der-nations-league-wie-juergen-klopp-die-nationalelf-neu-erfinden-will-a-36c998b7-843a-4be9-8b71-7a7e5863e200#ref=rss",
   "https://www.spiegel.de/sport/fussball/dfb-felix-nmecha-will-nach-gespraech-mit-juergen-klopp-kronen-jubel-unterlassen-a-26d49d81-174a-402c-a6e2-014f5199efee#ref=rss",
+  "https://www.spiegel.de/start/arbeitsmarkt-warum-berufseinsteiger-ki-folgen-besonders-spueren-a-fd1af8c9-d506-4c6f-8200-9a046f6c73f7#ref=rss",
+  "https://www.spiegel.de/wirtschaft/bundeshaushalt-2027-der-etat-steht-doch-die-eigentlichen-probleme-kommen-erst-a-ac30c525-9525-4432-96c9-7d0053f94c0c#ref=rss",
   "https://www.spiegel.de/wirtschaft/guterres-nennt-milliarden-gewinne-von-energiekonzernen-moralisch-inakzeptabel-a-33bc86fb-dc9b-4147-9353-704a5d0ce93a#ref=rss",
   "https://www.spiegel.de/wirtschaft/haushalt-2027-entwurf-beschlossen-thema-stromsteuer-bleibt-umstritten-a-96a85a7e-defa-41cc-b8d2-fa71c501fc9d#ref=rss",
   "https://www.spiegel.de/wirtschaft/nvidia-ohne-jensen-huang-das-genie-muss-gehen-der-konzern-lebt-weiter-a-95917403-0d66-4568-bb04-bd0fbbfb5172#ref=rss",
+  "https://www.spiegel.de/wirtschaft/oesterreich-korruptionsermittler-pruefen-vorwuerfe-gegen-barmherzige-brueder-a-fcfdfdb5-d543-49d3-b78d-214572afe3eb#ref=rss",
+  "https://www.spiegel.de/wissenschaft/natur/katzen-ihre-katze-versucht-mit-ihnen-zu-sprechen-das-koennen-sie-sogar-selbst-testen-a-547dfebd-405f-44b2-a524-7570c60c96e3#ref=rss",
   "https://www.spiegel.de/wissenschaft/spacex-was-den-neuen-test-der-riesenrakete-starship-besonders-macht-a-0a62e4fb-ee88-40c1-a784-4b7c2bb61e4d#ref=rss",
+  "https://www.tagesschau.de/ausland/europa/oesterreich-orden-barmherzige-brueder-hohe-medikamentenpreise-100.html",
   "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/bundestag-haushalt-milliarden-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/nachrichtendienst-reform-beschlossen-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-haushalt-kritik-merz-100.html",
+  "https://www.tagesschau.de/wirtschaft/finanzen/firmenpleiten-deutschland-bundesamt-100.html",
+  "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-106.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-nvidia-geldanlage-100.html",
-  "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html"
+  "https://www.tagesschau.de/wirtschaft/industrie-emissionen-co2-zertifikate-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-outlook-ausfall-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/sicherheitsexperte-abhaengigkeit-microsoft-outlook-teams-risiken-100.html",
+  "https://www.tagesschau.de/wirtschaft/verbraucher/post-hebt-paketpreise-privatkunden-an-2027-100.html"
  ]
 }
