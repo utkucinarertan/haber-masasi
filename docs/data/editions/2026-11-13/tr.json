@@ -1,0 +1,145 @@
+{
+ "date": "2026-11-13",
+ "updatedAt": "2026-11-13T10:07+03:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "Almanya gündeminde bu hafta ekonomi ve iç siyaset ön planda yer alıyor. Federal Meclis Bütçe Komisyonu'nun 2027 bütçe tasarısını onaylaması ve elektrik vergisi konusundaki anlaşmazlıklar hükümet içinde tartışma yaratırken, Mercedes'in Almanya'daki yatırımları askıya alması ve potansiyel fabrika kapatma planları sanayi sektöründeki krizi derinleştiriyor. Ayrıca yapay zeka devleri ve küresel teknoloji piyasasındaki dalgalanmalar Alman finans piyasalarını da doğrudan etkiliyor.",
+   "items": [
+    {
+     "title": "Almanya'da 2027 bütçe tasarısı kabul edildi, elektrik vergisi tartışılıyor",
+     "summary": "Almanya'da 16 saatten fazla süren görüşmelerin ardından Federal Meclis Bütçe Komisyonu 2027 yılı federal bütçe tasarısını onayladı. Planlanan harcamalar 560,9 milyar euro olarak belirlenirken, elektrik vergisinin düşürülmesi konusu koalisyon ortakları arasında tartışmalı kalmaya devam ediyor. Bütçe uzlaşması SPD'de memnuniyet yaratırken Birlik partilerinde hoşnutsuzlukla karşılandı.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/bundeshauhalt-2027-100.html",
+     "time": "2026-11-13T07:26:14+01:00"
+    },
+    {
+     "title": "Mercedes Almanya'daki yatırımlarını durdurdu ve fabrika kapanışlarını inceliyor",
+     "summary": "Otomotiv üreticisi Mercedes, maliyet düşürme müzakerelerinde sonuç alınamaması üzerine baskıyı artırdı. Yönetim kurulu Almanya'daki tüm tesis yatırımlarını dondururken olası fabrika kapatma ihtimalini de değerlendirmeye aldı. Karar, Alman sanayi sektörü ve istihdam piyasası açısından endişe yaratıyor.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/mercedes-stopp-investitionen-100.html",
+     "time": "2026-11-12T19:44:38+01:00"
+    },
+    {
+     "title": "Alman Federal Meclisi istihbarat teşkilatları reformunu oyluyor",
+     "summary": "Almanya'da Federal Meclis, istihbarat teşkilatlarının yetkilerini artırmayı öngören tartışmalı reform tasarısını oylayacak. Federal İçişleri Bakanı düzenlemeyi \"yüzyılın eseri\" olarak nitelendirirken, muhalefet ve eleştirmenler uygulamaya tepki gösteriyor. Reform, kurumların çalışma yetkilerini kökten değiştirmeyi hedefliyor.",
+     "category": "Politika",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundesregierung-reform-nachrichtendienste-100.html",
+     "time": "2026-11-13T05:23:02+01:00"
+    },
+    {
+     "title": "Almanya Merkez Bankası'ndan finans sistemi için risk uyarısı",
+     "summary": "Almanya Merkez Bankası (Bundesbank), geri ödenmeyen kredilerin artması nedeniyle Alman finans sektörü için tehlikelerin büyüdüğüne dikkat çekti. Yapay zeka teknolojileri ile siber saldırıların artan saldırganlığı da finansal istikrar açısından ek riskler barındırıyor.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/risiken-finanzsystem-bundesbank-100.html",
+     "time": "2026-11-12T18:31:15+01:00"
+    },
+    {
+     "title": "Alman dron üreticisi Quantum Systems'e siber saldırı",
+     "summary": "Bavyera merkezli savunma sanayi ve dron üreticisi Quantum Systems, Ekim ayında bir siber saldırıya uğradığını açıkladı. Şirketin dahili güncelleme sunucusuna zararlı yazılım yerleştirildiği belirtilirken, Alman ordusunun (Bundeswehr) duruma müdahale ettiği bildirildi.",
+     "category": "Güvenlik",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/quantum-systems-cyberangriff-100.html",
+     "time": "2026-11-12T22:09:07+01:00"
+    },
+    {
+     "title": "IG Metall'den sekiz yıl sonra bir ilk: Tüm gün süren uyarı grevleri",
+     "summary": "Metal ve elektrik endüstrisindeki toplu iş sözleşmesi görüşmelerinde anlaşma sağlanamaması üzerine IG Metall sendikası sekiz yıl aradan sonra ilk kez tam gün sürecek uyarı grevi kararı aldı. Sendika, işverenleri müzakerelerde blokaj tutumu izlemekle suçluyor.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-streiks-100.html",
+     "time": "2026-11-12T10:48:25+01:00"
+    },
+    {
+     "title": "Almanya'da aşırı borçlanma oranı artıyor: 7,36 milyon yetişkin borç batağında",
+     "summary": "Almanya'da yetişkin nüfus içinde aşırı borçlu olan kişilerin oranı yüzde 11'e ulaştı. Ülkede 7,36 milyon kişinin finansal kriz yaşadığı belirtilirken, devlet 200 euronun altındaki borçlar için de kredi uygunluk değerlendirmesi zorunluluğu getirdi.",
+     "category": "Toplum",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/almanya-da-bor%C3%A7-krizi-derinle%C5%9Fiyor-736-milyon-yeti%C5%9Fkin-a%C5%9F%C4%B1r%C4%B1-bor%C3%A7lu/a-79929685",
+     "time": "2026-11-12T13:31:00+00:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "overview": "Türkiye'de bugün ekonomi, yargı ve güvenlik gelişmeleri ön planda yer alıyor. Merkez Bankası'nın enflasyon tahminleri ve uluslararası bankaların analizleri piyasalarda yakından izlenirken, İstanbul merkezli kara para aklama ve organize suç operasyonları dikkat çekiyor. Ayrıca Malatya'daki askeri helikopter kazasına ilişkin incelemeler ve İBB davasında yaşanan tahliyeler günün diğer önemli gündem maddelerini oluşturuyor.",
+   "items": [
+    {
+     "title": "İstanbul'da kara para aklama ve rüşvet operasyonu",
+     "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında kara para aklama ve rüşvet suçlamalarıyla 15 kişi gözaltına alındı. Operasyonla bağlantılı olarak Sarıgül ailesine yönelik soruşturmada da çok sayıda kişi hakkında gözaltı kararı verildiği bildirildi.",
+     "category": "Adalet",
+     "importance": 3,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/istanbul-da-kara-para-aklama-ve-rusvet-operasyonu-15-kisi-gozaltinda-p380900",
+     "time": "2026-11-13T09:05:35+03:00"
+    },
+    {
+     "title": "İBB davasında 8 kişi tahliye edildi",
+     "summary": "İstanbul Büyükşehir Belediyesi davasında, Ekrem İmamoğlu'nun avukatı Mehmet Pehlivan ve Medya A.Ş. Genel Müdürü Fatoş Pınar Türker'in de aralarında bulunduğu 8 kişi tahliye edildi. Duruşma 4 Ocak 2027 tarihine ertelendi.",
+     "category": "Adalet",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/i̇bb-davası-mehmet-pehlivan-dahil-8-kişi-tahliye-edildi/a-79936716",
+     "time": "2026-11-13T06:45:00+00:00"
+    },
+    {
+     "title": "Bankacılık devlerinden Türkiye için faiz ve enflasyon analizi",
+     "summary": "Türkiye Cumhuriyet Merkez Bankası'nın para politikası adımları ve enflasyon tahminlerindeki revizyonlar küresel bankacılık devleri tarafından analiz edildi. Raporlarda faiz, enflasyon ve döviz kuru için farklı senaryolar değerlendirildi.",
+     "category": "Ekonomi",
+     "importance": 3,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/bankacilik-devlerinden-pes-pese-turkiye-analizi-faiz-enflasyon-ve-kurda-ayri-ayri-senaryolar-p380917",
+     "time": "2026-11-13T09:55:26+03:00"
+    },
+    {
+     "title": "Malatya'daki helikopter kazasında pilotların kahramanlığı",
+     "summary": "Malatya'da dört askerin şehit olduğu S-70 tipi askeri helikopter kazasının ardından pilotların faciayı önlemek için büyük bir çaba sarf ettiği ortaya çıktı. Kazanın nedenine ve radar kayıtlarındaki son anlara ilişkin incelemeler sürüyor.",
+     "category": "Güvenlik",
+     "importance": 2,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/malatya-daki-helikopter-kazasinda-buyuk-kahramanlik-pilotlar-faciayi-boyle-onlemis-p380891",
+     "time": "2026-11-13T09:37:31+03:00"
+    },
+    {
+     "title": "43 ilde kişisel veri operasyonu: 101 gözaltı",
+     "summary": "Vatandaşların kişisel verilerini yasa dışı yollarla ele geçirerek Telegram grupları üzerinden para karşılığında satan şüphelilere yönelik 43 ilde eş zamanlı operasyon düzenlendi. Operasyonda toplam 101 kişi gözaltına alındı.",
+     "category": "Güvenlik",
+     "importance": 2,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/43-ilde-kisisel-veri-operasyonu-101-kisi-gozaltinda-p380867",
+     "time": "2026-11-13T08:26:10+03:00"
+    },
+    {
+     "title": "Marmara'da lodos nedeniyle deniz seferleri iptal edildi",
+     "summary": "Marmara Bölgesi'nde etkisini artıran şiddetli lodos ulaşımı olumsuz etkiledi. İstanbul ve Bursa'da Şehir Hatları, İDO ve BUDO çok sayıda deniz seferini iptal etti.",
+     "category": "Yaşam",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/marmarada-lodos-engeli-sehir-hatlari-ido-vatan-budoda-seferleri-iptal-edildi-p380892",
+     "time": "2026-11-13T08:49:27+03:00"
+    },
+    {
+     "title": "BİM'den kuruyent sektöründe büyük satın alma",
+     "summary": "Perakende zinciri BİM, mağazalarına kuruyemiş ve atıştırmalık sağlayan tedarikçisi Milhans Gıda'nın tüm hisselerini satın aldı. Şirket bu hamleyle tedarik zincirini güçlendirmeyi hedefliyor.",
+     "category": "Ekonomi",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/bim-turkiye-nin-kuruyemis-devini-satin-aldi-p380870",
+     "time": "2026-11-13T07:52:52+03:00"
+    }
+   ]
+  }
+ ]
+}
