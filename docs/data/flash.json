@@ -1,8 +1,44 @@
 {
  "since": "2026-11-14T07:00+03:00",
- "updatedAt": "2026-11-14T11:08+03:00",
+ "updatedAt": "2026-11-14T18:02+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-14T14:48:00+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
+    "text": {
+     "tr": "New Orleans açıklarında Mississippi Nehri'nde bir yolcu gemisiyle tanker çarpıştı, 32 kişi yaralandı.",
+     "de": "In New Orleans kollidierte ein Kreuzfahrtschiff auf dem Mississippi mit einem Tanker, 32 Menschen wurden verletzt."
+    }
+   },
+   {
+    "time": "2026-11-14T14:22:33+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+    "text": {
+     "tr": "Bavyera Başbakan Yardımcısı Hubert Aiwanger için Münih'te binden fazla kişinin katılımıyla devlet töreni düzenlendi.",
+     "de": "Der bayerische Vize-Ministerpräsident Hubert Aiwanger wurde in München mit einem Trauerstaatsakt vor mehr als 1.000 Gästen gewürdigt."
+    }
+   },
+   {
+    "time": "2026-11-14T13:42:12+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+    "text": {
+     "tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD'nin Donbas'tan çekilme karşılığında NATO üyeliği teklif ettiğini açıkladı.",
+     "de": "Der ukrainische Präsident Selenskyj erklärte, die USA hätten der Ukraine einen NATO-Beitritt im Tausch gegen einen Gebietsverzicht im Donbass in Aussicht gestellt."
+    }
+   },
+   {
+    "time": "2026-11-14T10:56:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
+    "text": {
+     "tr": "Dünyanın en büyük denizcilik şirketi MSC, Alman Meyer Werft tersanesini satın almaya hazırlanıyor.",
+     "de": "Die weltgrößte Reederei MSC steht vor der Übernahme der deutschen Meyer Werft."
+    }
+   },
    {
     "time": "2026-11-14T09:15:06+01:00",
     "source": "tagesschau",
@@ -11,18 +47,27 @@
      "tr": "Kassenärzte başkanı, kısa süre önce kararlaştırılan ücret kesintileri nedeniyle yasal sigortalıların muayene için cebinden ödeme yapabileceğini belirtti.",
      "de": "Der Kassenärzte-Chef erwartet infolge kürzlich beschlossener Honorarkürzungen künftig mehr Selbstzahler-Termine für gesetzlich Versicherte."
     }
-   },
-   {
-    "time": "2026-11-14T08:49:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
-    "text": {
-     "tr": "İran, Hürmüz Boğazı'nda deniz mayınları nedeniyle iki petrol tankerinde yangın çıktığını bildirdi.",
-     "de": "Iran berichtet über Feuer auf zwei Öltankern in der Straße von Hormus, angeblich verursacht durch Seeminen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-14T17:43:29+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/sehit-binbasi-erdem-cimene-izmirde-veda-p381335",
+    "text": {
+     "tr": "Malatya'da helikopter kazasında şehit olan Kara Pilot Binbaşı Erdem Çimen, İzmir'de son yolculuğuna uğurlandı.",
+     "de": "Der bei einem Hubschrauberabsturz in Malatya getötete Heerespilot Major Erdem Çimen wurde in Izmir beigesetzt."
+    }
+   },
+   {
+    "time": "2026-11-14T16:29:31+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/reuters-erdogan-ve-bin-selman-ile-konusan-trump-iran-a-saldirmama-karari-aldi-p381316",
+    "text": {
+     "tr": "ABD Başkanı Trump, Erdoğan ve Bin Selman ile görüşmesinin ardından İran'a saldırıları erteleme kararı aldı.",
+     "de": "US-Präsident Trump hat nach Gesprächen mit Erdogan und Bin Salman beschlossen, Angriffe auf den Iran vorerst aufzuschieben."
+    }
+   },
    {
     "time": "2026-11-14T10:57:18+03:00",
     "source": "Sozcu",
@@ -44,13 +89,23 @@
   ]
  },
  "seen": [
+  "https://www.dw.com/tr/ab-nin-yeni-sınır-dışı-merkezi-ruanda-mı-olacak/a-79947826",
+  "https://www.dw.com/tr/abd-den-ukrayna-ya-kritik-teklif-donbas-a-karşılık-nato-üyeliği/a-79948459",
   "https://www.dw.com/tr/fon-tasfiyesinde-sorumsuzluk-13-madde-ne-getiriyor/a-79940524",
   "https://www.dw.com/tr/nvidia-huang-sonrası-yapay-zeka-yarışı-nasıl-etkilenecek/a-79941592",
+  "https://www.dw.com/tr/orban-dönemine-yolsuzluk-soruşturması-milyonlar-bulundu/a-79948365",
+  "https://www.dw.com/tr/yeni-parti-özgür-özel-1154-oyla-genel-başkan-seçildi/a-79948018",
+  "https://www.sozcu.com.tr/10-gun-sonra-gokyuzunde-dort-ay-ust-uste-gorulecek-p381312",
+  "https://www.sozcu.com.tr/1000-inek-sehri-ele-gecirdi-acil-durum-cagrisi-yapildi-p381315",
   "https://www.sozcu.com.tr/18-yasindaki-kiz-ask-icin-16-yasindaki-kizi-oldurdu-p381238",
+  "https://www.sozcu.com.tr/3-ulke-cokuyor-kapilar-kapanirsa-stoklar-2-ay-bile-dayanamaz-p381320",
   "https://www.sozcu.com.tr/akom-dan-istanbullulara-saatli-uyari-8-derece-birden-dusecek-p381223",
   "https://www.sozcu.com.tr/alperen-sengun-ne-kadar-kazaniyor-2030-a-kadar-suren-dev-sozlesmesinin-detaylari-p381242",
   "https://www.sozcu.com.tr/arabada-navigasyon-acan-tum-suruculeri-ilgilendiriyor-kritik-uyari-geldi-p381243",
+  "https://www.sozcu.com.tr/araclarin-kapisina-bozuk-para-koymaya-basladilar-seytanin-bile-aklina-gelmiyor-p381306",
+  "https://www.sozcu.com.tr/avrupa-da-1-ocak-2027-den-itibaren-sayaclar-sokulecek-p381325",
   "https://www.sozcu.com.tr/avuc-ici-buyuklugundeki-dev-orumcekler-evlere-girmeye-basladi-yuzlerce-ihbar-geldi-p381235",
+  "https://www.sozcu.com.tr/beyoglundaki-etkinlik-yasagina-iptal-p381307",
   "https://www.sozcu.com.tr/bu-hafta-3-burc-icin-isler-hic-yolunda-gitmeyecek-p381229",
   "https://www.sozcu.com.tr/cam-kavanozlar-icin-yeni-cagri-evden-atin-p381203",
   "https://www.sozcu.com.tr/duyanlar-penceresine-folyo-asmaya-basladi-p381241",
@@ -58,35 +113,75 @@
   "https://www.sozcu.com.tr/genc-basbakan-macron-dan-rahatsiz-oldu-elinin-tersiyle-itti-p381206",
   "https://www.sozcu.com.tr/hapishanede-tatil-yapmak-isteyenler-siraya-giriyor-bir-gecesi-46-bin-lira-p381239",
   "https://www.sozcu.com.tr/ibb-nin-binasi-vakiflar-a-devredildi-baskanveli-arslan-kendi-yerimizde-kiraci-olacagiz-p381202",
+  "https://www.sozcu.com.tr/istanbul-a-beklenen-saganak-geldi-trafik-kilitlendi-p381331",
+  "https://www.sozcu.com.tr/istanbul-da-firtina-kabusu-198-ihbar-yapildi-seferler-iptal-edildi-p381341",
+  "https://www.sozcu.com.tr/istanbul-da-trafigi-kilitleyen-calismanin-bitecegi-tarih-belli-oldu-p381301",
+  "https://www.sozcu.com.tr/istanbul-trafiginde-dehset-anlari-bogazini-kesecegim-p381314",
   "https://www.sozcu.com.tr/istanbulu-lodos-vurdu-dev-dalgalar-olustu-agac-devrildi-p381197",
   "https://www.sozcu.com.tr/kardes-ulkenin-dev-havayolu-sirketi-15-yillik-ucus-hattini-kapatiyor-p381224",
   "https://www.sozcu.com.tr/kaynatip-suyunu-icen-tansiyon-nedir-bilmiyor-p381227",
+  "https://www.sozcu.com.tr/kemal-kilicdaroglu-esim-selvi-hanim-i-uzdum-p381322",
+  "https://www.sozcu.com.tr/kenti-sarsan-olay-3-genc-dere-yataginda-olu-bulundu-p381319",
+  "https://www.sozcu.com.tr/kismetiniz-kapaliysa-hemen-yataginizin-altina-bakin-p381330",
+  "https://www.sozcu.com.tr/kotu-koku-ihbariyla-girilen-evde-olu-bulundu-p381339",
   "https://www.sozcu.com.tr/kuzen-evliligini-yasaklama-planini-devreye-aldilar-p381228",
   "https://www.sozcu.com.tr/maltepede-seyir-halindeki-otomobil-alevlere-teslim-oldu-p381214",
+  "https://www.sozcu.com.tr/market-alisverisinde-6-5-4-3-2-1-kuralini-uygulamaya-basladilar-p381317",
   "https://www.sozcu.com.tr/meryem-uzerli-ve-ahmed-sara-birlikte-poz-verdi-p381219",
   "https://www.sozcu.com.tr/ne-siber-saldiri-ne-bomba-tehdidi-abd-deki-havacilik-krizinin-sebebi-belli-oldu-p381226",
   "https://www.sozcu.com.tr/okullarda-yeni-donem-ilkokullarda-yillardir-suren-uygulama-yasaklandi-p381231",
+  "https://www.sozcu.com.tr/reuters-erdogan-ve-bin-selman-ile-konusan-trump-iran-a-saldirmama-karari-aldi-p381316",
+  "https://www.sozcu.com.tr/rusya-baris-icin-nato-nun-5-ulkeyi-ittifaktan-cikarmasini-talep-etti-p381310",
+  "https://www.sozcu.com.tr/sehit-binbasi-erdem-cimene-izmirde-veda-p381335",
+  "https://www.sozcu.com.tr/sehit-esinin-tabuta-sarilip-soyledigi-son-soz-yurekleri-dagladi-p381329",
   "https://www.sozcu.com.tr/spacex-in-roketi-denizin-uzerinde-ates-topuna-donustu-p381237",
+  "https://www.sozcu.com.tr/supersonik-ucak-1-500-kilometre-hiza-cikti-havada-dengeler-degisecek-p381332",
+  "https://www.sozcu.com.tr/tek-bir-limandan-tam-4-milyon-tane-cikinca-bedava-dagitmaya-basladilar-p381309",
   "https://www.sozcu.com.tr/tekirdagda-otomobil-ile-tir-carpisti-1-olu-2-yarali-p381240",
   "https://www.sozcu.com.tr/trump-si-ve-putin-cinde-bulusacak-anlasma-beklentisi-yok-p381232",
   "https://www.sozcu.com.tr/turkiye-de-149-yil-sonra-yeniden-basladi-2037-ye-kadar-surecek-p381236",
+  "https://www.sozcu.com.tr/turkiye-deki-milyonlarca-telefon-45-gun-sonra-kullanima-kapatilacak-p381328",
+  "https://www.sozcu.com.tr/tuzlada-tirin-onunu-kesip-camina-tas-attilar-p381340",
+  "https://www.sozcu.com.tr/ukraynali-milletvekili-canli-yayinda-yanlislikla-cinsel-organini-gosterdi-p381313",
   "https://www.sozcu.com.tr/yeni-parti-de-kurultay-gunu-27-partiye-davet-gitti-1-parti-haric-p381220",
+  "https://www.sozcu.com.tr/yikim-calismasinda-1-kup-dolusu-altin-buldular-p381321",
+  "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
   "https://www.spiegel.de/ausland/ron-desantis-donald-trump-hat-ihn-einst-bitter-verspottet-wird-er-nun-sein-nachfolger-a-15a7952f-e7cf-4203-ac99-e21580fdc4dd#ref=rss",
+  "https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss",
   "https://www.spiegel.de/ausland/uno-klimakonferenz-in-antalya-alle-sind-betroffen-von-der-klimakrise-das-spuert-man-hier-a-6e4bd34a-43f9-48f4-a1d5-6816dc1da61d#ref=rss",
+  "https://www.spiegel.de/kultur/kino/sandra-hueller-zweimal-fuer-europaeischen-filmpreis-nominiert-a-e73b9895-d242-4dc9-b559-a3f7b8f44e14#ref=rss",
+  "https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss",
   "https://www.spiegel.de/netzwelt/ki-fanfiction-auf-tiktok-wer-ist-emely-schweinsteiger-a-39fc406d-1482-4ef0-b45b-1bbfbb2b2b24#ref=rss",
+  "https://www.spiegel.de/panorama/wetter-deutschland-auf-sonne-folgt-glatteis-an-kueste-und-im-bergland-wird-es-stuermisch-a-6edca535-47bc-4704-8e0a-bb9a49a3ebba#ref=rss",
   "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ben-berndt-und-sein-podcast-ungescriptet-ob-das-alles-stimmt-steht-auf-einem-anderen-blatt-a-be50afde-179c-4244-ac1b-b6378053361c#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/ilse-aigner-csu-als-bundespraesidentin-ein-grosses-missverstaendnis-kolumne-a-9a10a4b5-917f-4872-aa69-7b3b1e7c208c#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/lange-nacht-des-impfens-in-dresden-vielleicht-sagt-man-jetzt-nein-weil-man-sich-ueberhaupt-entscheiden-darf-a-f02dc236-c24b-4ccf-b3f3-dfb011a6e704#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-trauerakt-fuer-hubert-aiwanger-friedrich-merz-und-stromsteuer-rot-gruen-rot-in-berlin-a-3dda3c1b-9aab-48c2-b6aa-4a244a239e84#ref=rss",
   "https://www.spiegel.de/politik/deutschland/spd-parteitag-genossen-planen-anti-klingbeil-antrag-a-72be0008-5531-4cc4-86d5-ce0f7e2c4774#ref=rss",
+  "https://www.spiegel.de/politik/klingbeil-verteidigt-doppelrolle-als-spd-chef-und-finanzminister-a-a2463c75-3e34-4b7d-9f63-ee3af1244069#ref=rss",
+  "https://www.spiegel.de/politik/mecklenburg-vorpommern-bekommt-erste-rot-rot-gruene-landesregierung-deutschlands-a-64982c32-c954-4d6b-a066-01e7d6b7141e#ref=rss",
+  "https://www.spiegel.de/politik/muenchen-mehr-als-1000-trauergaeste-nehmen-abschied-von-hubert-aiwanger-a-e986f8ab-d9b9-4faf-adf7-d167c63eb24b#ref=rss",
   "https://www.spiegel.de/psychologie/toxische-beziehung-woran-merke-ich-dass-meine-partnerschaft-mir-schadet-a-d379bb91-62bc-461a-9d74-d6ccb8ce450e#ref=rss",
+  "https://www.spiegel.de/sport/fussball/fifa-arsene-wenger-als-moeglicher-kandidat-fuer-infantino-nachfolge-a-fc0de243-1a47-4b1c-bf3b-a0fa672dd51f#ref=rss",
+  "https://www.spiegel.de/sport/wintersport/ski-alpin-emma-aicher-feiert-ersten-slalom-weltcupsieg-in-levi-a-b31fbbbc-499d-4d7b-bc71-e27b4850d4d8#ref=rss",
   "https://www.spiegel.de/stil/mode-trends-warum-genx-und-boomer-maenner-noch-auf-skinny-jeans-setzen-a-766e3d45-154b-4fa0-a588-dd01be87331e#ref=rss",
+  "https://www.spiegel.de/wirtschaft/reederei-msc-steht-vor-kauf-der-meyer-werft-a-16726211-4815-4015-b4de-1f2db396e978#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/iran-meldet-zwei-brennende-oel-tanker-in-der-strasse-von-hormus-a-872ff571-83d5-4520-9cd2-bdbdf570b95e#ref=rss",
+  "https://www.spiegel.de/wirtschaft/soziales/csu-will-abschlaege-fuer-fruehrentner-erhoehen-a-e30254e8-833b-4ad1-ab30-a6114735d64b#ref=rss",
   "https://www.spiegel.de/wirtschaft/soziales/kassenaerzte-schlagen-selbstzahler-termine-fuer-kassenpatienten-vor-a-4282bfbb-79a4-447b-b77b-812ed98bfc04#ref=rss",
+  "https://www.spiegel.de/wissenschaft/natur/spatzen-in-berlin-was-hinter-dem-drastischen-rueckgang-der-singvoegel-steckt-a-a0eaec38-b58a-4dc1-8bd8-852d493ee6ab#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
+  "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
   "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
   "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
+  "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
+  "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
+  "https://www.tagesschau.de/inland/gesellschaft/bahn-alkohol-verbot-bilanz-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/klimaschutz-klimaziele-deutschland-100.html",
   "https://www.tagesschau.de/inland/gesetzlich-versicherte-behandlung-selbstzahler-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/microsoft-stoerung-behoben-100.html",
   "https://www.tagesschau.de/wirtschaft/weltwirtschaft/bauen-polen-100.html"
  ]
 }
