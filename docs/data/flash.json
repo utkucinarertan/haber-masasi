@@ -1,8 +1,26 @@
 {
  "since": "2026-11-14T07:00+03:00",
- "updatedAt": "2026-11-14T22:55+03:00",
+ "updatedAt": "2026-11-15T02:29+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-15T00:12:16+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
+    "text": {
+     "tr": "SpaceX şirketinin geliştirdiği Starship roketinin üst kademesi, ilk kez fırlatma rampasına başarılı bir şekilde geri döndü.",
+     "de": "SpaceX hat erstmals die obere Stufe seiner Starship-Rakete erfolgreich zur Startrampe zurückgebracht."
+    }
+   },
+   {
+    "time": "2026-11-14T22:31:18+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
+    "text": {
+     "tr": "Berlin'de okullar, zorunlu askerlik ve sosyal kesintiler nedeniyle düzenlenen 'Gen Z' protestosunda yüzlerce kişi katıldı ve gözaltılar oldu.",
+     "de": "In Berlin haben Hunderte Menschen gegen marode Schulen und Sozialkürzungen demonstriert, es gab mehrere Festnahmen."
+    }
+   },
    {
     "time": "2026-11-14T19:12:45+01:00",
     "source": "tagesschau",
@@ -29,77 +47,62 @@
      "tr": "New Orleans açıklarında Mississippi Nehri'nde bir yolcu gemisiyle tanker çarpıştı, 32 kişi yaralandı.",
      "de": "In New Orleans kollidierte ein Kreuzfahrtschiff auf dem Mississippi mit einem Tanker, 32 Menschen wurden verletzt."
     }
-   },
-   {
-    "time": "2026-11-14T14:22:33+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/aiwanger-trauerfeier-100.html",
-    "text": {
-     "tr": "Bavyera Başbakan Yardımcısı Hubert Aiwanger için Münih'te binden fazla kişinin katılımıyla devlet töreni düzenlendi.",
-     "de": "Der bayerische Vize-Ministerpräsident Hubert Aiwanger wurde in München mit einem Trauerstaatsakt vor mehr als 1.000 Gästen gewürdigt."
-    }
-   },
-   {
-    "time": "2026-11-14T13:42:12+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/ukraine-usa-nato-gebietsverzicht-100.html",
-    "text": {
-     "tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD'nin Donbas'tan çekilme karşılığında NATO üyeliği teklif ettiğini açıkladı.",
-     "de": "Der ukrainische Präsident Selenskyj erklärte, die USA hätten der Ukraine einen NATO-Beitritt im Tausch gegen einen Gebietsverzicht im Donbass in Aussicht gestellt."
-    }
    }
   ],
   "tr": [
    {
-    "time": "2026-11-14T18:46:18+03:00",
+    "time": "2026-11-15T01:10:05+03:00",
     "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/binbasi-kulaksiz-saldirisinin-firari-suphelisi-11-yil-sonra-yakalandi-p381344",
+    "url": "https://www.sozcu.com.tr/emeklileri-umutlandiran-haber-cumhurbaskanligindan-geldi-p381403",
     "text": {
-     "tr": "Muş'ta 2015'te Jandarma Binbaşı Arslan Kulaksız'ın şehit edildiği terör saldırısının firari şüphelisi 11 yıl sonra yakalandı.",
-     "de": "Ein flüchtiger Verdächtiger des tödlichen Anschlags auf einen Gendarmeriemajor im Jahr 2015 wurde nach elf Jahren festgenommen."
+     "tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, canlı yayında emeklilere yönelik yeni açıklamalarda bulundu.",
+     "de": "Der türkische Vizepräsident Cevdet Yılmaz hat in einer Live-Sendung Erklärungen abgegeben, die Rentner hoffen lassen."
     }
    },
    {
-    "time": "2026-11-14T17:43:29+03:00",
+    "time": "2026-11-15T01:07:47+03:00",
     "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/sehit-binbasi-erdem-cimene-izmirde-veda-p381335",
+    "url": "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
     "text": {
-     "tr": "Malatya'da helikopter kazasında şehit olan Kara Pilot Binbaşı Erdem Çimen, İzmir'de son yolculuğuna uğurlandı.",
-     "de": "Der bei einem Hubschrauberabsturz in Malatya getötete Heerespilot Major Erdem Çimen wurde in Izmir beigesetzt."
+     "tr": "Adıyaman'da kara yolunda meydana gelen çökme sonucunda 6 metrelik bir çukur oluştu.",
+     "de": "In Adıyaman ist eine Straße eingebrochen, wodurch ein sechs Meter tiefes Loch entstanden ist."
     }
    },
    {
-    "time": "2026-11-14T16:29:31+03:00",
+    "time": "2026-11-15T01:03:59+03:00",
     "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/reuters-erdogan-ve-bin-selman-ile-konusan-trump-iran-a-saldirmama-karari-aldi-p381316",
+    "url": "https://www.sozcu.com.tr/istanbul-havalimaninda-konserve-kutularindan-13-kilo-uyusturucu-cikti-p381402",
     "text": {
-     "tr": "ABD Başkanı Trump, Erdoğan ve Bin Selman ile görüşmesinin ardından İran'a saldırıları erteleme kararı aldı.",
-     "de": "US-Präsident Trump hat nach Gesprächen mit Erdogan und Bin Salman beschlossen, Angriffe auf den Iran vorerst aufzuschieben."
+     "tr": "İstanbul Havalimanı'nda düzenlenen operasyonda konserve kutularına gizlenmiş 13 kilo 512 gram esrar ele geçirildi.",
+     "de": "Bei einer Operation am Flughafen Istanbul wurden in Konservendosen versteckte 13,5 Kilogramm Cannabis sichergestellt."
     }
    },
    {
-    "time": "2026-11-14T15:12:47+00:00",
-    "source": "BBC Türkçe",
-    "url": "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo",
+    "time": "2026-11-15T00:19:25+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/iki-ulke-yeniden-karsi-karsiya-sinir-hattinda-patlama-sesleri-p381392",
     "text": {
-     "tr": "Ankara'da düzenlenen Yeni Parti'nin ilk kurultayında Özgür Özel yeniden genel başkanlığa seçildi.",
-     "de": "Beim ersten Parteitag der Yeni Parti in Ankara ist Özgür Özel erneut zum Vorsitzenden gewählt worden."
+     "tr": "Etiyopya ile Eritre arasındaki sınır hattında patlama sesleri duyuldu ve çatışmaların yeniden başladığı öne sürüldü.",
+     "de": "Entlang der Grenze zwischen Äthiopien und Eritrea sind Explosionsgeräusche zu hören, Berichten zufolge flammen die Kämpfe wieder auf."
     }
    },
    {
-    "time": "2026-11-14T14:57:14+03:00",
+    "time": "2026-11-15T00:07:49+03:00",
     "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/turkiye-ve-katar-isbirligi-anlasmasi-imzaladi-p381305",
+    "url": "https://www.sozcu.com.tr/kayseride-iki-grup-arasinda-bicakli-kavga-p381390",
     "text": {
-     "tr": "Türkiye ile Katar arasında Cumhurbaşkanı Erdoğan ve Katar Emiri Al Sani'nin görüşmesinde işbirliği anlaşması imzalandı.",
-     "de": "Die Türkei und Katar haben bei einem Spitzentreffen in Istanbul ein bilaterales Kooperationsabkommen unterzeichnet."
+     "tr": "Kayseri'nin Melikgazi ilçesinde iki grup arasında çıkan bıçaklı kavgada iki kişi yaralanarak hastaneye kaldırıldı.",
+     "de": "Bei einer Messerattacke zwischen zwei Gruppen im türkischen Kayseri wurden zwei Personen verletzt."
     }
    }
   ]
  },
  "seen": [
   "https://www.bbc.com/turkce/articles/c6jeq0vy4vz0o",
+  "https://www.bbc.com/turkce/articles/cj4gn22rlw0do",
+  "https://www.bbc.com/turkce/articles/cmjrede2p3vro",
   "https://www.bbc.com/turkce/articles/cq1k9n3d3vrvo",
+  "https://www.bbc.com/turkce/articles/cqx2wyd99w13o",
   "https://www.dw.com/tr/ab-nin-yeni-sınır-dışı-merkezi-ruanda-mı-olacak/a-79947826",
   "https://www.dw.com/tr/abd-de-uçuş-kaosu-bitmedi-normale-dönüş-günler-sürecek/a-79947201",
   "https://www.dw.com/tr/abd-den-ukrayna-ya-kritik-teklif-donbas-a-karşılık-nato-üyeliği/a-79948459",
@@ -120,6 +123,7 @@
   "https://www.sozcu.com.tr/ali-koc-tan-turkiye-hassasiyeti-sunucuyu-boyle-uyardi-p381345",
   "https://www.sozcu.com.tr/alperen-sengun-ne-kadar-kazaniyor-2030-a-kadar-suren-dev-sozlesmesinin-detaylari-p381242",
   "https://www.sozcu.com.tr/ankara-da-yarin-trafige-cikacaklar-dikkat-cok-sayida-yol-kapatilacak-p381375",
+  "https://www.sozcu.com.tr/ankarada-silahli-ve-bicakli-kavga-1i-agir-11-yarali-p381396",
   "https://www.sozcu.com.tr/ankarada-uyusturucu-operasyonu-7-supheli-tutuklandi-p381355",
   "https://www.sozcu.com.tr/arabada-navigasyon-acan-tum-suruculeri-ilgilendiriyor-kritik-uyari-geldi-p381243",
   "https://www.sozcu.com.tr/araclarin-kapisina-bozuk-para-koymaya-basladilar-seytanin-bile-aklina-gelmiyor-p381306",
@@ -134,22 +138,28 @@
   "https://www.sozcu.com.tr/dogadan-toplayip-yedi-hayatini-kaybetti-p381353",
   "https://www.sozcu.com.tr/dunyanin-gozu-bu-toplantida-trump-putin-ve-si-cinping-in-bir-araya-gelecegi-tarih-belli-oldu-p381357",
   "https://www.sozcu.com.tr/duyanlar-penceresine-folyo-asmaya-basladi-p381241",
+  "https://www.sozcu.com.tr/emeklileri-umutlandiran-haber-cumhurbaskanligindan-geldi-p381403",
+  "https://www.sozcu.com.tr/faciaya-ramak-kaldi-yol-coktu-6-metrelik-cukur-olustu-p381400",
   "https://www.sozcu.com.tr/fatma-betul-sayan-kaya-o-isimlerden-baska-kimseyle-gorusmuyormus-p381360",
   "https://www.sozcu.com.tr/fon-vurgununda-sok-iddia-300-milyonla-girdi-28-milyarla-cikti-kim-bu-is-insani-p381230",
   "https://www.sozcu.com.tr/genc-basbakan-macron-dan-rahatsiz-oldu-elinin-tersiyle-itti-p381206",
   "https://www.sozcu.com.tr/haci-yakisikli-geri-adim-atti-10-kasim-sozlerine-tepki-yagmisti-p381364",
   "https://www.sozcu.com.tr/hapishanede-tatil-yapmak-isteyenler-siraya-giriyor-bir-gecesi-46-bin-lira-p381239",
   "https://www.sozcu.com.tr/ibb-nin-binasi-vakiflar-a-devredildi-baskanveli-arslan-kendi-yerimizde-kiraci-olacagiz-p381202",
+  "https://www.sozcu.com.tr/iki-ulke-yeniden-karsi-karsiya-sinir-hattinda-patlama-sesleri-p381392",
+  "https://www.sozcu.com.tr/imamoglundan-ozele-tebrik-ve-iktidar-mesaji-p381401",
   "https://www.sozcu.com.tr/ingiliz-basini-yazdi-netanyahu-koltugunu-korumak-icin-yeni-savas-plani-cizdi-p381299",
   "https://www.sozcu.com.tr/istanbul-a-beklenen-saganak-geldi-trafik-kilitlendi-p381331",
   "https://www.sozcu.com.tr/istanbul-da-firtina-kabusu-198-ihbar-yapildi-seferler-iptal-edildi-p381341",
   "https://www.sozcu.com.tr/istanbul-da-trafigi-kilitleyen-calismanin-bitecegi-tarih-belli-oldu-p381301",
+  "https://www.sozcu.com.tr/istanbul-havalimaninda-konserve-kutularindan-13-kilo-uyusturucu-cikti-p381402",
   "https://www.sozcu.com.tr/istanbul-trafiginde-dehset-anlari-bogazini-kesecegim-p381314",
   "https://www.sozcu.com.tr/istanbulu-lodos-vurdu-dev-dalgalar-olustu-agac-devrildi-p381197",
   "https://www.sozcu.com.tr/izmir-merkezli-uyusturucu-operasyonunda-16-tutuklama-p381372",
   "https://www.sozcu.com.tr/karakoyden-eminonune-kadin-zinciri-p381351",
   "https://www.sozcu.com.tr/kardes-ulkenin-dev-havayolu-sirketi-15-yillik-ucus-hattini-kapatiyor-p381224",
   "https://www.sozcu.com.tr/kaynatip-suyunu-icen-tansiyon-nedir-bilmiyor-p381227",
+  "https://www.sozcu.com.tr/kayseride-iki-grup-arasinda-bicakli-kavga-p381390",
   "https://www.sozcu.com.tr/kaza-sonrasi-ortalik-savas-alanina-dondu-anne-ve-baba-oldu-iki-cocuk-yaralandi-p381367",
   "https://www.sozcu.com.tr/kemal-kilicdaroglu-esim-selvi-hanim-i-uzdum-p381322",
   "https://www.sozcu.com.tr/kenti-sarsan-olay-3-genc-dere-yataginda-olu-bulundu-p381319",
@@ -159,11 +169,13 @@
   "https://www.sozcu.com.tr/kuzen-evliligini-yasaklama-planini-devreye-aldilar-p381228",
   "https://www.sozcu.com.tr/maltepede-seyir-halindeki-otomobil-alevlere-teslim-oldu-p381214",
   "https://www.sozcu.com.tr/manset-haber-tv-ye-yonelik-erisim-engeli-p381347",
+  "https://www.sozcu.com.tr/mansur-yavastan-ozgur-ozel-paylasimi-p381382",
   "https://www.sozcu.com.tr/market-alisverisinde-6-5-4-3-2-1-kuralini-uygulamaya-basladilar-p381317",
   "https://www.sozcu.com.tr/meryem-uzerli-ve-ahmed-sara-birlikte-poz-verdi-p381219",
   "https://www.sozcu.com.tr/ne-hastalar-ne-yaslilar-bu-ulkede-sapasaglam-insanlar-kendi-cenazelerine-katiliyor-p381302",
   "https://www.sozcu.com.tr/ne-siber-saldiri-ne-bomba-tehdidi-abd-deki-havacilik-krizinin-sebebi-belli-oldu-p381226",
   "https://www.sozcu.com.tr/okullarda-yeni-donem-ilkokullarda-yillardir-suren-uygulama-yasaklandi-p381231",
+  "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
   "https://www.sozcu.com.tr/reuters-erdogan-ve-bin-selman-ile-konusan-trump-iran-a-saldirmama-karari-aldi-p381316",
   "https://www.sozcu.com.tr/rusya-baris-icin-nato-nun-5-ulkeyi-ittifaktan-cikarmasini-talep-etti-p381310",
   "https://www.sozcu.com.tr/sehit-binbasi-erdem-cimene-izmirde-veda-p381335",
@@ -181,8 +193,10 @@
   "https://www.sozcu.com.tr/ukraynali-milletvekili-canli-yayinda-yanlislikla-cinsel-organini-gosterdi-p381313",
   "https://www.sozcu.com.tr/yeni-parti-de-kurultay-gunu-27-partiye-davet-gitti-1-parti-haric-p381220",
   "https://www.sozcu.com.tr/yikim-calismasinda-1-kup-dolusu-altin-buldular-p381321",
+  "https://www.sozcu.com.tr/zelenskiy-resti-cekti-trump-in-teklifini-reddetti-p381381",
   "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
   "https://www.spiegel.de/ausland/ron-desantis-donald-trump-hat-ihn-einst-bitter-verspottet-wird-er-nun-sein-nachfolger-a-15a7952f-e7cf-4203-ac99-e21580fdc4dd#ref=rss",
+  "https://www.spiegel.de/ausland/spacex-faengt-starship-rakete-am-startturm-erstmals-wieder-auf-a-8995a28f-b04d-4a0f-a6bd-1b2298f5b450#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-krieg-wenn-der-strom-anspringt-laeuft-jedes-familienmitglied-im-hause-babytsch-los-a-69cee47c-930f-4e3a-8c80-3b28ae753ea7#ref=rss",
   "https://www.spiegel.de/ausland/uno-klimakonferenz-in-antalya-alle-sind-betroffen-von-der-klimakrise-das-spuert-man-hier-a-6e4bd34a-43f9-48f4-a1d5-6816dc1da61d#ref=rss",
   "https://www.spiegel.de/gesundheit/tuberkulose-bericht-kraftakt-gegen-toedlichste-infektionskrankheit-der-welt-a-c2a5e8ae-6277-4372-b792-71129af22684#ref=rss",
@@ -223,6 +237,7 @@
   "https://www.tagesschau.de/ausland/amerika/cop31-usa-tuerkei-100.html",
   "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
   "https://www.tagesschau.de/ausland/amerika/migranten-usa-mexiko-110.html",
+  "https://www.tagesschau.de/ausland/amerika/space-x-rakete-rueckkehr-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-ende-startverbot-flughaefen-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-flughaefen-startverbot-100.html",
   "https://www.tagesschau.de/ausland/asien/gaza-hilfsforderung-eu-100.html",
@@ -236,6 +251,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/heil-spd-vorsitz-kandidatur-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/rente-versicherung-abschlaege-100.html",
   "https://www.tagesschau.de/inland/reaktionen-selbstzahler-arzttermine-100.html",
+  "https://www.tagesschau.de/inland/regional/berlin/gen-z-regelt-protest-berlin-100.html",
   "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
   "https://www.tagesschau.de/kultur/esc-asia-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/faq-ausfall-microsoft-dienste-weltweit-100.html",
