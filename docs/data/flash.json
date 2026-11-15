@@ -1,8 +1,26 @@
 {
  "since": "2026-11-14T07:00+03:00",
- "updatedAt": "2026-11-15T02:29+03:00",
+ "updatedAt": "2026-11-15T05:59+03:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-15T01:14:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90#ref=rss",
+    "text": {
+     "tr": "Gazze Şeridi'nin güneyindeki İsrail hava saldırısında üst düzey bir Hamas komutanının öldürüldüğü bildirildi.",
+     "de": "Ein ranghoher Hamas-Kommandeur wurde bei einem israelischen Luftangriff im Süden des Gazastreifens getötet."
+    }
+   },
+   {
+    "time": "2026-11-15T00:40:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/kabel-und-routertausch-soll-flugchaos-verursacht-haben-tausende-weitere-fluege-gestrichen-a-202245c3-145d-42b7-9107-8664ea1ac15e#ref=rss",
+    "text": {
+     "tr": "ABD'de eski bir IT sistemindeki kablo ve yönlendirici değişiminin neden olduğu hava trafiği kaosu nedeniyle 4 bin uçuş iptal edildi.",
+     "de": "In den USA haben Kabel- und Routerwechsel in einem IT-System ein Flugchaos ausgelöst, das zur Streichung von 4000 Verbindungen führte."
+    }
+   },
    {
     "time": "2026-11-15T00:12:16+01:00",
     "source": "tagesschau",
@@ -29,27 +47,27 @@
      "tr": "Almanya'da eski Çalışma Bakanı Hubertus Heil, ocak ayında yapılacak kongre için SPD genel başkanlığına adaylığını açıkladı.",
      "de": "Der frühere Bundesarbeitsminister Hubertus Heil hat offiziell seine Kandidatur für den SPD-Parteivorsitz angekündigt."
     }
-   },
-   {
-    "time": "2026-11-14T18:01:00+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/verletzte-phantasialand-chlor-100.html",
-    "text": {
-     "tr": "Brühl'deki Phantasialand eğlence parkındaki bir otel havuzunda aşırı klor nedeniyle 15 kişi yaralandı.",
-     "de": "Im Freizeitpark Phantasialand in Brühl wurden 15 Hotelgäste durch zu viel Chlor im Pool verletzt."
-    }
-   },
-   {
-    "time": "2026-11-14T14:48:00+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/amerika/kreuzfahrtschiff-unfall-new-orleans-102.html",
-    "text": {
-     "tr": "New Orleans açıklarında Mississippi Nehri'nde bir yolcu gemisiyle tanker çarpıştı, 32 kişi yaralandı.",
-     "de": "In New Orleans kollidierte ein Kreuzfahrtschiff auf dem Mississippi mit einem Tanker, 32 Menschen wurden verletzt."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-15T05:28:21+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/direge-carpan-otomobil-alev-aldi-2-olu-5-yarali-p381411",
+    "text": {
+     "tr": "Muğla'nın Fethiye ilçesinde elektrik direğine çarparak alev alan otomobilde 2 kişi hayatını kaybetti, 5 kişi yaralandı.",
+     "de": "In Fethiye in der Provinz Muğla prallte ein Auto gegen einen Strommast und fing Feuer, wobei zwei Menschen starben und fünf verletzt wurden."
+    }
+   },
+   {
+    "time": "2026-11-15T04:30:30+03:00",
+    "source": "Sozcu",
+    "url": "https://www.sozcu.com.tr/adanada-komsular-arasinda-silahli-kavga-5-yarali-p381410",
+    "text": {
+     "tr": "Adana'nın Sarıçam ilçesindeki bir sitede komşular arasında çıkan silahlı kavgada 5 kişi yaralandı.",
+     "de": "Bei einer Schießerei zwischen Nachbarn in einer Wohnanlage im Bezirk Sarıçam in Adana wurden fünf Menschen verletzt."
+    }
+   },
    {
     "time": "2026-11-15T01:10:05+03:00",
     "source": "Sozcu",
@@ -76,24 +94,6 @@
      "tr": "İstanbul Havalimanı'nda düzenlenen operasyonda konserve kutularına gizlenmiş 13 kilo 512 gram esrar ele geçirildi.",
      "de": "Bei einer Operation am Flughafen Istanbul wurden in Konservendosen versteckte 13,5 Kilogramm Cannabis sichergestellt."
     }
-   },
-   {
-    "time": "2026-11-15T00:19:25+03:00",
-    "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/iki-ulke-yeniden-karsi-karsiya-sinir-hattinda-patlama-sesleri-p381392",
-    "text": {
-     "tr": "Etiyopya ile Eritre arasındaki sınır hattında patlama sesleri duyuldu ve çatışmaların yeniden başladığı öne sürüldü.",
-     "de": "Entlang der Grenze zwischen Äthiopien und Eritrea sind Explosionsgeräusche zu hören, Berichten zufolge flammen die Kämpfe wieder auf."
-    }
-   },
-   {
-    "time": "2026-11-15T00:07:49+03:00",
-    "source": "Sozcu",
-    "url": "https://www.sozcu.com.tr/kayseride-iki-grup-arasinda-bicakli-kavga-p381390",
-    "text": {
-     "tr": "Kayseri'nin Melikgazi ilçesinde iki grup arasında çıkan bıçaklı kavgada iki kişi yaralanarak hastaneye kaldırıldı.",
-     "de": "Bei einer Messerattacke zwischen zwei Gruppen im türkischen Kayseri wurden zwei Personen verletzt."
-    }
    }
   ]
  },
@@ -118,6 +118,7 @@
   "https://www.sozcu.com.tr/3-ulke-cokuyor-kapilar-kapanirsa-stoklar-2-ay-bile-dayanamaz-p381320",
   "https://www.sozcu.com.tr/43-yasindaki-adam-silahli-saldirida-hayatini-kaybetti-p381352",
   "https://www.sozcu.com.tr/abd-de-kaos-devam-ediyor-bugun-de-binlerce-ucus-iptal-edilecek-p381369",
+  "https://www.sozcu.com.tr/adanada-komsular-arasinda-silahli-kavga-5-yarali-p381410",
   "https://www.sozcu.com.tr/adnan-sensesin-kizi-arzum-senses-siyasete-atildi-iste-katildigi-parti-p381343",
   "https://www.sozcu.com.tr/akom-dan-istanbullulara-saatli-uyari-8-derece-birden-dusecek-p381223",
   "https://www.sozcu.com.tr/ali-koc-tan-turkiye-hassasiyeti-sunucuyu-boyle-uyardi-p381345",
@@ -132,9 +133,13 @@
   "https://www.sozcu.com.tr/avuc-ici-buyuklugundeki-dev-orumcekler-evlere-girmeye-basladi-yuzlerce-ihbar-geldi-p381235",
   "https://www.sozcu.com.tr/beyoglundaki-etkinlik-yasagina-iptal-p381307",
   "https://www.sozcu.com.tr/binbasi-kulaksiz-saldirisinin-firari-suphelisi-11-yil-sonra-yakalandi-p381344",
+  "https://www.sozcu.com.tr/bir-gunun-farki-17-yil-olamaz-p381399",
+  "https://www.sozcu.com.tr/bir-polis-daha-canina-kiydi-p381395",
   "https://www.sozcu.com.tr/bu-hafta-3-burc-icin-isler-hic-yolunda-gitmeyecek-p381229",
   "https://www.sozcu.com.tr/cam-kavanozlar-icin-yeni-cagri-evden-atin-p381203",
   "https://www.sozcu.com.tr/chp-kirsehir-il-yonetimine-verilen-mercedes-tepkiye-neden-oldu-p381348",
+  "https://www.sozcu.com.tr/direge-carpan-otomobil-alev-aldi-2-olu-5-yarali-p381411",
+  "https://www.sozcu.com.tr/diyanet-ata-nin-mirasina-goz-dikti-p381409",
   "https://www.sozcu.com.tr/dogadan-toplayip-yedi-hayatini-kaybetti-p381353",
   "https://www.sozcu.com.tr/dunyanin-gozu-bu-toplantida-trump-putin-ve-si-cinping-in-bir-araya-gelecegi-tarih-belli-oldu-p381357",
   "https://www.sozcu.com.tr/duyanlar-penceresine-folyo-asmaya-basladi-p381241",
@@ -156,6 +161,7 @@
   "https://www.sozcu.com.tr/istanbul-trafiginde-dehset-anlari-bogazini-kesecegim-p381314",
   "https://www.sozcu.com.tr/istanbulu-lodos-vurdu-dev-dalgalar-olustu-agac-devrildi-p381197",
   "https://www.sozcu.com.tr/izmir-merkezli-uyusturucu-operasyonunda-16-tutuklama-p381372",
+  "https://www.sozcu.com.tr/kalbimizde-yasayacaksiniz-p381408",
   "https://www.sozcu.com.tr/karakoyden-eminonune-kadin-zinciri-p381351",
   "https://www.sozcu.com.tr/kardes-ulkenin-dev-havayolu-sirketi-15-yillik-ucus-hattini-kapatiyor-p381224",
   "https://www.sozcu.com.tr/kaynatip-suyunu-icen-tansiyon-nedir-bilmiyor-p381227",
@@ -164,6 +170,7 @@
   "https://www.sozcu.com.tr/kemal-kilicdaroglu-esim-selvi-hanim-i-uzdum-p381322",
   "https://www.sozcu.com.tr/kenti-sarsan-olay-3-genc-dere-yataginda-olu-bulundu-p381319",
   "https://www.sozcu.com.tr/kilicdaroglu-dan-akp-ve-mhp-ile-ittifak-ihtimaline-acik-kapi-beka-sorunu-ortaya-cikarsa-p381361",
+  "https://www.sozcu.com.tr/kim-bu-is-adami-p381404",
   "https://www.sozcu.com.tr/kismetiniz-kapaliysa-hemen-yataginizin-altina-bakin-p381330",
   "https://www.sozcu.com.tr/kotu-koku-ihbariyla-girilen-evde-olu-bulundu-p381339",
   "https://www.sozcu.com.tr/kuzen-evliligini-yasaklama-planini-devreye-aldilar-p381228",
@@ -174,8 +181,10 @@
   "https://www.sozcu.com.tr/meryem-uzerli-ve-ahmed-sara-birlikte-poz-verdi-p381219",
   "https://www.sozcu.com.tr/ne-hastalar-ne-yaslilar-bu-ulkede-sapasaglam-insanlar-kendi-cenazelerine-katiliyor-p381302",
   "https://www.sozcu.com.tr/ne-siber-saldiri-ne-bomba-tehdidi-abd-deki-havacilik-krizinin-sebebi-belli-oldu-p381226",
+  "https://www.sozcu.com.tr/nice-43-yillara-p381406",
   "https://www.sozcu.com.tr/okullarda-yeni-donem-ilkokullarda-yillardir-suren-uygulama-yasaklandi-p381231",
   "https://www.sozcu.com.tr/reklam-kurulundan-fal-medyumluk-ve-buyu-reklamlarina-durdurma-karari-p381388",
+  "https://www.sozcu.com.tr/resepsiyondaki-ugultu-abdulkadir-uraloglu-nu-kizdirdi-bakani-dinlemediler-p381407",
   "https://www.sozcu.com.tr/reuters-erdogan-ve-bin-selman-ile-konusan-trump-iran-a-saldirmama-karari-aldi-p381316",
   "https://www.sozcu.com.tr/rusya-baris-icin-nato-nun-5-ulkeyi-ittifaktan-cikarmasini-talep-etti-p381310",
   "https://www.sozcu.com.tr/sehit-binbasi-erdem-cimene-izmirde-veda-p381335",
@@ -184,6 +193,7 @@
   "https://www.sozcu.com.tr/supersonik-ucak-1-500-kilometre-hiza-cikti-havada-dengeler-degisecek-p381332",
   "https://www.sozcu.com.tr/tarlalardan-rant-fiskiracak-kanal-istanbul-da-15-mahallelik-imar-hamlesi-p381373",
   "https://www.sozcu.com.tr/tek-bir-limandan-tam-4-milyon-tane-cikinca-bedava-dagitmaya-basladilar-p381309",
+  "https://www.sozcu.com.tr/tek-yol-iktidar-p381405",
   "https://www.sozcu.com.tr/tekirdagda-otomobil-ile-tir-carpisti-1-olu-2-yarali-p381240",
   "https://www.sozcu.com.tr/trump-si-ve-putin-cinde-bulusacak-anlasma-beklentisi-yok-p381232",
   "https://www.sozcu.com.tr/turkiye-de-149-yil-sonra-yeniden-basladi-2037-ye-kadar-surecek-p381236",
@@ -193,7 +203,9 @@
   "https://www.sozcu.com.tr/ukraynali-milletvekili-canli-yayinda-yanlislikla-cinsel-organini-gosterdi-p381313",
   "https://www.sozcu.com.tr/yeni-parti-de-kurultay-gunu-27-partiye-davet-gitti-1-parti-haric-p381220",
   "https://www.sozcu.com.tr/yikim-calismasinda-1-kup-dolusu-altin-buldular-p381321",
+  "https://www.sozcu.com.tr/yoksul-cocuga-montu-bile-cok-gorduler-p381397",
   "https://www.sozcu.com.tr/zelenskiy-resti-cekti-trump-in-teklifini-reddetti-p381381",
+  "https://www.spiegel.de/ausland/hamas-kommandeur-im-gazastreifen-getoetet-a-ed56078f-d554-4c35-b70c-2aaecb18ed90#ref=rss",
   "https://www.spiegel.de/ausland/republikaner-nach-den-midterms-das-donald-trump-dilemma-a-7d259856-2698-4b59-b05c-9e57bc2d0cd9#ref=rss",
   "https://www.spiegel.de/ausland/ron-desantis-donald-trump-hat-ihn-einst-bitter-verspottet-wird-er-nun-sein-nachfolger-a-15a7952f-e7cf-4203-ac99-e21580fdc4dd#ref=rss",
   "https://www.spiegel.de/ausland/spacex-faengt-starship-rakete-am-startturm-erstmals-wieder-auf-a-8995a28f-b04d-4a0f-a6bd-1b2298f5b450#ref=rss",
@@ -208,6 +220,7 @@
   "https://www.spiegel.de/kultur/tv/eurovision-song-contest-asia-wie-soll-der-esc-in-asien-funktionieren-a-5f85f10e-3060-4216-a3b2-766d6d473153#ref=rss",
   "https://www.spiegel.de/netzwelt/ki-fanfiction-auf-tiktok-wer-ist-emely-schweinsteiger-a-39fc406d-1482-4ef0-b45b-1bbfbb2b2b24#ref=rss",
   "https://www.spiegel.de/panorama/azubis-aus-vietnam-in-deutschland-acht-menschen-in-einem-raum-lohn-oft-verweigert-spiegel-tv-a-e8fb4408-0039-42ea-97a3-95a25c93d354#ref=rss",
+  "https://www.spiegel.de/panorama/kabel-und-routertausch-soll-flugchaos-verursacht-haben-tausende-weitere-fluege-gestrichen-a-202245c3-145d-42b7-9107-8664ea1ac15e#ref=rss",
   "https://www.spiegel.de/panorama/phantasialand-in-bruehl-wegen-microsoft-ausfall-chlorpanne-zu-spaet-entdeckt-15-verletzte-a-6e70b4ec-9e3e-4c52-aae5-28beaa2fef62#ref=rss",
   "https://www.spiegel.de/panorama/wetter-deutschland-auf-sonne-folgt-glatteis-an-kueste-und-im-bergland-wird-es-stuermisch-a-6edca535-47bc-4704-8e0a-bb9a49a3ebba#ref=rss",
   "https://www.spiegel.de/politik/debatte-ueber-fraktionsausschluss-linke-chef-pantisano-verteidigt-langwieriges-verfahren-zu-vanessa-emde-a-88fa41b6-acd7-4d25-ad08-88f9db6e9d90#ref=rss",
