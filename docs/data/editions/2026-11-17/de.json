@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-17",
+ "updatedAt": "2026-11-17T14:15+03:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "tr",
+   "overview": "Das heutige Nachrichtengeschehen in der Türkei wird von Entwicklungen im Bereich der Medienfreiheit, juristischen Entscheidungen und wirtschaftlichen Indikatoren geprägt. Die Einsetzung eines Zwangsverwalters für den Sender Sözcü TV und dessen Internetseite löste scharfe Kritik aus und wirft Fragen zur Pressefreiheit auf, während das EGMR-Urteil zu Can Atalay und laufende Finanzmarktinvestigationen die Justiz beschäftigen. Gleichzeitig verdeutlichen Funde von Schleimpuppen im Golf von Gemlik und neue Daten zum Immobilienmarkt anhaltende Umwelt- und Wirtschaftssorgen des Landes.",
+   "items": [
+    {
+     "title": "Zwangsverwaltung für Sözcü TV und Internetseite verhängt",
+     "summary": "Im Zuge einer Operation gegen die Mediengruppe Sözcü wurden mehrere leitende Angestellte festgenommen. Die Einsetzung eines Zwangsverwalters für den Fernsehsender und die Internetseite stieß bei Politik und Berufsverbänden auf scharfe Kritik.",
+     "category": "Medien",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o",
+     "time": "2026-11-17T10:09:29+00:00"
+    },
+    {
+     "title": "EGMR stellt Rechtsverletzung im Fall Can Atalay fest",
+     "summary": "Der Europäische Gerichtshof für Menschenrechte hat im Fall des inhaftierten TİP-Abgeordneten Can Atalay entschieden. Das Gericht wertete die Inhaftierung als Menschenrechtsverletzung und forderte seine sofortige Freilassung sowie die Rückkehr ins Amt.",
+     "category": "Justiz",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/ai̇hm-den-can-atalay-için-ihlal-kararı/a-79968659",
+     "time": "2026-11-17T11:09:00+00:00"
+    },
+    {
+     "title": "Erneut Schleimpuppen im Golf von Gemlik entdeckt",
+     "summary": "Bei Tauchgängen im Golf von Gemlik in Bursa wurden in Tiefen zwischen 8 und 30 Metern Schleimschichten dokumentiert. Die Situation bereitet Sorgen für die Meeresfauna und die Umwelt in der Region.",
+     "category": "Umwelt",
+     "importance": 3,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/gemlik-korfezinde-musilaj-kabusu-hortladi-p382160",
+     "time": "2026-11-17T14:15:14+03:00"
+    },
+    {
+     "title": "Zentralbank veröffentlicht Immobilien- und Mietdaten für Oktober",
+     "summary": "Daten der türkischen Zentralbank zufolge stiegen die Wohnimmobilienpreise im Oktober im Jahresvergleich nominal weiter an. Gleichzeitig zeigen die Zahlen jedoch, dass der reale Verlust gegenüber der Inflation anhält.",
+     "category": "Wirtschaft",
+     "importance": 2,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/konut-ve-kira-fiyatlarinda-ekim-tablosu-nominal-artis-surdu-reel-kayip-devam-etti-p382094",
+     "time": "2026-11-17T10:33:33+03:00"
+    },
+    {
+     "title": "Weitere Festnahmen und Haftbefehle bei Finanzmarkt-Ermittlungen",
+     "summary": "Im Zuge der Ermittlungen zu verdächtigen Transaktionen an den Kapitalmärkten wurden 7 weitere Verdächtige in Untersuchungshaft genommen. Damit stieg die Gesamtzahl der Inhaftierten in diesem Verfahren auf 130.",
+     "category": "Justiz",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/fon-soruşturması-7-kişi-daha-tutuklandı/a-79966078",
+     "time": "2026-11-17T08:51:00+00:00"
+    },
+    {
+     "title": "Razzia gegen illegale Glücksspiele in 12 Provinzen",
+     "summary": "Bei einer von Denizli aus gesteuerten Operation in 12 Provinzen wurden 22 Verdächtige festgenommen. Im Rahmen der Ermittlungen wurde ein Geldverkehr von rund 2,5 Milliarden festgestellt.",
+     "category": "Sicherheit",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/12-ilde-yasa-disi-bahis-operasyonu-2-5-milyarlik-para-trafigi-p382159",
+     "time": "2026-11-17T14:14:04+03:00"
+    }
+   ]
+  }
+ ]
+}

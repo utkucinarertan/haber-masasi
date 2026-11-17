@@ -1,0 +1,67 @@
+{
+ "date": "2026-11-17",
+ "updatedAt": "2026-11-17T14:15+03:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "tr",
+   "overview": "Bugünün haber akışı, Türkiye'de medya özgürlüğü, yargı kararları ve ekonomik gelişmeler ekseninde şekillenmektedir. Sözcü TV ve internet sitesine kayyum atanması basın özgürlüğü tartışmalarını alevlendirirken, AİHM'in Can Atalay kararı ve sermaye piyasalarındaki soruşturmalar yargı gündemini meşgul etmektedir. Öte yandan Gemlik Körfezi'ndeki müsilaj tespiti ve konut piyasasındaki reel kayıp verileri, ülkenin çevre ve ekonomi alanındaki güncel sorunlarını gözler önüne sermektedir.",
+   "items": [
+    {
+     "title": "Sözcü TV ve İnternet Sitesine Kayyum Atandı",
+     "summary": "Sözcü medya grubuna yönelik düzenlenen operasyon kapsamında bazı yöneticiler gözaltına alındı. Grubun televizyon kanalı ile internet sitesine kayyum atanması siyasetçiler ve meslek örgütlerinin tepkisine yol açtı.",
+     "category": "Medya",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cmqlq51yvq26o",
+     "time": "2026-11-17T10:09:29+00:00"
+    },
+    {
+     "title": "AİHM'den TİP Milletvekili Can Atalay İçin Hak İhlali Kararı",
+     "summary": "Avrupa İnsan Hakları Mahkemesi, tutuklu TİP milletvekili Can Atalay'ın başvurusunu karara bağladı. Mahkeme, Atalay'ın tutukluluğunun hak ihlali oluşturduğuna hükmederek derhal serbest bırakılmasını ve görevine dönmesini talep etti.",
+     "category": "Adalet",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/ai̇hm-den-can-atalay-için-ihlal-kararı/a-79968659",
+     "time": "2026-11-17T11:09:00+00:00"
+    },
+    {
+     "title": "Gemlik Körfezi'nde Müsilaj Tabakaları Tespit Edildi",
+     "summary": "Bursa'nın Gemlik Körfezi'nde gerçekleştirilen dalışlarda, deniz yüzeyinin altında 8 ila 30 metre derinlikte müsilaj tabakaları kaydedildi. Bu durum bölgedeki deniz canlıları ve çevre için endişe yarattı.",
+     "category": "Çevre",
+     "importance": 3,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/gemlik-korfezinde-musilaj-kabusu-hortladi-p382160",
+     "time": "2026-11-17T14:15:14+03:00"
+    },
+    {
+     "title": "TCMB Ekim Ayı Konut ve Kira Fiyatı Verilerini Açıkladı",
+     "summary": "Türkiye Cumhuriyet Merkez Bankası verilerine göre ekim ayında konut fiyatları yıllık bazda nominal olarak artış gösterdi. Ancak veriler, enflasyon karşısında reel kaybın devam ettiğini ortaya koydu.",
+     "category": "Ekonomi",
+     "importance": 2,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/konut-ve-kira-fiyatlarinda-ekim-tablosu-nominal-artis-surdu-reel-kayip-devam-etti-p382094",
+     "time": "2026-11-17T10:33:33+03:00"
+    },
+    {
+     "title": "Sermaye Piyasası Soruşturmasında Tutuklu Sayısı Arttı",
+     "summary": "Sermaye piyasalarındaki şüpheli işlemlere yönelik soruşturma kapsamında gözaltına alınan şüphelilerden 7'si daha tutuklandı. Operasyonla birlikte dosyadaki toplam tutuklu sayısı 130'a yükseldi.",
+     "category": "Adalet",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/fon-soruşturması-7-kişi-daha-tutuklandı/a-79966078",
+     "time": "2026-11-17T08:51:00+00:00"
+    },
+    {
+     "title": "12 İlde Yasa Dışı Bahis Operasyonu: 22 Gözaltı",
+     "summary": "Denizli merkezli 12 ilde düzenlenen yasa dışı bahis operasyonunda 22 şüpheli gözaltına alındı. Soruşturma kapsamında yaklaşık 2,5 milyarlık para trafiği tespit edildi.",
+     "category": "Güvenlik",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/12-ilde-yasa-disi-bahis-operasyonu-2-5-milyarlik-para-trafigi-p382159",
+     "time": "2026-11-17T14:14:04+03:00"
+    }
+   ]
+  }
+ ]
+}
