@@ -1,0 +1,145 @@
+{
+ "date": "2026-11-18",
+ "updatedAt": "2026-11-18T12:22+03:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "Das Nachrichtengeschehen in Deutschland wird maßgeblich von den wirtschafts- und finanzpolitischen Beschlüssen der Regierungskoalition zur Senkung der Stromsteuer und zur Einführung eines Spritpreisdeckels geprägt. Daneben stehen juristische Entscheidungen wie das Urteil des Bundesverfassungsgerichts zur BSW-Wahlbeschwerde sowie rückläufige Baugenehmigungen im Fokus der innenpolitischen Berichterstattung. Ergänzend beschäftigen außenpolitische Akzente und Entwicklungen auf den Finanzmärkten das Land.",
+   "items": [
+    {
+     "title": "Koalition einigt sich auf Stromsteuersenkung und Spritpreisdeckel",
+     "summary": "Die Spitzen von Union und SPD haben sich im Koalitionsausschuss auf eine Senkung der Stromsteuer für alle Verbraucher geeinigt. Zudem soll ein zeitlich begrenzter Spritpreisdeckel eingeführt werden. Die Finanzierung der Maßnahmen steht allerdings vorerst nur für das Jahr 2027.",
+     "category": "Wirtschaft",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/koalitionsausschuss-einigung-stromsteuer-spritpreisdeckel-100.html",
+     "time": "2026-11-18T09:55:03+01:00"
+    },
+    {
+     "title": "Bundesverfassungsgericht weist BSW-Beschwerde zur Bundestagswahl ab",
+     "summary": "Das BSW hatte bei der Bundestagswahl 2025 mit 4,98 Prozent den Einzug in den Bundestag knapp verpasst und seither eine Neuauszählung gefordert. Nun hat das Bundesverfassungsgericht die Wahlbeschwerde der Partei von Sahra Wagenknecht für unzulässig erklärt.",
+     "category": "Justiz",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/politik/bundesverfassung-bsw-beschwerde-die-stimmen-zur-bundestagswahl-muessen-neu-ausgezaehlt-werden-a-714504aa-841f-4258-a2d5-cb852a8f20f6#ref=rss",
+     "time": "2026-11-18T09:34:00+01:00"
+    },
+    {
+     "title": "Baugenehmigungen von Wohnungen brechen nach starkem Anstieg ein",
+     "summary": "Nach mehr als einem Jahr mit steigenden Baugenehmigungen verzeichnet die Baubranche im September erstmals wieder einen deutlichen Rückgang. Im Vergleich zum Vorjahresmonat wurden knapp 15 Prozent weniger Wohnungen genehmigt.",
+     "category": "Wirtschaft",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/wohnungsbau-september-100.html",
+     "time": "2026-11-18T10:01:00+01:00"
+    },
+    {
+     "title": "Linken-Vorstand beantragt Ausschluss der Abgeordneten Emde in Berlin",
+     "summary": "Der Vorstand der Linken-Fraktion im Berliner Abgeordnetenhaus hat offiziell den Ausschluss der Abgeordneten Vanessa Emde beantragt. In einer Mitteilung wurde dieser Schritt mit dem Verhalten der umstrittenen Politikerin begründet.",
+     "category": "Politik",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/regional/berlin/emde-ausschluss-linke-antrag-100.html",
+     "time": "2026-11-18T09:38:42+01:00"
+    },
+    {
+     "title": "Deutsche-Bank-Tochter DWS verwaltet Milliarden ohne Geldwäsche-Aufsicht",
+     "summary": "Die Deutsche-Bank-Tochter DWS verwaltet im Rahmen einer Stiftung Milliarden für Betriebsrenten, die nicht von der Finanzaufsicht Bafin kontrolliert werden. Recherchen zufolge droht der Stiftung nun Ärger mit den Ermittlungsbehörden.",
+     "category": "Wirtschaft",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/investigativ/ndr-wdr/dws-118.html",
+     "time": "2026-11-18T06:00:42+01:00"
+    },
+    {
+     "title": "Festnahme in Brandenburg: Ukrainer soll für Russland spioniert haben",
+     "summary": "Der Generalbundesanwalt hat Mitte Oktober in Eisenhüttenstadt einen Ukrainer festnehmen lassen, der für einen russischen Geheimdienst spioniert haben soll. Recherchen verdeutlichen den Umfang des mutmaßlichen Verrats.",
+     "category": "Sicherheit",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/spion-russland-festnahme-brandenburg-100.html",
+     "time": "2026-11-17T16:53:40+01:00"
+    },
+    {
+     "title": "U21-Länderspiel in Kroatien wird zur Schlammschlacht im Regen",
+     "summary": "Das Testspiel der U21-Nationalmannschaft in Kroatien wurde Opfer extremer Wetterverhältnisse. Dichter Nebel behinderte zunächst die Sicht, ehe starker Regen den Platz unter Wasser setzte und den Ball in Pfützen stecken ließ.",
+     "category": "Sport",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/fussball/fussball-u21-laenderspiel-in-kroatien-wird-zur-schlammschlacht-in-regen-a-a66c3032-682a-4160-b9b5-018ecb7bf50f#ref=rss",
+     "time": "2026-11-18T10:07:00+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "overview": "Türkiye erlebt heute einen Tag im Schatten wirtschaftlicher Daten, regionaler Energiedynamiken und innenpolitischer Entwicklungen. Laut TÜİK-Daten stieg die Arbeitslosenquote leicht auf 8,1 Prozent, während die Wiederinbetriebnahme der Kirkuk-Ceyhan-Ölpipeline als strategischer Energieschritt hervortritt. Innenpolitisch bilden der CHP-Parteitags-Prozess und die Zwangsverwaltung von Medienunternehmen derweil die heißesten Themen der Agenda.",
+   "items": [
+    {
+     "title": "Entscheidung im CHP-Parteitags-Prozess erwartet",
+     "summary": "Im Prozess gegen zwölf Angeklagte, darunter Ekrem İmamoğlu, wegen angeblicher Unregelmäßigkeiten beim 38. ordentlichen Parteitag der CHP wird heute die Entscheidung erwartet. Das Verfahren wird als kritischer juristischer Prozess mit großem Echo in der türkischen Politik verfolgt.",
+     "category": "Politik",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cx2r30k4ddyo",
+     "time": "2026-11-18T07:26:01+00:00"
+    },
+    {
+     "title": "Kirkuk-Ceyhan-Pipeline exportiert wieder Öl",
+     "summary": "Im Rahmen der Bemühungen, die Blockaden in der Straße von Hormus zu umgehen, hat der Irak über die seit mehr als zehn Jahren geschlossene Kirkuk-Ceyhan-Pipeline begonnen, Öl in die Türkei zu exportieren. Diese Entwicklung sorgt für die Reaktivierung des Energiekorridors zwischen den beiden Ländern.",
+     "category": "Wirtschaft",
+     "importance": 3,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/hurmuz-bogazi-ni-devre-disi-birakacak-boru-hatti-irak-tan-turkiye-ye-petrol-ihrac-ediyor-p382430",
+     "time": "2026-11-18T12:13:34+03:00"
+    },
+    {
+     "title": "Zwangsverwaltung für Sözcü TV",
+     "summary": "Mit der Ernennung eines Zwangsverwalters für Sözcü TV wurde einer der wichtigsten Medienbildschirme der Opposition ausgeschaltet. Es wurde mitgeteilt, dass die Zahl der in den letzten zwei Jahren an den TMSF übertragenen Medienunternehmen 40 übersteigt.",
+     "category": "Politik",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/sözcü-tv-ye-kayyum-muhalefet-sesini-nasıl-duyuracak/a-79976864",
+     "time": "2026-11-18T07:24:00+00:00"
+    },
+    {
+     "title": "Arbeitslosenquote in der Türkei gestiegen",
+     "summary": "Das Statistikinstitut der Türkei (TÜİK) hat die Arbeitsmarktstatistiken für den Zeitraum Juli-September veröffentlicht. Demnach stieg die Arbeitslosenquote in der Türkei um 0,1 Prozentpunkte auf 8,1 Prozent, während die Zahl der registrierten Arbeitslosen 2,87 Millionen betrug.",
+     "category": "Wirtschaft",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/tüi̇k-türkiye-de-işsizlik-arttı-istihdam-düştü/a-79977092",
+     "time": "2026-11-18T08:15:00+00:00"
+    },
+    {
+     "title": "Türkisches Unternehmen stoppt Produktion im Irak",
+     "summary": "Kaleseramik hat beschlossen, die Produktion in seinem zu 49 Prozent beteiligten Werk in Kirkuk wegen mangelnder regelmäßiger und ununterbrochener Stromversorgung einzustellen. Das Unternehmen musste seine Aktivitäten aufgrund von Infrastrukturproblemen unterbrechen.",
+     "category": "Wirtschaft",
+     "importance": 2,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/turk-sirket-irakta-uretim-durdurdu-p382409",
+     "time": "2026-11-18T11:11:01+03:00"
+    },
+    {
+     "title": "Wal vor der Küste von Antalya gesichtet",
+     "summary": "Bürger, die in Kumluca, einem Bezirk von Antalya, eine Bootstour machten, bemerkten in der Nähe von Suluada ein schwarzes Meereslebewesen. Es wurde angegeben, dass es sich bei dem gesichteten Lebewesen um einen Wal handelte.",
+     "category": "Umwelt",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/kumluca-aciklarinda-balina-goruntulendi-p382408",
+     "time": "2026-11-18T12:07:01+03:00"
+    },
+    {
+     "title": "Strohbrand in Burdur: 180 Tonnen Ballen verbrannt",
+     "summary": "Bei einem Brand im Garten eines Hauses im Zentrum von Burdur wurden etwa 180 Tonnen Strohballen zu Asche. Das Feuer wurde mit Unterstützung von Nachbarn und Baumaschinen gelöscht.",
+     "category": "Gesellschaft",
+     "importance": 1,
+     "source": "Sozcu",
+     "url": "https://www.sozcu.com.tr/burdur-da-korkutan-saman-yangini-180-ton-balya-kule-dondu-p382396",
+     "time": "2026-11-18T12:02:45+03:00"
+    }
+   ]
+  }
+ ]
+}
