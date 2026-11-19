@@ -204,8 +204,10 @@ def gemini(system, user, schema, search=False):
                 log("  " + last)
                 if e.code in (400, 401, 403) and "API key" in detail:
                     raise SystemExit("GEMINI_API_KEY geçersiz. Yönetim sayfasından yeniden kaydedin.")
-                if e.code == 400 and body.pop("tools", None):
-                    log("  Google araması yapılandırılmış çıktıyla birlikte kullanılamadı; aramasız deneniyor.")
+                if e.code in (400, 429) and body.pop("tools", None):
+                    # 400: arama bu modelde yapılandırılmış çıktıyla kullanılamıyor; 429: arama kotası doldu
+                    log("  Google araması kullanılamadı; aramasız deneniyor.")
+                    time.sleep(5)
                     continue
                 if e.code in (429, 500, 503) and attempt < 2:
                     time.sleep(30 * (attempt + 1))

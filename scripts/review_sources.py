@@ -146,7 +146,7 @@ def main():
     report = []
     for i, country in enumerate(cfg.get("countries", [])):
         if i:
-            time.sleep(10)
+            time.sleep(30)   # dakikalık kota
         try:
             feeds, r = review_country(country, blocked, now.date().isoformat(), since)
         except RuntimeError as e:
@@ -155,9 +155,10 @@ def main():
             continue
         country["feeds"] = feeds
         report.append(r)
-    cfg["sourcesReviewedAt"] = now.isoformat(timespec="minutes")
+    if all(not r.get("error") for r in report):   # hata varsa bir sonraki zamanlanmış çalıştırmada yeniden denenir
+        cfg["sourcesReviewedAt"] = now.isoformat(timespec="minutes")
     bn.CONFIG.write_text(json.dumps(cfg, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    REVIEW.write_text(json.dumps({"reviewedAt": cfg["sourcesReviewedAt"], "countries": report},
+    REVIEW.write_text(json.dumps({"reviewedAt": now.isoformat(timespec="minutes"), "countries": report},
                                  ensure_ascii=False, indent=1), encoding="utf-8")
     for r in report:
         bn.log(f"{r['code']}: +{len(r.get('added', []))} / -{len(r.get('removed', []))}"
