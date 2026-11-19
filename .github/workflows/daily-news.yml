@@ -20,7 +20,7 @@ on:
 
 permissions:
   contents: write
-  actions: read
+  actions: write
 
 concurrency:
   group: daily-news
@@ -45,6 +45,26 @@ jobs:
           running=$(gh run list --repo "${{ github.repository }}" --workflow morning-edition.yml --status in_progress --json databaseId --jq length 2>/dev/null || echo 0)
           if [ "$running" != "0" ]; then export MORNING_RUNNING=1; fi
           python scripts/build_news.py ${{ inputs.flash_only && '--flash-only' || '' }}
+
+      - name: Sabah işi bekliyor mu? (akşam/gece yoksa başlat)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # GitHub sabah işinin zamanlamasını atlayabilir; akşam 19:00 ile sabah 04:59 (Almanya) arasında
+          # bekleyen ya da çalışan sabah işi yoksa buradan başlatılır.
+          hour=$(TZ=Europe/Berlin date +%H)
+          if [ "$hour" -ge 19 ] || [ "$hour" -lt 5 ]; then
+            active=0
+            for s in in_progress queued; do
+              n=$(gh run list --repo "${{ github.repository }}" --workflow morning-edition.yml --status $s --json databaseId --jq length 2>/dev/null || echo 0)
+              active=$((active + n))
+            done
+            if [ "$active" = "0" ]; then
+              gh workflow run morning-edition.yml --repo "${{ github.repository }}" --ref main && echo "Sabah işi başlatıldı."
+            else
+              echo "Sabah işi zaten bekliyor/çalışıyor."
+            fi
+          fi
 
       - name: Yeni baskıyı kaydet
         run: |
