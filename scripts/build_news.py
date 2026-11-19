@@ -419,9 +419,10 @@ def write_index():
 
 
 def edition_codes(date, lang):
+    """O günün baskısında konulara ayrılmış olarak bulunan ülkeler (konusuz eski düzen eksik sayılır)."""
     try:
         data = json.loads((EDITIONS / date / f"{lang}.json").read_text(encoding="utf-8"))
-        return {c["code"] for c in data.get("countries", [])}
+        return {c["code"] for c in data.get("countries", []) if c.get("topics")}
     except (OSError, ValueError, KeyError):
         return set()
 
