@@ -141,7 +141,7 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
   <p>Haftada bir Gemini, Google'da güncel bilgiyi arayarak her ülkenin kaynaklarını denetler. Bağımsızlığını yitiren kaynakları (kayyum atanan, devlet ya da hükümet denetimine geçen, kapanan) çıkarır, yerine bağımsız haber sitelerini ekler. Önerilen her adres gerçekten denenir. Çalışan bağımsız kaynak yeterli değilse mevcut liste korunur.</p>
   <label class="f">Kullanılmayacak siteler (her satıra bir alan adı; isterseniz boşluktan sonra neden yazın)
     <textarea id="cfg-blocked" rows="4" spellcheck="false" placeholder="sozcu.com.tr Kayyum atandı"></textarea></label>
-  <p class="hint">Bu listedeki siteler hem günlük baskıdan hem son dakikadan hemen çıkarılır ve hiçbir zaman geri eklenmez. Denetimin kendi bulduğu sakıncalı siteler de buraya eklenir; yanlışsa silebilirsiniz.</p>
+  <p class="hint">Bu listedeki siteler hem günlük baskıdan hem son dakikadan hemen çıkarılır ve hiçbir zaman geri eklenmez. Denetimin bağımsız bulmadığı siteler aşağıdaki raporda listelenir ve hiçbir zaman eklenmez; kalıcı olarak engellemek istediklerinizi buraya yazın.</p>
   <div class="actions"><button class="btn" id="review-now">Kaynakları şimdi denetle</button></div>
   <div class="msg" id="review-msg"></div>
   <div id="review-last" class="hint"></div>
@@ -458,6 +458,7 @@ async function loadReview(){
       const parts = [];
       if (c.added?.length) parts.push("eklendi: " + c.added.map(f => f.name).join(", "));
       if (c.removed?.length) parts.push("çıkarıldı: " + c.removed.map(f => `${f.name} (${f.reason})`).join(", "));
+      if (c.avoid?.length) parts.push("bağımsız bulunmadı, eklenmez: " + c.avoid.map(a => a.domain).join(", "));
       ul.append(el("li", null, `${name}: ${parts.join("; ") || "değişiklik yok"}`));
     }
     box.replaceChildren(document.createTextNode(`Son denetim: ${when}`), ul);
