@@ -7,6 +7,8 @@ name: Haftalık kaynak denetimi
 on:
   schedule:
     - cron: "29 8,14 * * *"
+  push:
+    paths: ["scripts/review_sources.py", ".github/workflows/review-sources.yml"]   # denetim kodu değişince (son denetimden 6,5 gün geçtiyse)
   workflow_dispatch:
 
 permissions:

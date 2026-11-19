@@ -9,6 +9,8 @@ on:
   schedule:
     - cron: "13,43 16-23 * * *"
     - cron: "13,43 0-4 * * *"
+  push:
+    paths: [".github/workflows/morning-edition.yml"]   # iş akışı değişince bekleyen sabah işini başlat
   workflow_dispatch:
 
 permissions:
