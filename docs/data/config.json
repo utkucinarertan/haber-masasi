@@ -39,7 +39,49 @@
      "name": "Die Welt",
      "url": "https://www.welt.de/feeds/topnews.rss",
      "use": "both"
+    },
+    {
+     "name": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/index~rss2.xml",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/index.rss",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "heise online",
+     "url": "https://www.heise.de/rss/heise-top-atom.xml",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/index.rss",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "sportschau",
+     "url": "https://www.sportschau.de/index~rss2.xml",
+     "use": "daily",
+     "topic": "spor"
+    },
+    {
+     "name": "kicker",
+     "url": "https://newsfeed.kicker.de/news/aktuell",
+     "use": "daily",
+     "topic": "spor"
     }
+   ],
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
    ]
   },
   {
@@ -90,6 +132,120 @@
      "name": "Agos",
      "url": "https://www.agos.com.tr/tr/rss",
      "use": "daily"
+    },
+    {
+     "name": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/rss/ekonomi.xml",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "Euronews Türkçe İş",
+     "url": "https://tr.euronews.com/rss?level=vertical&name=business",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "Webtekno",
+     "url": "https://www.webtekno.com/rss.xml",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/rss/bilim-teknoloji.xml",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/rss/spor.xml",
+     "use": "daily",
+     "topic": "spor"
+    }
+   ],
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ]
+  },
+  {
+   "code": "world",
+   "name": "World",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "feeds": [
+    {
+     "name": "BBC News World",
+     "url": "https://feeds.bbci.co.uk/news/world/rss.xml",
+     "use": "both"
+    },
+    {
+     "name": "The Guardian World",
+     "url": "https://www.theguardian.com/world/rss",
+     "use": "both"
+    },
+    {
+     "name": "DW World",
+     "url": "https://rss.dw.com/rdf/rss-en-world",
+     "use": "both"
+    },
+    {
+     "name": "France 24",
+     "url": "https://www.france24.com/en/rss",
+     "use": "both"
+    },
+    {
+     "name": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/index~rss2.xml",
+     "use": "both"
+    },
+    {
+     "name": "NPR World",
+     "url": "https://feeds.npr.org/1004/rss.xml",
+     "use": "daily"
+    },
+    {
+     "name": "BBC Business",
+     "url": "https://feeds.bbci.co.uk/news/business/rss.xml",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "Guardian Business",
+     "url": "https://www.theguardian.com/business/rss",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "BBC Technology",
+     "url": "https://feeds.bbci.co.uk/news/technology/rss.xml",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "Ars Technica",
+     "url": "https://feeds.arstechnica.com/arstechnica/index",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "BBC Sport",
+     "url": "https://feeds.bbci.co.uk/sport/rss.xml",
+     "use": "daily",
+     "topic": "spor"
+    },
+    {
+     "name": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/rss",
+     "use": "daily",
+     "topic": "spor"
     }
    ]
   }
@@ -97,7 +253,7 @@
  "blocked": [
   {
    "domain": "sozcu.com.tr",
-   "reason": ""
+   "reason": "Kayyum atandı; bağımsız habercilik yapamıyor"
   }
  ],
  "sourcesReviewedAt": "2026-11-19T10:01+01:00"

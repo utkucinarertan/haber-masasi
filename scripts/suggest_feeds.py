@@ -18,13 +18,14 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build_news as bn  # noqa: E402
 
 OUT = bn.ROOT / "suggest"
-MAX_FEEDS = 8
+MAX_FEEDS = 12
 MIN_ITEMS = 3
 
 SCHEMA = {"type": "object", "properties": {"feeds": {"type": "array", "items": {
     "type": "object", "properties": {
         "name": {"type": "string"}, "url": {"type": "string"},
         "language": {"type": "string"}, "use": {"type": "string", "enum": ["daily", "flash", "both"]},
+        "topic": {"type": "string", "enum": ["general", "ekonomi", "teknoloji", "spor"]},
         "why": {"type": "string"}},
     "required": ["name", "url", "language", "use"]}}}, "required": ["feeds"]}
 
@@ -32,11 +33,13 @@ SCHEMA = {"type": "object", "properties": {"feeds": {"type": "array", "items": {
 def prompt(country, exclude):
     avoid = ("\nThese URLs did not work, do not suggest them again:\n" + "\n".join(exclude)) if exclude else ""
     return f"""You help configure a news app. List RSS or Atom feed URLs for news about {country}.
+The app has four topics: general news (Gündem), economy, technology and sport. Only editorially independent outlets: no state-controlled or government-aligned media, no outlets under a court- or government-appointed trustee.
 
 Requirements:
-- Suggest 12 feeds from well-known, reputable outlets that cover {country}: the public broadcaster, major national newspapers and news sites across the political spectrum, and a news agency if it offers RSS. Prefer feeds in the country's own language; add Turkish, English or German services of international broadcasters (BBC, DW, Euronews, France 24, VOA, etc.) if they have a dedicated feed for {country} or its region.
+- Suggest 16 feeds from well-known, reputable outlets that cover {country}: the public broadcaster, major national newspapers and news sites across the political spectrum, and a news agency if it offers RSS. Prefer feeds in the country's own language; add Turkish, English or German services of international broadcasters (BBC, DW, Euronews, France 24, VOA, etc.) if they have a dedicated feed for {country} or its region.
 - Give exact, real feed URLs (https) that you are confident exist, e.g. the outlet's main "top stories" or "latest news" feed. Do not invent paths.
 - use: "flash" for fast "latest / breaking / son dakika / Eilmeldungen" style feeds that update many times per hour, "daily" for curated top-story or politics/economy feeds, "both" for main feeds that serve both purposes.
+- topic: "general" for main news feeds; "ekonomi", "teknoloji" or "spor" for feeds dedicated to economy/business, technology/science or sport. Include at least two dedicated feeds for each of these three topics (topic feeds normally get use "daily").
 - language: ISO 639-1 code of the feed's language.
 - why: a few words on what the feed covers.{avoid}"""
 
@@ -57,7 +60,7 @@ def try_feed(f, since):
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     code = sys.argv[1].strip().lower()
-    if not (len(code) == 2 and code.isascii() and code.isalpha()):
+    if not ((len(code) == 2 and code.isascii() and code.isalpha()) or code == "world"):
         raise SystemExit(f"Geçersiz ülke kodu: {code!r}")
     request = sys.argv[2] if len(sys.argv) > 2 else ""
     country = (sys.argv[3] if len(sys.argv) > 3 else "").strip() or code.upper()
@@ -73,7 +76,8 @@ def main():
             tried.add(url)
             f = {"name": str(f.get("name") or "").strip()[:60] or url, "url": url,
                  "use": f.get("use") if f.get("use") in ("daily", "flash", "both") else "both",
-                 "language": str(f.get("language", ""))[:5], "why": str(f.get("why", ""))[:120]}
+                 "language": str(f.get("language", ""))[:5], "why": str(f.get("why", ""))[:120],
+                 **({"topic": f["topic"]} if f.get("topic") in ("ekonomi", "teknoloji", "spor") else {})}
             n = try_feed(f, since)
             if n:
                 kept.append({**f, "items": n})
@@ -81,7 +85,7 @@ def main():
                 failed.append(url)
             if len(kept) >= MAX_FEEDS:
                 break
-        if len(kept) >= 4 or len(kept) >= MAX_FEEDS:
+        if len(kept) >= 8 or len(kept) >= MAX_FEEDS:
             break
         time.sleep(5)
     OUT.mkdir(exist_ok=True)

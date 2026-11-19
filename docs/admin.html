@@ -63,13 +63,15 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 .country .top{display:flex;gap:10px;align-items:center}
 .country .top img{width:30px;height:21px;border-radius:3px;object-fit:cover;box-shadow:0 0 0 1px var(--line)}
 .country .top select{flex:1}
-.feed{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr) auto auto;gap:6px}
+.feed{display:grid;grid-template-columns:minmax(0,1fr) minmax(0,2fr) auto auto auto;gap:6px}
+.ctopics{display:flex;flex-wrap:wrap;gap:6px 14px;align-items:center;font-size:.88rem;color:var(--muted)}
+.ctopics label{display:flex;gap:5px;align-items:center;color:var(--text, inherit);font-weight:600}
 .feed select{background:var(--surface);min-width:0}
 .country .top .btn.llm{white-space:nowrap}
 .country .cmsg{font-size:.85rem;color:var(--muted);min-height:0}
 .country .cmsg.ok{color:var(--ok, #1b7f3b)}.country .cmsg.err{color:var(--err, #b42318)}
 .feed input{background:var(--surface)}
-@media (max-width:600px){.feed{grid-template-columns:1fr auto}.feed .fname,.feed .furl{grid-column:1 / -1}.country .top{flex-wrap:wrap}.country .top select{flex:1 1 60%}}
+@media (max-width:600px){.feed{grid-template-columns:1fr 1fr auto}.feed .fname,.feed .furl{grid-column:1 / -1}.country .top{flex-wrap:wrap}.country .top select{flex:1 1 60%}}
 .runs{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:6px;font-size:.88rem}
 .runs li{display:flex;gap:8px;align-items:center;flex-wrap:wrap}
 .runs a{color:var(--accent)}
@@ -130,6 +132,8 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
   <p>Kullanıcılar burada eklediğiniz ülkelerden istediklerini seçer. Her ülke için haberlerin derleneceği RSS adreslerini girin (haber sitesinin "RSS" bağlantısı). Gemini günlük baskı için 5-10 önemli haber seçer, saat başı da son dakika maddelerini yazar.</p>
   <ul class="help">
     <li>Her kaynağın yanında nerede kullanılacağını seçin: <b>Günlük + Son dakika</b>, <b>Yalnız günlük</b> (seçilmiş manşetler) ya da <b>Yalnız son dakika</b> (sık güncellenen "son dakika" akışları).</li>
+    <li><b>Konular</b>: her ülke (ve <b>🌐 Dünya</b>) için Gündem, Ekonomi, Teknoloji ve Spor'dan hangilerinin hazırlanacağını işaretleyin. Gemini her konuda en önemli 5 haberi seçer. Okuyucular uygulamada her ülke için görmek istedikleri konuları ayrıca seçer.</li>
+    <li>Kaynağın <b>konusu</b> "Genel" ise her konuda kullanılır. Yalnız ekonomi, teknoloji ya da spor yayımlayan akışlar (ör. kicker, heise) o konuya atanır.</li>
     <li><b>LLM ile ekle</b>: ülkeyi seçip bu düğmeye basın. Gemini o ülkenin önemli haber sitelerini bulur, adresler tek tek denenir ve çalışanlar kullanım türleriyle birlikte forma eklenir (yaklaşık 1-2 dakika). Kontrol edip <b>Ayarları kaydet</b>'e basın.</li>
   </ul>
   <div id="countries" style="display:flex;flex-direction:column;gap:10px"></div>
@@ -166,7 +170,12 @@ const LANGS = {tr:"Türkçe", en:"İngilizce", de:"Almanca"};
 const REGIONS = "AD AE AF AG AL AM AO AR AT AU AZ BA BB BD BE BF BG BH BI BJ BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FM FR GA GB GD GE GH GM GN GQ GR GT GW GY HK HN HR HT HU ID IE IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MR MT MU MV MW MX MY MZ NA NE NG NI NL NO NP NR NZ OM PA PE PG PH PK PL PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SI SK SL SM SN SO SR SS ST SV SY SZ TD TG TH TJ TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VN VU WS XK YE ZA ZM ZW".split(" ");
 const nameTR = new Intl.DisplayNames(["tr"], {type:"region"});
 const nameEN = new Intl.DisplayNames(["en"], {type:"region"});
-const REGION_OPTS = REGIONS.map(c => [c.toLowerCase(), nameTR.of(c)]).sort((a, b) => a[1].localeCompare(b[1], "tr"));
+const WORLD = "world";   // ülke değil: uluslararası haberler
+const cTR = code => code === WORLD ? "Dünya" : nameTR.of(code.toUpperCase());
+const cEN = code => code === WORLD ? "World" : nameEN.of(code.toUpperCase());
+const REGION_OPTS = [[WORLD, "🌐 Dünya (uluslararası)"],
+  ...REGIONS.map(c => [c.toLowerCase(), nameTR.of(c)]).sort((a, b) => a[1].localeCompare(b[1], "tr"))];
+const TOPICS = [["gundem", "Gündem"], ["ekonomi", "Ekonomi"], ["teknoloji", "Teknoloji"], ["spor", "Spor"]];
 
 const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
@@ -302,9 +311,13 @@ function feedRow(f = {name:"", url:""}){
   const use = el("select", "fuse"); use.setAttribute("aria-label", "Kullanım");
   USES.forEach(([v, label]) => { const o = el("option", null, label); o.value = v; use.append(o); });
   use.value = USES.some(([v]) => v === f.use) ? f.use : "both";
+  const topic = el("select", "ftopic"); topic.setAttribute("aria-label", "Konu");
+  topic.title = "Genel: her konuda kullanılır. Bir konu seçilirse bu kaynak o konu için okunur.";
+  [["", "Genel"], ...TOPICS.slice(1)].forEach(([v, label]) => { const o = el("option", null, label); o.value = v; topic.append(o); });
+  topic.value = TOPICS.some(([v]) => v === f.topic) && f.topic !== "gundem" ? f.topic : "";
   if (f.why) u.title = f.why;
   const x = el("button", "btn danger", "Sil"); x.type = "button"; x.onclick = () => row.remove();
-  row.append(n, u, use, x); return row;
+  row.append(n, u, topic, use, x); return row;
 }
 function renderCountry(c = {code:"", feeds:[]}){
   const box = el("div", "country");
@@ -314,7 +327,7 @@ function renderCountry(c = {code:"", feeds:[]}){
   sel.append(el("option", null, "Ülke seçin…"));
   REGION_OPTS.forEach(([code, name]) => { const o = el("option", null, name); o.value = code; sel.append(o); });
   sel.value = c.code || "";
-  const setFlag = () => { img.src = sel.value ? `https://flagcdn.com/${sel.value}.svg` : ""; img.hidden = !sel.value; };
+  const setFlag = () => { const on = sel.value && sel.value !== WORLD; img.src = on ? `https://flagcdn.com/${sel.value}.svg` : ""; img.hidden = !on; };
   sel.onchange = setFlag; setFlag();
   const del = el("button", "btn danger", "Ülkeyi kaldır"); del.type = "button"; del.onclick = () => box.remove();
   const llm = el("button", "btn llm", "✨ LLM ile ekle"); llm.type = "button";
@@ -326,7 +339,14 @@ function renderCountry(c = {code:"", feeds:[]}){
   add.onclick = () => feeds.append(feedRow());
   const msg = el("div", "cmsg");
   llm.onclick = () => suggestFeeds(sel.value, feeds, msg, llm);
-  box.append(top, msg, feeds, add);
+  const tp = el("div", "ctopics");
+  tp.append(el("span", null, "Konular (her birinde 5 önemli haber):"));
+  const on = c.topics?.length ? c.topics : TOPICS.map(([v]) => v);
+  TOPICS.forEach(([v, label]) => {
+    const l = el("label"); const cb = el("input"); cb.type = "checkbox"; cb.value = v; cb.checked = on.includes(v);
+    l.append(cb, document.createTextNode(label)); tp.append(l);
+  });
+  box.append(top, tp, msg, feeds, add);
   return box;
 }
 /* LLM ile ekle: suggest-feeds.yml iş akışını başlatır, sonucu suggest/<kod>.json'dan okuyup forma ekler */
@@ -334,12 +354,12 @@ const sleep = ms => new Promise(r => setTimeout(r, ms));
 async function suggestFeeds(code, feeds, msg, btn){
   const show = (cls, text) => { msg.className = "cmsg " + cls; msg.textContent = text; };
   if (!code) return show("err", "Önce ülkeyi seçin.");
-  const country = nameTR.of(code.toUpperCase());
+  const country = cTR(code);
   const request = Date.now().toString(36) + Math.random().toString(36).slice(2, 6);
   btn.disabled = true;
   try {
     await gh(`repos/${REPO}/actions/workflows/suggest-feeds.yml/dispatches`, {method:"POST", body:JSON.stringify({
-      ref:"main", inputs:{country:code, name:nameEN.of(code.toUpperCase()), request}})});
+      ref:"main", inputs:{country:code, name:cEN(code), request}})});
     const started = Date.now();
     let result = null;
     while (Date.now() - started < 6 * 60 * 1000){
@@ -371,17 +391,20 @@ function readConfig(){
   for (const box of document.querySelectorAll("#countries .country")){
     const code = box.querySelector("select.code").value;
     if (!code) throw new Error("Her ülke kutusunda bir ülke seçin ya da kutuyu kaldırın.");
-    if (seen.has(code)) throw new Error(`${nameTR.of(code.toUpperCase())} iki kez eklenmiş.`);
+    if (seen.has(code)) throw new Error(`${cTR(code)} iki kez eklenmiş.`);
     seen.add(code);
     const feeds = [];
     for (const row of box.querySelectorAll(".feed")){
       const name = row.querySelector(".fname").value.trim(), url = row.querySelector(".furl").value.trim();
       if (!name && !url) continue;
-      if (!/^https:\/\/\S+$/.test(url)) throw new Error(`${nameTR.of(code.toUpperCase())}: kaynak adresi https:// ile başlamalı.`);
-      feeds.push({name:name || new URL(url).hostname, url, use:row.querySelector(".fuse").value});
+      if (!/^https:\/\/\S+$/.test(url)) throw new Error(`${cTR(code)}: kaynak adresi https:// ile başlamalı.`);
+      const topic = row.querySelector(".ftopic").value;
+      feeds.push({name:name || new URL(url).hostname, url, use:row.querySelector(".fuse").value, ...(topic ? {topic} : {})});
     }
-    if (!feeds.length) throw new Error(`${nameTR.of(code.toUpperCase())} için en az bir kaynak girin.`);
-    countries.push({code, name:nameEN.of(code.toUpperCase()), feeds});
+    if (!feeds.length) throw new Error(`${cTR(code)} için en az bir kaynak girin.`);
+    const topics = [...box.querySelectorAll(".ctopics input:checked")].map(i => i.value);
+    if (!topics.length) throw new Error(`${cTR(code)} için en az bir konu seçin.`);
+    countries.push({code, name:cEN(code), topics, feeds});
   }
   if (!countries.length) throw new Error("En az bir ülke ekleyin.");
   const blocked = [];
@@ -453,7 +476,7 @@ async function loadReview(){
     const when = new Date(rev.reviewedAt).toLocaleString("tr-TR", {day:"numeric", month:"long", hour:"2-digit", minute:"2-digit"});
     const ul = el("ul");
     for (const c of rev.countries || []){
-      const name = nameTR.of(c.code.toUpperCase());
+      const name = cTR(c.code);
       if (c.error){ ul.append(el("li", null, `${name}: denetlenemedi (${c.error})`)); continue; }
       const parts = [];
       if (c.added?.length) parts.push("eklendi: " + c.added.map(f => f.name).join(", "));

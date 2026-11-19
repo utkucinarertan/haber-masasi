@@ -26,7 +26,7 @@ import build_news as bn  # noqa: E402
 
 REVIEW = bn.DATA / "source-review.json"
 EVERY = timedelta(days=6, hours=12)
-MAX_FEEDS = 9           # ülke başına en fazla kaynak
+MAX_FEEDS = 16          # ülke başına en fazla kaynak
 MIN_DAILY = 3           # günlük baskıya en az bu kadar çalışan kaynak (yoksa eski liste korunur)
 MIN_FLASH = 2           # son dakikaya en az bu kadar
 MIN_ITEMS = 3           # son 3 günde en az bu kadar haber çıkaran akış "çalışıyor" sayılır
@@ -37,7 +37,8 @@ SCHEMA = {"type": "object", "properties": {
         "required": ["url", "keep", "reason"]}},
     "suggestions": {"type": "array", "items": {"type": "object", "properties": {
         "name": {"type": "string"}, "url": {"type": "string"}, "language": {"type": "string"},
-        "use": {"type": "string", "enum": ["daily", "flash", "both"]}, "reason": {"type": "string"}},
+        "use": {"type": "string", "enum": ["daily", "flash", "both"]}, "reason": {"type": "string"},
+        "topic": {"type": "string", "enum": ["general", "ekonomi", "teknoloji", "spor"]},},
         "required": ["name", "url", "use", "reason"]}},
     "avoid": {"type": "array", "items": {"type": "object", "properties": {
         "domain": {"type": "string"}, "reason": {"type": "string"}}, "required": ["domain", "reason"]}}},
@@ -48,13 +49,13 @@ Search the web for up-to-date information before answering: ownership changes, c
 trustees (kayyum), state takeovers, closures and bans happen often. Output only what you can support."""
 
 
-def prompt(country, feeds, blocked, today):
+def prompt(country, feeds, blocked, today, topics="ekonomi, teknoloji, spor"):
     return f"""Today is {today}. Audit the RSS news sources used for {country}.
 
 Goal: the app must only use editorially independent, reputable news outlets. An outlet is NOT acceptable if, as of today, it is state-controlled or government-aligned media, has had a court- or government-appointed trustee/administrator (e.g. "kayyum") placed over it, has been taken over by owners who turned it into a government mouthpiece, or has closed. Public service broadcasters with independent governance (e.g. ARD/tagesschau, ZDF, BBC, DW) are acceptable; state broadcasters and agencies under government control (e.g. TRT, Anadolu Ajansı) are not. Prefer outlets across the independent spectrum, not one political camp.
 
 1. current: for each feed below decide keep=true/false with a short reason (in Turkish).
-2. suggestions: up to 10 additional feeds from independent outlets covering {country} (prefer the country's own language; dedicated Turkish/German/English services of independent international broadcasters are welcome). Give exact, real https RSS/Atom URLs you are confident exist. use: "flash" for fast latest/breaking feeds, "daily" for curated top-story feeds, "both" for main feeds. reason in Turkish.
+2. suggestions: up to 10 additional feeds from independent outlets covering {country} (prefer the country's own language; dedicated Turkish/German/English services of independent international broadcasters are welcome). Give exact, real https RSS/Atom URLs you are confident exist. use: "flash" for fast latest/breaking feeds, "daily" for curated top-story feeds, "both" for main feeds. topic: "general" for main news feeds, or "ekonomi", "teknoloji", "spor" for feeds dedicated to economy, technology/science or sport (use "daily" for those). The app needs at least two working dedicated feeds per enabled topic ({topics}); fill missing topics first. reason in Turkish.
 3. avoid: domains (e.g. example.com) of well-known outlets for {country} that must not be used because they are not independent as of today, with a short Turkish reason.
 
 Never suggest these blocked domains: {", ".join(blocked) or "-"}
@@ -88,8 +89,11 @@ def review_country(country, blocked, today, since):
     bn.log(f"{name}:")
     old = country.get("feeds", [])
     result = bn.gemini(SYSTEM, prompt(f"{name} (ISO {country['code'].upper()})",
-                                      [{"name": f.get("name"), "url": f["url"], "use": bn.feed_use(f)} for f in old],
-                                      blocked, today), SCHEMA, search=True)
+                                      [{"name": f.get("name"), "url": f["url"], "use": bn.feed_use(f),
+                                        "topic": bn.feed_topic(f) or "general"} for f in old],
+                                      blocked, today,
+                                      ", ".join(t for t in bn.country_topics(country) if t != "gundem") or "-"),
+                       SCHEMA, search=True)
     verdict = {str(c.get("url", "")).strip(): c for c in result.get("current") or []}
     avoid = [{"domain": domain("https://" + str(a.get("domain", "")).strip().removeprefix("https://").removeprefix("http://")),
               "reason": str(a.get("reason", ""))[:200]} for a in result.get("avoid") or []]
@@ -117,6 +121,8 @@ def review_country(country, blocked, today, since):
         have.add(url)
         f = {"name": str(s.get("name") or domain(url))[:60], "url": url,
              "use": s.get("use") if s.get("use") in ("daily", "flash", "both") else "both"}
+        if s.get("topic") in ("ekonomi", "teknoloji", "spor"):
+            f["topic"] = s["topic"]
         if works(f["name"], url, since):
             kept.append(f)
             added.append({**f, "reason": str(s.get("reason", ""))[:200]})
