@@ -1,6 +1,6 @@
 {
  "since": "2026-11-19T05:15+01:00",
- "updatedAt": "2026-11-19T22:54+01:00",
+ "updatedAt": "2026-11-20T00:44+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "Cumhuriyetçilerin seçim yenilgisinin ardından Donald Trump, Elon Musk'ı MAGA hareketinden uzaklaşmaması konusunda uyardı.",
      "de": "Nach der Wahlniederlage der Republikaner hat Donald Trump Elon Musk vor einer Abkehr von der MAGA-Bewegung gewarnt."
+    }
+   },
+   {
+    "time": "2026-11-19T22:07:19+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6aff6e5a5842ff528b9e0d02/rheinland-pfalz-bis-zu-6000-euro-pro-person-drei-syrer-sollen-mehr-als-600-menschen-eingeschleust-haben.html",
+    "text": {
+     "tr": "Alman federal polisi, 600'den fazla göçmeni kaçak yollarla Avrupa'ya soktuğu iddia edilen üç Suriyeliyi yakaladı.",
+     "de": "Die Bundespolizei hat drei syrische Schleuser festgenommen, die über 600 Migranten nach Westeuropa gebracht haben sollen."
     }
    },
    {
@@ -38,18 +47,18 @@
      "tr": "Brandenburg'da Berlin Televizyon Kulesi yüksekliğindeki dünyanın en yüksek rüzgâr türbini faaliyete geçti.",
      "de": "In Brandenburg ist das weltweit höchste Windrad offiziell in Betrieb genommen worden."
     }
-   },
-   {
-    "time": "2026-11-19T17:46:04+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/article6aff24dfc1e8003ef73c4c3f/kathrin-wahlmann-kostspielige-auslandsreisen-wahrheitswidrige-auskunft-niedersachsen-ministerin-tritt-zurueck.html",
-    "text": {
-     "tr": "Aşağı Saksonya Adalet Bakanı Kathrin Wahlmann, seyahat harcamaları ve yolsuzluk iddiaları nedeniyle görevinden istifa etti.",
-     "de": "Niedersachsens Justizministerin Kathrin Wahlmann ist nach anhaltender Kritik an ihrer Amtsführung zurückgetreten."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-20T01:04:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010327/belediyelerde-secim-usulu-degisikligi-resmi-gazete-de-yayimlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Resmî Gazete'de yayımlanan düzenlemeyle belediye meclislerindeki başkan ve başkanvekili seçim usulü değiştirildi.",
+     "de": "Eine im türkischen Amtsblatt veröffentlichte Verordnung regelt das Wahlverfahren für Bürgermeister und Stellvertreter neu."
+    }
+   },
    {
     "time": "2026-11-20T00:53:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -85,18 +94,36 @@
      "tr": "Bursa'daki Döktaş fabrikasında ücret indirimini kabul etmeyen en az 10 işçi tazminatsız işten çıkarıldı.",
      "de": "Mindestens 10 Arbeiter wurden im Döktaş-Werk in Bursa entlassen, nachdem sie Lohnkürzungen abgelehnt hatten."
     }
-   },
-   {
-    "time": "2026-11-19T22:53:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010313/saglik-bilimleri-universitesi-rektoru-kaza-yapti-akademisyen-esi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Konya'da Sağlık Bilimleri Üniversitesi Rektörü Kemalettin Aydın'ın geçirdiği trafik kazasında akademisyen eşi hayatını kaybetti.",
-     "de": "Bei einem Verkehrsunfall des Rektors der Universität für Gesundheitswissenschaften in Konya kam dessen Ehefrau ums Leben."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-19T22:31:25+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
+    "text": {
+     "tr": "Haiti güvenlik güçlerinin Martissant koridoruna düzenlediği operasyonda en az 34 şüpheli çete mensubu öldürüldü.",
+     "de": "Bei einer Offensive der Sicherheitskräfte in Haiti wurden mindestens 34 mutmaßliche Bandenmitglieder getötet."
+    }
+   },
+   {
+    "time": "2026-11-19T22:22:01+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
+    "text": {
+     "tr": "Yapay zekâ şirketi Anthropic, borsaya kote olan ilk saf yapay zekâ geliştiricisi oldu.",
+     "de": "Das Start-up Anthropic ist als erstes reines KI-Unternehmen an die Börse gegangen."
+    }
+   },
+   {
+    "time": "2026-11-19T21:38:55+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261119-kenyan-marathon-champion-banned-for-doping",
+    "text": {
+     "tr": "Kenyalı maraton dünya şampiyonu Peres Jepchirchir, doping gerekçesiyle üç yıl men cezası aldı.",
+     "de": "Die kenianische Marathon-Weltmeisterin Peres Jepchirchir wurde wegen Dopings für drei Jahre gesperrt."
+    }
+   },
    {
     "time": "2026-11-19T21:26:10+00:00",
     "source": "BBC News World",
@@ -107,39 +134,12 @@
     }
    },
    {
-    "time": "2026-11-19T21:21:43+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+    "time": "2026-11-19T21:25:27+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies",
     "text": {
-     "tr": "Avrupalı liderler Berlin'deki zirvede, Ukrayna'daki savaşı bitirmek üzere Rusya ile müzakerelere hazır olduklarını açıkladı.",
-     "de": "Europäische Spitzenpolitiker haben bei einem Gipfel in Berlin ihre Verhandlungsbereitschaft mit Russland über die Ukraine erklärt."
-    }
-   },
-   {
-    "time": "2026-11-19T20:24:09+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
-    "text": {
-     "tr": "ABD Senatosu, Başkan Donald Trump'ın İran'daki askeri harekatını durdurmayı öngören tasarıyı reddetti.",
-     "de": "Der US-Senat hat eine Resolution zur Beendigung des Militäreinsatzes von Präsident Trump im Iran abgelehnt."
-    }
-   },
-   {
-    "time": "2026-11-19T20:07:02+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
-    "text": {
-     "tr": "Uluslararası Adalet Divanı, Myanmar'ın Arakanlı Müslüman azınlığa karşı soykırım yaptığına hükmetti.",
-     "de": "Der Internationale Gerichtshof hat geurteilt, dass Myanmar Völkermord an den Rohingya begangen hat."
-    }
-   },
-   {
-    "time": "2026-11-19T17:23:34+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
-    "text": {
-     "tr": "ABD'de iki oğlunu boğarak öldüren Susan Smith'in şartlı tahliye talebi reddedildi.",
-     "de": "In den USA wurde der zweifachen Kindermörderin Susan Smith erneut die Bewährung verwehrt."
+     "tr": "Rusya'nın Kiev'e düzenlediği saldırılarda bir kişi hayatını kaybetti, Avusturya ve Hollanda büyükelçilikleri hasar gördü.",
+     "de": "Bei russischen Angriffen auf Kiew wurde ein Mensch getötet sowie die Botschaften Österreichs und der Niederlande beschädigt."
     }
    }
   ]
@@ -169,6 +169,8 @@
   "https://tr.euronews.com/video/2026/11/19/lyonda-beaujolais-nouveau-kutlamasi-yeni-hasadin-ilk-siseleri-acildi",
   "https://tr.euronews.com/video/2026/11/19/senzende-apec-zirvesi-trump-putini-arkadasi-diye-tanimladi",
   "https://tr.euronews.com/video/2026/11/19/ukraynada-rus-saldirisi-odesada-dort-olu-en-az-13-yarali",
+  "https://tr.euronews.com/video/2026/11/20/kievde-avusturya-ve-hollanda-buyukelcilikleri-rus-saldirilarinda-zarar-gordu",
+  "https://www.bbc.co.uk/news/articles/c3x29ggenz12o",
   "https://www.bbc.co.uk/news/articles/c58j484089ewo",
   "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
@@ -177,10 +179,15 @@
   "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
   "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
   "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+  "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+  "https://www.bbc.co.uk/news/articles/crgj35ldz2zxo",
+  "https://www.bbc.co.uk/news/articles/cw1m4ym7ez2eo",
   "https://www.bbc.co.uk/news/articles/cw8r7510degno",
   "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+  "https://www.bbc.co.uk/news/articles/cx1l0pm7l9jmo",
   "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o",
   "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo",
+  "https://www.bbc.co.uk/news/videos/cq39gvj9y7xpo",
   "https://www.bbc.com/turkce/articles/c5y43w14wzm4o",
   "https://www.bbc.com/turkce/articles/c620r7vg0e7wo",
   "https://www.bbc.com/turkce/articles/cj20q4p1g3p7o",
@@ -238,6 +245,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/sultanbeyli-de-insaatta-toprak-kaymasi-1-isci-gocuk-altinda-kaldi-2557505",
   "https://www.cumhuriyet.com.tr/turkiye/tip-ten-antalya-buyuksehir-de-pankartli-protesto-hicbir-korkuya-benzemez-halkini-satanin-korkusu-2557726",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-den-bursa-da-siyasi-yasak-protestosu-bizi-cezalarla-korkutamazsiniz-2557717",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazlik-oyunu-kim-kazandi-19-kasim-persembe-masterchef-turkiye-eleme-adayi-kim-oldu-2557748",
   "https://www.cumhuriyet.com.tr/yasam/ayca-varlier-kimdir-ayca-varlier-kac-yasinda-nereli-ayca-varlier-hangi-filmlerde-oynadi-2557512",
   "https://www.cumhuriyet.com.tr/yasam/gta-6-lucia-kim-gta-6-nin-lucia-si-manni-l-perez-kim-2557508",
   "https://www.cumhuriyet.com.tr/yasam/yaz-yorgunlugunu-geride-birakin-kisa-hazirlik-icin-uygulayabileceginiz-10-adim-2557501",
@@ -299,6 +307,14 @@
   "https://www.evrensel.net/haber/6010322/sair-gazeteci-namik-taranci-kendini-anlatiyor-sevgimiz-de-cicekler-gibi-topraga-kok-salacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010323/abd-senatosu-trump-in-iran-a-saldirmasini-engelleyen-savas-yetkileri-tasarisini-reddetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010324/husikan-mahallesi-nde-maden-ocagi-icin-verilen-ced-karari-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010325/euroleague-13-uncu-hafta-maci-fenerbahce-deplasmanda-olimpia-milano-ya-78-70-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010326/budo-nun-bugunku-10-seferi-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010327/belediyelerde-secim-usulu-degisikligi-resmi-gazete-de-yayimlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010328/gaziosmanpasa-da-5-katli-binada-yangin-6-kisi-dumandan-etkilendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010329/fransa-da-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasari-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010330/galatasaray-da-sakat-futbolcularin-son-durumu-ne-samsunspor-macinda-sahada-olacaklar-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010331/israil-de-myanmar-kararinin-gazze-soykirim-davasina-emsal-olacagi-korkusu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010332/lula-da-silva-imzaladi-haftada-2-gun-dinlenme-hakki-yasallasti-calisma-saatleri-de-16-aralik-ta-azaltilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/feuilleton/buecher/ausstellung-ueber-susan-sontag-im-deutschen-literaturarchiv-201692661.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/davide-giuriato-was-die-fliege-ueber-macht-und-politik-verraet-201236320.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/geraubtes-barockgemaelde-kehrt-nach-potsdam-zurueck-201696296.html",
@@ -313,12 +329,17 @@
   "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-zverev-trumpft-weiter-auf-sorgen-um-titelrivale-alcaraz-201700162.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-jeremiaha-maluze-die-beste-zeit-meines-lebens-201686606.html",
   "https://www.faz.net/aktuell/sport/wintersport/wie-es-der-berliner-max-unglaube-ins-deutsche-skisprung-team-geschafft-hat-201694500.html",
+  "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
   "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war",
   "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
   "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
   "https://www.france24.com/en/france/20261119-french-regulator-warns-influential-youtubers-respect-pluralism-rules-election-coverage",
+  "https://www.france24.com/en/france/20261119-melenchon-opens-door-to-alliance-with-french-greens-after-presidential-rival-overture-tondelier",
   "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine",
   "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+  "https://www.france24.com/en/russian-strikes-on-kyiv-kill-one-damage-dutch-and-austrian-embassies",
+  "https://www.france24.com/en/tv-shows/business/20261119-anthropic-goes-public-after-blockbuster-ipo-but-fails-to-revive-ai-trade",
+  "https://www.france24.com/en/tv-shows/eye-on-africa/20261119-kenyan-marathon-champion-banned-for-doping",
   "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261119-us-has-unbalanced-approach-on-dr-congo-deal-rwanda-s-foreign-minister-says",
   "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on",
   "https://www.france24.com/en/tv-shows/the-observers/20261119-president-body-bags-photo-ops-sparking-outrage-colombia",
@@ -336,6 +357,7 @@
   "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-bundeskanzler-merz-in-vice-city-so-springt-die-politik-auf-den-gta-6-hype-auf-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
   "https://www.spiegel.de/netzwelt/games/gta-6-im-newsblog-nie-mehr-daten-bewegt-gta-6-wird-zur-belastungsprobe-fuers-internet-a-06288fdf-dd6d-4717-ae90-9bc51086359a#ref=rss",
   "https://www.spiegel.de/panorama/leute/tokio-hotel-pyro-streit-mit-stadt-leipzig-geht-in-zweite-runde-a-2103acfe-3fa4-4ace-8ce8-df4cc7276816#ref=rss",
+  "https://www.spiegel.de/panorama/zoo-von-cincinnati-flusspferd-fiona-stirbt-wegen-verschluckter-strickmuetze-a-463d0185-8c32-405c-a16d-c8e952b090bb#ref=rss",
   "https://www.spiegel.de/politik/deutschland/donald-trump-und-dann-platzt-der-anruf-des-us-praesidenten-in-den-berliner-ukraine-gipfel-a-e17f1422-851e-42e5-95b7-fbbd0c8db3b8#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-empfaengt-zum-gegengipfel-in-berlin-a-35a421cf-63a1-4e57-a38a-1bd3dde077b7#ref=rss",
   "https://www.spiegel.de/sport/fifa-spitze-philippe-diallo-und-kohzo-tashima-fordern-infantino-heraus-a-1a75be7e-d1c7-44de-b757-40e59817be63#ref=rss",
@@ -374,14 +396,20 @@
   "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+  "https://www.theguardian.com/australia-news/2026/nov/19/mark-speakman-resigns-and-says-liberals-face-existential-threat-as-nsw-exodus-continues",
   "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
   "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
   "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
   "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
+  "https://www.theguardian.com/science/2026/nov/20/scientists-communicate-using-gravity-elevator-brick-wall-bathroom-experiment",
+  "https://www.theguardian.com/technology/2026/nov/19/anthropic-ipo-protests",
   "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
   "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+  "https://www.theguardian.com/us-news/2026/nov/19/lamonica-mciver-ice-delaney-hall",
   "https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist",
+  "https://www.theguardian.com/us-news/2026/nov/19/record-executions-florida-texas",
   "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+  "https://www.theguardian.com/us-news/2026/nov/19/thomas-markle-mentally-competent",
   "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
   "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
   "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
@@ -389,9 +417,11 @@
   "https://www.welt.de/politik/ausland/article6aff3b3ae79e7594eb9b640b/ukraine-das-tut-uns-nicht-weh-claudia-major-nennt-100-milliarden-fuer-kiew-nicht-sehr-viel-geld.html",
   "https://www.welt.de/politik/ausland/plus6aff1826c1e8003ef73c4ad9/nach-gipfel-in-china-trump-ruft-aus-air-force-one-in-berlin-an-aeussert-skepsis-ueber-ukraine-hilfen.html",
   "https://www.welt.de/politik/deutschland/article6aff249ae79e7594eb9b627f/andrea-nahles-arbeitsagentur-chefin-warnt-vor-afd-foerderprogramm-durch-reformen.html",
+  "https://www.welt.de/politik/deutschland/article6aff6e5a5842ff528b9e0d02/rheinland-pfalz-bis-zu-6000-euro-pro-person-drei-syrer-sollen-mehr-als-600-menschen-eingeschleust-haben.html",
   "https://www.welt.de/vermischtes/article6aff03a19c68d2fcf0c7d254/clan-kriminalitaet-in-berlin-sie-wollten-einen-tuev-pruefer-erziehen-zwei-brueder-muessen-zusammen-mehr-als-32-jahre-in-haft.html",
   "https://www.welt.de/vermischtes/article6aff57c439a3e8110f0e2f9d/gaby-koester-fuerchtet-zwangsversteigerung-ihres-hauses-ich-weiss-nicht-wie-es-weitergehen-soll.html",
   "https://www.welt.de/vermischtes/article6aff633239a3e8110f0e3021/frankfurt-richter-verraet-dienstgeheimnisse-an-anwaltsfreund-gericht-verurteilt-ihn-zu-28-800-euro-strafe.html",
+  "https://www.welt.de/vermischtes/article6aff83e95842ff528b9e0d79/getraenke-falsche-zuckerangaben-coca-cola-ruft-dosen-seiner-zitronen-limo-sprite-zurueck.html",
   "https://www.welt.de/wirtschaft/article6afec66da3767a11a0be9ee1/videospiel-blockbuster-der-milliarden-fehler-warum-thomas-middelhoff-den-verkauf-von-gta-bis-heute-verteidigt.html",
   "https://www.welt.de/wirtschaft/plus6aff11cfc1e8003ef73c4a34/tarifstreit-mit-dem-messer-in-den-ruecken-jetzt-kocht-bei-volkswagen-die-blanke-wut-hoch.html",
   "https://www.welt.de/wirtschaft/plus6aff3243e79e7594eb9b6390/anthropic-ipo-die-wall-street-erhaelt-ihre-neue-fieberkurve-und-der-erste-tag-ist-schon-eine-warnung.html",
