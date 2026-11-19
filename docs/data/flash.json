@@ -1,8 +1,26 @@
 {
  "since": "2026-11-19T05:15+01:00",
- "updatedAt": "2026-11-19T09:48+01:00",
+ "updatedAt": "2026-11-19T10:01+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-19T09:58:18+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html",
+    "text": {
+     "tr": "Elon Musk, Cumhuriyetçi Parti'ye yaptığı milyonlarca dolarlık seçim bağışlarının başarısızlıkla sonuçlanmasından duyduğu pişmanlığı dile getirdi.",
+     "de": "Tech-Milliardär Elon Musk bereut offenbar seine millionenschweren Wahlkampfspenden an die unterlegenen Republikaner bei den US-Zwischenwahlen."
+    }
+   },
+   {
+    "time": "2026-11-19T09:51:30+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html",
+    "text": {
+     "tr": "Kuzey Ren-Vestfalya eyaletindeki Eslohe'de 18 yaşında bir öğrenci, 3D yazıcıdan çıkan silahla bir camiye saldırı planladığı şüphesiyle tutuklandı.",
+     "de": "Ein 18-jähriger Schüler aus Eslohe in Nordrhein-Westfalen sitzt in U-Haft, weil er einen Anschlag auf eine Moschee geplant haben soll."
+    }
+   },
    {
     "time": "2026-11-19T07:30:00+01:00",
     "source": "Der Spiegel",
@@ -23,6 +41,15 @@
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-19T11:57:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/dunya/dunyanin-gozu-cin-de-trump-putin-ve-si-cinping-bir-araya-geldi-2557518",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping, Çin'deki APEC Zirvesi'nde üçlü görüşme gerçekleştirdi.",
+     "de": "US-Präsident Donald Trump, Russlands Staatschef Wladimir Putin und Chinas Präsident Xi Jinping sind in China zu einem historischen Dreiertreffen zusammengekommen."
+    }
+   },
    {
     "time": "2026-11-19T11:21:00+03:00",
     "source": "Evrensel",
@@ -53,14 +80,35 @@
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/19/abd-cin-ve-rusya-liderlerinin-tarihi-uclu-zirvesi-basladi",
+  "https://tr.euronews.com/2026/11/19/antalyadaki-bm-iklim-gorusmeleri-jeopolitik-gerilim-ve-gercek-baglar",
+  "https://tr.euronews.com/2026/11/19/emirates-timein-2027-en-iyi-hava-yollari-listesinde-zirvede-avrupa-ilk-10da-yok",
+  "https://tr.euronews.com/2026/11/19/grand-theft-auto-vi-13-yil-sonra-cikti-17-milyondan-fazla-satti",
   "https://tr.euronews.com/2026/11/19/pierce-brosnandan-yeni-james-bond-robert-pattinsona-tavsiye-enjoy-the-ride",
+  "https://tr.euronews.com/2026/11/19/uaea-kuzey-kore-yongbyondaki-ilk-uranyum-zenginlestirme-tesisini-genisletiyor",
+  "https://tr.euronews.com/2026/11/19/uzmanlar-sorunlu-internet-kullanimi-kuresel-halk-sagligi-sorunu",
+  "https://tr.euronews.com/2026/11/19/van-gogh-tablosu-new-yorkta-173-milyon-ya-satildi-nazi-donemi-anlasmazligi-cozuldu",
+  "https://tr.euronews.com/2026/11/19/zelenskiy-trumpin-si-ve-putinle-gorusmesine-dair-abdden-bilgi-bekliyor",
+  "https://tr.euronews.com/video/2026/11/19/lyonda-beaujolais-nouveau-kutlamasi-yeni-hasadin-ilk-siseleri-acildi",
+  "https://tr.euronews.com/video/2026/11/19/senzende-apec-zirvesi-trump-putini-arkadasi-diye-tanimladi",
+  "https://tr.euronews.com/video/2026/11/19/ukraynada-rus-saldirisi-odesada-dort-olu-en-az-13-yarali",
+  "https://www.bbc.com/turkce/articles/ck1wre80j7ggo",
+  "https://www.bbc.com/turkce/articles/cr9d75xwg767o",
+  "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/baski-ve-unutturmaya-karsi-huzunlu-bir-agit-ay-carmela-izmir-nazim-sahne-de-2557516",
+  "https://www.cumhuriyet.com.tr/dunya/dunyanin-gozu-cin-de-trump-putin-ve-si-cinping-bir-araya-geldi-2557518",
   "https://www.cumhuriyet.com.tr/ekonomi/2027-yilinda-altin-fiyatlari-nasil-sekillenecek-yabanci-finans-kuruluslarinin-ons-altin-tahmin-ve-beklentileri-2557511",
   "https://www.cumhuriyet.com.tr/ekonomi/dolar-tl-de-yukselis-suruyor-endeks-19-ayin-zirvesine-yakin-2557507",
   "https://www.cumhuriyet.com.tr/ekonomi/sgk-uzmanindan-2027-asgari-ucret-hesabi-ne-kadar-zam-yapilacak-2557509",
+  "https://www.cumhuriyet.com.tr/gurme/tatlicilari-aratmayan-nefis-lezzet-masterchef-burma-kadayif-tarifi-2557513",
+  "https://www.cumhuriyet.com.tr/siyaset/akp-ye-3-belediye-baskani-daha-mi-katiliyor-gozler-erdogan-in-katilacagi-toplantida-2557519",
+  "https://www.cumhuriyet.com.tr/siyaset/yakup-asarkaya-kimdir-bddk-ikinci-baskani-yakup-asarkaya-nin-ozgecmisi-2557514",
+  "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-gundemindeydi-frosinone-den-kvernadze-nin-gelecegi-icin-aciklama-2557517",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-rekor-icin-samsunspor-karsisina-cikacak-2557506",
   "https://www.cumhuriyet.com.tr/turkiye/esenyurt-ta-cop-dokme-kavgasi-bir-kisi-oldu-kacan-supheli-gozaltinda-2557510",
   "https://www.cumhuriyet.com.tr/turkiye/kis-lastigi-zorunlulugu-basladi-oto-lastikcilerde-yogunluk-artti-2557502",
   "https://www.cumhuriyet.com.tr/turkiye/kyk-burs-ve-kredi-odemeleri-basladi-2557500",
+  "https://www.cumhuriyet.com.tr/turkiye/sisli-de-simitci-tayfun-evinde-olu-bulundu-2557515",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-sahap-kavcioglu-na-yurt-disi-cikis-yasagi-getirildi-2557503",
   "https://www.cumhuriyet.com.tr/turkiye/sultanbeyli-de-insaatta-toprak-kaymasi-1-isci-gocuk-altinda-kaldi-2557505",
   "https://www.cumhuriyet.com.tr/yasam/ayca-varlier-kimdir-ayca-varlier-kac-yasinda-nereli-ayca-varlier-hangi-filmlerde-oynadi-2557512",
@@ -83,6 +131,7 @@
   "https://www.evrensel.net/haber/6010206/super-lig-de-ara-sona-erdi-12-nci-haftanin-mac-programi-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010207/eski-bddk-baskani-kavcioglu-na-yurt-disi-cikis-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010208/fon-magdurlari-spk-onunde-eylem-yapti-birikimlerimizi-enflasyon-farkiyla-geri-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010209/trump-putin-ve-si-nin-uclu-zirvesi-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.manager-magazin.de/unternehmen/mobilitaet/audi-wie-gernot-doellner-audi-in-den-abgrund-fuehrt-a-1b547e10-9566-4029-8324-9290f44c604a#ref=rss",
   "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
   "https://www.spiegel.de/karriere/urlaub-einreichen-haben-eltern-ein-recht-auf-urlaub-in-den-ferien-a-49c18cfc-b9bc-4298-a1b3-b5b97f9547cb#ref=rss",
@@ -94,10 +143,13 @@
   "https://www.spiegel.de/start/barista-als-job-mitarbeiterin-eines-coffeeshops-ueber-gehalt-aufgaben-und-anfoderungen-a-bc3e9979-5db0-42e8-8db9-9f2e2bcb823d#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss",
   "https://www.spiegel.de/wissenschaft/die-deutsche-bank-wollte-klima-champion-werden-das-geschaeft-kam-dazwischen-a-c85e26ad-f265-435f-b8bf-d2ad6d46ec5a#ref=rss",
+  "https://www.spiegel.de/wissenschaft/mensch/weltklimakonferenz-in-der-tuerkei-was-bei-der-cop-zaehlt-und-was-nicht-1794984681-a-15dfa2ae-569d-49e8-94a7-a70e132e35e3#ref=rss",
   "https://www.spiegel.de/wissenschaft/natur/energiekrise-eu-verschiebt-methan-regeln-fuer-importe-a-ada8875b-1b84-4fd5-acd6-6732f6d9c26c#ref=rss",
+  "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html",
   "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html",
   "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html",
+  "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html",
   "https://www.tagesschau.de/kultur/van-gogh-bluehende-kastanienbaeume-100.html",
   "https://www.tagesschau.de/newsticker/liveblog-apec-gipfel-xi-trump-putin-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-anthropic-100.html",
