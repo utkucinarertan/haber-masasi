@@ -1,8 +1,17 @@
 {
  "since": "2026-11-19T05:15+01:00",
- "updatedAt": "2026-11-19T22:23+01:00",
+ "updatedAt": "2026-11-19T22:54+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-19T22:32:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss",
+    "text": {
+     "tr": "Cumhuriyetçilerin seçim yenilgisinin ardından Donald Trump, Elon Musk'ı MAGA hareketinden uzaklaşmaması konusunda uyardı.",
+     "de": "Nach der Wahlniederlage der Republikaner hat Donald Trump Elon Musk vor einer Abkehr von der MAGA-Bewegung gewarnt."
+    }
+   },
    {
     "time": "2026-11-19T21:19:36+00:00",
     "source": "Die Welt",
@@ -38,18 +47,45 @@
      "tr": "Aşağı Saksonya Adalet Bakanı Kathrin Wahlmann, seyahat harcamaları ve yolsuzluk iddiaları nedeniyle görevinden istifa etti.",
      "de": "Niedersachsens Justizministerin Kathrin Wahlmann ist nach anhaltender Kritik an ihrer Amtsführung zurückgetreten."
     }
-   },
-   {
-    "time": "2026-11-19T17:11:57+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
-    "text": {
-     "tr": "Volkswagen, toplu iş sözleşmesi görüşmelerinde çalışanları için iki yıllık maaş dondurma ve çalışma süresi kesintisi talep etti.",
-     "de": "Volkswagen will in der anstehenden Tarifrunde eine zweijährige Nullrunde sowie Kürzungen bei Zulagen durchsetzen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-20T00:53:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-zincirleme-trafik-kazasi-4-kisi-yaralandi-2557740",
+    "text": {
+     "tr": "Balıkesir'in Susurluk ilçesinde bir tır, motosiklet ve üç otomobilin karıştığı zincirleme kazada 4 kişi yaralandı.",
+     "de": "Bei einer Massenkarambolage mit einem Lkw, einem Motorrad und drei Autos im Bezirk Susurluk in Balıkesir wurden 4 Personen verletzt."
+    }
+   },
+   {
+    "time": "2026-11-20T00:36:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010324/husikan-mahallesi-nde-maden-ocagi-icin-verilen-ced-karari-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Diyarbakır Mahkemesi, Çınar'daki Husikan Mahallesi'nde yapılması planlanan maden ocağı için verilen ÇED kararını iptal etti.",
+     "de": "Ein Gericht in Diyarbakır hat die Umweltverträglichkeitsprüfung für ein geplantes Bergwerk im Dorf Husikan in Çınar aufgehoben."
+    }
+   },
+   {
+    "time": "2026-11-20T00:29:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/otizmli-cocuklara-siddet-iddiasi-2-supheli-tutuklandi-2557731",
+    "text": {
+     "tr": "İzmir'in Narlıdere ilçesinde otizmli çocuklara şiddet uygulandığı iddiasıyla gözaltına alınan 2 şüpheli tutuklandı.",
+     "de": "In Narlıdere bei Izmir wurden zwei Verdächtige wegen mutmaßlicher Misshandlung autistischer Kinder festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-20T00:15:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010259/doktas-ta-ucretleri-dusurme-baskisi-suruyor-isciler-tazminatsiz-isten-atiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Bursa'daki Döktaş fabrikasında ücret indirimini kabul etmeyen en az 10 işçi tazminatsız işten çıkarıldı.",
+     "de": "Mindestens 10 Arbeiter wurden im Döktaş-Werk in Bursa entlassen, nachdem sie Lohnkürzungen abgelehnt hatten."
+    }
+   },
    {
     "time": "2026-11-19T22:53:00+03:00",
     "source": "Evrensel",
@@ -58,45 +94,18 @@
      "tr": "Konya'da Sağlık Bilimleri Üniversitesi Rektörü Kemalettin Aydın'ın geçirdiği trafik kazasında akademisyen eşi hayatını kaybetti.",
      "de": "Bei einem Verkehrsunfall des Rektors der Universität für Gesundheitswissenschaften in Konya kam dessen Ehefrau ums Leben."
     }
-   },
-   {
-    "time": "2026-11-19T22:50:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/turkiye-dahil-15-ulkeden-israil-in-yerlesim-politikalarina-ortak-tepki-2557697",
-    "text": {
-     "tr": "Türkiye dahil 15 ülke, İngiltere ve Avustralya'nın İsrail'in yasa dışı yerleşim faaliyetlerine getirdiği yaptırımları destekledi.",
-     "de": "Fünfzehn Staaten, darunter die Türkei, haben die Sanktionen Großbritanniens und Australiens gegen illegale israelische Siedlungen begrüßt."
-    }
-   },
-   {
-    "time": "2026-11-19T19:22:14+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/19/ankarada-schengen-zirvesi-vize-sureclerini-inceleyecek-calisma-grubu-kuruldu",
-    "text": {
-     "tr": "Schengen ülkelerinin Türkiye temsilcilikleri, Türk vatandaşlarının vize süreçlerini incelemek üzere Ankara'da ortak çalışma grubu kurdu.",
-     "de": "Die Schengen-Länder haben in Ankara eine Arbeitsgruppe eingesetzt, um Visaverfahren für türkische Staatsbürger zu überprüfen."
-    }
-   },
-   {
-    "time": "2026-11-19T12:46:35+00:00",
-    "source": "BBC Türkçe",
-    "url": "https://www.bbc.com/turkce/articles/cqdr1xlreey7o",
-    "text": {
-     "tr": "Tekirdağ ve Antalya büyükşehir ile yedi ilçe belediye başkanı iktidardaki AKP'ye katıldı.",
-     "de": "Die Bürgermeister von Tekirdağ, Antalya und sieben weiteren Bezirken sind zur Regierungspartei AKP gewechselt."
-    }
-   },
-   {
-    "time": "2026-11-19T11:57:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/dunya/dunyanin-gozu-cin-de-trump-putin-ve-si-cinping-bir-araya-geldi-2557518",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping, Çin'deki APEC Zirvesi'nde üçlü görüşme gerçekleştirdi.",
-     "de": "US-Präsident Donald Trump, Russlands Staatschef Wladimir Putin und Chinas Präsident Xi Jinping sind in China zu einem historischen Dreiertreffen zusammengekommen."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-19T21:26:10+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+    "text": {
+     "tr": "Cincinnati Hayvanat Bahçesi'nde bir şapka yutan Fiona adlı su aygırı öldü.",
+     "de": "Im Zoo von Cincinnati ist das Flusspferd Fiona gestorben, nachdem es einen Hut verschluckt hatte."
+    }
+   },
    {
     "time": "2026-11-19T21:21:43+00:00",
     "source": "BBC News World",
@@ -122,6 +131,15 @@
     "text": {
      "tr": "Uluslararası Adalet Divanı, Myanmar'ın Arakanlı Müslüman azınlığa karşı soykırım yaptığına hükmetti.",
      "de": "Der Internationale Gerichtshof hat geurteilt, dass Myanmar Völkermord an den Rohingya begangen hat."
+    }
+   },
+   {
+    "time": "2026-11-19T17:23:34+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
+    "text": {
+     "tr": "ABD'de iki oğlunu boğarak öldüren Susan Smith'in şartlı tahliye talebi reddedildi.",
+     "de": "In den USA wurde der zweifachen Kindermörderin Susan Smith erneut die Bewährung verwehrt."
     }
    }
   ]
@@ -151,8 +169,18 @@
   "https://tr.euronews.com/video/2026/11/19/lyonda-beaujolais-nouveau-kutlamasi-yeni-hasadin-ilk-siseleri-acildi",
   "https://tr.euronews.com/video/2026/11/19/senzende-apec-zirvesi-trump-putini-arkadasi-diye-tanimladi",
   "https://tr.euronews.com/video/2026/11/19/ukraynada-rus-saldirisi-odesada-dort-olu-en-az-13-yarali",
+  "https://www.bbc.co.uk/news/articles/c58j484089ewo",
+  "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
   "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+  "https://www.bbc.co.uk/news/articles/ckdd1y09eqjmo",
   "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+  "https://www.bbc.co.uk/news/articles/cm879dqn3e1jo",
+  "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
+  "https://www.bbc.co.uk/news/articles/cmwy8pyqlq5vo",
+  "https://www.bbc.co.uk/news/articles/cw8r7510degno",
+  "https://www.bbc.co.uk/news/articles/cwz0k3172xzko",
+  "https://www.bbc.co.uk/news/videos/c60qj10j0ld5o",
+  "https://www.bbc.co.uk/news/videos/c63rgnq05pdwo",
   "https://www.bbc.com/turkce/articles/c5y43w14wzm4o",
   "https://www.bbc.com/turkce/articles/c620r7vg0e7wo",
   "https://www.bbc.com/turkce/articles/cj20q4p1g3p7o",
@@ -164,7 +192,9 @@
   "https://www.bbc.com/turkce/articles/cr9d75xwg767o",
   "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo",
   "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/baski-ve-unutturmaya-karsi-huzunlu-bir-agit-ay-carmela-izmir-nazim-sahne-de-2557516",
+  "https://www.cumhuriyet.com.tr/dunya/abd-senatosu-trump-in-iran-a-saldirmasini-engelleyen-savas-yetkileri-tasarisini-reddetti-2557730",
   "https://www.cumhuriyet.com.tr/dunya/dunyanin-gozu-cin-de-trump-putin-ve-si-cinping-bir-araya-geldi-2557518",
+  "https://www.cumhuriyet.com.tr/dunya/gurcistan-da-apartman-patlamasinda-bilanco-agirlasti-6-olu-5-yarali-2557738",
   "https://www.cumhuriyet.com.tr/dunya/trump-tan-iran-aciklamasi-yilbasindan-sonra-neler-olacagini-gorecegiz-2557696",
   "https://www.cumhuriyet.com.tr/ekonomi/2027-yilinda-altin-fiyatlari-nasil-sekillenecek-yabanci-finans-kuruluslarinin-ons-altin-tahmin-ve-beklentileri-2557511",
   "https://www.cumhuriyet.com.tr/ekonomi/dolar-tl-de-yukselis-suruyor-endeks-19-ayin-zirvesine-yakin-2557507",
@@ -182,20 +212,24 @@
   "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-varto-sulh-hukuk-mahkemesi-2557347",
   "https://www.cumhuriyet.com.tr/resmi-ilanlar/turhal-milli-emlak-sefligi-2557327",
   "https://www.cumhuriyet.com.tr/siyaset/akp-ye-3-belediye-baskani-daha-mi-katiliyor-gozler-erdogan-in-katilacagi-toplantida-2557519",
+  "https://www.cumhuriyet.com.tr/siyaset/saadet-partili-gunes-ten-akp-ye-sert-tepki-ciftci-emekli-emekci-perisan-2557736",
   "https://www.cumhuriyet.com.tr/siyaset/turkiye-dahil-15-ulkeden-israil-in-yerlesim-politikalarina-ortak-tepki-2557697",
   "https://www.cumhuriyet.com.tr/siyaset/yakup-asarkaya-kimdir-bddk-ikinci-baskani-yakup-asarkaya-nin-ozgecmisi-2557514",
   "https://www.cumhuriyet.com.tr/spor/ertugrul-dogan-dan-yayin-ihalesi-aciklamasi-kalite-premier-lig-ayarinda-olmali-2557695",
   "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-gundemindeydi-frosinone-den-kvernadze-nin-gelecegi-icin-aciklama-2557517",
+  "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-italya-da-kayip-deplasmanda-istedigini-alamadi-2557734",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-da-alti-futbolcunun-saglik-durumu-belli-oldu-2557701",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-rekor-icin-samsunspor-karsisina-cikacak-2557506",
   "https://www.cumhuriyet.com.tr/spor/hakeme-tasla-saldiran-futbolcuya-8-yil-men-cezasi-2557719",
   "https://www.cumhuriyet.com.tr/turkiye/74-yasindaki-erkek-findik-bahcesinde-olu-bulundu-2557705",
+  "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-zincirleme-trafik-kazasi-4-kisi-yaralandi-2557740",
   "https://www.cumhuriyet.com.tr/turkiye/dur-ihtarina-uymadi-372-bin-tl-ceza-yedi-2-yilda-oderim-dedi-2557716",
   "https://www.cumhuriyet.com.tr/turkiye/esenyurt-ta-cop-dokme-kavgasi-bir-kisi-oldu-kacan-supheli-gozaltinda-2557510",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-dikkat-ceken-iddia-akp-li-belediye-baskan-yardimcisinin-sirketi-fonlarla-mi-uctu-2557707",
   "https://www.cumhuriyet.com.tr/turkiye/is-yerindekilere-siparis-verdiniz-mi-deyip-silahla-saldirdi-2-yarali-2557700",
   "https://www.cumhuriyet.com.tr/turkiye/kis-lastigi-zorunlulugu-basladi-oto-lastikcilerde-yogunluk-artti-2557502",
   "https://www.cumhuriyet.com.tr/turkiye/kyk-burs-ve-kredi-odemeleri-basladi-2557500",
+  "https://www.cumhuriyet.com.tr/turkiye/otizmli-cocuklara-siddet-iddiasi-2-supheli-tutuklandi-2557731",
   "https://www.cumhuriyet.com.tr/turkiye/otomobilin-carptigi-park-halindeki-aracin-arkasindaki-kadin-oldu-surucu-kacti-2557725",
   "https://www.cumhuriyet.com.tr/turkiye/seniz-dogan-in-cezaevi-nakline-tepki-ailesine-eziyet-2557720",
   "https://www.cumhuriyet.com.tr/turkiye/sisli-de-simitci-tayfun-evinde-olu-bulundu-2557515",
@@ -207,8 +241,13 @@
   "https://www.cumhuriyet.com.tr/yasam/ayca-varlier-kimdir-ayca-varlier-kac-yasinda-nereli-ayca-varlier-hangi-filmlerde-oynadi-2557512",
   "https://www.cumhuriyet.com.tr/yasam/gta-6-lucia-kim-gta-6-nin-lucia-si-manni-l-perez-kim-2557508",
   "https://www.cumhuriyet.com.tr/yasam/yaz-yorgunlugunu-geride-birakin-kisa-hazirlik-icin-uygulayabileceginiz-10-adim-2557501",
+  "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016",
   "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772",
   "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757",
+  "https://www.dw.com/en/is-the-ai-bubble-bursting-just-as-anthropic-goes-public/a-79896537",
+  "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898",
+  "https://www.dw.com/en/pakistan-minister-to-visit-india-but-no-breakthrough-expected/a-79991717",
+  "https://www.dw.com/en/wadephul-coalition-of-the-willing-talks-in-berlin-send-strong-signal-to-moscow/a-79990664",
   "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668",
   "https://www.dw.com/tr/almanya-3-boyutlu-yazıcıda-ürettiği-silahla-camiye-saldırı-planladı/a-79990421",
   "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998",
@@ -240,6 +279,8 @@
   "https://www.evrensel.net/haber/6010207/eski-bddk-baskani-kavcioglu-na-yurt-disi-cikis-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010208/fon-magdurlari-spk-onunde-eylem-yapti-birikimlerimizi-enflasyon-farkiyla-geri-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010209/trump-putin-ve-si-nin-uclu-zirvesi-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010259/doktas-ta-ucretleri-dusurme-baskisi-suruyor-isciler-tazminatsiz-isten-atiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010260/habas-iscilerinin-olumu-hepimizin-meselesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010266/dunya-cocuk-haklari-gununde-5-cocuk-isci-anlatiyor-haklari-yok-patronlari-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010308/kupa-voley-dortlu-final-de-yari-final-eslesmeleri-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010309/285-bini-askin-kanadali-abd-buyukelcisi-hoekstra-nin-gorevden-alinmasi-icin-imza-atti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -255,7 +296,12 @@
   "https://www.evrensel.net/haber/6010319/bursa-emek-ve-demokrasi-gucleri-kayyim-ve-siyasi-yasaklara-karsi-eylem-yapti-bicak-kemige-dayandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010320/izmir-de-otizmli-cocuklara-siddet-sorusturmasi-gozaltina-alinan-2-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010321/pentagon-iran-la-savasin-maliyetinin-483-milyar-dolara-ulastigini-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010322/sair-gazeteci-namik-taranci-kendini-anlatiyor-sevgimiz-de-cicekler-gibi-topraga-kok-salacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010323/abd-senatosu-trump-in-iran-a-saldirmasini-engelleyen-savas-yetkileri-tasarisini-reddetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010324/husikan-mahallesi-nde-maden-ocagi-icin-verilen-ced-karari-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/feuilleton/buecher/ausstellung-ueber-susan-sontag-im-deutschen-literaturarchiv-201692661.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/davide-giuriato-was-die-fliege-ueber-macht-und-politik-verraet-201236320.html",
+  "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/geraubtes-barockgemaelde-kehrt-nach-potsdam-zurueck-201696296.html",
   "https://www.faz.net/aktuell/finanzen/boersen-maerkte/anthropic-boersengang-warum-deutschland-aufwachen-muss-201698877.html",
   "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html",
   "https://www.faz.net/aktuell/politik/ausland/urteil-des-igh-gegen-myanmar-wille-zum-voelkermord-201698628.html",
@@ -264,17 +310,24 @@
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-us-senat-lehnt-resolution-zum-irankrieg-ab-faz-19444916.html",
   "https://www.faz.net/aktuell/rhein-main/csl-behring-baut-produktion-in-marburg-aus-groesste-einzelinvestition-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/fussball/bayern-frauen-gewinnen-4-0-bei-austria-wien-201700067.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-zverev-trumpft-weiter-auf-sorgen-um-titelrivale-alcaraz-201700162.html",
+  "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-jeremiaha-maluze-die-beste-zeit-meines-lebens-201686606.html",
   "https://www.faz.net/aktuell/sport/wintersport/wie-es-der-berliner-max-unglaube-ins-deutsche-skisprung-team-geschafft-hat-201694500.html",
+  "https://www.france24.com/en/asia-pacific/20261119-what-impact-will-shenzhen-summit-us-china-trade-war",
+  "https://www.france24.com/en/business/20261119-anthropic-begins-trading-1-5-trillion-company-biggest-ipo-record-ai",
   "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
   "https://www.france24.com/en/france/20261119-french-regulator-warns-influential-youtubers-respect-pluralism-rules-election-coverage",
   "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine",
   "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+  "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261119-us-has-unbalanced-approach-on-dr-congo-deal-rwanda-s-foreign-minister-says",
   "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on",
   "https://www.france24.com/en/tv-shows/the-observers/20261119-president-body-bags-photo-ops-sparking-outrage-colombia",
+  "https://www.france24.com/en/video/20261119-bangladesh-hasina-supporters-vandalise-ruling-party-office",
   "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
   "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us",
   "https://www.manager-magazin.de/unternehmen/mobilitaet/audi-wie-gernot-doellner-audi-in-den-abgrund-fuehrt-a-1b547e10-9566-4029-8324-9290f44c604a#ref=rss",
   "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
+  "https://www.spiegel.de/ausland/donald-trump-warnt-elon-musk-vor-absprung-bei-maga-a-86e0a6f3-18e4-477d-8bd8-e7396533f0c5#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
   "https://www.spiegel.de/karriere/urlaub-einreichen-haben-eltern-ein-recht-auf-urlaub-in-den-ferien-a-49c18cfc-b9bc-4298-a1b3-b5b97f9547cb#ref=rss",
   "https://www.spiegel.de/kultur/tv/constantin-schreiber-wofuer-steht-der-ex-tagesschau-sprecher-a-949a01f3-a318-4a15-a54c-b1cb7e28c41b#ref=rss",
@@ -299,7 +352,13 @@
   "https://www.tagesschau.de/ausland/amerika/musk-spenden-republikaner-100.html",
   "https://www.tagesschau.de/ausland/asien/dreiergipfel-xi-trump-putin-100.html",
   "https://www.tagesschau.de/ausland/asien/gipfel-trump-putin-xi-shenzhen-100.html",
+  "https://www.tagesschau.de/ausland/asien/urteil-voelkermord-rohingya-myanmar-100.html",
+  "https://www.tagesschau.de/ausland/europa/cupic-parlamentspraesident-serbien-100.html",
+  "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+  "https://www.tagesschau.de/ausland/europa/egmr-corona-impfpflicht-100.html",
+  "https://www.tagesschau.de/ausland/europa/frankreich-unterstuetzung-ukraine-militaer-100.html",
   "https://www.tagesschau.de/ausland/europa/krim-bruecke-angriff-ukraine-zugverkehr-gestoppt-100.html",
+  "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-koalition-stimmung-100.html",
   "https://www.tagesschau.de/ausland/kinder-konfliktgebiete-106.html",
   "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html",

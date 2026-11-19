@@ -1,134 +1,429 @@
 {
  "date": "2026-11-19",
- "updatedAt": "2026-11-19T22:20+01:00",
+ "updatedAt": "2026-11-19T22:50+01:00",
  "lang": "tr",
  "countries": [
   {
    "code": "de",
-   "overview": "Almanya, hem uluslararası diplomaside hem de iç ekonomide kritik dönüm noktalarının yaşandığı bir güne tanıklık ediyor. Şansölye Friedrich Merz'in Berlin'de topladığı Ukrayna zirvesi, küresel güç pazarlıklarına karşı Avrupa'nın iradesini ve desteğini teyit etmeyi hedefliyor. İç siyasette ise koalisyonun elektrik vergisi indirimi ve akaryakıt tavan fiyatı uzlaşması tüketicileri rahatlatmayı amaçlarken, Commerzbank'ın UniCredit tarafından devralınması ve IG Metall grevleri Alman ekonomisinin sıcak gündemini oluşturuyor.",
+   "overview": "Almanya'da bugün, uluslararası diplomasi ve ekonomi ağırlıklı yoğun bir gündem yaşandı. Federal Şansölye Friedrich Merz, ABD, Rusya ve Çin liderlerinin Shenzhen zirvesine karşı Avrupa'nın çıkarlarını savunarak olası bir bölünmeye karşı sert uyarıda bulundu. Ekonomi alanında, yapay zeka şirketi Anthropic'in rekor borsaya açılışı ve Volkswagen'deki sert toplu sözleşme krizleri piyasaları sarsarken, enerji maliyetlerindeki artış ve iç politika tartışmaları da dikkat çekti.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
    "items": [
     {
-     "title": "Şansölye Merz Ukrayna'ya Destek Zirvesi İçin Müttefikleri Berlin'de Ağırlıyor",
-     "summary": "Şansölye Friedrich Merz, Ukrayna'yı destekleyen yaklaşık 30 ülkenin liderini Berlin'de kritik bir zirvede bir araya getirdi. Toplantı, ABD Başkanı Donald Trump ile Rusya Devlet Başkanı Vladimir Putin'in Çin'deki görüşmeleri sürerken, Kiev ve Avrupa'nın aleyhine herhangi bir anlaşmaya izin verilmeyeceği mesajını veriyor. Zirveye katılan devlet ve hükümet başkanları, Ukrayna'ya yönelik diplomatik ve askeri yardımların süreceğini teyit etti.",
+     "title": "Berlin'de Ukrayna zirvesi: Şansölye Merz'den Rusya'ya çağrı",
+     "summary": "Federal Şansölye Friedrich Merz, Berlin'de düzenlenen Ukrayna destek zirvesinde 40 ülkenin liderini bir araya getirdi. Zirve sırasında ABD Başkanı Trump Air Force One'dan telefonla bağlanarak yardımlara ilişkin çekincelerini dile getirdi. Merz ise Rusya Devlet Başkanı Putin'e silahları bırakma ve Avrupa'nın katılımıyla barış müzakerelerine başlama çağrısında bulundu.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+     "time": "2026-11-19T20:22:45+01:00"
+    },
+    {
+     "title": "Kuzey Ren-Vestfalya'da camiye saldırı planı şüphesiyle gözaltı",
+     "summary": "Almanya'nın Eslohe kentinde 18 yaşında bir lise öğrencisi, 3D yazıcıyla ürettiği silahlarla bir camiye terör saldırısı planladığı şüphesiyle tutuklandı. Güvenlik güçleri tarafından yapılan aramalarda aşırı sağcı görüşlere dair deliller ele geçirildi. Şüphelinin ağustos ayından bu yana gözaltında olduğu bildirildi.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/schueler-anschlagsplan-moschee-100.html",
+     "time": "2026-11-19T16:29:00+01:00"
+    },
+    {
+     "title": "Berlin'deki şiddet olayları nedeniyle iki kardeşe ağır hapis cezası",
+     "summary": "Federal Yargıtay, Berlin'de bir TÜV denetmenine yönelik saldırılar ve nitelikli suçlar nedeniyle iki kardeşe verilen hapis cezalarını onadı. Sanıklar toplamda 32 yıldan fazla hapis cezasına çarptırıldı. Mahkeme, saldırıların gerekçesiz ve ağır suç teşkil ettiğini vurguladı.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/vermischtes/article6aff03a19c68d2fcf0c7d254/clan-kriminalitaet-in-berlin-sie-wollten-einen-tuev-pruefer-erziehen-zwei-brueder-muessen-zusammen-mehr-als-32-jahre-in-haft.html",
+     "time": "2026-11-19T18:12:39+00:00"
+    },
+    {
+     "title": "BSI'dan yapay zeka destekli siber saldırı uyarısı",
+     "summary": "Federal Bilgi Güvenliği Dairesi (BSI), yapay zekanın siber suçlular tarafından güvenlik açıklarını hızla istismar etmek için kullanılması nedeniyle riskin arttığını duyurdu. Kurum, benzeri görülmemiş hız ve hacimde saldırılar beklendiği konusunda uyardı. Birçok Alman şirketinin bu tehditlere karşı yetersiz korunduğu belirtildi.",
+     "category": "Siber Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html",
+     "time": "2026-11-19T12:06:07+01:00"
+    },
+    {
+     "title": "Savunma Bakanı Pistorius Polonya'da iş birliği mesajı verdi",
+     "summary": "Almanya Savunma Bakanı Boris Pistorius, ikili güvenlik ilişkilerini güçlendirmek amacıyla Polonya'ya iki günlük bir ziyaret gerçekleştirdi. Tarihsel yükümlülüklere rağmen iki ülkenin ortak savunmada yakın çalıştığı vurgulandı. Ziyarette güçlü ve güvenilir bir ortaklık mesajı verildi.",
      "category": "Politika",
-     "importance": 3,
-     "source": "Der Spiegel",
-     "url": "https://www.spiegel.de/politik/deutschland/ukraine-krieg-friedrich-merz-empfaengt-zum-gegengipfel-in-berlin-a-35a421cf-63a1-4e57-a38a-1bd3dde077b7#ref=rss",
-     "time": "2026-11-19T06:56:00+01:00"
-    },
-    {
-     "title": "Koalisyon Hükümeti Elektrik Vergisi İndirimi ve Akaryakıt Tavan Fiyatında Anlaştı",
-     "summary": "Birlik partileri ve SPD'den oluşan koalisyon, elektrik vergisinin 2027 yılı boyunca Avrupa Birliği asgari seviyesine düşürülmesi konusunda mutabakata vardı. Hükümet ortakları ayrıca vatandaşları ve işletmeleri yüksek enerji maliyetlerine karşı korumak için bir akaryakıt tavan fiyatı modelini kabul etti. Önlemler memnuniyetle karşılansa da iş dünyası ve sivil toplumdan rahatlamanın yalnızca bir yılla sınırlandırılmasına tepki geldi.",
-     "category": "Ekonomi",
-     "importance": 3,
-     "source": "tagesschau",
-     "url": "https://www.tagesschau.de/inland/innenpolitik/stromsteuer-spritpreisdeckel-einigung-koalition-100.html",
-     "time": "2026-11-18T16:45:55+01:00"
-    },
-    {
-     "title": "Federal Hükümet ile UniCredit Commerzbank Devralmasında Uzlaştı",
-     "summary": "Federal Hükümet, İtalyan finans devi UniCredit ile Commerzbank'ın devralınması konusunda anlaşmaya vardı. UniCredit bankanın Almanya'daki merkezini ve çalışan haklarını korumayı garanti ederken, Alman devleti denetim kurulundaki koltuklarından feragat etti. Bu mutabakatla birlikte Avrupa bankacılık piyasasındaki en kapsamlı birleşmelerden birinin önü açılmış oldu.",
-     "category": "Ekonomi",
-     "importance": 3,
-     "source": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/unicredit-bundesregierung-100.html",
-     "time": "2026-11-19T02:06:22+01:00"
-    },
-    {
-     "title": "IG Metall Sanayide 24 Saatlik Uyarı Grevlerini Başlattı",
-     "summary": "Almanya'da metal ve elektrik sektöründeki toplu iş sözleşmesi görüşmelerinin tıkanması üzerine IG Metall sendikası 24 saatlik tam gün grev kararı aldı. Sendika, 2018 yılından bu yana ilk kez bu ölçekte tam günlük bir iş bırakma eylemine başvuruyor. İş bırakma dalgasıyla birlikte işverenler üzerindeki ücret artışı baskısının artırılması amaçlanıyor.",
-     "category": "Ekonomi",
-     "importance": 2,
-     "source": "Der Spiegel",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/ig-metall-startet-ganztages-streiks-a-b4346d94-7de0-4764-ad94-2a4eb5f9342f#ref=rss",
-     "time": "2026-11-19T08:38:00+01:00"
-    },
-    {
-     "title": "Federal Kabine Süreli İş Sözleşmelerini Kolaylaştıran Düzenlemeyi Kabul Etti",
-     "summary": "Federal Kabine, süreli iş sözleşmelerinin yapılmasını kolaylaştıran ve yüksek gelirliler için işten çıkarma korumasını hafifleten yasa tasarısını onayladı. Düzenleme, koalisyon partilerinin yaz aylarında vardığı ilkesel mutabakatı resmiyete döküyor. Hükümet, bu adımlarla iş gücü piyasasına esneklik kazandırmayı hedefliyor.",
-     "category": "Politika",
-     "importance": 2,
-     "source": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/jobbefristungen-kabinett-100.html",
-     "time": "2026-11-18T14:44:31+01:00"
-    },
-    {
-     "title": "Almanya Markus Brunnermeier'i AMB Başekonomistliği İçin Aday Gösterdi",
-     "summary": "Federal Hükümet, tanınmış Alman ekonomist Markus Brunnermeier'i Avrupa Merkez Bankası Başekonomistliği görevine resmen aday gösterdi. Bu makam, Avro Bölgesi'nin faiz ve para politikalarının belirlenmesinde kilit bir etkiye sahip bulunuyor. Atamanın kesinleşmesi halinde Brunnermeier, merkez bankasının stratejik kararlarında söz sahibi olacak.",
-     "category": "Ekonomi",
-     "importance": 2,
-     "source": "tagesschau",
-     "url": "https://www.tagesschau.de/wirtschaft/finanzen/bundesregierung-ezb-chefvolkswirt-100.html",
-     "time": "2026-11-18T16:36:01+01:00"
-    },
-    {
-     "title": "Deutsche Telekom Yapay Zekâ Şirketi Mistral'e 100 Milyon Avro Yatırıyor",
-     "summary": "Deutsche Telekom, Avrupa'nın önde gelen yapay zekâ girişimi Mistral'e 100 milyon avro yatırım yaparak stratejik ortaklık kurduğunu bildirdi. Taraflar, kurumsal müşterilere yönelik ortak yapay zekâ ürünleri geliştirmeyi amaçlıyor. Bu ortaklık, Avrupa'nın yapay zekâ alanında ABD merkezli teknoloji devlerine bağımlılığını azaltma girişimi olarak görülüyor.",
-     "category": "Teknoloji",
+     "topic": "gundem",
      "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/pistorius-reise-polen-100.html",
+     "time": "2026-11-19T10:27:34+01:00"
+    },
+    {
+     "title": "Volkswagen'den toplu sözleşmede sert kesinti talepleri",
+     "summary": "Krizdeki otomobil üreticisi Volkswagen, yaklaşan toplu sözleşme görüşmelerinde iki yıl boyunca maaş artışı yapılmamasını (sıfır tur) ve çalışma saatleri ile yan haklarda kesintiler talep etti. IG Metall sendikası ve işçi temsilcileri bu talepleri sert bir dille eleştirdi. Sendika, yönetimin çalışanların sırtına yük bindirdiğini belirterek tepki gösterdi.",
+     "category": "Otomotiv",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+     "time": "2026-11-19T17:11:57+01:00"
+    },
+    {
+     "title": "Anthropic'in rekor borsaya açılışına rağmen DAX geriledi",
+     "summary": "ABD'li yapay zeka şirketi Anthropic'in tarihi büyüklükteki halka arzı piyasalarda büyük yankı uyandırırken, Frankfurt Borsası'nda DAX endeksi üç haftanın en düşük seviyesine geriledi. Yatırımcılar teknoloji sektöründeki hareketliliğe odaklanırken genel piyasa havası zayıf kaldı. Uzmanlar halka arz dalgasının Alman borsaları için de bir uyarı niteliği taşıdığını belirtiyor.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-dow-anthropic-100.html",
+     "time": "2026-11-19T18:33:52+01:00"
+    },
+    {
+     "title": "BASF, Evonik'i satın alma girişiminden vazgeçti",
+     "summary": "Kimya devi BASF, rakip şirket Evonik'i satın alma planlarını iptal ettiğini açıkladı. Evonik yönetiminin daha önce yapılan iki bağlayıcı olmayan teklifi reddetmesinin ardından BASF nihai kararını duyurdu. Ludwigshafen merkezli şirket, görüşmelerin sürdürülmeyeceğini bildirdi.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+     "time": "2026-11-19T16:55:43+01:00"
+    },
+    {
+     "title": "Almanya'da artan enerji fiyatları nedeniyle milyonlarca kişi ısınamıyor",
+     "summary": "Federal İstatistik Ofisi verilerine göre, son yıllarda artan enerji maliyetleri nedeniyle Almanya'da yaklaşık 4,7 milyon insan evini yeterince ısıtamıyor. Son beş yılda enerji fiyatlarının yüzde 47 oranında arttığı açıklandı. Uzmanlar bu durumun sosyal yardımlara olan bağımlılığı artırdığına dikkat çekiyor.",
+     "category": "Tüketici",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/heizkosten-anstieg-100.html",
+     "time": "2026-11-19T11:10:08+01:00"
+    },
+    {
+     "title": "IG Metall'den Baden-Württemberg ve Bavyera'da uyarı grevi çağrısı",
+     "summary": "IG Metall sendikası, otomotiv ve yan sanayi sektörlerinde toplu sözleşme görüşmelerindeki anlaşmazlıklar nedeniyle Cuma günü geniş çaplı uyarı grevleri düzenleneceğini duyurdu. Özellikle Baden-Württemberg ve Bavyera eyaletlerindeki üretim tesislerinin durması bekleniyor. Sendika yönetimi işverenlerin tekliflerini yetersiz buluyor.",
+     "category": "İş Dünyası",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-124.html",
+     "time": "2026-11-19T13:58:34+01:00"
+    },
+    {
+     "title": "Avrupa Komisyonu'na yapay zeka destekli siber saldırı",
+     "summary": "Brüksel'deki Avrupa Komisyonu, yapay zeka araçları kullanılarak gerçekleştirilen gelişmiş bir siber saldırının hedefi oldu. Personel sistemleri günlerce devre dışı kalırken saldırının arkasındaki sorumlular henüz tespit edilemedi. Yetkililer, 33 binden fazla çalışanın verilerinin tehlikede olup olmadığını inceliyor.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/cyberangriff-eu-kommission-100.html",
+     "time": "2026-11-19T14:56:39+01:00"
+    },
+    {
+     "title": "Brandenburg'da dünyanın en yüksek rüzgar türbini elektrik üretime başladı",
+     "summary": "Berlin Fernsehtulesi yüksekliğine yaklaşan ve dünyanın en yüksek rüzgar türbini olma özelliğini taşıyan dev tesis Brandenburg'da devreye alındı. Yeni nesil türbin, geleneksel sistemlere kıyasla iki kat daha fazla elektrik üretme kapasitesine sahip. Benzer projelerin planlama aşamasında olduğu açıklandı.",
+     "category": "Enerji",
+     "topic": "teknoloji",
+     "importance": 2,
      "source": "Der Spiegel",
-     "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-telekom-steigt-bei-europas-ki-hoffnung-mistral-ein-a-d3e7a956-a3eb-4eec-8f7e-0366020961bc#ref=rss",
-     "time": "2026-11-19T07:30:00+01:00"
+     "url": "https://www.spiegel.de/wirtschaft/windenergie-in-brandenburg-hoechstes-windrad-der-geht-in-betrieb-a-eddc2afd-3bd5-4bde-9528-71b3d7c10c92#ref=rss",
+     "time": "2026-11-19T20:01:00+01:00"
+    },
+    {
+     "title": "Volkswagen araçlarında güvenlik açığı: Aylar sonra güncelleme geldi",
+     "summary": "Yüz binlerce Volkswagen modelinde Bluetooth üzerinden mikrofon dinlemeye ve konum takibine izin veren kritik bir güvenlik açığı tespit edildi. Güvenlik araştırmacılarının açığı keşfetmesinden 16 ay sonra üretici tarafından yama yayınlandı. Özellikle ID.4 modelleri testlerde risk altında görünmüştü.",
+     "category": "Otomotiv",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/VW-Autos-liessen-sich-16-Monate-per-Bluetooth-belauschen-und-orten-11530844.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-19T13:20:00+01:00"
+    },
+    {
+     "title": "Aachen Üniversitesi Hastanesi'nde cerrahi robotla dünya birincisi",
+     "summary": "RWTH Aachen Üniversitesi Hastanesi'nde, kanser ameliyatında Symani cerrahi robotuna bağlı yeni bir elektrocerrahi mikroenstrüman dünyada ilk kez bir hastada kullanıldı. Bu teknoloji sayesinde hassas operasyonların başarı oranının artması hedefleniyor. Gelişme tıp dünyasında ilgiyle karşılandı.",
+     "category": "Sağlık",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Aachener-Uniklinik-setzt-neues-Mikroinstrument-fuer-OP-Roboter-Symani-ein-11531015.html?wt_mc=rho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-19T14:44:00+01:00"
+    },
+    {
+     "title": "Almanya'da fiber altyapı çalışmaları sürüyor",
+     "summary": "Berlin'deki sektör buluşmasında konuşan dijital yetkililer, Almanya genelindeki fiber optik altyapı çalışmalarındaki ilerlemeleri değerlendirdi. Eski bakır kablo altyapısının yaygınlığının geçiş sürecini yavaşlattığı ifade edildi. Bakanlık yetkilileri ağ dönüşümünün hızlandırılması çağrısında bulundu.",
+     "category": "Telekom",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Glasfaserausbau-Kupfer-steht-halt-im-Weg-11531556.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-19T17:09:00+01:00"
+    },
+    {
+     "title": "ATP Finals: Alexander Zverev grubunu lider tamamladı",
+     "summary": "Turin'deki ATP Finals turnuvasında mücadele eden Alman tenisçi Alexander Zverev, son grup maçında Fransız rakibi Arthur Fils'i mağlup etti. Beş maç puanı harcamasına rağmen iki sette kazanan Zverev, grubunu namağlup lider olarak tamamladı. Alman raket yarı finale yükselme başarısını gösterdi.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "kicker",
+     "url": "https://www.kicker.de/trotz-fuenf-vergebenen-matchbaellen-zverev-bezwingt-fils-in-zwei-saetzen-1272877/artikel#omrss",
+     "time": "2026-11-19T21:41:01+00:00"
+    },
+    {
+     "title": "Kadınlar Şampiyonlar Ligi: Bayern Münih Viyana'da farklı kazandı",
+     "summary": "UEFA Kadınlar Şampiyonlar Ligi'nde FC Bayern Münih, deplasmanda Austria Wien'i 4-0 mağlup etti. Karşılaşmada Alara'nın kaydettiği şık gol galibiyette önemli rol oynadı. Bu sonuçla Bavyera ekibi gruptaki iddiasını sürdürdü.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "kicker",
+     "url": "https://www.kicker.de/austria-wien-gegen-bayern-2026-frauen-champions-league-5265240/spielbericht#omrss",
+     "time": "2026-11-19T19:48:30+00:00"
+    },
+    {
+     "title": "Hentbol Şampiyonlar Ligi: SC Magdeburg Danimarka'dan galibiyetle döndü",
+     "summary": "EHF Şampiyonlar Ligi'nde SC Magdeburg, deplasmanda GOG Handbold'u 36-35 mağlup etti. Büyük çekişmeye sahne olan karşılaşmanın son anlarında kaleci Dominik Kuzmanovic'in kurtarışları galibiyeti getirdi. Bu sonuçla Alman ekibi gruptaki iddiasını pekiştirdi.",
+     "category": "Hentbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "kicker",
+     "url": "https://www.kicker.de/gog-handball-gegen-magdeburg-2026-ehf-champions-league-5275641/spielbericht#omrss",
+     "time": "2026-11-19T19:41:00+00:00"
+    },
+    {
+     "title": "EuroLeague: Bayern Münih sahasında kazandı",
+     "summary": "EuroLeague'de FC Bayern Basketbol takımı, Baskonia Vitoria-Gasteiz'i yenerek sahasındaki ilk galibiyetini aldı. SAP Garden'da oynanan maçta üstün bir performans sergileyen Bavyera ekibi, ikinci çeyrekte açtığı farkı maç sonuna kadar korudu.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "kicker",
+     "url": "https://www.kicker.de/bayern-gegen-vitoria-2026-euroleague-5250051/spielbericht#omrss",
+     "time": "2026-11-19T20:56:54+00:00"
+    },
+    {
+     "title": "Grand Slam of Darts: Martin Schindler ve Gabriel Clemens elendi",
+     "summary": "Grand Slam of Darts turnuvasında mücadele eden Alman dart oyuncuları Martin Schindler ve Gabriel Clemens, son 16 turunda turnuvaya veda etti. İki sporcu da kritik maçları kaybederek çeyrek final biletini kaçırdı.",
+     "category": "Dart",
+     "topic": "spor",
+     "importance": 1,
+     "source": "kicker",
+     "url": "https://www.kicker.de/schindler-und-clemens-vieren-im-achtelfinale-des-grand-slam-of-darts-1273122/artikel#omrss",
+     "time": "2026-11-19T21:07:27+00:00"
     }
    ]
   },
   {
    "code": "tr",
-   "overview": "Türkiye gündemi, yerel operasyonlar, adli soruşturmalar ve ekonomi ekseninde hareketli bir gün yaşıyor. Eyüpsultan Belediyesi'ne yönelik soruşturmalar kapsamında yeni gözaltılar yaşanırken, fon soruşturmasında da kritik adımlar atılıyor. Ekonomik alanda döviz kurlarındaki hareketlilik ve kamu ödemeleri dikkat çekerken, küresel gelişmeler de yakından takip ediliyor.",
+   "overview": "Türkiye'de iç siyaset ve yerel yönetimlerde yaşanan parti geçişleri ile yargı kararları gündemin ana eksenini oluştururken, ekonomik alanda TCMB rezervlerindeki değişimler ve emekli maaşı düzenlemeleri tartışılıyor. Küresel diplomaside Shenzhen'deki liderler zirvesi ve Orta Doğu'daki gelişmeler yakından izleniyor. Teknoloji alanında ise dev halka arzlar ve oyun dünyasının rekorları öne çıkıyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
    "items": [
     {
-     "title": "Fon soruşturmasında Mustafa Yazıcı'ya adli kontrol",
-     "summary": "AKP Genel Başkan Yardımcısı Hayati Yazıcı'nın oğlu Mustafa Yazıcı, yürütülen fon soruşturması kapsamında ifade verdikten sonra adli kontrol şartı ve yurt dışına çıkış yasağıyla serbest bırakıldı. Soruşturma, adli makamlarca titizlikle sürdürülüyor.",
-     "category": "Adalet",
-     "importance": 3,
-     "source": "DW Türkçe",
-     "url": "https://www.dw.com/tr/fon-soruşturması-mustafa-yazıcı-adli-kontrolle-serbest/a-79987018",
-     "time": "2026-11-19T05:54:00+00:00"
-    },
-    {
-     "title": "Eyüpsultan Belediyesi soruşturmasında yeni gözaltı",
-     "summary": "Ankara Cumhuriyet Başsavcılığı tarafından Eyüpsultan Belediyesi'ne yönelik yürütülen soruşturma kapsamında Belediye Başkan Yardımcısı ve Özel Kalem Müdürü Çağdaş Can Elmalı gözaltına alındı. Daha önce de Belediye Başkanı Mithat Bülent Özmen aynı soruşturma çerçevesinde tutuklanmıştı.",
-     "category": "Politika",
+     "title": "Tekirdağ ve Antalya ile 7 ilçe belediyesi AKP'ye geçti",
+     "summary": "Yeni Parti'den istifa eden Tekirdağ Belediye Başkanı Candan Yüceer ve Antalya Büyükşehir Belediye Başkanvekili Büşra Özdemir iktidar partisine katıldı. Düzenlenen rozet takma töreninde iki büyükşehirin yanı sıra yedi ilçe belediye başkanı da AKP'ye geçti.",
+     "category": "Siyaset",
+     "topic": "gundem",
      "importance": 3,
      "source": "BBC Türkçe",
-     "url": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo",
-     "time": "2026-11-19T07:45:52+00:00"
+     "url": "https://www.bbc.com/turkce/articles/cqdr1xlreey7o",
+     "time": "2026-11-19T12:46:35+00:00"
     },
     {
-     "title": "Dolar/TL'den tüm zamanların en yüksek seviyesi",
-     "summary": "Dolar/TL kurunda yaşanan yukarı yönlü hareketlilik devam ediyor. Döviz kuru güne yükselişle başlayarak tüm zamanların en yüksek seviyesi olan 50,4540 seviyesinden işlem gördü.",
-     "category": "Ekonomi",
-     "importance": 3,
-     "source": "Sozcu",
-     "url": "https://www.sozcu.com.tr/dolar-tl-den-tum-zamanlarin-en-yuksek-seviyesi-geldi-p382670",
-     "time": "2026-11-19T10:13:01+03:00"
-    },
-    {
-     "title": "Kripto dolandırıcılığı operasyonunda 10 tutuklama",
-     "summary": "Gaziantep merkezli 7 ilde gerçekleştirilen operasyonda, vatandaşları kripto yatırım danışmanlığı adı altında dolandırdığı öne sürülen 10 kişi tutuklandı. Şüphelilerin bu yöntemle 3,2 milyar liralık vurgun yaptığı iddia ediliyor.",
-     "category": "Güvenlik",
-     "importance": 2,
-     "source": "Sozcu",
-     "url": "https://www.sozcu.com.tr/kripto-yatirim-vaadiyle-3-2-milyar-liralik-vurgun-iddiasi-10-kisi-tutuklandı-p382664",
-     "time": "2026-11-19T09:57:28+03:00"
-    },
-    {
-     "title": "Gazeteci İsmail Arı hakim karşısına çıkıyor",
-     "summary": "Eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine tutuklanan gazeteci İsmail Arı, \"yanıltıcı bilgiyi alenen yayma\" suçlamasıyla Ankara'da hakim karşısına çıkıyor. Duruşma adliyede görülüyor.",
+     "title": "Gazeteci İsmail Arı'ya ilk duruşmada tahliye ve beraat",
+     "summary": "Eski RTÜK Başkanı Ebubekir Şahin'in şikayeti üzerine hakkında soruşturma açılan ve tutuklanan BirGün muhabiri İsmail Arı, hakim karşısına çıktı. Mahkeme, görülen ilk duruşmada gazetecinin beraatine ve tahliyesine karar verdi.",
      "category": "Adalet",
+     "topic": "gundem",
      "importance": 2,
-     "source": "DW Türkçe",
-     "url": "https://www.dw.com/tr/gazeteci-i̇smail-arı-ankara-da-hakim-karşısına-çıkıyor/a-79983666",
-     "time": "2026-11-19T05:15:00+00:00"
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/ck20re4212ylo",
+     "time": "2026-11-19T10:06:37+00:00"
     },
     {
-     "title": "KYK burs ve öğrenim kredisi ödemeleri başladı",
-     "summary": "2026-2027 eğitim öğretim döneminde ilk kez burs veya öğrenim kredisi başvurusunda bulunan öğrenciler için ödemeler hesaplara yatırılmaya başlandı. Öğrenciler ödemelerini belirlenen takvime göre alabiliyor.",
-     "category": "Ekonomi",
+     "title": "Belediye meclislerindeki başkan seçimlerinde yeni pusula dönemi",
+     "summary": "Belediye meclislerinde gerçekleştirilen belediye başkanı ve başkanvekili seçimlerine ilişkin yeni düzenleme Resmî Gazete'de yayımlanarak yürürlüğe girdi. Yapılan değişiklikle adayların isimlerinin elle yazılması uygulaması kaldırılarak birleşik oy pusulası ve tercih mührü sistemine geçildi.",
+     "category": "Politika",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/belediye-baskani-baskanvekili-secimlerinde-yeni-donem-isim-yazma-2085187",
+     "time": "2026-11-20T00:29:00+03:00"
+    },
+    {
+     "title": "Eyüpsultan Belediye Başkan Yardımcısı gözaltına alındı",
+     "summary": "Ankara Cumhuriyet Başsavcılığı tarafından Eyüpsultan Belediyesi'ne yönelik yürütülen soruşturma kapsamında yeni bir gözaltı yapıldı. Belediye Başkan Yardımcısı ve Özel Kalem Müdürü Çağdaş Can Elmalı soruşturma çerçevesinde gözaltına alındı.",
+     "category": "Soruşturma",
+     "topic": "gundem",
      "importance": 1,
-     "source": "Sozcu",
-     "url": "https://www.sozcu.com.tr/son-dakika-kyk-burs-odemeleri-basladi-p382687",
-     "time": "2026-11-19T10:57:35+03:00"
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo",
+     "time": "2026-11-19T11:16:42+00:00"
+    },
+    {
+     "title": "Türkiye Ermenileri Patrikliği'nden Surp Kevork Kilisesi açıklaması",
+     "summary": "Mardin'in Derik ilçesindeki Surp Kevork Kilisesi mülkiyetine ilişkin tartışmalar üzerine Patriklik bir komisyon kurduğunu duyurdu. Açıklamada yasal mirasçıların emaneti sahibine teslim etmesi talep edildi.",
+     "category": "Azınlıklar",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Agos",
+     "url": "https://www.agos.com.tr/tr/haber/patrikhane-yasal-mirascilarin-emaneti-teslim-et-memelerini-talep-ediyoruz-42570",
+     "time": "2026-11-19T17:21:00+03:00"
+    },
+    {
+     "title": "Erdoğan'dan emekli maaşı düzenlemesi açıklaması",
+     "summary": "Cumhurbaşkanı Recep Tayyip Erdoğan, emeklilerin ekonomik durumunun iyileştirilmesine yönelik yapılacak düzenlemenin yılbaşından önce hayata geçirileceğini açıkladı. Gelişme, milyonlarca emeklinin ocak ayı öncesi beklentilerini artırdı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c5y43w14wzm4o",
+     "time": "2026-11-19T14:36:07+00:00"
+    },
+    {
+     "title": "TCMB rezervlerinde sert düşüş",
+     "summary": "Türkiye Cumhuriyet Merkez Bankası'nın toplam rezervleri son haftada geriledi. Açıklanan verilere göre düşüşte altın rezervlerindeki sert kayıp belirleyici oldu.",
+     "category": "Merkez Bankası",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-rezervlerinde-sert-dusus-haftalık-veriler-aciklandi-2557573",
+     "time": "2026-11-19T15:22:00+03:00"
+    },
+    {
+     "title": "Motorin fiyatlarında indirim",
+     "summary": "Akaryakıt fiyatlarında hareketlilik sürerken motorine indirim yapıldı. Motorin fiyatlarında 6,5 liralık düşüş gerçekleştirildi.",
+     "category": "Akaryakıt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Diken",
+     "url": "https://www.diken.com.tr/motorine-65-lira-indirim/?utm_source=rss&utm_medium=rss&utm_campaign=motorine-65-lira-indirim",
+     "time": "2026-11-19T21:10:10+00:00"
+    },
+    {
+     "title": "Kiler Holding'den Ümit Özlale'nin fon iddialarına yalanlama",
+     "summary": "Yeni Parti İzmir Milletvekili Ümit Özlale'nin fon kriziyle ilgili Kiler Holding hakkındaki iddialarına şirketten yanıt geldi. Şirket iddiaları kesin bir dille reddederek milletvekili hakkında hukuki süreç başlatıldığını duyurdu.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cjy5xnly66qko",
+     "time": "2026-11-19T21:08:18+00:00"
+    },
+    {
+     "title": "Garanti BBVA ile DenizBank'ın Bonus işbirliği sona eriyor",
+     "summary": "Garanti BBVA ile DenizBank arasındaki Bonus Kredi Kartı Programı ortaklığı bitiyor. Ayrılığın ardından DenizBank'ın Bonus logolu kartları ve POS cihazları sistemden çıkacak.",
+     "category": "Bankacılık",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/garanti-bbva-ile-denizbank-in-bonus-isbirligi-sona-eriyor-tarih-belli-oldu-2557580",
+     "time": "2026-11-19T15:36:00+03:00"
+    },
+    {
+     "title": "GTA 6 internet trafiğinde rekor kırdı",
+     "summary": "Milyonlarca oyuncunun devasa oyunu aynı anda indirmesi internet altyapısında tarihi bir yoğunluk yarattı. DE-CIX ağ trafiği saniyede 33,03 terabite ulaştı.",
+     "category": "İnternet",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/19/gta-6-internet-trafiginde-rekor-kirdi-saniyede-33-terabit-veri-aktarildi",
+     "time": "2026-11-19T20:43:19+01:00"
+    },
+    {
+     "title": "Google'dan yeni yapay zekâ modeli: Gemini 4 Neon",
+     "summary": "Google, düşük maliyetle yüksek hız ve zekâ sunan yeni yapay zekâ modeli Gemini 4 Neon'u duyurdu. Model, sektördeki diğer büyük dil modellerine rakip olarak konumlandırılıyor.",
+     "category": "Yapay Zekâ",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/google-gemini-4-neon-duyurdu-h229207.html",
+     "time": "2026-11-19T17:54:12+03:00"
+    },
+    {
+     "title": "Nvidia, Çin'e yapay zeka çipi sevkiyatını durdurdu",
+     "summary": "ABD ile Çin arasındaki teknoloji rekabetinde yeni bir aşamaya geçilirken Nvidia, Çin'e yönelik yapay zeka çipi sevkiyatını durdurduğunu açıkladı. Karar iki ülke arasındaki ticari gerilimi artırdı.",
+     "category": "Donanım",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/abd-ve-cin-arasindaki-teknoloji-savasi-yeni-asamaya-geciyor-nvidia-cin-e-yapay-zeka-cipi-sevkiyatini-durdurdu-2557376",
+     "time": "2026-11-18T21:56:00+03:00"
+    },
+    {
+     "title": "Yeni Lexus NX, 2027'de Türkiye'de satışa sunulacak",
+     "summary": "Altıncı nesil hibrit teknolojisine sahip yenilenen Lexus NX modeli Türkiye pazarına gümeye hazırlanıyor. Araç 2027’nin ilk çeyreğinde Türkiye’de satışa sunulacak.",
+     "category": "Otomotiv",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/yeni-lexus-nx-turkiye-geliyor-h229243.html",
+     "time": "2026-11-19T17:50:39+03:00"
+    },
+    {
+     "title": "Google Play'den katlanabilir cihazlar için sıkı kurallar",
+     "summary": "Google Play, katlanabilir telefonlar ve büyük ekranlı cihazlar için uygulama kurallarını güncelledi. Asgari şartları karşılamayan uygulamalar aramalarda geride kalacak.",
+     "category": "Yazılım",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/google-play-katlanabilir-cihaz-kalite-standartlari-h229216.html",
+     "time": "2026-11-19T16:47:05+03:00"
+    },
+    {
+     "title": "Galatasaray'da Samsunspor maçı öncesi sağlık raporu",
+     "summary": "Süper Lig'in 12. haftasında Samsunspor ile karşılaşacak olan Galatasaray'da sakatlığı bulunan altı futbolcunun durumu netleşti. Milli kaleci Uğurcan Çakır da takımla birlikte antrenmanda yer aldı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-da-alti-futbolcunun-saglik-durumu-belli-oldu-2557701",
+     "time": "2026-11-19T22:54:00+03:00"
+    },
+    {
+     "title": "Fenerbahçe İtalya'dan mağlubiyetle döndü",
+     "summary": "Fenerbahçe Tarfin, EuroLeague'in 13. haftasında deplasmanda Olimpia Milano ile karşı karşıya geldi. Sarı-lacivertliler sahadan 78-70 mağlup ayrıldı.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-italya-da-kayip-deplasmanda-istedigini-alamadi-2557734",
+     "time": "2026-11-20T00:39:00+03:00"
+    },
+    {
+     "title": "TFF'den Zorbay Küçük'e 13 ay sonra resmi görev",
+     "summary": "Türkiye Futbol Federasyonu, geçen sezon bahis soruşturması kapsamında gözaltına alınan ve serbest bırakılan hakem Zorbay Küçük'e görev verdi. Hakem 13 ay sonra sahalara dönüyor.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/bahis-sorusturmasinda-gozaltina-alinmisti-tff-den-o-hakeme-13-ay-sonra-resmi-gorev-2557656",
+     "time": "2026-11-19T18:28:00+03:00"
+    },
+    {
+     "title": "Galatasaray Daikin Kupa Voley'de Dörtlü Final'de",
+     "summary": "Galatasaray Daikin, Voleybol Kadınlar Kupa Voley çeyrek finalinde Zerenspor'u 3-0 mağlup etti. Sarı-kırmızılı ekip set vermeden adını Dörtlü Final'e yazdırdı.",
+     "category": "Voleybol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-daikin-kupa-voley-de-set-vermeden-dortlu-final-de-2557684",
+     "time": "2026-11-19T21:17:00+03:00"
+    },
+    {
+     "title": "Büyükusta Işık Can'dan Çin'de gümüş madalya",
+     "summary": "Satranç oyuncusu Büyükusta Işık Can, Çin'deki 17. Danzhou Süper Büyükusta Turnuvası'nda mücadele etti. Sporcu turnuvayı gümüş madalyayla tamamladı.",
+     "category": "Satranç",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/buyukusta-isik-can-cin-de-gumus-madalya-kazandi-2557679",
+     "time": "2026-11-19T20:26:00+03:00"
     }
    ]
   },
