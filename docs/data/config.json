@@ -31,9 +31,14 @@
      "use": "both"
     },
     {
-     "name": "Der Spiegel Son dakika",
-     "url": "https://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss",
-     "use": "flash"
+     "name": "FAZ Nachrichten",
+     "url": "https://www.faz.net/rss/aktuell/",
+     "use": "both"
+    },
+    {
+     "name": "Die Welt",
+     "url": "https://www.welt.de/feeds/topnews.rss",
+     "use": "both"
     }
    ]
   },
@@ -80,6 +85,11 @@
      "name": "Evrensel",
      "url": "https://www.evrensel.net/rss/haber.xml",
      "use": "flash"
+    },
+    {
+     "name": "Agos",
+     "url": "https://www.agos.com.tr/tr/rss",
+     "use": "daily"
     }
    ]
   }
@@ -89,5 +99,6 @@
    "domain": "sozcu.com.tr",
    "reason": "Kayyum atandı; bağımsız habercilik yapamıyor (yönetici, 19 Kasım 2026)"
   }
- ]
+ ],
+ "sourcesReviewedAt": "2026-11-19T10:01+01:00"
 }

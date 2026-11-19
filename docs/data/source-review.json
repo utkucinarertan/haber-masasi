@@ -1,13 +1,94 @@
 {
- "reviewedAt": "2026-11-19T09:54+01:00",
+ "reviewedAt": "2026-11-19T10:01+01:00",
  "countries": [
   {
    "code": "de",
-   "error": "Gemini özet üretemedi (gemini-3.5-flash-lite: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information"
+   "added": [
+    {
+     "name": "FAZ Nachrichten",
+     "url": "https://www.faz.net/rss/aktuell/",
+     "use": "both",
+     "reason": "Almanya'nin saygin ve koklu merkez-sag egilimli bagimsiz gazetesi Frankfurter Allgemeine Zeitung'un RSS akisidir."
+    },
+    {
+     "name": "Die Welt",
+     "url": "https://www.welt.de/feeds/topnews.rss",
+     "use": "both",
+     "reason": "Alman basininda liberal-muhafazakar çizgide yayin yapan bagimsiz Die Welt gazetesinin ana manseyleridir."
+    }
+   ],
+   "removed": [
+    {
+     "name": "Der Spiegel Son dakika",
+     "url": "https://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss",
+     "use": "flash",
+     "reason": "akış çalışmıyor ya da son bir haftada haber yok"
+    }
+   ],
+   "avoid": [
+    {
+     "domain": "rt.com",
+     "reason": "Rus devletinin dogrudan kontrolunde olan ve propaganda yayinlayan bir kaynaktir."
+    },
+    {
+     "domain": "sputniknews.com",
+     "reason": "Rus devletine bagli,bagimsiz olmayan bir devlet medyasidir."
+    }
+   ]
   },
   {
    "code": "tr",
-   "error": "Gemini özet üretemedi (gemini-3.5-flash-lite: HTTP 429 {\n  \"error\": {\n    \"code\": 429,\n    \"message\": \"You exceeded your current quota, please check your plan and billing details. For more information"
+   "added": [
+    {
+     "name": "Agos",
+     "url": "https://www.agos.com.tr/tr/rss",
+     "use": "daily",
+     "reason": "Azınlık hakları ve toplumsal meselelerde bağımsız ve derinlikli habercilik sunan haftalık gazetedir."
+    }
+   ],
+   "removed": [],
+   "avoid": [
+    {
+     "domain": "aa.com.tr",
+     "reason": "Anadolu Ajansı devlet kontrolünde olup doğrudan hükümet politikaları doğrultusunda tek sesli yayın yapmaktadır."
+    },
+    {
+     "domain": "trt.net.tr",
+     "reason": "Türkiye Radyo Televizyon Kurumu özerk yapısını yitirmiş, doğrudan hükümet güdümünde çalışan kamu yayıncısıdır."
+    },
+    {
+     "domain": "sabah.com.tr",
+     "reason": "Turkuvaz Medya Grubu bünyesinde hükümete doğrudan yakın sermaye kontrolünde bir yayın organıdır."
+    },
+    {
+     "domain": "hurriyet.com.tr",
+     "reason": "Demirören Grubu'na geçtikten sonra editoryal bağımsızlığını kaybetmiş ve hükümet çizgisine geçmiştir."
+    },
+    {
+     "domain": "milliyet.com.tr",
+     "reason": "Demirören Medya bünyesinde hükümet yanlısı yayın politikası izlemektedir."
+    },
+    {
+     "domain": "yenisafak.com.tr",
+     "reason": "Albayrak Grubu'na ait, hükümet yanlısı açık propaganda yapan bir gazetedir."
+    },
+    {
+     "domain": "aksam.com.tr",
+     "reason": "TürkMedya bünyesinde hükümete tam bağımlı yayın politikası gütmektedir."
+    },
+    {
+     "domain": "takvim.com.tr",
+     "reason": "Turkuvaz Medya Grubu'na bağlı, taraflı ve sansasyonel hükümet yanlısı bir yayındır."
+    },
+    {
+     "domain": "ahaber.com.tr",
+     "reason": "Hükümet yanlısı Turkuvaz Medya Grubu'nun ana propaganda kanallarındandır."
+    },
+    {
+     "domain": "turkiyegazetesi.com.tr",
+     "reason": "İhlas Grubu'na ait, iktidar çizgisinde yayın yapan bir mecradır."
+    }
+   ]
   }
  ]
 }
