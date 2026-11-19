@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updatedAt": "2026-11-19T11:01+03:00",
+ "updatedAt": "2026-11-19T22:20+01:00",
  "lang": "de",
  "countries": [
   {
@@ -129,6 +129,218 @@
      "source": "Sozcu",
      "url": "https://www.sozcu.com.tr/son-dakika-kyk-burs-odemeleri-basladi-p382687",
      "time": "2026-11-19T10:57:35+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "overview": "Das trilaterale Treffen der Staatschefs der USA, Chinas und Russlands in Shenzhen mit einer gemeinsamen Friedenserklärung setzte ein gewichtiges Signal in der Weltpolitik, während die europäischen Verbündeten in Berlin ihre Geschlossenheit bei Verhandlungen über den Krieg in der Ukraine demonstrierten. Mit einem historischen Urteil verurteilte der Internationale Gerichtshof Myanmar wegen des Völkermords an der Rohingya-Minderheit. Zugleich prägten wirtschaftliche und technologische Umbrüche den Tag, angeführt vom Rekord-Börsengang des KI-Konzerns Anthropic und wachsenden Sicherheitsbedenken im Zusammenhang mit KI-gestützten Cyberangriffen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Trump, Xi und Putin verabschieden Friedenserklärung bei Dreiergipfel",
+     "summary": "Die Präsidenten der USA, Chinas und Russlands sind im chinesischen Shenzhen zu einem beispiellosen Dreiertreffen zusammengekommen. Nach den Verhandlungen veröffentlichten Donald Trump, Xi Jinping und Wladimir Putin eine gemeinsame Friedenserklärung, die unter anderem den Ukraine-Krieg und nukleare Abrüstung thematisierte.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+     "time": "2026-11-19T17:38:22+00:00"
+    },
+    {
+     "title": "Internationaler Gerichtshof erklärt Vorgehen Myanmars zu Völkermord",
+     "summary": "Der Internationale Gerichtshof in Den Haag hat im Verfahren um die Vertreibung und Tötung der muslimischen Rohingya entschieden, dass Myanmars Sicherheitskräfte mit Völkermordabsicht gehandelt haben. Das höchste UN-Gericht forderte das Land zu Reparationszahlungen und zur Ermöglichung einer sicheren Rückkehr der Flüchtlinge auf.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+     "time": "2026-11-19T20:07:02+00:00"
+    },
+    {
+     "title": "Europäische Staaten zu Verhandlungen mit Moskau über Ukraine-Krieg bereit",
+     "summary": "Bei einem Treffen der Verbündeten in Berlin haben die europäischen Staats- und Regierungschefs eine geschlossene Verhandlungsposition für Gespräche mit Russland formuliert. Der französische Staatspräsident Emmanuel Macron forderte unterdessen raschere Flugabwehrlieferungen und ein erneutes Prüfen einer NATO-Mitgliedschaft der Ukraine.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+     "time": "2026-11-19T21:16:12+00:00"
+    },
+    {
+     "title": "US-Senat blockiert Vorstoß zur Beendigung der Kämpfe mit dem Iran",
+     "summary": "Der US-Senat hat mit 51 zu 48 Stimmen eine Resolution abgelehnt, die US-Präsident Donald Trump dazu verpflichten sollte, die Kampfhandlungen gegen den Iran einzustellen. Damit scheiterte eine zuvor vom US-Repräsentantenhaus beschlossene Gesetzesinitiative an den republikanischen Senatoren.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+     "time": "2026-11-19T20:24:09+00:00"
+    },
+    {
+     "title": "Dänisches Parlament ratifiziert Grönland-Vereinbarung mit den USA",
+     "summary": "Nach monatelangen Drohungen von US-Präsident Donald Trump hat das dänische Parlament dem Abkommen über Grönland zugestimmt. Damit sind die innerstaatlichen Hürden überwunden, sodass die Vereinbarung offiziell in Kraft treten kann.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
+     "time": "2026-11-19T11:02:23+01:00"
+    },
+    {
+     "title": "Anthropic nimmt bei Rekord-Börsengang 81 Milliarden Dollar auf",
+     "summary": "Der Entwickler des KI-Assistenten Claude, Anthropic, hat bei seinem Debüt an der US-Börse 81 Milliarden Dollar erlöst und damit historische Rekorde gebrochen. Während die Unternehmensbewertung am ersten Handelstag zeitweise die Marke von zwei Billionen Dollar berührte, schlossen die US-Leitindizes deutlich im Minus.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+     "time": "2026-11-19T15:58:58+00:00"
+    },
+    {
+     "title": "IWF warnt vor Zinssteigerungen infolge des KI-Booms",
+     "summary": "IWF-Chefin Kristalina Georgieva hat gewarnt, dass die rasant steigende Nachfrage nach künstlicher Intelligenz weltweit führende Zentralbanken zu Zinserhöhungen veranlassen könnte. Die Staaten müssten sich auf die volkswirtschaftlichen Folgen der umfassenden Technologieeinführung wappnen.",
+     "category": "Finanzpolitik",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+     "time": "2026-11-19T15:15:14+00:00"
+    },
+    {
+     "title": "Elon Musk bereut Millionen-Wahlkampfspenden an Republikaner",
+     "summary": "Tech-Milliardär Elon Musk hat seine Rekordspenden in Höhe von 446 Millionen Dollar für die Republikaner bei den US-Zwischenwahlen als töricht bezeichnet. Nach den Stimmverlusten der Partei distanzierte er sich zudem öffentlich von der MAGA-Bewegung um Donald Trump.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+     "time": "2026-11-19T02:59:06+00:00"
+    },
+    {
+     "title": "Gewerkschaften fordern Stopp öffentlicher Aufträge für Amazon",
+     "summary": "Gewerkschaftsführer aus 19 Staaten fordern Regierungen weltweit auf, ihre Verträge mit Amazon und dessen Cloud-Sparte AWS auf den Prüfstand zu stellen. In einem offenen Brief begründen sie dies mit gravierenden Mängeln des Konzerns bei Arbeitnehmerrechten und Tarifverhandlungen.",
+     "category": "Arbeitswelt",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
+     "time": "2026-11-19T14:05:21+00:00"
+    },
+    {
+     "title": "US-Konsortium sichert sich milliardenschweres Bergbauprojekt in Kenia",
+     "summary": "Ein US-amerikanisches Unternehmenskonsortium hat sich gegen chinesische Konkurrenten durchgesetzt und den Zuschlag für ein Bergbauprojekt in Kenia erhalten. Die Vorkommen kritischer Mineralien in der Mrima-Hill-Region werden auf einen Wert von über 60 Milliarden Dollar geschätzt.",
+     "category": "Rohstoffe",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
+     "time": "2026-11-19T12:56:30+00:00"
+    },
+    {
+     "title": "EU-Kommission bestätigt KI-gestützten Cyberangriff",
+     "summary": "Die Europäische Kommission in Brüssel ist nach eigenen Angaben Ziel einer durch künstliche Intelligenz gesteuerten Hacking-Kampagne geworden. Dies ist der erste öffentlich bestätigte Vorfall dieser Art, der die EU-Zentrale trifft.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016",
+     "time": "2026-11-19T14:58:00+00:00"
+    },
+    {
+     "title": "Raumsonde Voyager 1 sendet Signal aus Rekorddistanz von einem Lichttag",
+     "summary": "Die vor fast 50 Jahren gestartete NASA-Sonde Voyager 1 hat eine Entfernung von einem Lichttag zur Erde erreicht, was mehr als 26 Milliarden Kilometern entspricht. Nach einer Signallaufzeit von genau 24 Stunden fingen Forscher die Daten des bislang am weitesten gereisten menschengemachten Objekts auf.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+     "time": "2026-11-19T19:26:18+00:00"
+    },
+    {
+     "title": "Grand Theft Auto 6 weltweit mit großem Andrang erschienen",
+     "summary": "Nach 13 Jahren Entwicklungszeit ist das mit Spannung erwartete Videospiel Grand Theft Auto VI weltweit auf den Markt gekommen. Kritiker lobten die Produktion als Meilenstein der Branche, während der Verkaufsstart international zu Rekordnachfragen führte.",
+     "category": "Gaming",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo",
+     "time": "2026-11-19T12:26:39+00:00"
+    },
+    {
+     "title": "US-Behörden klagen Spion wegen Ausspähung von Tech-Konzern an",
+     "summary": "Ein 25-Jähriger ist in den USA angeklagt worden, im Auftrag Russlands ein Technologie- und Rüstungsunternehmen im Silicon Valley ausspioniert zu haben. Ihm wird unter anderem die gezielte Beschattung von Angestellten der betroffenen Firma zur Last gelegt.",
+     "category": "Sicherheit",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+     "time": "2026-11-19T20:29:46+00:00"
+    },
+    {
+     "title": "Niederländische Aufsichtsbehörde warnt vor KI-Brillen",
+     "summary": "Die Verbraucherschutzbehörde in den Niederlanden rät vom Kauf von Smart-Brillen mit künstlicher Intelligenz ab. Praxistests hatten gezeigt, dass die Geräte fehlerhafte medizinische Angaben machten und fälschlicherweise vorgaben, Rettungsdienste alarmiert zu haben.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+     "time": "2026-11-19T16:33:17+00:00"
+    },
+    {
+     "title": "Los Angeles Sparks vor Rekordverkauf für 750 Millionen Dollar",
+     "summary": "Mark Walter steht kurz vor dem Verkauf des WNBA-Basketballteams Los Angeles Sparks für eine Rekordsumme von rund 750 Millionen Dollar. Das Geschäft stellt den bisher teuersten Eigentümerwechsel im weltweiten Frauen-Profisport dar.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/dodgers-owner-mark-walter-set-to-sell-los-angeles-sparks-for-wnba-record-750m",
+     "time": "2026-11-19T20:40:22+00:00"
+    },
+    {
+     "title": "Thomas Frank übernimmt Traineramt bei Crystal Palace",
+     "summary": "Der dänische Fußballtrainer Thomas Frank hat sich auf seiner ersten Pressekonferenz als neuer Chefcoach von Crystal Palace vorgestellt. Er übernimmt die Mannschaft auf dem letzten Tabellenplatz der Premier League mit dem klaren Ziel des Klassenerhalts.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+     "time": "2026-11-19T19:50:10+00:00"
+    },
+    {
+     "title": "Premier-League-Klubs beschließen erweiterten Rechtsschutz für Führungsebene",
+     "summary": "Die Klubs der englischen Premier League haben mehrheitlich für erweiterte Haftungsfreistellungen gestimmt, um Führungskräfte wie Ligachef Richard Masters vor Gerichtsklagen zu schützen. Der Beschluss fiel vor dem Hintergrund anhaltender juristischer Auseinandersetzungen mit Vereinen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
+     "time": "2026-11-19T16:03:07+00:00"
+    },
+    {
+     "title": "Streit um Steuerbefreiung für Frauen-WM 2035 zwischen FIFA und Großbritannien",
+     "summary": "Die FIFA fordert von der britischen Regierung und den nationalen Verbänden weitreichende Steuerbefreiungen für die Ausrichtung der Frauen-Weltmeisterschaft 2035. Die Bedingungen des Weltverbands sorgen im Vorfeld der Bestätigung der Gastgeberrolle für erhebliche Spannungen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
+     "time": "2026-11-19T16:00:06+00:00"
+    },
+    {
+     "title": "Hunderte Rugbyspieler warten auf Gerichtsentscheid zu Gehirnerschütterungsklagen",
+     "summary": "Hunderte ehemalige Rugbyspieler klagen gegen die Dachverbände der Sportart wegen fahrlässig verursachter Hirnschäden infolge von Gehirnerschütterungen. Richter prüfen nun, ob das historische Verfahren trotz Anträgen der Gegenseite auf Abweisung regulär verhandelt werden kann.",
+     "category": "Rugby",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/rugby-union-league-players-face-anxious-wait-judges-retire-consider-state-of-concussion-case",
+     "time": "2026-11-19T19:57:19+00:00"
     }
    ]
   }

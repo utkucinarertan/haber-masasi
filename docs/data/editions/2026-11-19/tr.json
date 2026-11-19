@@ -1,6 +1,6 @@
 {
  "date": "2026-11-19",
- "updatedAt": "2026-11-19T11:01+03:00",
+ "updatedAt": "2026-11-19T22:20+01:00",
  "lang": "tr",
  "countries": [
   {
@@ -129,6 +129,218 @@
      "source": "Sozcu",
      "url": "https://www.sozcu.com.tr/son-dakika-kyk-burs-odemeleri-basladi-p382687",
      "time": "2026-11-19T10:57:35+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "overview": "Shenzhen'de bir araya gelen ABD, Çin ve Rusya liderlerinin barış deklarasyonu yayımlaması küresel diplomaside yeni bir dönemin işaretini verirken, Avrupalı müttefikler Berlin'de Ukrayna'ya destek kararlılığını yineledi. Birleşmiş Milletler'e bağlı Uluslararası Adalet Divanı'nın Myanmar yönetimini Rohingyalara karşı soykırım suçundan mahkum etmesi uluslararası hukuk açısından tarihi bir dönüm noktası oldu. Ekonomi ve teknoloji arenasında ise yapay zeka devi Anthropic'in tarihi halka arzı piyasaları sarsarken, yapay zekanın yol açtığı siber güvenlik riskleri ve kurumsal sarsıntılar günün öne çıkan başlıkları arasında yer aldı.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Trump, Şi ve Putin Shenzhen'de bir araya gelerek barış bildirisi yayımladı",
+     "summary": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ve Rusya Devlet Başkanı Vladimir Putin, Çin'in Shenzhen kentinde tarihi bir üçlü zirve gerçekleştirdi. Görüşmenin ardından ortak bir barış deklarasyonu yayımlanırken, gündemde Ukrayna savaşı, İran ve nükleer silahsızlanma gibi kritik başlıklar yer aldı.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4ln97x7o",
+     "time": "2026-11-19T17:38:22+00:00"
+    },
+    {
+     "title": "Uluslararası Adalet Divanı Myanmar'ın Rohingya soykırımı işlediğine hükmetti",
+     "summary": "Birleşmiş Milletler'in en yüksek yargı mercii olan Uluslararası Adalet Divanı, Myanmar ordusunun 2017'deki operasyonlarında Rohingya azınlığına karşı soykırım niyetiyle hareket ettiğine karar verdi. Mahkeme, Myanmar'ın tazminat ödemesini ve mültecilerin güvenli dönüşünün sağlanmasını emretti.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+     "time": "2026-11-19T20:07:02+00:00"
+    },
+    {
+     "title": "Avrupa liderleri Ukrayna savaşı için Rusya ile müzakereye hazır",
+     "summary": "Berlin'de toplanan Ukrayna'nın Avrupalı müttefikleri, savaşı sona erdirmeye yönelik görüşmeler için ortak bir müzakere pozisyonuna vardıklarını duyurdu. Fransa Cumhurbaşkanı Emmanuel Macron müttefiklere hava savunma yardımlarını hızlandırma ve Ukrayna'nın NATO üyeliği meselesini yeniden açma çağrısında bulundu.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+     "time": "2026-11-19T21:16:12+00:00"
+    },
+    {
+     "title": "ABD Senatosu İran ile çatışmaları durdurmayı öngören tasarıyı reddetti",
+     "summary": "ABD Senatosu, Başkan Donald Trump'ın İran'a yönelik askeri harekatını durdurmasını hedefleyen savaş yetkileri tasarısını 48'e karşı 51 oyla geri çevirdi. Temsilciler Meclisi'nin onayladığı düzenleme, Cumhuriyetçi senatörlerin çoğunluk oylarıyla engellenmiş oldu.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+     "time": "2026-11-19T20:24:09+00:00"
+    },
+    {
+     "title": "Danimarka Parlamentosu Grönland anlaşmasını onayladı",
+     "summary": "Danimarka Parlamentosu, Grönland konusunda ABD Başkanı Donald Trump ile varılan anlaşmayı resmen onayladı. Aylardır süren diplomatik gerginliklerin ardından gelen meclis onayıyla birlikte anlaşmanın yürürlüğe girmesinin önü açıldı.",
+     "category": "Politika",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/parlament-in-daenemark-ratifiziert-groenland-abkommen-100.html",
+     "time": "2026-11-19T11:02:23+01:00"
+    },
+    {
+     "title": "Anthropic tarihi halka arzda 81 milyar dolar topladı",
+     "summary": "Yapay zeka asistanı Claude'un geliştiricisi Anthropic, borsa çıkışında 81 milyar dolar toplayarak tarihi bir halka arza imza attı. Şirketin ilk işlem gününde hisse değerlemesi kısa süreliğine 2 trilyon dolar sınırına ulaşırken Wall Street genelinde sert düşüşler yaşandı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+     "time": "2026-11-19T15:58:58+00:00"
+    },
+    {
+     "title": "IMF Başkanı Georgieva: Yapay zeka talebi küresel faizleri artıracak",
+     "summary": "Uluslararası Para Fonu (IMF) Başkanı Kristalina Georgieva, hızla artan yapay zeka talebinin merkez bankalarını faiz oranlarını yükseltmeye zorlayabileceği uyarısında bulundu. Georgieva, hükümetlerin bu teknolojik dönüşümün getireceği ekonomik etkileri yakından takip etmesi gerektiğini belirtti.",
+     "category": "Para Politikası",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+     "time": "2026-11-19T15:15:14+00:00"
+    },
+    {
+     "title": "Elon Musk ara seçimlerde yaptığı 446 milyon dolarlık harcamayı 'aptalca' buldu",
+     "summary": "Amerikalı milyarder Elon Musk, ABD ara seçimlerinde Cumhuriyetçi adaylara yaptığı 446 milyon dolarlık rekor bağışın hata olduğunu dile getirdi. Seçim sonuçlarının ardından pişmanlığını belirten Musk, Donald Trump ile bağlantılı MAGA hareketine dahil olmadığını da açıkladı.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm9q8j2z3gg8o",
+     "time": "2026-11-19T02:59:06+00:00"
+    },
+    {
+     "title": "Sendikalardan hükümetlere Amazon kamu ihalelerini durdurma çağrısı",
+     "summary": "19 ülkeden 30'u aşkın sendika lideri, yayımladıkları açık mektupla hükümetlere Amazon ve bulut birimi AWS ile yapılan kamu sözleşmelerini gözden geçirme çağrısında bulundu. Sendikalar, şirketin işçi hakları ve toplu sözleşme konusundaki sicilinin kabul edilemez olduğunu savunuyor.",
+     "category": "İş Dünyası",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
+     "time": "2026-11-19T14:05:21+00:00"
+    },
+    {
+     "title": "ABD konsorsiyumu Kenya'da 60 milyar dolarlık maden ihalesini kazandı",
+     "summary": "ABD merkezli bir konsorsiyum, Çinli rakiplerini geride bırakarak Kenya'daki zengin kritik maden yataklarının işletme hakkını elde etti. Mrima Hill sahasının yaklaşık 60 milyar dolar değerinde nadir toprak elementi ve mineral barındırdığı tahmin ediliyor.",
+     "category": "Emtia",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cm9q84gp0gr3o",
+     "time": "2026-11-19T12:56:30+00:00"
+    },
+    {
+     "title": "Avrupa Komisyonu yapay zeka destekli siber saldırının hedefi oldu",
+     "summary": "Avrupa Komisyonu, yapay zeka araçları kullanılarak organize edilen kapsamlı bir siber saldırıya maruz kaldığını doğruladı. Bu vaka, Avrupa Birliği'nin kamuoyuna resmi olarak bildirdiği ilk yapay zeka tabanlı siber saldırı olarak kayıtlara geçti.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016",
+     "time": "2026-11-19T14:58:00+00:00"
+    },
+    {
+     "title": "Voyager 1 Dünya'dan bir ışık günü mesafeden sinyal gönderdi",
+     "summary": "NASA'nın yaklaşık yarım asır önce fırlattığı Voyager 1 uzay aracı, Dünya'dan bir ışık günü yani 26 milyar kilometreden fazla uzaklığa ulaştı. Gönderilen radyo sinyalinin Dünya'ya tam 24 saatte ulaşmasıyla insan yapımı bir cisim için yeni bir mesafe rekoru kırıldı.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+     "time": "2026-11-19T19:26:18+00:00"
+    },
+    {
+     "title": "Grand Theft Auto 6 uzun bekleyişin ardından piyasaya çıktı",
+     "summary": "13 yıllık geliştirme sürecinin ardından Grand Theft Auto VI küresel çapta oyunseverlerle buluştu. Eleştirmenlerden tam not alan ve eğlence sektörünün en büyük lansmanlarından biri olarak görülen oyun için dünya genelinde yoğun ilgi oluştu.",
+     "category": "Oyun",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/c6z74ep2n17zo",
+     "time": "2026-11-19T12:26:39+00:00"
+    },
+    {
+     "title": "Silikon Vadisi şirketine casusluk yapan kişi Rusya adına çalışmakla suçlandı",
+     "summary": "ABD'li federal savcılar, 25 yaşındaki bir kişiyi Silikon Vadisi merkezli teknoloji ve savunma firmasında Rusya adına casusluk yapmakla suçladı. Şüphelinin gizli bilgileri toplamak amacıyla şirket çalışanlarını takip ettiği bildirildi.",
+     "category": "Güvenlik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/11/man-charged-with-spying-on-silicon-valley-tech-and-defense-company-for-russia/",
+     "time": "2026-11-19T20:29:46+00:00"
+    },
+    {
+     "title": "Hollandalı denetleyici yapay zekalı akıllı gözlüklere karşı uyardı",
+     "summary": "Hollanda Tüketici Otoritesi, kullanıcılara yapay zeka destekli akıllı gözlükleri satın almama tavsiyesinde bulundu. Yapılan güvenlik testlerinde gözlüklerin ilaç talimatlarını yanlış okuduğu ve acil yardım çağrılarında hatalı davrandığı tespit edildi.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/ckq6eyrzrzy5o",
+     "time": "2026-11-19T16:33:17+00:00"
+    },
+    {
+     "title": "Los Angeles Sparks 750 milyon dolarlık WNBA rekoruyla el değiştiriyor",
+     "summary": "Los Angeles Dodgers'ın hissedarlarından Mark Walter, WNBA takımı Los Angeles Sparks'ı 750 milyon dolara devretmek üzere anlaşma aşamasına geldi. Kadın basketbolunda tarihi rekor niteliğindeki satışın San Diego Padres ve Chelsea'nin ortak sahiplerine yapılması bekleniyor.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/dodgers-owner-mark-walter-set-to-sell-los-angeles-sparks-for-wnba-record-750m",
+     "time": "2026-11-19T20:40:22+00:00"
+    },
+    {
+     "title": "Thomas Frank Crystal Palace'ın yeni teknik direktörü oldu",
+     "summary": "İngiltere Premier Lig ekiplerinden Crystal Palace'ın başına geçen Danimarkalı teknik direktör Thomas Frank, ilk basın toplantısında göreve hazır olduğunu açıkladı. Frank, ligin son sırasında yer alan takımı küme düşme hattından çıkarmayı hedefliyor.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/thomas-frank-crystal-palace-premier-league",
+     "time": "2026-11-19T19:50:10+00:00"
+    },
+    {
+     "title": "Premier Lig kulüplerinden yönetime yasal koruma kararı",
+     "summary": "Premier Lig kulüpleri, lig yönetimini ve İcra Kurulu Başkanı Richard Masters'ı olası davalara karşı güvenceye alan yeni kuralları 18'e karşı 2 oyla kabul etti. Düzenleme, Manchester City davası gibi süreçlerde yöneticilerin bireysel tazminat korumasını genişletiyor.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/premier-league-vote-new-rules-financial-indemnity-lawsuits",
+     "time": "2026-11-19T16:03:07+00:00"
+    },
+    {
+     "title": "FIFA ile İngiltere arasında Kadınlar Dünya Kupası vergi anlaşmazlığı",
+     "summary": "FIFA, 2035 Kadınlar Dünya Kupası'na ev sahipliği yapmaya hazırlanan Birleşik Krallık hükümetinden ve futbol federasyonlarından tam vergi muafiyeti talep etti. İngiliz yetkililerin bu talebe mesafeli yaklaşması taraflar arasında gerginliğe yol açtı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/fifa-demand-tax-free-status-in-uk-womens-world-cup-2035-government",
+     "time": "2026-11-19T16:00:06+00:00"
+    },
+    {
+     "title": "Ragbi oyuncularının beyin hasarı davasında kritik bekleyiş",
+     "summary": "Yüzlerce eski ragbi oyuncusu, yönetim organlarının ihmalkarlığı sonucu nörolojik hasar gördükleri iddiasıyla açtıkları davanın duruşmaya gidip gitmeyeceğine ilişkin mahkeme kararını bekliyor. Davalı federasyonlar gecikmeler gerekçesiyle davanın düşürülmesini talep ediyor.",
+     "category": "Ragbi",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/rugby-union-league-players-face-anxious-wait-judges-retire-consider-state-of-concussion-case",
+     "time": "2026-11-19T19:57:19+00:00"
     }
    ]
   }

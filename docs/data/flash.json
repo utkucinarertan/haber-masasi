@@ -1,8 +1,17 @@
 {
  "since": "2026-11-19T05:15+01:00",
- "updatedAt": "2026-11-19T22:14+01:00",
+ "updatedAt": "2026-11-19T22:23+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-19T21:19:36+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6aff633239a3e8110f0e3021/frankfurt-richter-verraet-dienstgeheimnisse-an-anwaltsfreund-gericht-verurteilt-ihn-zu-28-800-euro-strafe.html",
+    "text": {
+     "tr": "Frankfurt'ta bir hakim, bir avukata gizli bilgileri sızdırdığı gerekçesiyle 28 bin 800 avro para cezasına çarptırıldı.",
+     "de": "Ein Frankfurter Richter wurde wegen des Verrats von Dienstgeheimnissen an einen Anwalt zu 28.800 Euro Geldstrafe verurteilt."
+    }
+   },
    {
     "time": "2026-11-19T21:07:12+01:00",
     "source": "tagesschau",
@@ -38,15 +47,6 @@
      "tr": "Volkswagen, toplu iş sözleşmesi görüşmelerinde çalışanları için iki yıllık maaş dondurma ve çalışma süresi kesintisi talep etti.",
      "de": "Volkswagen will in der anstehenden Tarifrunde eine zweijährige Nullrunde sowie Kürzungen bei Zulagen durchsetzen."
     }
-   },
-   {
-    "time": "2026-11-19T16:55:43+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
-    "text": {
-     "tr": "Alman kimya şirketi BASF, rakibi Evonik'in teklifleri geri çevirmesinin ardından devralma girişimini sonlandırdı.",
-     "de": "Der Chemiekonzern BASF hat seine Pläne zur Übernahme des Konkurrenten Evonik endgültig aufgegeben."
-    }
    }
   ],
   "tr": [
@@ -78,6 +78,15 @@
     }
    },
    {
+    "time": "2026-11-19T12:46:35+00:00",
+    "source": "BBC Türkçe",
+    "url": "https://www.bbc.com/turkce/articles/cqdr1xlreey7o",
+    "text": {
+     "tr": "Tekirdağ ve Antalya büyükşehir ile yedi ilçe belediye başkanı iktidardaki AKP'ye katıldı.",
+     "de": "Die Bürgermeister von Tekirdağ, Antalya und sieben weiteren Bezirken sind zur Regierungspartei AKP gewechselt."
+    }
+   },
+   {
     "time": "2026-11-19T11:57:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/dunya/dunyanin-gozu-cin-de-trump-putin-ve-si-cinping-bir-araya-geldi-2557518",
@@ -85,14 +94,34 @@
      "tr": "ABD Başkanı Donald Trump, Rusya Devlet Başkanı Vladimir Putin ve Çin Devlet Başkanı Şi Cinping, Çin'deki APEC Zirvesi'nde üçlü görüşme gerçekleştirdi.",
      "de": "US-Präsident Donald Trump, Russlands Staatschef Wladimir Putin und Chinas Präsident Xi Jinping sind in China zu einem historischen Dreiertreffen zusammengekommen."
     }
+   }
+  ],
+  "world": [
+   {
+    "time": "2026-11-19T21:21:43+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+    "text": {
+     "tr": "Avrupalı liderler Berlin'deki zirvede, Ukrayna'daki savaşı bitirmek üzere Rusya ile müzakerelere hazır olduklarını açıkladı.",
+     "de": "Europäische Spitzenpolitiker haben bei einem Gipfel in Berlin ihre Verhandlungsbereitschaft mit Russland über die Ukraine erklärt."
+    }
    },
    {
-    "time": "2026-11-19T11:21:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010207/eski-bddk-baskani-kavcioglu-na-yurt-disi-cikis-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "time": "2026-11-19T20:24:09+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
     "text": {
-     "tr": "Sermaye piyasası soruşturması kapsamında eski BDDK Başkanı Şahap Kavcıoğlu hakkında yurt dışına çıkış yasağı kararı verildi.",
-     "de": "Im Rahmen von Finanzmarktermittlungen wurde gegen den ehemaligen BDDK-Präsidenten Şahap Kavcıoğlu ein Ausreiseverbot verhängt."
+     "tr": "ABD Senatosu, Başkan Donald Trump'ın İran'daki askeri harekatını durdurmayı öngören tasarıyı reddetti.",
+     "de": "Der US-Senat hat eine Resolution zur Beendigung des Militäreinsatzes von Präsident Trump im Iran abgelehnt."
+    }
+   },
+   {
+    "time": "2026-11-19T20:07:02+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+    "text": {
+     "tr": "Uluslararası Adalet Divanı, Myanmar'ın Arakanlı Müslüman azınlığa karşı soykırım yaptığına hükmetti.",
+     "de": "Der Internationale Gerichtshof hat geurteilt, dass Myanmar Völkermord an den Rohingya begangen hat."
     }
    }
   ]
@@ -104,7 +133,9 @@
   "https://tr.euronews.com/2026/11/19/antalyadaki-bm-iklim-gorusmeleri-jeopolitik-gerilim-ve-gercek-baglar",
   "https://tr.euronews.com/2026/11/19/avrupali-liderler-trump-putin-si-zirvesinin-ardindan-yalta-20i-reddetti",
   "https://tr.euronews.com/2026/11/19/bahceli-trump-si-putin-zirvesinde-erdogan-da-olmaliydi",
+  "https://tr.euronews.com/2026/11/19/dem-partiden-ozgur-ozele-surec-cagrisi-yeni-parti-kararini-yeniden-degerlendirmeli",
   "https://tr.euronews.com/2026/11/19/emirates-timein-2027-en-iyi-hava-yollari-listesinde-zirvede-avrupa-ilk-10da-yok",
+  "https://tr.euronews.com/2026/11/19/giritte-libyadan-goc-artiyor-euronews-frontex-devriyesine-katildi",
   "https://tr.euronews.com/2026/11/19/grand-theft-auto-vi-13-yil-sonra-cikti-17-milyondan-fazla-satti",
   "https://tr.euronews.com/2026/11/19/gta-6-internet-trafiginde-rekor-kirdi-saniyede-33-terabit-veri-aktarildi",
   "https://tr.euronews.com/2026/11/19/ieaden-uyari-orta-dogudaki-catisma-tarihin-en-buyuk-enerji-guvenligi-tehdidi",
@@ -116,11 +147,19 @@
   "https://tr.euronews.com/2026/11/19/uzmanlar-sorunlu-internet-kullanimi-kuresel-halk-sagligi-sorunu",
   "https://tr.euronews.com/2026/11/19/van-gogh-tablosu-new-yorkta-173-milyon-ya-satildi-nazi-donemi-anlasmazligi-cozuldu",
   "https://tr.euronews.com/2026/11/19/zelenskiy-trumpin-si-ve-putinle-gorusmesine-dair-abdden-bilgi-bekliyor",
+  "https://tr.euronews.com/video/2026/11/19/anthropicin-wall-street-halka-arzi-protestocular-yapay-zeka-balonu-uyarisi",
   "https://tr.euronews.com/video/2026/11/19/lyonda-beaujolais-nouveau-kutlamasi-yeni-hasadin-ilk-siseleri-acildi",
   "https://tr.euronews.com/video/2026/11/19/senzende-apec-zirvesi-trump-putini-arkadasi-diye-tanimladi",
   "https://tr.euronews.com/video/2026/11/19/ukraynada-rus-saldirisi-odesada-dort-olu-en-az-13-yarali",
+  "https://www.bbc.co.uk/news/articles/c804wzp20ddvo",
+  "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+  "https://www.bbc.com/turkce/articles/c5y43w14wzm4o",
+  "https://www.bbc.com/turkce/articles/c620r7vg0e7wo",
+  "https://www.bbc.com/turkce/articles/cj20q4p1g3p7o",
   "https://www.bbc.com/turkce/articles/cjy5xnly66qko",
   "https://www.bbc.com/turkce/articles/ck1wre80j7ggo",
+  "https://www.bbc.com/turkce/articles/ck20re4212ylo",
+  "https://www.bbc.com/turkce/articles/cqdr1xlreey7o",
   "https://www.bbc.com/turkce/articles/cqx28d4p72l4o",
   "https://www.bbc.com/turkce/articles/cr9d75xwg767o",
   "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo",
@@ -163,13 +202,19 @@
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-sahap-kavcioglu-na-yurt-disi-cikis-yasagi-getirildi-2557503",
   "https://www.cumhuriyet.com.tr/turkiye/sopayla-darbedilen-kedi-yogun-bakimda-supheli-gozaltina-alindi-2557710",
   "https://www.cumhuriyet.com.tr/turkiye/sultanbeyli-de-insaatta-toprak-kaymasi-1-isci-gocuk-altinda-kaldi-2557505",
+  "https://www.cumhuriyet.com.tr/turkiye/tip-ten-antalya-buyuksehir-de-pankartli-protesto-hicbir-korkuya-benzemez-halkini-satanin-korkusu-2557726",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-den-bursa-da-siyasi-yasak-protestosu-bizi-cezalarla-korkutamazsiniz-2557717",
   "https://www.cumhuriyet.com.tr/yasam/ayca-varlier-kimdir-ayca-varlier-kac-yasinda-nereli-ayca-varlier-hangi-filmlerde-oynadi-2557512",
   "https://www.cumhuriyet.com.tr/yasam/gta-6-lucia-kim-gta-6-nin-lucia-si-manni-l-perez-kim-2557508",
   "https://www.cumhuriyet.com.tr/yasam/yaz-yorgunlugunu-geride-birakin-kisa-hazirlik-icin-uygulayabileceginiz-10-adim-2557501",
+  "https://www.dw.com/en/humanitarian-mission-for-kostiantynivka-is-it-a-trap/a-79996772",
+  "https://www.dw.com/en/iraq-s-risky-standoff-the-state-vs-iran-allied-militias/a-79995757",
+  "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668",
+  "https://www.dw.com/tr/almanya-3-boyutlu-yazıcıda-ürettiği-silahla-camiye-saldırı-planladı/a-79990421",
   "https://www.dw.com/tr/almanya-başbakanı-merz-ten-abd-rusya-çin-üçlüsüne-yalta-uyarısı-avrupa-nın-bölünmesine-izin-vermeyiz/a-79996998",
   "https://www.dw.com/tr/almanya-da-siber-güvenlik-alarmı-yeni-tehdit-yapay-zeka/a-79993898",
   "https://www.dw.com/tr/almanya-fiyatlar-arttı-milyonlarca-kişi-evini-ısıtamıyor/a-79991013",
+  "https://www.dw.com/tr/araştırma-i̇slam-2035-te-en-büyük-din-olacak/a-79990048",
   "https://www.dw.com/tr/birgün-muhabiri-i̇smail-arı-hakkında-tahliye-ve-beraat-kararı/a-79983666",
   "https://www.dw.com/tr/bm-den-akp-ye-örgütlenme-özgürlüğü-uyarısı-son-derece-endişe-verici/a-79995197",
   "https://www.dw.com/tr/cop31-de-parlamentolardan-fosil-yakıt-çağrısı-rusya-sonuç-belgesine-çekince-koydu/a-79993321",
@@ -220,6 +265,14 @@
   "https://www.faz.net/aktuell/rhein-main/csl-behring-baut-produktion-in-marburg-aus-groesste-einzelinvestition-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/fussball/bayern-frauen-gewinnen-4-0-bei-austria-wien-201700067.html",
   "https://www.faz.net/aktuell/sport/wintersport/wie-es-der-berliner-max-unglaube-ins-deutsche-skisprung-team-geschafft-hat-201694500.html",
+  "https://www.france24.com/en/europe/20261119-macron-urges-ukraine-allies-reopen-question-nato-membership",
+  "https://www.france24.com/en/france/20261119-french-regulator-warns-influential-youtubers-respect-pluralism-rules-election-coverage",
+  "https://www.france24.com/en/kushner-says-trump-open-to-extend-nato-mutual-defense-type-clause-to-ukraine",
+  "https://www.france24.com/en/nasa-voyager-1-phones-home-from-record-one-light-day-away-49-years-after-launch",
+  "https://www.france24.com/en/tv-shows/the-debate/20261119-three-of-a-kind-xi-hosts-trump-and-putin-as-ukraine-war-grinds-on",
+  "https://www.france24.com/en/tv-shows/the-observers/20261119-president-body-bags-photo-ops-sparking-outrage-colombia",
+  "https://www.france24.com/en/we-re-seeing-in-real-time-the-effects-that-ai-is-going-to-have-on-cybersecurity-expert-says",
+  "https://www.france24.com/en/xi-trump-putin-trilateral-meeting-trump-s-recognition-of-china-and-russia-as-peers-of-the-us",
   "https://www.manager-magazin.de/unternehmen/mobilitaet/audi-wie-gernot-doellner-audi-in-den-abgrund-fuehrt-a-1b547e10-9566-4029-8324-9290f44c604a#ref=rss",
   "https://www.spiegel.de/ausland/apec-gipfel-in-shenzhen-china-so-laeuft-der-gipfel-mit-donald-trump-xi-jinping-und-wladimir-putin-a-b4e9137d-42fa-4ff0-9d36-08df392ffbce#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-fuehrt-andy-burnham-sein-land-zurueck-in-die-eu-a-d7a5e0ec-b446-4bb1-bb87-6accdbaed99b#ref=rss",
@@ -261,12 +314,25 @@
   "https://www.tagesschau.de/wirtschaft/unternehmen/anthropic-boersengang-aktie-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+  "https://www.theguardian.com/australia-news/2026/nov/19/guardian-australia-takes-home-two-walkley-awards-for-excellence-in-journalism",
+  "https://www.theguardian.com/australia-news/2026/nov/20/howard-era-minister-sharman-stone-dies-via-voluntary-assisted-dying-aged-75",
+  "https://www.theguardian.com/film/2026/nov/19/welsh-cymraeg-dub-star-wars-cardiff",
+  "https://www.theguardian.com/games/2026/nov/19/grand-theft-auto-six-fans-skip-work-pull-all-nighters",
+  "https://www.theguardian.com/news/2026/nov/19/prison-authorities-consider-russell-brand-youtube-message-rules-victim-distress",
+  "https://www.theguardian.com/uk-news/2026/nov/19/man-arrested-horrific-knife-attack-bradford-councillor-ibrar-ali",
+  "https://www.theguardian.com/us-news/2026/nov/19/judge-t-elliot-gaiser-nomination-fight",
+  "https://www.theguardian.com/us-news/2026/nov/19/nike-croc-train-heist",
+  "https://www.theguardian.com/us-news/2026/nov/19/senate-iran-war-powers-resolution-rejected",
+  "https://www.theguardian.com/us-news/live/2026/nov/19/hakeem-jeffries-us-politics-demicrats-republicans-latest-news-updates",
+  "https://www.theguardian.com/world/2026/nov/19/fiona-hippo-cincinnati-zoo-knit-hat",
+  "https://www.theguardian.com/world/2026/nov/19/uk-eu-reset-talks-andy-burnham-food-farming-tuition-fees",
   "https://www.welt.de/politik/article6aff24dfc1e8003ef73c4c3f/kathrin-wahlmann-kostspielige-auslandsreisen-wahrheitswidrige-auskunft-niedersachsen-ministerin-tritt-zurueck.html",
   "https://www.welt.de/politik/ausland/article6aff3b3ae79e7594eb9b640b/ukraine-das-tut-uns-nicht-weh-claudia-major-nennt-100-milliarden-fuer-kiew-nicht-sehr-viel-geld.html",
   "https://www.welt.de/politik/ausland/plus6aff1826c1e8003ef73c4ad9/nach-gipfel-in-china-trump-ruft-aus-air-force-one-in-berlin-an-aeussert-skepsis-ueber-ukraine-hilfen.html",
   "https://www.welt.de/politik/deutschland/article6aff249ae79e7594eb9b627f/andrea-nahles-arbeitsagentur-chefin-warnt-vor-afd-foerderprogramm-durch-reformen.html",
   "https://www.welt.de/vermischtes/article6aff03a19c68d2fcf0c7d254/clan-kriminalitaet-in-berlin-sie-wollten-einen-tuev-pruefer-erziehen-zwei-brueder-muessen-zusammen-mehr-als-32-jahre-in-haft.html",
   "https://www.welt.de/vermischtes/article6aff57c439a3e8110f0e2f9d/gaby-koester-fuerchtet-zwangsversteigerung-ihres-hauses-ich-weiss-nicht-wie-es-weitergehen-soll.html",
+  "https://www.welt.de/vermischtes/article6aff633239a3e8110f0e3021/frankfurt-richter-verraet-dienstgeheimnisse-an-anwaltsfreund-gericht-verurteilt-ihn-zu-28-800-euro-strafe.html",
   "https://www.welt.de/wirtschaft/article6afec66da3767a11a0be9ee1/videospiel-blockbuster-der-milliarden-fehler-warum-thomas-middelhoff-den-verkauf-von-gta-bis-heute-verteidigt.html",
   "https://www.welt.de/wirtschaft/plus6aff11cfc1e8003ef73c4a34/tarifstreit-mit-dem-messer-in-den-ruecken-jetzt-kocht-bei-volkswagen-die-blanke-wut-hoch.html",
   "https://www.welt.de/wirtschaft/plus6aff3243e79e7594eb9b6390/anthropic-ipo-die-wall-street-erhaelt-ihre-neue-fieberkurve-und-der-erste-tag-ist-schon-eine-warnung.html",
