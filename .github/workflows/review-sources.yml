@@ -1,0 +1,43 @@
+name: Haftalık kaynak denetimi
+
+# Gemini (Google aramasıyla) her ülkenin kaynaklarını denetler: bağımsızlığını yitirenleri çıkarır,
+# bağımsız haber sitelerini ekler (her adres denenir). Haftada bir yapılır; GitHub zamanlanmış işleri
+# atlayabildiği için günde iki kez tetiklenir, betik son denetimden 6,5 gün geçmediyse bir şey yapmaz.
+# Yönetim sayfasındaki "Kaynakları şimdi denetle" düğmesi hemen çalıştırır.
+on:
+  schedule:
+    - cron: "29 8,14 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: review-sources
+  cancel-in-progress: false
+
+jobs:
+  review:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Kaynakları denetle
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/review_sources.py
+
+      - name: Sonucu kaydet
+        run: |
+          git config user.name "haber-masasi-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/data/config.json docs/data/source-review.json
+          git diff --cached --quiet && exit 0
+          git commit -q -m "Haftalık kaynak denetimi $(TZ=Europe/Berlin date '+%F')"
+          for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && exit 0; sleep 7; done
+          exit 1

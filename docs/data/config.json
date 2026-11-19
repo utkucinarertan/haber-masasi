@@ -1,5 +1,6 @@
 {
- "time": "07:00",
+ "time": "06:00",
+ "timezone": "Europe/Berlin",
  "languages": [
   "tr",
   "de"
@@ -11,23 +12,28 @@
    "feeds": [
     {
      "name": "tagesschau",
-     "url": "https://www.tagesschau.de/xml/rss2"
+     "url": "https://www.tagesschau.de/xml/rss2",
+     "use": "both"
     },
     {
      "name": "tagesschau",
-     "url": "https://www.tagesschau.de/inland/index~rss2.xml"
+     "url": "https://www.tagesschau.de/inland/index~rss2.xml",
+     "use": "both"
     },
     {
      "name": "DW Türkçe",
-     "url": "https://rss.dw.com/rdf/rss-tur-all"
+     "url": "https://rss.dw.com/rdf/rss-tur-all",
+     "use": "both"
     },
     {
      "name": "Der Spiegel",
-     "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss"
+     "url": "https://www.spiegel.de/schlagzeilen/tops/index.rss",
+     "use": "both"
     },
     {
      "name": "Der Spiegel Son dakika",
-     "url": "https://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss"
+     "url": "https://www.spiegel.de/schlagzeilen/eilmeldungen/index.rss",
+     "use": "flash"
     }
    ]
   },
@@ -37,21 +43,51 @@
    "feeds": [
     {
      "name": "BBC Türkçe",
-     "url": "https://feeds.bbci.co.uk/turkce/rss.xml"
+     "url": "https://feeds.bbci.co.uk/turkce/rss.xml",
+     "use": "both"
     },
     {
      "name": "DW Türkçe",
-     "url": "https://rss.dw.com/rdf/rss-tur-all"
+     "url": "https://rss.dw.com/rdf/rss-tur-all",
+     "use": "both"
     },
     {
-     "name": "Sozcu",
-     "url": "https://www.sozcu.com.tr/feeds-rss-category-sozcu"
+     "name": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/rss",
+     "use": "both"
     },
     {
-     "name": "Sozcu Son Dakika",
-     "url": "https://www.sozcu.com.tr/feeds-son-dakika"
+     "name": "Medyascope",
+     "url": "https://medyascope.tv/feed/",
+     "use": "daily"
+    },
+    {
+     "name": "Diken",
+     "url": "https://www.diken.com.tr/feed/",
+     "use": "daily"
+    },
+    {
+     "name": "Karar",
+     "url": "https://www.karar.com/service/rss.php",
+     "use": "daily"
+    },
+    {
+     "name": "Cumhuriyet Son Dakika",
+     "url": "https://www.cumhuriyet.com.tr/rss/son_dakika.xml",
+     "use": "flash"
+    },
+    {
+     "name": "Evrensel",
+     "url": "https://www.evrensel.net/rss/haber.xml",
+     "use": "flash"
     }
    ]
+  }
+ ],
+ "blocked": [
+  {
+   "domain": "sozcu.com.tr",
+   "reason": "Kayyum atandı; bağımsız habercilik yapamıyor (yönetici, 19 Kasım 2026)"
   }
  ]
 }

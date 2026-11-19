@@ -39,6 +39,9 @@ main{max-width:860px;margin:0 auto;padding:16px 16px calc(48px + env(safe-area-i
 .card p a,.help a{color:var(--accent);font-weight:600}
 ol.help{margin:0;padding-left:20px;color:var(--muted);font-size:.88rem;display:flex;flex-direction:column;gap:3px}
 label.f{display:flex;flex-direction:column;gap:5px;font-weight:700;font-size:.9rem}
+textarea{padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--field);width:100%;font:inherit;font-weight:400;resize:vertical}
+.hint{font-size:.85rem;color:var(--muted);margin:0}
+#review-last ul{margin:4px 0 0;padding-left:18px}
 input[type=text],input[type=password],input[type=url],select{padding:9px 11px;border:1px solid var(--line);border-radius:9px;background:var(--field);width:100%;min-width:0}
 .row2{display:flex;gap:8px;flex-wrap:wrap;align-items:flex-end}
 .row2 > *{flex:1 1 200px}
@@ -115,9 +118,9 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 <section class="card">
   <h2><span class="n">3</span>Yayın saati ve diller</h2>
   <div class="row2">
-    <label class="f">Her gün baskının hazırlanacağı saat (Türkiye)<select id="cfg-time"></select></label>
+    <label class="f">Baskının her gün en geç hazır olacağı saat (Almanya saati)<select id="cfg-time"></select></label>
   </div>
-  <p>Baskı bu saatten sonraki ilk birkaç dakika içinde hazırlanır.</p>
+  <p>Baskı bu saatten yaklaşık 45 dakika önce hazırlanmaya başlar ve iki ülke de bu saatte hazır olur. Bir ülke başarısız olursa iş birkaç dakika arayla yeniden dener. GitHub'ın gecikmelerinden etkilenmemek için sabah işi gece çalışmaya başlar ve bu saati bekler.</p>
   <div class="f" style="font-weight:700;font-size:.9rem">Diller (kullanıcı bunlardan birini seçer)</div>
   <div class="checks" id="cfg-langs"></div>
 </section>
@@ -134,8 +137,19 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 </section>
 
 <section class="card">
-  <h2><span class="n">5</span>Kaydet ve yayınla</h2>
-  <p>Ayarları kaydedin. Bugünün baskısı henüz yoksa hemen hazırlanır; varsa yeni ayarlar yarın sabahtan geçerli olur. Hemen yeni bir baskı için <b>Şimdi hazırla</b>'ya basın (birkaç dakika sürer).</p>
+  <h2><span class="n">5</span>Bağımsız kaynak denetimi</h2>
+  <p>Haftada bir Gemini, Google'da güncel bilgiyi arayarak her ülkenin kaynaklarını denetler. Bağımsızlığını yitiren kaynakları (kayyum atanan, devlet ya da hükümet denetimine geçen, kapanan) çıkarır, yerine bağımsız haber sitelerini ekler. Önerilen her adres gerçekten denenir. Çalışan bağımsız kaynak yeterli değilse mevcut liste korunur.</p>
+  <label class="f">Kullanılmayacak siteler (her satıra bir alan adı; isterseniz boşluktan sonra neden yazın)
+    <textarea id="cfg-blocked" rows="4" spellcheck="false" placeholder="sozcu.com.tr Kayyum atandı"></textarea></label>
+  <p class="hint">Bu listedeki siteler hem günlük baskıdan hem son dakikadan hemen çıkarılır ve hiçbir zaman geri eklenmez. Denetimin kendi bulduğu sakıncalı siteler de buraya eklenir; yanlışsa silebilirsiniz.</p>
+  <div class="actions"><button class="btn" id="review-now">Kaynakları şimdi denetle</button></div>
+  <div class="msg" id="review-msg"></div>
+  <div id="review-last" class="hint"></div>
+</section>
+
+<section class="card">
+  <h2><span class="n">6</span>Kaydet ve yayınla</h2>
+  <p>Ayarları kaydedin. Yeni ayarlar son dakikada hemen, günlük baskıda ertesi sabah geçerli olur. Bugünün baskısını yeni ayarlarla hemen yenilemek için <b>Şimdi hazırla</b>'ya basın (birkaç dakika sürer).</p>
   <div class="actions"><button class="btn primary" id="cfg-save">Ayarları kaydet</button><button class="btn" id="run-now">Şimdi hazırla</button></div>
   <div class="msg" id="cfg-msg"></div>
   <div style="font-weight:700;font-size:.9rem">Son çalıştırmalar</div>
@@ -261,7 +275,7 @@ $("#gem-save").onclick = async () => {
 };
 
 /* ---------- 3-4. Ayarlar ---------- */
-let cfg = {time:"07:00", languages:["tr"], countries:[]}, cfgSha = null;
+let cfg = {time:"06:00", timezone:"Europe/Berlin", languages:["tr"], countries:[], blocked:[]}, cfgSha = null;
 const timeSel = $("#cfg-time");
 for (let h = 0; h < 24; h++){ const v = String(h).padStart(2, "0") + ":00"; const o = el("option", null, v); o.value = v; timeSel.append(o); }
 
@@ -269,9 +283,11 @@ async function loadConfig(){
   const f = await gh(`repos/${REPO}/contents/docs/data/config.json?ref=main`, {allow404:true});
   if (f){ cfg = JSON.parse(unb64(f.content)); cfgSha = f.sha; }
   renderConfig();
+  loadReview();
 }
 function renderConfig(){
-  timeSel.value = cfg.time && /^\d\d:00$/.test(cfg.time) ? cfg.time : "07:00";
+  timeSel.value = cfg.time && /^\d\d:00$/.test(cfg.time) ? cfg.time : "06:00";
+  $("#cfg-blocked").value = (cfg.blocked || []).map(b => b.domain + (b.reason ? " " + b.reason : "")).join("\n");
   $("#cfg-langs").replaceChildren(...Object.entries(LANGS).map(([code, name]) => {
     const l = el("label"); const c = el("input"); c.type = "checkbox"; c.value = code; c.checked = cfg.languages.includes(code);
     l.append(c, document.createTextNode(name)); return l;
@@ -368,7 +384,16 @@ function readConfig(){
     countries.push({code, name:nameEN.of(code.toUpperCase()), feeds});
   }
   if (!countries.length) throw new Error("En az bir ülke ekleyin.");
-  return {time:timeSel.value, languages, countries};
+  const blocked = [];
+  for (const line of $("#cfg-blocked").value.split("\n")){
+    const [raw, ...why] = line.trim().split(/\s+/);
+    if (!raw) continue;
+    const domain = raw.replace(/^https?:\/\//, "").replace(/^www\./, "").replace(/\/.*$/, "").toLowerCase();
+    if (!/^[a-z0-9.-]+\.[a-z]{2,}$/.test(domain)) throw new Error(`Kullanılmayacak siteler: "${raw}" geçerli bir alan adı değil (ör. sozcu.com.tr).`);
+    if (!blocked.some(b => b.domain === domain)) blocked.push({domain, reason:why.join(" ")});
+  }
+  // denetimin tarihi gibi bu formda olmayan alanlar korunur
+  return {...cfg, time:timeSel.value, timezone:cfg.timezone || "Europe/Berlin", languages, countries, blocked};
 }
 
 $("#cfg-save").onclick = async () => {
@@ -393,13 +418,13 @@ const RESULT = {success:["ok","başarılı"], failure:["err","başarısız"], ca
 let pollTimer;
 async function loadRuns(){
   try {
-    const data = await gh(`repos/${REPO}/actions/workflows/${WORKFLOW}/runs?per_page=6`);
-    const runs = (data.workflow_runs || []).filter(r => r.event !== "schedule" || r.conclusion !== "success" || true);
+    const data = await gh(`repos/${REPO}/actions/runs?per_page=20`);
+    const runs = (data.workflow_runs || []).filter(r => !/^pages/i.test(r.name)).slice(0, 8);
     $("#runs").replaceChildren(...(runs.length ? runs : [null]).map(r => {
       const li = el("li");
       if (!r){ li.textContent = "Henüz çalıştırma yok."; return li; }
       const [cls, txt] = r.status === "completed" ? (RESULT[r.conclusion] || ["", r.conclusion]) : ["", STATUS[r.status] || r.status];
-      const how = {schedule:"saatlik kontrol", workflow_dispatch:"Şimdi hazırla", push:"ayar/kod değişikliği"}[r.event] || r.event;
+      const how = r.name + " · " + ({schedule:"zamanlanmış", workflow_dispatch:"elle / zincir", push:"ayar/kod değişikliği"}[r.event] || r.event);
       const a = el("a", null, "ayrıntı"); a.href = r.html_url; a.target = "_blank"; a.rel = "noopener";
       li.append(el("span", "pill " + cls, txt), document.createTextNode(`${new Date(r.created_at).toLocaleString("tr-TR", {day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"})} · ${how} · `), a);
       return li;
@@ -418,10 +443,40 @@ $("#run-now").onclick = async () => {
   finally { setTimeout(() => btn.disabled = false, 5000); }
 };
 
+/* ---------- 5. Kaynak denetimi ---------- */
+async function loadReview(){
+  const box = $("#review-last");
+  try {
+    const r = await fetch("data/source-review.json?t=" + Date.now());
+    if (!r.ok){ box.textContent = "Henüz denetim yapılmadı."; return; }
+    const rev = await r.json();
+    const when = new Date(rev.reviewedAt).toLocaleString("tr-TR", {day:"numeric", month:"long", hour:"2-digit", minute:"2-digit"});
+    const ul = el("ul");
+    for (const c of rev.countries || []){
+      const name = nameTR.of(c.code.toUpperCase());
+      if (c.error){ ul.append(el("li", null, `${name}: denetlenemedi (${c.error})`)); continue; }
+      const parts = [];
+      if (c.added?.length) parts.push("eklendi: " + c.added.map(f => f.name).join(", "));
+      if (c.removed?.length) parts.push("çıkarıldı: " + c.removed.map(f => `${f.name} (${f.reason})`).join(", "));
+      ul.append(el("li", null, `${name}: ${parts.join("; ") || "değişiklik yok"}`));
+    }
+    box.replaceChildren(document.createTextNode(`Son denetim: ${when}`), ul);
+  } catch { box.textContent = ""; }
+}
+$("#review-now").onclick = async () => {
+  const btn = $("#review-now"); btn.disabled = true;
+  try {
+    await gh(`repos/${REPO}/actions/workflows/review-sources.yml/dispatches`, {method:"POST", body:JSON.stringify({ref:"main"})});
+    say("#review-msg", "ok", "Denetim başladı (birkaç dakika sürer). Bitince sayfayı yenileyin; değişen kaynaklar ve gerekçeleri burada görünür. Önce kaydedilmemiş değişikliklerinizi kaydedin.");
+    setTimeout(loadRuns, 4000);
+  } catch (e){ say("#review-msg", "err", e.message); }
+  finally { setTimeout(() => btn.disabled = false, 8000); }
+};
+
 if (token){ $("#gh-forget").hidden = false; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)"; connect(); }
 else {
   // Bağlanmadan önce de mevcut ayarları göster
-  fetch("data/config.json?t=" + Date.now()).then(r => r.json()).then(c => { cfg = c; renderConfig(); }).catch(() => {});
+  fetch("data/config.json?t=" + Date.now()).then(r => r.json()).then(c => { cfg = c; renderConfig(); loadReview(); }).catch(() => {});
 }
 </script>
 </body>

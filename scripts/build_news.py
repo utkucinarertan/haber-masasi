@@ -4,15 +4,19 @@ docs/data/config.json'daki ülkeler ve kaynaklardan son haberleri çeker, her ü
 ücretsiz Google Gemini ile seçilen dillerde özet ve değerlendirme yazar, her dil için
 docs/data/editions/YYYY-MM-DD/<dil>.json dosyasını üretir.
 
-Son dakika: her saatlik çalıştırmada kaynaklardaki yeni haberler tek cümlelik özetlerle
-docs/data/flash.json dosyasına eklenir. Liste her gün baskı saatinde (07:00) sıfırlanır.
+Baskı saati (config.json → time + timezone; varsayılan 06:00 Europe/Berlin), baskının en geç
+hazır olacağı saattir. Sabah işi (morning-edition.yml) BUILD_LEAD kadar önce üretmeye başlar ve
+eksik kalan ülkeyi süre dolana kadar yeniden dener. Saatlik iş, bu saat geçtikten sonra hâlâ
+eksik ülke varsa onu tamamlar (yedek).
 
-Ayarları yönetici docs/admin.html sayfasından değiştirir. GitHub Actions saatte bir
-çalıştırır; betik yalnızca ayarlanan saatte (Türkiye saati) baskı üretir.
+Son dakika: her saatlik çalıştırmada kaynaklardaki yeni haberler tek cümlelik özetlerle
+docs/data/flash.json dosyasına eklenir. Liste her gün baskı üretimi başladığında sıfırlanır.
 
 Çalıştırma:
-  GEMINI_API_KEY=... python scripts/build_news.py           # saati gelmişse üret
-  GEMINI_API_KEY=... python scripts/build_news.py --force   # saate bakmadan hemen üret
+  GEMINI_API_KEY=... python scripts/build_news.py           # yedek: saat geçtiyse eksik ülkeleri tamamla + son dakika
+  GEMINI_API_KEY=... python scripts/build_news.py --force   # saate bakmadan tüm ülkeleri hemen üret
+  GEMINI_API_KEY=... python scripts/build_news.py --morning --no-flash  # sabah işi (yeniden denemeli)
+  python scripts/build_news.py --wait                       # sabah işi: üretim saatine kadar bekle
   GEMINI_API_KEY=... python scripts/build_news.py --flash-only  # yalnızca son dakika
   python scripts/build_news.py --migrate                    # eski tek dilli baskıları yeni biçime çevir
 """
@@ -21,6 +25,7 @@ import json
 import os
 import re
 import shutil
+import subprocess
 import sys
 import time
 import urllib.error
@@ -29,6 +34,7 @@ import xml.etree.ElementTree as ET
 from datetime import datetime, timedelta, timezone
 from email.utils import parsedate_to_datetime
 from pathlib import Path
+from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
 DATA = ROOT / "docs" / "data"
@@ -36,6 +42,12 @@ EDITIONS = DATA / "editions"
 CONFIG = DATA / "config.json"
 KEEP_DAYS = 30
 TR_TZ = timezone(timedelta(hours=3))
+DEFAULT_TZ = "Europe/Berlin"
+BUILD_LEAD = timedelta(minutes=45)        # baskı, hazır olma saatinden bu kadar önce üretilmeye başlar
+MORNING_RETRY_UNTIL = timedelta(hours=2)  # sabah işi hazır olma saatinden sonra da bu kadar yeniden dener
+CATCHUP_AFTER = timedelta(minutes=20)     # saatlik iş eksik ülkeyi ancak bu gecikmeden sonra tamamlar
+MAX_WAIT = timedelta(hours=5, minutes=30) # GitHub işleri en fazla 6 saat sürebilir
+MIN_ITEMS = 3
 MAX_INPUT_ITEMS = 60
 FLASH = DATA / "flash.json"
 FLASH_MAX_NEW = 25        # bir saatte Gemini'ye gönderilecek en fazla yeni haber (ülke başına)
@@ -110,9 +122,9 @@ def feed_use(feed):
 
 def collect(country, cache, since, purpose="daily"):
     items, failed = [], []
-    for feed in country.get("feeds", []):
-        if feed_use(feed) not in (purpose, "both"):
-            continue
+    feeds = [f for f in country.get("feeds", []) if feed_use(f) in (purpose, "both")]
+    per_feed = max(8, MAX_INPUT_ITEMS // max(1, len(feeds)))   # çok sık yayın yapan akış diğerlerini ezmesin
+    for feed in feeds:
         key = feed["url"]
         if key not in cache:
             try:
@@ -123,7 +135,7 @@ def collect(country, cache, since, purpose="daily"):
         if cache[key] is None:
             failed.append(feed.get("name") or key)
         else:
-            items += cache[key]
+            items += sorted(cache[key], key=lambda x: x["time"], reverse=True)[:per_feed]
     seen, unique = set(), []
     for it in sorted(items, key=lambda x: x["time"], reverse=True):
         if it["url"] not in seen:
@@ -166,7 +178,7 @@ Languages (use the language codes as JSON keys):
 {lang_lines}"""
 
 
-def gemini(system, user, schema):
+def gemini(system, user, schema, search=False):
     key = os.environ.get("GEMINI_API_KEY", "").strip()
     if not key:
         raise SystemExit("GEMINI_API_KEY tanımlı değil. Yönetim sayfasından Gemini anahtarını kaydedin.")
@@ -174,6 +186,8 @@ def gemini(system, user, schema):
             "contents": [{"role": "user", "parts": [{"text": user}]}],
             "generationConfig": {"responseMimeType": "application/json", "responseJsonSchema": schema,
                                  "temperature": 0.4, "maxOutputTokens": 32000}}
+    if search:   # cevap vermeden önce Google'da arasın (güncel bilgi gereken işler için)
+        body["tools"] = [{"google_search": {}}]
     last = None
     for model in GEMINI_MODELS:
         for attempt in range(3):
@@ -190,6 +204,9 @@ def gemini(system, user, schema):
                 log("  " + last)
                 if e.code in (400, 401, 403) and "API key" in detail:
                     raise SystemExit("GEMINI_API_KEY geçersiz. Yönetim sayfasından yeniden kaydedin.")
+                if e.code == 400 and body.pop("tools", None):
+                    log("  Google araması yapılandırılmış çıktıyla birlikte kullanılamadı; aramasız deneniyor.")
+                    continue
                 if e.code in (429, 500, 503) and attempt < 2:
                     time.sleep(30 * (attempt + 1))
                     continue
@@ -260,10 +277,23 @@ Languages (use the codes as JSON keys):
 {lang_lines}"""
 
 
+def zone(cfg):
+    return ZoneInfo(cfg.get("timezone") or DEFAULT_TZ)
+
+
+def ready_at(cfg, day):
+    """O günün baskısının en geç hazır olacağı an (yerel saat)."""
+    hour = int(str(cfg.get("time", "06:00")).split(":")[0])
+    return datetime(day.year, day.month, day.day, hour, tzinfo=zone(cfg))
+
+
+def build_start(cfg, day):
+    return ready_at(cfg, day) - BUILD_LEAD
+
+
 def flash_window(cfg, now):
-    hour = int(str(cfg.get("time", "07:00")).split(":")[0])
-    start = now.replace(hour=hour, minute=0, second=0, microsecond=0)
-    return start if now >= start else start - timedelta(days=1)
+    start = build_start(cfg, now.date())
+    return start if now >= start else build_start(cfg, now.date() - timedelta(days=1))
 
 
 def update_flash(cfg, now, langs):
@@ -337,14 +367,36 @@ def write_index():
                                      encoding="utf-8")
 
 
-def write_editions(date, updated_at, langs, results):
+def edition_codes(date, lang):
+    try:
+        data = json.loads((EDITIONS / date / f"{lang}.json").read_text(encoding="utf-8"))
+        return {c["code"] for c in data.get("countries", [])}
+    except (OSError, ValueError, KeyError):
+        return set()
+
+
+def missing_countries(cfg, langs, date):
+    """O günün baskısında henüz olmayan (ya da bir dilde eksik kalan) ülke kodları, ayardaki sırayla."""
+    have = [edition_codes(date, l) for l in langs]
+    return [c["code"] for c in cfg.get("countries", []) if not all(c["code"] in h for h in have)]
+
+
+def write_editions(date, updated_at, langs, results, order):
+    """results: [(kod, özet)]. Aynı günün önceki dosyasındaki diğer ülkeler korunur (eksik ülke tamamlama)."""
     day = EDITIONS / date
     day.mkdir(parents=True, exist_ok=True)
     for l in langs:
-        countries = [{"code": code, "overview": r["overview"][l],
-                      "items": [{**s["text"][l], "importance": s["importance"], "source": s["source"],
-                                 "url": s["url"], "time": s["time"]} for s in r["stories"]]}
-                     for code, r in results]
+        merged = {}
+        try:
+            old = json.loads((day / f"{l}.json").read_text(encoding="utf-8"))
+            merged = {c["code"]: c for c in old.get("countries", []) if c.get("code") in order}
+        except (OSError, ValueError):
+            pass
+        for code, r in results:
+            merged[code] = {"code": code, "overview": r["overview"][l],
+                            "items": [{**s["text"][l], "importance": s["importance"], "source": s["source"],
+                                       "url": s["url"], "time": s["time"]} for s in r["stories"]]}
+        countries = [merged[c] for c in order if c in merged]
         (day / f"{l}.json").write_text(json.dumps(
             {"date": date, "updatedAt": updated_at, "lang": l, "countries": countries},
             ensure_ascii=False, indent=1), encoding="utf-8")
@@ -371,47 +423,147 @@ def migrate():
 
 # ---------- Ana akış ----------
 
-def is_due(cfg, now):
-    if "--force" in sys.argv or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch":
-        return True
-    hour = int(str(cfg.get("time", "07:00")).split(":")[0])
-    if now.hour < hour:   # GitHub zamanlaması gecikirse sonraki saatlerde yakalanır
-        log(f"Baskı saati {hour:02d}:00 (şu an {now:%H:%M}); bu çalıştırmada bir şey yapılmadı.")
-        return False
-    if (EDITIONS / now.date().isoformat()).is_dir():
-        log("Bugünün baskısı zaten hazır.")
-        return False
-    return True
+def forced():
+    return "--force" in sys.argv or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
 
 
-def build_edition(cfg, now, langs):
+def is_due(cfg, now, langs):
+    """Saatlik iş: baskıyı sabah işi hazırlar. Saat geçtiği hâlde eksik ülke varsa burada tamamlanır (yedek)."""
+    if forced():
+        return [c["code"] for c in cfg.get("countries", [])]
+    if now < ready_at(cfg, now.date()) + CATCHUP_AFTER:
+        log(f"Baskıyı sabah işi hazırlar ({cfg.get('time', '06:00')}, {zone(cfg).key}); şu an {now:%H:%M}.")
+        return []
+    if os.environ.get("MORNING_RUNNING") == "1" and now < ready_at(cfg, now.date()) + MORNING_RETRY_UNTIL:
+        log("Sabah işi hâlâ çalışıyor; eksik ülkeleri o tamamlayacak.")
+        return []
+    missing = missing_countries(cfg, langs, now.date().isoformat())
+    log(f"Bugünün baskısında eksik ülke var, tamamlanıyor: {', '.join(missing)}" if missing
+        else "Bugünün baskısı tam.")
+    return missing
+
+
+def build_edition(cfg, now, langs, only):
+    """only: üretilecek ülke kodları. Başarılı ülkeler o günün baskısına eklenir; tamamlanamayanları döndürür."""
     since = now - timedelta(hours=30)
     cache, results, problems = {}, [], []
-    for i, country in enumerate(cfg.get("countries", [])):
+    countries = [c for c in cfg.get("countries", []) if c["code"] in only]
+    for i, country in enumerate(countries):
         log(f"{country.get('name', country['code'])}:")
         items, failed = collect(country, cache, since)
         if failed:
             problems.append(f"{country['code']}: alınamayan kaynak {', '.join(failed)}")
-        if len(items) < 5:
+        if len(items) < MIN_ITEMS:
             problems.append(f"{country['code']}: yeterli haber yok ({len(items)})")
             log(f"  yeterli haber yok ({len(items)})")
             continue
-        if i:
-            time.sleep(8)   # ücretsiz katmanın dakikalık sınırına takılmamak için
-        try:
-            r = summarize(country, items, langs)
-        except RuntimeError as e:
-            problems.append(f"{country['code']}: {e}")
-            log(f"  özet alınamadı: {e}")
-            continue
-        results.append((country["code"], r))
-        log(f"  {len(items)} haberden {len(r['stories'])} seçildi")
-    if not results:
-        raise SystemExit("Hiçbir ülke için baskı üretilemedi. " + "; ".join(problems))
-    write_editions(now.date().isoformat(), now.isoformat(timespec="minutes"), langs, results)
-    log(f"{now.date()} baskısı hazır: {len(results)} ülke, diller: {', '.join(langs)}")
+        r = None
+        for attempt in range(2):
+            if i or attempt:
+                time.sleep(40 if attempt else 8)   # ücretsiz katmanın dakikalık sınırı
+            try:
+                r = summarize(country, items, langs)
+                break
+            except RuntimeError as e:
+                log(f"  özet alınamadı ({attempt + 1}. deneme): {e}")
+                if attempt:
+                    problems.append(f"{country['code']}: {e}")
+        if r:
+            results.append((country["code"], r))
+            log(f"  {len(items)} haberden {len(r['stories'])} seçildi")
+    if results:
+        write_editions(now.date().isoformat(), now.isoformat(timespec="minutes"), langs, results,
+                       order=[c["code"] for c in cfg.get("countries", [])])
+        log(f"{now.date()} baskısı: {', '.join(c for c, _ in results)} yazıldı (diller: {', '.join(langs)})")
     for p in problems:
         log("Uyarı: " + p)
+    done = {code for code, _ in results}
+    return [c["code"] for c in countries if c["code"] not in done]
+
+
+def publish(message):
+    """GitHub Actions'ta hazır olan ülkeleri hemen yayına alır (diğer ülke yeniden denenirken beklemesin)."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    git = lambda *a: subprocess.run(["git", *a], cwd=ROOT, check=False, capture_output=True, text=True)
+    git("config", "user.name", "haber-masasi-bot")
+    git("config", "user.email", "41898282+github-actions[bot]@users.noreply.github.com")
+    git("add", "-A", "docs/data")
+    if git("diff", "--cached", "--quiet").returncode == 0:
+        return
+    git("commit", "-q", "-m", message)
+    for _ in range(5):
+        if git("pull", "-q", "--rebase").returncode == 0 and git("push", "-q").returncode == 0:
+            log("Yayına alındı.")
+            return
+        time.sleep(7)
+    log("Uyarı: yayına alınamadı (git push); iş sonunda yeniden denenecek.")
+
+
+def gh_output(**kv):
+    lines = "".join(f"{k}={v}\n" for k, v in kv.items())
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as f:
+            f.write(lines)
+    log(lines.strip())
+
+
+def wait_for_morning(cfg, langs):
+    """Sabah işinin ilk adımı: üretim saatine kadar uyur.
+
+    GitHub zamanlanmış işleri saatlerce geciktirebilir; bu yüzden gece herhangi bir çalıştırma
+    gelince iş üretim saatine kadar bekler. Saat çok uzaksa bir süre uyur ve kendini yeniden
+    başlatır (workflow_dispatch zamanlamadan bağımsız, hemen çalışır)."""
+    now = datetime.now(zone(cfg))
+    day = now.date()
+    if now >= build_start(cfg, day):
+        if missing_countries(cfg, langs, day.isoformat()) and now < ready_at(cfg, day) + MORNING_RETRY_UNTIL:
+            return gh_output(go="true")
+        day += timedelta(days=1)
+    target = build_start(cfg, day)
+    wait = target - now
+    if wait <= MAX_WAIT:
+        log(f"Üretim saati {target:%Y-%m-%d %H:%M %Z}; {wait} bekleniyor.")
+        time.sleep(max(0.0, wait.total_seconds()))
+        return gh_output(go="true")
+    if wait <= MAX_WAIT * 2:
+        nap = wait - MAX_WAIT + timedelta(minutes=10)
+        log(f"Üretim saatine {wait} var; {nap} uyuyup sabah işi yeniden başlatılacak.")
+        time.sleep(nap.total_seconds())
+        return gh_output(chain="true")
+    log(f"Üretim saatine {wait} var; akşam/gece çalıştırmalarından biri devralacak.")
+    return gh_output(go="false")
+
+
+def morning(cfg, langs):
+    """Sabah işi: bugünün baskısında eksik ülke kalmayana ya da süre dolana kadar dener."""
+    while True:
+        now = datetime.now(zone(cfg))
+        missing = missing_countries(cfg, langs, now.date().isoformat())
+        if not missing:
+            log("Bugünün baskısı tam.")
+            return
+        if now >= ready_at(cfg, now.date()) + MORNING_RETRY_UNTIL:
+            raise SystemExit(f"Süre doldu, eksik ülke kaldı: {', '.join(missing)}")
+        left = build_edition(cfg, now, langs, missing)
+        if len(left) < len(missing):
+            publish(f"Sabah baskısı {now:%F %H:%M} ({zone(cfg).key})")
+        if left:
+            log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
+            time.sleep(180)
+
+
+def without_blocked(cfg):
+    """Yöneticinin "kullanılmayacak siteler" listesindeki alan adlarının akışlarını hiç kullanma."""
+    blocked = [str(b.get("domain", "")).lower().removeprefix("www.") for b in cfg.get("blocked", [])]
+    blocked = [b for b in blocked if b]
+    def ok(url):
+        host = re.sub(r"^https?://", "", url).split("/")[0].split(":")[0].lower().removeprefix("www.")
+        return not any(host == b or host.endswith("." + b) for b in blocked)
+    for c in cfg.get("countries", []):
+        c["feeds"] = [f for f in c.get("feeds", []) if ok(f.get("url", ""))]
+    return cfg
 
 
 def main():
@@ -419,17 +571,28 @@ def main():
     if "--migrate" in sys.argv:
         migrate()
         return
-    cfg = json.loads(CONFIG.read_text(encoding="utf-8"))
-    now = datetime.now(TR_TZ)
+    cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
     langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
-    if "--flash-only" not in sys.argv and is_due(cfg, now):
-        build_edition(cfg, now, langs)
-        time.sleep(8)
+    if "--wait" in sys.argv:
+        wait_for_morning(cfg, langs)
+        return
+    if "--morning" in sys.argv:
+        morning(cfg, langs)
+    elif "--flash-only" not in sys.argv:
+        now = datetime.now(zone(cfg))
+        due = is_due(cfg, now, langs)
+        if due:
+            left = build_edition(cfg, now, langs, due)
+            if left and len(left) == len(due) and forced():
+                raise SystemExit("Hiçbir ülke için baskı üretilemedi.")
+            if left:
+                log(f"Uyarı: tamamlanamayan ülke: {', '.join(left)}; sonraki çalıştırmada yeniden denenecek.")
+            time.sleep(8)
     if "--no-flash" in sys.argv:
         return
     try:
-        update_flash(cfg, now, langs)
-    except RuntimeError as e:   # son dakika alınamazsa bir sonraki saat yeniden denenir
+        update_flash(cfg, datetime.now(zone(cfg)), langs)
+    except RuntimeError as e:   # son dakika alınamazsa bir sonraki çalıştırmada yeniden denenir
         log(f"Uyarı: son dakika güncellenemedi: {e}")
 
 

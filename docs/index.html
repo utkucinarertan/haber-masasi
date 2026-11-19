@@ -173,7 +173,7 @@ const T = {
       edition:"Baskı", countries:"Ülkeler", loading:"Haberler yükleniyor", loadingText:"Günün baskısı birkaç saniye içinde burada görünecek.",
       offline:"Haberlere ulaşılamıyor", offlineText:"İnternet bağlantınızı kontrol edip Yenile'ye basın.",
       offlineKeep:"İnternete bağlanılamadı; son indirilen baskı gösteriliyor.", none:"Henüz baskı yok",
-      noneText:time => `İlk baskı her sabah ${time}'de hazırlanır.`, notToday:time => `Bugünün baskısı henüz hazır değil; her sabah ${time}'de hazırlanır.`,
+      noneText:time => `İlk baskı her sabah hazırlanır (Almanya saatiyle ${time}).`, notToday:time => `Bugünün baskısı henüz hazır değil; her sabah hazırlanır (Almanya saatiyle ${time}).`,
       latest:"En son baskı yüklendi.", already:"Zaten en son baskıyı okuyorsunuz.", failed:"Bu baskı açılamadı",
       failedText:"Bağlantınızı kontrol edin ya da başka bir gün seçin.", pick:"Haberlerini görmek istediğiniz ülkeleri yukarıdan seçin.",
       onlyLang:l => `Bu gün için haberler yalnızca ${l} olarak mevcut.`, noCountry:"Bu ülke için bu gün haber hazırlanmadı.",
@@ -186,7 +186,7 @@ const T = {
       edition:"Edition", countries:"Countries", loading:"Loading the news", loadingText:"Today's edition will appear here in a few seconds.",
       offline:"Can't reach the news", offlineText:"Check your internet connection and tap Refresh.",
       offlineKeep:"No connection; showing the last downloaded edition.", none:"No editions yet",
-      noneText:time => `The first edition is prepared every morning at ${time}.`, notToday:time => `Today's edition isn't ready yet; it is prepared every morning at ${time}.`,
+      noneText:time => `The first edition is ready every morning by ${time} (German time).`, notToday:time => `Today's edition isn't ready yet; it is ready every morning by ${time} (German time).`,
       latest:"Latest edition loaded.", already:"You are already reading the latest edition.", failed:"This edition couldn't be opened",
       failedText:"Check your connection or pick another day.", pick:"Choose the countries you want to follow above.",
       onlyLang:l => `For this day the news is only available in ${l}.`, noCountry:"No stories were prepared for this country on this day.",
@@ -199,7 +199,7 @@ const T = {
       edition:"Ausgabe", countries:"Länder", loading:"Nachrichten werden geladen", loadingText:"Die heutige Ausgabe erscheint in wenigen Sekunden.",
       offline:"Nachrichten nicht erreichbar", offlineText:"Prüfen Sie Ihre Internetverbindung und tippen Sie auf Aktualisieren.",
       offlineKeep:"Keine Verbindung; die zuletzt geladene Ausgabe wird angezeigt.", none:"Noch keine Ausgabe",
-      noneText:time => `Die erste Ausgabe wird jeden Morgen um ${time} Uhr erstellt.`, notToday:time => `Die heutige Ausgabe ist noch nicht fertig; sie wird jeden Morgen um ${time} Uhr erstellt.`,
+      noneText:time => `Die erste Ausgabe ist jeden Morgen bis ${time} Uhr fertig.`, notToday:time => `Die heutige Ausgabe ist noch nicht fertig; sie ist jeden Morgen bis ${time} Uhr fertig.`,
       latest:"Neueste Ausgabe geladen.", already:"Sie lesen bereits die neueste Ausgabe.", failed:"Diese Ausgabe konnte nicht geöffnet werden",
       failedText:"Prüfen Sie die Verbindung oder wählen Sie einen anderen Tag.", pick:"Wählen Sie oben die Länder, die Sie verfolgen möchten.",
       onlyLang:l => `Für diesen Tag gibt es die Nachrichten nur auf ${l}.`, noCountry:"Für dieses Land wurden an diesem Tag keine Meldungen erstellt.",
@@ -210,7 +210,7 @@ const T = {
 };
 const NATIVE = {tr:"Türkçe", en:"English", de:"Deutsch"};
 const LANG_IN = {tr:{tr:"Türkçe",en:"İngilizce",de:"Almanca"}, en:{tr:"Turkish",en:"English",de:"German"}, de:{tr:"Türkisch",en:"Englisch",de:"Deutsch"}};
-const TZ = "Europe/Istanbul";
+const TZ = () => config.timezone || "Europe/Berlin";   // baskı günü bu saat dilimine göre
 const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
 const store = {
@@ -218,7 +218,7 @@ const store = {
   set(k, v){ try { localStorage.setItem(k, JSON.stringify(v)); } catch {} },
 };
 
-let config = {time:"07:00", languages:["tr"], countries:[]};
+let config = {time:"06:00", timezone:"Europe/Berlin", languages:["tr"], countries:[]};
 let index = [], current = null, loading = false, flash = null;
 const FLASH_SHOW = 5;   // ülke başına en fazla 5 son dakika maddesi (en yeniler)
 let lang = store.get("lang", null);
@@ -226,10 +226,10 @@ let picked = store.get("countries", null);
 const t = () => T[lang] || T.tr;
 const countryName = code => { try { return new Intl.DisplayNames([lang], {type:"region"}).of(code.toUpperCase()); } catch { return code.toUpperCase(); } };
 const flag = code => { const i = el("img", "flag"); i.alt = ""; i.loading = "lazy"; i.src = `https://flagcdn.com/${code.toLowerCase()}.svg`; return i; };
-const todayTR = () => new Intl.DateTimeFormat("en-CA", {timeZone:TZ, year:"numeric", month:"2-digit", day:"2-digit"}).format(new Date());
+const todayTR = () => new Intl.DateTimeFormat("en-CA", {timeZone:TZ(), year:"numeric", month:"2-digit", day:"2-digit"}).format(new Date());
 const fmtDate = iso => new Date(iso + "T12:00:00").toLocaleDateString(t().locale, {weekday:"long", day:"numeric", month:"long", year:"numeric"});
-const fmtClock = iso => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleTimeString(t().locale, {timeZone:TZ, hour:"2-digit", minute:"2-digit"}); };
-const fmtTime = iso => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleString(t().locale, {timeZone:TZ, day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"}); };
+const fmtClock = iso => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleTimeString(t().locale, {hour:"2-digit", minute:"2-digit"}); };
+const fmtTime = iso => { const d = new Date(iso); return isNaN(d) ? "" : d.toLocaleString(t().locale, {day:"numeric", month:"short", hour:"2-digit", minute:"2-digit"}); };
 
 let statusTimer;
 function showStatus(kind, text, hideAfter){
