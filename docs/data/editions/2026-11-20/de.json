@@ -1,0 +1,643 @@
+{
+ "date": "2026-11-20",
+ "updatedAt": "2026-11-20T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "overview": "Deutschland steht an der Schnittstelle tiefgreifender sicherheitspolitischer und wirtschaftlicher Herausforderungen. Während Bundeskanzler Friedrich Merz auf dem Berliner Gipfel der Ukraine-Unterstützer klarstellte, dass ein Frieden nicht über die Köpfe Europas hinweg verhandelt werden darf, vertieft Berlin zugleich seine Verteidigungskooperation mit Polen. Innenpolitisch verschärfen sich die Spannungen in der Industrie drastisch durch die 24-Stunden-Warnstreiks der IG Metall, den Stellenabbau bei der Lufthansa und harte Sparforderungen von Volkswagen. Parallel dazu mahnt das BSI angesichts KI-gestützter Cyberangriffe zu erhöhter Wachsamkeit bei der digitalen Infrastruktur.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Kanzler Merz fordert auf Berliner Ukraine-Gipfel Verhandlungen mit europäischer Beteiligung",
+     "summary": "Nach einem Treffen der 'Koalition der Willigen' in Berlin hat Bundeskanzler Friedrich Merz den russischen Präsidenten Wladimir Putin aufgefordert, die Waffen niederzulegen. Merz betonte, ein dauerhafter Frieden könne nur unter Einbindung Europas verhandelt werden; eine Aufteilung über die Köpfe der Europäer hinweg werde man nicht akzeptieren. Die Teilnehmerstaaten sicherten der Ukraine ihre anhaltende Unterstützung zu.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/gipfel-koalition-willige-ukraine-100.html",
+     "time": "2026-11-19T20:22:45+01:00"
+    },
+    {
+     "title": "Pistorius will Verteidigungskooperation mit Polen ausbauen",
+     "summary": "Bundesverteidigungsminister Boris Pistorius strebt eine deutliche Intensivierung der militärischen Zusammenarbeit mit Polen an. Vorgesehen sind unter anderem gemeinsame Verteidigungsstellungen der Streitkräfte sowie der Einsatz von Patriot-Systemen und Eurofighter-Jets. Die bilaterale Kooperation soll trotz historischer Belastungen strategisch gefestigt werden.",
+     "category": "Verteidigung",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/polen-deutschland-militaer-100.html",
+     "time": "2026-11-20T04:53:04+01:00"
+    },
+    {
+     "title": "Bundesweite Jugendproteste in Dutzenden deutschen Städten",
+     "summary": "In zahlreichen deutschen Städten finden koordinierte Demonstrationen von Jugendorganisationen statt. Aufgerufen haben unter anderem die Bundesschülerkonferenz, 'Schulstreik gegen die Wehrpflicht' und Fridays For Future. Die Proteste richten sich insbesondere gegen bildungspolitische Missstände und eine mögliche Wehrpflicht.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html",
+     "time": "2026-11-20T04:16:02+01:00"
+    },
+    {
+     "title": "Rechtsextremer Anschlagsplan auf Moschee mit 3D-Druck-Waffe vereitelt",
+     "summary": "In Deutschland wird gegen einen 18-jährigen rechtsextremen Schüler ermittelt, der einen Anschlag auf eine Moschee geplant haben soll. Die Waffen hatte sich der Beschuldigte mutmaßlich mithilfe eines 3D-Druckers beschafft. Der Verdächtige befindet sich bereits seit August in Untersuchungshaft.",
+     "category": "Innere Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/almanya-3-boyutlu-yazıcıda-ürettiği-silahla-camiye-saldırı-planladı/a-79990421",
+     "time": "2026-11-19T11:21:00+00:00"
+    },
+    {
+     "title": "Bundespolizei nimmt mutmaßliche Schleuserbande fest",
+     "summary": "Die Bundespolizei hat drei tatverdächtige syrische Schleuser festgenommen, die mehr als 600 Migranten nach Westeuropa gebracht haben sollen. Für die Schleusungen wurden pro Person bis zu 6000 Euro verlangt. Die Verdächtigen sollen polizeiliche Kontrollen gezielt in ihr Vorgehen einkalkuliert haben.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6aff6e5a5842ff528b9e0d02/rheinland-pfalz-bis-zu-6000-euro-pro-person-drei-syrer-sollen-mehr-als-600-menschen-eingeschleust-haben.html",
+     "time": "2026-11-19T22:07:19+00:00"
+    },
+    {
+     "title": "IG Metall startet bundesweite 24-Stunden-Warnstreiks",
+     "summary": "In der deutschen Metall- und Elektroindustrie hat eine großangelegte Welle von 24-Stunden-Warnstreiks begonnen. Seit Mitternacht stehen bundesweit zahlreiche Betriebe still, wovon insbesondere die Automobilbranche und Zulieferer betroffen sind. Die Gewerkschaft erhöht damit den Druck in den festgefahrenen Tarifverhandlungen massiv.",
+     "category": "Tarifkonflikt",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/warnstreik-ig-metall-126.html",
+     "time": "2026-11-20T01:41:04+01:00"
+    },
+    {
+     "title": "Lufthansa plant Abbau von 1.000 Arbeitsplätzen",
+     "summary": "Die Lufthansa will an den Drehkreuzen Frankfurt und München insgesamt 1.000 Arbeitsplätze abbauen. Hintergrund sind anhaltende operative Einbußen: In den ersten neun Monaten 2026 summierte sich der Verlust der Kernmarke auf 180 Millionen Euro. Der Vorstand sieht in den Einschnitten einen notwendigen Schritt zur Wiederherstellung der Wettbewerbsfähigkeit.",
+     "category": "Luftfahrt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/lufthansa-1000-stellen-100.html",
+     "time": "2026-11-20T02:56:36+01:00"
+    },
+    {
+     "title": "Volkswagen fordert zweijährige Nullrunde bei Gehältern",
+     "summary": "Der kriselnde Autokonzern Volkswagen fordert in der anstehenden Tarifrunde weitreichende Einschnitte, darunter zweijährige Nullrunden und Kürzungen bei Sondervergütungen. Zudem will der Konzern Anpassungen bei der 35-Stunden-Woche durchsetzen, um Kosten zu senken. Die Gewerkschaft IG Metall kritisierte den Vorstoß scharf und warf dem Vorstand einen Bruch mit der Belegschaft vor.",
+     "category": "Automobilindustrie",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-nullrunde-100.html",
+     "time": "2026-11-19T17:11:57+01:00"
+    },
+    {
+     "title": "BASF bricht Übernahmepläne für Evonik ab",
+     "summary": "Der Ludwigshafener Chemiekonzern BASF hat seine Pläne zur Übernahme des Konkurrenten Evonik aufgegeben. Zuvor hatte der Evonik-Vorstand auch nach einer weiteren Nachbesserung des Kaufangebots tiefergehende Gespräche verweigert. Damit ist der Zusammenschluss der beiden Traditionsunternehmen vorerst vom Tisch.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/basf-evonik-uebernahme-absage-100.html",
+     "time": "2026-11-19T16:55:43+01:00"
+    },
+    {
+     "title": "Höchstes Windrad der Welt geht in Brandenburg in Betrieb",
+     "summary": "In Brandenburg ist die weltgrößte Windkraftanlage offiziell ans Netz gegangen, deren Gesamthöhe fast an den Berliner Fernsehturm heranreicht. Die Konstruktion liefert im Vergleich zu konventionellen Windrädern etwa die doppelte Strommenge. Weitere Anlagen dieses Typs sind in der Region bereits projektiert.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/windenergie-in-brandenburg-hoechstes-windrad-der-welt-geht-in-betrieb-a-eddc2afd-3bd5-4bde-9528-71b3d7c10c92#ref=rss",
+     "time": "2026-11-19T20:01:00+01:00"
+    },
+    {
+     "title": "BSI warnt vor massiver Bedrohung durch KI-gestützte Cyberangriffe",
+     "summary": "Das Bundesamt für Sicherheit in der Informationstechnik (BSI) hat in seinem aktuellen Lagebericht vor Cyberangriffen in beispielloser Geschwindigkeit und Menge gewarnt. Durch den Einsatz künstlicher Intelligenz lassen sich Sicherheitslücken automatisiert und rascher ausnutzen. Vor allem viele mittelständische Betriebe seien darauf unzureichend vorbereitet.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/bsi-sicherheitslage-bericht-100.html",
+     "time": "2026-11-19T12:06:07+01:00"
+    },
+    {
+     "title": "VW schließt kritische Bluetooth-Sicherheitslücke nach 16 Monaten",
+     "summary": "Volkswagen hat eine Schwachstelle behoben, über die sich Hunderttausende Fahrzeuge über die Bluetooth-Schnittstelle abhören und orten ließen. Das Problem betraf unter anderem Modelle wie den VW ID.4 und bestand über einen Zeitraum von rund 16 Monaten. Der Konzern rollt das notwendige Sicherheitsupdate nun schrittweise an die betroffenen Systeme aus.",
+     "category": "IT-Sicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/VW-Autos-liessen-sich-16-Monate-per-Bluetooth-belauschen-und-orten-11530844.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-19T13:20:00+01:00"
+    },
+    {
+     "title": "Deutsche Telekom investiert in französisches KI-Start-up Mistral",
+     "summary": "Die Deutsche Telekom steigt beim europäischen KI-Unternehmen Mistral ein, um vertrauenswürdige künstliche Intelligenz für Geschäftskunden und Verwaltungen bereitzustellen. Ziel der Partnerschaft ist die Bereitstellung souveräner digitaler Werkzeuge nach europäischen Sicherheitsstandards. Die Beteiligung soll die Abhängigkeit europäischer Akteure von US-Technologien reduzieren.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/mistral-telekom-ki-anthropic-marktbericht-100.html",
+     "time": "2026-11-19T13:57:07+01:00"
+    },
+    {
+     "title": "Glasfaserausbau in Deutschland: Altes Kupfernetz bremst Modernisierung",
+     "summary": "Auf einer Branchenkonferenz in Berlin standen die Fortschritte und Hürden beim deutschen Glasfaserausbau im Mittelpunkt. Diskutiert wurde vor allem das Festhalten an bestehenden Kupferleitungen, das die Umstellung auf Gigabit-Netze verzögert. Aus Regierungskreisen wurde dabei sowohl das bisher Erreichte gewürdigt als auch bürokratische Langsamkeit gerügt.",
+     "category": "Telekommunikation",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Glasfaserausbau-Kupfer-steht-halt-im-Weg-11531556.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-19T17:09:00+01:00"
+    },
+    {
+     "title": "Aachener Uniklinik setzt erstmals neuartiges Mikroinstrument an OP-Roboter ein",
+     "summary": "An der Uniklinik RWTH Aachen wurde bei einer Krebsoperation weltweit zum ersten Mal ein neues elektrochirurgisches Mikroinstrument am Symani-Operationsroboter eingesetzt. Das System ermöglicht extrem präzise Eingriffe im Bereich der Mikrochirurgie und Geweberekonstruktion. Mediziner werten den Eingriff als Meilenstein für die robotisch gestützte Patientenversorgung.",
+     "category": "Medizintechnik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Aachener-Uniklinik-setzt-neues-Mikroinstrument-fuer-OP-Roboter-Symani-ein-11531015.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-19T14:44:00+01:00"
+    },
+    {
+     "title": "ATP Finals: Alexander Zverev zieht ungeschlagen ins Halbfinale ein",
+     "summary": "Der Weltranglistenerste Alexander Zverev hat die Gruppenphase der ATP Finals in Turin mit einer makellosen Bilanz beendet. Durch einen Zweisatzerfolg (6:4, 7:6) gegen Arthur Fils sicherte sich der Hamburger ohne Satzverlust den Gruppensieg. Zverev unterstrich damit seine Ambitionen auf den Titelgewinn beim Saisonabschlussturnier.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/atp/gruppensieger-zverev-behaelt-weisse-weste,zverev-fils-106.html",
+     "time": "2026-11-19T23:03:53+01:00"
+    },
+    {
+     "title": "Europäische Verbände und DFB erhöhen Druck auf FIFA-Präsident Infantino",
+     "summary": "Die Spitzen der UEFA, darunter DFB-Präsident Bernd Neuendorf, haben ihren Protest gegen FIFA-Chef Gianni Infantino mit einem gemeinsamen Beschwerdebrief verschärft. Die europäischen Verbände fordern mehr Transparenz und Mitsprache bei grundlegenden Entscheidungen des Weltverbands. Vor der Präsidentschaftswahl im März formiert sich damit geschlossener Widerstand gegen Infantinos Amtsführung.",
+     "category": "Fußballpolitik",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/europaeer-erhoehen-druck-auf-fifa-und-infantino,fifa-beschwerde-brief-europa-100.html",
+     "time": "2026-11-19T17:08:40+01:00"
+    },
+    {
+     "title": "Bayern-Frauen feiern souveränen 4:0-Auswärtssieg bei Austria Wien",
+     "summary": "Die Fußballerinnen des FC Bayern München haben in der UEFA Women's Champions League einen deutlichen 4:0-Erfolg gegen Austria Wien verbucht. Vor einer Rekordkulisse in Wien dominierte der deutsche Meister die Partie über die gesamte Spielzeit. Mit dem Erfolg haben die Münchnerinnen das Weiterkommen ins Viertelfinale fest im Blick.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/br/br-klarer-sieg-im-rekordspiel-fc-bayern-fertigt-austria-wien-ab-102.html",
+     "time": "2026-11-19T22:39:27+01:00"
+    },
+    {
+     "title": "Bayern-Basketballer brechen Heimfluch in der EuroLeague",
+     "summary": "Die Basketballer des FC Bayern München haben im fünften Anlauf den ersten Heimsieg der laufenden EuroLeague-Saison gefeiert. Im heimischen SAP Garden setzte sich die Mannschaft souverän gegen Saski Baskonia Vitoria-Gasteiz durch. Bereits im zweiten Viertel zogen die Münchner entscheidend davon und brachten den Vorsprung sicher ins Ziel.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/basketball/euroleague/bayerns-basketballer-fahren-ersten-heimsieg-ein,spielbericht-basketball-bayern-baskonia-100.html",
+     "time": "2026-11-19T23:18:10+01:00"
+    },
+    {
+     "title": "Kuzmanovic sichert SC Magdeburg dramatischen Champions-League-Sieg",
+     "summary": "In einem packenden Auswärtsspiel der EHF Champions League hat der deutsche Handballmeister SC Magdeburg einen knappen Erfolg beim dänischen Klub GOG Handbold gefeiert. Torhüter Dominik Kuzmanovic rettete den doppelten Punktgewinn mit einer entscheidenden Parade in den Schlusssekunden. Das Team von Trainer Bennet Wiegert behauptet sich damit erfolgreich in der europäischen Spitzengruppe.",
+     "category": "Handball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/mdr/champions-league-gog-sc-magdeburg-,gog-scm-106.html",
+     "time": "2026-11-19T22:18:40+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "overview": "Die Türkei bewegt sich heute in einem dichten Netz aus Innenpolitik, Wirtschaft und geopolitischen Entwicklungen. Während Parteiwechsel in Kommunalverwaltungen und Debatten im Parlament über den Friedensprozess die politische Bühne prägen, spüren die Bürger die jüngsten Kraftstoffpreissenkungen und agrarpolitischen Nachrichten unmittelbar im Alltag. Auf internationaler Ebene beeinflussen die Gipfeltreffen im Rahmen der APEC sowie die anhaltenden Schwankungen auf den Energiemärkten das Land maßgeblich.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Tekirdağ, Antalya und sieben Bezirke wechseln zur AKP",
+     "summary": "Die aus der Yeni Parti ausgetretene Bürgermeisterin von Tekirdağ, Candan Yüceer, trat bei einer Veranstaltung der Regierungspartei bei und erhielt ihr Parteibuch von Staatspräsident Recep Tayyip Erdoğan. Im Rahmen desselben Termins schlossen sich auch die Gemeindeverwaltungen von Antalya und Beyoğlu sowie sechs Bezirksbürgermeister der AKP an.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cqdr1xlreey7o",
+     "time": "2026-11-19T12:46:35+00:00"
+    },
+    {
+     "title": "Entscheidung der Yeni Parti gegen Kommissionsmitete sorgt für Debatten",
+     "summary": "Die Entscheidung von Yeni-Parti-Chef Özgür Özel, keine Mitglieder in die im Parlament zu errichtende Beobachtungskommission im Rahmen des Friedensprozesses zu entsenden, stieß parteiintern auf Zustimmung, löste jedoch in politischen Kreisen neue Diskussionen aus. Die DEM-Partei forderte Özel auf, diesen Schritt zu überdenken.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c6j9m2e1gvndo",
+     "time": "2026-11-20T00:22:26+00:00"
+    },
+    {
+     "title": "Neues System für Wahlen von Bürgermeistern in Gemeinderäten",
+     "summary": "Eine neue Regelung bezüglich der Wahlen von Bürgermeistern und stellvertretenden Bürgermeistern in den Gemeinderäten wurde im Amtsblatt veröffentlicht und trat in Kraft. Demnach wurde die Praxis des handschriftlichen Eintragens von Namen abgeschafft und durch Einheitsstimmzettel sowie Stempel ersetzt.",
+     "category": "Recht",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/belediye-baskani-ve-baskanvekili-secimlerinde-yeni-donem-isim-yazma-2085187",
+     "time": "2026-11-20T00:29:00+03:00"
+    },
+    {
+     "title": "Freispruch für den Journalisten İsmail Arı",
+     "summary": "Der BirGün-Reporter İsmail Arı, der auf Beschwerde des ehemaligen RTÜK-Vorsitzenden Ebubekir Şahin verhaftet worden war, wurde in seiner ersten Verhandlung freigesprochen. Arı äußerte vor Gericht scharfe Kritik an den gegen ihn erhobenen Vorwürfen.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/birgün-muhabiri-i̇smail-arı-hakkında-tahliye-ve-beraat-kararı/a-79983666",
+     "time": "2026-11-19T12:03:00+00:00"
+    },
+    {
+     "title": "Sturmwarnung vom Meteorologischen Amt: Fährverbindungen gestrichen",
+     "summary": "Nach Unwetterwarnungen des Meteorologischen Amtes werden in Istanbul und Izmir Starkregen und Stürme erwartet; aufgrund der widrigen Wetterbedingungen wurden zehn BUDO-Fährverbindungen zwischen Bursa und Istanbul annulliert.",
+     "category": "Wetter",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/meteorolojiden-20-kasim-cuma-icin-alarm-saatte-70-km-firtinaya-dikkat-2085191",
+     "time": "2026-11-20T01:28:04+03:00"
+    },
+    {
+     "title": "Massive Senkung der Dieselpreise an den Tankstellen",
+     "summary": "Infolge rückläufiger globaler Ölpreise wurden die Dieselpreise deutlich nach unten angepasst. Die Preissenkung trat um Mitternacht in Kraft und wurde direkt an den Zapfsäulen umgesetzt.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/depo-basina-tam-329-tl-indirim-gece-yarisi-tabelalar-bir-anda-degisti-2085193",
+     "time": "2026-11-20T01:39:54+03:00"
+    },
+    {
+     "title": "Ermittlungen gegen Haselnusskonzerne enttäuschen Produzenten",
+     "summary": "Die Untersuchung der Wettbewerbsbehörde gegen sieben Haselnussunternehmen hat die Erwartungen der Bauern nicht erfüllt, da die Preise im freien Markt weiter sinken. Die Produzenten fordern ein Eingreifen des staatlichen Amtes TMO.",
+     "category": "Landwirtschaft",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/rekabet-kurumu-nun-yedi-findik-sirketine-yonelik-sorusturmasi-ureticide-umut-yaratmadi-2557741",
+     "time": "2026-11-20T04:00:00+03:00"
+    },
+    {
+     "title": "Bonus-Kooperation zwischen Garanti BBVA und DenizBank endet",
+     "summary": "Die Partnerschaft im Rahmen des Bonus-Kreditkartenprogramms zwischen Garanti BBVA und der DenizBank wird beendet. Infolgedessen scheiden die Karten und POS-Geräte mit dem Bonus-Logo der DenizBank aus dem System aus.",
+     "category": "Banken",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/garanti-bbva-ile-denizbank-in-bonus-isbirligi-sona-eriyor-tarih-belli-_ediyor-2557580",
+     "time": "2026-11-19T15:36:00+03:00"
+    },
+    {
+     "title": "Rückgang der Reserven der Zentralbank bekannt gegeben",
+     "summary": "Die Gesamtreserven der Zentralbank der Republik Türkei sind in der vergangenen Woche gesunken. Ausschlaggebend für den Rückgang war ein herber Verlust bei den Goldreserven, den der Anstieg der Bruttodevisenreserven nicht ausgleichen konnte.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-rezervlerinde-sert-dusus-haftalik-veriler-aciklandi-2557573",
+     "time": "2026-11-19T15:22:00+03:00"
+    },
+    {
+     "title": "Experten warnen Unternehmen vor finanziellen Engpässen",
+     "summary": "Während in den ersten zehn Monaten des Jahres zahlreiche Insolvenz- und Konkursverfahren verhandelt wurden, betonen Experten, dass eine präzise Analyse der Bilanzen für Unternehmen lebenswichtig sei, um Pleiten abzuwenden.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/finansal-sikintinin-ilk-sinyallerini-dogru-okumak-sirketleri-iflastan-koruyabilir-2557641",
+     "time": "2026-11-19T17:45:00+03:00"
+    },
+    {
+     "title": "Anthropic-Börsengang entfacht Debatte über KI-Blase",
+     "summary": "Das KI-Unternehmen Anthropic ist nach seinem Börsendebüt zu einem der wertvollsten börsennotierten Unternehmen der Welt aufgestiegen. Die Marktkapitalisierung erreichte rund 1,76 Billionen Dollar, was neue Diskussionen über eine mögliche Blase im Sektor auslöste.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cqx28d4p72l4o",
+     "time": "2026-11-20T00:45:08+00:00"
+    },
+    {
+     "title": "Neuer Lexus NX mit Hybridtechnologie kommt in die Türkei",
+     "summary": "Das mit Hybridtechnologie der sechsten Generation erneuerte Luxus-SUV-Modell Lexus NX wird im ersten Quartal 2027 auf dem türkischen Markt angeboten.",
+     "category": "Automotive",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/yeni-lexus-nx-turkiye-geliyor-h229243.html",
+     "time": "2026-11-19T17:50:39+03:00"
+    },
+    {
+     "title": "Google Play verschärft Qualitätsstandards für faltbare Geräte",
+     "summary": "Google Play verschärft die Richtlinien für Apps auf faltbaren Telefonen und Geräten mit großen Bildschirmen. Ab April 2027 können Apps, die die Mindestkriterien nicht erfüllen, keine Updates mehr veröffentlichen.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/google-play-katlanabilir-cihaz-kalite-standartlari-h229216.html",
+     "time": "2026-11-19T16:47:05+03:00"
+    },
+    {
+     "title": "GTA 6 spielt Entwicklungskosten am ersten Tag wieder ein",
+     "summary": "Mit einem milliardenschweren Umsatz am Veröffentlichungstag hat es das lang erwartete Spiel Grand Theft Auto 6 geschafft, das über Jahre angehäufte Entwicklungsbudget von Rockstar Games sofort einzuspielen.",
+     "category": "Gaming",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/gta-6-gelistirme-maliyetini-ilk-gunden-cikardi-h229234.html",
+     "time": "2026-11-19T17:49:49+03:00"
+    },
+    {
+     "title": "Google kündigt neues KI-Modell Gemini 4 Neon an",
+     "summary": "Google hat offiziell sein neues KI-Modell Gemini 4 Neon vorgestellt, das hohe Geschwindigkeit und Leistung bei niedrigen Kosten bieten soll.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/google-gemini-4-neon-duyurdu-h229207.html",
+     "time": "2026-11-19T17:54:12+03:00"
+    },
+    {
+     "title": "Fenerbahçe Tarfin verliert auswärts in Italien",
+     "summary": "Fenerbahçe Tarfin musste am 13. Spieltag der EuroLeague eine 78:70-Auswärtsniederlage gegen den italienischen Vertreter Olimpia Milano hinnehmen.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-italya-da-kayip-deplasmanda-istedigini-alamadi-2557734",
+     "time": "2026-11-20T00:39:00+03:00"
+    },
+    {
+     "title": "Personalie Uğurcan Çakır bei Galatasaray vor dem Samsunspor-Spiel",
+     "summary": "Bei Galatasaray, das in der Süper Lig auf Samsunspor trifft, nahm der Nationaltorhüter Uğurcan Çakır wieder am Mannschaftstraining teil.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/samsunspor-maci-oncesi-galatasaray-da-ugurcan-cakir-gelismesi-2557689",
+     "time": "2026-11-19T21:52:00+03:00"
+    },
+    {
+     "title": "Galatasaray Daikin zieht ins Final Four des Volleyball-Pokals ein",
+     "summary": "Galatasaray Daikin hat im Viertelfinale des Türkischen Frauen-Volleyballpokals Zerenspor mit 3:0 besiegt und sich ohne Satzverlust für das Final Four qualifiziert.",
+     "category": "Volleyball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-daikin-kupa-voley-de-set-vermeden-dortlu-final-de-2557684",
+     "time": "2026-11-19T21:17:00+03:00"
+    },
+    {
+     "title": "Großmeister Işık Can gewinnt Silbermedaille in China",
+     "summary": "Der türkische Schachgroßmeister Işık Can zeigte beim 17. Danzhou Super Grandmaster Tournament in China eine starke Leistung und gewann die Silbermedaille.",
+     "category": "Schach",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/buyukusta-isik-can-cin-de-gumus-madalya-kazandi-2557679",
+     "time": "2026-11-19T20:26:00+03:00"
+    },
+    {
+     "title": "TFF setzt Schiedsrichter Zorbay Küçük nach 13 Monaten wieder ein",
+     "summary": "Der türkische Fußballverband TFF hat den Schiedsrichter Zorbay Küçük, der in der vergangenen Saison im Zuge von Wettwochen festgenommen, aber mangels Schuld freigelassen worden war, nach 13 Monaten wieder mit offiziellen Aufgaben betraut.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/bahis-sorusturmasinda-gozaltina-alinmisti-tff-den-o-hakeme-13-ay-sonra-resmi-gorev-2557656",
+     "time": "2026-11-19T18:28:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "overview": "Die internationale Diplomatie wurde maßgeblich durch den historischen Dreiergipfel zwischen Trump, Xi und Putin in Shenzhen sowie die Berliner Konferenz europäischer Staats- und Regierungschefs zur Ukraine-Krise geprägt. Gleichzeitig setzte der Internationale Gerichtshof in Den Haag mit der Verurteilung Myanmars wegen Völkermords an den Rohingya ein historisches völkerrechtliches Signal. In Wirtschaft und Technologie sorgten der Rekord-Börsengang des KI-Unternehmens Anthropic und der Verkaufsstart von GTA 6 für Aufsehen, während weltweite Cyberkrisen und geopolitische Spannungen die globalen Märkte weiter in Atem halten.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Trump, Xi und Putin treffen sich zu historischem Dreiergipfel in Shenzhen",
+     "summary": "Die Präsidenten der USA, Chinas und Russlands sind im chinesischen Shenzhen zu einem beispiellosen Dreiertreffen zusammengekommen. Themen der Verhandlungen waren unter anderem der Ukraine-Krieg, die Lage um den Iran und nukleare Abrüstung. Während die drei Staatschefs das Treffen lobten, äußerten internationale Beobachter und europäische Verbündete Zweifel an greifbaren Beschlüssen.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/xi-jinping-donald-trump-and-vladimir-putin-have-held-trilateral-talks-―-but-what-did-they-achieve/a-79996668",
+     "time": "2026-11-19T17:52:00+00:00"
+    },
+    {
+     "title": "Internationaler Gerichtshof: Myanmar beging Völkermord an Rohingya",
+     "summary": "Der Internationale Gerichtshof in Den Haag hat entschieden, dass Myanmar während der Militäroperationen 2017 Völkermord an der Minderheit der Rohingya verübt hat. Das oberste UN-Gericht urteilte, die Streitkräfte hätten mit der Absicht gehandelt, wesentliche Teile der Volksgruppe zu vernichten. Myanmar wurde aufgefordert, Entschädigungen zu zahlen und die sichere Rückkehr der Geflüchteten zu ermöglichen.",
+     "category": "Völkerrecht",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/myanmar-committed-genocide-against-rohingya-top-un-court-rules/a-79987898",
+     "time": "2026-11-19T11:39:00+00:00"
+    },
+    {
+     "title": "Europäische Spitzenpolitiker einigen sich in Berlin auf Verhandlungsposition zu Russland",
+     "summary": "Bei einem Gipfel in Berlin haben die europäischen Verbündeten der Ukraine eine geeinte Haltung für Verhandlungen mit Moskau über ein Kriegsende bekräftigt. Frankreichs Staatspräsident Emmanuel Macron forderte raschere Luftverteidigungshilfen und plädierte dafür, die Debatte über einen NATO-Beitritt der Ukraine wiederzubeleben. Bundesaußenminister Wadephul betonte, man sende ein klares Signal an Russland, müsse aber auch auf ein Scheitern von Gesprächen vorbereitet sein.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/ckzd9nln5e6go",
+     "time": "2026-11-20T00:50:24+00:00"
+    },
+    {
+     "title": "Großbritannien und die EU stehen vor Abkommen zur Jugendmobilität",
+     "summary": "Die Europäische Union und das Vereinigte Königreich planen die Verabschiedung eines Programms zur Erleichterung der Mobilität junger Menschen beim anstehenden bilateralen Gipfel. Auf der Agenda stehen zudem Verhandlungen über Erleichterungen im Lebensmittelhandel sowie Vereinbarungen zu CO2-Emissionen.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
+     "time": "2026-11-20T02:40:49+00:00"
+    },
+    {
+     "title": "Sicherheitskräfte in Haiti töten 34 mutmaßliche Bandenmitglieder",
+     "summary": "Die haitianischen Sicherheitskräfte haben eine Großoffensive gestartet, um den seit fünf Jahren von kriminellen Netzwerken kontrollierten Martissant-Korridor bei Port-au-Prince zurückzuerobern. Nach Angaben der Polizei wurden bei den Gefechten unter Beteiligung privater Sicherheitskräfte mindestens 34 Bewaffnete getötet.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/americas/20261119-major-anti-gang-offensive-in-haiti-kills-34-suspected-gang-members",
+     "time": "2026-11-19T22:31:25+00:00"
+    },
+    {
+     "title": "Rekord-Börsengang: Anthropic erlöst 81 Milliarden Dollar",
+     "summary": "Das KI-Unternehmen hinter dem Chatbot Claude hat mit seinem Debüt an der US-Börse rund 81 Milliarden Dollar eingespielt und erreichte einen Börsenwert von etwa 1,3 Billionen Dollar. Als erster reiner KI-Konzern an den Finanzmärkten schloss die Aktie am ersten Handelstag mit einem Plus von 17 Prozent.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c6742m39xgzxo",
+     "time": "2026-11-19T15:58:58+00:00"
+    },
+    {
+     "title": "IWF warnt vor Zinssteigerungen infolge des KI-Booms",
+     "summary": "Die geschäftsführende Direktorin des Internationalen Währungsfonds, Kristalina Georgieva, hat gewarnt, dass der enorme Investitionsbedarf für Künstliche Intelligenz globale Zentralbanken zu Zinserhöhungen zwingen könnte. Staaten müssten die wirtschaftliche Einführung aktiv begleiten, um im globalen Wandel nicht zurückzubleiben.",
+     "category": "Geldpolitik",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/world/2026/nov/19/imf-head-warns-ai-demand-push-up-interest-rates-apec",
+     "time": "2026-11-19T15:15:14+00:00"
+    },
+    {
+     "title": "GTA 6 bricht mit 2,3 Milliarden Dollar Umsatz Rekorde",
+     "summary": "Nach 13 Jahren Entwicklungszeit hat Rockstar Games mit der Veröffentlichung von GTA 6 Schätzungen zufolge bereits über 2,3 Milliarden Dollar eingenommen. Branchenkenner erwarten, dass das Videospiel der wirtschaftlich erfolgreichste Unterhaltungsstart aller Zeiten wird.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+     "time": "2026-11-20T02:54:40+00:00"
+    },
+    {
+     "title": "Gewerkschaften fordern Stopp öffentlicher Aufträge für Amazon",
+     "summary": "In einem offenen Brief fordern über 30 Gewerkschaftsführer aus 19 Ländern Regierungen auf, Beschaffungsverträge mit Amazon und dessen Cloud-Sparte AWS zu kündigen. Grund dafür seien wiederholte Missachtungen von Arbeitnehmerrechten und Tarifverhandlungen des US-Konzerns.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/global-development/2026/nov/19/labor-unions-amazon-contracts-open-letter",
+     "time": "2026-11-19T14:05:21+00:00"
+    },
+    {
+     "title": "Britische Kartellbehörde rügt Ticketbörse Viagogo wegen versteckter Gebühren",
+     "summary": "Die britische Wettbewerbsbehörde wirft dem Zweitmarkt-Ticketportal Viagogo nach vorläufigen Ermittlungen Gesetzesverstöße vor. Der Plattform wird sogenanntes Drip-Pricing zur Last gelegt, bei dem zusätzliche Gebühren erst am Ende des Kaufvorgangs aufgeführt werden.",
+     "category": "Verbraucherschutz",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cmvg2ex7j30lo",
+     "time": "2026-11-19T13:35:52+00:00"
+    },
+    {
+     "title": "Weißes Haus entlässt nationalen Cyber-Direktor nach Systemausfällen",
+     "summary": "Nach einer Serie schwerer IT-Störungen im US-Flugverkehr, bei E-Mail-Diensten und in Bundessystemen hat das Weiße Haus den Cyber-Direktor Sean Cairncross entlassen. Die Trump-Regierung reagiert damit auf scharfe Kritik am behördlichen Krisenmanagement rund um die Netzausfälle.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/americas/20261120-white-house-fires-national-cyber-director-over-widespread-outages",
+     "time": "2026-11-20T01:28:47+00:00"
+    },
+    {
+     "title": "EU-Kommission Ziel eines KI-gestützten Hackerangriffs",
+     "summary": "Die Europäische Kommission ist nach offiziellen Angaben das Ziel einer durch Künstliche Intelligenz gesteuerten Cyberkampagne geworden. Es handelt sich um den ersten öffentlich bestätigten Vorfall dieser Art gegen die Brüsseler Behörde.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/eu-commission-confirms-it-was-targeted-in-cyberattack-using-ai-tools/a-79993016",
+     "time": "2026-11-19T14:58:00+00:00"
+    },
+    {
+     "title": "Raumsonde Voyager 1 erreicht Meilenstein von einem Lichttag Entfernung",
+     "summary": "Die seit fast 50 Jahren reisende NASA-Sonde Voyager 1 befindet sich nunmehr die Distanz eines vollen Lichttags von der Erde entfernt. Das am weitesten gereiste menschengemachte Objekt ist damit nun rund 26 Milliarden Kilometer von der Heimatbasis entfernt.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/voyager-1-spacecraft-reaches-one-light-day-milestone",
+     "time": "2026-11-19T22:38:35+00:00"
+    },
+    {
+     "title": "US-Bundesstaat Kalifornien leitet Ermittlungen gegen Nvidia ein",
+     "summary": "Kalifornische Behörden haben Untersuchungen gegen den Chiphersteller Nvidia im Zusammenhang mit Exporten von KI-Prozessoren nach China eingeleitet. Die behördliche Überprüfung folgt auf das kürzliche Ausscheiden des bisherigen Konzernchefs Jensen Huang.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cqn70vxp5p4no",
+     "time": "2026-11-19T23:04:30+00:00"
+    },
+    {
+     "title": "Google kooperiert mit Blue Origin für Weltraum-Projekt Suncatcher",
+     "summary": "Google hat sich für sein ambitioniertes Vorhaben Project Suncatcher Trägerraketenkapazitäten beim Raumfahrtunternehmen Blue Origin gesichert. Fachleute verweisen jedoch darauf, dass das Vorhaben langfristig noch vor komplexen technischen Herausforderungen steht.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/google-turns-to-blue-origin-for-a-rocket-but-its-long-term-problem-remains",
+     "time": "2026-11-19T19:52:54+00:00"
+    },
+    {
+     "title": "FIA führt ab 2027 hauptamtliche Rennkommissare in der Formel 1 ein",
+     "summary": "Der Automobil-Dachverband FIA hat bekanntgegeben, ab der Saison 2027 festangestellte Stewards für die Formel 1 zu verpflichten. Damit reagiert der Verband auf anhaltende Kritik von Fahrern und Teams an uneinheitlichen Strafentscheidungen der bisherigen ehrenamtlichen Gremien.",
+     "category": "Motorsport",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/f1-full-time-race-stewards-2027-season-controversy-fia",
+     "time": "2026-11-19T22:32:53+00:00"
+    },
+    {
+     "title": "UEFA verhängt Bewährungsstrafe gegen englischen Fußballverband",
+     "summary": "Wegen diskriminierender Fangesänge beim Auswärtsspiel in Spanien hat die UEFA dem englischen Verband FA einen zweijährigen Verkaufsstopp von Auswärtstickets auf Bewährung auferlegt. Zudem muss der englische Verband eine Geldstrafe in Höhe von 15.000 Euro zahlen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/england-one-match-suspended-away-tickets-ban-anti-pope-chants-spain-uefa",
+     "time": "2026-11-19T22:05:54+00:00"
+    },
+    {
+     "title": "Lyon bezwingt Arsenal in der Champions League der Frauen mit 2:0",
+     "summary": "Die Fußballerinnen von Olympique Lyon haben ihren Siegeszug in der Champions League mit einem 2:0-Erfolg beim FC Arsenal fortgesetzt. Die Treffer von Jule Brand und Melchie Dumornay verhinderten den vorzeitigen Viertelfinaleinzug der Londonerinnen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/19/arsenal-ol-lyonnes-womens-champions-league-match-report",
+     "time": "2026-11-19T22:05:36+00:00"
+    },
+    {
+     "title": "Zverev zieht ungeschlagen ins Halbfinale der ATP Finals ein",
+     "summary": "Der Weltranglistenerste Alexander Zverev hat auch sein drittes Gruppenspiel bei den ATP Finals gegen Arthur Fils in zwei Sätzen gewonnen. Trotz des Erfolgs kündigte Zverev intensive Behandlungen an, nachdem er während der Partie Schmerzen am Knöchel verspürt hatte.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/19/alexander-zverev-v-arthur-fils-atp-finals-group-stage-live",
+     "time": "2026-11-19T21:48:21+00:00"
+    },
+    {
+     "title": "Marathon-Weltmeisterin Jepchirchir wegen Dopings für drei Jahre gesperrt",
+     "summary": "Die amtierende kenianische Marathon-Weltmeisterin und Olympiasiegerin Peres Jepchirchir ist wegen eines Dopingverstoßes für drei Jahre gesperrt worden. Das Urteil stellt einen schweren Rückschlag für den kenianischen Langstreckenlauf dar.",
+     "category": "Leichtathletik",
+     "topic": "spor",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/tv-shows/eye-on-africa/20261119-kenyan-marathon-champion-banned-for-doping",
+     "time": "2026-11-19T21:38:55+00:00"
+    }
+   ]
+  }
+ ]
+}
