@@ -1,6 +1,6 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T00:21+01:00",
+ "updatedAt": "2026-11-21T00:51+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "Berlin'de toplanan binlerce öğrenci ülkenin yeniden silahlanmasını ve zorunlu askerlik planlarını protesto etti.",
      "de": "In Berlin haben हजार (tousands of) Studierende gegen die Aufrüstung des Landes und die Wehrpflicht demonstriert."
+    }
+   },
+   {
+    "time": "2026-11-20T23:22:47+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b0072f75842ff528b9e2109/philipp-tuermer-juso-chef-stellt-bedingungen-an-die-neue-spd-spitze-und-empfiehlt-klassenkampf.html",
+    "text": {
+     "tr": "Juso lideri Philipp Türmer, yeni SPD yönetiminden sol bir çizgi izlemesini talep etti.",
+     "de": "Juso-Chef Philipp Türmer fordert von der künftigen SPD-Spitze einen deutlicheren Links-Kurs."
     }
    },
    {
@@ -38,15 +47,6 @@
      "tr": "Danimarka, Ukrayna-Amerikalı bir rapçiye yönelik suikast planı nedeniyle bir Rus diplomatı sınır dışı etti.",
      "de": "Dänemark weist nach einem mutmaßlichen Attentatsplan auf einen Rapper einen russischen Diplomaten aus."
     }
-   },
-   {
-    "time": "2026-11-20T22:18:30+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-gericht-genehmigt-7-25-milliarden-glyphosat-vergleich-201703914.html",
-    "text": {
-     "tr": "Bayer, milyarlarca dolara mal olan Glyphosat davalarını sonlandırmak amacıyla 7,25 milyar dolarlık uzlaşmanın mahkeme tarafından onaylandığını duyurdu.",
-     "de": "Ein Gericht hat einen 7,25 Milliarden schweren Glyphosat-Vergleich des Dax-Konzerns Bayer genehmigt, womit die Prozesse ein Ende finden dürften."
-    }
    }
   ],
   "world": [
@@ -57,6 +57,15 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, Çin ve Rusya liderleriyle harika ilişkileri olduğunu ve bu sayede Amerika'nın güvende olduğunu belirtti.",
      "de": "US-Präsident Donald Trump betonte, dank großartiger Beziehungen zu den Staatschefs von China und Russland sei Amerika sicher."
+    }
+   },
+   {
+    "time": "2026-11-20T23:20:29+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
+    "text": {
+     "tr": "Los Angeles'taki ölümcül Palisades yangınını çıkardığı suçlanan Jonathan Rinderknecht iki federal kundaklama suçundan suçlu bulundu.",
+     "de": "Jonathan Rinderknecht wurde wegen des Brandes der tödlichen Palisades-Feuer in Los Angeles der Bundesbrandstiftung schuldig gesprochen."
     }
    },
    {
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Anthropic şirketinden bir matematikçi, ünlü Riemann hipotezini kanıtlamak için yapay zeka kullandığını açıkladı.",
      "de": "Ein Mathematiker von Anthropic gibt an, Künstliche Intelligenz genutzt zu haben, um die berühmte Riemann-Vermutung zu beweisen."
-    }
-   },
-   {
-    "time": "2026-11-20T22:28:00+01:00",
-    "source": "tagesschau Ausland",
-    "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
-    "text": {
-     "tr": "Danimarka, bir rapçiye yönelik suikast girişimi hazırlığı iddiasıyla bir Rus diplomatı sınır dışı etti.",
-     "de": "Dänemark weist nach einem mutmaßlichen Attentatsplan auf einen Rapper einen russischen Diplomaten aus."
     }
    }
   ],
@@ -195,6 +195,7 @@
   "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
   "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
   "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+  "https://www.bbc.co.uk/news/articles/c6jre8xd83qgo",
   "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
   "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
   "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
@@ -206,6 +207,7 @@
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
   "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
   "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
+  "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
   "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
   "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
@@ -493,6 +495,7 @@
   "https://www.evrensel.net/haber/6010489/resmi-gazete-de-yayimlandi-suriye-deki-4-fakulte-ve-2-meslek-yuksekokulu-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010490/euroleague-de-13-hafta-besiktas-partizan-a-uzatmada-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010491/moody-s-ten-fon-degerlendirmesi-sistemik-risk-olusturmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010493/37-ankara-film-festivali-nde-oduller-sahiplerini-buldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -758,6 +761,7 @@
   "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
   "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
   "https://www.theguardian.com/us-news/2026/nov/20/lauren-boebert-trump-midterms",
+  "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
   "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
   "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
   "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
@@ -795,6 +799,7 @@
   "https://www.welt.de/politik/deutschland/article6b00485139a3e8110f0e410e/mecklenburg-vorpommern-steuerzahlerbund-kritisiert-gruessaugust-posten-mit-bezuegen-von-175-000-euro.html",
   "https://www.welt.de/politik/deutschland/article6b0051f15842ff528b9e1d29/zusaetzliche-gelder-cdu-und-spd-in-sachsen-anhalt-wollen-oppositionszuschlag.html",
   "https://www.welt.de/politik/deutschland/article6b005f0a5842ff528b9e1e9a/in-vielen-milieus-findet-die-cdu-nicht-mehr-statt-kramp-karrenbauer-empfiehlt-oeffnung-ihrer-partei.html",
+  "https://www.welt.de/politik/deutschland/article6b0072f75842ff528b9e2109/philipp-tuermer-juso-chef-stellt-bedingungen-an-die-neue-spd-spitze-und-empfiehlt-klassenkampf.html",
   "https://www.welt.de/politik/deutschland/plus6af49454db4e2fa8f6eb7c0a/ex-sprecher-von-israels-armee-grosse-teile-der-deutschen-verstehen-dass-vom-politischen-islam-eine-gefahr-ausgeht.html",
   "https://www.welt.de/politik/deutschland/plus6af9d50a9849eea0701e3c29/kurznachrichtendienst-w-der-neue-konkurrent-von-elon-musks-x-und-die-engen-verbindungen-zur-eu.html",
   "https://www.welt.de/politik/deutschland/plus6afc02fb6837d711cd2c7bfb/muenchen-misere-warum-deutschlands-reichste-metropole-vor-der-pleite-steht.html",
@@ -813,6 +818,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-die-bayern-bei-kompanys-rueckkehr-kalt-kane-muss-verletzt-runter-dann-trifft-brown.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-rueckschlag-im-heimspiel-fc-bayern-kommt-ohne-die-verletzten-kane-und-olise-gegen-koeln-nur-zu-remis.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-schafft-der-fc-bayern-ohne-die-verletzten-kane-und-olise-noch-die-wende.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b00cf535842ff528b9e25ae/syndesmoseriss-schock-beim-fc-bayern-ballon-dor-gewinner-kane-faellt-mehrere-monate-aus.html",
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
   "https://www.welt.de/wirtschaft/article6b002a6ab237b5b41c9a2632/ukraine-krieg-friedrich-merz-verspricht-deutschland-dividende-aus-ukraine-investitionen.html",
