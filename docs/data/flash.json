@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T19:21+01:00",
+ "updatedAt": "2026-11-20T19:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T19:25:36+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
+    "text": {
+     "tr": "Fransa'da oyuncu Gerard Depardieu ve yazar Michel Houellebecq hakkında toplu tecavüz suçlamasıyla yeni bir soruşturma açıldı.",
+     "de": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt in Frankreich eine neue Anzeige wegen Gruppenvergewaltigung vor."
+    }
+   },
    {
     "time": "2026-11-20T18:51:00+01:00",
     "source": "Der Spiegel",
@@ -31,25 +40,52 @@
     }
    },
    {
-    "time": "2026-11-20T18:30:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
+    "time": "2026-11-20T18:39:10+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/ausland/daniel-thomas-15-monate-haft-fuer-angriff-auf-fluechtlingsboot-201703536.html",
     "text": {
-     "tr": "Bir yapay zeka çalışanı, matematiğin en büyük gizemlerinden biri olan Riemann hipotezini yapay zeka yardımıyla kanıtladığını iddia etti.",
-     "de": "Ein Anthropic-Mitarbeiter hat behauptet, mithilfe von Künstlicher Intelligenz einen Beweis für die Riemann-Vermutung erbracht zu haben."
-    }
-   },
-   {
-    "time": "2026-11-20T18:05:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/it-pannen-in-den-usa-konsumenten-machen-hamsterkaeufe-und-horten-cash-a-22195e2e-401b-44e2-bd8d-8780bf9bb0c9#ref=rss",
-    "text": {
-     "tr": "ABD'de yaşanan büyük çaplı bilişim kesintileri milyonlarca insanı endişelendirerek ülke genelinde hamster alımlarına ve nakit biriktirilmesine yol açtı.",
-     "de": "IT-Ausfälle in den USA verunsicherten Millionen Menschen und führten zu Hamsterkäufen sowie Bargeldhortungen im ganzen Land."
+     "tr": "Birleşik Krallık'ta bir sığınmacı botunu bıçaklayan aşırı sağcı aktivist Daniel Thomas 15 ay hapis cezasına çarptırıldı.",
+     "de": "Ein britischer Rechtsextremist wurde zu 15 Monaten Haft verurteilt, weil er ein Flüchtlingsboot im Ärmelkanal aufgeschlitzt hatte."
     }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-20T18:36:30+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+    "text": {
+     "tr": "ABD'nin Florida eyaletinde bir tamirci, Birleşik Krallık'tan gelen bir müzik öğretmenini öldürmekten suçlu bulundu.",
+     "de": "Ein Automechaniker in Florida wurde wegen des Mordes an einer britischen Musiklehrerin schuldig gesprochen."
+    }
+   },
+   {
+    "time": "2026-11-20T18:34:13+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
+    "text": {
+     "tr": "İspanya, ABD'nin iade talebiyle aradığı Filistin yanlısı bağışçı James Chambers'ı kefaletle serbest bıraktı.",
+     "de": "Spanien hat den pro-palästinensischen Spender James Chambers gegen Kaution freigelassen, während die USA seine Auslieferung fordern."
+    }
+   },
+   {
+    "time": "2026-11-20T18:33:17+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
+    "text": {
+     "tr": "Princeton Üniversitesi'nden doktora öğrencisi Eva Yi Xie, Washington DC'deki havalimanında gözaltına alındı.",
+     "de": "Eine Doktorandin der Princeton University wurde nach einer Konferenz von der US-Einwanderungsbehörde ICE am Flughafen festgehalten."
+    }
+   },
+   {
+    "time": "2026-11-20T18:16:12+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+    "text": {
+     "tr": "Danimarka, ABD-Ukraynalı bir rapçiye yönelik suikast girişimiyle bağlantılı olduğu gerekçesiyle Rus diplomatı sınır dışı etti.",
+     "de": "Dänemark weist einen russischen Diplomaten aus, da Moskau Verbindungen zum versuchten Anschlag auf einen US-ukrainischen Rapper nachgesagt werden."
+    }
+   },
    {
     "time": "2026-11-20T17:54:37+00:00",
     "source": "BBC News World",
@@ -58,45 +94,18 @@
      "tr": "ABD merkezli bir Sih ayrılıkçı lideri öldürme planına karışan Hintli sanık 19 yıldan fazla hapis cezasına çarptırıldı.",
      "de": "Ein indischer Mann wurde wegen eines Mordkomplotts gegen einen Sikh-Separatisten in den USA zu über 19 Jahren Haft verurteilt."
     }
-   },
-   {
-    "time": "2026-11-20T17:42:49+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/20/glider-crash-loch-leven-scotland",
-    "text": {
-     "tr": "İskoçya'daki Loch Leven gölüne düşen planördeki iki kişi hayatını kaybetti.",
-     "de": "Zwei Menschen kamen ums Leben, als ihr Segelflugzeug in Schottland in den Loch Leven stürzte."
-    }
-   },
-   {
-    "time": "2026-11-20T17:15:00+01:00",
-    "source": "tagesschau Ausland",
-    "url": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
-    "text": {
-     "tr": "Antalya'daki Birleşmiş Milletler İklim Değişikliği Konferansı, taraflar arasında uzlaşma sağlanamaması üzerine uzatıldı.",
-     "de": "Die UN-Klimakonferenz in Antalya wurde verlängert, da es im Ringen um Vereinbarungen zu Verzögerungen kam."
-    }
-   },
-   {
-    "time": "2026-11-20T17:08:14+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/technology/2026/nov/20/cybersecurity-operation-thwarts-attack-on-uk-supermarket-fridges-and-freezers",
-    "text": {
-     "tr": "Gizli bir devlet siber güvenlik operasyonu, Birleşik Krallık'taki süpermarketlerin soğutucu ve dondurucularına yönelik bir siber saldırıyı engelledi.",
-     "de": "Eine geheime staatliche Cyber-Operation hat einen Angriff auf Kühlanlagen in britischen Supermärkten und Lagern vereitelt."
-    }
-   },
-   {
-    "time": "2026-11-20T17:06:59+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
-    "text": {
-     "tr": "Birleşik Krallık ve Avrupa Birliği, Brexit sonrasında ilişkileri yeniden kurmak amacıyla gıda ihracatı kontrolleri ve gençlerin hareketliliğini kapsayan dönüm noktası niteliğinde bir anlaşma imzaladı.",
-     "de": "Das Vereinigte Königreich und die EU haben ein wegweisendes Abkommen zur Neugestaltung der Beziehungen nach dem Brexit geschlossen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-20T21:24:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010468/gokcen-bilimler-koyu-belediye-baskaninin-akp-ye-gecmesinden-sonra-tahliye-edilmek-isteniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İzmir'in Foça ilçesinde belediye başkanının AKP'ye geçmesinin ardından Bilimler Köyü tahliye tehlikesiyle karşı karşıya kaldı.",
+     "de": "Das Wissenschaftsdorf Bilimler Köyü in Foça droht evakuiert zu werden, nachdem der Bürgermeister der Stadt zur AKP gewechselt ist."
+    }
+   },
    {
     "time": "2026-11-20T21:15:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -104,6 +113,15 @@
     "text": {
      "tr": "İzmir'deki bir spor kulübünde otizmli çocuklara yönelik şiddet ve kötü muamele iddialarına ilişkin soruşturmada savcılık delil elde edildiğini bildirdi.",
      "de": "Die Staatsanwaltschaft bestätigt Beweise für Misshandlungen und Gewalt gegen autistische Kinder in einem Sportverein in Izmir."
+    }
+   },
+   {
+    "time": "2026-11-20T21:15:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010467/iran-basininin-abd-israil-kesm-adasi-na-fuze-saldirisi-iddiasina-yalanlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İran makamları, ABD ve İsrail'in Keşm Adası'na füze saldırısı düzenlediği yönündeki iddiaları yalanladı.",
+     "de": "Der Vize-Gouverneur von Hormozgan hat Berichte dementiert, wonach die USA und Israel einen Raketenangriff auf die Insel Qeshm verübt hätten."
     }
    },
    {
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Eskişehir'deki Tüm Emeklilerin Sendikası üyeleri, pankartlarını ters tutarak emekli maaşlarının düşürülmesi yönünde ironik bir eylem yaptı.",
      "de": "Mitglieder der Rentnergewerkschaft in Eskişehir forderten bei einer ironischen Protestaktion mit verkehrt herum gehaltenen Plakaten die Senkung der Renten."
-    }
-   },
-   {
-    "time": "2026-11-20T20:22:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/bakan-bolat-tan-yeni-partili-ozlale-ye-fon-sorusturmasi-yaniti-elde-ettigim-helal-ve-tertemiz-tasarrufumun-kaynagi-bellidir-2557945",
-    "text": {
-     "tr": "Ticaret Bakanı Ömer Bolat, fon soruşturması kapsamındaki iddialara yanıt vererek tasarruflarının meşru olduğunu belirtti.",
-     "de": "Handelsminister Ömer Bolat hat auf die Vorwürfe im Rahmen einer Fonds-Ermittlung reagiert und erklärt, seine Ersparnisse seien legal."
-    }
-   },
-   {
-    "time": "2026-11-20T19:59:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-a-buyuk-onur-fiba-siralamasinda-zirvede-2557938",
-    "text": {
-     "tr": "Türkiye A Milli Erkek Basketbol Takımı, FIBA 2027 Basketbol Dünya Kupası Avrupa Elemeleri güç sıralamasında zirvede yer aldı.",
-     "de": "Die türkische Basketball-Nationalmannschaft belegt in der Kraftrangliste der Europa-Qualifikation zur Weltmeisterschaft 2027 den ersten Platz."
     }
    }
   ]
@@ -181,6 +181,7 @@
   "https://tr.euronews.com/2026/11/20/rusya-bmde-olumcul-otonom-silahlar-icin-muzakereyi-engelliyor-katil-robot-gorusmeleri-cikm",
   "https://tr.euronews.com/2026/11/20/sozcu-tv-operasyonunda-gozaltina-alinan-4-isim-icin-adli-kontrol-karari",
   "https://tr.euronews.com/2026/11/20/tiktok-yanlis-bilgiyle-mucadele-icin-kamu-figurlerine-derin-sahte-tespiti-araci-baslatti",
+  "https://tr.euronews.com/2026/11/20/turk-matematikci-167-yillik-problemi-yapay-zekayla-cozdugunu-one-surdu",
   "https://tr.euronews.com/2026/11/20/zelenskiy-natonun-5-maddesine-benzer-guvenlik-garantisi-icin-abdden-aciklama-istedi",
   "https://tr.euronews.com/video/2026/11/20/ingiltere-marsi-2020-ayriligindan-sonra-ilk-kez-ab-kurumunda-brukselde-burnhama-karsilama",
   "https://tr.euronews.com/video/2026/11/20/italyada-24-saatlik-genel-grev-on-binlerce-isci-ve-ogrenci-hayat-pahaliligini-protesto-ett",
@@ -193,6 +194,7 @@
   "https://www.bbc.co.uk/news/articles/c623j4kpg94go",
   "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
   "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
+  "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
   "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
   "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
   "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
@@ -246,6 +248,7 @@
   "https://www.cumhuriyet.com.tr/gurme/italyan-mutfak-kulturunun-klasigi-lazanya-tarifi-2557838",
   "https://www.cumhuriyet.com.tr/gurme/japon-mutfak-kulturunun-yoshoku-klasigi-katsu-kori-2557907",
   "https://www.cumhuriyet.com.tr/gurme/topaklanmayan-ipeksi-sosuyla-besamel-soslu-tavuk-graten-tarifi-2557923",
+  "https://www.cumhuriyet.com.tr/gurme/zeytinyagli-sofralarinin-taze-imzasi-canli-yesil-lokum-gibi-ve-dengeli-lokanta-usulu-zeytinyagli-bezelye-tarifi-2557954",
   "https://www.cumhuriyet.com.tr/kultur-sanat/edusa-operasi-yeniden-sanatseverlerle-bulusuyor-2557939",
   "https://www.cumhuriyet.com.tr/kultur-sanat/idso-yu-bu-hafta-sascha-goetzel-yonetecek-2557895",
   "https://www.cumhuriyet.com.tr/kultur-sanat/trabzon-devlet-tiyatrosu-uc-oyun-sahneleyecek-2557927",
@@ -315,6 +318,7 @@
   "https://www.cumhuriyet.com.tr/yasam/metabolizmayi-esir-alan-yalan-gunde-6-ogun-beslenmek-saglikli-mi-2557940",
   "https://www.cumhuriyet.com.tr/yasam/milyonlarca-yillik-evrimin-sonucu-insanlarin-yuzde-90-i-neden-saglak-2557893",
   "https://www.cumhuriyet.com.tr/yasam/sirketlerin-yilbasi-hediyelerinde-dijital-ve-kisisellestirilmis-seceneklere-ilgi-artiyor-2557843",
+  "https://www.cumhuriyet.com.tr/yasam/vucudunuzda-hic-durmadan-yanan-o-gorunmez-ates-kronik-enflamasyon-hayatimizi-nasil-cokertiyor-2557953",
   "https://www.cumhuriyet.com.tr/yerel-gundem/adiyaman-da-kaldirim-ve-yol-isgaline-siki-denetim-kurallara-uymayana-yaptirim-geliyor-2557910",
   "https://www.cumhuriyet.com.tr/yerel-gundem/safranbolu-da-sirin-fazli-yesilyurt-aktif-yas-alma-merkezi-yeni-binasinda-acildi-2557912",
   "https://www.cumhuriyet.com.tr/yerel-gundem/tarihi-kaleici-nde-iklim-krizine-sanat-damgasi-atiklar-esere-donustu-2557915",
@@ -411,7 +415,10 @@
   "https://www.evrensel.net/haber/6010463/israil-in-gazze-seridi-ndeki-saldirilarinda-7-filistinli-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010464/hicbir-uretim-hedefi-insan-hayatindan-degerli-degildir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010465/gazze-baris-kurulu-israil-i-trump-planini-engellememesi-konusunda-uyardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010467/iran-basininin-abd-israil-kesm-adasi-na-fuze-saldirisi-iddiasina-yalanlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010468/gokcen-bilimler-koyu-belediye-baskaninin-akp-ye-gecmesinden-sonra-tahliye-edilmek-isteniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/putin-xi-und-trump-warum-der-jalta-vergleich-falsch-ist-201701674.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/auktion-briefe-von-lyonel-feininge-an-alois-schardt-bei-ketterer-in-hamburg-201703107.html",
@@ -430,6 +437,7 @@
   "https://www.faz.net/aktuell/gesellschaft/trends-nischen/vatikan-und-gubbio-christbaeume-leuchten-erstmals-gleichzeitig-201702190.html",
   "https://www.faz.net/aktuell/karriere-hochschule/bilanz-der-deutsch-israelischen-wissenschaftsbeziehungen-201672515.html",
   "https://www.faz.net/aktuell/karriere-hochschule/uni-live/wie-man-studienabschluesse-richtig-feiert-201696250.html",
+  "https://www.faz.net/aktuell/politik/ausland/daniel-thomas-15-monate-haft-fuer-angriff-auf-fluechtlingsboot-201703536.html",
   "https://www.faz.net/aktuell/politik/ausland/eu-und-grossbritannien-schliessen-abkommen-und-streiten-weiter-201701624.html",
   "https://www.faz.net/aktuell/politik/ausland/grossbritannien-und-eu-naeher-zusammen-aber-ein-beitritt-waere-keine-gute-idee-201702090.html",
   "https://www.faz.net/aktuell/politik/ausland/iran-will-ende-der-seeblockade-erzwingen-accg-201701027.html",
@@ -438,6 +446,7 @@
   "https://www.faz.net/aktuell/politik/inland/boris-rhein-im-interview-ueber-afd-merz-und-gen-z-201691221.html",
   "https://www.faz.net/aktuell/politik/inland/bundesrat-stoppt-startchancen-und-qualitaetsentwicklungsgesetz-accg-201701241.html",
   "https://www.faz.net/aktuell/politik/inland/eine-falsche-antwort-wurde-kathrin-wahlmann-zum-verhaengnis-201701248.html",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-wuest-der-bundesrat-ist-entscheidend-fuer-die-resilienz-der-demokratie-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/thueringen-hoecke-vertrauter-thorsten-weiss-wird-afd-geschaeftsfuehrer-201700967.html",
   "https://www.faz.net/aktuell/politik/inland/ulrich-siegmund-will-sich-schon-am-8-dezember-zum-ministerpraesidenten-waehlen-lassen-accg-201700949.html",
@@ -455,6 +464,7 @@
   "https://www.faz.net/aktuell/rhein-main/jugendproteste-in-frankfurt-gen-z-aendert-plaene-und-zieht-mit-tausenden-teilnehmern-durch-die-stadt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/jugendproteste-in-frankfurt-weniger-teilnehmer-bei-demo-von-genz-regelt-erwartet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/juedische-gemeinde-giessen-zieht-konsequenzen-nach-drohbrief-201697807.html",
+  "https://www.faz.net/aktuell/rhein-main/wirtschaft/ig-metall-streiks-in-betrieben-und-massive-wut-in-belegschaften-201702132.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/lufthansa-pilotengewerkschaft-kritisiert-kuerzungen-201701253.html",
   "https://www.faz.net/aktuell/sport/fussball/dfb-team-von-juergen-klopp-in-nations-league-viertelfinale-gegen-belgien-201701959.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-trainer-aus-bei-blackpool-fc-an-ian-evatts-geburtstag-18134600.html",
@@ -471,6 +481,7 @@
   "https://www.faz.net/aktuell/wirtschaft/buxmann-ueber-ki-die-genz-verliert-ihren-optimismus-201701324.html",
   "https://www.faz.net/aktuell/wirtschaft/digitalpolitik-der-eu-eine-chronologie-des-scheiterns-201674773.html",
   "https://www.faz.net/aktuell/wirtschaft/ig-metall-erstmals-seit-2018-wieder-24-stunden-streiks-accg-201701268.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-streit-mit-london-britische-studiengebuehren-bleiben-heikel-201703264.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kein-beschluss-der-klimagipfel-in-antalya-dauert-laenger-201703265.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/augenscreening-im-dm-christoph-werner-erwartet-langen-rechtsstreit-201697299.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-2026-diese-tipps-sollte-jeder-kennen-accg-201699822.html",
@@ -525,9 +536,11 @@
   "https://www.france24.com/en/video/20261120-spain-s-leaders-clash-over-corruption-economy-in-tense-election-debate",
   "https://www.france24.com/en/video/20261120-uk-and-eu-strike-landmark-deal-to-rebuild-ties-after-brexit",
   "https://www.manager-magazin.de/unternehmen/tech/deutsche-bank-und-lakestar-geheimplan-sollte-bank-zur-techbank-machen-a-511427f8-11c7-4057-8b13-1973a945c6d2#ref=rss",
+  "https://www.spiegel.de/ausland/andy-burnham-und-die-eu-in-bruessel-wird-wieder-die-britische-nationalhymne-gespielt-a-dfbc3de7-7dc2-4399-a513-1d48999eea85#ref=rss",
   "https://www.spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-eu-gipfel-bruessel-und-london-einigen-sich-auf-wiederannaeherung-a-6ccc48b9-df7e-478e-9815-038882284bba#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-eu-gipfel-bruessel-und-london-einigen-sich-offenbar-grundsaetzlich-auf-wiederannaeherung-a-6ccc48b9-df7e-478e-9815-038882284bba#ref=rss",
+  "https://www.spiegel.de/ausland/lana-nusseibeh-warum-diese-frau-die-uno-nicht-fuehren-kann-a-ccdf06b5-5ace-4ccf-ae6c-f235d9deee26#ref=rss",
   "https://www.spiegel.de/ausland/polen-meldet-absturz-von-drei-russischen-flugobjekten-a-590c07a8-aff7-45f3-bc77-38cc81cffb65#ref=rss",
   "https://www.spiegel.de/ausland/usa-nach-den-kongresswahlen-wie-trump-die-manosphere-verloren-hat-a-a60fcbfc-814c-4f73-843a-cf8ca2694f53#ref=rss",
   "https://www.spiegel.de/ausland/usa-nach-midterms-donald-trump-verliert-seine-bros-a-a60fcbfc-814c-4f73-843a-cf8ca2694f53#ref=rss",
@@ -568,6 +581,7 @@
   "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
   "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
   "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
+  "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
   "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
   "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
   "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
@@ -595,6 +609,7 @@
   "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
   "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
   "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
+  "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
   "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
   "https://www.theguardian.com/politics/2026/nov/20/fallout-over-tuition-fees-may-snag-burnhams-eu-deal-say-insiders",
   "https://www.theguardian.com/politics/2026/nov/20/nigel-farage-leadership-reform-uk-party",
@@ -621,13 +636,18 @@
   "https://www.theguardian.com/us-news/2026/nov/20/dolores-huerta-celebration-of-life-california",
   "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo",
   "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
+  "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
   "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
   "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
+  "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
   "https://www.theguardian.com/us-news/2026/nov/20/katie-zacharia-california-bar-investigation",
+  "https://www.theguardian.com/us-news/2026/nov/20/princeton-doctoral-student-reportedly-detained-ice",
   "https://www.theguardian.com/us-news/2026/nov/20/reinaldo-dennes-texas-execution-lethal-injection-botched",
   "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
   "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
   "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
+  "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+  "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
   "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
   "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
   "https://www.theguardian.com/world/2026/nov/20/young-people-europe-coordinated-protests-cost-of-living",
