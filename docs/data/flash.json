@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T23:51+01:00",
+ "updatedAt": "2026-11-21T00:21+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T23:55:44+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/video/2026/11/20/berlinde-ogrenci-protestosu-silahlanma-hamlesi-ve-zorunlu-askerlik-hedefte",
+    "text": {
+     "tr": "Berlin'de toplanan binlerce öğrenci ülkenin yeniden silahlanmasını ve zorunlu askerlik planlarını protesto etti.",
+     "de": "In Berlin haben हजार (tousands of) Studierende gegen die Aufrüstung des Landes und die Wehrpflicht demonstriert."
+    }
+   },
    {
     "time": "2026-11-20T22:35:53+00:00",
     "source": "FAZ Nachrichten",
@@ -38,15 +47,6 @@
      "tr": "Bayer, milyarlarca dolara mal olan Glyphosat davalarını sonlandırmak amacıyla 7,25 milyar dolarlık uzlaşmanın mahkeme tarafından onaylandığını duyurdu.",
      "de": "Ein Gericht hat einen 7,25 Milliarden schweren Glyphosat-Vergleich des Dax-Konzerns Bayer genehmigt, womit die Prozesse ein Ende finden dürften."
     }
-   },
-   {
-    "time": "2026-11-20T22:05:58+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/wirtschaft/article6b00c1515842ff528b9e2537/boerse-heftige-talfahrt-bei-tech-aktien-angstbarometer-steigt-auf-hoechsten-stand-seit-anderthalb-jahren.html",
-    "text": {
-     "tr": "ABD borsalarındaki sert düşüşle birlikte korku endeksi son bir buçuk yılın en yüksek seviyesine çıktı.",
-     "de": "Wegen eines heftigen Kursrutsches an den US-Börsen ist das Angstbarometer auf den höchsten Stand seit anderthalb Jahren gestiegen."
-    }
    }
   ],
   "world": [
@@ -60,39 +60,39 @@
     }
    },
    {
+    "time": "2026-11-20T23:15:20+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
+    "text": {
+     "tr": "Pentagon, Ortadoğu'da çekilen 2020, 2023 ve 2026 yıllarına ait UFO görüntülerini içeren sekizinci arşivi kamuoyuna açıkladı.",
+     "de": "Das US-Verteidigungsministerium hat eine achte Tranche von UFO-Aufnahmen aus dem Nahen Osten veröffentlicht."
+    }
+   },
+   {
+    "time": "2026-11-20T23:09:57+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+    "text": {
+     "tr": "Avustralya'nın Yeni Güney Galler eyalet parlamentosu, Hunter Vadisi'ndeki bir kömür madeninin üretimini yüzde 32 artırmasına izin veren yasayı onayladı.",
+     "de": "Das Parlament von New South Wales in Australien hat ein Gesetz zur Erhöhung der Kohleproduktion in einem Bergwerk um 32 Prozent verabschiedet."
+    }
+   },
+   {
+    "time": "2026-11-20T23:08:57+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+    "text": {
+     "tr": "Anthropic şirketinden bir matematikçi, ünlü Riemann hipotezini kanıtlamak için yapay zeka kullandığını açıkladı.",
+     "de": "Ein Mathematiker von Anthropic gibt an, Künstliche Intelligenz genutzt zu haben, um die berühmte Riemann-Vermutung zu beweisen."
+    }
+   },
+   {
     "time": "2026-11-20T22:28:00+01:00",
     "source": "tagesschau Ausland",
     "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
     "text": {
      "tr": "Danimarka, bir rapçiye yönelik suikast girişimi hazırlığı iddiasıyla bir Rus diplomatı sınır dışı etti.",
      "de": "Dänemark weist nach einem mutmaßlichen Attentatsplan auf einen Rapper einen russischen Diplomaten aus."
-    }
-   },
-   {
-    "time": "2026-11-20T22:04:45+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
-    "text": {
-     "tr": "Paris'te bir mahkeme, 2020 yılında siyahi müzik yapımcısı Michel Zecler'i darp eden üç polis memurunu hapis cezasına çarptırdı.",
-     "de": "Ein Gericht in Paris hat drei Polizisten wegen der Misshandlung des schwarzen Musikproduzenten Michel Zecler im Jahr 2020 zu Haftstrafen verurteilt."
-    }
-   },
-   {
-    "time": "2026-11-20T21:55:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/dunya/trump-si-cinping-ile-yapay-zeka-anlasmasini-duyurdu-2557957",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapay zeka güvenliği konusunda anlaştıklarını duyurdu.",
-     "de": "US-Präsident Donald Trump hat eine Einigung mit dem chinesischen Staatschef Xi Jinping zur Sicherheit künstlicher Intelligenz verkündet."
-    }
-   },
-   {
-    "time": "2026-11-20T21:47:41+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, veri merkezlerini yurt dışında inşa eden teknoloji şirketlerine ağır cezalar getirmekle tehdit etti.",
-     "de": "US-Präsident Donald Trump hat US-Technologiekonzernen, die Rechenzentren im Ausland bauen, enorme Strafen angedroht."
     }
    }
   ],
@@ -183,6 +183,7 @@
   "https://tr.euronews.com/2026/11/20/tiktok-yanlis-bilgiyle-mucadele-icin-kamu-figurlerine-derin-sahte-tespiti-araci-baslatti",
   "https://tr.euronews.com/2026/11/20/turk-matematikci-167-yillik-problemi-yapay-zekayla-cozdugunu-one-surdu",
   "https://tr.euronews.com/2026/11/20/zelenskiy-natonun-5-maddesine-benzer-guvenlik-garantisi-icin-abdden-aciklama-istedi",
+  "https://tr.euronews.com/video/2026/11/20/berlinde-ogrenci-protestosu-silahlanma-hamlesi-ve-zorunlu-askerlik-hedefte",
   "https://tr.euronews.com/video/2026/11/20/ingiltere-marsi-2020-ayriligindan-sonra-ilk-kez-ab-kurumunda-brukselde-burnhama-karsilama",
   "https://tr.euronews.com/video/2026/11/20/italyada-24-saatlik-genel-grev-on-binlerce-isci-ve-ogrenci-hayat-pahaliligini-protesto-ett",
   "https://tr.euronews.com/video/2026/11/20/kyiv-rusyanin-olumcul-saldirisi-sonrasi-enkazda-arama-calismalari-suruyor",
@@ -195,6 +196,7 @@
   "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
   "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
   "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
+  "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
   "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
   "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
   "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
@@ -211,6 +213,7 @@
   "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o",
   "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o",
   "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo",
+  "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
   "https://www.bbc.com/turkce/articles/c20y9v012v2o",
   "https://www.bbc.com/turkce/articles/c6ewvkrjy0kvo",
   "https://www.bbc.com/turkce/articles/c6p9dy1v49jvo",
@@ -713,6 +716,7 @@
   "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifstreit-ig-metall-100.html",
   "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
+  "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
   "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
@@ -748,6 +752,7 @@
   "https://www.theguardian.com/us-news/2026/nov/20/fiona-hippo-death-shrine-tributes-hat-cincinnati-zoo",
   "https://www.theguardian.com/us-news/2026/nov/20/first-thing-blockbuster-anthropic-ipo-fails-to-halt-global-slide-in-ai-stocks",
   "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
+  "https://www.theguardian.com/us-news/2026/nov/20/grand-theft-auto-vi-us-police-psa",
   "https://www.theguardian.com/us-news/2026/nov/20/ice-cuba-hunger-strike-force-feeding",
   "https://www.theguardian.com/us-news/2026/nov/20/ice-rearrest-judge-mockery-court-orders",
   "https://www.theguardian.com/us-news/2026/nov/20/indian-man-sentenced-prison-murder-plot-sikh-separatist",
