@@ -1,8 +1,26 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T22:21+01:00",
+ "updatedAt": "2026-11-20T22:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T22:33:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
+    "text": {
+     "tr": "Bayern Münih, Köln ile berabere kalırken Harry Kane ve Michael Olise sakatlık yaşadı.",
+     "de": "Bayern München spielt nur Unentschieden gegen Köln und beklagt Verletzungen von Harry Kane und Michael Olise."
+    }
+   },
+   {
+    "time": "2026-11-20T22:28:00+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
+    "text": {
+     "tr": "Danimarka, Ukrayna-Amerikalı bir rapçiye yönelik suikast planı nedeniyle bir Rus diplomatı sınır dışı etti.",
+     "de": "Dänemark weist nach einem mutmaßlichen Attentatsplan auf einen Rapper einen russischen Diplomaten aus."
+    }
+   },
    {
     "time": "2026-11-20T21:57:00+01:00",
     "source": "Der Spiegel",
@@ -29,24 +47,6 @@
      "tr": "ABD Borsa Düzenleme Kurumu, çip üreticisi Nvidia hakkında olası bilanço sorunları nedeniyle inceleme başlatı.",
      "de": "Die US-Börsenaufsicht ermittelt nach Medienberichten wegen mutmaßlicher Bilanzprobleme gegen den Chipriesen Nvidia."
     }
-   },
-   {
-    "time": "2026-11-20T21:25:44+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
-    "text": {
-     "tr": "İngiltere'de eşi tarafından internette tecavüze sunulan kadın davasında dört erkek suçlu bulundu.",
-     "de": "In Großbritannien wurden vier Männer schuldig gesprochen, nachdem eine Frau über Jahre von ihrem Ehemann angeboten worden war."
-    }
-   },
-   {
-    "time": "2026-11-20T20:57:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
-    "text": {
-     "tr": "Deutsche Bank, on yıl önce Çinli korsanlar tarafından gerçekleştirilen büyük siber saldırının hedefi oldu.",
-     "de": "Die Deutsche Bank war vor zehn Jahren Ziel eines massiven Hackerangriffs aus China."
-    }
    }
   ],
   "world": [
@@ -57,6 +57,15 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, Çin ve Rusya liderleriyle harika ilişkileri olduğunu ve bu sayede Amerika'nın güvende olduğunu belirtti.",
      "de": "US-Präsident Donald Trump betonte, dank großartiger Beziehungen zu den Staatschefs von China und Russland sei Amerika sicher."
+    }
+   },
+   {
+    "time": "2026-11-20T22:28:00+01:00",
+    "source": "tagesschau Ausland",
+    "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
+    "text": {
+     "tr": "Danimarka, bir rapçiye yönelik suikast girişimi hazırlığı iddiasıyla bir Rus diplomatı sınır dışı etti.",
+     "de": "Dänemark weist nach einem mutmaßlichen Attentatsplan auf einen Rapper einen russischen Diplomaten aus."
     }
    },
    {
@@ -85,18 +94,36 @@
      "tr": "Rus mahkemesi, Navalni'nin vakfına bağış yapan ornitolog Sofia Rosenfeld'i 3.5 yıl hapis cezasına çarptırdı.",
      "de": "Eine russische Ornithologin wurde wegen kleiner Spenden an Navalnys Stiftung zu dreieinhalb Jahren Straflager verurteilt."
     }
-   },
-   {
-    "time": "2026-11-20T20:36:00+00:00",
-    "source": "DW World",
-    "url": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
-    "text": {
-     "tr": "BM uzmanları, İran'da son bir yılda en az 135 avukata baskı uygulandığını ve adil yargılanmanın tehlikede olduğunu belirtti.",
-     "de": "UN-Experten warnen vor zunehmenden Repressionen gegen mindestens 135 Anwälte im Iran und Gefahren für faire Prozesse."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T00:50:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/otomobil-park-halindeki-tir-a-carpti-4-agir-yarali-2557995",
+    "text": {
+     "tr": "Kütahya-Afyonkarahisar karayolunda park halindeki TIR'a çarpan otomobildeki 4 kişi ağır yaralandı.",
+     "de": "Vier Personen wurden schwer verletzt, als ein Auto auf der Autobahn in der Türkei auf einen parkenden Lkw auffuhr."
+    }
+   },
+   {
+    "time": "2026-11-21T00:32:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasi-108-kisinin-mal-varligina-yonelik-islem-takibi-2557994",
+    "text": {
+     "tr": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturmasında 108 kişinin mal varlığı işlemlerinin bildirilmesini istedi.",
+     "de": "Die Staatsanwaltschaft Istanbul ordnete im Zuge von Fondsermittlungen die Überwachung der Vermögenswerte von 108 Personen an."
+    }
+   },
+   {
+    "time": "2026-11-21T00:28:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-5-bakanlikta-atama-ve-gorevden-alma-kararlari-2557993",
+    "text": {
+     "tr": "Resmi Gazete'de yayımlanan kararla beş bakanlıkta atama ve görevden alma işlemleri yapıldı.",
+     "de": "Per Dekret im Amtsblatt wurden in fünf Ministerien Ernennungen und Entlassungen vorgenommen."
+    }
+   },
    {
     "time": "2026-11-20T23:55:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Sermaye Piyasası Kurulu, Batıçim pay piyasasındaki işlemler nedeniyle BR Madencilik'e 6 ay işlem yasağı getirdi.",
      "de": "Das türkische Kapitalmarktgremium SPK verhängte ein sechstägiges Handelsverbot gegen BR Madencilik wegen Transaktionen bei Batıçim."
-    }
-   },
-   {
-    "time": "2026-11-20T23:41:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/dunya/afganistan-da-cocuklarin-buldugu-muhimmat-patladi-4-cocuk-oldu-2557980",
-    "text": {
-     "tr": "Afganistan'ın Ferrah vilayetinde çocukların bulduğu mühimmatın patlaması sonucu 4 çocuk hayatını kaybetti.",
-     "de": "Durch die Explosion von Munition in der afghanischen Provinz Farah starben vier Kinder."
-    }
-   },
-   {
-    "time": "2026-11-20T23:30:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010482/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Birleşmiş Milletler Genel Kurulu, Filistin'in bağımsızlık hakkı tasarı taslağını 162 oyla kabul etti.",
-     "de": "Die UN-Generalversammlung hat einen Entwurf zum Recht auf palästinensische Unabhängigkeit mit 162 Stimmen angenommen."
-    }
-   },
-   {
-    "time": "2026-11-20T23:23:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010480/corum-daki-is-cinayeti-kolunu-makinaya-kaptiran-isci-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Çorum'un Sungurlu ilçesindeki bir fabrikada kolunu makineye kaptıran işçi hayatını kaybetti.",
-     "de": "Ein junger Arbeiter starb nach einem Fabrikunfall in Çorum, bei dem er seinen Arm in eine Maschine geriet."
     }
    }
   ]
@@ -310,6 +310,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/eski-ihd-yoneticisi-ali-aydin-cinayetinde-yeni-gelisme-saniktan-kazaydi-savunmasi-2557908",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
   "https://www.cumhuriyet.com.tr/turkiye/fezleke-kararinin-ardindan-mustafa-sarigul-den-aciklama-kim-neyin-pesinde-kim-neyin-hesabini-yapiyor-2557928",
+  "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasi-108-kisinin-mal-varligina-yonelik-islem-takibi-2557994",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-araniyordu-serdar-altinbas-cekya-da-yakalandi-2557966",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
   "https://www.cumhuriyet.com.tr/turkiye/gazetecilerin-yargilandigi-davada-savcidan-5-isme-hapis-cezasi-istemi-2557898",
@@ -323,8 +324,10 @@
   "https://www.cumhuriyet.com.tr/turkiye/izmir-de-otizmli-cocuklara-yonelik-siddet-sorusturmasinda-savciliktan-aciklama-2557951",
   "https://www.cumhuriyet.com.tr/turkiye/kalp-krizi-gecirerek-hayatini-kaybetti-cenazesi-dondurma-dolabinda-bekletildi-2557897",
   "https://www.cumhuriyet.com.tr/turkiye/manisa-buyuksehir-belediyesi-sorusturmasi-genel-sekreter-yardimcisi-tutuklandi-2557941",
+  "https://www.cumhuriyet.com.tr/turkiye/otomobil-park-halindeki-tir-a-carpti-4-agir-yarali-2557995",
   "https://www.cumhuriyet.com.tr/turkiye/oyak-in-fonlara-para-aktarilmasi-yoluyla-icinin-bosaltildigi-iddialarina-aciklama-geldi-2557987",
   "https://www.cumhuriyet.com.tr/turkiye/ozgur-celik-ten-dusunce-ve-basin-ozgurlugu-yuruyusu-cagrisi-2557952",
+  "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-5-bakanlikta-atama-ve-gorevden-alma-kararlari-2557993",
   "https://www.cumhuriyet.com.tr/turkiye/seniz-dogan-ve-esinin-antalya-ya-nakline-barodan-itiraz-2557930",
   "https://www.cumhuriyet.com.tr/turkiye/sol-haber-in-x-hesabina-5-kez-erisim-engeli-2557876",
   "https://www.cumhuriyet.com.tr/turkiye/sporculara-mezar-olmustu-kircuval-otel-davasinda-yeni-gelisme-8-saniga-iyi-hal-indirimli-hapis-cezasi-2557909",
@@ -335,6 +338,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/yeni-partili-ozgur-celik-ten-akp-ye-gecen-isimlere-sert-tepki-2557854",
   "https://www.cumhuriyet.com.tr/tv-rehberi/amcam-filminin-konusu-ne-amcam-filminin-oyunculari-kim-2557894",
   "https://www.cumhuriyet.com.tr/tv-rehberi/kritik-karar-filminin-konusu-ne-kritik-karar-filminin-oyunculari-kim-2557916",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-eleme-adayi-kim-oldu-20-kasim-2026-masterchef-te-odul-oyununu-kim-kazandi-2557992",
   "https://www.cumhuriyet.com.tr/yasam/beyin-hastaliklarinin-teshisinde-yeni-yontem-kandan-sinir-hucrelerinin-izini-suren-protein-bulundu-2557879",
   "https://www.cumhuriyet.com.tr/yasam/ileri-yasta-kas-kaybinin-nedeni-cozuldu-zombi-hucreler-iyilesme-alarmini-acik-birakiyor-2557892",
   "https://www.cumhuriyet.com.tr/yasam/metabolizmayi-esir-alan-yalan-gunde-6-ogun-beslenmek-saglikli-mi-2557940",
@@ -403,6 +407,9 @@
   "https://www.evrensel.net/haber/6010423/mustafa-sarigul-un-dokunulmazliginin-kaldirilmasi-icin-fezleke-hazirlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010424/uefa-uluslar-ligi-nde-ceyrek-final-eslesmeleri-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010425/tgs-den-siddet-raporu-gazeteci-kadinlar-kres-ve-guvenli-calisma-ortami-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010426/sendikalardan-ortak-mucadele-cagrisi-habas-ta-sessizligi-bozalim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010427/neden-cumartesi-olmemis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010428/kamu-iscisi-kazandiginin-ne-kadarini-elinde-tutabiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010429/malezya-dan-turkiye-ye-10-bin-rohingya-multeci-gelecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010430/bir-yildir-yakalanmayan-cinsel-saldiri-faili-mesem-li-kiz-cocugunu-kacirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010431/emep-ten-darp-edilen-ilmira-hali-iscisi-ali-yazin-a-ziyaret-mucadelesinin-sonuna-kadar-takipcisi-olacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -459,6 +466,9 @@
   "https://www.evrensel.net/haber/6010482/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010483/trump-si-ve-putin-le-harika-iliskilerim-oldugu-icin-amerika-guvende?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010484/fransiz-parlamentosu-kolluk-kuvvetlerine-mesru-mudafaa-zirhi-saglayan-tasariyi-kabul-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010485/abd-ye-ulasmak-isteyen-yaklasik-250-kisilik-gocmen-kafilesi-yola-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010486/fon-vurgunu-listesi-108-kisinin-mal-varligi-islemlerine-iliskin-ilgili-kurumlardan-bildirim-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010487/bazi-bakanliklarda-atama-ve-gorevden-alma-kararlari-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -518,12 +528,14 @@
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/ig-metall-streiks-in-betrieben-und-massive-wut-in-belegschaften-201702132.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/lufthansa-pilotengewerkschaft-kritisiert-kuerzungen-201701253.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-plant-ab-2030-rueckkehr-zu-v8-motoren-201703612.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-koeln-holt-in-der-bundesliga-einen-punkt-beim-fc-bayern-muenchen-201304401.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-1-fc-magdeburg-gewinnt-gegen-arminia-bielefeld-201304596.html",
   "https://www.faz.net/aktuell/sport/fussball/dfb-team-von-juergen-klopp-in-nations-league-viertelfinale-gegen-belgien-201701959.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-trainer-aus-bei-blackpool-fc-an-ian-evatts-geburtstag-18134600.html",
   "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-und-sein-satz-was-die-nationalmannschaft-jetzt-traegt-201694328.html",
   "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-deutschland-gegen-belgien-im-viertelfinale-faz-201651368.html",
   "https://www.faz.net/aktuell/sport/fussball/liveticker-nationalmannschaft-juergen-klopp-warnt-vor-dfb-gegner-belgien-faz-201651368.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/daniil-medwedew-fordert-alexander-zverev-bei-den-atp-finals-201703823.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/nfl-sperrt-puka-nacua-von-los-angeles-rams-nach-antisemitismus-vorwuerfen-accg-201701829.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html",
   "https://www.faz.net/aktuell/sport/sport-tipps/sport-nach-der-grippeschutzimpfung-was-erlaubt-ist-und-was-man-besser-verschiebt-accg-201665383.html",
@@ -623,6 +635,7 @@
   "https://www.spiegel.de/politik/deutschland/spd-landeschef-steffen-krach-der-buhmann-von-berlin-a-c4658a19-bf41-4f07-a323-e689049b10f2#ref=rss",
   "https://www.spiegel.de/politik/gen-z-proteste-danke-fuer-nichts-boomer-ihr-habt-das-land-und-unsere-zukunft-ruiniert-a-956ca15b-b03c-4757-876e-a5f7a8a7227b#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-rueckkehr-zum-v8-serie-plant-lautere-und-einfachere-motoren-a-8132f6e9-8699-46f6-8c0f-dd64a7bc52f1#ref=rss",
+  "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
   "https://www.spiegel.de/sport/fussball/mls-lionel-messi-in-gehaltsliste-vor-robert-lewandowski-und-thomas-mueller-a-3272bd71-59a5-4319-9642-717fa0a38711#ref=rss",
   "https://www.spiegel.de/sport/fussball/nations-league-deutschland-trifft-auf-belgien-und-kevin-de-bruyne-a-c92fa99f-e865-4c42-901d-9bb1e0dfa622#ref=rss",
   "https://www.spiegel.de/sport/fussball/tom-brady-ex-football-star-steigt-offenbar-beim-fc-chelsea-ein-a-3ffeb2f1-3990-420f-b94d-4119c73c5699#ref=rss",
@@ -645,6 +658,7 @@
   "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html",
   "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
   "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
+  "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
   "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
   "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
   "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
@@ -760,6 +774,7 @@
   "https://www.welt.de/sport/fussball/article6b007480b237b5b41c9a2f7f/blackpools-trainer-geburtstagsgruss-am-morgen-entlassung-am-nachmittag.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-den-fc-bayern-bei-kompanys-rueckkehr-kalt.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-die-bayern-bei-kompanys-rueckkehr-kalt-kane-muss-verletzt-runter-dann-trifft-brown.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-rueckschlag-im-heimspiel-fc-bayern-kommt-ohne-die-verletzten-kane-und-olise-gegen-koeln-nur-zu-remis.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-schafft-der-fc-bayern-ohne-die-verletzten-kane-und-olise-noch-die-wende.html",
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
