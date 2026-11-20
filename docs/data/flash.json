@@ -1,6 +1,6 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T22:51+01:00",
+ "updatedAt": "2026-11-20T23:21+01:00",
  "countries": {
   "de": [
    {
@@ -22,6 +22,15 @@
     }
    },
    {
+    "time": "2026-11-20T22:05:58+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/wirtschaft/article6b00c1515842ff528b9e2537/boerse-heftige-talfahrt-bei-tech-aktien-angstbarometer-steigt-auf-hoechsten-stand-seit-anderthalb-jahren.html",
+    "text": {
+     "tr": "ABD borsalarındaki sert düşüşle birlikte korku endeksi son bir buçuk yılın en yüksek seviyesine çıktı.",
+     "de": "Wegen eines heftigen Kursrutsches an den US-Börsen ist das Angstbarometer auf den höchsten Stand seit anderthalb Jahren gestiegen."
+    }
+   },
+   {
     "time": "2026-11-20T21:57:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/panorama/alaska-traechtiger-finnwal-von-kreuzfahrtschiff-getoetet-a-fde22b7d-97ec-4ae7-b222-70e32d0ca246#ref=rss",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Eski Amerikan futbolcusu Tom Brady'nin, İngiltere'nin Chelsea futbol kulübüne ortak olacağı bildirildi.",
      "de": "Der ehemalige Football-Star Tom Brady steigt offenbar als Anteilseigner beim englischen Fußballverein FC Chelsea ein."
-    }
-   },
-   {
-    "time": "2026-11-20T21:34:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
-    "text": {
-     "tr": "ABD Borsa Düzenleme Kurumu, çip üreticisi Nvidia hakkında olası bilanço sorunları nedeniyle inceleme başlatı.",
-     "de": "Die US-Börsenaufsicht ermittelt nach Medienberichten wegen mutmaßlicher Bilanzprobleme gegen den Chipriesen Nvidia."
     }
    }
   ],
@@ -69,6 +69,15 @@
     }
    },
    {
+    "time": "2026-11-20T22:04:45+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
+    "text": {
+     "tr": "Paris'te bir mahkeme, 2020 yılında siyahi müzik yapımcısı Michel Zecler'i darp eden üç polis memurunu hapis cezasına çarptırdı.",
+     "de": "Ein Gericht in Paris hat drei Polizisten wegen der Misshandlung des schwarzen Musikproduzenten Michel Zecler im Jahr 2020 zu Haftstrafen verurteilt."
+    }
+   },
+   {
     "time": "2026-11-20T21:55:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/dunya/trump-si-cinping-ile-yapay-zeka-anlasmasini-duyurdu-2557957",
@@ -78,25 +87,34 @@
     }
    },
    {
-    "time": "2026-11-20T21:17:59+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+    "time": "2026-11-20T21:47:41+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
     "text": {
-     "tr": "Fransa Parlamentosu, güvenlik güçlerine görev sırasında silah kullanımlarında meşru müdafaa karinesi tanıyan yasayı onayladı.",
-     "de": "Das französische Parlament hat ein umstrittenes Gesetz verabschiedet, das Polizeibeamten bei Schusswaffeneinsätzen Rechtsschutz gewährt."
-    }
-   },
-   {
-    "time": "2026-11-20T20:45:00+00:00",
-    "source": "DW World",
-    "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505",
-    "text": {
-     "tr": "Rus mahkemesi, Navalni'nin vakfına bağış yapan ornitolog Sofia Rosenfeld'i 3.5 yıl hapis cezasına çarptırdı.",
-     "de": "Eine russische Ornithologin wurde wegen kleiner Spenden an Navalnys Stiftung zu dreieinhalb Jahren Straflager verurteilt."
+     "tr": "ABD Başkanı Donald Trump, veri merkezlerini yurt dışında inşa eden teknoloji şirketlerine ağır cezalar getirmekle tehdit etti.",
+     "de": "US-Präsident Donald Trump hat US-Technologiekonzernen, die Rechenzentren im Ausland bauen, enorme Strafen angedroht."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T00:56:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010489/resmi-gazete-de-yayimlandi-suriye-deki-4-fakulte-ve-2-meslek-yuksekokulu-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Resmi Gazete'de yayımlanan kararla Suriye'deki Gaziantep ve Sağlık Bilimleri üniversitelerine bağlı 4 fakülte ve 2 meslek yüksekokulu kapatıldı.",
+     "de": "Per Dekret im Amtsblatt wurden vier Fakultäten und zwei Berufsfachschulen türkischer Universitäten im Syrien geschlossen."
+    }
+   },
+   {
+    "time": "2026-11-21T00:52:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010488/almanya-da-z-kusagi-gencler-73-kentte-eylemdeydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Almanya genelinde 73 kentte sokağa çıkan Z kuşağı gençler eğitim, sağlık ve yaşam koşullarının iyileştirilmesini talep etti.",
+     "de": "In 73 Städten Deutschlands gingen jugendliche Mitglieder der Generation Z auf die Straße, um für Bildung und bessere Lebensbedingungen zu demonstrieren."
+    }
+   },
    {
     "time": "2026-11-21T00:50:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Resmi Gazete'de yayımlanan kararla beş bakanlıkta atama ve görevden alma işlemleri yapıldı.",
      "de": "Per Dekret im Amtsblatt wurden in fünf Ministerien Ernennungen und Entlassungen vorgenommen."
-    }
-   },
-   {
-    "time": "2026-11-20T23:55:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/oyak-in-fonlara-para-aktarilmasi-yoluyla-icinin-bosaltildigi-iddialarina-aciklama-geldi-2557987",
-    "text": {
-     "tr": "OYAK yönetimi, kurumun fonlara para aktarımı yoluyla içini boşalttığı iddialarını yalanlayarak iftira olarak nitelendirdi.",
-     "de": "Die OYAK-Führung hat Vorwürfe zurückgewiesen, das Vermögen des türkischen Vorsorgefonds sei durch Mitteltransfers entleert worden."
-    }
-   },
-   {
-    "time": "2026-11-20T23:46:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/ekonomi/spk-den-baticim-hisselerine-iliskin-islem-yasagi-karari-2557983",
-    "text": {
-     "tr": "Sermaye Piyasası Kurulu, Batıçim pay piyasasındaki işlemler nedeniyle BR Madencilik'e 6 ay işlem yasağı getirdi.",
-     "de": "Das türkische Kapitalmarktgremium SPK verhängte ein sechstägiges Handelsverbot gegen BR Madencilik wegen Transaktionen bei Batıçim."
     }
    }
   ]
@@ -200,13 +200,16 @@
   "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
   "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
   "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
+  "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
   "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
   "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
   "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
   "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+  "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
   "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o",
   "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o",
+  "https://www.bbc.co.uk/news/videos/c90k6gl3lyxeo",
   "https://www.bbc.com/turkce/articles/c20y9v012v2o",
   "https://www.bbc.com/turkce/articles/c6ewvkrjy0kvo",
   "https://www.bbc.com/turkce/articles/c6p9dy1v49jvo",
@@ -398,6 +401,7 @@
   "https://www.evrensel.net/haber/6010414/adana-da-40-50-bin-bina-risk-havuzunda-evim-ne-kadar-guvenli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010415/sol-haber-in-x-hesabina-besinci-kez-erisim-engeli-getirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010416/kredi-kartlarinin-asgari-odeme-tutarlari-degisti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010417/celik-patronlari-halkin-1-6-trilyon-lirasini-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010417/celik-patronlari-halkin-16-trilyon-lirasini-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010418/dersim-de-surec-toplantisi-icisleri-bakani-ciftci-8-sehrin-valisiyle-bir-araya-gelecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010419/galatasaray-dan-futbolcu-sakatliklariyla-ilgili-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -469,6 +473,9 @@
   "https://www.evrensel.net/haber/6010485/abd-ye-ulasmak-isteyen-yaklasik-250-kisilik-gocmen-kafilesi-yola-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010486/fon-vurgunu-listesi-108-kisinin-mal-varligi-islemlerine-iliskin-ilgili-kurumlardan-bildirim-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010487/bazi-bakanliklarda-atama-ve-gorevden-alma-kararlari-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010488/almanya-da-z-kusagi-gencler-73-kentte-eylemdeydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010489/resmi-gazete-de-yayimlandi-suriye-deki-4-fakulte-ve-2-meslek-yuksekokulu-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010490/euroleague-de-13-hafta-besiktas-partizan-a-uzatmada-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -482,6 +489,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/ard-serie-jossi-ein-falscher-jude-droht-aufzufliegen-201690120.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/videospiel/gta-vi-bedient-unsere-sehnsucht-nach-kontrolle-201701036.html",
   "https://www.faz.net/aktuell/finanzen/anthropic-feiert-rekordboersendebuet-indizes-unter-druck-201701327.html",
+  "https://www.faz.net/aktuell/finanzen/boersen-maerkte/aktien-indizes/nasdaq-im-sinkflug-experte-zieht-parallele-zu-2018-201703883.html",
   "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/aktien-von-ubisoft-brechen-ein-201702189.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/anthropic-10-prozent-im-minus-nach-rekord-boersengang-accg-201700660.html",
@@ -577,8 +585,10 @@
   "https://www.france24.com/en/france/20261120-france-investigates-gerard-depardieu-writer-houellebecq-over-alleged-gang-rape",
   "https://www.france24.com/en/france/20261120-france-probes-suspected-leak-confidential-information-le-pen-far-right-party",
   "https://www.france24.com/en/france/20261120-licence-to-kill-french-parliament-adopts-police-shootings-law-slammed-activists",
+  "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-over-2020-beating-of-black-man-michel-zecler",
   "https://www.france24.com/en/tv-shows/access-asia/20261120-shenzhen-trilateral-xi-jinping-s-masterclass-in-diplomatic-theatre",
   "https://www.france24.com/en/tv-shows/arts24/20261120-blade-runner-2099-rivals-the-big-tv-shows-to-watch-this-month",
+  "https://www.france24.com/en/tv-shows/eye-on-africa/20261120-guinea-bans-burkina-faso-broadcaster-escalating-diplomatic-tensions",
   "https://www.france24.com/en/tv-shows/focus/20261120-malaysia-s-unwanted-refugees-the-plight-of-the-rohingya",
   "https://www.france24.com/en/tv-shows/paris-des-arts/20261120-a-cultural-stroll-through-paris-with-singer-songwriters-mariam-doumbia-and-zaho",
   "https://www.france24.com/en/tv-shows/reporters/20261120-jamaica-beaches-off-limits-to-locals-property-developers-hotels",
@@ -622,6 +632,7 @@
   "https://www.spiegel.de/kultur/olli-dittrich-ndr-doku-zum-70-geburtstag-was-wuerde-dittsche-waehlen-a-70b239db-e355-4285-bad1-2dd412954dc2#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-beschlossen-so-sollen-fahrschueler-sparen-a-f2dc9706-e233-430d-94f5-bc83a0c54c5c#ref=rss",
   "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
+  "https://www.spiegel.de/netzwelt/games/gta-6-spielt-am-ersten-verkaufstag-knapp-3-8-milliarden-dollar-ein-a-53c77687-45dc-47fb-a1d8-0aab58107f86#ref=rss",
   "https://www.spiegel.de/panorama/alaska-traechtiger-finnwal-von-kreuzfahrtschiff-getoetet-a-fde22b7d-97ec-4ae7-b222-70e32d0ca246#ref=rss",
   "https://www.spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss",
@@ -730,6 +741,7 @@
   "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
   "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
   "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+  "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
   "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
   "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
@@ -743,6 +755,7 @@
   "https://www.welt.de/iconist/mode/plus6b002950b237b5b41c9a2617/jan-hofer-bei-hse-im-fernsehen-verkauft-man-immer-etwas-sich-selbst-ein-produkt-oder-eben-die-nachrichten.html",
   "https://www.welt.de/politik/article6b006a205842ff528b9e201f/friedrich-merz-gemeinsame-prioritaet-fuer-uns-hat-der-wiederaufbau-syriens-sagt-kanzler-nach-treffen-mit-katar.html",
   "https://www.welt.de/politik/article6b00959a39a3e8110f0e4930/boris-rhein-kritisiert-bundesregierung-meine-geduld-ist-langsam-am-ende.html",
+  "https://www.welt.de/politik/article6b00bdea5842ff528b9e251c/donald-trump-putin-will-krieg-mit-diplomatischen-mitteln-beenden-glaubt-der-us-praesident.html",
   "https://www.welt.de/politik/ausland/article6afffac1be487c543774694d/polen-meldet-absturz-mehrerer-russischer-flugobjekte-nato-verurteilt-luftraumverletzungen.html",
   "https://www.welt.de/politik/ausland/article6b00169239a3e8110f0e38a8/gipfel-in-bruessel-eu-und-grossbritannien-einigen-sich-auf-projekte-fuer-annaeherung-eine-streitfrage-ist-ungeloest.html",
   "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
@@ -779,6 +792,7 @@
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
   "https://www.welt.de/wirtschaft/article6b002a6ab237b5b41c9a2632/ukraine-krieg-friedrich-merz-verspricht-deutschland-dividende-aus-ukraine-investitionen.html",
+  "https://www.welt.de/wirtschaft/article6b00c1515842ff528b9e2537/boerse-heftige-talfahrt-bei-tech-aktien-angstbarometer-steigt-auf-hoechsten-stand-seit-anderthalb-jahren.html",
   "https://www.welt.de/wirtschaft/plus6aff054939a3e8110f0e2712/schuldenrisiko-die-jugend-geraet-in-zahlungsverzug-und-ab-sofort-gelten-diese-strengeren-regeln.html",
   "https://www.welt.de/wirtschaft/plus6aff1734c1e8003ef73c4ac5/schwerdtner-bei-maischberger-die-mietspiegel-blamage-der-linken-chefin.html",
   "https://www.welt.de/wirtschaft/plus6aff3f44c1e8003ef73c4e46/alkopopsteuer-von-2-99-auf-4-28-euro-deutschlands-angriff-auf-die-dosen-drinks.html",
