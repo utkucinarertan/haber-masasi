@@ -17,7 +17,7 @@ permissions:
   actions: write
 
 concurrency:
-  group: news-loop
+  group: news-loop-2
   cancel-in-progress: false
 
 jobs:
