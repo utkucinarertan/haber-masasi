@@ -356,14 +356,6 @@ def update_flash(cfg, now, langs):
         old = {}
     if old.get("since") != since:
         old = {}   # baskı saati geçti: yeni gün, liste sıfırlanır
-    elif os.environ.get("GITHUB_EVENT_NAME") == "schedule" and old.get("updatedAt"):
-        try:
-            age = now - datetime.fromisoformat(old["updatedAt"])
-        except ValueError:
-            age = timedelta(hours=1)
-        if age < timedelta(minutes=45):   # saatte üç zamanlanmış deneme var; Gemini'yi gereksiz çağırma
-            log(f"Son dakika {int(age.total_seconds() // 60)} dakika önce güncellendi; atlandı.")
-            return
     codes = {c["code"] for c in cfg.get("countries", [])}
     lines = {c: v for c, v in old.get("countries", {}).items() if c in codes}
     seen = set(old.get("seen", []))
@@ -546,11 +538,84 @@ def publish(message):
         return
     git("commit", "-q", "-m", message)
     for _ in range(5):
-        if git("pull", "-q", "--rebase").returncode == 0 and git("push", "-q").returncode == 0:
+        pulled = git("pull", "-q", "--rebase")
+        if pulled.returncode != 0 and "conflict" in (pulled.stdout + pulled.stderr).lower():
+            # başka bir iş aynı dosyayı yazdı: bu sonucu bırak, depo durumuna dön; döngü yeniden üretir
+            git("rebase", "--abort")
+            git("fetch", "-q", "origin")
+            git("reset", "-q", "--hard", "origin/main")
+            log("Uyarı: aynı dosya başka bir işte değişmiş; bu güncelleme bir sonraki turda yeniden yapılacak.")
+            return False
+        if pulled.returncode == 0 and git("push", "-q").returncode == 0:
             log("Yayına alındı.")
-            return
+            return True
         time.sleep(7)
     log("Uyarı: yayına alınamadı (git push); iş sonunda yeniden denenecek.")
+    return False
+
+
+def sync():
+    """Döngü: yöneticinin ayar değişiklikleri ve diğer işlerin yazdıkları için depoyu güncelle."""
+    if os.environ.get("GITHUB_ACTIONS") != "true":
+        return
+    git = lambda *a: subprocess.run(["git", *a], cwd=ROOT, check=False, capture_output=True, text=True)
+    if git("pull", "-q", "--rebase").returncode != 0:
+        git("rebase", "--abort")
+        git("fetch", "-q", "origin")
+        git("reset", "-q", "--hard", "origin/main")
+
+
+def flash_age(cfg, now):
+    try:
+        old = json.loads(FLASH.read_text(encoding="utf-8"))
+        if old.get("since") != flash_window(cfg, now).isoformat(timespec="minutes"):
+            return None   # yeni gün: hemen güncellenmeli
+        return now - datetime.fromisoformat(old["updatedAt"])
+    except (OSError, ValueError, KeyError):
+        return None
+
+
+LOOP_FOR = timedelta(hours=5, minutes=20)   # GitHub işi en fazla 6 saat; sonra döngü kendini yeniden başlatır
+FLASH_EVERY = timedelta(minutes=30)
+
+
+def loop():
+    """Haber döngüsü: GitHub'ın zamanlayıcısına güvenmeden sürekli çalışır.
+
+    - Sabah baskısını üretim saatinde (hazır olma saatinden BUILD_LEAD önce) üretir; eksik ülkeyi
+      birkaç dakika arayla yeniden dener, hazır olanı hemen yayına alır.
+    - Son dakikayı FLASH_EVERY'de bir günceller.
+    - LOOP_FOR dolunca çıkar; iş akışı kendini yeniden başlatır (workflow_dispatch gecikmesiz çalışır)."""
+    started = datetime.now(timezone.utc)
+    next_build_try = next_flash_try = started
+    while datetime.now(timezone.utc) - started < LOOP_FOR:
+        sync()
+        cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
+        langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
+        now = datetime.now(zone(cfg))
+        if now >= build_start(cfg, now.date()) and datetime.now(timezone.utc) >= next_build_try:
+            missing = missing_countries(cfg, langs, now.date().isoformat())
+            if missing:
+                log(f"[{now:%H:%M}] Baskı: {', '.join(missing)}")
+                left = build_edition(cfg, now, langs, missing)
+                if len(left) < len(missing):
+                    publish(f"Sabah baskısı {now:%F %H:%M} ({zone(cfg).key})")
+                if left:
+                    next_build_try = datetime.now(timezone.utc) + timedelta(minutes=3)
+                    log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
+        now = datetime.now(zone(cfg))
+        age = flash_age(cfg, now)
+        if (age is None or age >= FLASH_EVERY) and datetime.now(timezone.utc) >= next_flash_try:
+            log(f"[{now:%H:%M}] Son dakika güncelleniyor.")
+            try:
+                update_flash(cfg, now, langs)
+                publish(f"Son dakika {now:%F %H:%M} ({zone(cfg).key})")
+            except RuntimeError as e:   # Gemini geçici hata/kota: 10 dakika sonra yeniden dene
+                log(f"Uyarı: son dakika güncellenemedi: {e}")
+                next_flash_try = datetime.now(timezone.utc) + timedelta(minutes=10)
+        time.sleep(60)
+    log("Döngü süresi doldu; yeniden başlatılacak.")
+    gh_output(chain="true")
 
 
 def gh_output(**kv):
@@ -623,6 +688,9 @@ def main():
     sys.stdout.reconfigure(encoding="utf-8")
     if "--migrate" in sys.argv:
         migrate()
+        return
+    if "--loop" in sys.argv:
+        loop()
         return
     cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
     langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]

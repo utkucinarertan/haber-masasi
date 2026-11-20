@@ -1,17 +1,12 @@
 name: Günlük haber baskısı
 
-# Son dakika listesini (docs/data/flash.json) günceller. Günlük baskıyı sabah işi (morning-edition.yml)
-# hazırlar; bu iş yalnızca yedektir: baskı saati geçtiği hâlde eksik ülke varsa ve sabah işi
-# çalışmıyorsa onu tamamlar. Ayarlar docs/data/config.json'dan gelir.
+# Yalnızca yönetim sayfasındaki "Şimdi hazırla" düğmesi için: bugünün baskısını saate bakmadan
+# tüm ülkeler için hemen yeniden üretir ve son dakikayı günceller.
+# Düzenli işleri (sabah baskısı, 30 dakikada bir son dakika, eksik ülke tamamlama, ayar
+# değişikliklerini uygulama) sürekli çalışan "Haber döngüsü" (news-loop.yml) yapar.
 # Haberler ücretsiz Google Gemini ile özetlenir. Gerekli secret: GEMINI_API_KEY (yönetim sayfasından kaydedilir).
 on:
-  schedule:
-    # GitHub zamanlanmış işleri yoğun saat başlarında sık sık atlar; saatte üç deneme yapılır,
-    # betik son dakikayı en fazla ~45 dakikada bir günceller.
-    - cron: "17,37,57 * * * *"
-  push:
-    paths: ["docs/data/config.json", "scripts/build_news.py", ".github/workflows/daily-news.yml"]   # ayar ya da kod değişince hemen çalış (baskı yalnızca saati gelmişse)
-  workflow_dispatch:      # yönetim sayfasındaki "Şimdi hazırla" düğmesi (saate bakmadan tüm ülkeleri üretir)
+  workflow_dispatch:
     inputs:
       flash_only:
         description: "Yalnızca son dakikayı güncelle (baskıya dokunma)"
@@ -20,7 +15,6 @@ on:
 
 permissions:
   contents: write
-  actions: write
 
 concurrency:
   group: daily-news
@@ -39,32 +33,7 @@ jobs:
       - name: Haberleri derle ve özetle
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          # sabah işi çalışıyorsa eksik ülkeyi o tamamlar (aynı dosyaya iki iş yazmasın)
-          running=$(gh run list --repo "${{ github.repository }}" --workflow morning-edition.yml --status in_progress --json databaseId --jq length 2>/dev/null || echo 0)
-          if [ "$running" != "0" ]; then export MORNING_RUNNING=1; fi
-          python scripts/build_news.py ${{ inputs.flash_only && '--flash-only' || '' }}
-
-      - name: Sabah işi bekliyor mu? (akşam/gece yoksa başlat)
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          # GitHub sabah işinin zamanlamasını atlayabilir; akşam 19:00 ile sabah 04:59 (Almanya) arasında
-          # bekleyen ya da çalışan sabah işi yoksa buradan başlatılır.
-          hour=$(TZ=Europe/Berlin date +%H)
-          if [ "$hour" -ge 19 ] || [ "$hour" -lt 5 ]; then
-            active=0
-            for s in in_progress queued; do
-              n=$(gh run list --repo "${{ github.repository }}" --workflow morning-edition.yml --status $s --json databaseId --jq length 2>/dev/null || echo 0)
-              active=$((active + n))
-            done
-            if [ "$active" = "0" ]; then
-              gh workflow run morning-edition.yml --repo "${{ github.repository }}" --ref main && echo "Sabah işi başlatıldı."
-            else
-              echo "Sabah işi zaten bekliyor/çalışıyor."
-            fi
-          fi
+        run: python scripts/build_news.py ${{ inputs.flash_only && '--flash-only' || '' }}
 
       - name: Yeni baskıyı kaydet
         run: |

@@ -188,7 +188,7 @@ const T = {
       admin:"Yönetim", locale:"tr-TR",
       world:"Dünya", topics:{gundem:"Gündem", ekonomi:"Ekonomi", teknoloji:"Teknoloji", spor:"Spor"}, topicsLabel:"Konular",
       noTopic:"Bu ülke için konu seçin.",
-      flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste saat başı güncellenir.",
+      flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste 30 dakikada bir güncellenir.",
       flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
   en:{brand:"News Desk", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
       overview:"The day at a glance", stories:n => n + (n === 1 ? " story" : " stories"), imp:{3:"Top story",2:"Important",1:"In brief"},
@@ -203,7 +203,7 @@ const T = {
       admin:"Admin", locale:"en-GB",
       world:"World", topics:{gundem:"Top news", ekonomi:"Economy", teknoloji:"Technology", spor:"Sport"}, topicsLabel:"Topics",
       noTopic:"Choose at least one topic for this country.",
-      flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every hour.",
+      flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every 30 minutes.",
       flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
   de:{brand:"Nachrichtenpult", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
       overview:"Der Tag im Überblick", stories:n => n + (n === 1 ? " Meldung" : " Meldungen"), imp:{3:"Sehr wichtig",2:"Wichtig",1:"Kurz notiert"},
@@ -218,7 +218,7 @@ const T = {
       admin:"Verwaltung", locale:"de-DE",
       world:"Welt", topics:{gundem:"Aktuelles", ekonomi:"Wirtschaft", teknoloji:"Technik", spor:"Sport"}, topicsLabel:"Themen",
       noTopic:"Wählen Sie mindestens ein Thema für dieses Land.",
-      flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:"Noch keine neuen Meldungen; die Liste wird stündlich aktualisiert.",
+      flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:"Noch keine neuen Meldungen; die Liste wird alle 30 Minuten aktualisiert.",
       flashUpd:h => `Aktualisiert ${h}`, more:n => `Alle anzeigen (${n})`, less:"Weniger anzeigen"},
 };
 const NATIVE = {tr:"Türkçe", en:"English", de:"Deutsch"};

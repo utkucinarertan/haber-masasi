@@ -1,0 +1,52 @@
+name: Haber döngüsü
+
+# Son dakikayı 30 dakikada bir günceller, sabah baskısını saatinde (config.json → time, timezone;
+# varsayılan 06:00 Almanya) üretir. GitHub'ın zamanlayıcısı işleri saatlerce geciktirdiği için
+# buna güvenilmez: döngü ~5 saat 20 dakika çalışır, sonra kendini yeniden başlatır
+# (workflow_dispatch gecikmesiz çalışır). Zamanlanmış tetikler yalnızca bekçidir: zincir bir
+# şekilde koparsa döngüyü yeniden başlatırlar; döngü çalışırken sıraya girip boşa beklerler.
+on:
+  schedule:
+    - cron: "7,27,47 * * * *"
+  push:
+    paths: [".github/workflows/news-loop.yml"]
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  actions: write
+
+concurrency:
+  group: news-loop
+  cancel-in-progress: false
+
+jobs:
+  loop:
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Döngü (baskı + son dakika)
+        id: loop
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python scripts/build_news.py --loop
+
+      - name: Döngüyü yeniden başlat
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          # sırada bekleyen başka bir döngü varsa o devralır
+          queued=$(gh run list --repo "${{ github.repository }}" --workflow news-loop.yml --status queued --json databaseId --jq length 2>/dev/null || echo 0)
+          pending=$(gh run list --repo "${{ github.repository }}" --workflow news-loop.yml --status pending --json databaseId --jq length 2>/dev/null || echo 0)
+          if [ "$queued" = "0" ] && [ "$pending" = "0" ]; then
+            gh workflow run news-loop.yml --repo "${{ github.repository }}" --ref main && echo "Döngü yeniden başlatıldı."
+          else
+            echo "Sırada bekleyen döngü var; o devralacak."
+          fi
