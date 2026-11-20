@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T20:21+01:00",
+ "updatedAt": "2026-11-20T20:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T19:38:33+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-1-fc-magdeburg-gewinnt-gegen-arminia-bielefeld-201304596.html",
+    "text": {
+     "tr": "1. FC Magdeburg, Bielefeld'i yenerek 2. Bundesliga'da üçüncü sıraya yükseldi.",
+     "de": "Der 1. FC Magdeburg springt nach einem Sieg in Bielefeld auf den dritten Tabellenplatz der 2. Bundesliga."
+    }
+   },
    {
     "time": "2026-11-20T19:25:36+01:00",
     "source": "tagesschau",
@@ -13,39 +22,30 @@
     }
    },
    {
+    "time": "2026-11-20T19:23:44+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/basf-gibt-uebernahme-von-evonik-auf-kamieth-scheitert-an-wuest-201701320.html",
+    "text": {
+     "tr": "Kimya devi BASF, siyasi engeller nedeniyle Evonik'i satın alma planlarından vazgeçti.",
+     "de": "Der Chemiekonzern BASF gibt seine Übernahmepläne für Evonik nach politischen Widerständen auf."
+    }
+   },
+   {
+    "time": "2026-11-20T19:16:00+00:00",
+    "source": "DW Türkçe",
+    "url": "https://www.dw.com/tr/almanya-da-gençler-sokakta-z-kuşağı-merz-hükümetine-meydan-okuyor/a-80006794",
+    "text": {
+     "tr": "Almanya'da binlerce genç, daha iyi eğitim ve iklim politikaları talebiyle sokaklara döküldü.",
+     "de": "Tausende Jugendliche protestieren in ganz Deutschland für bessere Bildung und stärkere Klimapolitik."
+    }
+   },
+   {
     "time": "2026-11-20T19:06:34+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/notfallreform-bundesrat-billigt-linnemanns-gesetz-201702105.html",
     "text": {
      "tr": "Federal Konsey, sağlık sistemini acil durumlara odaklayan yeni acil durum reform yasasını onayladı.",
      "de": "Der Bundesrat hat das Gesetz zur Reform der Notfallmedizin gebilligt."
-    }
-   },
-   {
-    "time": "2026-11-20T18:51:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/daenemark-macht-russischen-geheimdienst-fuer-mordkomplott-gegen-ukrainischen-rapper-verantwortlich-a-38bdaa9f-19c3-448d-8c67-7493d0a798f8#ref=rss",
-    "text": {
-     "tr": "Danimarka, Ukraynalı bir rapçiye yönelik suikast planı nedeniyle Rus diplomatı sınır dışı etti.",
-     "de": "Dänemark weist einen russischen Diplomaten wegen eines mutmaßlichen Mordkomplotts gegen einen ukrainischen Rapper aus."
-    }
-   },
-   {
-    "time": "2026-11-20T18:44:07+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
-    "text": {
-     "tr": "Brexit'ten altı yıl sonra, Birleşik Krallık ve Avrupa Birliği Brüksel'deki ortak zirvede ilişkilerini yeniden güçlendirdi.",
-     "de": "Sechs Jahre nach dem Brexit haben sich das Vereinigte Königreich und die EU bei einem Gipfel in Brüssel wieder angenähert."
-    }
-   },
-   {
-    "time": "2026-11-20T18:41:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022#ref=rss",
-    "text": {
-     "tr": "New York Belediye Başkanı, kötü şöhretli Rikers Adası cezaevi kompleksinin 2032 yılına kadar kapatılacağını duyurdu.",
-     "de": "Der Bürgermeister von New York hat die Schließung des berüchtigten Gefängniskomplexes auf Rikers Island bis 2032 angekündigt."
     }
    }
   ],
@@ -69,6 +69,24 @@
     }
    },
    {
+    "time": "2026-11-20T19:38:59+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+    "text": {
+     "tr": "JP Morgan CEO'su Jamie Dimon, Birleşik Krallık'taki banka vergi artışının etkilerini telafi edeceğini açıkladı.",
+     "de": "JP-Morgan-Chef Jamie Dimon kündigt an, die Steuererhöhungen für Banken im Vereinigten Königreich auszugleichen."
+    }
+   },
+   {
+    "time": "2026-11-20T19:18:20+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
+    "text": {
+     "tr": "Macaulay Culkin'in başrolünde yer alacağı Evde Tek Başına serisinin yeni filmi geliştirme aşamasında.",
+     "de": "Eine Fortsetzung des Filmhits Evde Tek Başına befindet sich mit Macaulay Culkin in Entwicklung."
+    }
+   },
+   {
     "time": "2026-11-20T18:51:28+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/frankreichs-medienaufsicht-macht-influencern-vorschriften-201702254.html",
@@ -76,27 +94,36 @@
      "tr": "Fransa'nın medya düzenleyicisi, yaklaşan cumhurbaşkanlığı seçimleri öncesinde siyasi influencer'lar için yeni kurallar getirdi.",
      "de": "Frankreichs Medienaufsicht hat für den Präsidentschaftswahlkampf neue Vorschriften für Polit-Influencer erlassen."
     }
-   },
-   {
-    "time": "2026-11-20T18:51:16+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
-    "text": {
-     "tr": "ABD'li senatörler, Trump yönetiminde zayıflatılan mali denetim kurumunu yeniden canlandırmak için harekete geçti.",
-     "de": "US-Senatoren kündigen an, eine unter der Regierung Trump geschwächte Finanzaufsichtsbehörde wiederherzustellen."
-    }
-   },
-   {
-    "time": "2026-11-20T18:36:30+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/20/florida-man-guilty-murder-british-woman",
-    "text": {
-     "tr": "ABD'nin Florida eyaletinde bir tamirci, Birleşik Krallık'tan gelen bir müzik öğretmenini öldürmekten suçlu bulundu.",
-     "de": "Ein Automechaniker in Florida wurde wegen des Mordes an einer britischen Musiklehrerin schuldig gesprochen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-20T22:38:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-araniyordu-serdar-altinbas-cekya-da-yakalandi-2557966",
+    "text": {
+     "tr": "Fon soruşturmasında aranan Serdar Altınbaş Çekya'da yakalandı ve Türkiye'ye iade süreci başlatıldı.",
+     "de": "Der im Betrugs- und Geldwäscheverfahren gesuchte Serdar Altınbaş wurde in Tschechien festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-20T22:32:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ten-asvel-karsisinda-farkli-galibiyet-2557963",
+    "text": {
+     "tr": "Anadolu Efes, EuroLeague'in 13. haftasında LDLC ASVEL'i sahasında 107-81 mağlup etti.",
+     "de": "Anadolu Efes besiegte LDLC ASVEL am 13. Spieltag der EuroLeague deutlich mit 107:81."
+    }
+   },
+   {
+    "time": "2026-11-20T22:23:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010474/avusturya-da-gencler-savas-ve-silahlanmaya-karsi-sokaktaydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Avusturya'da binlerce genç, artan askeri harcamalara ve silahlanma politikalarına karşı eylem yaptı.",
+     "de": "Tausende Jugendliche demonstrierten in Österreich gegen Rüstungspolitik und steigende Militärausgaben."
+    }
+   },
    {
     "time": "2026-11-20T22:09:00+03:00",
     "source": "Evrensel",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Kocaeli'deki Ford Otosan Yeniköy fabrikasında yük indirirken forkliftin altında kalan bir işçi yaralandı.",
      "de": "In einer Fabrik von Ford Otosan in Kocaeli wurde ein Arbeiter unter einem Gabelstapler eingeklemmt und verletzt."
-    }
-   },
-   {
-    "time": "2026-11-20T21:59:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010472/kayyim-atanan-halk-tv-nin-calisanlari-halk-televizyonunu-kurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Kayyım atanan Halk TV'nin eski çalışanları, yayıncılık faaliyetlerini dijital mecrada Halk Televizyonu adıyla sürdürecek.",
-     "de": "Ehemalige Mitarbeiter des unter Zwangsverwaltung gestellten Senders Halk TV setzen ihre Arbeit digital als Halk Televizyonu fort."
-    }
-   },
-   {
-    "time": "2026-11-20T21:53:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010470/pendik-te-kadin-cinayeti-bosandigi-kadinin-kiz-kardesini-olduren-saldirgan-polisler-tarafindan-olduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Pendik'te boşandığı kadının kız kardeşini öldüren saldırgan, polisin açtığı ateşte hayatını kaybetti.",
-     "de": "In Istanbul-Pendik tötete ein Angreifer die Schwester seiner Ex-Frau und wurde daraufhin von Polizisten erschossen."
-    }
-   },
-   {
-    "time": "2026-11-20T21:44:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010469/rossmann-depolarinda-sendikal-orgutlenmeye-isten-cikarma-saldirisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Rossmann'ın Çayırova ve Ankara'daki depolarında sendikalı oldukları gerekçesiyle işten atılan 9 işçi geri alınmayı talep ediyor.",
-     "de": "Nach gewerkschaftlicher Organisation wurden in Lagern von Rossmann neun Arbeiter entlassen, was Proteste auslöst."
     }
    }
   ]
@@ -263,6 +263,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/tuncer-bakirhan-dan-surec-komisyonu-tepkisi-ozgur-ozel-in-bu-kararini-gozden-gecirmesini-istiyorum-2557900",
   "https://www.cumhuriyet.com.tr/siyaset/umit-ozdag-dan-cok-konusulacak-nufus-artisi-iddiasi-3-bucuk-milyon-supheli-secmen-mi-var-2557857",
   "https://www.cumhuriyet.com.tr/spor/12-dev-adam-a-buyuk-onur-fiba-siralamasinda-zirvede-2557938",
+  "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ten-asvel-karsisinda-farkli-galibiyet-2557963",
   "https://www.cumhuriyet.com.tr/spor/bakanlik-duyurdu-super-lig-kuluplerine-yonelik-denetim-basliyor-2557867",
   "https://www.cumhuriyet.com.tr/spor/bandirmaspor-un-yeni-teknik-direktoru-belli-oldu-2557942",
   "https://www.cumhuriyet.com.tr/spor/emre-belozoglu-nun-teknik-ekibi-belli-oldu-2557901",
@@ -270,6 +271,7 @@
   "https://www.cumhuriyet.com.tr/spor/formula-1-de-siradaki-durak-las-vegas-2557839",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-dan-wnba-yildizina-imza-2557949",
   "https://www.cumhuriyet.com.tr/spor/harry-kane-den-benzema-itirafi-2557948",
+  "https://www.cumhuriyet.com.tr/spor/igdir-fk-ve-umraniyespor-puanlari-paylasti-2557965",
   "https://www.cumhuriyet.com.tr/spor/jose-mourinho-dan-arda-guler-sozleri-real-madrid-icin-inanilmaz-derecede-onemli-2557883",
   "https://www.cumhuriyet.com.tr/spor/motogp-de-sampiyonluk-dugumu-portekiz-de-cozulebilir-2557836",
   "https://www.cumhuriyet.com.tr/spor/sakatliklari-bulunuyordu-galatasaray-7-futbolcunun-son-durumunu-duyurdu-2557889",
@@ -294,6 +296,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/eski-ihd-yoneticisi-ali-aydin-cinayetinde-yeni-gelisme-saniktan-kazaydi-savunmasi-2557908",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
   "https://www.cumhuriyet.com.tr/turkiye/fezleke-kararinin-ardindan-mustafa-sarigul-den-aciklama-kim-neyin-pesinde-kim-neyin-hesabini-yapiyor-2557928",
+  "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-araniyordu-serdar-altinbas-cekya-da-yakalandi-2557966",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
   "https://www.cumhuriyet.com.tr/turkiye/gazetecilerin-yargilandigi-davada-savcidan-5-isme-hapis-cezasi-istemi-2557898",
   "https://www.cumhuriyet.com.tr/turkiye/hatay-da-arazoz-ucuruma-yuvarlandi-1-isci-oldu-5-isci-yarali-2557921",
@@ -336,6 +339,7 @@
   "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531",
   "https://www.dw.com/tr/abd-de-ikinci-zehirli-iğne-vakası-ölümü-1-saat-sürdü/a-79999971",
   "https://www.dw.com/tr/ai̇hm-covid-19-aşı-zorunluluğu-hak-ihlali-değil/a-80004975",
+  "https://www.dw.com/tr/almanya-da-gençler-sokakta-z-kuşağı-merz-hükümetine-meydan-okuyor/a-80006794",
   "https://www.dw.com/tr/almanya-da-gençler-yine-sokakta-polis-batman-i-yasakladı/a-80003437",
   "https://www.dw.com/tr/almanya-da-metal-sektörü-uyarı-grevinde-bmw-ve-audi-de-bantlar-durdu/a-79998934",
   "https://www.dw.com/tr/almanya-i̇ki-buçuk-yıl-boyunca-evde-unutulan-loto-kuponundan-250-bin-euro-çıktı/a-80002902",
@@ -425,6 +429,8 @@
   "https://www.evrensel.net/haber/6010471/ford-otosan-yenikoy-fabrikasinda-is-kazasi-bir-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010472/kayyim-atanan-halk-tv-nin-calisanlari-halk-televizyonunu-kurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010473/ozgur-celik-ten-dusunce-ve-basin-ozgurlugu-icin-besiktas-ta-bulusma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010474/avusturya-da-gencler-savas-ve-silahlanmaya-karsi-sokaktaydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010475/euroleague-de-13-hafta-anadolu-efes-asvel-i-107-81-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -467,6 +473,7 @@
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-droht-ki-unternehmen-mit-enormen-strafen-faz-19444916.html",
   "https://www.faz.net/aktuell/reise/geheimnisvolle-bretagne-wanderung-nach-finistere-201313802.html",
   "https://www.faz.net/aktuell/reise/vorsicht-bei-ki-reisefuehrern-201316584.html",
+  "https://www.faz.net/aktuell/rhein-main/demos-und-proteste-in-frankfurt-beendet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/demos-und-proteste-in-frankfurt-in-bockenheim-formiert-sich-ein-spontaner-umzug-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/180-kilogramm-kokain-in-tausenden-rosen-versteckt-und-nach-frankfurt-geschmuggelt-accg-201701862.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/joschka-fischer-wer-jung-ist-hat-das-recht-radikal-zu-sein-201673660.html",
@@ -476,8 +483,11 @@
   "https://www.faz.net/aktuell/rhein-main/jugendproteste-in-frankfurt-gen-z-aendert-plaene-und-zieht-mit-tausenden-teilnehmern-durch-die-stadt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/jugendproteste-in-frankfurt-weniger-teilnehmer-bei-demo-von-genz-regelt-erwartet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/juedische-gemeinde-giessen-zieht-konsequenzen-nach-drohbrief-201697807.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/rolf-densing-geht-in-rente-esa-direktor-ueber-asteroiden-und-weltpolitik-201698637.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/ig-metall-streiks-in-betrieben-und-massive-wut-in-belegschaften-201702132.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/lufthansa-pilotengewerkschaft-kritisiert-kuerzungen-201701253.html",
+  "https://www.faz.net/aktuell/sport/formel-1/formel-1-plant-ab-2030-rueckkehr-zu-v8-motoren-201703612.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-1-fc-magdeburg-gewinnt-gegen-arminia-bielefeld-201304596.html",
   "https://www.faz.net/aktuell/sport/fussball/dfb-team-von-juergen-klopp-in-nations-league-viertelfinale-gegen-belgien-201701959.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-trainer-aus-bei-blackpool-fc-an-ian-evatts-geburtstag-18134600.html",
   "https://www.faz.net/aktuell/sport/fussball/juergen-klopp-und-sein-satz-was-die-nationalmannschaft-jetzt-traegt-201694328.html",
@@ -489,6 +499,7 @@
   "https://www.faz.net/aktuell/technik-motor/digital/das-sind-die-besten-bluetooth-kopfhoerer-im-test-accg-201678004.html",
   "https://www.faz.net/aktuell/technik-motor/wenn-assistenzsysteme-im-auto-mehr-schaden-als-nuetzen-accg-201648583.html",
   "https://www.faz.net/aktuell/verfuegbare-einkommen-in-diesen-kreisen-wird-deutschland-aermer-201699581.html",
+  "https://www.faz.net/aktuell/wirtschaft/basf-gibt-uebernahme-von-evonik-auf-kamieth-scheitert-an-wuest-201701320.html",
   "https://www.faz.net/aktuell/wirtschaft/bundeskanzler-merz-wirbt-fuer-investitionen-in-die-ukraine-accg-201702143.html",
   "https://www.faz.net/aktuell/wirtschaft/buxmann-ueber-ki-die-genz-verliert-ihren-optimismus-201701324.html",
   "https://www.faz.net/aktuell/wirtschaft/carsten-linnemann-und-die-notfallreform-sein-erster-grosser-erfolg-201702519.html",
@@ -621,8 +632,10 @@
   "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
   "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+  "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
   "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
   "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
+  "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
   "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
   "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
   "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
@@ -675,8 +688,10 @@
   "https://www.welt.de/gesundheit/article6b0063fe39a3e8110f0e44e4/syphilis-faelle-in-deutschland-verzeichnen-neuen-rekord-hoechste-zahlen-in-berlin-und-hamburg.html",
   "https://www.welt.de/iconist/mode/plus6b002950b237b5b41c9a2617/jan-hofer-bei-hse-im-fernsehen-verkauft-man-immer-etwas-sich-selbst-ein-produkt-oder-eben-die-nachrichten.html",
   "https://www.welt.de/politik/article6b006a205842ff528b9e201f/friedrich-merz-gemeinsame-prioritaet-fuer-uns-hat-der-wiederaufbau-syriens-sagt-kanzler-nach-treffen-mit-katar.html",
+  "https://www.welt.de/politik/article6b00959a39a3e8110f0e4930/boris-rhein-kritisiert-bundesregierung-meine-geduld-ist-langsam-am-ende.html",
   "https://www.welt.de/politik/ausland/article6afffac1be487c543774694d/polen-meldet-absturz-mehrerer-russischer-flugobjekte-nato-verurteilt-luftraumverletzungen.html",
   "https://www.welt.de/politik/ausland/article6b00169239a3e8110f0e38a8/gipfel-in-bruessel-eu-und-grossbritannien-einigen-sich-auf-projekte-fuer-annaeherung-eine-streitfrage-ist-ungeloest.html",
+  "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
   "https://www.welt.de/politik/ausland/article6b00811abe487c54377479bd/ukraine-krieg-trump-fordert-laut-financial-times-frieden-mit-russland-bis-anfang-januar-von-kiew.html",
   "https://www.welt.de/politik/ausland/plus6aff0120ee91e990acae6dd5/517-tote-am-tag-dieses-datenleck-zeigt-wie-viele-russen-wirklich-im-ukraine-krieg-sterben-und-wo.html",
   "https://www.welt.de/politik/ausland/plus6aff067739a3e8110f0e2758/lettischer-ministerpraesident-die-lage-eskaliert-das-ist-es-womit-wir-es-an-europas-ostgrenze-zu-tun-haben.html",
@@ -702,12 +717,14 @@
   "https://www.welt.de/politik/plus6b0005c839a3e8110f0e3619/prozess-in-mannheim-im-rotationssystem-sollen-kolumbianische-frauen-in-hotels-fuer-sex-angeboten-worden-sein.html",
   "https://www.welt.de/sport/fussball/article6b00117cbe487c5437746bdb/nations-league-klopp-im-losglueck-deutschland-entgeht-dem-weltmeister-und-haaland.html",
   "https://www.welt.de/sport/fussball/article6b007480b237b5b41c9a2f7f/blackpools-trainer-geburtstagsgruss-am-morgen-entlassung-am-nachmittag.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-den-fc-bayern-bei-kompanys-rueckkehr-kalt.html",
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
   "https://www.welt.de/wirtschaft/article6b002a6ab237b5b41c9a2632/ukraine-krieg-friedrich-merz-verspricht-deutschland-dividende-aus-ukraine-investitionen.html",
   "https://www.welt.de/wirtschaft/plus6aff054939a3e8110f0e2712/schuldenrisiko-die-jugend-geraet-in-zahlungsverzug-und-ab-sofort-gelten-diese-strengeren-regeln.html",
   "https://www.welt.de/wirtschaft/plus6aff1734c1e8003ef73c4ac5/schwerdtner-bei-maischberger-die-mietspiegel-blamage-der-linken-chefin.html",
   "https://www.welt.de/wirtschaft/plus6aff3f44c1e8003ef73c4e46/alkopopsteuer-von-2-99-auf-4-28-euro-deutschlands-angriff-auf-die-dosen-drinks.html",
-  "https://www.welt.de/wirtschaft/plus6b0057ec39a3e8110f0e4360/investitionen-von-wirtschaft-und-regierung-deutschlands-grosse-wette-auf-die-ukraine-dividende.html"
+  "https://www.welt.de/wirtschaft/plus6b0057ec39a3e8110f0e4360/investitionen-von-wirtschaft-und-regierung-deutschlands-grosse-wette-auf-die-ukraine-dividende.html",
+  "https://www.welt.de/wirtschaft/plus6b0064ca39a3e8110f0e4509/kuenstliche-intelligenz-die-teuerste-wette-aller-zeiten.html"
  ]
 }
