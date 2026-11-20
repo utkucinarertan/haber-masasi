@@ -1,8 +1,35 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T18:20+01:00",
+ "updatedAt": "2026-11-20T18:50+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T18:44:07+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+    "text": {
+     "tr": "Brexit'ten altı yıl sonra, Birleşik Krallık ve Avrupa Birliği Brüksel'deki ortak zirvede ilişkilerini yeniden güçlendirdi.",
+     "de": "Sechs Jahre nach dem Brexit haben sich das Vereinigte Königreich und die EU bei einem Gipfel in Brüssel wieder angenähert."
+    }
+   },
+   {
+    "time": "2026-11-20T18:41:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022#ref=rss",
+    "text": {
+     "tr": "New York Belediye Başkanı, kötü şöhretli Rikers Adası cezaevi kompleksinin 2032 yılına kadar kapatılacağını duyurdu.",
+     "de": "Der Bürgermeister von New York hat die Schließung des berüchtigten Gefängniskomplexes auf Rikers Island bis 2032 angekündigt."
+    }
+   },
+   {
+    "time": "2026-11-20T18:30:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
+    "text": {
+     "tr": "Bir yapay zeka çalışanı, matematiğin en büyük gizemlerinden biri olan Riemann hipotezini yapay zeka yardımıyla kanıtladığını iddia etti.",
+     "de": "Ein Anthropic-Mitarbeiter hat behauptet, mithilfe von Künstlicher Intelligenz einen Beweis für die Riemann-Vermutung erbracht zu haben."
+    }
+   },
    {
     "time": "2026-11-20T18:05:00+01:00",
     "source": "Der Spiegel",
@@ -19,33 +46,6 @@
     "text": {
      "tr": "Almanya Savunma Bakanı Boris Pistorius, geçmişteki sorumlulukları anmak ve Avrupa güvenliğini görüşmek üzere Polonya'yı ziyaret etti.",
      "de": "Bundesverteidigungsminister Boris Pistorius ist zu einer Gedenk- und Sicherheitsreise nach Polen gereist."
-    }
-   },
-   {
-    "time": "2026-11-20T17:20:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/manuela-schwesig-wird-an-der-galle-operiert-a-9b402c57-fbbd-426f-8fda-ea2a869fdc60#ref=rss",
-    "text": {
-     "tr": "SPD'li siyasetçi Manuela Schwesig, önümüzdeki hafta safra kesesinden ameliyat olacak.",
-     "de": "Die SPD-Politikerin Manuela Schwesig muss sich kommende Woche einer Operation an der Galle unterziehen."
-    }
-   },
-   {
-    "time": "2026-11-20T17:15:00+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
-    "text": {
-     "tr": "Antalya'daki Birleşmiş Milletler İklim Değişikliği Konferansı, fosil yakıtlar konusundaki anlaşmazlıklar nedeniyle uzatıldı.",
-     "de": "Die UN-Klimakonferenz in Antalya geht wegen Streitigkeiten über fossile Energieträger in die Verlängerung."
-    }
-   },
-   {
-    "time": "2026-11-20T17:07:11+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/rhein-main/wirtschaft/lufthansa-pilotengewerkschaft-kritisiert-kuerzungen-201701253.html",
-    "text": {
-     "tr": "Lufthansa Havayolları, Frankfurt ve Münih'teki merkezlerinde 1.000 kişiyi işten çıkaracağını ve maliyetleri düşürmek için yurt dışındaki gece duraklamalarını azaltacağını duyurdu.",
-     "de": "Lufthansa kündigte den Abbau von 1000 Stellen an den Drehkreuzen Frankfurt und München an, um Kosten zu senken."
     }
    }
   ],
@@ -98,6 +98,24 @@
   ],
   "tr": [
    {
+    "time": "2026-11-20T20:35:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
+    "text": {
+     "tr": "Eskişehir'deki Tüm Emeklilerin Sendikası üyeleri, pankartlarını ters tutarak emekli maaşlarının düşürülmesi yönünde ironik bir eylem yaptı.",
+     "de": "Mitglieder der Rentnergewerkschaft in Eskişehir forderten bei einer ironischen Protestaktion mit verkehrt herum gehaltenen Plakaten die Senkung der Renten."
+    }
+   },
+   {
+    "time": "2026-11-20T20:22:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/bakan-bolat-tan-yeni-partili-ozlale-ye-fon-sorusturmasi-yaniti-elde-ettigim-helal-ve-tertemiz-tasarrufumun-kaynagi-bellidir-2557945",
+    "text": {
+     "tr": "Ticaret Bakanı Ömer Bolat, fon soruşturması kapsamındaki iddialara yanıt vererek tasarruflarının meşru olduğunu belirtti.",
+     "de": "Handelsminister Ömer Bolat hat auf die Vorwürfe im Rahmen einer Fonds-Ermittlung reagiert und erklärt, seine Ersparnisse seien legal."
+    }
+   },
+   {
     "time": "2026-11-20T19:59:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-a-buyuk-onur-fiba-siralamasinda-zirvede-2557938",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Denizli Barosu, tutuklu Merkezefendi Belediye Başkanı Şeniz Doğan ve eşinin Antalya Cezaevi'ne nakledilmesine itiraz etti.",
      "de": "Die Anwaltskammer von Denizli hat Einspruch gegen die Verlegung der inhaftierten Bürgermeisterin Şeniz Doğan in ein Gefängnis in Antalya erhoben."
-    }
-   },
-   {
-    "time": "2026-11-20T18:34:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010447/halk-tv-bilirkisi-davasi-nda-5-isme-hapis-cezasi-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Halk TV'ye yönelik bilirkişi davasında savcı, gazeteci Barış Pehlivan ve Kürşat Oğuz hakkında 10 yıla kadar hapis cezası istedi.",
-     "de": "Im sogenannten Gutachter-Prozess gegen den Sender Halk TV fordert der Staatsanwalt Haftstrafen von bis zu zehn Jahren für Journalisten."
-    }
-   },
-   {
-    "time": "2026-11-20T18:08:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
-    "text": {
-     "tr": "Sermaye piyasası soruşturması kapsamında tutuklanan Altunç Kumova'nın sahibi olduğu Destek Holding'e kayyım atandı.",
-     "de": "Dem im Zuge von Kapitalmarktinvestigationen inhaftierten Holding-Unternehmen von Altunç Kumova wurde ein Treuhänder bestellt."
     }
    }
   ]
@@ -227,6 +227,7 @@
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/grand-theft-auto-vi-nin-muzik-albumu-farkli-platformlarda-yayinlandi-2557937",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-nin-ortaya-cikis-hikayesi-kotuyu-oynamak-cok-daha-eglenceli-2557929",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/microsoft-un-ceo-sundan-kuresel-altyapilarda-istikrarsizlik-donemi-vurgusu-2557925",
+  "https://www.cumhuriyet.com.tr/bilim-teknoloji/sir-gibi-saklanmisti-lucia-yi-ve-jason-i-seslendiren-sanatcilarin-isimleri-resmi-olarak-aciklandi-2557946",
   "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/alev-coskun-adina-kitaplik-kuruldu-2557849",
   "https://www.cumhuriyet.com.tr/dunya/almanya-da-gencler-sokaga-cikti-bizim-savasimiz-degil-2557922",
   "https://www.cumhuriyet.com.tr/dunya/malezya-dan-10-bin-arakanli-multeci-aciklamasi-turkiye-nin-kabul-ettigi-one-suruldu-2557855",
@@ -269,6 +270,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/antalya-da-kan-donduran-olay-moldovali-kadin-evinde-bicaklanarak-olduruldu-eski-esi-agaca-asili-bulundu-2557844",
   "https://www.cumhuriyet.com.tr/turkiye/avcilar-da-is-cinayeti-yuk-asansorunun-halati-koptu-17-yasindaki-mert-yasamini-yitirdi-2557852",
   "https://www.cumhuriyet.com.tr/turkiye/ayse-tokyaz-in-katili-cemil-koc-un-yargilandigi-ejegul-ovezova-davasinda-kesif-yapildi-2557881",
+  "https://www.cumhuriyet.com.tr/turkiye/bakan-bolat-tan-yeni-partili-ozlale-ye-fon-sorusturmasi-yaniti-elde-ettigim-helal-ve-tertemiz-tasarrufumun-kaynagi-bellidir-2557945",
   "https://www.cumhuriyet.com.tr/turkiye/bastonla-darbedilen-kedi-sol-gozunu-kaybetti-muslum-cepeloglu-isimli-supheli-tutuklandi-2557841",
   "https://www.cumhuriyet.com.tr/turkiye/belediyelerde-el-yaziyla-oy-kullanma-donemi-kapandi-ozgur-celik-iktidar-ve-ihanetciler-acisindan-alinmis-rahatlatici-bir-karar-2557886",
   "https://www.cumhuriyet.com.tr/turkiye/besikduzu-nde-belediye-kutuphanesi-krizi-kendi-yerimizde-kiraci-konumuna-dustuk-2557880",
@@ -278,6 +280,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/doktorun-odasina-bicakla-girdi-doktor-ve-sekreterini-rehin-aldi-2557944",
   "https://www.cumhuriyet.com.tr/turkiye/enerjisa-uretim-den-1-4-milyar-dolarlik-dev-yatirim-yeka-2-projesi-tamamlandi-2557888",
   "https://www.cumhuriyet.com.tr/turkiye/eski-ihd-yoneticisi-ali-aydin-cinayetinde-yeni-gelisme-saniktan-kazaydi-savunmasi-2557908",
+  "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
   "https://www.cumhuriyet.com.tr/turkiye/fezleke-kararinin-ardindan-mustafa-sarigul-den-aciklama-kim-neyin-pesinde-kim-neyin-hesabini-yapiyor-2557928",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
   "https://www.cumhuriyet.com.tr/turkiye/gazetecilerin-yargilandigi-davada-savcidan-5-isme-hapis-cezasi-istemi-2557898",
@@ -324,6 +327,7 @@
   "https://www.dw.com/tr/brexit-sonrası-ab-ile-i̇ngiltere-den-yakınlaşma-hamlesi/a-80003185",
   "https://www.dw.com/tr/dünya-çocuk-hakları-günü-türkiye-de-tablo-ne-söylüyor/a-79995209",
   "https://www.dw.com/tr/irak-ordusu-12-yıldır-girilmeyen-kentte-kontrolü-devraldı/a-80001950",
+  "https://www.dw.com/tr/katar-emiri-al-sani-almanya-da-15-milyar-euroluk-yatırım-açıklaması/a-80006092",
   "https://www.dw.com/tr/lufthansa-türbülansta-bin-çalışanın-işine-son-verilecek/a-80000485",
   "https://www.dw.com/tr/malezya-10-bin-arakanlı-mülteciyi-türkiye-ye-gönderiyor/a-80003515",
   "https://www.dw.com/tr/mustafa-sarıgül-için-fezleke-ankara-başsavcılığından-dokunulmazlık-hamlesi/a-80004935",
@@ -393,6 +397,7 @@
   "https://www.evrensel.net/haber/6010457/manisa-buyuksehir-belediyesi-sorusturmasi-genel-sekreter-yardimcisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010458/narlidere-demokrasi-platformu-ndan-kayyim-ve-sansur-tepkisi-halkin-haber-alma-hakki-hicbir-iktidarin-tasarrufuna-birakilamaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010459/fon-vurgunu-sorusturmasinda-destek-holding-e-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010460/albayrak-grubu-ndan-fon-yaniti-finansal-enstruman-secerken-ozlale-ye-sormak-zorunda-degiliz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/putin-xi-und-trump-warum-der-jalta-vergleich-falsch-ist-201701674.html",
@@ -402,6 +407,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/datenleck-der-deutschen-bank-doepfner-der-brave-buerger-201700928.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/rbb-verzeichnet-plus-von-19-3-millionen-euro-accg-201700822.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/ard-serie-jossi-ein-falscher-jude-droht-aufzufliegen-201690120.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/videospiel/gta-vi-bedient-unsere-sehnsucht-nach-kontrolle-201701036.html",
   "https://www.faz.net/aktuell/finanzen/anthropic-feiert-rekordboersendebuet-indizes-unter-druck-201701327.html",
   "https://www.faz.net/aktuell/finanzen/boersenstart-anthropic-gelingt-kurssprung-um-34-prozent-201699078.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/aktien-von-ubisoft-brechen-ein-201702189.html",
@@ -423,6 +429,8 @@
   "https://www.faz.net/aktuell/politik/inland/thueringen-hoecke-vertrauter-thorsten-weiss-wird-afd-geschaeftsfuehrer-201700967.html",
   "https://www.faz.net/aktuell/politik/inland/ulrich-siegmund-will-sich-schon-am-8-dezember-zum-ministerpraesidenten-waehlen-lassen-accg-201700949.html",
   "https://www.faz.net/aktuell/politik/ukraine/koalition-der-willigen-in-berlin-europas-antwort-auf-ein-neues-jalta-201691751.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-diplomatie-europa-darf-nicht-auf-putin-hereinfallen-201701902.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-soll-anschlag-auf-ukrainischen-rapper-in-daenemark-geplant-haben-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-europa-bereitet-sich-auf-gespraeche-mit-russland-vor-accg-201701260.html",
   "https://www.faz.net/aktuell/reise/geheimnisvolle-bretagne-wanderung-nach-finistere-201313802.html",
   "https://www.faz.net/aktuell/reise/vorsicht-bei-ki-reisefuehrern-201316584.html",
@@ -451,6 +459,7 @@
   "https://www.faz.net/aktuell/wirtschaft/digitalpolitik-der-eu-eine-chronologie-des-scheiterns-201674773.html",
   "https://www.faz.net/aktuell/wirtschaft/ig-metall-erstmals-seit-2018-wieder-24-stunden-streiks-accg-201701268.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kein-beschluss-der-klimagipfel-in-antalya-dauert-laenger-201703265.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/augenscreening-im-dm-christoph-werner-erwartet-langen-rechtsstreit-201697299.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-2026-diese-tipps-sollte-jeder-kennen-accg-201699822.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/galeria-schliesst-filialen-in-berlin-koeln-und-muenchen-accg-201702040.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/lufthansa-streicht-1000-stellen-an-drehkreuzen-frankfurt-und-muenchen-accg-201701299.html",
@@ -481,6 +490,7 @@
   "https://www.france24.com/en/tv-shows/talking-europe/20261120-a-more-expensive-eu-is-not-a-better-eu-austria-s-minister-for-europe-claudia-bauer",
   "https://www.france24.com/en/tv-shows/talking-europe/20261120-spains-political-crossroads-europes-wider-stakes-spaniards-to-vote-in-key-election",
   "https://www.france24.com/en/tv-shows/the-51/20261120-does-staggered-consent-actually-protect-young-people",
+  "https://www.france24.com/en/video/20261120-%F0%9F%A6%9B-usa-fiona-cincinnati-zoo-s-famous-hippo-has-died",
   "https://www.france24.com/en/video/20261120-a-decade-after-brexit-do-britons-regret-leaving-the-eu",
   "https://www.france24.com/en/video/20261120-burnham-hails-landmark-eu-uk-deal-as-good-day-for-britain-europe",
   "https://www.france24.com/en/video/20261120-cincinnati-zoo-s-famed-fiona-the-hippo-dies-days-after-eating-a-visitor-s-hat",
@@ -509,12 +519,14 @@
   "https://www.spiegel.de/kultur/hunter-schafer-wird-pragmatisch-zumindest-in-beziehungen-a-4f469ccd-420f-488c-a431-eec77b1d7895#ref=rss",
   "https://www.spiegel.de/kultur/olli-dittrich-ndr-doku-zum-70-geburtstag-was-wuerde-dittsche-waehlen-a-70b239db-e355-4285-bad1-2dd412954dc2#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-beschlossen-so-sollen-fahrschueler-sparen-a-f2dc9706-e233-430d-94f5-bc83a0c54c5c#ref=rss",
+  "https://www.spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss",
   "https://www.spiegel.de/panorama/justiz/hannover-warum-fruehe-hinweise-auf-unregelmaessigkeiten-bei-huelya-iri-folgenlos-blieben-a-76c428bd-13f1-4963-a9b6-4235d75260c7#ref=rss",
   "https://www.spiegel.de/panorama/justiz/nuernberg-dealer-sollen-maedchen-mit-drogen-gefuegig-gemacht-und-dann-vergewaltigt-haben-a-cc645195-6d9b-4f2e-9b33-db765d6b28d4#ref=rss",
   "https://www.spiegel.de/panorama/leute/jennifer-lawcrene-ich-habe-implantate-sie-sind-neu-sagt-jennifer-lawrence-a-1836de0c-e0a8-4230-82b3-2966c07e7b34#ref=rss",
   "https://www.spiegel.de/panorama/leute/jon-hamm-mad-men-star-erlebt-spaetes-vaterglueck-a-037b2ae5-91e2-4fb3-a55c-10454f21142c#ref=rss",
   "https://www.spiegel.de/politik/deutschland/manuela-schwesig-wird-an-der-galle-operiert-a-9b402c57-fbbd-426f-8fda-ea2a869fdc60#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/news-des-tages-brexit-eu-grossbritannien-gender-pay-gap-gehalt-frauen-gen-z-regelt-a-36f1b0f0-e6db-4398-b6be-d3a36d98604d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/spd-landeschef-steffen-krach-der-buhmann-von-berlin-a-c4658a19-bf41-4f07-a323-e689049b10f2#ref=rss",
   "https://www.spiegel.de/politik/gen-z-proteste-danke-fuer-nichts-boomer-ihr-habt-das-land-und-unsere-zukunft-ruiniert-a-956ca15b-b03c-4757-876e-a5f7a8a7227b#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-rueckkehr-zum-v8-serie-plant-lautere-und-einfachere-motoren-a-8132f6e9-8699-46f6-8c0f-dd64a7bc52f1#ref=rss",
@@ -530,11 +542,13 @@
   "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
   "https://www.spiegel.de/wirtschaft/soziales/deutsch-ukrainisches-wirtschaftsforum-fuer-friedrich-merz-geht-es-in-der-ukraine-auch-ums-geschaeft-a-2848de43-1eaa-4c1a-9657-61708a4cd52c#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-islamisten-gesucht-buddhisten-und-doenerhersteller-gefunden-a-ca7c78d3-5ee1-4a47-acfb-21ba6832b6e7#ref=rss",
+  "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
   "https://www.spiegel.de/wissenschaft/technik/samoa-usa-vergeben-erste-lizenzen-fuer-tiefseebergbau-im-pazifik-a-e10d57ce-075d-4ac3-bddd-018f43c09d0f#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss",
   "https://www.tagesschau.de/ausland/asien/cop-antalya-deutschland-100.html",
   "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
   "https://www.tagesschau.de/ausland/asien/russland-ukraine-gespraeche-europa-100.html",
+  "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
   "https://www.tagesschau.de/ausland/europa/absturz-russische-flugobjekte-polen-100.html",
   "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
   "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
