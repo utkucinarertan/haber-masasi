@@ -88,6 +88,9 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 .tchips{display:flex;flex-wrap:wrap;gap:6px}
 .tchip{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:4px 11px;font-weight:700;font-size:.8rem;color:var(--muted)}
 .tchip[aria-pressed="true"]{color:var(--ink);border-color:var(--accent);background:var(--accent-soft)}
+.tchip{display:inline-flex;align-items:center;gap:6px}
+.tchip .livedot{width:7px;height:7px;border-radius:50%;background:var(--live)}
+.tchip.live[aria-pressed="true"]{border-color:var(--live);background:color-mix(in srgb,var(--live) 12%,var(--surface))}
 .topic h3{display:flex;align-items:baseline;gap:8px;margin:4px 0 8px;font-size:.78rem;letter-spacing:.09em;text-transform:uppercase;color:var(--accent);font-weight:800}
 .topic h3::after{content:"";flex:1;border-bottom:1px solid var(--line);transform:translateY(-3px)}
 .desk-head h2{margin:0;font-size:1.35rem;font-weight:800;letter-spacing:-.01em}
@@ -187,7 +190,7 @@ const T = {
       foot:"Haberler seçilen kaynaklardan derlenir; özet ve değerlendirmeler her sabah yapay zekâ ile hazırlanır. Ayrıntı için haberin kaynağına gidin.",
       admin:"Yönetim", locale:"tr-TR",
       world:"Dünya", topics:{gundem:"Gündem", ekonomi:"Ekonomi", teknoloji:"Teknoloji", spor:"Spor"}, topicsLabel:"Konular",
-      noTopic:"Bu ülke için konu seçin.",
+      noTopic:"Görmek istediğiniz sekmeleri yukarıdan seçin.",
       flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste 30 dakikada bir güncellenir.",
       flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
   en:{brand:"News Desk", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
@@ -202,7 +205,7 @@ const T = {
       foot:"Stories are gathered from selected sources; summaries and analysis are written by AI every morning. Follow the link to read the full source.",
       admin:"Admin", locale:"en-GB",
       world:"World", topics:{gundem:"Top news", ekonomi:"Economy", teknoloji:"Technology", spor:"Sport"}, topicsLabel:"Topics",
-      noTopic:"Choose at least one topic for this country.",
+      noTopic:"Choose the tabs you want to see above.",
       flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every 30 minutes.",
       flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
   de:{brand:"Nachrichtenpult", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
@@ -217,7 +220,7 @@ const T = {
       foot:"Die Meldungen stammen aus ausgewählten Quellen; Zusammenfassungen und Einordnung erstellt jeden Morgen eine KI. Den vollständigen Text finden Sie bei der Quelle.",
       admin:"Verwaltung", locale:"de-DE",
       world:"Welt", topics:{gundem:"Aktuelles", ekonomi:"Wirtschaft", teknoloji:"Technik", spor:"Sport"}, topicsLabel:"Themen",
-      noTopic:"Wählen Sie mindestens ein Thema für dieses Land.",
+      noTopic:"Wählen Sie oben die gewünschten Reiter.",
       flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:"Noch keine neuen Meldungen; die Liste wird alle 30 Minuten aktualisiert.",
       flashUpd:h => `Aktualisiert ${h}`, more:n => `Alle anzeigen (${n})`, less:"Weniger anzeigen"},
 };
@@ -236,7 +239,7 @@ let index = [], current = null, loading = false, flash = null;
 const FLASH_SHOW = 5;   // ülke başına en fazla 5 son dakika maddesi (en yeniler)
 let lang = store.get("lang", null);
 let picked = store.get("countries", null);
-let pickedTopics = store.get("topics", {});   // ülke kodu → okuyucunun seçtiği konular
+let pickedTopics = store.get("tabs", {});   // ülke kodu → okuyucunun açtığı sekmeler (flash = son dakika)
 const TOPIC_ORDER = ["gundem", "ekonomi", "teknoloji", "spor"];
 const WORLD = "world";
 const t = () => T[lang] || T.tr;
@@ -385,34 +388,45 @@ function topicsOf(data){
   return TOPIC_ORDER.filter(tp => listed.includes(tp));
 }
 
+const DEFAULT_TABS = ["flash", "gundem"];   // ilk açılışta yalnız Son dakika ve Gündem açık
+
 function renderDesk(code, data){
   const sec = el("section", "desk");
   sec.setAttribute("aria-label", countryName(code));
   const items = Array.isArray(data?.items) ? data.items : [];
   const available = topicsOf(data);   // eski baskılarda konu yok: düz liste
-  const chosen = available.filter(tp => (pickedTopics[code] || available).includes(tp));
+  const hasFlash = !!(flash && current && current.date === index[0]?.date);   // son dakika yalnız en son baskıda
+  const tabs = [...(hasFlash ? ["flash"] : []), ...available];
+  const want = pickedTopics[code] || DEFAULT_TABS;
+  const chosen = tabs.filter(tp => want.includes(tp));
   const shown = available.length ? items.filter(it => chosen.includes(it.topic)) : items;
   const head = el("div", "desk-head");
   head.append(flag(code), el("h2", null, countryName(code)), el("span", "count", t().stories(shown.length)));
   sec.append(head);
-  if (available.length > 1){
+  if (tabs.length > 1){
     const row = el("div", "tchips"); row.setAttribute("role", "group"); row.setAttribute("aria-label", t().topicsLabel);
-    available.forEach(tp => {
-      const b = el("button", "tchip", t().topics[tp] || tp); b.type = "button";
+    tabs.forEach(tp => {
+      const b = el("button", "tchip" + (tp === "flash" ? " live" : ""));
+      b.type = "button";
+      if (tp === "flash") b.append(el("span", "livedot"));
+      b.append(document.createTextNode(tp === "flash" ? t().flash : (t().topics[tp] || tp)));
       b.setAttribute("aria-pressed", chosen.includes(tp));
       b.onclick = () => {
-        const cur = pickedTopics[code] || available;
+        const cur = pickedTopics[code] || DEFAULT_TABS;
         pickedTopics = {...pickedTopics, [code]: cur.includes(tp) ? cur.filter(x => x !== tp) : [...cur, tp]};
-        store.set("topics", pickedTopics); render();
+        store.set("tabs", pickedTopics); render();
       };
       row.append(b);
     });
     sec.append(row);
   }
-  const fl = renderFlash(code);
-  if (fl) sec.append(fl);
+  if (chosen.includes("flash") || !tabs.includes("flash")){
+    const fl = renderFlash(code);
+    if (fl) sec.append(fl);
+  }
   if (!data){ sec.append(el("p", "stamp", t().noCountry)); return sec; }
-  if (data.overview){
+  // günün değerlendirmesi Gündem'e aittir (konusuz eski baskılarda her zaman)
+  if (data.overview && (!available.length || chosen.includes("gundem"))){
     const ov = el("div", "overview");
     ov.append(el("h3", null, t().overview), el("p", null, data.overview));
     sec.append(ov);
@@ -425,6 +439,7 @@ function renderDesk(code, data){
   }
   if (!chosen.length){ sec.append(el("p", "stamp", t().noTopic)); return sec; }
   for (const tp of chosen){
+    if (tp === "flash") continue;
     const list = items.filter(it => it.topic === tp);
     if (!list.length) continue;
     const box = el("div", "topic");
