@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T23:21+01:00",
+ "updatedAt": "2026-11-20T23:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T22:35:53+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
+    "text": {
+     "tr": "Almanya'da yapılan iki yeni araştırma, ücretler ve gelirlerdeki artışla birlikte halkın büyük kısmının daha zenginleştiğini ortaya koydu.",
+     "de": "Zwei neuen Studien zufolge sind die Löhne und Einkommen in Deutschland gestiegen und die allermeisten Bürger sind reicher geworden."
+    }
+   },
    {
     "time": "2026-11-20T22:33:00+01:00",
     "source": "Der Spiegel",
@@ -22,30 +31,21 @@
     }
    },
    {
+    "time": "2026-11-20T22:18:30+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-gericht-genehmigt-7-25-milliarden-glyphosat-vergleich-201703914.html",
+    "text": {
+     "tr": "Bayer, milyarlarca dolara mal olan Glyphosat davalarını sonlandırmak amacıyla 7,25 milyar dolarlık uzlaşmanın mahkeme tarafından onaylandığını duyurdu.",
+     "de": "Ein Gericht hat einen 7,25 Milliarden schweren Glyphosat-Vergleich des Dax-Konzerns Bayer genehmigt, womit die Prozesse ein Ende finden dürften."
+    }
+   },
+   {
     "time": "2026-11-20T22:05:58+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/wirtschaft/article6b00c1515842ff528b9e2537/boerse-heftige-talfahrt-bei-tech-aktien-angstbarometer-steigt-auf-hoechsten-stand-seit-anderthalb-jahren.html",
     "text": {
      "tr": "ABD borsalarındaki sert düşüşle birlikte korku endeksi son bir buçuk yılın en yüksek seviyesine çıktı.",
      "de": "Wegen eines heftigen Kursrutsches an den US-Börsen ist das Angstbarometer auf den höchsten Stand seit anderthalb Jahren gestiegen."
-    }
-   },
-   {
-    "time": "2026-11-20T21:57:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/alaska-traechtiger-finnwal-von-kreuzfahrtschiff-getoetet-a-fde22b7d-97ec-4ae7-b222-70e32d0ca246#ref=rss",
-    "text": {
-     "tr": "Alaska açıklarında bir yolcu gemisinin çarptığı hamile fin balinası, karnındaki yavrusuyla birlikte öldü.",
-     "de": "Vor der Küste Alaskas ist ein trächtiger Finnwal nach einer Kollision mit einem Kreuzfahrtschiff mitsamt Kalb gestorben."
-    }
-   },
-   {
-    "time": "2026-11-20T21:53:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/fussball/tom-brady-ex-football-star-steigt-offenbar-beim-fc-chelsea-ein-a-3ffeb2f1-3990-420f-b94d-4119c73c5699#ref=rss",
-    "text": {
-     "tr": "Eski Amerikan futbolcusu Tom Brady'nin, İngiltere'nin Chelsea futbol kulübüne ortak olacağı bildirildi.",
-     "de": "Der ehemalige Football-Star Tom Brady steigt offenbar als Anteilseigner beim englischen Fußballverein FC Chelsea ein."
     }
    }
   ],
@@ -98,48 +98,48 @@
   ],
   "tr": [
    {
-    "time": "2026-11-21T00:56:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010489/resmi-gazete-de-yayimlandi-suriye-deki-4-fakulte-ve-2-meslek-yuksekokulu-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Resmi Gazete'de yayımlanan kararla Suriye'deki Gaziantep ve Sağlık Bilimleri üniversitelerine bağlı 4 fakülte ve 2 meslek yüksekokulu kapatıldı.",
-     "de": "Per Dekret im Amtsblatt wurden vier Fakultäten und zwei Berufsfachschulen türkischer Universitäten im Syrien geschlossen."
-    }
-   },
-   {
-    "time": "2026-11-21T00:52:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010488/almanya-da-z-kusagi-gencler-73-kentte-eylemdeydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Almanya genelinde 73 kentte sokağa çıkan Z kuşağı gençler eğitim, sağlık ve yaşam koşullarının iyileştirilmesini talep etti.",
-     "de": "In 73 Städten Deutschlands gingen jugendliche Mitglieder der Generation Z auf die Straße, um für Bildung und bessere Lebensbedingungen zu demonstrieren."
-    }
-   },
-   {
-    "time": "2026-11-21T00:50:00+03:00",
+    "time": "2026-11-21T04:00:00+03:00",
     "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/otomobil-park-halindeki-tir-a-carpti-4-agir-yarali-2557995",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/tuzla-tersanelerinde-isci-yasami-tahtakurusu-yuzunden-cami-avlusunda-yatmak-2557914",
     "text": {
-     "tr": "Kütahya-Afyonkarahisar karayolunda park halindeki TIR'a çarpan otomobildeki 4 kişi ağır yaralandı.",
-     "de": "Vier Personen wurden schwer verletzt, als ein Auto auf der Autobahn in der Türkei auf einen parkenden Lkw auffuhr."
+     "tr": "İstanbul Tuzla tersanelerinde çalışan işçiler, ağır çalışma koşullarının yanı sıra tahtakuruları ve sağlıksız barınma şartları nedeniyle geceyi cami avlusunda geçiriyor.",
+     "de": "Arbeiter auf den Werften in Tuzla, Istanbul, müssen aufgrund schlechter Unterbringung und starkem Ungezieferbefall die Nächte im Innenhof einer Moschee verbringen."
     }
    },
    {
-    "time": "2026-11-21T00:32:00+03:00",
+    "time": "2026-11-21T04:00:00+03:00",
     "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasi-108-kisinin-mal-varligina-yonelik-islem-takibi-2557994",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-dosyasi-yilbasinda-kapanirsa-yatirimci-parasinin-ne-kadarini-alacak-fon-tasfiyesinde-takvim-var-odeme-plani-yok-2557931",
     "text": {
-     "tr": "İstanbul Cumhuriyet Başsavcılığı, fon soruşturmasında 108 kişinin mal varlığı işlemlerinin bildirilmesini istedi.",
-     "de": "Die Staatsanwaltschaft Istanbul ordnete im Zuge von Fondsermittlungen die Überwachung der Vermögenswerte von 108 Personen an."
+     "tr": "İYİ Parti Milletvekili Burak Dalgın, iktidarın fon tasfiyesi için yılbaşına kadar takvim verdiğini ancak yatırımcıya parasının ne kadarının ödeneceğini gösteren bir plan olmadığını söyledi.",
+     "de": "Der türkische Abgeordnete Burak Dalgın erklärte, dass es zwar einen Kalender für die Schließung der Fonds gibt, aber keinen Zahlungsplan für die Investoren."
     }
    },
    {
-    "time": "2026-11-21T00:28:00+03:00",
+    "time": "2026-11-21T04:00:00+03:00",
     "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/resmi-gazete-de-yayimlandi-5-bakanlikta-atama-ve-gorevden-alma-kararlari-2557993",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/akp-nin-oy-gaspi-suruyor-117-transfer-6-milyonu-asan-oy-2557932",
     "text": {
-     "tr": "Resmi Gazete'de yayımlanan kararla beş bakanlıkta atama ve görevden alma işlemleri yapıldı.",
-     "de": "Per Dekret im Amtsblatt wurden in fünf Ministerien Ernennungen und Entlassungen vorgenommen."
+     "tr": "31 Mart 2024 yerel seçimlerinden bu yana 117 belediye başkanı ve başkanvekili AKP'ye katıldı.",
+     "de": "Seit den Kommunalwahlen am 31. März 2024 sind insgesamt 117 Bürgermeister und stellvertretende Bürgermeister der AKP beigetreten."
+    }
+   },
+   {
+    "time": "2026-11-21T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/hakan-fidan-dan-mekke-anlasmasi-nda-abd-itirafi-hegemon-artik-hegemon-rolunu-oynamak-istemiyor-2557933",
+    "text": {
+     "tr": "Dışişleri Bakanı Hakan Fidan, Mekke Anlaşması'ndaki ABD etkisine işaret ederek hegemonun artık hegemon rolünü oynamak istemediğini belirtti.",
+     "de": "Außenminister Hakan Fidan verwies bezüglich des Mekka-Abkommens auf den Einfluss der USA und erklärte, dass der Hegemon diese Rolle nicht mehr spielen wolle."
+    }
+   },
+   {
+    "time": "2026-11-21T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/mirasimiz-kudus-dernegi-ogrencilere-ders-saatinde-konferans-verip-propagandasini-yapti-okullar-tarikat-ve-cemaatlerle-baglantili-yapilarin-faaliyet-alani-haline-getirilemez-2557935",
+    "text": {
+     "tr": "Mirasımız Kudüs Derneği'nin Ankara'daki bir lisede ders saatinde düzenlediği etkinliğe Eğitim Sen tepki gösterirken, İl Milli Eğitim Müdürlüğü soruşturma başlattı.",
+     "de": "Nach einer von einem Verein an einem Gymnasium in Ankara während der Unterrichtszeit abgehaltenen Veranstaltung leitete die Bildungsbehörde eine Untersuchung ein."
     }
    }
   ]
@@ -198,6 +198,7 @@
   "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
   "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
   "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
+  "https://www.bbc.co.uk/news/articles/ck9d7e9wvvweo",
   "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
   "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
@@ -296,6 +297,7 @@
   "https://www.cumhuriyet.com.tr/spor/victor-osimhen-icin-flas-transfer-iddiasi-gelecek-teklifleri-dinlemeye-hazir-2557877",
   "https://www.cumhuriyet.com.tr/turkiye/18-yasindan-once-sigorta-girisi-olanlar-dikkat-yargitay-dan-emeklilik-karari-2557847",
   "https://www.cumhuriyet.com.tr/turkiye/ahmet-sik-tan-bakan-gurlek-ve-bakan-simsek-e-fon-sorulari-talan-ve-yagma-duzeninin-siyasi-ayagi-2557950",
+  "https://www.cumhuriyet.com.tr/turkiye/akp-nin-oy-gaspi-suruyor-117-transfer-6-milyonu-asan-oy-2557932",
   "https://www.cumhuriyet.com.tr/turkiye/albayrak-grubu-ndan-ozlale-nin-iddialarina-yanit-hesap-vermek-zorunda-degiliz-yargiya-gidiyoruz-2557956",
   "https://www.cumhuriyet.com.tr/turkiye/antalya-da-kan-donduran-olay-moldovali-kadin-evinde-bicaklanarak-olduruldu-eski-esi-agaca-asili-bulundu-2557844",
   "https://www.cumhuriyet.com.tr/turkiye/avcilar-da-is-cinayeti-yuk-asansorunun-halati-koptu-17-yasindaki-mert-yasamini-yitirdi-2557852",
@@ -313,10 +315,13 @@
   "https://www.cumhuriyet.com.tr/turkiye/eski-ihd-yoneticisi-ali-aydin-cinayetinde-yeni-gelisme-saniktan-kazaydi-savunmasi-2557908",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-emeklilerden-ironik-eylem-emekli-maaslari-dusurulsun-2557947",
   "https://www.cumhuriyet.com.tr/turkiye/fezleke-kararinin-ardindan-mustafa-sarigul-den-aciklama-kim-neyin-pesinde-kim-neyin-hesabini-yapiyor-2557928",
+  "https://www.cumhuriyet.com.tr/turkiye/fon-dosyasi-yilbasinda-kapanirsa-yatirimci-parasinin-ne-kadarini-alacak-fon-tasfiyesinde-takvim-var-odeme-plani-yok-2557931",
+  "https://www.cumhuriyet.com.tr/turkiye/fon-magdurlari-cumhuriyet-e-konustu-paramizi-hirsizin-keyfine-gore-mi-alacagiz-2557934",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasi-108-kisinin-mal-varligina-yonelik-islem-takibi-2557994",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-araniyordu-serdar-altinbas-cekya-da-yakalandi-2557966",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-destek-holding-e-kayyim-atandi-2557919",
   "https://www.cumhuriyet.com.tr/turkiye/gazetecilerin-yargilandigi-davada-savcidan-5-isme-hapis-cezasi-istemi-2557898",
+  "https://www.cumhuriyet.com.tr/turkiye/hakan-fidan-dan-mekke-anlasmasi-nda-abd-itirafi-hegemon-artik-hegemon-rolunu-oynamak-istemiyor-2557933",
   "https://www.cumhuriyet.com.tr/turkiye/hatay-da-arazoz-ucuruma-yuvarlandi-1-isci-oldu-5-isci-yarali-2557921",
   "https://www.cumhuriyet.com.tr/turkiye/icisleri-bakanligi-duyurdu-28-ilde-feto-operasyonu-47-tutuklama-2557885",
   "https://www.cumhuriyet.com.tr/turkiye/icisleri-duyurdu-33-ilde-uyusturucu-operasyonu-159-tutuklama-2557842",
@@ -327,6 +332,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/izmir-de-otizmli-cocuklara-yonelik-siddet-sorusturmasinda-savciliktan-aciklama-2557951",
   "https://www.cumhuriyet.com.tr/turkiye/kalp-krizi-gecirerek-hayatini-kaybetti-cenazesi-dondurma-dolabinda-bekletildi-2557897",
   "https://www.cumhuriyet.com.tr/turkiye/manisa-buyuksehir-belediyesi-sorusturmasi-genel-sekreter-yardimcisi-tutuklandi-2557941",
+  "https://www.cumhuriyet.com.tr/turkiye/mirasimiz-kudus-dernegi-ogrencilere-ders-saatinde-konferans-verip-propagandasini-yapti-okullar-tarikat-ve-cemaatlerle-baglantili-yapilarin-faaliyet-alani-haline-getirilemez-2557935",
   "https://www.cumhuriyet.com.tr/turkiye/otomobil-park-halindeki-tir-a-carpti-4-agir-yarali-2557995",
   "https://www.cumhuriyet.com.tr/turkiye/oyak-in-fonlara-para-aktarilmasi-yoluyla-icinin-bosaltildigi-iddialarina-aciklama-geldi-2557987",
   "https://www.cumhuriyet.com.tr/turkiye/ozgur-celik-ten-dusunce-ve-basin-ozgurlugu-yuruyusu-cagrisi-2557952",
@@ -337,17 +343,24 @@
   "https://www.cumhuriyet.com.tr/turkiye/sulama-havuzuna-dusen-3-5-yasindaki-cocuk-hayatini-kaybetti-2557918",
   "https://www.cumhuriyet.com.tr/turkiye/turkiye-belediyeler-birligi-heyetinden-haberal-a-kutlama-ziyareti-2557848",
   "https://www.cumhuriyet.com.tr/turkiye/tutuklu-merkezefendi-belediye-baskani-dogan-yaptiklari-yetmiyormus-gibi-simdi-de-beni-oglumdan-ailemden-ayiriyorlar-2557972",
+  "https://www.cumhuriyet.com.tr/turkiye/tuzla-tersanelerinde-isci-yasami-tahtakurusu-yuzunden-cami-avlusunda-yatmak-2557914",
   "https://www.cumhuriyet.com.tr/turkiye/uzmanlardan-internet-kullanimi-uyarisi-dunya-nufusunun-yuzde-10-undan-fazlasi-risk-altinda-2557837",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-partili-ozgur-celik-ten-akp-ye-gecen-isimlere-sert-tepki-2557854",
   "https://www.cumhuriyet.com.tr/tv-rehberi/amcam-filminin-konusu-ne-amcam-filminin-oyunculari-kim-2557894",
   "https://www.cumhuriyet.com.tr/tv-rehberi/kritik-karar-filminin-konusu-ne-kritik-karar-filminin-oyunculari-kim-2557916",
   "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-eleme-adayi-kim-oldu-20-kasim-2026-masterchef-te-odul-oyununu-kim-kazandi-2557992",
   "https://www.cumhuriyet.com.tr/yasam/beyin-hastaliklarinin-teshisinde-yeni-yontem-kandan-sinir-hucrelerinin-izini-suren-protein-bulundu-2557879",
+  "https://www.cumhuriyet.com.tr/yasam/bursa-nin-yani-basinda-rengarenk-cumbali-evleri-ile-sanat-koyu-misi-2557504",
   "https://www.cumhuriyet.com.tr/yasam/ileri-yasta-kas-kaybinin-nedeni-cozuldu-zombi-hucreler-iyilesme-alarmini-acik-birakiyor-2557892",
   "https://www.cumhuriyet.com.tr/yasam/metabolizmayi-esir-alan-yalan-gunde-6-ogun-beslenmek-saglikli-mi-2557940",
   "https://www.cumhuriyet.com.tr/yasam/milyonlarca-yillik-evrimin-sonucu-insanlarin-yuzde-90-i-neden-saglak-2557893",
   "https://www.cumhuriyet.com.tr/yasam/sirketlerin-yilbasi-hediyelerinde-dijital-ve-kisisellestirilmis-seceneklere-ilgi-artiyor-2557843",
   "https://www.cumhuriyet.com.tr/yasam/vucudunuzda-hic-durmadan-yanan-o-gorunmez-ates-kronik-enflamasyon-hayatimizi-nasil-cokertiyor-2557953",
+  "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/akp-ye-ayrilan-surenin-fonuna-geldik-2557960",
+  "https://www.cumhuriyet.com.tr/yazarlar/oktay-eksi/turpun-buyugu-2557959",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/hukuk-egitimi-nasil-olmali-ali-em-2557958",
+  "https://www.cumhuriyet.com.tr/yazarlar/oner-yagci/edebiyatci-ve-dunya-2557904",
+  "https://www.cumhuriyet.com.tr/yazarlar/orsan-k-oymen/muhalefetsiz-turkiye-2557961",
   "https://www.cumhuriyet.com.tr/yerel-gundem/adiyaman-da-kaldirim-ve-yol-isgaline-siki-denetim-kurallara-uymayana-yaptirim-geliyor-2557910",
   "https://www.cumhuriyet.com.tr/yerel-gundem/safranbolu-da-sirin-fazli-yesilyurt-aktif-yas-alma-merkezi-yeni-binasinda-acildi-2557912",
   "https://www.cumhuriyet.com.tr/yerel-gundem/tarihi-kaleici-nde-iklim-krizine-sanat-damgasi-atiklar-esere-donustu-2557915",
@@ -476,6 +489,7 @@
   "https://www.evrensel.net/haber/6010488/almanya-da-z-kusagi-gencler-73-kentte-eylemdeydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010489/resmi-gazete-de-yayimlandi-suriye-deki-4-fakulte-ve-2-meslek-yuksekokulu-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010490/euroleague-de-13-hafta-besiktas-partizan-a-uzatmada-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010491/moody-s-ten-fon-degerlendirmesi-sistemik-risk-olusturmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -537,6 +551,7 @@
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/lufthansa-pilotengewerkschaft-kritisiert-kuerzungen-201701253.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-plant-ab-2030-rueckkehr-zu-v8-motoren-201703612.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/1-fc-koeln-holt-in-der-bundesliga-einen-punkt-beim-fc-bayern-muenchen-201304401.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/kane-und-olise-bei-1-1-in-koeln-verletzt-201304401.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-1-fc-magdeburg-gewinnt-gegen-arminia-bielefeld-201304596.html",
   "https://www.faz.net/aktuell/sport/fussball/dfb-team-von-juergen-klopp-in-nations-league-viertelfinale-gegen-belgien-201701959.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-trainer-aus-bei-blackpool-fc-an-ian-evatts-geburtstag-18134600.html",
@@ -557,10 +572,12 @@
   "https://www.faz.net/aktuell/wirtschaft/carsten-linnemann-und-die-notfallreform-sein-erster-grosser-erfolg-201702519.html",
   "https://www.faz.net/aktuell/wirtschaft/digitalpolitik-der-eu-eine-chronologie-des-scheiterns-201674773.html",
   "https://www.faz.net/aktuell/wirtschaft/ig-metall-erstmals-seit-2018-wieder-24-stunden-streiks-accg-201701268.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-streit-mit-london-britische-studiengebuehren-bleiben-heikel-201703264.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kein-beschluss-der-klimagipfel-in-antalya-dauert-laenger-201703265.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/notfallreform-bundesrat-billigt-linnemanns-gesetz-201702105.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/augenscreening-im-dm-christoph-werner-erwartet-langen-rechtsstreit-201697299.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-gericht-genehmigt-7-25-milliarden-glyphosat-vergleich-201703914.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-friday-2026-diese-tipps-sollte-jeder-kennen-accg-201699822.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hackerangriff-auf-hugendubel-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/galeria-schliesst-filialen-in-berlin-koeln-und-muenchen-accg-201702040.html",
@@ -744,6 +761,7 @@
   "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
   "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+  "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
   "https://www.theguardian.com/world/2026/nov/20/james-fergie-chambers-bail-spain",
   "https://www.theguardian.com/world/2026/nov/20/rush-stockpile-emergency-supplies-sends-british-retail-sales-soaring",
   "https://www.theguardian.com/world/2026/nov/20/russian-missiles-drone-poland-attacks-ukraine",
@@ -785,6 +803,7 @@
   "https://www.welt.de/politik/plus6b0005c839a3e8110f0e3619/prozess-in-mannheim-im-rotationssystem-sollen-kolumbianische-frauen-in-hotels-fuer-sex-angeboten-worden-sein.html",
   "https://www.welt.de/sport/fussball/article6b00117cbe487c5437746bdb/nations-league-klopp-im-losglueck-deutschland-entgeht-dem-weltmeister-und-haaland.html",
   "https://www.welt.de/sport/fussball/article6b007480b237b5b41c9a2f7f/blackpools-trainer-geburtstagsgruss-am-morgen-entlassung-am-nachmittag.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b00c1e039a3e8110f0e4b91/fc-bayern-diese-summen-sind-nicht-mehr-darstellbar-sagt-rummenigge-nach-musialas-comeback.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-den-fc-bayern-bei-kompanys-rueckkehr-kalt.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-die-bayern-bei-kompanys-rueckkehr-kalt-kane-muss-verletzt-runter-dann-trifft-brown.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-rueckschlag-im-heimspiel-fc-bayern-kommt-ohne-die-verletzten-kane-und-olise-gegen-koeln-nur-zu-remis.html",
