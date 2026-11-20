@@ -1,8 +1,26 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T21:21+01:00",
+ "updatedAt": "2026-11-20T21:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T21:34:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+    "text": {
+     "tr": "ABD Borsa Düzenleme Kurumu, çip üreticisi Nvidia hakkında olası bilanço sorunları nedeniyle inceleme başlatı.",
+     "de": "Die US-Börsenaufsicht ermittelt nach Medienberichten wegen mutmaßlicher Bilanzprobleme gegen den Chipriesen Nvidia."
+    }
+   },
+   {
+    "time": "2026-11-20T21:25:44+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
+    "text": {
+     "tr": "İngiltere'de eşi tarafından internette tecavüze sunulan kadın davasında dört erkek suçlu bulundu.",
+     "de": "In Großbritannien wurden vier Männer schuldig gesprochen, nachdem eine Frau über Jahre von ihrem Ehemann angeboten worden war."
+    }
+   },
    {
     "time": "2026-11-20T20:57:00+01:00",
     "source": "Der Spiegel",
@@ -13,39 +31,21 @@
     }
    },
    {
+    "time": "2026-11-20T20:22:04+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/sportpolitik/fifa-praesident-gianni-infantino-wird-von-conmebol-unterstuetzt-201703747.html",
+    "text": {
+     "tr": "Güney Amerika Futbol Konfederasyonu, 2027 FIFA başkanlık seçiminde Gianni Infantino'ya desteğini açıkladı.",
+     "de": "Die zehn südamerikanischen Fußballverbände unterstützen den FIFA-Präsidenten Gianni Infantino bei der Wahl 2027."
+    }
+   },
+   {
     "time": "2026-11-20T19:38:33+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-fussball-bundesliga-1-fc-magdeburg-gewinnt-gegen-arminia-bielefeld-201304596.html",
     "text": {
      "tr": "1. FC Magdeburg, Bielefeld'i yenerek 2. Bundesliga'da üçüncü sıraya yükseldi.",
      "de": "Der 1. FC Magdeburg springt nach einem Sieg in Bielefeld auf den dritten Tabellenplatz der 2. Bundesliga."
-    }
-   },
-   {
-    "time": "2026-11-20T19:26:58+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-die-bayern-bei-kompanys-rueckkehr-kalt-kane-muss-verletzt-runter-dann-trifft-brown.html",
-    "text": {
-     "tr": "Bundesliga maçında Bayern Münih, Köln karşısında geriye düşerken Kane sakatlanarak oyundan çıktı.",
-     "de": "Der FC Bayern geriet in der Bundesliga gegen Köln in Rückstand, während Kane verletzt ausgewechselt werden musste."
-    }
-   },
-   {
-    "time": "2026-11-20T19:25:36+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
-    "text": {
-     "tr": "Fransa'da oyuncu Gerard Depardieu ve yazar Michel Houellebecq hakkında toplu tecavüz suçlamasıyla yeni bir soruşturma açıldı.",
-     "de": "Gegen den Schauspieler Gérard Depardieu und den Schriftsteller Michel Houellebecq liegt in Frankreich eine neue Anzeige wegen Gruppenvergewaltigung vor."
-    }
-   },
-   {
-    "time": "2026-11-20T19:23:44+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/basf-gibt-uebernahme-von-evonik-auf-kamieth-scheitert-an-wuest-201701320.html",
-    "text": {
-     "tr": "Kimya devi BASF, siyasi engeller nedeniyle Evonik'i satın alma planlarından vazgeçti.",
-     "de": "Der Chemiekonzern BASF gibt seine Übernahmepläne für Evonik nach politischen Widerständen auf."
     }
    }
   ],
@@ -57,6 +57,24 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, Çin Devlet Başkanı Şi Cinping ile yapay zeka güvenliği konusunda anlaştıklarını duyurdu.",
      "de": "US-Präsident Donald Trump hat eine Einigung mit dem chinesischen Staatschef Xi Jinping zur Sicherheit künstlicher Intelligenz verkündet."
+    }
+   },
+   {
+    "time": "2026-11-20T20:45:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505",
+    "text": {
+     "tr": "Rus mahkemesi, Navalni'nin vakfına bağış yapan ornitolog Sofia Rosenfeld'i 3.5 yıl hapis cezasına çarptırdı.",
+     "de": "Eine russische Ornithologin wurde wegen kleiner Spenden an Navalnys Stiftung zu dreieinhalb Jahren Straflager verurteilt."
+    }
+   },
+   {
+    "time": "2026-11-20T20:36:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
+    "text": {
+     "tr": "BM uzmanları, İran'da son bir yılda en az 135 avukata baskı uygulandığını ve adil yargılanmanın tehlikede olduğunu belirtti.",
+     "de": "UN-Experten warnen vor zunehmenden Repressionen gegen mindestens 135 Anwälte im Iran und Gefahren für faire Prozesse."
     }
    },
    {
@@ -76,27 +94,45 @@
      "tr": "ABD Başkanı Donald Trump, Amerikan firmalarının yurt dışında yapay zeka veri merkezi kurmasını yasaklamakla tehdit etti.",
      "de": "US-Präsident Donald Trump drohte mit einem Verbot für US-Firmen, KI-Rechenzentren im Ausland zu errichten."
     }
-   },
-   {
-    "time": "2026-11-20T19:45:20+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
-    "text": {
-     "tr": "Fransız oyuncu Gérard Depardieu ve bir yazar hakkında cinsel iddialar nedeniyle adli soruşturma başlatıldı.",
-     "de": "Gegen den französischen Schauspieler Gérard Depardieu und einen Autor wurde wegen Sexualvorwürfen ermittelt."
-    }
-   },
-   {
-    "time": "2026-11-20T19:38:59+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
-    "text": {
-     "tr": "JP Morgan CEO'su Jamie Dimon, Birleşik Krallık'taki banka vergi artışının etkilerini telafi edeceğini açıkladı.",
-     "de": "JP-Morgan-Chef Jamie Dimon kündigt an, die Steuererhöhungen für Banken im Vereinigten Königreich auszugleichen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-20T23:46:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/spk-den-baticim-hisselerine-iliskin-islem-yasagi-karari-2557983",
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, Batıçim pay piyasasındaki işlemler nedeniyle BR Madencilik'e 6 ay işlem yasağı getirdi.",
+     "de": "Das türkische Kapitalmarktgremium SPK verhängte ein sechstägiges Handelsverbot gegen BR Madencilik wegen Transaktionen bei Batıçim."
+    }
+   },
+   {
+    "time": "2026-11-20T23:41:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/dunya/afganistan-da-cocuklarin-buldugu-muhimmat-patladi-4-cocuk-oldu-2557980",
+    "text": {
+     "tr": "Afganistan'ın Ferrah vilayetinde çocukların bulduğu mühimmatın patlaması sonucu 4 çocuk hayatını kaybetti.",
+     "de": "Durch die Explosion von Munition in der afghanischen Provinz Farah starben vier Kinder."
+    }
+   },
+   {
+    "time": "2026-11-20T23:30:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010482/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Birleşmiş Milletler Genel Kurulu, Filistin'in bağımsızlık hakkı tasarı taslağını 162 oyla kabul etti.",
+     "de": "Die UN-Generalversammlung hat einen Entwurf zum Recht auf palästinensische Unabhängigkeit mit 162 Stimmen angenommen."
+    }
+   },
+   {
+    "time": "2026-11-20T23:23:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010480/corum-daki-is-cinayeti-kolunu-makinaya-kaptiran-isci-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Çorum'un Sungurlu ilçesindeki bir fabrikada kolunu makineye kaptıran işçi hayatını kaybetti.",
+     "de": "Ein junger Arbeiter starb nach einem Fabrikunfall in Çorum, bei dem er seinen Arm in eine Maschine geriet."
+    }
+   },
    {
     "time": "2026-11-20T23:11:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -104,42 +140,6 @@
     "text": {
      "tr": "Balıkesir'in Bandırma ilçesinde bir kedinin sol gözünün kör olmasına neden olan şüpheli tutuklandı.",
      "de": "Ein Verdächtiger wurde festgenommen, weil er in Bandırma einer Katze das linke Auge blind geschlagen hatte."
-    }
-   },
-   {
-    "time": "2026-11-20T22:56:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010477/tbb-den-4-avukatin-tutuklanmasina-tepki-avukatlik-mesleginin-bagimsizligi-bakimindan-da-kaygi-vericidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Türkiye Barolar Birliği, İzmir merkezli soruşturmada dört avukatın tutuklanmasına tepki gösterdi.",
-     "de": "Die Anwältevereinigung der Türkei kritisierte die Festnahme von vier Anwälten im Rahmen einer in Izmir zentrierten Untersuchung."
-    }
-   },
-   {
-    "time": "2026-11-20T22:38:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-araniyordu-serdar-altinbas-cekya-da-yakalandi-2557966",
-    "text": {
-     "tr": "Fon soruşturmasında aranan Serdar Altınbaş Çekya'da yakalandı ve Türkiye'ye iade süreci başlatıldı.",
-     "de": "Der im Betrugs- und Geldwäscheverfahren gesuchte Serdar Altınbaş wurde in Tschechien festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-20T22:32:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ten-asvel-karsisinda-farkli-galibiyet-2557963",
-    "text": {
-     "tr": "Anadolu Efes, EuroLeague'in 13. haftasında LDLC ASVEL'i sahasında 107-81 mağlup etti.",
-     "de": "Anadolu Efes besiegte LDLC ASVEL am 13. Spieltag der EuroLeague deutlich mit 107:81."
-    }
-   },
-   {
-    "time": "2026-11-20T22:23:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010474/avusturya-da-gencler-savas-ve-silahlanmaya-karsi-sokaktaydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Avusturya'da binlerce genç, artan askeri harcamalara ve silahlanma politikalarına karşı eylem yaptı.",
-     "de": "Tausende Jugendliche demonstrierten in Österreich gegen Rüstungspolitik und steigende Militärausgaben."
     }
    }
   ]
@@ -226,6 +226,7 @@
   "https://www.cumhuriyet.com.tr/astroloji/boga-burcu/gunluk-burc-yorumlari-22-kasim-cumartesi-boga-burcu-yorumu-2557869",
   "https://www.cumhuriyet.com.tr/astroloji/dili-cok-sivri-olan-3-kadin-burcu-bu-burclarin-sozleri-adeta-bir-jilet-2557913",
   "https://www.cumhuriyet.com.tr/astroloji/dogal-bir-miknatis-gibiler-auralariyla-buyuleyen-en-cekici-ve-karizmatik-5-burc-2557974",
+  "https://www.cumhuriyet.com.tr/astroloji/kimsenin-gormedigini-yakalarlar-en-titiz-analitik-ve-detayci-5-burc-2557978",
   "https://www.cumhuriyet.com.tr/astroloji/koc-burcu/gunluk-burc-yorumlari-22-kasim-cumartesi-koc-burcu-yorumu-2557868",
   "https://www.cumhuriyet.com.tr/astroloji/sevgiyi-ruhunun-en-derininde-yasayanlar-en-romantik-ve-duygusal-derinligi-olan-5-burc-2557943",
   "https://www.cumhuriyet.com.tr/astroloji/terazi-burcu/gunluk-burc-yorumlari-21-kasim-cumartesi-terazi-burcu-yorumu-2557859",
@@ -238,6 +239,7 @@
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/microsoft-un-ceo-sundan-kuresel-altyapilarda-istikrarsizlik-donemi-vurgusu-2557925",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/sir-gibi-saklanmisti-lucia-yi-ve-jason-i-seslendiren-sanatcilarin-isimleri-resmi-olarak-aciklandi-2557946",
   "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/alev-coskun-adina-kitaplik-kuruldu-2557849",
+  "https://www.cumhuriyet.com.tr/dunya/afganistan-da-cocuklarin-buldugu-muhimmat-patladi-4-cocuk-oldu-2557980",
   "https://www.cumhuriyet.com.tr/dunya/almanya-da-gencler-sokaga-cikti-bizim-savasimiz-degil-2557922",
   "https://www.cumhuriyet.com.tr/dunya/malezya-dan-10-bin-arakanli-multeci-aciklamasi-turkiye-nin-kabul-ettigi-one-suruldu-2557855",
   "https://www.cumhuriyet.com.tr/dunya/trump-si-cinping-ile-yapay-zeka-anlasmasini-duyurdu-2557957",
@@ -249,6 +251,7 @@
   "https://www.cumhuriyet.com.tr/ekonomi/hgs-de-yeni-donem-bakan-uraloglu-kararlari-acikladi-2557903",
   "https://www.cumhuriyet.com.tr/ekonomi/ikinci-evi-olanlara-kredi-freni-bddk-den-yuzde-75-karari-2557884",
   "https://www.cumhuriyet.com.tr/ekonomi/mehmet-simsek-2026-cari-acik-tahminini-acikladi-zorlu-kosullarin-oldugu-bu-donemde-2557850",
+  "https://www.cumhuriyet.com.tr/ekonomi/spk-den-baticim-hisselerine-iliskin-islem-yasagi-karari-2557983",
   "https://www.cumhuriyet.com.tr/gurme/hatay-mutfaginin-dunyaya-acilan-kapisi-tepsi-kebabi-tarifi-2557858",
   "https://www.cumhuriyet.com.tr/gurme/italyan-mutfak-kulturunun-klasigi-lazanya-tarifi-2557838",
   "https://www.cumhuriyet.com.tr/gurme/japon-mutfak-kulturunun-yoshoku-klasigi-katsu-kori-2557907",
@@ -343,6 +346,8 @@
   "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-strengthen-ties-after-brexit/a-80001076",
   "https://www.dw.com/en/is-pakistan-backing-anti-taliban-groups-in-afghanistan/a-80004814",
   "https://www.dw.com/en/myanmar-genocide-ruling-rohingya-say-struggle-for-justice-not-over/a-80003365",
+  "https://www.dw.com/en/repression-against-iranian-lawyers-increases/a-80006742",
+  "https://www.dw.com/en/russian-ornithologist-jailed-over-small-donations-to-navalny-s-foundation/a-80005505",
   "https://www.dw.com/en/turkey-takes-control-of-opposition-broadcaster-sozcu-tv/a-80001984",
   "https://www.dw.com/en/white-house-replaces-cyber-security-chief-after-tech-outages/a-79998531",
   "https://www.dw.com/tr/abd-de-ikinci-zehirli-iğne-vakası-ölümü-1-saat-sürdü/a-79999971",
@@ -443,6 +448,9 @@
   "https://www.evrensel.net/haber/6010477/tbb-den-4-avukatin-tutuklanmasina-tepki-avukatlik-mesleginin-bagimsizligi-bakimindan-da-kaygi-vericidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010478/dokuz-eylul-universitesi-ogrencilerinden-uzaklastirmalara-tepki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010479/tutuklu-merkezefendi-belediye-baskani-dogan-yaptiklari-yetmiyormus-gibi-simdi-de-beni-oglumdan-ailemden-ayiriyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010480/corum-daki-is-cinayeti-kolunu-makinaya-kaptiran-isci-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010481/cop31-kapanis-genel-kurulunda-protesto-iklim-krizi-bizi-olduruyor-ve-siz-hicbir-sey-yapmiyorsunuz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010482/bm-genel-kurulu-filistin-halkinin-bagimsizlik-hakkina-iliskin-tasariyi-162-oyla-kabul-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -466,6 +474,7 @@
   "https://www.faz.net/aktuell/karriere-hochschule/uni-live/wie-man-studienabschluesse-richtig-feiert-201696250.html",
   "https://www.faz.net/aktuell/politik/ausland/daniel-thomas-15-monate-haft-fuer-angriff-auf-fluechtlingsboot-201703536.html",
   "https://www.faz.net/aktuell/politik/ausland/eu-und-grossbritannien-schliessen-abkommen-und-streiten-weiter-201701624.html",
+  "https://www.faz.net/aktuell/politik/ausland/gipfeltreffen-in-shenzen-putin-und-trump-machen-es-xi-leicht-201691480.html",
   "https://www.faz.net/aktuell/politik/ausland/grossbritannien-und-eu-naeher-zusammen-aber-ein-beitritt-waere-keine-gute-idee-201702090.html",
   "https://www.faz.net/aktuell/politik/ausland/iran-will-ende-der-seeblockade-erzwingen-accg-201701027.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-irak-geht-gegen-proiranische-miliz-vor-faz-200583539.html",
@@ -482,6 +491,7 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-diplomatie-europa-darf-nicht-auf-putin-hereinfallen-201701902.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-russland-soll-anschlag-auf-ukrainischen-rapper-in-daenemark-geplant-haben-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukrainekrieg-europa-bereitet-sich-auf-gespraeche-mit-russland-vor-accg-201701260.html",
+  "https://www.faz.net/aktuell/politik/ukraine/upa-streit-warum-polen-und-die-ukraine-ueber-geschichte-streiten-201061493.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-droht-ki-unternehmen-mit-enormen-strafen-faz-19444916.html",
   "https://www.faz.net/aktuell/reise/geheimnisvolle-bretagne-wanderung-nach-finistere-201313802.html",
   "https://www.faz.net/aktuell/reise/vorsicht-bei-ki-reisefuehrern-201316584.html",
@@ -509,6 +519,7 @@
   "https://www.faz.net/aktuell/sport/mehr-sport/nfl-sperrt-puka-nacua-von-los-angeles-rams-nach-antisemitismus-vorwuerfen-accg-201701829.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/loewen-frankfurt/loewen-frankfurt-in-del-auf-dem-eis-dorthin-gehen-wo-es-wehtut-accg-201698501.html",
   "https://www.faz.net/aktuell/sport/sport-tipps/sport-nach-der-grippeschutzimpfung-was-erlaubt-ist-und-was-man-besser-verschiebt-accg-201665383.html",
+  "https://www.faz.net/aktuell/sport/sportpolitik/fifa-praesident-gianni-infantino-wird-von-conmebol-unterstuetzt-201703747.html",
   "https://www.faz.net/aktuell/technik-motor/digital/das-sind-die-besten-bluetooth-kopfhoerer-im-test-accg-201678004.html",
   "https://www.faz.net/aktuell/technik-motor/wenn-assistenzsysteme-im-auto-mehr-schaden-als-nuetzen-accg-201648583.html",
   "https://www.faz.net/aktuell/verfuegbare-einkommen-in-diesen-kreisen-wird-deutschland-aermer-201699581.html",
@@ -613,6 +624,7 @@
   "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
   "https://www.spiegel.de/wirtschaft/soziales/deutsch-ukrainisches-wirtschaftsforum-fuer-friedrich-merz-geht-es-in-der-ukraine-auch-ums-geschaeft-a-2848de43-1eaa-4c1a-9657-61708a4cd52c#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-islamisten-gesucht-buddhisten-und-doenerhersteller-gefunden-a-ca7c78d3-5ee1-4a47-acfb-21ba6832b6e7#ref=rss",
+  "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
   "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
   "https://www.spiegel.de/wissenschaft/technik/samoa-usa-vergeben-erste-lizenzen-fuer-tiefseebergbau-im-pazifik-a-e10d57ce-075d-4ac3-bddd-018f43c09d0f#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss",
@@ -624,6 +636,7 @@
   "https://www.tagesschau.de/ausland/europa/eu-grossbritannien-abkommen-102.html",
   "https://www.tagesschau.de/ausland/europa/eu-uk-gipfel-100.html",
   "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
+  "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
   "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
   "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
   "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
