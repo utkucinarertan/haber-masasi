@@ -117,8 +117,27 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
   <div class="msg" id="gem-msg"></div>
 </section>
 
+<section class="card" id="c-prof">
+  <h2><span class="n">3</span>Profiller</h2>
+  <p>Her kişi için ayrı bir profil oluşturabilirsiniz: kendi ülkeleri, kaynakları, konuları, dilleri ve baskı saati olur. Aşağıdaki 4-7. adımlar <b>seçili profilin</b> ayarlarıdır. Kişiye profilin bağlantısını gönderin; uygulama bu bağlantıyla açıldığında yalnız o profilin haberlerini gösterir ve profili hatırlar.</p>
+  <div class="row2">
+    <label class="f">Düzenlenen profil<select id="prof-sel"></select></label>
+    <div class="actions" style="flex:0 0 auto"><button class="btn danger" id="prof-del">Profili sil</button></div>
+  </div>
+  <div class="row2">
+    <label class="f">Bu profilin uygulama bağlantısı<input type="text" id="prof-link" readonly></label>
+    <div class="actions" style="flex:0 0 auto"><button class="btn" id="prof-copy">Kopyala</button></div>
+  </div>
+  <div class="row2">
+    <label class="f">Yeni profil adı<input type="text" id="prof-name" placeholder="ör. Ayşe" maxlength="40"></label>
+    <div class="actions" style="flex:0 0 auto"><button class="btn primary" id="prof-add">Profil oluştur</button></div>
+  </div>
+  <p class="hint">Yeni profil, seçili profilin kayıtlı ayarlarıyla başlar; sonra istediğiniz gibi değiştirin. İlk baskısı ve son dakikası birkaç dakika içinde hazırlanır. Aynı ayarlı ülkeler profiller arasında paylaşılır, Gemini'ye ikinci kez gönderilmez.</p>
+  <div class="msg" id="prof-msg"></div>
+</section>
+
 <section class="card">
-  <h2><span class="n">3</span>Yayın saati ve diller</h2>
+  <h2><span class="n">4</span>Yayın saati ve diller</h2>
   <div class="row2">
     <label class="f">Baskının her gün en geç hazır olacağı saat (Almanya saati)<select id="cfg-time"></select></label>
   </div>
@@ -128,7 +147,7 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 </section>
 
 <section class="card">
-  <h2><span class="n">4</span>Ülkeler ve kaynaklar</h2>
+  <h2><span class="n">5</span>Ülkeler ve kaynaklar</h2>
   <p>Kullanıcılar burada eklediğiniz ülkelerden istediklerini seçer. Her ülke için haberlerin derleneceği RSS adreslerini girin (haber sitesinin "RSS" bağlantısı). Gemini günlük baskı için 5-10 önemli haber seçer, saat başı da son dakika maddelerini yazar.</p>
   <ul class="help">
     <li>Her kaynağın yanında nerede kullanılacağını seçin: <b>Günlük + Son dakika</b>, <b>Yalnız günlük</b> (seçilmiş manşetler) ya da <b>Yalnız son dakika</b> (sık güncellenen "son dakika" akışları).</li>
@@ -141,7 +160,7 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 </section>
 
 <section class="card">
-  <h2><span class="n">5</span>Bağımsız kaynak denetimi</h2>
+  <h2><span class="n">6</span>Bağımsız kaynak denetimi</h2>
   <p>Haftada bir Gemini, Google'da güncel bilgiyi arayarak her ülkenin kaynaklarını denetler. Bağımsızlığını yitiren kaynakları (kayyum atanan, devlet ya da hükümet denetimine geçen, kapanan) çıkarır, yerine bağımsız haber sitelerini ekler. Önerilen her adres gerçekten denenir. Çalışan bağımsız kaynak yeterli değilse mevcut liste korunur.</p>
   <label class="f">Kullanılmayacak siteler (her satıra bir alan adı; isterseniz boşluktan sonra neden yazın)
     <textarea id="cfg-blocked" rows="4" spellcheck="false" placeholder="sozcu.com.tr Kayyum atandı"></textarea></label>
@@ -152,7 +171,7 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 </section>
 
 <section class="card">
-  <h2><span class="n">6</span>Kaydet ve yayınla</h2>
+  <h2><span class="n">7</span>Kaydet ve yayınla</h2>
   <p>Ayarları kaydedin. Yeni ayarlar birkaç dakika içinde son dakikaya, ertesi sabah da günlük baskıya yansır; yeni eklenen ülke ise hemen hazırlanır. Bugünün baskısını yeni ayarlarla hemen yenilemek için <b>Şimdi hazırla</b>'ya basın (birkaç dakika sürer).</p>
   <div class="actions"><button class="btn primary" id="cfg-save">Ayarları kaydet</button><button class="btn" id="run-now">Şimdi hazırla</button></div>
   <div class="msg" id="cfg-msg"></div>
@@ -218,7 +237,7 @@ async function connect(){
     $("#gh-forget").hidden = false; $("#gh-token").value = ""; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)";
     setLocked(false);
     say("#gh-msg", "ok", "Bağlandı.");
-    await Promise.all([loadConfig(), checkSecret(), loadRuns()]);
+    await Promise.all([loadProfiles().then(loadConfig), checkSecret(), loadRuns()]);
   } catch (e){
     setLocked(true);
     say("#gh-msg", "err", e.message);
@@ -288,8 +307,88 @@ let cfg = {time:"06:00", timezone:"Europe/Berlin", languages:["tr"], countries:[
 const timeSel = $("#cfg-time");
 for (let h = 0; h < 24; h++){ const v = String(h).padStart(2, "0") + ":00"; const o = el("option", null, v); o.value = v; timeSel.append(o); }
 
+/* ---------- 3. Profiller ---------- */
+const DEFAULT_PROFILE = "default";
+let profiles = [{id:DEFAULT_PROFILE, name:"Varsayılan"}], profilesSha = null;
+let profile = store.get("admin-profile") || DEFAULT_PROFILE;
+const cfgPath = (id = profile) => id === DEFAULT_PROFILE ? "docs/data/config.json" : `docs/data/p/${id}/config.json`;
+const dataPath = () => profile === DEFAULT_PROFILE ? "data/" : `data/p/${profile}/`;
+const appLink = () => new URL(profile === DEFAULT_PROFILE ? "./" : `./?p=${profile}`, location.href).href;
+const profileName = id => (profiles.find(x => x.id === id) || {}).name || id;
+function normalizeProfiles(list){
+  const out = [{id:DEFAULT_PROFILE, name:(list.find(x => x.id === DEFAULT_PROFILE) || {}).name || "Varsayılan"}];
+  for (const x of list) if (x && /^[a-z0-9][a-z0-9-]{0,29}$/.test(x.id) && x.id !== DEFAULT_PROFILE && !out.some(o => o.id === x.id)) out.push({id:x.id, name:String(x.name || x.id)});
+  return out;
+}
+async function loadProfiles(){
+  const f = await gh(`repos/${REPO}/contents/docs/data/profiles.json?ref=main`, {allow404:true});
+  if (f){ profiles = normalizeProfiles(JSON.parse(unb64(f.content)).profiles || []); profilesSha = f.sha; }
+  else { profiles = normalizeProfiles([]); profilesSha = null; }
+  if (!profiles.some(x => x.id === profile)) profile = DEFAULT_PROFILE;
+  renderProfiles();
+}
+function renderProfiles(){
+  const sel = $("#prof-sel");
+  sel.replaceChildren(...profiles.map(x => { const o = el("option", null, x.id === DEFAULT_PROFILE && x.name !== "Varsayılan" ? `${x.name} (varsayılan)` : x.name); o.value = x.id; return o; }));
+  sel.value = profile;
+  $("#prof-link").value = appLink();
+  $("#prof-del").disabled = profile === DEFAULT_PROFILE;
+  store.set("admin-profile", profile);
+}
+async function saveProfiles(next, message){
+  const cur = await gh(`repos/${REPO}/contents/docs/data/profiles.json?ref=main`, {allow404:true});
+  const res = await gh(`repos/${REPO}/contents/docs/data/profiles.json`, {method:"PUT", body:JSON.stringify({
+    message, branch:"main", content:b64(JSON.stringify({profiles:next}, null, 1) + "\n"), ...(cur ? {sha:cur.sha} : {})})});
+  profiles = next; profilesSha = res.content.sha;
+}
+const slugify = name => name.toLocaleLowerCase("tr").replace(/[çğıöşü]/g, c => ({ç:"c",ğ:"g",ı:"i",ö:"o",ş:"s",ü:"u"})[c])
+  .normalize("NFD").replace(/[\u0300-\u036f]/g, "").replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 30).replace(/-+$/, "");
+$("#prof-sel").onchange = e => {
+  profile = e.target.value; renderProfiles(); say("#prof-msg", "", ""); say("#cfg-msg", "", "");
+  (token ? loadConfig() : fetch(dataPath() + "config.json?t=" + Date.now()).then(r => r.json()).then(c => { cfg = c; renderConfig(); loadReview(); }))
+    .catch(e => say("#prof-msg", "err", e.message));
+};
+$("#prof-copy").onclick = async () => {
+  try { await navigator.clipboard.writeText($("#prof-link").value); say("#prof-msg", "ok", "Bağlantı kopyalandı."); }
+  catch { $("#prof-link").select(); say("#prof-msg", "", "Bağlantıyı seçtim; Ctrl+C ile kopyalayın."); }
+};
+$("#prof-add").onclick = async () => {
+  const name = $("#prof-name").value.trim();
+  if (!name) return say("#prof-msg", "err", "Profil adını yazın.");
+  let id = slugify(name) || "profil";
+  if (id === DEFAULT_PROFILE) id = "profil-default";
+  for (let i = 2; profiles.some(x => x.id === id); i++) id = `${slugify(name).slice(0, 27) || "profil"}-${i}`;
+  const btn = $("#prof-add"); btn.disabled = true;
+  try {
+    say("#prof-msg", "", "Profil oluşturuluyor…");
+    const {sourcesReviewedAt, ...start} = cfg;   // seçili profilin kayıtlı ayarlarıyla başlar
+    await gh(`repos/${REPO}/contents/${cfgPath(id)}`, {method:"PUT", body:JSON.stringify({
+      message:`Yeni profil: ${name}`, branch:"main", content:b64(JSON.stringify(start, null, 1) + "\n")})});
+    await saveProfiles([...profiles, {id, name}], `Profil listesi: ${name} eklendi`);
+    profile = id; renderProfiles(); $("#prof-name").value = "";
+    await loadConfig();
+    say("#prof-msg", "ok", `"${name}" profili oluşturuldu. Ayarlarını aşağıda değiştirip kaydedin; bağlantısını kişiye gönderin.`);
+  } catch (e){ say("#prof-msg", "err", e.message); }
+  finally { btn.disabled = false; }
+};
+$("#prof-del").onclick = async () => {
+  if (profile === DEFAULT_PROFILE) return;
+  const name = profileName(profile);
+  if (!confirm(`"${name}" profili silinsin mi? Ayarları ve baskıları kaldırılır, bağlantısı artık çalışmaz. Bu geri alınamaz.`)) return;
+  const btn = $("#prof-del"); btn.disabled = true;
+  try {
+    say("#prof-msg", "", "Siliniyor…");
+    await saveProfiles(profiles.filter(x => x.id !== profile), `Profil listesi: ${name} silindi`);
+    const f = await gh(`repos/${REPO}/contents/${cfgPath()}?ref=main`, {allow404:true});
+    if (f) await gh(`repos/${REPO}/contents/${cfgPath()}`, {method:"DELETE", body:JSON.stringify({message:`Profil silindi: ${name}`, branch:"main", sha:f.sha})});
+    profile = DEFAULT_PROFILE; renderProfiles(); await loadConfig();
+    say("#prof-msg", "ok", `"${name}" silindi. Baskı dosyaları birkaç dakika içinde haber döngüsünce kaldırılır.`);
+  } catch (e){ say("#prof-msg", "err", e.message); }
+  finally { $("#prof-del").disabled = profile === DEFAULT_PROFILE; }
+};
+
 async function loadConfig(){
-  const f = await gh(`repos/${REPO}/contents/docs/data/config.json?ref=main`, {allow404:true});
+  const f = await gh(`repos/${REPO}/contents/${cfgPath()}?ref=main`, {allow404:true});
   if (f){ cfg = JSON.parse(unb64(f.content)); cfgSha = f.sha; }
   renderConfig();
   loadReview();
@@ -424,9 +523,9 @@ $("#cfg-save").onclick = async () => {
   try {
     const next = readConfig();
     say("#cfg-msg", "", "Kaydediliyor…");
-    const cur = await gh(`repos/${REPO}/contents/docs/data/config.json?ref=main`, {allow404:true});
-    const res = await gh(`repos/${REPO}/contents/docs/data/config.json`, {method:"PUT", body:JSON.stringify({
-      message:"Ayarlar güncellendi (yönetim sayfası)", branch:"main",
+    const cur = await gh(`repos/${REPO}/contents/${cfgPath()}?ref=main`, {allow404:true});
+    const res = await gh(`repos/${REPO}/contents/${cfgPath()}`, {method:"PUT", body:JSON.stringify({
+      message:`Ayarlar güncellendi: ${profileName(profile)} (yönetim sayfası)`, branch:"main",
       content:b64(JSON.stringify(next, null, 1) + "\n"), ...(cur ? {sha:cur.sha} : {})})});
     cfg = next; cfgSha = res.content.sha;
     say("#cfg-msg", "ok", "Ayarlar kaydedildi. Uygulamada birkaç dakika içinde görünür.");
@@ -459,7 +558,8 @@ async function loadRuns(){
 $("#run-now").onclick = async () => {
   const btn = $("#run-now"); btn.disabled = true;
   try {
-    await gh(`repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {method:"POST", body:JSON.stringify({ref:"main"})});
+    await gh(`repos/${REPO}/actions/workflows/${WORKFLOW}/dispatches`, {method:"POST", body:JSON.stringify({ref:"main",
+      inputs:{profile:profile === DEFAULT_PROFILE ? "" : profile}})});
     say("#cfg-msg", "ok", "Baskı hazırlanmaya başladı. Birkaç dakika sürer; durum aşağıda görünür.");
     setTimeout(loadRuns, 4000);
   } catch (e){ say("#cfg-msg", "err", e.message); }
@@ -470,7 +570,7 @@ $("#run-now").onclick = async () => {
 async function loadReview(){
   const box = $("#review-last");
   try {
-    const r = await fetch("data/source-review.json?t=" + Date.now());
+    const r = await fetch(dataPath() + "source-review.json?t=" + Date.now());
     if (!r.ok){ box.textContent = "Henüz denetim yapılmadı."; return; }
     const rev = await r.json();
     const when = new Date(rev.reviewedAt).toLocaleString("tr-TR", {day:"numeric", month:"long", hour:"2-digit", minute:"2-digit"});
@@ -490,7 +590,8 @@ async function loadReview(){
 $("#review-now").onclick = async () => {
   const btn = $("#review-now"); btn.disabled = true;
   try {
-    await gh(`repos/${REPO}/actions/workflows/review-sources.yml/dispatches`, {method:"POST", body:JSON.stringify({ref:"main"})});
+    await gh(`repos/${REPO}/actions/workflows/review-sources.yml/dispatches`, {method:"POST", body:JSON.stringify({ref:"main",
+      inputs:{profile}})});
     say("#review-msg", "ok", "Denetim başladı (birkaç dakika sürer). Bitince sayfayı yenileyin; değişen kaynaklar ve gerekçeleri burada görünür. Önce kaydedilmemiş değişikliklerinizi kaydedin.");
     setTimeout(loadRuns, 4000);
   } catch (e){ say("#review-msg", "err", e.message); }
@@ -500,7 +601,10 @@ $("#review-now").onclick = async () => {
 if (token){ $("#gh-forget").hidden = false; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)"; connect(); }
 else {
   // Bağlanmadan önce de mevcut ayarları göster
-  fetch("data/config.json?t=" + Date.now()).then(r => r.json()).then(c => { cfg = c; renderConfig(); loadReview(); }).catch(() => {});
+  fetch("data/profiles.json?t=" + Date.now()).then(r => r.ok ? r.json() : {profiles:[]}).catch(() => ({profiles:[]}))
+    .then(j => { profiles = normalizeProfiles(j.profiles || []); if (!profiles.some(x => x.id === profile)) profile = DEFAULT_PROFILE; renderProfiles();
+      return fetch(dataPath() + "config.json?t=" + Date.now()); })
+    .then(r => r.json()).then(c => { cfg = c; renderConfig(); loadReview(); }).catch(() => {});
 }
 </script>
 </body>

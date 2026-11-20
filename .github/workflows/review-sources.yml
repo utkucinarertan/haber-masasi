@@ -10,6 +10,11 @@ on:
   push:
     paths: ["scripts/review_sources.py", ".github/workflows/review-sources.yml"]   # denetim kodu değişince (son denetimden 6,5 gün geçtiyse)
   workflow_dispatch:
+    inputs:
+      profile:
+        description: "Yalnız bu profil (boş: hepsi)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -32,13 +37,15 @@ jobs:
       - name: Kaynakları denetle
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/review_sources.py
+          PROFILE: ${{ inputs.profile }}
+        run: python scripts/review_sources.py ${PROFILE:+--profile "$PROFILE"}
 
       - name: Sonucu kaydet
         run: |
           git config user.name "haber-masasi-bot"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add docs/data/config.json docs/data/source-review.json
+          [ -d docs/data/p ] && git add docs/data/p
           git diff --cached --quiet && exit 0
           git commit -q -m "Haftalık kaynak denetimi $(TZ=Europe/Berlin date '+%F')"
           for i in 1 2 3 4 5; do git pull -q --rebase && git push -q && exit 0; sleep 7; done

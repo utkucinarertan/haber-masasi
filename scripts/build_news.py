@@ -1,25 +1,21 @@
-"""Haber Masası - günlük baskı üretici.
+"""Haber Masası - günlük baskı ve son dakika üretici.
 
-docs/data/config.json'daki ülkeler ve kaynaklardan son haberleri çeker, her ülke için
-ücretsiz Google Gemini ile seçilen dillerde özet ve değerlendirme yazar, her dil için
-docs/data/editions/YYYY-MM-DD/<dil>.json dosyasını üretir.
+Her profilin (docs/data/profiles.json; varsayılan profil docs/data/, diğerleri docs/data/p/<id>/)
+config.json'undaki ülkeler ve kaynaklardan haberleri çeker, ücretsiz Google Gemini ile seçilen
+dillerde konu başına özet ve değerlendirme yazar: <profil>/editions/YYYY-MM-DD/<dil>.json.
+İki profilde aynı ayarlı bir ülke varsa özet bir kez üretilip paylaşılır.
 
 Baskı saati (config.json → time + timezone; varsayılan 06:00 Europe/Berlin), baskının en geç
-hazır olacağı saattir. Sabah işi (morning-edition.yml) BUILD_LEAD kadar önce üretmeye başlar ve
-eksik kalan ülkeyi süre dolana kadar yeniden dener. Saatlik iş, bu saat geçtikten sonra hâlâ
-eksik ülke varsa onu tamamlar (yedek).
-
-Son dakika: her saatlik çalıştırmada kaynaklardaki yeni haberler tek cümlelik özetlerle
-docs/data/flash.json dosyasına eklenir. Liste her gün baskı üretimi başladığında sıfırlanır.
+hazır olacağı saattir. Haber döngüsü (news-loop.yml, --loop) BUILD_LEAD kadar önce üretmeye
+başlar, eksik ülkeyi yeniden dener ve son dakikayı (<profil>/flash.json) 30 dakikada bir günceller.
 
 Çalıştırma:
-  GEMINI_API_KEY=... python scripts/build_news.py           # yedek: saat geçtiyse eksik ülkeleri tamamla + son dakika
-  GEMINI_API_KEY=... python scripts/build_news.py --force   # saate bakmadan tüm ülkeleri hemen üret
-  GEMINI_API_KEY=... python scripts/build_news.py --morning --no-flash  # sabah işi (yeniden denemeli)
-  python scripts/build_news.py --wait                       # sabah işi: üretim saatine kadar bekle
-  GEMINI_API_KEY=... python scripts/build_news.py --flash-only  # yalnızca son dakika
+  GEMINI_API_KEY=... python scripts/build_news.py --loop    # haber döngüsü (tüm profiller)
+  GEMINI_API_KEY=... python scripts/build_news.py --force [--profile <id>]   # bugünün baskısını hemen üret
+  GEMINI_API_KEY=... python scripts/build_news.py --flash-only [--profile <id>]  # yalnızca son dakika
   python scripts/build_news.py --migrate                    # eski tek dilli baskıları yeni biçime çevir
 """
+import hashlib
 import html
 import json
 import os
@@ -37,7 +33,11 @@ from pathlib import Path
 from zoneinfo import ZoneInfo
 
 ROOT = Path(__file__).resolve().parent.parent
-DATA = ROOT / "docs" / "data"
+ROOT_DATA = ROOT / "docs" / "data"
+PROFILES = ROOT_DATA / "profiles.json"     # {"profiles": [{"id": "default", "name": "..."}, ...]}
+DEFAULT_PROFILE = "default"                # mevcut kök dosyalar (docs/data/config.json ...)
+PROFILE = DEFAULT_PROFILE
+DATA = ROOT_DATA                            # etkin profilin klasörü; use_profile() değiştirir
 EDITIONS = DATA / "editions"
 CONFIG = DATA / "config.json"
 KEEP_DAYS = 30
@@ -74,6 +74,53 @@ LANGS = {
 
 def log(msg):
     print(msg, flush=True)
+
+
+# ---------- Profiller ----------
+
+def valid_profile_id(pid):
+    return isinstance(pid, str) and bool(re.fullmatch(r"[a-z0-9][a-z0-9-]{0,29}", pid))
+
+
+def profile_dir(pid):
+    return ROOT_DATA if pid == DEFAULT_PROFILE else ROOT_DATA / "p" / pid
+
+
+def use_profile(pid):
+    """Bundan sonraki okuma/yazma işlemleri bu profilin klasöründe yapılır."""
+    global PROFILE, DATA, EDITIONS, CONFIG, FLASH
+    if not valid_profile_id(pid):
+        raise SystemExit(f"Geçersiz profil: {pid!r}")
+    PROFILE, DATA = pid, profile_dir(pid)
+    EDITIONS, CONFIG, FLASH = DATA / "editions", DATA / "config.json", DATA / "flash.json"
+
+
+def list_profiles():
+    """Kayıtlı ve ayar dosyası olan profiller; varsayılan profil her zaman ilk sırada."""
+    try:
+        ids = [x.get("id") for x in json.loads(PROFILES.read_text(encoding="utf-8")).get("profiles", [])]
+    except (OSError, ValueError, AttributeError):
+        ids = []
+    ids = [DEFAULT_PROFILE] + [i for i in ids if valid_profile_id(i) and i != DEFAULT_PROFILE]
+    return [i for i in dict.fromkeys(ids) if (profile_dir(i) / "config.json").is_file()]
+
+
+def remove_orphan_profiles():
+    """Yönetim sayfasında silinen profillerin klasörlerini kaldırır. Bir şey silindiyse True."""
+    base = ROOT_DATA / "p"
+    if not base.is_dir():
+        return False
+    try:
+        listed = {x.get("id") for x in json.loads(PROFILES.read_text(encoding="utf-8")).get("profiles", [])}
+    except (OSError, ValueError, AttributeError):
+        return False   # liste okunamıyorsa hiçbir şey silme
+    removed = False
+    for d in base.iterdir():
+        if d.is_dir() and d.name not in listed:
+            shutil.rmtree(d)
+            log(f"Silinen profilin klasörü kaldırıldı: {d.name}")
+            removed = True
+    return removed
 
 
 # ---------- Kaynaklar ----------
@@ -439,7 +486,8 @@ def write_editions(date, updated_at, langs, results, order):
         except (OSError, ValueError):
             pass
         for code, r in results:
-            merged[code] = {"code": code, "overview": r["overview"][l], "topics": r.get("topics", []),
+            merged[code] = {"code": code, "key": r.get("key", ""), "overview": r["overview"][l],
+                            "topics": r.get("topics", []),
                             "items": [{**s["text"][l], "topic": s.get("topic", ""), "importance": s["importance"],
                                        "source": s["source"], "url": s["url"], "time": s["time"]}
                                       for s in r["stories"]]}
@@ -490,6 +538,41 @@ def is_due(cfg, now, langs):
     return missing
 
 
+def desk_key(country, langs, date):
+    """Bir ülke bölümünü belirleyen her şey; iki profilde aynıysa özet paylaşılır."""
+    feeds = sorted((f["url"], feed_topic(f)) for f in country.get("feeds", []) if feed_use(f) in ("daily", "both"))
+    raw = json.dumps([country["code"], feeds, country_topics(country), sorted(langs), date], ensure_ascii=False)
+    return hashlib.sha1(raw.encode()).hexdigest()[:16]
+
+
+def shared_summary(key, langs, date):
+    """Başka bir profilin bugünkü baskısında aynı anahtarlı ülke varsa onun özetini döndürür."""
+    for pid in list_profiles():
+        if pid == PROFILE:
+            continue
+        day = profile_dir(pid) / "editions" / date
+        try:
+            per_lang = {l: json.loads((day / f"{l}.json").read_text(encoding="utf-8")) for l in langs}
+        except (OSError, ValueError):
+            continue
+        entries = {l: next((c for c in d.get("countries", []) if c.get("key") == key), None) for l, d in per_lang.items()}
+        if not all(entries.values()):
+            continue
+        first = entries[langs[0]]
+        if any(len(e["items"]) != len(first["items"]) for e in entries.values()):
+            continue
+        stories = []
+        for i, it in enumerate(first["items"]):
+            stories.append({"topic": it.get("topic", ""), "importance": it.get("importance", 1),
+                            "source": it.get("source", ""), "url": it.get("url", ""), "time": it.get("time", ""),
+                            "text": {l: {k: entries[l]["items"][i].get(k, "") for k in ("title", "summary", "category")}
+                                     for l in langs}})
+        log(f"  {pid} profilindeki aynı bölüm kullanıldı (Gemini çağrılmadı).")
+        return {"overview": {l: entries[l]["overview"] for l in langs}, "stories": stories,
+                "topics": first.get("topics", []), "key": key}
+    return None
+
+
 def build_edition(cfg, now, langs, only):
     """only: üretilecek ülke kodları. Başarılı ülkeler o günün baskısına eklenir; tamamlanamayanları döndürür."""
     since = now - timedelta(hours=30)
@@ -497,6 +580,11 @@ def build_edition(cfg, now, langs, only):
     countries = [c for c in cfg.get("countries", []) if c["code"] in only]
     for i, country in enumerate(countries):
         log(f"{country.get('name', country['code'])}:")
+        key = desk_key(country, langs, now.date().isoformat())
+        shared = shared_summary(key, langs, now.date().isoformat())
+        if shared:
+            results.append((country["code"], shared))
+            continue
         items, failed = collect(country, cache, since)
         if failed:
             problems.append(f"{country['code']}: alınamayan kaynak {', '.join(failed)}")
@@ -516,7 +604,7 @@ def build_edition(cfg, now, langs, only):
                 if attempt:
                     problems.append(f"{country['code']}: {e}")
         if r:
-            results.append((country["code"], r))
+            results.append((country["code"], {**r, "key": key}))
             log(f"  {len(items)} haberden {len(r['stories'])} seçildi")
     if results:
         write_editions(now.date().isoformat(), now.isoformat(timespec="minutes"), langs, results,
@@ -582,100 +670,60 @@ FLASH_EVERY = timedelta(minutes=30)
 
 
 def loop():
-    """Haber döngüsü: GitHub'ın zamanlayıcısına güvenmeden sürekli çalışır.
+    """Haber döngüsü: GitHub'ın zamanlayıcısına güvenmeden sürekli çalışır. Her profil için:
 
     - Sabah baskısını üretim saatinde (hazır olma saatinden BUILD_LEAD önce) üretir; eksik ülkeyi
       birkaç dakika arayla yeniden dener, hazır olanı hemen yayına alır.
     - Son dakikayı FLASH_EVERY'de bir günceller.
-    - LOOP_FOR dolunca çıkar; iş akışı kendini yeniden başlatır (workflow_dispatch gecikmesiz çalışır)."""
+    LOOP_FOR dolunca (ya da betik güncellenince) çıkar; iş akışı kendini yeniden başlatır."""
     started = datetime.now(timezone.utc)
-    next_build_try = next_flash_try = started
+    next_build_try, next_flash_try = {}, {}
     code_at_start = Path(__file__).read_bytes()
     while datetime.now(timezone.utc) - started < LOOP_FOR:
         sync()
         if Path(__file__).read_bytes() != code_at_start:   # kod güncellendi: yeni kodla yeniden başla
             log("Betik güncellendi; döngü yeni kodla yeniden başlatılıyor.")
             break
-        cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
-        langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
-        now = datetime.now(zone(cfg))
-        if now >= build_start(cfg, now.date()) and datetime.now(timezone.utc) >= next_build_try:
-            missing = missing_countries(cfg, langs, now.date().isoformat())
-            if missing:
-                log(f"[{now:%H:%M}] Baskı: {', '.join(missing)}")
-                left = build_edition(cfg, now, langs, missing)
-                if len(left) < len(missing):
-                    publish(f"Sabah baskısı {now:%F %H:%M} ({zone(cfg).key})")
-                if left:
-                    next_build_try = datetime.now(timezone.utc) + timedelta(minutes=3)
-                    log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
-        now = datetime.now(zone(cfg))
-        age = flash_age(cfg, now)
-        if (age is None or age >= FLASH_EVERY) and datetime.now(timezone.utc) >= next_flash_try:
-            log(f"[{now:%H:%M}] Son dakika güncelleniyor.")
+        if remove_orphan_profiles():
+            publish("Silinen profiller kaldırıldı")
+        for pid in list_profiles():
+            use_profile(pid)
             try:
-                update_flash(cfg, now, langs)
-                publish(f"Son dakika {now:%F %H:%M} ({zone(cfg).key})")
-            except RuntimeError as e:   # Gemini geçici hata/kota: 10 dakika sonra yeniden dene
-                log(f"Uyarı: son dakika güncellenemedi: {e}")
-                next_flash_try = datetime.now(timezone.utc) + timedelta(minutes=10)
+                loop_profile(pid, next_build_try, next_flash_try)
+            except (OSError, ValueError, KeyError) as e:   # bozuk bir profil diğerlerini durdurmasın
+                log(f"Uyarı: {pid} profili işlenemedi: {e}")
         time.sleep(60)
     log("Döngü bitti; yeniden başlatılacak.")
     gh_output(chain="true")
 
 
-def gh_output(**kv):
-    lines = "".join(f"{k}={v}\n" for k, v in kv.items())
-    out = os.environ.get("GITHUB_OUTPUT")
-    if out:
-        with open(out, "a", encoding="utf-8") as f:
-            f.write(lines)
-    log(lines.strip())
-
-
-def wait_for_morning(cfg, langs):
-    """Sabah işinin ilk adımı: üretim saatine kadar uyur.
-
-    GitHub zamanlanmış işleri saatlerce geciktirebilir; bu yüzden gece herhangi bir çalıştırma
-    gelince iş üretim saatine kadar bekler. Saat çok uzaksa bir süre uyur ve kendini yeniden
-    başlatır (workflow_dispatch zamanlamadan bağımsız, hemen çalışır)."""
+def loop_profile(pid, next_build_try, next_flash_try):
+    tag = "" if pid == DEFAULT_PROFILE else f" [{pid}]"
+    cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
+    langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
     now = datetime.now(zone(cfg))
-    day = now.date()
-    if now >= build_start(cfg, day):
-        if missing_countries(cfg, langs, day.isoformat()) and now < ready_at(cfg, day) + MORNING_RETRY_UNTIL:
-            return gh_output(go="true")
-        day += timedelta(days=1)
-    target = build_start(cfg, day)
-    wait = target - now
-    if wait <= MAX_WAIT:
-        log(f"Üretim saati {target:%Y-%m-%d %H:%M %Z}; {wait} bekleniyor.")
-        time.sleep(max(0.0, wait.total_seconds()))
-        return gh_output(go="true")
-    if wait <= MAX_WAIT * 2:
-        nap = wait - MAX_WAIT + timedelta(minutes=10)
-        log(f"Üretim saatine {wait} var; {nap} uyuyup sabah işi yeniden başlatılacak.")
-        time.sleep(nap.total_seconds())
-        return gh_output(chain="true")
-    log(f"Üretim saatine {wait} var; akşam/gece çalıştırmalarından biri devralacak.")
-    return gh_output(go="false")
-
-
-def morning(cfg, langs):
-    """Sabah işi: bugünün baskısında eksik ülke kalmayana ya da süre dolana kadar dener."""
-    while True:
-        now = datetime.now(zone(cfg))
+    utc = datetime.now(timezone.utc)
+    if now >= build_start(cfg, now.date()) and utc >= next_build_try.get(pid, utc):
         missing = missing_countries(cfg, langs, now.date().isoformat())
-        if not missing:
-            log("Bugünün baskısı tam.")
-            return
-        if now >= ready_at(cfg, now.date()) + MORNING_RETRY_UNTIL:
-            raise SystemExit(f"Süre doldu, eksik ülke kaldı: {', '.join(missing)}")
-        left = build_edition(cfg, now, langs, missing)
-        if len(left) < len(missing):
-            publish(f"Sabah baskısı {now:%F %H:%M} ({zone(cfg).key})")
-        if left:
-            log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
-            time.sleep(180)
+        if missing:
+            log(f"[{now:%H:%M}]{tag} Baskı: {', '.join(missing)}")
+            left = build_edition(cfg, now, langs, missing)
+            if len(left) < len(missing):
+                publish(f"Sabah baskısı{tag} {now:%F %H:%M} ({zone(cfg).key})")
+            if left:
+                next_build_try[pid] = datetime.now(timezone.utc) + timedelta(minutes=3)
+                log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
+    now = datetime.now(zone(cfg))
+    utc = datetime.now(timezone.utc)
+    age = flash_age(cfg, now)
+    if (age is None or age >= FLASH_EVERY) and utc >= next_flash_try.get(pid, utc):
+        log(f"[{now:%H:%M}]{tag} Son dakika güncelleniyor.")
+        try:
+            update_flash(cfg, now, langs)
+            publish(f"Son dakika{tag} {now:%F %H:%M} ({zone(cfg).key})")
+        except RuntimeError as e:   # Gemini geçici hata/kota: 10 dakika sonra yeniden dene
+            log(f"Uyarı: son dakika güncellenemedi: {e}")
+            next_flash_try[pid] = datetime.now(timezone.utc) + timedelta(minutes=10)
 
 
 def without_blocked(cfg):
@@ -690,6 +738,15 @@ def without_blocked(cfg):
     return cfg
 
 
+def gh_output(**kv):
+    lines = "".join(f"{k}={v}\n" for k, v in kv.items())
+    out = os.environ.get("GITHUB_OUTPUT")
+    if out:
+        with open(out, "a", encoding="utf-8") as f:
+            f.write(lines)
+    log(lines.strip())
+
+
 def main():
     sys.stdout.reconfigure(encoding="utf-8")
     if "--migrate" in sys.argv:
@@ -698,14 +755,11 @@ def main():
     if "--loop" in sys.argv:
         loop()
         return
+    if "--profile" in sys.argv:   # "Şimdi hazırla" belirli bir profil için
+        use_profile(sys.argv[sys.argv.index("--profile") + 1].strip() or DEFAULT_PROFILE)
     cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
     langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
-    if "--wait" in sys.argv:
-        wait_for_morning(cfg, langs)
-        return
-    if "--morning" in sys.argv:
-        morning(cfg, langs)
-    elif "--flash-only" not in sys.argv:
+    if "--flash-only" not in sys.argv:
         now = datetime.now(zone(cfg))
         due = is_due(cfg, now, langs)
         if due:

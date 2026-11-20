@@ -12,6 +12,10 @@ on:
         description: "Yalnızca son dakikayı güncelle (baskıya dokunma)"
         type: boolean
         default: false
+      profile:
+        description: "Profil (boş: varsayılan)"
+        type: string
+        default: ""
 
 permissions:
   contents: write
@@ -33,7 +37,8 @@ jobs:
       - name: Haberleri derle ve özetle
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python scripts/build_news.py ${{ inputs.flash_only && '--flash-only' || '' }}
+          PROFILE: ${{ inputs.profile }}
+        run: python scripts/build_news.py ${{ inputs.flash_only && '--flash-only' || '' }} ${PROFILE:+--profile "$PROFILE"}
 
       - name: Yeni baskıyı kaydet
         run: |

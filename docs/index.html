@@ -266,8 +266,18 @@ function showState(title, text){
   s.replaceChildren(el("strong", null, title), document.createTextNode(text || ""));
 }
 
+/* Kişisel profil: bağlantıdaki ?p=<profil> ya da son açılan profil (uygulama ana ekrandan açılınca da hatırlar) */
+const PROFILE_RE = /^[a-z0-9][a-z0-9-]{0,29}$/;
+let profile = (() => {
+  const fromLink = (new URLSearchParams(location.search).get("p") || "").trim().toLowerCase();
+  const p = fromLink || store.get("profile", "") || "";
+  return PROFILE_RE.test(p) && p !== "default" ? p : "";
+})();
+store.set("profile", profile);
+let profileLabel = "";
+const dataPath = path => (profile ? `data/p/${profile}/` : "data/") + path;
 async function getJSON(path){
-  const r = await fetch(path + "?t=" + Date.now(), {cache:"no-store"});
+  const r = await fetch(dataPath(path) + "?t=" + Date.now(), {cache:"no-store"});
   if (!r.ok) throw new Error(r.status);
   return r.json();
 }
@@ -276,7 +286,7 @@ async function getJSON(path){
 function applyLanguageUI(){
   document.documentElement.lang = lang;
   document.title = t().brand;
-  $("#brand").textContent = t().brand;
+  $("#brand").textContent = t().brand + (profileLabel ? " · " + profileLabel : "");
   $("#update-label").textContent = t().refresh;
   $("#update").title = t().refreshTitle;
   $("#edition-select").setAttribute("aria-label", t().edition);
@@ -329,8 +339,12 @@ async function loadAll(keep, manual){
   try {
     let idx;
     try {
-      [idx, config, flash] = await Promise.all([getJSON("data/index.json"), getJSON("data/config.json").catch(() => config),
-                                         getJSON("data/flash.json").catch(() => flash)]);
+      if (profile){   // silinmiş profil: varsayılana dön
+        const ok = await fetch(dataPath("config.json") + "?t=" + Date.now(), {cache:"no-store"}).then(r => r.ok).catch(() => true);
+        if (!ok){ profile = ""; store.set("profile", ""); profileLabel = ""; }
+      }
+      [idx, config, flash] = await Promise.all([getJSON("index.json"), getJSON("config.json").catch(() => config),
+                                         getJSON("flash.json").catch(() => flash)]);
     } catch {
       if (!current) showState(t().offline, t().offlineText); else if (manual) showStatus("err", t().offlineKeep, 6000);
       return;
@@ -359,7 +373,7 @@ async function loadEdition(date){
   const entry = index.find(e => e.date === date);
   const langs = entry?.langs || [lang];
   const use = langs.includes(lang) ? lang : (langs.includes("tr") ? "tr" : langs[0]);
-  try { current = await getJSON(`data/editions/${date}/${use}.json`); }
+  try { current = await getJSON(`editions/${date}/${use}.json`); }
   catch { showState(t().failed, t().failedText); return; }
   $("#edition-select").value = date;
   const note = $("#note-lang");
@@ -494,6 +508,9 @@ function renderItem(it){
 
 if (!T[lang]){ const nav = (navigator.language || "tr").slice(0, 2); lang = T[nav] ? nav : "tr"; }
 showState(t().loading, t().loadingText);
+if (profile) fetch("data/profiles.json?t=" + Date.now()).then(r => r.json()).then(j => {
+  profileLabel = (j.profiles || []).find(x => x.id === profile)?.name || ""; if (profileLabel) applyLanguageUI();
+}).catch(() => {});
 loadAll(false);
 document.addEventListener("visibilitychange", () => { if (document.visibilityState === "visible") loadAll(true); });
 if ("serviceWorker" in navigator) navigator.serviceWorker.register("sw.js").catch(() => {});

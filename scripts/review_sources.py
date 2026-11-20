@@ -24,7 +24,7 @@ from urllib.parse import urlparse
 sys.path.insert(0, str(Path(__file__).resolve().parent))
 import build_news as bn  # noqa: E402
 
-REVIEW = bn.DATA / "source-review.json"
+# denetim raporu her profilin klasöründe: <profil>/source-review.json
 EVERY = timedelta(days=6, hours=12)
 MAX_FEEDS = 16          # ülke başına en fazla kaynak
 MIN_DAILY = 3           # günlük baskıya en az bu kadar çalışan kaynak (yoksa eski liste korunur)
@@ -139,8 +139,21 @@ def review_country(country, blocked, today, since):
 
 
 def main():
+    """Her profil kendi kaynaklarını ve engelli listesini taşır; hepsi sırayla denetlenir.
+    --profile <id> verilirse yalnız o profil (yönetim sayfasındaki düğme)."""
     sys.stdout.reconfigure(encoding="utf-8")
+    only = sys.argv[sys.argv.index("--profile") + 1].strip() if "--profile" in sys.argv else ""
+    for pid in bn.list_profiles():
+        if only and pid != only:
+            continue
+        bn.use_profile(pid)
+        bn.log(f"=== Profil: {pid}")
+        review_profile()
+
+
+def review_profile():
     cfg = json.loads(bn.CONFIG.read_text(encoding="utf-8"))
+    review_file = bn.DATA / "source-review.json"
     now = datetime.now(bn.zone(cfg))
     last = cfg.get("sourcesReviewedAt")
     forced = "--force" in sys.argv or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
@@ -164,7 +177,7 @@ def main():
     if all(not r.get("error") for r in report):   # hata varsa bir sonraki zamanlanmış çalıştırmada yeniden denenir
         cfg["sourcesReviewedAt"] = now.isoformat(timespec="minutes")
     bn.CONFIG.write_text(json.dumps(cfg, ensure_ascii=False, indent=1) + "\n", encoding="utf-8")
-    REVIEW.write_text(json.dumps({"reviewedAt": now.isoformat(timespec="minutes"), "countries": report},
+    review_file.write_text(json.dumps({"reviewedAt": now.isoformat(timespec="minutes"), "countries": report},
                                  ensure_ascii=False, indent=1), encoding="utf-8")
     for r in report:
         bn.log(f"{r['code']}: +{len(r.get('added', []))} / -{len(r.get('removed', []))}"
