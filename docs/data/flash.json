@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-20T20:51+01:00",
+ "updatedAt": "2026-11-20T21:21+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-20T20:57:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
+    "text": {
+     "tr": "Deutsche Bank, on yıl önce Çinli korsanlar tarafından gerçekleştirilen büyük siber saldırının hedefi oldu.",
+     "de": "Die Deutsche Bank war vor zehn Jahren Ziel eines massiven Hackerangriffs aus China."
+    }
+   },
    {
     "time": "2026-11-20T19:38:33+00:00",
     "source": "FAZ Nachrichten",
@@ -10,6 +19,15 @@
     "text": {
      "tr": "1. FC Magdeburg, Bielefeld'i yenerek 2. Bundesliga'da üçüncü sıraya yükseldi.",
      "de": "Der 1. FC Magdeburg springt nach einem Sieg in Bielefeld auf den dritten Tabellenplatz der 2. Bundesliga."
+    }
+   },
+   {
+    "time": "2026-11-20T19:26:58+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-die-bayern-bei-kompanys-rueckkehr-kalt-kane-muss-verletzt-runter-dann-trifft-brown.html",
+    "text": {
+     "tr": "Bundesliga maçında Bayern Münih, Köln karşısında geriye düşerken Kane sakatlanarak oyundan çıktı.",
+     "de": "Der FC Bayern geriet in der Bundesliga gegen Köln in Rückstand, während Kane verletzt ausgewechselt werden musste."
     }
    },
    {
@@ -28,24 +46,6 @@
     "text": {
      "tr": "Kimya devi BASF, siyasi engeller nedeniyle Evonik'i satın alma planlarından vazgeçti.",
      "de": "Der Chemiekonzern BASF gibt seine Übernahmepläne für Evonik nach politischen Widerständen auf."
-    }
-   },
-   {
-    "time": "2026-11-20T19:16:00+00:00",
-    "source": "DW Türkçe",
-    "url": "https://www.dw.com/tr/almanya-da-gençler-sokakta-z-kuşağı-merz-hükümetine-meydan-okuyor/a-80006794",
-    "text": {
-     "tr": "Almanya'da binlerce genç, daha iyi eğitim ve iklim politikaları talebiyle sokaklara döküldü.",
-     "de": "Tausende Jugendliche protestieren in ganz Deutschland für bessere Bildung und stärkere Klimapolitik."
-    }
-   },
-   {
-    "time": "2026-11-20T19:06:34+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/notfallreform-bundesrat-billigt-linnemanns-gesetz-201702105.html",
-    "text": {
-     "tr": "Federal Konsey, sağlık sistemini acil durumlara odaklayan yeni acil durum reform yasasını onayladı.",
-     "de": "Der Bundesrat hat das Gesetz zur Reform der Notfallmedizin gebilligt."
     }
    }
   ],
@@ -69,6 +69,24 @@
     }
    },
    {
+    "time": "2026-11-20T19:51:52+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, Amerikan firmalarının yurt dışında yapay zeka veri merkezi kurmasını yasaklamakla tehdit etti.",
+     "de": "US-Präsident Donald Trump drohte mit einem Verbot für US-Firmen, KI-Rechenzentren im Ausland zu errichten."
+    }
+   },
+   {
+    "time": "2026-11-20T19:45:20+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
+    "text": {
+     "tr": "Fransız oyuncu Gérard Depardieu ve bir yazar hakkında cinsel iddialar nedeniyle adli soruşturma başlatıldı.",
+     "de": "Gegen den französischen Schauspieler Gérard Depardieu und einen Autor wurde wegen Sexualvorwürfen ermittelt."
+    }
+   },
+   {
     "time": "2026-11-20T19:38:59+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
@@ -76,27 +94,27 @@
      "tr": "JP Morgan CEO'su Jamie Dimon, Birleşik Krallık'taki banka vergi artışının etkilerini telafi edeceğini açıkladı.",
      "de": "JP-Morgan-Chef Jamie Dimon kündigt an, die Steuererhöhungen für Banken im Vereinigten Königreich auszugleichen."
     }
-   },
-   {
-    "time": "2026-11-20T19:18:20+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
-    "text": {
-     "tr": "Macaulay Culkin'in başrolünde yer alacağı Evde Tek Başına serisinin yeni filmi geliştirme aşamasında.",
-     "de": "Eine Fortsetzung des Filmhits Evde Tek Başına befindet sich mit Macaulay Culkin in Entwicklung."
-    }
-   },
-   {
-    "time": "2026-11-20T18:51:28+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/frankreichs-medienaufsicht-macht-influencern-vorschriften-201702254.html",
-    "text": {
-     "tr": "Fransa'nın medya düzenleyicisi, yaklaşan cumhurbaşkanlığı seçimleri öncesinde siyasi influencer'lar için yeni kurallar getirdi.",
-     "de": "Frankreichs Medienaufsicht hat für den Präsidentschaftswahlkampf neue Vorschriften für Polit-Influencer erlassen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-20T23:11:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/bandirma-da-kedinin-gozunu-kor-eden-supheli-tutuklandi-2557976",
+    "text": {
+     "tr": "Balıkesir'in Bandırma ilçesinde bir kedinin sol gözünün kör olmasına neden olan şüpheli tutuklandı.",
+     "de": "Ein Verdächtiger wurde festgenommen, weil er in Bandırma einer Katze das linke Auge blind geschlagen hatte."
+    }
+   },
+   {
+    "time": "2026-11-20T22:56:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010477/tbb-den-4-avukatin-tutuklanmasina-tepki-avukatlik-mesleginin-bagimsizligi-bakimindan-da-kaygi-vericidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Türkiye Barolar Birliği, İzmir merkezli soruşturmada dört avukatın tutuklanmasına tepki gösterdi.",
+     "de": "Die Anwältevereinigung der Türkei kritisierte die Festnahme von vier Anwälten im Rahmen einer in Izmir zentrierten Untersuchung."
+    }
+   },
    {
     "time": "2026-11-20T22:38:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Avusturya'da binlerce genç, artan askeri harcamalara ve silahlanma politikalarına karşı eylem yaptı.",
      "de": "Tausende Jugendliche demonstrierten in Österreich gegen Rüstungspolitik und steigende Militärausgaben."
-    }
-   },
-   {
-    "time": "2026-11-20T22:09:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010473/ozgur-celik-ten-dusunce-ve-basin-ozgurlugu-icin-besiktas-ta-bulusma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Yeni Parti İstanbul İl Başkanı Özgür Çelik, düşünce ve basın özgürlüğü için Pazar günü Beşiktaş'ta yürüyüş çağrısı yaptı.",
-     "de": "Der Istanbuler Parteichef der Neuen Partei, Özgür Çelik, ruft zu einer Kundgebung für Meinungs- und Pressefreiheit auf."
-    }
-   },
-   {
-    "time": "2026-11-20T22:01:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010471/ford-otosan-yenikoy-fabrikasinda-is-kazasi-bir-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Kocaeli'deki Ford Otosan Yeniköy fabrikasında yük indirirken forkliftin altında kalan bir işçi yaralandı.",
-     "de": "In einer Fabrik von Ford Otosan in Kocaeli wurde ein Arbeiter unter einem Gabelstapler eingeklemmt und verletzt."
     }
    }
   ]
@@ -196,9 +196,11 @@
   "https://www.bbc.co.uk/news/articles/c69vwyjp0339o",
   "https://www.bbc.co.uk/news/articles/c6jreyqgw4e9o",
   "https://www.bbc.co.uk/news/articles/c6x29gn4pdn9o",
+  "https://www.bbc.co.uk/news/articles/c9ly43pj10mvo",
   "https://www.bbc.co.uk/news/articles/ck20vl1dd8qzo",
   "https://www.bbc.co.uk/news/articles/cm3rgnvxj339o",
   "https://www.bbc.co.uk/news/articles/cm3vgw1xevvwo",
+  "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
   "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
   "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
@@ -206,6 +208,7 @@
   "https://www.bbc.co.uk/news/videos/c65y19wy3xl8o",
   "https://www.bbc.co.uk/news/videos/c6dx12ppeqn4o",
   "https://www.bbc.com/turkce/articles/c20y9v012v2o",
+  "https://www.bbc.com/turkce/articles/c6ewvkrjy0kvo",
   "https://www.bbc.com/turkce/articles/c6p9dy1v49jvo",
   "https://www.bbc.com/turkce/articles/cj20q4p1g3p7o",
   "https://www.bbc.com/turkce/articles/cm702wv2144go",
@@ -222,6 +225,7 @@
   "https://www.cumhuriyet.com.tr/astroloji/basak-burcu/gunluk-burc-yorumlari-22-kasim-cumartesi-basak-burcu-yorumu-2557875",
   "https://www.cumhuriyet.com.tr/astroloji/boga-burcu/gunluk-burc-yorumlari-22-kasim-cumartesi-boga-burcu-yorumu-2557869",
   "https://www.cumhuriyet.com.tr/astroloji/dili-cok-sivri-olan-3-kadin-burcu-bu-burclarin-sozleri-adeta-bir-jilet-2557913",
+  "https://www.cumhuriyet.com.tr/astroloji/dogal-bir-miknatis-gibiler-auralariyla-buyuleyen-en-cekici-ve-karizmatik-5-burc-2557974",
   "https://www.cumhuriyet.com.tr/astroloji/koc-burcu/gunluk-burc-yorumlari-22-kasim-cumartesi-koc-burcu-yorumu-2557868",
   "https://www.cumhuriyet.com.tr/astroloji/sevgiyi-ruhunun-en-derininde-yasayanlar-en-romantik-ve-duygusal-derinligi-olan-5-burc-2557943",
   "https://www.cumhuriyet.com.tr/astroloji/terazi-burcu/gunluk-burc-yorumlari-21-kasim-cumartesi-terazi-burcu-yorumu-2557859",
@@ -264,6 +268,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/umit-ozdag-dan-cok-konusulacak-nufus-artisi-iddiasi-3-bucuk-milyon-supheli-secmen-mi-var-2557857",
   "https://www.cumhuriyet.com.tr/spor/12-dev-adam-a-buyuk-onur-fiba-siralamasinda-zirvede-2557938",
   "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ten-asvel-karsisinda-farkli-galibiyet-2557963",
+  "https://www.cumhuriyet.com.tr/spor/arda-turan-in-shakhtar-indan-fenerbahce-maci-oncesi-kayip-2557977",
   "https://www.cumhuriyet.com.tr/spor/bakanlik-duyurdu-super-lig-kuluplerine-yonelik-denetim-basliyor-2557867",
   "https://www.cumhuriyet.com.tr/spor/bandirmaspor-un-yeni-teknik-direktoru-belli-oldu-2557942",
   "https://www.cumhuriyet.com.tr/spor/emre-belozoglu-nun-teknik-ekibi-belli-oldu-2557901",
@@ -276,6 +281,7 @@
   "https://www.cumhuriyet.com.tr/spor/motogp-de-sampiyonluk-dugumu-portekiz-de-cozulebilir-2557836",
   "https://www.cumhuriyet.com.tr/spor/sakatliklari-bulunuyordu-galatasaray-7-futbolcunun-son-durumunu-duyurdu-2557889",
   "https://www.cumhuriyet.com.tr/spor/serdar-dursun-dan-victor-osimhen-aciklamasi-her-konuda-benden-iyi-ama-2557920",
+  "https://www.cumhuriyet.com.tr/spor/trabzonspor-dan-deniz-ertas-aciklamasi-transferin-gerceklesmeme-nedeni-belli-oldu-2557975",
   "https://www.cumhuriyet.com.tr/spor/uluslar-ligi-nde-ceyrek-final-ve-play-off-eslesmeleri-belli-oldu-2557890",
   "https://www.cumhuriyet.com.tr/spor/victor-osimhen-icin-flas-transfer-iddiasi-gelecek-teklifleri-dinlemeye-hazir-2557877",
   "https://www.cumhuriyet.com.tr/turkiye/18-yasindan-once-sigorta-girisi-olanlar-dikkat-yargitay-dan-emeklilik-karari-2557847",
@@ -285,6 +291,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/avcilar-da-is-cinayeti-yuk-asansorunun-halati-koptu-17-yasindaki-mert-yasamini-yitirdi-2557852",
   "https://www.cumhuriyet.com.tr/turkiye/ayse-tokyaz-in-katili-cemil-koc-un-yargilandigi-ejegul-ovezova-davasinda-kesif-yapildi-2557881",
   "https://www.cumhuriyet.com.tr/turkiye/bakan-bolat-tan-yeni-partili-ozlale-ye-fon-sorusturmasi-yaniti-elde-ettigim-helal-ve-tertemiz-tasarrufumun-kaynagi-bellidir-2557945",
+  "https://www.cumhuriyet.com.tr/turkiye/bandirma-da-kedinin-gozunu-kor-eden-supheli-tutuklandi-2557976",
   "https://www.cumhuriyet.com.tr/turkiye/bastonla-darbedilen-kedi-sol-gozunu-kaybetti-muslum-cepeloglu-isimli-supheli-tutuklandi-2557841",
   "https://www.cumhuriyet.com.tr/turkiye/belediyelerde-el-yaziyla-oy-kullanma-donemi-kapandi-ozgur-celik-iktidar-ve-ihanetciler-acisindan-alinmis-rahatlatici-bir-karar-2557886",
   "https://www.cumhuriyet.com.tr/turkiye/besikduzu-nde-belediye-kutuphanesi-krizi-kendi-yerimizde-kiraci-konumuna-dustuk-2557880",
@@ -315,6 +322,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/sporculara-mezar-olmustu-kircuval-otel-davasinda-yeni-gelisme-8-saniga-iyi-hal-indirimli-hapis-cezasi-2557909",
   "https://www.cumhuriyet.com.tr/turkiye/sulama-havuzuna-dusen-3-5-yasindaki-cocuk-hayatini-kaybetti-2557918",
   "https://www.cumhuriyet.com.tr/turkiye/turkiye-belediyeler-birligi-heyetinden-haberal-a-kutlama-ziyareti-2557848",
+  "https://www.cumhuriyet.com.tr/turkiye/tutuklu-merkezefendi-belediye-baskani-dogan-yaptiklari-yetmiyormus-gibi-simdi-de-beni-oglumdan-ailemden-ayiriyorlar-2557972",
   "https://www.cumhuriyet.com.tr/turkiye/uzmanlardan-internet-kullanimi-uyarisi-dunya-nufusunun-yuzde-10-undan-fazlasi-risk-altinda-2557837",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-partili-ozgur-celik-ten-akp-ye-gecen-isimlere-sert-tepki-2557854",
   "https://www.cumhuriyet.com.tr/tv-rehberi/amcam-filminin-konusu-ne-amcam-filminin-oyunculari-kim-2557894",
@@ -431,6 +439,10 @@
   "https://www.evrensel.net/haber/6010473/ozgur-celik-ten-dusunce-ve-basin-ozgurlugu-icin-besiktas-ta-bulusma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010474/avusturya-da-gencler-savas-ve-silahlanmaya-karsi-sokaktaydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010475/euroleague-de-13-hafta-anadolu-efes-asvel-i-107-81-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010476/fon-vurgunu-sorusturmasi-cekya-da-yakalanan-serdar-altinbas-kimdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010477/tbb-den-4-avukatin-tutuklanmasina-tepki-avukatlik-mesleginin-bagimsizligi-bakimindan-da-kaygi-vericidir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010478/dokuz-eylul-universitesi-ogrencilerinden-uzaklastirmalara-tepki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010479/tutuklu-merkezefendi-belediye-baskani-dogan-yaptiklari-yetmiyormus-gibi-simdi-de-beni-oglumdan-ailemden-ayiriyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/rainer-maria-rilke-ausstellung-im-prado-madrid-201684367.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/niklas-luhmann-als-vater-familie-ganz-ohne-familienkrach-201687431.html",
@@ -476,6 +488,7 @@
   "https://www.faz.net/aktuell/rhein-main/demos-und-proteste-in-frankfurt-beendet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/demos-und-proteste-in-frankfurt-in-bockenheim-formiert-sich-ein-spontaner-umzug-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/180-kilogramm-kokain-in-tausenden-rosen-versteckt-und-nach-frankfurt-geschmuggelt-accg-201701862.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/embury-bar-neuer-standort-gewohnte-perfektion-201678534.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/joschka-fischer-wer-jung-ist-hat-das-recht-radikal-zu-sein-201673660.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/schulstreik-gegen-wehrpflicht-in-frankfurt-protest-im-regen-201702489.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/stadtbus-mit-lounge-faehrt-naechstes-jahr-in-frankfurt-accg-201698481.html",
@@ -575,12 +588,14 @@
   "https://www.spiegel.de/kultur/hunter-schafer-wird-pragmatisch-zumindest-in-beziehungen-a-4f469ccd-420f-488c-a431-eec77b1d7895#ref=rss",
   "https://www.spiegel.de/kultur/olli-dittrich-ndr-doku-zum-70-geburtstag-was-wuerde-dittsche-waehlen-a-70b239db-e355-4285-bad1-2dd412954dc2#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/fuehrerschein-reform-beschlossen-so-sollen-fahrschueler-sparen-a-f2dc9706-e233-430d-94f5-bc83a0c54c5c#ref=rss",
+  "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
   "https://www.spiegel.de/panorama/bildung/new-york-zohran-mamdani-plant-schliessung-von-rikers-island-bis-2032-a-b0dcf1b2-ddcd-4fe6-bcb2-7564246a5022#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/gen-z-regelt-so-laufen-die-proteste-newsblog-a-5b6f94e2-5b27-476e-966d-50850ad73956#ref=rss",
   "https://www.spiegel.de/panorama/justiz/hannover-warum-fruehe-hinweise-auf-unregelmaessigkeiten-bei-huelya-iri-folgenlos-blieben-a-76c428bd-13f1-4963-a9b6-4235d75260c7#ref=rss",
   "https://www.spiegel.de/panorama/justiz/nuernberg-dealer-sollen-maedchen-mit-drogen-gefuegig-gemacht-und-dann-vergewaltigt-haben-a-cc645195-6d9b-4f2e-9b33-db765d6b28d4#ref=rss",
   "https://www.spiegel.de/panorama/leute/jennifer-lawcrene-ich-habe-implantate-sie-sind-neu-sagt-jennifer-lawrence-a-1836de0c-e0a8-4230-82b3-2966c07e7b34#ref=rss",
   "https://www.spiegel.de/panorama/leute/jon-hamm-mad-men-star-erlebt-spaetes-vaterglueck-a-037b2ae5-91e2-4fb3-a55c-10454f21142c#ref=rss",
+  "https://www.spiegel.de/panorama/leute/zohran-mamdani-bei-fussballspiel-verletzt-ich-habe-vergessen-dass-ich-35-bin-a-79c68289-8f6f-41c3-b25c-5f6c0982082b#ref=rss",
   "https://www.spiegel.de/politik/deutschland/manuela-schwesig-wird-an-der-galle-operiert-a-9b402c57-fbbd-426f-8fda-ea2a869fdc60#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-des-tages-brexit-eu-grossbritannien-gender-pay-gap-gehalt-frauen-gen-z-regelt-a-36f1b0f0-e6db-4398-b6be-d3a36d98604d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/spd-landeschef-steffen-krach-der-buhmann-von-berlin-a-c4658a19-bf41-4f07-a323-e689049b10f2#ref=rss",
@@ -718,6 +733,7 @@
   "https://www.welt.de/sport/fussball/article6b00117cbe487c5437746bdb/nations-league-klopp-im-losglueck-deutschland-entgeht-dem-weltmeister-und-haaland.html",
   "https://www.welt.de/sport/fussball/article6b007480b237b5b41c9a2f7f/blackpools-trainer-geburtstagsgruss-am-morgen-entlassung-am-nachmittag.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-den-fc-bayern-bei-kompanys-rueckkehr-kalt.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-koeln-erwischt-die-bayern-bei-kompanys-rueckkehr-kalt-kane-muss-verletzt-runter-dann-trifft-brown.html",
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
   "https://www.welt.de/wirtschaft/article6b002a6ab237b5b41c9a2632/ukraine-krieg-friedrich-merz-verspricht-deutschland-dividende-aus-ukraine-investitionen.html",
