@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T23:57+01:00",
+ "updatedAt": "2026-11-22T00:27+01:00",
  "countries": {
   "world": [
    {
@@ -22,6 +22,15 @@
     }
    },
    {
+    "time": "2026-11-22T00:06:52+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/video/2026/11/22/lvivde-rus-fuze-ve-iha-saldirisi-arac-kamerasi-patlama-anini-kaydetti",
+    "text": {
+     "tr": "Ukrayna'nın Lviv şehrine düzenlenen Rus füze ve İHA saldırısında 2 kişi hayatını kaybetti, en az 10 kişi yaralandı.",
+     "de": "Bei einem russischen Raketen- und Drohnenangriff auf die ukrainische Stadt Lwiw wurden 2 Menschen getötet und mindestens 10 weitere verletzt."
+    }
+   },
+   {
     "time": "2026-11-21T21:01:45+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "İsrail'de muhalefet lideri Gadi Eisenkot, Benjamin Netanyahu'nun Likud partisini koalisyon görüşmelerine davet etti.",
      "de": "Der israelische Oppositionsführer Gadi Eisenkot hat Benjamin Netanyahus Likud-Partei zu Koalitionsgesprächen eingeladen."
-    }
-   },
-   {
-    "time": "2026-11-21T20:20:37+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
-    "text": {
-     "tr": "Fransa'da hayat pahalılığını protesto etmek amacıyla düzenlenen gösterilerin altıncısına katılım önceki haftalara göre azaldı.",
-     "de": "In Frankreich ist die Beteiligung an den landesweiten Protesten gegen die Lebenshaltungskosten am sechsten Samstag in Folge zurückgegangen."
     }
    }
   ],
@@ -171,6 +171,7 @@
   "https://tr.euronews.com/video/2026/11/21/japonyada-otonom-hava-taksisi-pilotsuz-yolcu-ucusunu-tamamladi",
   "https://tr.euronews.com/video/2026/11/21/meksikali-ozel-kuvvetler-fbinin-en-cok-aranan-chapo-isidro-sinaloada-yakalandi",
   "https://tr.euronews.com/video/2026/11/21/pentagon-uap-karsilasmalarina-dair-yeni-gizliligi-kaldirilmis-dosyalari-yayimladi",
+  "https://tr.euronews.com/video/2026/11/22/lvivde-rus-fuze-ve-iha-saldirisi-arac-kamerasi-patlama-anini-kaydetti",
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
   "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
   "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
