@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T17:57+01:00",
+ "updatedAt": "2026-11-21T18:27+01:00",
  "countries": {
   "world": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "Ev hapsindeki eski Brezilya Devlet Başkanı Jair Bolsonaro, karın ağrısı şikayetiyle hastaneye kaldırıldı.",
      "de": "Der unter Hausarrest stehende ehemalige brasilianische Präsident Jair Bolsonaro wurde wegen Karınschmerzen ins Krankenhaus gebracht."
+    }
+   },
+   {
+    "time": "2026-11-21T17:08:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133",
+    "text": {
+     "tr": "Finlandiya Savunma Bakanlığı, Rus helikopterinin Finlandiya hava sahasını ihlal etmiş olabileceğinden şüpheleniyor.",
+     "de": "Das finnische Verteidigungsministerium vermutet eine Verletzung des finnischen Luftraums durch einen russischen Hubschrauber."
     }
    },
    {
@@ -38,18 +47,27 @@
      "tr": "BM bünyesinde otonom silahların kullanımını kontrol etmek amacıyla yürütülen uluslararası müzakereler Rusya'nın engellemeleri nedeniyle çöktü.",
      "de": "Internationale UN-Verhandlungen zur Kontrolle autonomer Waffen sind nach russischer Blockadehaltung gescheitert."
     }
-   },
-   {
-    "time": "2026-11-21T16:06:31+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/mehr-sport/tennisspieler-carlos-alcaraz-zieht-bei-atp-finals-in-finale-ein-accg-201705032.html",
-    "text": {
-     "tr": "İspanyol tenisçi Carlos Alcaraz, rakibi Ben Shelton'ı yenerek ATP Finalleri'nde finale yükseldi.",
-     "de": "Carlos Alcaraz ist nach einem Sieg gegen Ben Shelton ins Finale der ATP Finals eingezogen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T20:07:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Türkiye İşçi Partisi Genel Başkanı Erkan Baş, Burhaniye'de düzenlenen mitingde yurttaşlara çağrıda bulundu.",
+     "de": "Der Vorsitzende der Arbeiterpartei der Türkei, Erkan Baş, hielt eine Kundgebung in Burhaniye ab."
+    }
+   },
+   {
+    "time": "2026-11-21T19:53:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010608/pazar-plani-yapanlar-dikkat-meteorolojiden-21-il-icin-sari-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Meteoroloji, olumsuz hava koşulları nedeniyle 21 il için sarı alarm verdi.",
+     "de": "Das türkische Meteorologieamt hat wegen vorhergesagter Regenfälle für 21 Provinzen eine Warnung herausgegeben."
+    }
+   },
    {
     "time": "2026-11-21T19:27:00+03:00",
     "source": "Evrensel",
@@ -76,24 +94,6 @@
      "tr": "İran Cumhurbaşkanı Mesud Pezeşkiyan, enerji krizi nedeniyle ofisinde ısıtıcılar kapatıldığı için montla çalışıyor.",
      "de": "Irans Präsident Massud Peseschkian arbeitet wegen des Energiemangels in seinem Büro mit einer Winterjacke."
     }
-   },
-   {
-    "time": "2026-11-21T17:58:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010598/ilmira-hali-iscileri-alacaklarini-istedi-haklarimizi-alana-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Gaziantep'teki İlmira Halı fabrikasında çalışan işçiler, ödenmeyen alacakları için fabrika önünde eylem yaparak mücadele edeceklerini duyurdu.",
-     "de": "Arbeiter der Teppichfabrik İlmira Halı in Gaziantep haben vor dem Betrieb demonstriert und die Auszahlung ihrer ausstehenden Löhne gefordert."
-    }
-   },
-   {
-    "time": "2026-11-21T17:34:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010597/fransa-da-hayat-pahaliligina-karsi-protestolar-sari-yelekliler-ve-ogrenciler-yeniden-sokakta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Fransa'nın başkenti Paris'te hayat pahalılığını protesto eden Sarı Yelekliler ve öğrenciler sokaklara döküldü.",
-     "de": "In Paris haben die Gelbwesten und Studierende gegen die steigenden Lebenshaltungskosten und für soziale Rechte demonstriert."
-    }
    }
   ],
   "de": [
@@ -104,6 +104,24 @@
     "text": {
      "tr": "Costa Concordia'nın eski kaptanı Francesco Schettino, yaklaşık dokuz yıllık hapis cezasının ardından şartlı olarak serbest bırakıldı.",
      "de": "Der frühere Kapitän der Costa Concordia, Francesco Schettino, wurde nach rund neunjähriger Haft unter Auflagen aus dem Gefängnis entlassen."
+    }
+   },
+   {
+    "time": "2026-11-21T17:07:53+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bauern-rufen-wieder-zum-protest-warum-ist-der-politische-einfluss-der-landwirte-so-gross-201635365.html",
+    "text": {
+     "tr": "Alman Çiftçiler Birliği, planlanan AB doğrudan ödeme kesintilerine karşı yeni protestolar düzenleneceğini duyurdu.",
+     "de": "Der Deutsche Bauernverband ruft zu neuen Protesten gegen geplante Kürzungen der EU-Direktzahlungen auf."
+    }
+   },
+   {
+    "time": "2026-11-21T17:03:52+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
+    "text": {
+     "tr": "Sol Parti Eş Genel Başkanı Ines Schwerdtner, Berlinli milletvekili Vanessa Emde'nin partiden ihracını talep etti.",
+     "de": "Die Linken-Chefin Ines Schwerdtner fordert den Parteiausschluss der Berliner Abgeordneten Vanessa Emde."
     }
    },
    {
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Oyuncu Gérard Depardieu ve yazar Michel Houellebecq hakkında ortak cinsel saldırı suçlamasıyla soruşturma açıldı.",
      "de": "Gegen Gérard Depardieu und Michel Houellebecq wird nach Vorwürfen gemeinschaftlicher Vergewaltigung ermittelt."
-    }
-   },
-   {
-    "time": "2026-11-21T16:27:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss",
-    "text": {
-     "tr": "Björn Höcke, Thüringen eyaletinde yeniden aşırı sağcı AfD'nin liderliğine seçildi.",
-     "de": "Björn Höcke wurde als thüringischer AfD-Chef wiedergewählt."
-    }
-   },
-   {
-    "time": "2026-11-21T16:07:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
-    "text": {
-     "tr": "Yeşiller Partisi Eş Başkanı Franziska Brantner, koalisyon hükümetinin gençlerin haklarını ihlal ettiğini belirterek okullara daha fazla bütçe ayrılmasını istedi.",
-     "de": "Grünenchefin Franziska Brantner hat die Politik der Regierung zulasten der Jugend kritisiert und mehr Geld für Schulen gefordert."
     }
    }
   ]
@@ -217,6 +217,7 @@
   "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
   "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
   "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
+  "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133",
   "https://www.dw.com/tr/abd-ve-rusya-itiraz-etti-katil-robotlara-yasak-çıkmadı/a-80010227",
   "https://www.dw.com/tr/almanya-da-iktidara-yaklaşan-afd-neonazilere-ne-kadar-yakın/a-79993810",
   "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945",
@@ -326,6 +327,10 @@
   "https://www.evrensel.net/haber/6010604/insaattan-dusen-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010605/istanbul-da-temel-kazisi-sirasinda-gocuk-1-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010606/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010608/pazar-plani-yapanlar-dikkat-meteorolojiden-21-il-icin-sari-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010609/bekev-li-kadinlar-20-yili-kutladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010611/istanbul-a-is-bulmaya-gelmisti-denizde-cesedi-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -338,6 +343,7 @@
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/gta-vi-lucia-caminos-und-das-neue-frauenbild-im-game-accg-201702092.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/kevin-allein-zu-haus-soll-fortgesetzt-werden-mit-macaulay-culkin-accg-201704219.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/john-turturro-spielt-the-only-pickpocket-in-new-yorck-accg-201637702.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/renate-reinsve-spielt-grossartig-in-butterfly-rueckkehr-nach-gran-canaria-201691215.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presserat-fordert-auskunftsrecht-auf-bundesebene-accg-201700875.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-unter-datenschutz-pruefung-was-steckt-hinter-dem-datenklau-accg-201701211.html",
@@ -354,6 +360,7 @@
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/sturm-verwuestet-tupancireta-drei-tote-und-5000-daecher-zerstoert-accg-201704557.html",
   "https://www.faz.net/aktuell/karriere-hochschule/mein-urteil/arbeitsrecht-sachmittel-stehen-dem-betriebsrat-zu-accg-201700091.html",
+  "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-neuer-angriff-israels-in-gaza-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/ausland/millionen-fund-in-ungarn-orban-und-die-korruption-201691514.html",
   "https://www.faz.net/aktuell/politik/inland/afd-streit-ueber-migration-chrupalla-und-das-krokodil-accg-201690981.html",
   "https://www.faz.net/aktuell/politik/inland/gen-z-banden-aus-der-tuerkei-wie-sie-deutschland-bedrohen-accg-201676060.html",
@@ -399,6 +406,7 @@
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/rb-leipzig-mit-deutlichem-sieg-in-der-bundesliga-bei-union-berlin-201304411.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-werder-bremen-verlaengert-mit-trainer-daniel-thioune-18134600.html",
   "https://www.faz.net/aktuell/sport/fussball/philipp-lahm-ueber-juergen-klopp-was-die-bundesliga-vom-bundestrainer-lernen-kann-accg-201694317.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-und-das-problem-mit-den-aufschlaegen-im-tennis-201701389.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/franz-wagner-und-moritz-wagner-spielen-in-nba-gegeneinander-accg-201704480.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/tennisspieler-carlos-alcaraz-zieht-bei-atp-finals-in-finale-ein-accg-201705032.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/bundesliga-eintracht-frankfurt-profi-ritsu-doan-zeigt-zwei-gesichter-accg-201701601.html",
@@ -409,6 +417,7 @@
   "https://www.faz.net/aktuell/wall-street-journal/turbulenter-boersenstart-von-anthropic-das-blame-game-hat-begonnen-201704988.html",
   "https://www.faz.net/aktuell/wirtschaft/britney-spears-launcht-schmucklinie-btiny-nach-23-jahren-accg-201701394.html",
   "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html",
+  "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bauern-rufen-wieder-zum-protest-warum-ist-der-politische-einfluss-der-landwirte-so-gross-201635365.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/preisdeckel-reiche-moechte-autobahntankstellen-schonen-accg-201704570.html",
@@ -446,6 +455,7 @@
   "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
   "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
+  "https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss",
   "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
@@ -557,6 +567,7 @@
   "https://www.welt.de/politik/deutschland/article6b018edc39a3e8110f0e54c2/leipzig-und-bundesweit-vier-kinder-und-mehr-als-40-jugendliche-unter-beschuldigten-nach-gen-z-regelt-krawallen.html",
   "https://www.welt.de/politik/deutschland/article6b01906c45d8681e4fca3d5d/ostsee-drohnenangriff-auf-russischen-frachter-schiff-treibt-in-finnisches-gewaesser.html",
   "https://www.welt.de/politik/deutschland/article6b01b7f94490a28f5fdb845c/protest-in-berlin-gruenen-chef-banaszak-bei-gen-z-demo-wuetend-beschimpft.html",
+  "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
@@ -566,6 +577,7 @@
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-kann-der-bvb-im-borussen-duell-den-patzer-der-bayern-nutzen.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-moreira-schnuert-doppelpack-dortmund-wartet-weiter-auf-den-erloesenden-treffer.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0166135842ff528b9e2aa9/fc-bayern-eberl-widerspricht-rummenigge-die-zwei-lager-im-fall-jamal-musiala.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b01c4ca39a3e8110f0e58f9/bundesliga-ticker-schalke-04-gegen-vfb-stuttgart-live.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01a57a4490a28f5fdb8317/jamal-musiala-immer-wieder-nebenwirkungen-neue-medizinische-details-zu-den-zweifeln-der-bosse.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01bbe945d8681e4fca3fc0/jamal-musiala-das-hat-mit-mia-san-mia-wenig-zu-tun-neurologe-attackiert-bayern-bosse-auf-jhv.html",
