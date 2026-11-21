@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T05:51+01:00",
+ "updatedAt": "2026-11-21T06:21+01:00",
  "countries": {
   "world": [
    {
@@ -33,6 +33,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-21T07:59:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010500/meteoroloji-den-yagisli-hava-uyarisi-hava-sicakliklari-2-ila-6-derece-azalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Meteoroloji, kuvvetli yağışlar nedeniyle bazı iller için sarı kodlu uyarıda bulunurken sıcaklıkların 2 ila 6 derece azalacağını açıkladı.",
+     "de": "Der türkische Wetterdienst warnt vor starken Regenfällen und sinkenden Temperaturen zwischen zwei und sechs Grad."
+    }
+   },
+   {
     "time": "2026-11-21T07:39:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -60,6 +69,15 @@
      "tr": "Almanya'da hükümet politikalarına karşı düzenlenen gençlik protestolarında polis müdahalesi sonucu arbede çıktı.",
      "de": "Bei Jugendprotesten gegen die Regierungspolitik in Deutschland kam es nach Polizeieingriffen zu vereinzelten Ausschreitungen."
     }
+   },
+   {
+    "time": "2026-11-21T05:03:21+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
+    "text": {
+     "tr": "ABD Başkanı Trump'ın Asya turu sonrası izlediği politikalara yönelik tartışmalar ve Avrupa ile gerilim artıyor.",
+     "de": "Trumps Kurs gegenüber Putin und der Ukraine sorgt nach dessen Asienreise für neue Spannungen im Westen."
+    }
    }
   ]
  },
@@ -71,7 +89,12 @@
   "https://www.evrensel.net/haber/6010497/spk-den-baticim-hisselerine-gecici-islem-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010498/istanbul-da-ogrenciler-toplu-ulasimda-1-liraya-yolculuk-yapacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010500/meteoroloji-den-yagisli-hava-uyarisi-hava-sicakliklari-2-ila-6-derece-azalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
-  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html"
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
+  "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+  "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
+  "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+  "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html"
  ]
 }
