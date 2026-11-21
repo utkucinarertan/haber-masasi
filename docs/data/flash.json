@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T21:57+01:00",
+ "updatedAt": "2026-11-21T22:27+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T21:01:45+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
+    "text": {
+     "tr": "İngiltere'nin Barnham köyünün 600 sakini, askeri tesise mülteci kampı kurulmasına tepki olarak bir referandumla Birleşik Krallık'tan ayrılma yönünde oy kullandı.",
+     "de": "Aus Protest gegen geplante Asylunterkünfte stimmten die 600 Bewohner des englischen Dorfes Barnham in einem Referendum für die Unabhängigkeit von Großbritannien."
+    }
+   },
    {
     "time": "2026-11-21T20:49:04+00:00",
     "source": "France 24",
@@ -38,18 +47,27 @@
      "tr": "İngiltere'nin Bradford kentinde görev başında bıçaklanan yerel meclis üyesi Ibrar Ali'ye saldırıyla ilgili bir kişi cinayete teşebbüsle suçlandı.",
      "de": "Nach einer Messerattacke auf einen Kommunalpolitiker im britischen Bradford wurde ein 31-jährigen Mann wegen versuchten Mordes angeklagt."
     }
-   },
-   {
-    "time": "2026-11-21T19:25:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
-    "text": {
-     "tr": "Avrupa Birliği ile Endonezya, gümrük tarifelerini düşürmeyi ve hammadde tedarikini artırmayı hedefleyen kapsamlı bir ticaret anlaşması imzaladı.",
-     "de": "Die Europäische Union und Indonesien haben ein weitreichendes Handelsabkommen zur Senkung von Zöllen und Sicherung von Rohstoffen unterzeichnet."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T00:10:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010594/habas-ta-onlem-yok-uretim-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "HABAŞ'ta 19 işçinin hayatını kaybetmesinin ardından iş güvenliği önlemlerinin alınmadığı ve arızalı vinçlerle üretime devam edildiği belirtildi.",
+     "de": "Nach dem Tod von 19 Arbeitern bei HABAŞ wird die Produktion trotz fehlender Sicherheitsvorkehrungen und defekter Kräne fortgesetzt."
+    }
+   },
+   {
+    "time": "2026-11-22T00:10:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010623/ahmet-sik-fon-listesindeki-isimleri-acikladi-cumhurbaskanligi-devlet-denetleme-kurulu-uyesi-de-listede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "TİP Milletvekili Ahmet Şık, fon vurgunu listesinde Cumhurbaşkanlığı Devlet Denetleme Kurulu üyesi Talip Uzun'un da bulunduğunu açıkladı.",
+     "de": "Der Parlamentsabgeordnete Ahmet Şık gab bekannt, dass sich auch ein Mitglied des staatlichen Aufsichtsrates der Präsidentschaft auf der Liste eines Fondsbetrugs befindet."
+    }
+   },
    {
     "time": "2026-11-21T23:25:00+03:00",
     "source": "Evrensel",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Antalya'da Hasan Ergün, evli olduğu Fatma Ergün'ü silahla öldürdükten sonra aynı silahla intihar etti.",
      "de": "In Antalya hat ein Mann seine Ehefrau getötet und anschließend Suizid begangen."
-    }
-   },
-   {
-    "time": "2026-11-21T22:35:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010617/mhp-genel-baskan-yardimcisi-feti-yildiz-4-bin-897-pkk-hukumlusunden-2-bin-800-u-kanundan-faydalanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "MHP Genel Başkan Yardımcısı Feti Yıldız, cezaevindeki 4 bin 897 PKK hükümlüsünden 2 bin 800'ünün planlanan kanundan faydalanabileceğini açıkladı.",
-     "de": "Der MHP-Vizevorsitzende Feti Yıldız erklärte, dass von rund 4897 PKK-Gefangenen etwa 2800 von einem geplanten Gesetz profitieren könnten."
-    }
-   },
-   {
-    "time": "2026-11-21T22:08:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010616/tanju-ozcan-hakkinda-tahliye-karari-baska-dava-kapsaminda-cezaevinde-kalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Bolu Belediyesine yönelik davada hakkında tahliye kararı verilen Tanju Özcan, başka bir dava nedeniyle cezaevinde kalmayı sürdürecek.",
-     "de": "In einem Prozess um die Stadtverwaltung von Bolu wurde Tanju Özcans Freilassung angeordnet, er bleibt jedoch wegen eines anderen Verfahrens in Haft."
     }
    }
   ],
@@ -190,6 +190,16 @@
   "https://www.bbc.com/turkce/articles/cqr7g82mg2llo",
   "https://www.bbc.com/turkce/articles/cx24e1g1el4ro",
   "https://www.bbc.com/turkce/articles/cx7v2ne04np2o",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-bardak-suyun-hatirina-bartin-2558086",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-baskadir-artik-baska-2558082",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/cocuklarin-dus-gucunu-kismayin-2558093",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/kucuk-mutluluklarin-sanati-2558084",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/kultur-rotasi-22-kasim-2026-2558088",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/murat-ceylan-cumhuriyet-pazar-da-sahnedeki-murat-da-televizyondaki-murat-da-benim-2558089",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/okan-bayulgen-cumhuriyet-pazar-da-sanatci-politikayi-kendi-eseriyle-yapar-2558090",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
   "https://www.cumhuriyet.com.tr/dunya/israil-iran-a-olasi-saldiri-icin-orta-dogu-da-koalisyon-arayisinda-2558066",
   "https://www.cumhuriyet.com.tr/ekonomi/abd-de-tuketici-guveni-3-ayin-zirvesinde-benzin-rahatlatti-yapay-zeka-calkantisi-varlikli-kesimi-vurdu-2558076",
   "https://www.cumhuriyet.com.tr/gurme/balkan-mutfak-kulturunun-saraybosna-klasigi-bosnak-boregi-2558091",
@@ -215,6 +225,8 @@
   "https://www.cumhuriyet.com.tr/yasam/sabahin-ilk-isiklariyla-tarlaya-giriyorlar-tanesini-50-liraya-satiyorlar-bolge-ekonomisinin-can-damari-2558081",
   "https://www.cumhuriyet.com.tr/yasam/tarlada-kilosu-8-liradan-aliniyor-markette-60-liraya-satiliyor-2558078",
   "https://www.cumhuriyet.com.tr/yasam/uzayda-8-yil-sonra-gozlerini-acti-merkur-e-giden-dev-x-isini-teleskobundan-ilk-kozmik-gozlem-2558080",
+  "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/iktidarin-secim-acmazi-2558206",
+  "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428",
   "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099",
   "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
@@ -296,6 +308,7 @@
   "https://www.evrensel.net/haber/6010560/cigdem-batur-a-sosyal-medya-paylasimi-nedeniyle-sorusturma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010561/finlandiya-korfezi-nde-yuk-gemisine-iha-saldirisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010562/ozgur-ozel-den-halk-televizyonu-na-destek-tum-vatandaslarimizi-gazetecilere-destek-olmaya-davet-ediyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010564/tekstil-gocunden-esenyurtlu-kadinlarin-payina-agir-somuru-dustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010565/250-yillik-sistemin-karanlik-yuzu-fonlar-nasil-calisiyor-paralar-nasil-kayboluyor-kim-tarafindan-ve-nasil-yonetiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010566/bursa-da-mermer-ocagina-karsi-ortak-mucadele-gelecegimiz-vahsi-madencilige-kurban-edilemez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010567/mucadelenin-teori-si-ve-ihtiyar-i-yavuz-yildirimturk-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -304,14 +317,17 @@
   "https://www.evrensel.net/haber/6010570/kiraathane-soguk-cay-sicak-mevzu-agir-uyuyan-devi-uyandirmaya-calisiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010571/2013-ten-bu-yana-en-az-916-cocuk-isci-yasamini-yitirdi-kocaeli-isig-meclisi-nden-cocuk-iscilige-karsi-mucadele-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010572/amedspor-rizespor-0-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010573/edebiyat-tarihinde-mahlas-direnis-i-erkek-isimlerinin-ardindaki-kadin-emegi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010574/galatasaray-samsunspor-1-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010574/galatasaray-samsunspor-2-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010575/vergi-cennetleri-nasil-calisiyor-sirketler-ve-milyarderler-paralarini-neden-baska-ulkelere-tasiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010576/patronun-kacirdigi-mesem-li-kiz-cocugunun-annesi-tek-bir-mesem-yetkilisi-bize-ulasmadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010577/fon-vurgunu-dosyalarini-aciklayan-yeni-partili-ozlale-ye-akp-li-turel-den-suc-duyurusu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010578/suc-gelirleri-yasal-ekonomiye-nasil-sokuluyor-kara-para-nedir-nasil-aklaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010579/gunluklerden-raflara-ayse-kaygusuz-un-yazarliga-uzanan-yasami?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010580/emep-eskisehir-11-olagan-il-kongresi-ekmek-baris-ve-ozgurluk-mucadelesini-buyutme-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010581/akp-li-turel-ciftinin-fonunda-milyonluk-deger-artisi-sok-un-kiralari-nerede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010582/milenyum-sonrasi-kadin-edebiyati-madun-konusuyor-kadinlar-anlatiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010583/cumartesi-anneleri-1130-uncu-haftada-hayrettin-eren-in-akibetini-sordu-insanlik-suclarinda-zaman-asimi-olmaz-sorumlular-yargilansin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010584/spot-elektrik-piyasasinda-islem-hacmi-yuzde-157-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010585/spot-dogal-gaz-piyasasinda-islem-hacmi-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -321,20 +337,26 @@
   "https://www.evrensel.net/haber/6010590/agri-neden-hissedilir-beyin-agriyi-nasil-algiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010591/insan-vucudu-kac-derece-soguga-dayanabilir-hipoterminin-siniri-nerede-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010593/mansur-yavas-imamoglu-na-siyasi-yasak-kararina-iliskin-soruyu-yanitsiz-birakti-biz-buraya-park-acilisina-geldik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010594/habas-ta-onlem-yok-uretim-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010595/rakibiyle-kafa-kafaya-carpisti-myenty-abena-ambulansla-hastaneye-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010596/tgrt-ankara-temsilcisi-fatih-atik-isimleri-acikladi-5-belediye-baskani-daha-akp-ye-mi-geciyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010597/fransa-da-hayat-pahaliligina-karsi-protestolar-sari-yelekliler-ve-ogrenciler-yeniden-sokakta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010598/ilmira-hali-iscileri-alacaklarini-istedi-haklarimizi-alana-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010599/167-yil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010600/bir-fotografin-arkasindaki-barbarlik-hugo-boss-iscisi-canina-neden-kiydi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010601/cumhurbaskani-erdogan-zalimin-isledigi-curmun-cezasini-cekmedigi-bir-duzende-huzur-saglanamaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010602/bolge-valileri-ile-terorsuz-turkiye-toplantisi-mustafa-ciftci-sorumlulugumuzu-guvenlik-anlayisi-ile-yerine-getiriyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010603/iran-cumhurbaskanliginda-isiticilar-kapatildi-pezeskiyan-ofisinde-montla-calisiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010604/insaattan-dusen-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010605/istanbul-da-temel-kazisi-sirasinda-gocuk-1-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010606/istanbul-un-bazi-ilcelerinde-dolu-ve-saganak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010607/shenzhen-zirvesi-cok-taraflilik-egzersizleri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010608/pazar-plani-yapanlar-dikkat-meteorolojiden-21-il-icin-sari-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010609/bekev-li-kadinlar-20-yili-kutladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010611/istanbul-a-is-bulmaya-gelmisti-denizde-cesedi-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010612/somali-de-devletin-cokusu-emperyalist-paylasim-ve-ankara-nin-yeni-rolu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010613/akademisyen-erhan-ozseker-adim-adim-izledigi-is-cinayeti-davalarini-evrensel-icin-degerlendirdi-kurumsal-oldurmeyi-tartismaliyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010614/kocaelispor-fenerbahce-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010615/medikal-hospital-calisanlari-hakkimiz-olani-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010616/tanju-ozcan-hakkinda-tahliye-karari-baska-dava-kapsaminda-cezaevinde-kalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -343,6 +365,8 @@
   "https://www.evrensel.net/haber/6010619/bahceli-den-ozgur-ozel-e-chp-yi-bolmeyi-basardiniz-ama-turkiye-yi-boldurtmeyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010620/ismail-gercek-ve-gokhan-edge-mezarlari-basinda-anildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010621/kyr-tekstil-ve-tabu-tekstil-iscileri-alacaklarini-istedi-patronlar-iscinin-parasini-odememeyi-aliskanlik-haline-getirmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010623/ahmet-sik-fon-listesindeki-isimleri-acikladi-cumhurbaskanligi-devlet-denetleme-kurulu-uyesi-de-listede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010624/balikesir-kadin-platformu-ndan-25-kasim-cagrisi-siddete-ve-esitsizlige-karsi-meydanlara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -412,6 +436,7 @@
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/taubertsbergbad-in-mainz-mit-riesenrutsche-und-spa-neu-eroeffnet-accg-201701519.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/frankfurt-soll-einen-neuen-masterplan-fuer-die-industrie-bekommen-accg-201700212.html",
+  "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-der-woche-testen-sie-ihr-wissen-heute-in-welchem-film-hat-robert-pattinson-noch-nicht-mitgespielt-faz-201700124.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-las-vegas-kimi-antonelli-startet-nach-strafe-auf-position-sechs-accg-201704376.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-las-vegas-verstappen-vor-russell-antonelli-bestraft-accg-201704221.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-bundesliga-vflwolfsburg-erhoeht-im-aufstiegsrennen-druck-auf-1-fc-nuernberg-accg-201304607.html",
@@ -614,6 +639,7 @@
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
   "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
   "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
+  "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-auch-akademiker-verdienen-respekt-nicht-nur-arbeiter-und-bauern.html",
