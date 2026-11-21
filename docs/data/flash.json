@@ -1,6 +1,6 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T02:21+01:00",
+ "updatedAt": "2026-11-21T02:51+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-21T01:02:39+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
+    "text": {
+     "tr": "Gözaltındaki göçmenleri dolandıran suçluların, 811 milyon dolarlık para cezasına rağmen kefalet dolandırıcılığını sürdürdüğü bildirildi.",
+     "de": "Verurteilte Betrüger führten Kautionsgeschäfte mit inhaftierten Migranten trotz einer Geldstrafe von 811 Millionen Dollar offenbar fort."
+    }
+   },
+   {
     "time": "2026-11-21T00:01:39+00:00",
     "source": "BBC News World",
     "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Los Angeles'taki ölümcül Palisades yangınını çıkardığı suçlanan Jonathan Rinderknecht iki federal kundaklama suçundan suçlu bulundu.",
      "de": "Jonathan Rinderknecht wurde wegen des Brandes der tödlichen Palisades-Feuer in Los Angeles der Bundesbrandstiftung schuldig gesprochen."
-    }
-   },
-   {
-    "time": "2026-11-20T23:15:20+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/videos/cqdr1x8mypnko",
-    "text": {
-     "tr": "Pentagon, Ortadoğu'da çekilen 2020, 2023 ve 2026 yıllarına ait UFO görüntülerini içeren sekizinci arşivi kamuoyuna açıkladı.",
-     "de": "Das US-Verteidigungsministerium hat eine achte Tranche von UFO-Aufnahmen aus dem Nahen Osten veröffentlicht."
     }
    }
   ],
@@ -210,6 +210,7 @@
   "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
   "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
   "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
+  "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
   "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
   "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
