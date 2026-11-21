@@ -1,6 +1,6 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T03:57+01:00",
+ "updatedAt": "2026-11-21T04:27+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-21T04:08:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/peru-erdbeben-der-staerke-6-7-erdrutsche-und-steinschlaege-im-zentrum-a-5a6f565a-d414-45ea-a6eb-bff84bc57829#ref=rss",
+    "text": {
+     "tr": "Peru'nun merkezinde meydana gelen 6,7 büyüklüğündeki deprem heyelanlara yol açtı.",
+     "de": "Ein Erdbeben der Stärke 6,7 hat im Zentrum von Peru Erdrutsche ausgelöst."
+    }
+   },
+   {
     "time": "2026-11-21T03:39:59+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Gözaltındaki göçmenleri dolandıran suçluların, 811 milyon dolarlık para cezasına rağmen kefalet dolandırıcılığını sürdürdüğü bildirildi.",
      "de": "Verurteilte Betrüger führten Kautionsgeschäfte mit inhaftierten Migranten trotz einer Geldstrafe von 811 Millionen Dollar offenbar fort."
-    }
-   },
-   {
-    "time": "2026-11-21T00:01:39+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
-    "text": {
-     "tr": "New York yetkilileri, Rikers Adası hapishanesini 2032 yılına kadar kapatma planını açıkladı.",
-     "de": "Die Behörden in New York haben angekündigt, das umstrittene Gefängnis auf Rikers Island bis 2032 zu schließen."
     }
    }
   ],
@@ -655,6 +655,7 @@
   "https://www.spiegel.de/ausland/grossbritannien-eu-gipfel-bruessel-und-london-einigen-sich-auf-wiederannaeherung-a-6ccc48b9-df7e-478e-9815-038882284bba#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-eu-gipfel-bruessel-und-london-einigen-sich-offenbar-grundsaetzlich-auf-wiederannaeherung-a-6ccc48b9-df7e-478e-9815-038882284bba#ref=rss",
   "https://www.spiegel.de/ausland/lana-nusseibeh-warum-diese-frau-die-uno-nicht-fuehren-kann-a-ccdf06b5-5ace-4ccf-ae6c-f235d9deee26#ref=rss",
+  "https://www.spiegel.de/ausland/peru-erdbeben-der-staerke-6-7-erdrutsche-und-steinschlaege-im-zentrum-a-5a6f565a-d414-45ea-a6eb-bff84bc57829#ref=rss",
   "https://www.spiegel.de/ausland/polen-meldet-absturz-von-drei-russischen-flugobjekten-a-590c07a8-aff7-45f3-bc77-38cc81cffb65#ref=rss",
   "https://www.spiegel.de/ausland/usa-nach-den-kongresswahlen-wie-trump-die-manosphere-verloren-hat-a-a60fcbfc-814c-4f73-843a-cf8ca2694f53#ref=rss",
   "https://www.spiegel.de/ausland/usa-nach-midterms-donald-trump-verliert-seine-bros-a-a60fcbfc-814c-4f73-843a-cf8ca2694f53#ref=rss",
