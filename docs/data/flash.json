@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T20:57+01:00",
+ "updatedAt": "2026-11-21T21:27+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T20:20:37+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+    "text": {
+     "tr": "Fransa'da hayat pahalılığını protesto etmek amacıyla düzenlenen gösterilerin altıncısına katılım önceki haftalara göre azaldı.",
+     "de": "In Frankreich ist die Beteiligung an den landesweiten Protesten gegen die Lebenshaltungskosten am sechsten Samstag in Folge zurückgegangen."
+    }
+   },
    {
     "time": "2026-11-21T19:56:39+00:00",
     "source": "France 24",
@@ -38,18 +47,18 @@
      "tr": "Polonya'da düşen bir mühimmatın yeni üretilmiş bir Rus seyir füzesi olduğu belirlenirken, NATO Genel Sekreteri Rutte Polonya'nın savunulacağını vurguladı.",
      "de": "Polnische Ermittler haben ein abgestürztes Flugobjekt als russischen Marschflugkörper identifiziert, woraufhin NATO-Generalsekretär Rutte den Schutz Polens betonte."
     }
-   },
-   {
-    "time": "2026-11-21T18:20:37+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
-    "text": {
-     "tr": "İngiltere'nin Suffolk bölgesindeki Barnham köyü sakinleri, yakınlardaki eski bir üsse sığınmacı yerleştirilmesi planına tepki olarak simgesel bir referandumla İngiltere'den ayrılma yönünde oy kullandı.",
-     "de": "Bewohner eines Dorfes in Suffolk haben in einer symbolischen Abstimmung für den Austritt aus Großbritannien gestimmt, um gegen geplante Flüchtlingsunterkünfte zu protestieren."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T22:59:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010619/bahceli-den-ozgur-ozel-e-chp-yi-bolmeyi-basardiniz-ama-turkiye-yi-boldurtmeyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "MHP Genel Başkanı Devlet Bahçeli, CHP lideri Özgür Özel'e yönelik eleştirilerde bulunarak Türkiye'yi böldürtmeyeceklerini vurguladı.",
+     "de": "MHP-Vorsitzender Devlet Bahçeli kritisierte CHP-Chef Özgür Özel und betonte, man werde die Spaltung der Türkei nicht zulassen."
+    }
+   },
    {
     "time": "2026-11-21T22:52:00+03:00",
     "source": "Evrensel",
@@ -85,18 +94,18 @@
      "tr": "Süper Lig'in 12. haftasında Fenerbahçe deplasmanda Kocaelispor ile 2-2 berabere kaldı.",
      "de": "Fenerbahçe spielte am 12. Spieltag der Süper Lig auswärts gegen Kocaelispor 2:2 unentschieden."
     }
-   },
-   {
-    "time": "2026-11-21T20:07:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Türkiye İşçi Partisi Genel Başkanı Erkan Baş, Burhaniye'de düzenlenen mitingde yurttaşlara çağrıda bulundu.",
-     "de": "Der Vorsitzende der Arbeiterpartei der Türkei, Erkan Baş, hielt eine Kundgebung in Burhaniye ab."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-21T21:13:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
+    "text": {
+     "tr": "Eski Sağlık Bakanı Karl Lauterbach, ABD ve Çin'deki yapay zeka laboratuvarlarını ziyaret ettikten sonra Almanya'nın geride kalmaması gerektiğini belirtti.",
+     "de": "Ex-Gesundheitsminister Karl Lauterbach hat nach Besuchen von KI-Laboren in den USA und China gewarnt, dass Deutschland nicht den Anschluss verlieren darf."
+    }
+   },
    {
     "time": "2026-11-21T20:54:06+01:00",
     "source": "tagesschau",
@@ -104,6 +113,15 @@
     "text": {
      "tr": "Hollanda'da Chemours fabrikası çevresindeki PFAS kirliliği nedeniyle vatandaşlar kendi bahçelerinden meyve yememeleri konusunda uyarılırken protestolar düzenlendi.",
      "de": "In den Niederlanden protestieren Bürger gegen eine starke PFAS-Verseuchung rund um die Chemours-Fabrik und wurden vor dem Verzehr von Gartenobst gewarnt."
+    }
+   },
+   {
+    "time": "2026-11-21T20:23:14+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
+    "text": {
+     "tr": "FDP politikacısı ve hukukçu Karoline Preisler, Berlin'deki Filistin yanlısı bir gösteride saldırıya uğrayarak darp edildi.",
+     "de": "Die FDP-Politikerin und Juristin Karoline Preisler ist bei einer israelfeindlichen Demonstration in Berlin angegriffen und getreten worden."
     }
    },
    {
@@ -116,30 +134,12 @@
     }
    },
    {
-    "time": "2026-11-21T19:30:50+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-wieder-kein-tor-aber-immerhin-ein-punkt-fuer-schalke-04-gegen-vfb-stuttgart-201304421.html",
-    "text": {
-     "tr": "Almanya Bundesliga maçında Schalke 04, VfB Stuttgart ile 0-0 berabere kalarak kendi sahasındaki maçlarda bu sezon da gol atamadı.",
-     "de": "Schalke 04 spielte in der Bundesliga 0:0 gegen den VfB Stuttgart und wartet damit auch im fünften Heimspiel weiter auf das erste Saisontor."
-    }
-   },
-   {
-    "time": "2026-11-21T19:24:20+00:00",
+    "time": "2026-11-21T19:58:28+00:00",
     "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
+    "url": "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
     "text": {
-     "tr": "Nürnberg'de yaklaşık 70 milyon euroluk kesinti öngören bütçe görüşmeleri sırasında protestocular belediye meclisini basarak arbedeye neden oldu.",
-     "de": "Demonstranten haben in Nürnberg die Beratungen über einen harten Sparkurses im Rathaus gestört und zu heftigen Tumulten geführt."
-    }
-   },
-   {
-    "time": "2026-11-21T18:33:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
-    "text": {
-     "tr": "Rus e-ticaret devi Wildberries'in kurucusu ve yöneticisi Tatjana Kim, AB yaptırımlarının ardından görevinden ayrıldı.",
-     "de": "Tatjana Kim, die Chefin des russischen Onlinehändlers Wildberries, ist nach EU-Sanktionen von ihrem Führungsposten zurückgetreten."
+     "tr": "Brezilya'nın eski Devlet Başkanı Jair Bolsonaro, akut bağırsak tıkanıklığı nedeniyle yoğun bakım ünitesine kaldırıldı.",
+     "de": "Der frühere brasilianische Präsident Jair Bolsonaro ist wegen eines akuten Darmverschlusses auf eine Intensivstation eingeliefert worden."
     }
    }
   ]
@@ -169,6 +169,7 @@
   "https://tr.euronews.com/2026/11/21/yeni-calisma-kronik-yalnizlik-demans-riskini-yuzde-38-artiriyor",
   "https://tr.euronews.com/video/2026/11/21/hurmuz-bogazi-lewis-pugh-savas-bolgesinde-yuzerek-cevre-tahribatina-dikkat-cekti",
   "https://tr.euronews.com/video/2026/11/21/japonyada-otonom-hava-taksisi-pilotsuz-yolcu-ucusunu-tamamladi",
+  "https://tr.euronews.com/video/2026/11/21/meksikali-ozel-kuvvetler-fbinin-en-cok-aranan-chapo-isidro-sinaloada-yakalandi",
   "https://tr.euronews.com/video/2026/11/21/pentagon-uap-karsilasmalarina-dair-yeni-gizliligi-kaldirilmis-dosyalari-yayimladi",
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
   "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
@@ -339,6 +340,8 @@
   "https://www.evrensel.net/haber/6010616/tanju-ozcan-hakkinda-tahliye-karari-baska-dava-kapsaminda-cezaevinde-kalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010617/mhp-genel-baskan-yardimcisi-feti-yildiz-4-bin-897-pkk-hukumlusunden-2-bin-800-u-kanundan-faydalanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010618/antalya-da-kadin-cinayeti-evli-oldugu-kadini-oldurup-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010619/bahceli-den-ozgur-ozel-e-chp-yi-bolmeyi-basardiniz-ama-turkiye-yi-boldurtmeyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010620/ismail-gercek-ve-gokhan-edge-mezarlari-basinda-anildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -445,6 +448,7 @@
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/chatgpt-und-gemini-welchen-einfluss-werbung-auf-ki-antworten-nimmt-accg-201629258.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/was-denkt-harald-christ-der-investor-lobbyist-und-mann-zwischen-den-welten-201689491.html",
   "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/sport-gegen-depression-was-wirklich-hilft-und-wie-man-anfaengt-accg-201340324.html",
   "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warum-die-eu-ihre-buerger-nicht-vor-pfas-schuetzen-kann-den-teilweise-giftigen-ewigkeitschemikalien-accg-201695785.html",
   "https://www.faz.net/podcasts/f-a-z-gesundheit-der-podcast/was-macht-den-weiblichen-darm-besonders-201691631.html",
@@ -468,6 +472,7 @@
   "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
   "https://www.france24.com/en/fbi-criminal-database-hacked",
   "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
+  "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
   "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
   "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
   "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
@@ -479,12 +484,14 @@
   "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
   "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
   "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
+  "https://www.france24.com/en/tv-shows/spotlight/20261121-worst-ever-cop-summit",
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
   "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
   "https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss",
   "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss",
   "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
+  "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
   "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
   "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
@@ -503,6 +510,7 @@
   "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
   "https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss",
   "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
   "https://www.spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce#ref=rss",
   "https://www.spiegel.de/psychologie/auswandern-warum-jessica-jessen-vom-dorf-in-die-welt-und-zurueck-zog-a-3e2801b1-0382-4518-a888-2f3994b1c3bc#ref=rss",
@@ -514,6 +522,7 @@
   "https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss",
   "https://www.spiegel.de/start/arbeitsmarkt-fuer-welche-jungen-akademiker-die-jobsuche-immer-schwerer-wird-a-003279ec-e410-4a3d-830a-666366670b74#ref=rss",
   "https://www.spiegel.de/stil/boyfriend-blush-frauen-wollen-erroeten-wie-maenner-wars-das-mit-der-emanzipation-a-e82150e3-ca1d-4efd-ba05-f63a1ae8be68#ref=rss",
+  "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
   "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
   "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
   "https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
@@ -544,6 +553,7 @@
   "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
+  "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
   "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
@@ -600,6 +610,7 @@
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
   "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
+  "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-auch-akademiker-verdienen-respekt-nicht-nur-arbeiter-und-bauern.html",
@@ -615,6 +626,7 @@
   "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
   "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
   "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
+  "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
