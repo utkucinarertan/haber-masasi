@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T01:21+01:00",
+ "updatedAt": "2026-11-21T01:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-21T01:30:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/verbrenner-aus-verkehrsminister-steffen-bilger-fordert-bekenntnis-zu-deutschland-a-8059c9a8-fb59-4254-91cd-d70b666eb42b#ref=rss",
+    "text": {
+     "tr": "Almanya Ulaştırma Bakanı Steffen Bilger, olası bir AB düzenlemesinin ardından otomobil üreticilerinden Almanya'ya bağlılık talep etti.",
+     "de": "Nach einer möglichen EU-Regelung für Verbrenner und Hybride fordert Bundesverkehrsminister Steffen Bilger ein klares Bekenntnis der Hersteller zu Deutschland."
+    }
+   },
    {
     "time": "2026-11-21T00:06:20+00:00",
     "source": "Die Welt",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Almanya'da yapılan iki yeni araştırma, ücretler ve gelirlerdeki artışla birlikte halkın büyük kısmının daha zenginleştiğini ortaya koydu.",
      "de": "Zwei neuen Studien zufolge sind die Löhne und Einkommen in Deutschland gestiegen und die allermeisten Bürger sind reicher geworden."
-    }
-   },
-   {
-    "time": "2026-11-20T22:33:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/fussball/fc-bayern-muenchen-verletzungssorgen-nach-koeln-spiel-kane-und-olise-angeschlagen-a-f44477ac-00ee-44ab-a005-c26d0e6965ef#ref=rss",
-    "text": {
-     "tr": "Bayern Münih, Köln ile berabere kalırken Harry Kane ve Michael Olise sakatlık yaşadı.",
-     "de": "Bayern München spielt nur Unentschieden gegen Köln und beklagt Verletzungen von Harry Kane und Michael Olise."
     }
    }
   ],
@@ -210,6 +210,7 @@
   "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
   "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
   "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
+  "https://www.bbc.co.uk/news/articles/cqpv94d10rwpo",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
   "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
   "https://www.bbc.co.uk/news/articles/cx7v2d8q879eo",
@@ -686,6 +687,7 @@
   "https://www.spiegel.de/wirtschaft/soziales/deutsch-ukrainisches-wirtschaftsforum-fuer-friedrich-merz-geht-es-in-der-ukraine-auch-ums-geschaeft-a-2848de43-1eaa-4c1a-9657-61708a4cd52c#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bank-islamisten-gesucht-buddhisten-und-doenerhersteller-gefunden-a-ca7c78d3-5ee1-4a47-acfb-21ba6832b6e7#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-us-boersenaufsicht-ermittelt-gegen-chip-riesen-a-89d79e61-5ac5-4389-aca3-f8e8d8aba4a5#ref=rss",
+  "https://www.spiegel.de/wirtschaft/verbrenner-aus-verkehrsminister-steffen-bilger-fordert-bekenntnis-zu-deutschland-a-8059c9a8-fb59-4254-91cd-d70b666eb42b#ref=rss",
   "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
   "https://www.spiegel.de/wissenschaft/technik/samoa-usa-vergeben-erste-lizenzen-fuer-tiefseebergbau-im-pazifik-a-e10d57ce-075d-4ac3-bddd-018f43c09d0f#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-streit-ueber-fossile-energien-klimagipfel-geht-in-die-verlaengerung-a-acb69199-ffa2-4b15-ad2b-62145c0613c8#ref=rss",
@@ -722,6 +724,7 @@
   "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
   "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
   "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
@@ -772,6 +775,7 @@
   "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
   "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
   "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
+  "https://www.theguardian.com/us-news/2026/nov/20/trump-republican-succession-battle-vance-rubio",
   "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
   "https://www.theguardian.com/world/2026/nov/20/french-police-officers-found-guilty-of-racist-assault-on-black-music-producer",
@@ -824,6 +828,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-rueckschlag-im-heimspiel-fc-bayern-kommt-ohne-die-verletzten-kane-und-olise-gegen-koeln-nur-zu-remis.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0099d3b237b5b41c9a31cb/bundesliga-schafft-der-fc-bayern-ohne-die-verletzten-kane-und-olise-noch-die-wende.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b00cf535842ff528b9e25ae/syndesmoseriss-schock-beim-fc-bayern-ballon-dor-gewinner-kane-faellt-mehrere-monate-aus.html",
+  "https://www.welt.de/vermischtes/article6b00e3065842ff528b9e2637/nach-ausbuhen-eines-sachbearbeiters-respektloses-und-empoerendes-verhalten-oberbuergermeister-kritisiert-tokio-hotel-scharf.html",
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
   "https://www.welt.de/wirtschaft/article6b002a6ab237b5b41c9a2632/ukraine-krieg-friedrich-merz-verspricht-deutschland-dividende-aus-ukraine-investitionen.html",
