@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T00:51+01:00",
+ "updatedAt": "2026-11-21T01:21+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-21T00:06:20+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b00ddcb39a3e8110f0e4c32/cybersecurity-hackerangriff-auf-immobilienverwaltung-der-bundesagentur-fuer-arbeit.html",
+    "text": {
+     "tr": "Federal İş Ajansı'nın emlak yönetimi birimi bir hacker saldırısının hedefi oldu.",
+     "de": "Die Immobilienverwaltung der Bundesagentur für Arbeit wurde Ziel eines Hackerangriffs."
+    }
+   },
    {
     "time": "2026-11-20T23:55:44+01:00",
     "source": "Euronews Türkçe",
@@ -38,18 +47,18 @@
      "tr": "Bayern Münih, Köln ile berabere kalırken Harry Kane ve Michael Olise sakatlık yaşadı.",
      "de": "Bayern München spielt nur Unentschieden gegen Köln und beklagt Verletzungen von Harry Kane und Michael Olise."
     }
-   },
-   {
-    "time": "2026-11-20T22:28:00+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/daenemark-attentatsversuch-100.html",
-    "text": {
-     "tr": "Danimarka, Ukrayna-Amerikalı bir rapçiye yönelik suikast planı nedeniyle bir Rus diplomatı sınır dışı etti.",
-     "de": "Dänemark weist nach einem mutmaßlichen Attentatsplan auf einen Rapper einen russischen Diplomaten aus."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-21T00:01:39+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
+    "text": {
+     "tr": "New York yetkilileri, Rikers Adası hapishanesini 2032 yılına kadar kapatma planını açıkladı.",
+     "de": "Die Behörden in New York haben angekündigt, das umstrittene Gefängnis auf Rikers Island bis 2032 zu schließen."
+    }
+   },
    {
     "time": "2026-11-20T23:47:00+03:00",
     "source": "Evrensel",
@@ -57,6 +66,15 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, Çin ve Rusya liderleriyle harika ilişkileri olduğunu ve bu sayede Amerika'nın güvende olduğunu belirtti.",
      "de": "US-Präsident Donald Trump betonte, dank großartiger Beziehungen zu den Staatschefs von China und Russland sei Amerika sicher."
+    }
+   },
+   {
+    "time": "2026-11-20T23:42:43+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+    "text": {
+     "tr": "Bir Missouri hakimi, Bayer'in kansere yol açtığı iddia edilen Roundup davalarını çözmek için ödeyeceği 7,25 milyar dolarlık tazminatı onayladı.",
+     "de": "Ein Richter in Missouri hat einen Vergleich von Bayer über 7,25 Milliarden Dollar zur Beilegung von Roundup-Klagen genehmigt."
     }
    },
    {
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Pentagon, Ortadoğu'da çekilen 2020, 2023 ve 2026 yıllarına ait UFO görüntülerini içeren sekizinci arşivi kamuoyuna açıkladı.",
      "de": "Das US-Verteidigungsministerium hat eine achte Tranche von UFO-Aufnahmen aus dem Nahen Osten veröffentlicht."
-    }
-   },
-   {
-    "time": "2026-11-20T23:09:57+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
-    "text": {
-     "tr": "Avustralya'nın Yeni Güney Galler eyalet parlamentosu, Hunter Vadisi'ndeki bir kömür madeninin üretimini yüzde 32 artırmasına izin veren yasayı onayladı.",
-     "de": "Das Parlament von New South Wales in Australien hat ein Gesetz zur Erhöhung der Kohleproduktion in einem Bergwerk um 32 Prozent verabschiedet."
-    }
-   },
-   {
-    "time": "2026-11-20T23:08:57+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
-    "text": {
-     "tr": "Anthropic şirketinden bir matematikçi, ünlü Riemann hipotezini kanıtlamak için yapay zeka kullandığını açıkladı.",
-     "de": "Ein Mathematiker von Anthropic gibt an, Künstliche Intelligenz genutzt zu haben, um die berühmte Riemann-Vermutung zu beweisen."
     }
    }
   ],
@@ -207,6 +207,7 @@
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
   "https://www.bbc.co.uk/news/articles/cmde1lw9y54ko",
   "https://www.bbc.co.uk/news/articles/cmgj35zvjyp9o",
+  "https://www.bbc.co.uk/news/articles/cmjeqv89egylo",
   "https://www.bbc.co.uk/news/articles/cmn502ek17yvo",
   "https://www.bbc.co.uk/news/articles/cq702ez8d4lwo",
   "https://www.bbc.co.uk/news/articles/cqx2x9dklxnro",
@@ -225,6 +226,7 @@
   "https://www.bbc.com/turkce/articles/cmn4k8g9xg1no",
   "https://www.bbc.com/turkce/articles/cmqlq51yvq26o",
   "https://www.bbc.com/turkce/articles/cmrlgxr9nelxo",
+  "https://www.bbc.com/turkce/articles/cq8j40d29kneo",
   "https://www.bbc.com/turkce/articles/cvze7d61zdwro",
   "https://www.bbc.com/turkce/articles/cxyvzvr4y6mgo",
   "https://www.cumhuriyet.com.tr/astroloji/21-kasim-cumartesi-burc-yorumlari-bugun-sizi-neler-bekliyor-2557872",
@@ -720,6 +722,7 @@
   "https://www.tagesschau.de/wissen/forschung/jugendliche-in-der-dauerkrise-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/coalition-one-nation-teals-new-threat-sydney",
   "https://www.theguardian.com/australia-news/2026/nov/21/nsw-passes-hunter-valley-coalmine-law-as-greens-claim-change-an-attempt-to-head-off-one-nation-ntwnfb",
+  "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
   "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
   "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
   "https://www.theguardian.com/business/2026/nov/20/three-choirs-vineyard-2026-first-release-wine-record-early-harvest-beaujolais-nouveau",
@@ -767,6 +770,7 @@
   "https://www.theguardian.com/us-news/2026/nov/20/rikers-island-closure-plan-mamdani",
   "https://www.theguardian.com/us-news/2026/nov/20/senate-energy-datacenters-review-bill",
   "https://www.theguardian.com/us-news/2026/nov/20/senators-consumer-financial-protection-bureau",
+  "https://www.theguardian.com/us-news/2026/nov/20/tillis-republican-senator-trump-cyber-nominee",
   "https://www.theguardian.com/us-news/2026/nov/20/trump-datacenters-white-house",
   "https://www.theguardian.com/us-news/2026/nov/20/us-prison-violence-victims-study",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
@@ -783,6 +787,7 @@
   "https://www.welt.de/politik/article6b006a205842ff528b9e201f/friedrich-merz-gemeinsame-prioritaet-fuer-uns-hat-der-wiederaufbau-syriens-sagt-kanzler-nach-treffen-mit-katar.html",
   "https://www.welt.de/politik/article6b00959a39a3e8110f0e4930/boris-rhein-kritisiert-bundesregierung-meine-geduld-ist-langsam-am-ende.html",
   "https://www.welt.de/politik/article6b00bdea5842ff528b9e251c/donald-trump-putin-will-krieg-mit-diplomatischen-mitteln-beenden-glaubt-der-us-praesident.html",
+  "https://www.welt.de/politik/article6b00ddcb39a3e8110f0e4c32/cybersecurity-hackerangriff-auf-immobilienverwaltung-der-bundesagentur-fuer-arbeit.html",
   "https://www.welt.de/politik/ausland/article6afffac1be487c543774694d/polen-meldet-absturz-mehrerer-russischer-flugobjekte-nato-verurteilt-luftraumverletzungen.html",
   "https://www.welt.de/politik/ausland/article6b00169239a3e8110f0e38a8/gipfel-in-bruessel-eu-und-grossbritannien-einigen-sich-auf-projekte-fuer-annaeherung-eine-streitfrage-ist-ungeloest.html",
   "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
@@ -822,6 +827,7 @@
   "https://www.welt.de/vermischtes/prominente/article6b00249db237b5b41c9a2572/jennifer-lawrence-sie-sind-neu-wirklich-tribute-von-panem-star-spricht-im-tv-ueber-ihre-brustimplantate.html",
   "https://www.welt.de/wirtschaft/article6b001ae3b237b5b41c9a23f6/galeria-schliesst-drei-kaufhaeuser-der-haelfte-der-filialen-droht-das-aus.html",
   "https://www.welt.de/wirtschaft/article6b002a6ab237b5b41c9a2632/ukraine-krieg-friedrich-merz-verspricht-deutschland-dividende-aus-ukraine-investitionen.html",
+  "https://www.welt.de/wirtschaft/article6b0063e739a3e8110f0e44db/dirk-jandura-wir-muessen-froh-sein-wenn-andere-laender-mit-uns-handel-treiben.html",
   "https://www.welt.de/wirtschaft/article6b00c1515842ff528b9e2537/boerse-heftige-talfahrt-bei-tech-aktien-angstbarometer-steigt-auf-hoechsten-stand-seit-anderthalb-jahren.html",
   "https://www.welt.de/wirtschaft/plus6aff054939a3e8110f0e2712/schuldenrisiko-die-jugend-geraet-in-zahlungsverzug-und-ab-sofort-gelten-diese-strengeren-regeln.html",
   "https://www.welt.de/wirtschaft/plus6aff1734c1e8003ef73c4ac5/schwerdtner-bei-maischberger-die-mietspiegel-blamage-der-linken-chefin.html",
