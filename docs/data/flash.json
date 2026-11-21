@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T21:27+01:00",
+ "updatedAt": "2026-11-21T21:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T20:49:04+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
+    "text": {
+     "tr": "İsrail'de muhalefet lideri Gadi Eisenkot, Benjamin Netanyahu'nun Likud partisini koalisyon görüşmelerine davet etti.",
+     "de": "Der israelische Oppositionsführer Gadi Eisenkot hat Benjamin Netanyahus Likud-Partei zu Koalitionsgesprächen eingeladen."
+    }
+   },
    {
     "time": "2026-11-21T20:20:37+00:00",
     "source": "France 24",
@@ -38,18 +47,18 @@
      "tr": "Avrupa Birliği ile Endonezya, gümrük tarifelerini düşürmeyi ve hammadde tedarikini artırmayı hedefleyen kapsamlı bir ticaret anlaşması imzaladı.",
      "de": "Die Europäische Union und Indonesien haben ein weitreichendes Handelsabkommen zur Senkung von Zöllen und Sicherung von Rohstoffen unterzeichnet."
     }
-   },
-   {
-    "time": "2026-11-21T18:26:31+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
-    "text": {
-     "tr": "Polonya'da düşen bir mühimmatın yeni üretilmiş bir Rus seyir füzesi olduğu belirlenirken, NATO Genel Sekreteri Rutte Polonya'nın savunulacağını vurguladı.",
-     "de": "Polnische Ermittler haben ein abgestürztes Flugobjekt als russischen Marschflugkörper identifiziert, woraufhin NATO-Generalsekretär Rutte den Schutz Polens betonte."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T23:25:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010621/kyr-tekstil-ve-tabu-tekstil-iscileri-alacaklarini-istedi-patronlar-iscinin-parasini-odememeyi-aliskanlik-haline-getirmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Zara'ya üretim yapan KYR Tekstil ve TABU Tekstil işçileri, ödenmeyen ücretlerini almak için fabrika önünde eylem yaptı.",
+     "de": "Arbeiter von KYR Tekstil und TABU Tekstil protestierten vor der Fabrik in der Türkei, um ihre ausstehenden Löhne einzufordern."
+    }
+   },
    {
     "time": "2026-11-21T22:59:00+03:00",
     "source": "Evrensel",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Bolu Belediyesine yönelik davada hakkında tahliye kararı verilen Tanju Özcan, başka bir dava nedeniyle cezaevinde kalmayı sürdürecek.",
      "de": "In einem Prozess um die Stadtverwaltung von Bolu wurde Tanju Özcans Freilassung angeordnet, er bleibt jedoch wegen eines anderen Verfahrens in Haft."
-    }
-   },
-   {
-    "time": "2026-11-21T21:39:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010614/kocaelispor-fenerbahce-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Süper Lig'in 12. haftasında Fenerbahçe deplasmanda Kocaelispor ile 2-2 berabere kaldı.",
-     "de": "Fenerbahçe spielte am 12. Spieltag der Süper Lig auswärts gegen Kocaelispor 2:2 unentschieden."
     }
    }
   ],
@@ -342,6 +342,7 @@
   "https://www.evrensel.net/haber/6010618/antalya-da-kadin-cinayeti-evli-oldugu-kadini-oldurup-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010619/bahceli-den-ozgur-ozel-e-chp-yi-bolmeyi-basardiniz-ama-turkiye-yi-boldurtmeyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010620/ismail-gercek-ve-gokhan-edge-mezarlari-basinda-anildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010621/kyr-tekstil-ve-tabu-tekstil-iscileri-alacaklarini-istedi-patronlar-iscinin-parasini-odememeyi-aliskanlik-haline-getirmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -448,6 +449,7 @@
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/chatgpt-und-gemini-welchen-einfluss-werbung-auf-ki-antworten-nimmt-accg-201629258.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-elon-musk-bis-frankenstein-jonas-grethlein-erklaert-warum-prometheus-auch-heute-fasziniert-201639053.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/was-denkt-harald-christ-der-investor-lobbyist-und-mann-zwischen-den-welten-201689491.html",
   "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/sport-gegen-depression-was-wirklich-hilft-und-wie-man-anfaengt-accg-201340324.html",
   "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warum-die-eu-ihre-buerger-nicht-vor-pfas-schuetzen-kann-den-teilweise-giftigen-ewigkeitschemikalien-accg-201695785.html",
@@ -476,6 +478,7 @@
   "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
   "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
   "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
+  "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
   "https://www.france24.com/en/music-strikes-a-chord-at-french-protest",
   "https://www.france24.com/en/new-day-of-protests-across-france",
   "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
