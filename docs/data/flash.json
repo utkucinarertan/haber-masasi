@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T18:27+01:00",
+ "updatedAt": "2026-11-21T18:57+01:00",
  "countries": {
   "world": [
    {
@@ -10,6 +10,24 @@
     "text": {
      "tr": "Ev hapsindeki eski Brezilya Devlet Başkanı Jair Bolsonaro, karın ağrısı şikayetiyle hastaneye kaldırıldı.",
      "de": "Der unter Hausarrest stehende ehemalige brasilianische Präsident Jair Bolsonaro wurde wegen Karınschmerzen ins Krankenhaus gebracht."
+    }
+   },
+   {
+    "time": "2026-11-21T17:23:18+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
+    "text": {
+     "tr": "FBI, ulusal kolluk kuvvetleri veritabanı NCIC'e yönelik büyük bir siber saldırıyı araştırdığını duyurdu.",
+     "de": "Das FBI untersucht einen großen Cyberangriff auf seine nationale Strafverfolgungsdatenbank NCIC."
+    }
+   },
+   {
+    "time": "2026-11-21T17:21:55+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
+    "text": {
+     "tr": "Los Angeles mahkemesi, 2025 Palisades yangınını çıkaran eski sürücü Jonathan Rinderknecht'i suçlu buldu.",
+     "de": "Ein Gericht in Los Angeles hat einen ehemaligen Fahrer schuldig gesprochen, im Jahr 2025 das Palisades-Feuer gelegt zu haben."
     }
    },
    {
@@ -28,24 +46,6 @@
     "text": {
      "tr": "Meksika'da uyuşturucu baronu Fausto Isidro Meza Flores'in yakalanması sırasında şiddetli çatışmalar yaşandı.",
      "de": "Beim Zugriff auf den Drogenboss Fausto Isidro Meza Flores kam es in Mexiko zu heftigen Feuergefechten."
-    }
-   },
-   {
-    "time": "2026-11-21T16:41:49+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
-    "text": {
-     "tr": "Fransa'da bir mahkeme, 2020 yılında siyahi bir müzik yapımcısına saldıran üç polis memurunu ırkçı motifli suçtan hapis cezasına çarptırdı.",
-     "de": "Ein französisches Gericht hat drei Polizisten wegen des rassistisch motivierten Angriffs auf einen schwarzen Musikproduzenten im Jahr 2020 zu Haftstrafen verurteilt."
-    }
-   },
-   {
-    "time": "2026-11-21T16:36:11+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/technology/2026/nov/21/international-talks-control-ai-autonomous-weapons-collapse",
-    "text": {
-     "tr": "BM bünyesinde otonom silahların kullanımını kontrol etmek amacıyla yürütülen uluslararası müzakereler Rusya'nın engellemeleri nedeniyle çöktü.",
-     "de": "Internationale UN-Verhandlungen zur Kontrolle autonomer Waffen sind nach russischer Blockadehaltung gescheitert."
     }
    }
   ],
@@ -98,6 +98,33 @@
   ],
   "de": [
    {
+    "time": "2026-11-21T18:32:19+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+    "text": {
+     "tr": "Anthropic'in yapay zekası, asal sayılarla ilgili yüzyıllık matematik problemi olan Riemann hipotezini çözmüş olabilir.",
+     "de": "Die KI von Anthropic hat möglicherweise das jahrhundertealte mathematische Problem der Riemannschen Vermutung gelöst."
+    }
+   },
+   {
+    "time": "2026-11-21T18:00:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
+    "text": {
+     "tr": "Alman sanayi hanedanının varisi Friedrich Christian Flick 82 yaşında hayatını kaybetti.",
+     "de": "Der Erbe der Industriellendynastie, Friedrich Christian Flick, ist im Alter von 82 Jahren gestorben."
+    }
+   },
+   {
+    "time": "2026-11-21T17:31:47+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
+    "text": {
+     "tr": "Almanya'da polisin düzenlediği operasyonda, Rumeli çetesinin Romanya'dan getirdiği kadınları fuhşa zorladığı ortaya çıkarıldı ve bir kadın öldürüldü.",
+     "de": "Bei Razzien in Deutschland hat die Polizei einen Zuhälterring zerschlagen, der Frauen aus Rumänien zur Prostitution zwang."
+    }
+   },
+   {
     "time": "2026-11-21T17:25:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Alman Çiftçiler Birliği, planlanan AB doğrudan ödeme kesintilerine karşı yeni protestolar düzenleneceğini duyurdu.",
      "de": "Der Deutsche Bauernverband ruft zu neuen Protesten gegen geplante Kürzungen der EU-Direktzahlungen auf."
-    }
-   },
-   {
-    "time": "2026-11-21T17:03:52+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
-    "text": {
-     "tr": "Sol Parti Eş Genel Başkanı Ines Schwerdtner, Berlinli milletvekili Vanessa Emde'nin partiden ihracını talep etti.",
-     "de": "Die Linken-Chefin Ines Schwerdtner fordert den Parteiausschluss der Berliner Abgeordneten Vanessa Emde."
-    }
-   },
-   {
-    "time": "2026-11-21T16:55:59+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
-    "text": {
-     "tr": "Ekonomi Bakanlığı, ocak ayından itibaren yürürlüğe girecek benzin ve dizel fiyat sınırından otoyol benzin istasyonlarını muaf tutmayı planlıyor.",
-     "de": "Wirtschaftsministerin Reiche plant offenbar, Autobahntankstellen vom ab Januar geltenden Spritpreisdeckel für Benzin und Diesel auszunehmen."
-    }
-   },
-   {
-    "time": "2026-11-21T16:46:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss",
-    "text": {
-     "tr": "Oyuncu Gérard Depardieu ve yazar Michel Houellebecq hakkında ortak cinsel saldırı suçlamasıyla soruşturma açıldı.",
-     "de": "Gegen Gérard Depardieu und Michel Houellebecq wird nach Vorwürfen gemeinschaftlicher Vergewaltigung ermittelt."
     }
    }
   ]
@@ -355,6 +355,8 @@
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/kartellchef-chapo-isidro-in-sinaloa-festgenommen-accg-201704391.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/raetselhafte-tylenol-morde-in-chicago-1982-war-es-der-unknown-wanderer-accg-201698529.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/toter-saeugling-in-potsdam-dna-test-von-1-500-frauen-soll-fall-klaeren-accg-201704751.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/bbc-doku-prinzessin-kate-gibt-einblick-in-umgang-mit-krebs-201705230.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/brite-schwimmt-aus-protest-gegen-iran-krieg-durch-strasse-von-hormus-201705223.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/heide-rezepa-zabel-nehme-details-wahr-die-andere-uebersehen-201683118.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
@@ -435,6 +437,7 @@
   "https://www.faz.net/video/meerschweinchen-in-kostuemen-festival-in-el-alto-feiert-andentraditionen-201704925.html",
   "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
   "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
+  "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
   "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
   "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
   "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
@@ -444,9 +447,11 @@
   "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
   "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
   "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
+  "https://www.france24.com/en/fbi-criminal-database-hacked",
   "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
   "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
   "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+  "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
   "https://www.france24.com/en/music-strikes-a-chord-at-french-protest",
   "https://www.france24.com/en/new-day-of-protests-across-france",
   "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
@@ -462,6 +467,7 @@
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
   "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
   "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
+  "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
   "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
   "https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss",
   "https://www.spiegel.de/kultur/literatur/bosco-ruebe-und-die-beweisung-des-weihnachtsmanns-der-beste-verstecker-der-welt-a-bd3b685c-0266-4976-8754-59218afad363#ref=rss",
@@ -510,6 +516,7 @@
   "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
+  "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
   "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
@@ -532,6 +539,7 @@
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
   "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
   "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+  "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
   "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
@@ -567,6 +575,7 @@
   "https://www.welt.de/politik/deutschland/article6b018edc39a3e8110f0e54c2/leipzig-und-bundesweit-vier-kinder-und-mehr-als-40-jugendliche-unter-beschuldigten-nach-gen-z-regelt-krawallen.html",
   "https://www.welt.de/politik/deutschland/article6b01906c45d8681e4fca3d5d/ostsee-drohnenangriff-auf-russischen-frachter-schiff-treibt-in-finnisches-gewaesser.html",
   "https://www.welt.de/politik/deutschland/article6b01b7f94490a28f5fdb845c/protest-in-berlin-gruenen-chef-banaszak-bei-gen-z-demo-wuetend-beschimpft.html",
+  "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
   "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
