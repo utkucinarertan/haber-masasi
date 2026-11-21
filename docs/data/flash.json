@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T22:57+01:00",
+ "updatedAt": "2026-11-21T23:27+01:00",
  "countries": {
   "world": [
    {
@@ -98,6 +98,15 @@
   ],
   "de": [
    {
+    "time": "2026-11-21T22:01:12+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/fussball/2-bundesliga/article6b020f0139a3e8110f0e5da4/2-liga-fc-st-pauli-gleich-zweimal-hellwach-vfl-bochum-verliert-am-millerntor.html",
+    "text": {
+     "tr": "FC St. Pauli, Millerntor'da VfL Bochum'u mağlup etti.",
+     "de": "Der FC St. Pauli besiegte den VfL Bochum am Millerntor."
+    }
+   },
+   {
     "time": "2026-11-21T21:39:30+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/sport/tennis/article6b020c165842ff528b9e3421/atp-finals-nach-den-pfiffen-der-zuschauer-macht-zverev-das-traumfinale-perfekt.html",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "FDP politikacısı ve hukukçu Karoline Preisler, Berlin'deki Filistin yanlısı bir gösteride saldırıya uğrayarak darp edildi.",
      "de": "Die FDP-Politikerin und Juristin Karoline Preisler ist bei einer israelfeindlichen Demonstration in Berlin angegriffen und getreten worden."
-    }
-   },
-   {
-    "time": "2026-11-21T20:02:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
-    "text": {
-     "tr": "Afganistan'da Taliban'ın ahlak polisinin kadınların sağlık hizmetlerine erişimini ve ebelerin eğitimini yasaklaması tıbbi bir krizin doğmasına yol açıyor.",
-     "de": "In Afghanistan unterbinden die Taliban zunehmend die medizinische Versorgung von Frauen und die Ausbildung von Hebammen, was eine humanitäre Krise auslöst."
     }
    }
   ]
@@ -179,6 +179,7 @@
   "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
+  "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
   "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
   "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
   "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko",
@@ -646,6 +647,7 @@
   "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
   "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
   "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
+  "https://www.welt.de/politik/ausland/article6b020ec639a3e8110f0e5d96/israel-eisenkot-laedt-netanjahus-likud-partei-doch-zu-koalitionsgespraechen-ein.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-auch-akademiker-verdienen-respekt-nicht-nur-arbeiter-und-bauern.html",
@@ -666,6 +668,7 @@
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
   "https://www.welt.de/reise/plus6aba209618772248192d7741/london-oder-new-york-der-grosse-vergleich-sorgt-fuer-eine-ueberraschung.html",
+  "https://www.welt.de/sport/fussball/2-bundesliga/article6b020f0139a3e8110f0e5da4/2-liga-fc-st-pauli-gleich-zweimal-hellwach-vfl-bochum-verliert-am-millerntor.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-borussen-duell-noch-torlos-kurioses-vergeben-von-elfmetern-in-frankfurt.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-bvb-holt-tabellenfuehrung-umstrittener-nmecha-erloest-dortmund-erneut.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-kann-der-bvb-im-borussen-duell-den-patzer-der-bayern-nutzen.html",
