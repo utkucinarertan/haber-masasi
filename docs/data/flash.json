@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T19:57+01:00",
+ "updatedAt": "2026-11-21T20:27+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T19:25:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
+    "text": {
+     "tr": "Avrupa Birliği ile Endonezya, gümrük tarifelerini düşürmeyi ve hammadde tedarikini artırmayı hedefleyen kapsamlı bir ticaret anlaşması imzaladı.",
+     "de": "Die Europäische Union und Indonesien haben ein weitreichendes Handelsabkommen zur Senkung von Zöllen und Sicherung von Rohstoffen unterzeichnet."
+    }
+   },
    {
     "time": "2026-11-21T18:26:31+00:00",
     "source": "Die Welt",
@@ -38,18 +47,18 @@
      "tr": "Finlandiya körfezinde bir Rus kargo gemisi drone saldırısı sonucu alev alarak Finlandiya sularına sürüklendi.",
      "de": "Ein russisches Frachtschiff geriet nach einem Drohnenangriff im Finnischen Meerbusen in Brand und trieb in finnische Gewässer ab."
     }
-   },
-   {
-    "time": "2026-11-21T17:24:43+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/21/ev-hapsindeki-eski-brezilya-devlet-baskani-bolsonaro-karin-agrisi-nedeniyle-hastaneye-kald",
-    "text": {
-     "tr": "Ev hapsindeki eski Brezilya Devlet Başkanı Jair Bolsonaro, karın ağrısı şikayetiyle hastaneye kaldırıldı.",
-     "de": "Der unter Hausarrest stehende ehemalige brasilianische Präsident Jair Bolsonaro wurde wegen Karınschmerzen ins Krankenhaus gebracht."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T22:08:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010616/tanju-ozcan-hakkinda-tahliye-karari-baska-dava-kapsaminda-cezaevinde-kalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Bolu Belediyesine yönelik davada hakkında tahliye kararı verilen Tanju Özcan, başka bir dava nedeniyle cezaevinde kalmayı sürdürecek.",
+     "de": "In einem Prozess um die Stadtverwaltung von Bolu wurde Tanju Özcans Freilassung angeordnet, er bleibt jedoch wegen eines anderen Verfahrens in Haft."
+    }
+   },
    {
     "time": "2026-11-21T21:39:00+03:00",
     "source": "Evrensel",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "İstanbul Güngören'de bir inşaatın temel kazısı sırasında meydana gelen göçükte bir işçi hayatını kaybetti.",
      "de": "Bei einem Erdrutsch während Fundamentarbeiten an einer Baustelle in Istanbul-Güngören ist ein Arbeiter ums Leben gekommen."
-    }
-   },
-   {
-    "time": "2026-11-21T19:22:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010604/insaattan-dusen-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Şanlıurfa'da bir inşaatın üçüncü katından düşen işçi Ahmet Beytemur yaşamını yitirdi.",
-     "de": "In Şanlıurfa ist ein Arbeiter nach dem Sturz aus dem dritten Stockwerk einer Baustelle gestorben."
     }
    }
   ],
@@ -335,10 +335,13 @@
   "https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010611/istanbul-a-is-bulmaya-gelmisti-denizde-cesedi-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010614/kocaelispor-fenerbahce-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010615/medikal-hospital-calisanlari-hakkimiz-olani-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010616/tanju-ozcan-hakkinda-tahliye-karari-baska-dava-kapsaminda-cezaevinde-kalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/philosoph-dieter-mersch-warum-ki-niemals-bewusstsein-entwickeln-wird-accg-201634477.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-die-welt-zur-ware-wurde-trevor-jackson-zur-geschichte-des-kapitalismus-201314097.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/vom-vogelschiss-zum-vorbild-die-afd-und-das-jahr-1933-accg-201696487.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/kolumne-kuechenhilfe-zander-mit-kuerbis-und-curry-schaum-accg-201302109.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/women-and-war-dokumentiert-folter-und-sexuelle-gewalt-in-russlands-haft-accg-201685729.html",
@@ -363,6 +366,7 @@
   "https://www.faz.net/aktuell/gesellschaft/menschen/bbc-doku-prinzessin-kate-gibt-einblick-in-umgang-mit-krebs-201705230.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/brite-schwimmt-aus-protest-gegen-iran-krieg-durch-strasse-von-hormus-201705223.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/groesster-juwelier-der-heutigen-zeit-schmuckunternehmer-paolo-bulgari-mit-89-jahren-gestorben-201705269.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/heide-rezepa-zabel-nehme-details-wahr-die-andere-uebersehen-201683118.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/sturm-verwuestet-tupancireta-drei-tote-und-5000-daecher-zerstoert-accg-201704557.html",
@@ -395,6 +399,7 @@
   "https://www.faz.net/aktuell/rhein-main/keine-neue-krawallnacht-nach-den-demos-blieb-es-frankfurt-ruhig-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/irischer-abend-kingfishr-vor-1800-fans-im-zoom-frankfurt-accg-201703967.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/israeli-adi-neuhaus-tritt-beim-deutschen-pianistenpreis-an-accg-201676358.html",
+  "https://www.faz.net/aktuell/rhein-main/kultur/parthenon-puzzle-geloest-so-sah-der-ostgiebel-des-tempels-einmal-aus-accg-201691350.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/stadtschreiberhaus-bergen-enkheim-renovierung-nach-kritik-accg-201241492.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/aufstand-in-der-spd-was-koennte-felix-schwenke-besser-machen-accg-201694554.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/taubertsbergbad-in-mainz-mit-riesenrutsche-und-spa-neu-eroeffnet-accg-201701519.html",
@@ -485,6 +490,7 @@
   "https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss",
   "https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores-a-0485868c-060d-4086-b981-5bb0611f6c9c#ref=rss",
   "https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss",
+  "https://www.spiegel.de/panorama/leute/paolo-bulgari-ist-tot-a-ab7092f4-e320-4cd2-8262-9f86d8399442#ref=rss",
   "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
   "https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss",
   "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
@@ -500,9 +506,11 @@
   "https://www.spiegel.de/start/arbeitsmarkt-fuer-welche-jungen-akademiker-die-jobsuche-immer-schwerer-wird-a-003279ec-e410-4a3d-830a-666366670b74#ref=rss",
   "https://www.spiegel.de/stil/boyfriend-blush-frauen-wollen-erroeten-wie-maenner-wars-das-mit-der-emanzipation-a-e82150e3-ca1d-4efd-ba05-f63a1ae8be68#ref=rss",
   "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+  "https://www.spiegel.de/wirtschaft/eu-und-indonesien-unterzeichnen-weitreichenden-handelspakt-a-169be32d-6dd7-4308-8329-005d9e97b0bc#ref=rss",
   "https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
   "https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
+  "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
   "https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss",
   "https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale-a-1beb060c-afd7-45c3-8da2-6663214f4dd7#ref=rss",
@@ -528,6 +536,9 @@
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
   "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+  "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
   "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
   "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
   "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
@@ -545,6 +556,7 @@
   "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
   "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
   "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
+  "https://www.theguardian.com/us-news/2026/nov/21/louisiana-mississippi-hiking-trail-crossbow-murder-charges",
   "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
   "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
