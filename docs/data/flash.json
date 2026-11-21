@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T07:21+01:00",
+ "updatedAt": "2026-11-21T07:51+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T07:42:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
+    "text": {
+     "tr": "Hackerler, FBI'a ait önemli bir veritabanı ile ABD Tarım Bakanlığı'nın ödeme sistemine sızdı.",
+     "de": "Hacker sind nach Medienberichten in eine wichtige Datenbank des FBI sowie in ein System des US-Agrarministeriums eingedrungen."
+    }
+   },
    {
     "time": "2026-11-21T07:00:27+01:00",
     "source": "Euronews Türkçe",
@@ -38,18 +47,45 @@
      "tr": "Ukrayna Devlet Başkanı Zelenskiy, Donald Trump'ın Rusya lideri Putin'i dost olarak nitelendirmesine tepki gösterdi.",
      "de": "Der ukrainische Präsident Selenskyj hat scharf auf Äußerungen von Donald Trump reagiert, der Wladimir Putin als Freund bezeichnete."
     }
-   },
-   {
-    "time": "2026-11-21T04:16:36+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
-    "text": {
-     "tr": "Peru'nun merkezinde meydana gelen 6,3 büyüklüğündeki deprem başkent Lima'da da hissedildi.",
-     "de": "Ein schweres Erdbeben der Stärke 6,3 hat das Zentrum von Peru erschüttert und war bis Lima spürbar."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T09:45:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010506/akp-li-erzurum-buyuksehir-belediyesinin-sayistay-raporu-9-milyarlik-ihalelerde-usulsuzlukler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Sayıştay raporunda, AKP yönetimindeki Erzurum Büyükşehir Belediyesinin 9 milyar liralık ihalelerinde usulsüzlükler tespit edildi.",
+     "de": "Ein Bericht des Rechnungshofs moniert Unregelmäßigkeiten bei Vergaben der von der AKP geführten Stadtverwaltung Erzurum im Wert von neun Milliarden Lira."
+    }
+   },
+   {
+    "time": "2026-11-21T09:41:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010504/samsun-da-ekolojik-yikim-buyuyor-tarim-alanlari-daraliyor-kiyilar-yok-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Samsun'daki taş ocakları, sanayi tesisleri ve kıyı dolguları tarım alanlarını daraltarak ekolojik yıkımı artırıyor.",
+     "de": "Steinbrüche, Industrieanlagen und Küstenaufschüttungen in Samsun verkleinern die Ackerflächen und verstärken die ökologische Zerstörung."
+    }
+   },
+   {
+    "time": "2026-11-21T09:24:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010503/slovakya-da-gencler-sokakta-savasa-degil-gelecege-butce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Slovakya'nın başkenti Bratislava'da sokağa çıkan gençler, savaşa değil eğitime ve sosyal hizmetlere bütçe ayrılmasını istedi.",
+     "de": "Jugendliche forderten in der slowakischen Hauptstadt Bratislava bei Protesten mehr Budget für Bildung und soziale Dienste statt für Kriege."
+    }
+   },
+   {
+    "time": "2026-11-21T09:22:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010502/ekrem-imamoglu-ndan-surecle-ilgili-mektup-iktidari-desteklemiyorum-ama-barisi-destekliyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Tutuklu İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, iktidarı desteklemediğini ancak ülkenin barışını desteklediğini belirtti.",
+     "de": "Der inhaftierte Istanbuler Bürgermeister Ekrem İmamoğlu erklärte in einem Brief, er unterstütze nicht die Regierung, wohl aber den Frieden."
+    }
+   },
    {
     "time": "2026-11-21T08:38:00+03:00",
     "source": "Evrensel",
@@ -57,33 +93,6 @@
     "text": {
      "tr": "Ankara'da gece saatlerinde başlayan sağanak yağış sabah saatlerinde de etkisini sürdürmeye devam ediyor.",
      "de": "In Ankara sorgt nächtlicher Starkregen auch am Morgen weiterhin für Behinderungen."
-    }
-   },
-   {
-    "time": "2026-11-21T07:59:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010500/meteoroloji-den-yagisli-hava-uyarisi-hava-sicakliklari-2-ila-6-derece-azalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Meteoroloji, kuvvetli yağışlar nedeniyle bazı iller için sarı kodlu uyarıda bulunurken sıcaklıkların 2 ila 6 derece azalacağını açıkladı.",
-     "de": "Der türkische Wetterdienst warnt vor starken Regenfällen und sinkenden Temperaturen zwischen zwei und sechs Grad."
-    }
-   },
-   {
-    "time": "2026-11-21T07:39:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İstanbul Büyükşehir Belediyesi'nin 2027 mali yılı 565 milyar liralık bütçesi oy çokluğuyla kabul edildi.",
-     "de": "Das Haushaltsvolumen der Stadt Istanbul für das Jahr 2027 wurde mit 565 Milliarden Lira mehrheitlich angenommen."
-    }
-   },
-   {
-    "time": "2026-11-21T07:27:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010497/spk-den-baticim-hisselerine-gecici-islem-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Sermaye Piyasası Kurulu, Batıçim pay piyasasındaki işlemler nedeniyle BR Madencilik'e 6 ay geçici işlem yasağı getirdi.",
-     "de": "Die türkische Kapitalmarktbehörde hat gegen BR Madencilik wegen Transaktionen bei Batıçim-Aktien ein sechsmonatiges Handelsverbot verhängt."
     }
    }
   ],
@@ -95,6 +104,15 @@
     "text": {
      "tr": "Almanya'da hükümet politikalarına karşı düzenlenen gençlik protestolarında polis müdahalesi sonucu arbede çıktı.",
      "de": "Bei Jugendprotesten gegen die Regierungspolitik in Deutschland kam es nach Polizeieingriffen zu vereinzelten Ausschreitungen."
+    }
+   },
+   {
+    "time": "2026-11-21T07:16:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+    "text": {
+     "tr": "Federal hükümet için hazırlanan gizli bir raporda, Almanya'daki otoyolların finansmanı için otomobil geçiş ücreti (Pkw-Maut) önerildi.",
+     "de": "Ein vertrauliches Gutachten für die Bundesregierung empfiehlt die Einführung einer Pkw-Maut zur langfristigen Finanzierung der Autobahnen."
     }
    },
    {
@@ -130,7 +148,9 @@
   "https://tr.euronews.com/2026/11/21/ab-ekonomisi-save-soil-toprak-bozulmasinin-509-milyar-avroya-kadar-mal-olabilecegini-ongor",
   "https://tr.euronews.com/2026/11/21/asyanin-az-bilinen-kayak-merkezleri-kis-tatilinde-alternatif-rotalar",
   "https://tr.euronews.com/2026/11/21/avrupa-kutup-girdabi-sonrasi-soguk-kisa-hazirlaniyor-isi-pompalari-faturalari-dusurebilir",
+  "https://tr.euronews.com/2026/11/21/bes-ab-ulkesinin-gocmenleri-ruandaya-gonderme-plani-hukuka-uygun-mu",
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
+  "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
   "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
   "https://www.cumhuriyet.com.tr/yasam/bursa-nin-yani-basinda-rengarenk-cumbali-evleri-ile-sanat-koyu-misi-2557504",
   "https://www.evrensel.net/haber/6010496/almanya-da-hukumet-politikalarini-protesto-eylemine-polis-mudahalesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -139,20 +159,32 @@
   "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010500/meteoroloji-den-yagisli-hava-uyarisi-hava-sicakliklari-2-ila-6-derece-azalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010501/ankara-da-saganak-etkili-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010502/ekrem-imamoglu-ndan-surecle-ilgili-mektup-iktidari-desteklemiyorum-ama-barisi-destekliyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010503/slovakya-da-gencler-sokakta-savasa-degil-gelecege-butce?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010504/samsun-da-ekolojik-yikim-buyuyor-tarim-alanlari-daraliyor-kiyilar-yok-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010505/abd-de-cin-e-cip-ihracati-tartismasi-schumer-trump-i-ulusal-guvenligi-tehlikeye-atmakla-sucladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010506/akp-li-erzurum-buyuksehir-belediyesinin-sayistay-raporu-9-milyarlik-ihalelerde-usulsuzlukler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel-faz-19444916.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-hochspannung-stoert-die-stadtentwicklung-nicht-accg-201688481.html",
   "https://www.faz.net/podcasts/ukraine-verhandlungen-mehr-symbolik-als-substanz-201703144.html",
+  "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
+  "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
+  "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
+  "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
   "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
+  "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
   "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
-  "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html"
+  "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
+  "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html"
  ]
 }
