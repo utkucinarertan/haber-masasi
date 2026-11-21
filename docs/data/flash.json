@@ -1,8 +1,77 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T05:21+01:00",
- "countries": {},
+ "updatedAt": "2026-11-21T05:51+01:00",
+ "countries": {
+  "world": [
+   {
+    "time": "2026-11-21T04:34:00+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
+    "text": {
+     "tr": "Los Angeles'ta 12 kişinin ölümüne ve binlerce binanın yıkılmasına yol açan orman yangınlarını çıkaran kişi mahkum edildi.",
+     "de": "Ein Mann wurde in Los Angeles wegen Brandstiftung verurteilt, die Waldbrände mit 12 Toten und tausenden zerstörten Gebäuden auslöste."
+    }
+   },
+   {
+    "time": "2026-11-21T04:32:50+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+    "text": {
+     "tr": "Ukrayna Devlet Başkanı Zelenskiy, Donald Trump'ın Rusya lideri Putin'i dost olarak nitelendirmesine tepki gösterdi.",
+     "de": "Der ukrainische Präsident Selenskyj hat scharf auf Äußerungen von Donald Trump reagiert, der Wladimir Putin als Freund bezeichnete."
+    }
+   },
+   {
+    "time": "2026-11-21T04:16:36+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
+    "text": {
+     "tr": "Peru'nun merkezinde meydana gelen 6,3 büyüklüğündeki deprem başkent Lima'da da hissedildi.",
+     "de": "Ein schweres Erdbeben der Stärke 6,3 hat das Zentrum von Peru erschüttert und war bis Lima spürbar."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-21T07:39:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İstanbul Büyükşehir Belediyesi'nin 2027 mali yılı 565 milyar liralık bütçesi oy çokluğuyla kabul edildi.",
+     "de": "Das Haushaltsvolumen der Stadt Istanbul für das Jahr 2027 wurde mit 565 Milliarden Lira mehrheitlich angenommen."
+    }
+   },
+   {
+    "time": "2026-11-21T07:27:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010497/spk-den-baticim-hisselerine-gecici-islem-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, Batıçim pay piyasasındaki işlemler nedeniyle BR Madencilik'e 6 ay geçici işlem yasağı getirdi.",
+     "de": "Die türkische Kapitalmarktbehörde hat gegen BR Madencilik wegen Transaktionen bei Batıçim-Aktien ein sechsmonatiges Handelsverbot verhängt."
+    }
+   }
+  ],
+  "de": [
+   {
+    "time": "2026-11-21T07:18:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010496/almanya-da-hukumet-politikalarini-protesto-eylemine-polis-mudahalesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Almanya'da hükümet politikalarına karşı düzenlenen gençlik protestolarında polis müdahalesi sonucu arbede çıktı.",
+     "de": "Bei Jugendprotesten gegen die Regierungspolitik in Deutschland kam es nach Polizeieingriffen zu vereinzelten Ausschreitungen."
+    }
+   }
+  ]
+ },
  "seen": [
-  "https://www.cumhuriyet.com.tr/yasam/bursa-nin-yani-basinda-rengarenk-cumbali-evleri-ile-sanat-koyu-misi-2557504"
+  "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
+  "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
+  "https://www.cumhuriyet.com.tr/yasam/bursa-nin-yani-basinda-rengarenk-cumbali-evleri-ile-sanat-koyu-misi-2557504",
+  "https://www.evrensel.net/haber/6010496/almanya-da-hukumet-politikalarini-protesto-eylemine-polis-mudahalesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010497/spk-den-baticim-hisselerine-gecici-islem-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010498/istanbul-da-ogrenciler-toplu-ulasimda-1-liraya-yolculuk-yapacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html"
  ]
 }
