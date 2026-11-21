@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T11:21+01:00",
+ "updatedAt": "2026-11-21T11:51+01:00",
  "countries": {
   "world": [
    {
@@ -40,16 +40,34 @@
     }
    },
    {
-    "time": "2026-11-21T10:01:02+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/21/estonya-rusya-sinirindaki-tum-kara-yolu-gecislerini-kapatma-karari-aldi",
+    "time": "2026-11-21T10:32:36+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
     "text": {
-     "tr": "Estonya, Rus askeri istihbaratının sorumluluğunda gerçekleşen kundaklama girişimi nedeniyle Rusya sınırındaki tüm kara yolu geçişlerini kapatma kararı aldı.",
-     "de": "Estland hat entschieden, alle Straßengrenzübergänge zu Russland zu schließen, nachdem ein Brandanschlag dem russischen Geheimdienst zugeschrieben wurde."
+     "tr": "Avrupa Komisyonu Başkanı Ursula von der Leyen, Danimarka'da bir ABD-Ukrayna vatandaşına yönelik suikast planını kınadı.",
+     "de": "EU-Kommissionspräsidentin Ursula von der Leyen verurteilte einen mutmaßlichen russischen Mordkomplott gegen einen US-ukrainischen Bürger in Dänemark."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T13:42:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010546/isgal-altindaki-dogu-kudus-te-filistinli-bir-cocuk-hayatini-kaybetti-suafat-multeci-kampi-nda-okul-onunde-silahli-saldiri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İşgal altındaki Doğu Kudüs'ün Şuafat Mülteci Kampı'nda 10 yaşındaki Kusay Muhammed el-Golani silahlı saldırı sonucu hayatını kaybetti.",
+     "de": "Im Flüchtlingslager Shuafat in Ostjerusalem wurde ein zehnjähriger palästinensischer Junge durch Schüsse getötet."
+    }
+   },
+   {
+    "time": "2026-11-21T13:28:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010543/turkiye-nin-suriye-deki-6-yuksekogretim-birimi-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "YÖK kararıyla Türkiye'nin Suriye'de faaliyet gösteren 6 fakülte ve yüksekokulu Şam'a devredilerek kapatıldı.",
+     "de": "Der türkische Hochschulrat hat sechs in Syrien betriebene Fakultäten an Damaskus übergeben und geschlossen."
+    }
+   },
    {
     "time": "2026-11-21T13:15:00+03:00",
     "source": "Evrensel",
@@ -76,27 +94,18 @@
      "tr": "DEM Parti milletvekili Perihan Koca, Ankara Soğuksu Milli Parkı'nda anne ayı ile yavrusunun öldürüldüğü iddialarını Meclis'e taşıdı.",
      "de": "Die DEM-Abgeordnete Perihan Koca brachte Berichte über die Tötung einer Bäurin mit ihrem Jungtier im Soğuksu-Nationalpark in Ankara ins Parlament."
     }
-   },
-   {
-    "time": "2026-11-21T12:22:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010531/polonya-daki-fuze-gerilimi-nato-nun-askeri-yiginak-planlarini-gundeme-getirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Rusya'nın saldırıları sırasında füzelerin Polonya topraklarına düşmesinin ardından Varşova NATO'dan ek askeri destek istedi.",
-     "de": "Nachdem während russischer Angriffe Raketen auf polnisches Gebiet fielen, forderte Warschau zusätzliche militärische Unterstützung von der NATO an."
-    }
-   },
-   {
-    "time": "2026-11-21T12:17:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010530/bedriye-naz-in-olumune-iliskin-davada-tanik-ifadeleri-sanik-levent-naz-onu-asagi-attim-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Mardin'de Bedriye Naz'ın 5. kattan düşerek ölmesine ilişkin davada tanıklar, sanık eşin 'Onu aşağı attım' dediğini aktardı.",
-     "de": "Im Prozess um den Tod von Bedriye Naz in Mardin sagten Zeugen aus, der angeklagte Ehemann habe geäußert, er habe sie hinabgestürzt."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-21T11:20:52+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
+    "text": {
+     "tr": "Alman federal hükümeti, gelecek yıldan itibaren emeklilik birikim sistemini yeniden yapılandırıyor.",
+     "de": "Die Bundesregierung stellt die Altersvorsorge ab dem kommenden Jahr mit einem neuen Depot neu auf."
+    }
+   },
    {
     "time": "2026-11-21T10:39:17+01:00",
     "source": "tagesschau",
@@ -132,15 +141,6 @@
      "tr": "Almanya'daki domuz çiftliklerine destek için 25 milyon euroluk acil yardım paketi açıklandı.",
      "de": "Schweinehalter in Deutschland erhalten Liquiditätshilfen in Höhe von 25 Millionen Euro aus einem Notfallprogramm."
     }
-   },
-   {
-    "time": "2026-11-21T09:19:54+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
-    "text": {
-     "tr": "Bayern Münih forması giyen Harry Kane sakatlığı nedeniyle uzun süre sahalardan uzak kalacak, Michael Olise de sakatlandı.",
-     "de": "Der FC Bayern München muss monatelang auf den verletzten Harry Kane verzichten, auch Michael Olise zog sich eine Verletzung zu."
-    }
    }
   ]
  },
@@ -157,25 +157,30 @@
   "https://tr.euronews.com/2026/11/21/trumpin-putine-arkadasim-demesine-zelenskiyden-tepki-o-bir-katil",
   "https://tr.euronews.com/2026/11/21/trumpin-washingtondaki-zafer-taki-projesine-mahkemeden-ikinci-engel",
   "https://tr.euronews.com/2026/11/21/yeni-calisma-kronik-yalnizlik-demans-riskini-yuzde-38-artiriyor",
+  "https://tr.euronews.com/video/2026/11/21/japonyada-otonom-hava-taksisi-pilotsuz-yolcu-ucusunu-tamamladi",
   "https://tr.euronews.com/video/2026/11/21/pentagon-uap-karsilasmalarina-dair-yeni-gizliligi-kaldirilmis-dosyalari-yayimladi",
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
   "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
   "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
+  "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
   "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
   "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko",
   "https://www.bbc.com/turkce/articles/c8e39lrep7vro",
+  "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o",
   "https://www.bbc.com/turkce/articles/ck987ypp95ddo",
   "https://www.bbc.com/turkce/articles/cq8j40d29kneo",
   "https://www.bbc.com/turkce/articles/cx24e1g1el4ro",
   "https://www.cumhuriyet.com.tr/yasam/bursa-nin-yani-basinda-rengarenk-cumbali-evleri-ile-sanat-koyu-misi-2557504",
+  "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428",
   "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
   "https://www.dw.com/tr/almanya-da-iktidara-yaklaşan-afd-neonazilere-ne-kadar-yakın/a-79993810",
   "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945",
   "https://www.dw.com/tr/can-atalay-aym-ve-ai̇hm-hakkımda-daha-kaç-karar-vermeli/a-80008364",
   "https://www.dw.com/tr/cop31-antalya-uzlaşma-sağlanamadı-müzakereler-uzadı/a-80008437",
   "https://www.dw.com/tr/türkiye-de-antibiyotik-tüketimi-almanya-nın-neden-üç-katı/a-80004311",
+  "https://www.dw.com/tr/yök-suriye-deki-türk-fakülteleri-şam-a-devrediliyor/a-80009045",
   "https://www.evrensel.net/haber/6010496/almanya-da-hukumet-politikalarini-protesto-eylemine-polis-mudahalesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010497/spk-den-baticim-hisselerine-gecici-islem-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010498/istanbul-da-ogrenciler-toplu-ulasimda-1-liraya-yolculuk-yapacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -219,8 +224,17 @@
   "https://www.evrensel.net/haber/6010537/genel-is-izmir-11-no-lu-sube-genel-kurulu-birlik-ve-mucadele-vurgusu-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010538/samsun-da-saganak-nedeniyle-yol-coktu-araclar-zarar-gordu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010539/urfa-da-is-cinayeti-insaattan-dusen-isci-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010540/dersim-de-somurge-madenciligi-calistayi-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010541/dem-partili-koca-idyros-antik-kenti-ndeki-otel-insaatini-meclis-gundemine-tasidi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010542/kocaeli-de-saganak-cadde-ve-sokaklari-su-altinda-birakti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010543/turkiye-nin-suriye-deki-6-yuksekogretim-birimi-kapatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010544/denizli-de-mantar-zehirlenmesi-1-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010545/yusuf-tekin-istifa-bildirisi-dagittilar-gozaltina-alindilar-yurt-odalari-arandi-iskur-dan-cikarildilar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010546/isgal-altindaki-dogu-kudus-te-filistinli-bir-cocuk-hayatini-kaybetti-suafat-multeci-kampi-nda-okul-onunde-silahli-saldiri?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/feuilleton/debatten/vom-vogelschiss-zum-vorbild-die-afd-und-das-jahr-1933-accg-201696487.html",
+  "https://www.faz.net/aktuell/feuilleton/kolumnen/kolumne-kuechenhilfe-zander-mit-kuerbis-und-curry-schaum-accg-201302109.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/women-and-war-dokumentiert-folter-und-sexuelle-gewalt-in-russlands-haft-accg-201685729.html",
+  "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/kevin-allein-zu-haus-soll-fortgesetzt-werden-mit-macaulay-culkin-accg-201704219.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presserat-fordert-auskunftsrecht-auf-bundesebene-accg-201700875.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-unter-datenschutz-pruefung-was-steckt-hinter-dem-datenklau-accg-201701211.html",
@@ -246,26 +260,34 @@
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-in-las-vegas-verstappen-vor-russell-antonelli-bestraft-accg-201704221.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-laesst-jamal-musiala-diskussion-eskalieren-accg-201703349.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-verletzungsschock-durch-harry-kane-und-michael-olise-accg-201704300.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/pressestimmen-zum-fc-bayern-muenchen-nach-ausfaellen-von-kane-und-olise-accg-201704452.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-werder-bremen-verlaengert-mit-trainer-daniel-thioune-18134600.html",
   "https://www.faz.net/aktuell/sport/fussball/philipp-lahm-ueber-juergen-klopp-was-die-bundesliga-vom-bundestrainer-lernen-kann-accg-201694317.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/franz-wagner-und-moritz-wagner-spielen-in-nba-gegeneinander-accg-201704480.html",
   "https://www.faz.net/aktuell/technik-motor/motor/henry-nadig-der-vergessene-automobilpionier-aus-odernheim-am-glan-accg-201606247.html",
   "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/chatgpt-und-gemini-welchen-einfluss-werbung-auf-ki-antworten-nimmt-accg-201629258.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-aktie-faellt-um-14-prozent-sec-ermittelt-accg-201704341.html",
   "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/sport-gegen-depression-was-wirklich-hilft-und-wie-man-anfaengt-accg-201340324.html",
+  "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/warum-die-eu-ihre-buerger-nicht-vor-pfas-schuetzen-kann-den-teilweise-giftigen-ewigkeitschemikalien-accg-201695785.html",
   "https://www.faz.net/podcasts/ukraine-verhandlungen-mehr-symbolik-als-substanz-201703144.html",
+  "https://www.faz.net/video/gen-z-auf-der-strasse-wehrpflicht-bildung-und-sozialkuerzungen-im-fokus-201704456.html",
   "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
   "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
   "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
+  "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
   "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
   "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
   "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
   "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
+  "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
   "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
   "https://www.spiegel.de/kultur/literatur/bosco-ruebe-und-die-beweisung-des-weihnachtsmanns-der-beste-verstecker-der-welt-a-bd3b685c-0266-4976-8754-59218afad363#ref=rss",
   "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
+  "https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss",
   "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
   "https://www.spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce#ref=rss",
@@ -285,6 +307,7 @@
   "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
+  "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
   "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
@@ -295,20 +318,25 @@
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
   "https://www.welt.de/debatte/article6affe19e39a3e8110f0e331f/berlin-die-linken-sind-wenigstens-ehrlich.html",
+  "https://www.welt.de/debatte/plus6afefc0d9c68d2fcf0c7d11c/verfassungsschutz-der-islam-und-seine-beipackzettel.html",
   "https://www.welt.de/debatte/plus6b0039955842ff528b9e1a14/hisbollah-einfluss-ich-will-mich-nicht-integrieren-dieser-berliner-wird-als-beispiel-fuer-integration-hofiert.html",
   "https://www.welt.de/debatte/plus6b005235be487c54377474f3/streit-um-helsing-die-empoerung-der-berliner-clubszene-ueber-die-drohnen-ist-verlogen.html",
   "https://www.welt.de/finanzen/plus6b001fa1b237b5b41c9a247f/aktien-gold-bitcoin-dieser-eine-grund-steckt-hinter-dem-grossen-ausverkauf.html",
   "https://www.welt.de/geschichte/article6afd8eefa883f861e5330bb4/friedrich-carl-vom-bruck-der-nazi-der-hitler-durchschaute.html",
+  "https://www.welt.de/kultur/plus6af5ac1e5596369bf0edcfe6/putinfluencerinnen-drei-frauen-fuer-den-kreml.html",
+  "https://www.welt.de/kultur/plus6afaf9eff3f8db1dd9f41ae0/wetterdepressionen-wie-ich-mich-und-meine-kinder-vor-der-klimaangst-beschuetze.html",
   "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6affeb0d39a3e8110f0e33fb/ende-romantischer-illusionen-kein-koalitionsbruch-wird-das-buergertum-retten.html",
   "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
+  "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6afffc3dbe487c5437746988/spd-in-der-krise-fuer-solche-selbstbeschaeftigung-werden-wir-nicht-gewaehlt.html",
   "https://www.welt.de/politik/deutschland/article6b0147fa39a3e8110f0e4f4e/finanzreform-nicht-ausreichend-geheimes-gutachten-bringt-pkw-maut-wieder-ins-spiel.html",
   "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b0166135842ff528b9e2aa9/fc-bayern-eberl-widerspricht-rummenigge-die-zwei-lager-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
   "https://www.welt.de/vermischtes/article6b014fe95842ff528b9e2954/weihnachtsmaerkte-rassismus-kritik-an-lumumba-jetzt-sind-auch-lumi-und-lumamba-umstritten.html",
   "https://www.welt.de/vermischtes/plus6b002c51b237b5b41c9a266e/partnerschaft-fuer-einen-mann-gebe-ich-meine-wohnung-nicht-noch-einmal-auf.html",
