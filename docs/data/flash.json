@@ -1,8 +1,26 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T20:27+01:00",
+ "updatedAt": "2026-11-21T20:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T19:56:39+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+    "text": {
+     "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin memleketi Kropyvnytskyi'ye düzenlenen Rus füze saldırısında 2 kişi hayatını kaybetti, onlarca kişi yaralandı.",
+     "de": "Bei einem russischen Raketenangriff auf die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj wurden zwei Menschen getötet und Dutzende verletzt."
+    }
+   },
+   {
+    "time": "2026-11-21T19:42:42+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
+    "text": {
+     "tr": "İngiltere'nin Bradford kentinde görev başında bıçaklanan yerel meclis üyesi Ibrar Ali'ye saldırıyla ilgili bir kişi cinayete teşebbüsle suçlandı.",
+     "de": "Nach einer Messerattacke auf einen Kommunalpolitiker im britischen Bradford wurde ein 31-jährigen Mann wegen versuchten Mordes angeklagt."
+    }
+   },
    {
     "time": "2026-11-21T19:25:00+01:00",
     "source": "Der Spiegel",
@@ -29,27 +47,27 @@
      "tr": "İngiltere'nin Suffolk bölgesindeki Barnham köyü sakinleri, yakınlardaki eski bir üsse sığınmacı yerleştirilmesi planına tepki olarak simgesel bir referandumla İngiltere'den ayrılma yönünde oy kullandı.",
      "de": "Bewohner eines Dorfes in Suffolk haben in einer symbolischen Abstimmung für den Austritt aus Großbritannien gestimmt, um gegen geplante Flüchtlingsunterkünfte zu protestieren."
     }
-   },
-   {
-    "time": "2026-11-21T18:08:30+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, federal müteahhitlerin Kongre sorgulamaları konusunda Beyaz Saray'a danışmasını zorunlu kılan bir kararname imzaladı.",
-     "de": "US-Präsident Donald Trump hat per Dekret angeordnet, dass Bundesauftragnehmer sich bei Kongressanfragen mit dem Weißen Haus abstimmen müssen."
-    }
-   },
-   {
-    "time": "2026-11-21T18:02:23+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
-    "text": {
-     "tr": "Finlandiya körfezinde bir Rus kargo gemisi drone saldırısı sonucu alev alarak Finlandiya sularına sürüklendi.",
-     "de": "Ein russisches Frachtschiff geriet nach einem Drohnenangriff im Finnischen Meerbusen in Brand und trieb in finnische Gewässer ab."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T22:52:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010618/antalya-da-kadin-cinayeti-evli-oldugu-kadini-oldurup-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Antalya'da Hasan Ergün, evli olduğu Fatma Ergün'ü silahla öldürdükten sonra aynı silahla intihar etti.",
+     "de": "In Antalya hat ein Mann seine Ehefrau getötet und anschließend Suizid begangen."
+    }
+   },
+   {
+    "time": "2026-11-21T22:35:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010617/mhp-genel-baskan-yardimcisi-feti-yildiz-4-bin-897-pkk-hukumlusunden-2-bin-800-u-kanundan-faydalanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "MHP Genel Başkan Yardımcısı Feti Yıldız, cezaevindeki 4 bin 897 PKK hükümlüsünden 2 bin 800'ünün planlanan kanundan faydalanabileceğini açıkladı.",
+     "de": "Der MHP-Vizevorsitzende Feti Yıldız erklärte, dass von rund 4897 PKK-Gefangenen etwa 2800 von einem geplanten Gesetz profitieren könnten."
+    }
+   },
    {
     "time": "2026-11-21T22:08:00+03:00",
     "source": "Evrensel",
@@ -76,27 +94,45 @@
      "tr": "Türkiye İşçi Partisi Genel Başkanı Erkan Baş, Burhaniye'de düzenlenen mitingde yurttaşlara çağrıda bulundu.",
      "de": "Der Vorsitzende der Arbeiterpartei der Türkei, Erkan Baş, hielt eine Kundgebung in Burhaniye ab."
     }
-   },
-   {
-    "time": "2026-11-21T19:53:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010608/pazar-plani-yapanlar-dikkat-meteorolojiden-21-il-icin-sari-alarm?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Meteoroloji, olumsuz hava koşulları nedeniyle 21 il için sarı alarm verdi.",
-     "de": "Das türkische Meteorologieamt hat wegen vorhergesagter Regenfälle für 21 Provinzen eine Warnung herausgegeben."
-    }
-   },
-   {
-    "time": "2026-11-21T19:27:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010605/istanbul-da-temel-kazisi-sirasinda-gocuk-1-isci-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İstanbul Güngören'de bir inşaatın temel kazısı sırasında meydana gelen göçükte bir işçi hayatını kaybetti.",
-     "de": "Bei einem Erdrutsch während Fundamentarbeiten an einer Baustelle in Istanbul-Güngören ist ein Arbeiter ums Leben gekommen."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-21T20:54:06+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
+    "text": {
+     "tr": "Hollanda'da Chemours fabrikası çevresindeki PFAS kirliliği nedeniyle vatandaşlar kendi bahçelerinden meyve yememeleri konusunda uyarılırken protestolar düzenlendi.",
+     "de": "In den Niederlanden protestieren Bürger gegen eine starke PFAS-Verseuchung rund um die Chemours-Fabrik und wurden vor dem Verzehr von Gartenobst gewarnt."
+    }
+   },
+   {
+    "time": "2026-11-21T20:02:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
+    "text": {
+     "tr": "Afganistan'da Taliban'ın ahlak polisinin kadınların sağlık hizmetlerine erişimini ve ebelerin eğitimini yasaklaması tıbbi bir krizin doğmasına yol açıyor.",
+     "de": "In Afghanistan unterbinden die Taliban zunehmend die medizinische Versorgung von Frauen und die Ausbildung von Hebammen, was eine humanitäre Krise auslöst."
+    }
+   },
+   {
+    "time": "2026-11-21T19:30:50+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-wieder-kein-tor-aber-immerhin-ein-punkt-fuer-schalke-04-gegen-vfb-stuttgart-201304421.html",
+    "text": {
+     "tr": "Almanya Bundesliga maçında Schalke 04, VfB Stuttgart ile 0-0 berabere kalarak kendi sahasındaki maçlarda bu sezon da gol atamadı.",
+     "de": "Schalke 04 spielte in der Bundesliga 0:0 gegen den VfB Stuttgart und wartet damit auch im fünften Heimspiel weiter auf das erste Saisontor."
+    }
+   },
+   {
+    "time": "2026-11-21T19:24:20+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
+    "text": {
+     "tr": "Nürnberg'de yaklaşık 70 milyon euroluk kesinti öngören bütçe görüşmeleri sırasında protestocular belediye meclisini basarak arbedeye neden oldu.",
+     "de": "Demonstranten haben in Nürnberg die Beratungen über einen harten Sparkurses im Rathaus gestört und zu heftigen Tumulten geführt."
+    }
+   },
    {
     "time": "2026-11-21T18:33:00+01:00",
     "source": "Der Spiegel",
@@ -104,42 +140,6 @@
     "text": {
      "tr": "Rus e-ticaret devi Wildberries'in kurucusu ve yöneticisi Tatjana Kim, AB yaptırımlarının ardından görevinden ayrıldı.",
      "de": "Tatjana Kim, die Chefin des russischen Onlinehändlers Wildberries, ist nach EU-Sanktionen von ihrem Führungsposten zurückgetreten."
-    }
-   },
-   {
-    "time": "2026-11-21T18:32:19+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
-    "text": {
-     "tr": "Anthropic'in yapay zekası, asal sayılarla ilgili yüzyıllık matematik problemi olan Riemann hipotezini çözmüş olabilir.",
-     "de": "Die KI von Anthropic hat möglicherweise das jahrhundertealte mathematische Problem der Riemannschen Vermutung gelöst."
-    }
-   },
-   {
-    "time": "2026-11-21T18:30:03+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b01de5539a3e8110f0e5ae1/unternehmensgruppe-wahre-kreative-seele-schmuckunternehmer-paolo-bulgari-stirbt-mit-89.html",
-    "text": {
-     "tr": "İtalyan mücevher markası Bulgari'nin yöneticisi ve tasarımcısı Paolo Bulgari 89 yaşında hayatını kaybetti.",
-     "de": "Der italienische Schmuckunternehmer und Designer Paolo Bulgari ist im Alter von 89 Jahren gestorben."
-    }
-   },
-   {
-    "time": "2026-11-21T18:00:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
-    "text": {
-     "tr": "Alman sanayi hanedanının varisi Friedrich Christian Flick 82 yaşında hayatını kaybetti.",
-     "de": "Der Erbe der Industriellendynastie, Friedrich Christian Flick, ist im Alter von 82 Jahren gestorben."
-    }
-   },
-   {
-    "time": "2026-11-21T17:31:47+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
-    "text": {
-     "tr": "Almanya'da polisin düzenlediği operasyonda, Rumeli çetesinin Romanya'dan getirdiği kadınları fuhşa zorladığı ortaya çıkarıldı ve bir kadın öldürüldü.",
-     "de": "Bei Razzien in Deutschland hat die Polizei einen Zuhälterring zerschlagen, der Frauen aus Rumänien zur Prostitution zwang."
     }
    }
   ]
@@ -337,6 +337,8 @@
   "https://www.evrensel.net/haber/6010614/kocaelispor-fenerbahce-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010615/medikal-hospital-calisanlari-hakkimiz-olani-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010616/tanju-ozcan-hakkinda-tahliye-karari-baska-dava-kapsaminda-cezaevinde-kalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010617/mhp-genel-baskan-yardimcisi-feti-yildiz-4-bin-897-pkk-hukumlusunden-2-bin-800-u-kanundan-faydalanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010618/antalya-da-kadin-cinayeti-evli-oldugu-kadini-oldurup-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -374,6 +376,7 @@
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-neuer-angriff-israels-in-gaza-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/ausland/millionen-fund-in-ungarn-orban-und-die-korruption-201691514.html",
   "https://www.faz.net/aktuell/politik/inland/afd-streit-ueber-migration-chrupalla-und-das-krokodil-accg-201690981.html",
+  "https://www.faz.net/aktuell/politik/inland/christian-freuding-staerkt-der-neue-generalinspekteur-die-bundeswehr-201694897.html",
   "https://www.faz.net/aktuell/politik/inland/gen-z-banden-aus-der-tuerkei-wie-sie-deutschland-bedrohen-accg-201676060.html",
   "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html",
   "https://www.faz.net/aktuell/politik/inland/interview-mit-bestatter-trauer-moechte-gesehen-werden-accg-201693689.html",
@@ -384,6 +387,7 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-greift-russisches-schiff-sparta-ii-an-finnlands-gefaehrliches-dilemma-in-der-ostsee-201702129.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-macron-bekundet-solidaritaet-mit-polen-nach-einschlaegen-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-medien-wildberries-chefin-ist-zurueckgetreten-faz-110683325.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-rutte-nato-wird-jeden-zentimeter-von-polen-verteidigen-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel-faz-19444916.html",
   "https://www.faz.net/aktuell/reise/100-jahre-route-66-amerikas-mythische-strasse-accg-201690672.html",
   "https://www.faz.net/aktuell/rhein-main/a7-lkw-hinterlaesst-truemmerfeld-in-baustelle-bei-niederaula-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
@@ -412,6 +416,7 @@
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-burkardt-und-atubolu-bescheren-eintracht-frankfurt-den-sieg-201304407.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-der-bvb-siegt-bei-borussia-moenchengladbach-und-zieht-am-fc-bayern-vorbei-201304416.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-ein-starker-moment-reicht-dem-sc-freiburg-in-elversberg-201304419.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-wieder-kein-tor-aber-immerhin-ein-punkt-fuer-schalke-04-gegen-vfb-stuttgart-201304421.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/bvb-kaderplaner-ole-book-im-interview-ueber-transfers-und-nmecha-jubel-accg-201700831.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-laesst-jamal-musiala-diskussion-eskalieren-accg-201703349.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-verletzungsschock-durch-harry-kane-und-michael-olise-accg-201704300.html",
@@ -459,6 +464,7 @@
   "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
   "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
   "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+  "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
   "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
   "https://www.france24.com/en/fbi-criminal-database-hacked",
   "https://www.france24.com/en/france-demonstrations-losing-steam-as-movement-enters-sixth-week",
@@ -467,14 +473,17 @@
   "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
   "https://www.france24.com/en/music-strikes-a-chord-at-french-protest",
   "https://www.france24.com/en/new-day-of-protests-across-france",
+  "https://www.france24.com/en/russia-launches-ballistic-missile-attack-on-zelensky-s-hometown-in-central-ukraine",
   "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
   "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
   "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
   "https://www.france24.com/en/tv-shows/a-week-in-france/20261121-french-police-officers-convicted-of-racist-assault",
   "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
+  "https://www.spiegel.de/ausland/afghanistan-wie-brutal-die-taliban-die-medizinische-versorgung-von-frauen-unterbinden-a-2f43cfc9-919f-4746-b5d4-4172000c54e6#ref=rss",
   "https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss",
   "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss",
+  "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
@@ -523,6 +532,7 @@
   "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
   "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
   "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+  "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
   "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
   "https://www.tagesschau.de/ausland/regeln-fuer-killerroboter-100.html",
   "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
@@ -551,6 +561,7 @@
   "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
   "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
   "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+  "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
   "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
   "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
   "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
@@ -603,6 +614,7 @@
   "https://www.welt.de/politik/deutschland/article6b01b7f94490a28f5fdb845c/protest-in-berlin-gruenen-chef-banaszak-bei-gen-z-demo-wuetend-beschimpft.html",
   "https://www.welt.de/politik/deutschland/article6b01c2995842ff528b9e30bc/loverboy-masche-razzia-gegen-zuhaelterring-rumaenen-zwangen-frauen-in-deutschland-zur-prostitution.html",
   "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
+  "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
@@ -613,10 +625,12 @@
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-moreira-schnuert-doppelpack-dortmund-wartet-weiter-auf-den-erloesenden-treffer.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0166135842ff528b9e2aa9/fc-bayern-eberl-widerspricht-rummenigge-die-zwei-lager-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b01c4ca39a3e8110f0e58f9/bundesliga-ticker-schalke-04-gegen-vfb-stuttgart-live.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b01c4ca39a3e8110f0e58f9/viele-chancen-gegen-stuttgart-doch-schalke-muss-weiter-auf-den-ersten-heim-treffer-warten.html",
   "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b01d54939a3e8110f0e5a43/bvb-nmecha-verzichtet-auf-seinen-torjubel-bedeutet-aber-nicht-dass-ich-ihn-nicht-wieder-mache.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01a57a4490a28f5fdb8317/jamal-musiala-immer-wieder-nebenwirkungen-neue-medizinische-details-zu-den-zweifeln-der-bosse.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01bbe945d8681e4fca3fc0/jamal-musiala-das-hat-mit-mia-san-mia-wenig-zu-tun-neurologe-attackiert-bayern-bosse-auf-jhv.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01e0a59d1767cbac691b70/fc-bayern-die-aermste-sau-spielergewerkschaft-und-matthaeus-springen-musiala-bei.html",
   "https://www.welt.de/vermischtes/article6b014fe95842ff528b9e2954/weihnachtsmaerkte-rassismus-kritik-an-lumumba-jetzt-sind-auch-lumi-und-lumamba-umstritten.html",
   "https://www.welt.de/vermischtes/article6b01714545d8681e4fca3b04/wetter-am-wochenende-der-erste-schnee-ist-in-sicht-hier-koennte-es-bald-weiss-werden.html",
   "https://www.welt.de/vermischtes/article6b0172814490a28f5fdb7fc3/grossbritannien-umzug-visa-aerger-darum-sollen-harry-und-meghan-in-die-heimat-zurueckgekehrt-sein.html",
