@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T03:27+01:00",
+ "updatedAt": "2026-11-21T03:57+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-21T03:38:36+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+    "text": {
+     "tr": "Almanya'da binlerce genç nesillerinin talepleri için barışçıl gösteriler düzenledi.",
+     "de": "Zehntausende Jugendliche haben in Deutschland friedlich für die Anliegen ihrer Generation demonstriert."
+    }
+   },
    {
     "time": "2026-11-21T01:54:05+00:00",
     "source": "Die Welt",
@@ -38,18 +47,36 @@
      "tr": "Berlin'de toplanan binlerce öğrenci ülkenin yeniden silahlanmasını ve zorunlu askerlik planlarını protesto etti.",
      "de": "In Berlin haben हजार (tousands of) Studierende gegen die Aufrüstung des Landes und die Wehrpflicht demonstriert."
     }
-   },
-   {
-    "time": "2026-11-20T23:22:47+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b0072f75842ff528b9e2109/philipp-tuermer-juso-chef-stellt-bedingungen-an-die-neue-spd-spitze-und-empfiehlt-klassenkampf.html",
-    "text": {
-     "tr": "Juso lideri Philipp Türmer, yeni SPD yönetiminden sol bir çizgi izlemesini talep etti.",
-     "de": "Juso-Chef Philipp Türmer fordert von der künftigen SPD-Spitze einen deutlicheren Links-Kurs."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-21T03:39:59+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
+    "text": {
+     "tr": "Ukrayna'nın Krywyj Rih kentine düzenlenen balistik füze saldırısında ölü ve yaralılar olduğu bildirildi.",
+     "de": "Bei einem ballistischen Raketenangriff auf die ukrainische Industriestadt Krywyj Rih gab es Tote und Verletzte."
+    }
+   },
+   {
+    "time": "2026-11-21T02:35:43+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b00ea2d5842ff528b9e2683/nach-zwischenfaellen-in-europa-macron-wirft-russland-neue-aggressivitaet-vor.html",
+    "text": {
+     "tr": "Fransa Cumhurbaşkanı Emmanuel Macron, Rusya'nın Avrupa'daki eylemlerini yeni bir saldırganlık olarak nitelendirdi.",
+     "de": "Der französische Präsident Emmanuel Macron hat Russland eine neue Aggressivität in Europa vorgeworfen."
+    }
+   },
+   {
+    "time": "2026-11-21T02:26:01+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/ausland/jair-bolsonaro-im-krankenhaus-fast-vollstaendige-darmobstruktion-accg-201704017.html",
+    "text": {
+     "tr": "Brezilya'nın eski Devlet Başkanı Jair Bolsonaro, karın ağrısı şikayetiyle hastaneye kaldırıldı.",
+     "de": "Der brasilianische Ex-Präsident Jair Bolsonaro wurde wegen Unterleibsschmerzen in ein Krankenhaus eingeliefert."
+    }
+   },
    {
     "time": "2026-11-21T01:02:39+00:00",
     "source": "BBC News World",
@@ -66,33 +93,6 @@
     "text": {
      "tr": "New York yetkilileri, Rikers Adası hapishanesini 2032 yılına kadar kapatma planını açıkladı.",
      "de": "Die Behörden in New York haben angekündigt, das umstrittene Gefängnis auf Rikers Island bis 2032 zu schließen."
-    }
-   },
-   {
-    "time": "2026-11-20T23:47:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010483/trump-si-ve-putin-le-harika-iliskilerim-oldugu-icin-amerika-guvende?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Çin ve Rusya liderleriyle harika ilişkileri olduğunu ve bu sayede Amerika'nın güvende olduğunu belirtti.",
-     "de": "US-Präsident Donald Trump betonte, dank großartiger Beziehungen zu den Staatschefs von China und Russland sei Amerika sicher."
-    }
-   },
-   {
-    "time": "2026-11-20T23:42:43+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
-    "text": {
-     "tr": "Bir Missouri hakimi, Bayer'in kansere yol açtığı iddia edilen Roundup davalarını çözmek için ödeyeceği 7,25 milyar dolarlık tazminatı onayladı.",
-     "de": "Ein Richter in Missouri hat einen Vergleich von Bayer über 7,25 Milliarden Dollar zur Beilegung von Roundup-Klagen genehmigt."
-    }
-   },
-   {
-    "time": "2026-11-20T23:20:29+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/20/los-angeles-palisades-wildfire-trial-verdict",
-    "text": {
-     "tr": "Los Angeles'taki ölümcül Palisades yangınını çıkardığı suçlanan Jonathan Rinderknecht iki federal kundaklama suçundan suçlu bulundu.",
-     "de": "Jonathan Rinderknecht wurde wegen des Brandes der tödlichen Palisades-Feuer in Los Angeles der Bundesbrandstiftung schuldig gesprochen."
     }
    }
   ],
@@ -521,6 +521,7 @@
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/european-banking-congress-werden-sie-agenten-des-vertrauens-201702284.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/fall-michel-zecler-haftstrafen-fuer-drei-polizisten-in-frankreich-gefordert-accg-201702122.html",
   "https://www.faz.net/aktuell/gesellschaft/trends-nischen/vatikan-und-gubbio-christbaeume-leuchten-erstmals-gleichzeitig-201702190.html",
+  "https://www.faz.net/aktuell/gesellschaft/ungluecke/brandstiftung-in-los-angeles-schuldig-im-prozess-um-palisades-feuer-accg-201704046.html",
   "https://www.faz.net/aktuell/karriere-hochschule/bilanz-der-deutsch-israelischen-wissenschaftsbeziehungen-201672515.html",
   "https://www.faz.net/aktuell/karriere-hochschule/uni-live/wie-man-studienabschluesse-richtig-feiert-201696250.html",
   "https://www.faz.net/aktuell/politik/ausland/daniel-thomas-15-monate-haft-fuer-angriff-auf-fluechtlingsboot-201703536.html",
@@ -528,6 +529,7 @@
   "https://www.faz.net/aktuell/politik/ausland/gipfeltreffen-in-shenzen-putin-und-trump-machen-es-xi-leicht-201691480.html",
   "https://www.faz.net/aktuell/politik/ausland/grossbritannien-und-eu-naeher-zusammen-aber-ein-beitritt-waere-keine-gute-idee-201702090.html",
   "https://www.faz.net/aktuell/politik/ausland/iran-will-ende-der-seeblockade-erzwingen-accg-201701027.html",
+  "https://www.faz.net/aktuell/politik/ausland/jair-bolsonaro-im-krankenhaus-fast-vollstaendige-darmobstruktion-accg-201704017.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-irak-geht-gegen-proiranische-miliz-vor-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/fraktur/fraktur-auch-bundeskanzler-merz-hat-einen-atomkoffer-201701911.html",
   "https://www.faz.net/aktuell/politik/inland/boris-rhein-im-interview-ueber-afd-merz-und-gen-z-201691221.html",
@@ -670,6 +672,7 @@
   "https://www.spiegel.de/panorama/leute/jennifer-lawcrene-ich-habe-implantate-sie-sind-neu-sagt-jennifer-lawrence-a-1836de0c-e0a8-4230-82b3-2966c07e7b34#ref=rss",
   "https://www.spiegel.de/panorama/leute/jon-hamm-mad-men-star-erlebt-spaetes-vaterglueck-a-037b2ae5-91e2-4fb3-a55c-10454f21142c#ref=rss",
   "https://www.spiegel.de/panorama/leute/zohran-mamdani-bei-fussballspiel-verletzt-ich-habe-vergessen-dass-ich-35-bin-a-79c68289-8f6f-41c3-b25c-5f6c0982082b#ref=rss",
+  "https://www.spiegel.de/panorama/tokio-hotel-staedtetags-praesident-kritisiert-band-nach-pyro-streit-scharf-a-c3c4308b-45ae-4e40-9b8b-3cce8b85452c#ref=rss",
   "https://www.spiegel.de/politik/deutschland/manuela-schwesig-wird-an-der-galle-operiert-a-9b402c57-fbbd-426f-8fda-ea2a869fdc60#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-des-tages-brexit-eu-grossbritannien-gender-pay-gap-gehalt-frauen-gen-z-regelt-a-36f1b0f0-e6db-4398-b6be-d3a36d98604d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/spd-landeschef-steffen-krach-der-buhmann-von-berlin-a-c4658a19-bf41-4f07-a323-e689049b10f2#ref=rss",
@@ -705,11 +708,13 @@
   "https://www.tagesschau.de/ausland/europa/frankreich-vergewaltigungsvorwuerfe-depardieu-houellebecq-100.html",
   "https://www.tagesschau.de/ausland/europa/joanne-young-100.html",
   "https://www.tagesschau.de/ausland/europa/tuerkei-imamoglu-104.html",
+  "https://www.tagesschau.de/ausland/europa/ukraine-krieg-russland-krywyj-rih-100.html",
   "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
   "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/gen-z-regelt-proteste-106.html",
   "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-110.html",
   "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-114.html",
+  "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/wg-zimmer-gen-z-proteste-wohnungskrise-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/doepfner-erbschaftssteuer-100.html",
@@ -800,6 +805,7 @@
   "https://www.welt.de/politik/ausland/article6b00169239a3e8110f0e38a8/gipfel-in-bruessel-eu-und-grossbritannien-einigen-sich-auf-projekte-fuer-annaeherung-eine-streitfrage-ist-ungeloest.html",
   "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
   "https://www.welt.de/politik/ausland/article6b00811abe487c54377479bd/ukraine-krieg-trump-fordert-laut-financial-times-frieden-mit-russland-bis-anfang-januar-von-kiew.html",
+  "https://www.welt.de/politik/ausland/article6b00ea2d5842ff528b9e2683/nach-zwischenfaellen-in-europa-macron-wirft-russland-neue-aggressivitaet-vor.html",
   "https://www.welt.de/politik/ausland/article6b00ea4f39a3e8110f0e4c9d/andenregion-erdbeben-der-staerke-6-8-erschuettert-zentrum-perus.html",
   "https://www.welt.de/politik/ausland/plus6aff0120ee91e990acae6dd5/517-tote-am-tag-dieses-datenleck-zeigt-wie-viele-russen-wirklich-im-ukraine-krieg-sterben-und-wo.html",
   "https://www.welt.de/politik/ausland/plus6aff067739a3e8110f0e2758/lettischer-ministerpraesident-die-lage-eskaliert-das-ist-es-womit-wir-es-an-europas-ostgrenze-zu-tun-haben.html",
