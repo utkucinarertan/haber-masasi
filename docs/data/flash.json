@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T13:21+01:00",
+ "updatedAt": "2026-11-21T13:51+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T12:35:54+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+    "text": {
+     "tr": "Finlandiya Körfezi'nin uluslararası sularında seyreden Rus bayraklı bir kargo gemisi, dron saldırısı sonrasında yanarak alev aldı.",
+     "de": "Ein russisches Frachtschiff geriet am Samstag nach einem Drohnenangriff im Golf von Finnland in Brand."
+    }
+   },
    {
     "time": "2026-11-21T12:20:55+00:00",
     "source": "BBC News World",
@@ -10,6 +19,15 @@
     "text": {
      "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Kırım Köprüsü'ne düzenlenen saldırıların Rusya'nın köprülere yönelik hava saldırılarına adil bir yanıt olduğunu söyledi.",
      "de": "Der ukrainische Präsident Wolodymyr Selenskyj bezeichnete Angriffe auf die Krim-Brücke als faire Reaktion auf russische Luftangriffe."
+    }
+   },
+   {
+    "time": "2026-11-21T12:19:21+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border",
+    "text": {
+     "tr": "Etiyopya ile Eritre arasındaki sınır geriliminin tırmanmasıyla birlikte ikiyüzden fazla eski Tigray Halk Kurtuluş Cephesi savaşçısı orduya teslim oldu.",
+     "de": "Mehr als 200 ehemalige Kämpfer der Volksbefreiungsfront von Tigray haben sich dem äthiopischen Militär inmitten eskalierender Grenzspannungen ergeben."
     }
    },
    {
@@ -29,27 +47,18 @@
      "tr": "El Salvador birliklerinin çetelere karşı operasyon başlattığı Haiti'nin başkenti Port-au-Prince'te halk yabancı güçlerin varlığı karşısında hem heyecan hem endişe yaşıyor.",
      "de": "In Haitis Hauptstadt Port-au-Prince lösen El-Salvador-Truppen im Kampf gegen Banden gemischte Gefühle zwischen Erleichterung und Sorge aus."
     }
-   },
-   {
-    "time": "2026-11-21T11:00:57+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
-    "text": {
-     "tr": "New Orleans Katolik Başpiskoposluğu ile din adamı istismarı mağdurları arasında varılan 305 milyon dolarlık iflas anlaşması kapsamında tazminat ödemeleri başladı.",
-     "de": "Überlebende des Klerusmissbrauchs in New Orleans erhalten erste Zahlungen aus einer 305 Millionen Dollar schweren Vergleichsvereinbarung."
-    }
-   },
-   {
-    "time": "2026-11-21T10:55:32+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
-    "text": {
-     "tr": "Rusya bağlantılı bir teknoloji firmasının, gizlice yüz binlerce İsveçli'nin verilerini topladığı ortaya çıktı.",
-     "de": "Eine russische Tech-Firma hat unbemerkt Daten von Hunderttausenden Schweden gesammelt, wie Medienrecherchen ergaben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T15:43:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010569/murat-agirel-in-avukatindan-yeniden-tahliye-talebi-iddialar-coktu-tutuklulugu-derhal-sonlandirilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Gazeteci Murat Ağırel'in avukatı, dosyaya sunulan yeni delillerin suçlamaları çürüttüğünü belirterek tahliyesini talep etti.",
+     "de": "Der Anwalt des Journalisten Murat Ağırel hat unter Vorlage neuer Beweise die sofortige Freilassung seines Mandanten gefordert."
+    }
+   },
    {
     "time": "2026-11-21T15:08:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -85,18 +94,18 @@
      "tr": "Brezilya'da ele geçirilen 3 ton uyuşturucunun alıcısı olduğu belirlenen Nusret Skrıjelj, İstanbul'da kırmızı bültenle yakalandı.",
      "de": "Nusret Skrıjelj, der als Abnehmer von drei Tonnen in Brasilien sichergestellten Drogen gesucht wurde, wurde in Istanbul festgenommen."
     }
-   },
-   {
-    "time": "2026-11-21T14:33:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/sozcu-de-kayyim-sonrasi-ilk-atama-genel-yayin-yonetmeni-degisiyor-yeni-isim-belli-oldu-2558079",
-    "text": {
-     "tr": "Kayyım yönetimine devredilen Sözcü gazetesinin internet sitesinde Genel Yayın Yönetmenliğine Kazım Ataer getirildi.",
-     "de": "Nach der Einsetzung eines Treuhänders bei der Zeitung Sözcü wurde Kazım Ataer zum neuen Chefredakteur der Internetseite ernannt."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-21T13:48:02+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
+    "text": {
+     "tr": "İtalya'nın eski polis şefi Gianni De Gennaro, seksen beş yaşında mahkeme duruşması öncesi intihar ederek yaşamına son verdi.",
+     "de": "Italiens Ex-Polizeichef Gianni De Gennaro hat sich kurz vor einer Gerichtsanhörung im Alter von 85 Jahren das Leben genommen."
+    }
+   },
    {
     "time": "2026-11-21T13:13:27+01:00",
     "source": "tagesschau",
@@ -125,21 +134,12 @@
     }
    },
    {
-    "time": "2026-11-21T11:58:40+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-muss-65-millionen-euro-einsparen-so-soll-es-gehen-accg-201702296.html",
+    "time": "2026-11-21T12:17:08+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/kultur/article6b0180c845d8681e4fca3c66/raetsel-der-mathematik-forscher-will-riemannsche-vermutung-mit-ki-geloest-haben.html",
     "text": {
-     "tr": "Frankfurt Üniversite Hastanesi denetim kurulu, 65 milyon euro tasarruf sağlamayı hedefleyen 65 maddelik ekonomik yeniden yapılandırma planını onayladı.",
-     "de": "Der Aufsichtsrat der Uniklinik Frankfurt hat einer wirtschaftlichen Sanierung mit 65 Maßnahmen zur Einsparung von 65 Millionen Euro zugestimmt."
-    }
-   },
-   {
-    "time": "2026-11-21T11:27:30+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/preisdeckel-reiche-moechte-autobahntankstellen-schonen-accg-201704570.html",
-    "text": {
-     "tr": "Ekonomi Bakanı Reiche, Ocak ayından itibaren yürürlüğe girecek benzin ve mazot fiyat torkunda bazı otoyol benzin istasyonları için istisnalar planlıyor.",
-     "de": "Wirtschaftsministerin Reiche plant für den ab Januar geltenden Preisdeckel für Benzin und Diesel Ausnahmen an Autobahntankstellen."
+     "tr": "Araştırmacılar, Claude adlı yapay zekâ modelinin yüz altmış yılı aşkın süredir çözülemeyen Riemann hipotezini çözdüğünü açıkladı.",
+     "de": "Forscher haben laut Anthropic erklärt, dass das KI-Modell Claude die seit über 160 Jahren ungelöste Riemannsche Vermutung gelöst habe."
     }
    }
   ]
@@ -159,6 +159,7 @@
   "https://tr.euronews.com/2026/11/21/trumpin-putine-arkadasim-demesine-zelenskiyden-tepki-o-bir-katil",
   "https://tr.euronews.com/2026/11/21/trumpin-washingtondaki-zafer-taki-projesine-mahkemeden-ikinci-engel",
   "https://tr.euronews.com/2026/11/21/yeni-calisma-kronik-yalnizlik-demans-riskini-yuzde-38-artiriyor",
+  "https://tr.euronews.com/video/2026/11/21/hurmuz-bogazi-lewis-pugh-savas-bolgesinde-yuzerek-cevre-tahribatina-dikkat-cekti",
   "https://tr.euronews.com/video/2026/11/21/japonyada-otonom-hava-taksisi-pilotsuz-yolcu-ucusunu-tamamladi",
   "https://tr.euronews.com/video/2026/11/21/pentagon-uap-karsilasmalarina-dair-yeni-gizliligi-kaldirilmis-dosyalari-yayimladi",
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
@@ -173,6 +174,7 @@
   "https://www.bbc.com/turkce/articles/c8e39lrep7vro",
   "https://www.bbc.com/turkce/articles/ck8dvgqzvzg3o",
   "https://www.bbc.com/turkce/articles/ck987ypp95ddo",
+  "https://www.bbc.com/turkce/articles/cm9q845x4983o",
   "https://www.bbc.com/turkce/articles/cq8j40d29kneo",
   "https://www.bbc.com/turkce/articles/cx24e1g1el4ro",
   "https://www.bbc.com/turkce/articles/cx7v2ne04np2o",
@@ -276,6 +278,12 @@
   "https://www.evrensel.net/haber/6010560/cigdem-batur-a-sosyal-medya-paylasimi-nedeniyle-sorusturma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010561/finlandiya-korfezi-nde-yuk-gemisine-iha-saldirisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010562/ozgur-ozel-den-halk-televizyonu-na-destek-tum-vatandaslarimizi-gazetecilere-destek-olmaya-davet-ediyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010565/250-yillik-sistemin-karanlik-yuzu-fonlar-nasil-calisiyor-paralar-nasil-kayboluyor-kim-tarafindan-ve-nasil-yonetiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010566/bursa-da-mermer-ocagina-karsi-ortak-mucadele-gelecegimiz-vahsi-madencilige-kurban-edilemez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010567/mucadelenin-teori-si-ve-ihtiyar-i-yavuz-yildirimturk-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010568/mucadelenin-teori-ve-ihtiyari-yavuz-yildirimturk-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010569/murat-agirel-in-avukatindan-yeniden-tahliye-talebi-iddialar-coktu-tutuklulugu-derhal-sonlandirilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010570/kiraathane-soguk-cay-sicak-mevzu-agir-uyuyan-devi-uyandirmaya-calisiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/feuilleton/debatten/vom-vogelschiss-zum-vorbild-die-afd-und-das-jahr-1933-accg-201696487.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/kolumne-kuechenhilfe-zander-mit-kuerbis-und-curry-schaum-accg-201302109.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/women-and-war-dokumentiert-folter-und-sexuelle-gewalt-in-russlands-haft-accg-201685729.html",
@@ -334,11 +342,15 @@
   "https://www.faz.net/video/gen-z-auf-der-strasse-wehrpflicht-bildung-und-sozialkuerzungen-im-fokus-201704456.html",
   "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
   "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
+  "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border",
+  "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma",
   "https://www.france24.com/en/eu-uk-reach-reset-deal-after-brexit",
   "https://www.france24.com/en/europe/20261121-accept-cookies-russia-collected-data-swaths-unknowing-swedes",
+  "https://www.france24.com/en/europe/20261121-drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
   "https://www.france24.com/en/europe/20261121-unacceptable-eu-chief-condemns-alleged-russian-plot-to-kill-us-ukrainian-citizen",
   "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
   "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
+  "https://www.france24.com/en/music-strikes-a-chord-at-french-protest",
   "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
   "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
@@ -365,12 +377,14 @@
   "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
   "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
+  "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
   "https://www.tagesschau.de/ausland/europa/regeln-fuer-killerroboter-100.html",
   "https://www.tagesschau.de/ausland/regeln-fuer-killerroboter-100.html",
   "https://www.tagesschau.de/inland/bilger-fordert-bekenntnis-der-autohersteller-zu-deutschland-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/grippe-impfstoff-hausaerzte-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
   "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-tipps-riester-100.html",
@@ -396,6 +410,7 @@
   "https://www.welt.de/debatte/plus6b005fca5842ff528b9e1eb1/pyrotechnik-bill-kaulitz-ist-der-prototyp-des-neuen-deutschen-widerstands.html",
   "https://www.welt.de/finanzen/plus6b001fa1b237b5b41c9a247f/aktien-gold-bitcoin-dieser-eine-grund-steckt-hinter-dem-grossen-ausverkauf.html",
   "https://www.welt.de/geschichte/article6afd8eefa883f861e5330bb4/friedrich-carl-vom-bruck-der-nazi-der-hitler-durchschaute.html",
+  "https://www.welt.de/kultur/article6b0180c845d8681e4fca3c66/raetsel-der-mathematik-forscher-will-riemannsche-vermutung-mit-ki-geloest-haben.html",
   "https://www.welt.de/kultur/plus6af5ac1e5596369bf0edcfe6/putinfluencerinnen-drei-frauen-fuer-den-kreml.html",
   "https://www.welt.de/kultur/plus6afaf9eff3f8db1dd9f41ae0/wetterdepressionen-wie-ich-mich-und-meine-kinder-vor-der-klimaangst-beschuetze.html",
   "https://www.welt.de/kultur/plus6afedf8239a3e8110f0e2122/starintellektuelle-susan-sontag-und-ihre-deutschen-fritzen.html",
