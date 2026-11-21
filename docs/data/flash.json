@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T15:51+01:00",
+ "updatedAt": "2026-11-21T16:21+01:00",
  "countries": {
   "world": [
    {
@@ -22,34 +22,52 @@
     }
    },
    {
-    "time": "2026-11-21T14:40:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale-a-1beb060c-afd7-45c3-8da2-6663214f4dd7#ref=rss",
+    "time": "2026-11-21T14:58:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
     "text": {
-     "tr": "Antalya'daki BM İklim Konferansı'nın kapanış müzakereleri, taraflar arasındaki derin anlaşmazlıklar nedeniyle tıkandı.",
-     "de": "Die Verhandlungen auf der UN-Klimakonferenz in Antalya stocken wegen verhärteter Fronten und Frust beim Finale."
+     "tr": "Avrupa Konseyi Başkanı Antonio Costa, 2028-2034 dönemi için büyük teknoloji şirketlerine yüzde 3 vergi getirilmesini içeren yeni bütçe teklifinde bulundu.",
+     "de": "EU-Ratspräsident Antonio Costa hat in seinem Haushaltsentwurf für 2028-2034 eine dreiprozentige Steuer auf große Digitalkonzerne vorgeschlagen."
     }
    },
    {
-    "time": "2026-11-21T14:39:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss",
+    "time": "2026-11-21T14:44:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
     "text": {
-     "tr": "Tenis efsanesi Rafael Nadal, İspanyol kulübü Real Madrid'in yönetim kuruluna seçildi.",
-     "de": "Tennisikone Rafael Nadal wurde in den Vorstand von Real Madrid gewählt."
+     "tr": "Rusya'nın Ukrayna'nın doğusuna düzenlediği saldırılarda Devlet Başkanı Volodimir Zelenski'nin memleketinde 2 kişi hayatını kaybetti.",
+     "de": "Bei russischen Luftangriffen auf die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj wurden zwei Menschen getötet."
     }
    },
    {
-    "time": "2026-11-21T14:13:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
+    "time": "2026-11-21T14:42:56+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
     "text": {
-     "tr": "Borsalardaki teknoloji hisselerindeki düşüş sürerken çip üreticisi Nvidia değer kaybetti.",
-     "de": "An den Finanzmärkten stürzen Techaktien ab, und Chiphersteller Nvidia verliert stark an Börsenwert."
+     "tr": "Galler Prensesi Catherine, BBC'ye verdiği röportajda kanser teşhisinin hayatını ve bedenini nasıl değiştirdiğini anlattı.",
+     "de": "Die britische Prinzessin Kate hat in einem BBC-Dokumentarfilm über die körperlichen und persönlichen Veränderungen nach ihrer Krebsdiagnose gesprochen."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T17:58:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010598/ilmira-hali-iscileri-alacaklarini-istedi-haklarimizi-alana-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Gaziantep'teki İlmira Halı fabrikasında çalışan işçiler, ödenmeyen alacakları için fabrika önünde eylem yaparak mücadele edeceklerini duyurdu.",
+     "de": "Arbeiter der Teppichfabrik İlmira Halı in Gaziantep haben vor dem Betrieb demonstriert und die Auszahlung ihrer ausstehenden Löhne gefordert."
+    }
+   },
+   {
+    "time": "2026-11-21T17:34:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010597/fransa-da-hayat-pahaliligina-karsi-protestolar-sari-yelekliler-ve-ogrenciler-yeniden-sokakta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Fransa'nın başkenti Paris'te hayat pahalılığını protesto eden Sarı Yelekliler ve öğrenciler sokaklara döküldü.",
+     "de": "In Paris haben die Gelbwesten und Studierende gegen die steigenden Lebenshaltungskosten und für soziale Rechte demonstriert."
+    }
+   },
    {
     "time": "2026-11-21T17:26:00+03:00",
     "source": "Evrensel",
@@ -76,27 +94,36 @@
      "tr": "Yeni Parti Milletvekili Ümit Özlale hakkında, yatırım fonu vurgunu iddialarına ilişkin dosyaları açıkladığı için suç duyurusunda bulunuldu.",
      "de": "Gegen den Yeni-Partei-Abgeordneten Ümit Özlale wurde Strafanzeige erstattet, nachdem er Akten zu mutmasslichen Anlagebetrugsfällen veröffentlicht hatte."
     }
-   },
-   {
-    "time": "2026-11-21T16:02:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010574/galatasaray-samsunspor-2-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Süper Lig'in 12. haftasında Galatasaray, Samsunspor'u 2-1 mağlup etti.",
-     "de": "Galatasaray hat Samsunspor am zwölften Spieltag der Süper Lig mit 2:1 besiegt."
-    }
-   },
-   {
-    "time": "2026-11-21T15:47:12+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/21/meksikada-operasyon-fbiin-en-cok-arananlar-listesindeki-kartel-lideri-yakalandi",
-    "text": {
-     "tr": "FBI'ın en çok arananlar listesindeki kartel lideri Fausto Isidro Meza Flores, Meksika'daki operasyonla yakalandı.",
-     "de": "Der vom FBI gesuchte Kartellführer Fausto Isidro Meza Flores wurde bei einer Operation in Mexiko gefasst."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-21T16:07:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
+    "text": {
+     "tr": "Yeşiller Partisi Eş Başkanı Franziska Brantner, koalisyon hükümetinin gençlerin haklarını ihlal ettiğini belirterek okullara daha fazla bütçe ayrılmasını istedi.",
+     "de": "Grünenchefin Franziska Brantner hat die Politik der Regierung zulasten der Jugend kritisiert und mehr Geld für Schulen gefordert."
+    }
+   },
+   {
+    "time": "2026-11-21T15:03:01+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html",
+    "text": {
+     "tr": "İki hafta önce hayatını kaybeden Freie Wähler lideri Hubert Aiwanger, Aşağı Bavyera'da yaklaşık 2.000 kişinin katıldığı törenle defnedildi.",
+     "de": "Der verstorbene Freie-Wähler-Chef Hubert Aiwanger wurde im niederbayerischen Inkofen im Beisein von rund 2.000 Menschen beigesetzt."
+    }
+   },
+   {
+    "time": "2026-11-21T14:53:11+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
+    "text": {
+     "tr": "Avrupa Birliği ve Endonezya, otomobil vergilerini düşüren ve hammadde erişimini kolaylaştıran kapsamlı bir serbest ticaret anlaşması imzaladı.",
+     "de": "Die EU und Indonesien haben ein weitreichendes Freihandelsabkommen unterzeichnet, das Zölle senkt und den Zugang zu Rohstoffen verbessert."
+    }
+   },
    {
     "time": "2026-11-21T14:42:06+00:00",
     "source": "FAZ Nachrichten",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Danimarka istihbaratı Kopenhag'daki bir konser öncesinde planlanan bir suikast girişimini engelledi.",
      "de": "Dänische Geheimdienste haben kurz vor einem Konzert in Kopenhagen ein Attentat vereitelt."
-    }
-   },
-   {
-    "time": "2026-11-21T14:13:17+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/toter-saeugling-in-potsdam-dna-test-von-1-500-frauen-soll-fall-klaeren-accg-201704751.html",
-    "text": {
-     "tr": "Potsdam'da 2011 yılında ölü bulunan bir bebek vakasını aydınlatmak için 1500 kadın üzerinde DNA testi yapılacak.",
-     "de": "In Potsdam soll ein DNA-Test von 1500 Frauen den Fall eines getöteten Babys aus dem Jahr 2011 klären."
-    }
-   },
-   {
-    "time": "2026-11-21T13:48:02+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
-    "text": {
-     "tr": "İtalya'nın eski polis şefi Gianni De Gennaro, seksen beş yaşında mahkeme duruşması öncesi intihar ederek yaşamına son verdi.",
-     "de": "Italiens Ex-Polizeichef Gianni De Gennaro hat sich kurz vor einer Gerichtsanhörung im Alter von 85 Jahren das Leben genommen."
-    }
-   },
-   {
-    "time": "2026-11-21T13:41:33+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
-    "text": {
-     "tr": "Almanya genelinde binlerce genç eğitim, iklim koruması ve zorunlu askerliğe karşı protesto düzenledi.",
-     "de": "Zehntausende Jugendliche demonstrierten bundesweit für Bildung, Klimaschutz und gegen die Wehrpflicht."
     }
    }
   ]
@@ -211,6 +211,9 @@
   "https://www.cumhuriyet.com.tr/yasam/uzayda-8-yil-sonra-gozlerini-acti-merkur-e-giden-dev-x-isini-teleskobundan-ilk-kozmik-gozlem-2558080",
   "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428",
   "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
+  "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
+  "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
+  "https://www.dw.com/tr/abd-ve-rusya-itiraz-etti-katil-robotlara-yasak-çıkmadı/a-80010227",
   "https://www.dw.com/tr/almanya-da-iktidara-yaklaşan-afd-neonazilere-ne-kadar-yakın/a-79993810",
   "https://www.dw.com/tr/almanya-da-sağcı-şiddeti-belgeleyen-portala-destek-kesildi/a-80008945",
   "https://www.dw.com/tr/can-atalay-aym-ve-ai̇hm-hakkımda-daha-kaç-karar-vermeli/a-80008364",
@@ -304,11 +307,16 @@
   "https://www.evrensel.net/haber/6010583/cumartesi-anneleri-1130-uncu-haftada-hayrettin-eren-in-akibetini-sordu-insanlik-suclarinda-zaman-asimi-olmaz-sorumlular-yargilansin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010584/spot-elektrik-piyasasinda-islem-hacmi-yuzde-157-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010585/spot-dogal-gaz-piyasasinda-islem-hacmi-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010586/petrolun-varil-fiyatindan-pompaya-uzanan-yol-turkiye-de-akaryakit-fiyati-nasil-belirleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010587/22-yil-once-katledilen-ugur-kaymaz-ve-babasi-mezarlari-basinda-anildi-cezasizlik-politikasina-son-verilsin-sorumlular-yargilansin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010593/mansur-yavas-imamoglu-na-siyasi-yasak-kararina-iliskin-soruyu-yanitsiz-birakti-biz-buraya-park-acilisina-geldik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010595/rakibiyle-kafa-kafaya-carpisti-myenty-abena-ambulansla-hastaneye-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010596/tgrt-ankara-temsilcisi-fatih-atik-isimleri-acikladi-5-belediye-baskani-daha-akp-ye-mi-geciyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010597/fransa-da-hayat-pahaliligina-karsi-protestolar-sari-yelekliler-ve-ogrenciler-yeniden-sokakta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010598/ilmira-hali-iscileri-alacaklarini-istedi-haklarimizi-alana-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/philosoph-dieter-mersch-warum-ki-niemals-bewusstsein-entwickeln-wird-accg-201634477.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/vom-vogelschiss-zum-vorbild-die-afd-und-das-jahr-1933-accg-201696487.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/kolumne-kuechenhilfe-zander-mit-kuerbis-und-curry-schaum-accg-201302109.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/women-and-war-dokumentiert-folter-und-sexuelle-gewalt-in-russlands-haft-accg-201685729.html",
@@ -332,6 +340,7 @@
   "https://www.faz.net/aktuell/politik/ausland/millionen-fund-in-ungarn-orban-und-die-korruption-201691514.html",
   "https://www.faz.net/aktuell/politik/inland/afd-streit-ueber-migration-chrupalla-und-das-krokodil-accg-201690981.html",
   "https://www.faz.net/aktuell/politik/inland/gen-z-banden-aus-der-tuerkei-wie-sie-deutschland-bedrohen-accg-201676060.html",
+  "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hoecke-bleibt-afd-chef-in-thueringen-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/wie-stark-schuetzt-der-foederalismus-in-deutschland-die-demokratie-201701861.html",
@@ -369,6 +378,7 @@
   "https://www.faz.net/aktuell/technik-motor/motor/henry-nadig-der-vergessene-automobilpionier-aus-odernheim-am-glan-accg-201606247.html",
   "https://www.faz.net/aktuell/technik-motor/technik/kneipen-keller-knaller-unterhaltungsgeraete-fuer-zuhause-accg-201668446.html",
   "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/preisdeckel-reiche-moechte-autobahntankstellen-schonen-accg-201704570.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
@@ -411,6 +421,7 @@
   "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
   "https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss",
   "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
   "https://www.spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce#ref=rss",
   "https://www.spiegel.de/psychologie/auswandern-warum-jessica-jessen-vom-dorf-in-die-welt-und-zurueck-zog-a-3e2801b1-0382-4518-a888-2f3994b1c3bc#ref=rss",
@@ -451,12 +462,15 @@
   "https://www.theguardian.com/politics/2026/nov/21/reform-uk-considers-pact-restore-britain-stalling-performance-polls",
   "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
   "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
+  "https://www.theguardian.com/tv-and-radio/2026/nov/21/snl-sister-caregiving",
   "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
   "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+  "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
   "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
   "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
   "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
   "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
+  "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
   "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
   "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
@@ -465,6 +479,7 @@
   "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
   "https://www.welt.de/debatte/article6affe19e39a3e8110f0e331f/berlin-die-linken-sind-wenigstens-ehrlich.html",
+  "https://www.welt.de/debatte/plus6afed7a939a3e8110f0e2008/2026-der-untergang-des-shitbuergertums.html",
   "https://www.welt.de/debatte/plus6afefc0d9c68d2fcf0c7d11c/verfassungsschutz-der-islam-und-seine-beipackzettel.html",
   "https://www.welt.de/debatte/plus6aff094fc1e8003ef73c4918/sozialdemokratie-innenpolitisch-ist-lars-klingbeil-bundeskanzler-trotzdem-ist-seine-partei-auf-den-hund-gekommen.html",
   "https://www.welt.de/debatte/plus6b0039955842ff528b9e1a14/hisbollah-einfluss-ich-will-mich-nicht-integrieren-dieser-berliner-wird-als-beispiel-fuer-integration-hofiert.html",
@@ -496,6 +511,7 @@
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
   "https://www.welt.de/reise/plus6aba209618772248192d7741/london-oder-new-york-der-grosse-vergleich-sorgt-fuer-eine-ueberraschung.html",
+  "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-borussen-duell-noch-torlos-kurioses-vergeben-von-elfmetern-in-frankfurt.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-kann-der-bvb-im-borussen-duell-den-patzer-der-bayern-nutzen.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0166135842ff528b9e2aa9/fc-bayern-eberl-widerspricht-rummenigge-die-zwei-lager-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
