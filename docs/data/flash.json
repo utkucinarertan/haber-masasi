@@ -1,8 +1,35 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T13:51+01:00",
+ "updatedAt": "2026-11-21T14:21+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T12:52:27+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
+    "text": {
+     "tr": "Güneybatı Fransa açıklarında karaya oturan Malta bayraklı kargo gemisinin on dokuz kişilik mürettebatı helikopterle tahliye edildi.",
+     "de": "Ein unter maltesischer Flagge fahrendes Frachtschiff ist vor der Küste Südwestfrankreichs auf Grund gelaufen, die 19 Besatzungsmitglieder wurden evakuiert."
+    }
+   },
+   {
+    "time": "2026-11-21T12:50:35+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
+    "text": {
+     "tr": "Polonya Başbakanı Donald Tusk, ülkeye düşen iki Rus füzesi ve şüpheli dronun kasıtlı bir provokasyon olduğunu söyledi.",
+     "de": "Der polnische Ministerpräsident Donald Tusk bezeichnete den Absturz zweier russischer Raketen und einer mutmasslichen Drohne als absichtliche Provokation."
+    }
+   },
+   {
+    "time": "2026-11-21T12:49:05+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+    "text": {
+     "tr": "Danimarka, ABD Ukraynalı rapçiye yönelik suikast girişimiyle bağlantısı olduğu şüphesiyle Rusya'nın savunma ataşesini sınır dışı edeceğini açıkladı.",
+     "de": "Dänemark weist den russischen Verteidigungsattaché aus, da Moskau verdächtigt wird, hinter einem Attentatsversuch auf einen US-ukrainischen Rapper zu stecken."
+    }
+   },
    {
     "time": "2026-11-21T12:35:54+00:00",
     "source": "France 24",
@@ -20,36 +47,18 @@
      "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Kırım Köprüsü'ne düzenlenen saldırıların Rusya'nın köprülere yönelik hava saldırılarına adil bir yanıt olduğunu söyledi.",
      "de": "Der ukrainische Präsident Wolodymyr Selenskyj bezeichnete Angriffe auf die Krim-Brücke als faire Reaktion auf russische Luftangriffe."
     }
-   },
-   {
-    "time": "2026-11-21T12:19:21+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border",
-    "text": {
-     "tr": "Etiyopya ile Eritre arasındaki sınır geriliminin tırmanmasıyla birlikte ikiyüzden fazla eski Tigray Halk Kurtuluş Cephesi savaşçısı orduya teslim oldu.",
-     "de": "Mehr als 200 ehemalige Kämpfer der Volksbefreiungsfront von Tigray haben sich dem äthiopischen Militär inmitten eskalierender Grenzspannungen ergeben."
-    }
-   },
-   {
-    "time": "2026-11-21T11:10:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010520/abd-nin-iran-limanlarina-ablukasi-basliyor-ingiltere-ve-ispanya-katilmayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "ABD'nin İran limanlarına yönelik ablukası yürürlüğe girerken İngiltere ve İspanya operasyona katılmayacağını duyurdu.",
-     "de": "Die US-Seeblockade gegen iranische Häfen tritt in Kraft, während Großbritannien und Spanien eine Beteiligung ablehnen."
-    }
-   },
-   {
-    "time": "2026-11-21T11:00:57+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
-    "text": {
-     "tr": "El Salvador birliklerinin çetelere karşı operasyon başlattığı Haiti'nin başkenti Port-au-Prince'te halk yabancı güçlerin varlığı karşısında hem heyecan hem endişe yaşıyor.",
-     "de": "In Haitis Hauptstadt Port-au-Prince lösen El-Salvador-Truppen im Kampf gegen Banden gemischte Gefühle zwischen Erleichterung und Sorge aus."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T16:07:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010577/fon-vurgunu-dosyalarini-aciklayan-yeni-partili-ozlale-ye-akp-li-turel-den-suc-duyurusu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Yeni Parti Milletvekili Ümit Özlale hakkında, yatırım fonu vurgunu iddialarına ilişkin dosyaları açıkladığı için suç duyurusunda bulunuldu.",
+     "de": "Gegen den Yeni-Partei-Abgeordneten Ümit Özlale wurde Strafanzeige erstattet, nachdem er Akten zu mutmasslichen Anlagebetrugsfällen veröffentlicht hatte."
+    }
+   },
    {
     "time": "2026-11-21T15:43:00+03:00",
     "source": "Evrensel",
@@ -85,15 +94,6 @@
      "tr": "Meksika ordusu, ABD'nin yardımıyla FBI'ın en çok arananlar listesindeki bir uyuşturucu karteli elebaşını yakaladı.",
      "de": "Das mexikanische Militär hat mit US-Hilfe einen auf der FBI-Most-Wanted-Liste stehenden Drogenkartellchef festgenommen."
     }
-   },
-   {
-    "time": "2026-11-21T14:34:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010554/kirmizi-bultenle-araniyordu-brezilya-da-ele-gecirilen-3-ton-uyusturucunun-alicisi-istanbul-da-yakalandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Brezilya'da ele geçirilen 3 ton uyuşturucunun alıcısı olduğu belirlenen Nusret Skrıjelj, İstanbul'da kırmızı bültenle yakalandı.",
-     "de": "Nusret Skrıjelj, der als Abnehmer von drei Tonnen in Brasilien sichergestellten Drogen gesucht wurde, wurde in Istanbul festgenommen."
-    }
    }
   ],
   "de": [
@@ -116,6 +116,15 @@
     }
    },
    {
+    "time": "2026-11-21T13:06:25+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b018edc39a3e8110f0e54c2/leipzig-und-bundesweit-vier-kinder-und-mehr-als-40-jugendliche-unter-beschuldigten-nach-gen-z-regelt-krawallen.html",
+    "text": {
+     "tr": "Leipzig'deki protesto gösterilerinde güvenlik güçlerine saldıran ikiyüzden fazla kişi hakkında soruşturma başlatılırken beş polis yaralandı.",
+     "de": "Nach Ausschreitungen bei Protesten in Leipzig ermittelt die Polizei gegen mehr als 200 Randalierer, fünf Beamte wurden verletzt."
+    }
+   },
+   {
     "time": "2026-11-21T12:37:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
@@ -132,20 +141,12 @@
      "tr": "Ulaştırma Bakanı Bilger, AB'nin 2035 sonrası içten yanmalı motor satışına izin verme planı ışığında Almanya'nın güçlü bir üretim merkezi olarak kalmasını istedi.",
      "de": "Verkehrsminister Bilger fordert angesichts möglicher EU-Ausnahmen für Verbrenner nach 2035 ein klares Bekenntnis Deutschlands als starker Produktionsstandort."
     }
-   },
-   {
-    "time": "2026-11-21T12:17:08+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/kultur/article6b0180c845d8681e4fca3c66/raetsel-der-mathematik-forscher-will-riemannsche-vermutung-mit-ki-geloest-haben.html",
-    "text": {
-     "tr": "Araştırmacılar, Claude adlı yapay zekâ modelinin yüz altmış yılı aşkın süredir çözülemeyen Riemann hipotezini çözdüğünü açıkladı.",
-     "de": "Forscher haben laut Anthropic erklärt, dass das KI-Modell Claude die seit über 160 Jahren ungelöste Riemannsche Vermutung gelöst habe."
-    }
    }
   ]
  },
  "seen": [
   "https://tr.euronews.com/2026/11/21/ab-ekonomisi-save-soil-toprak-bozulmasinin-509-milyar-avroya-kadar-mal-olabilecegini-ongor",
+  "https://tr.euronews.com/2026/11/21/ab-ve-endonezya-10-yillik-muzakerelerin-ardindan-serbest-ticaret-anlasmasi-imzaladi",
   "https://tr.euronews.com/2026/11/21/antalyadaki-cop31den-akilda-kalan-10-populer-kultur-ani",
   "https://tr.euronews.com/2026/11/21/anthropicten-matematikci-alpoge-yapay-zekayla-riemann-hipotezini-cozdugunu-one-suruyor",
   "https://tr.euronews.com/2026/11/21/asyanin-az-bilinen-kayak-merkezleri-kis-tatilinde-alternatif-rotalar",
@@ -284,11 +285,19 @@
   "https://www.evrensel.net/haber/6010568/mucadelenin-teori-ve-ihtiyari-yavuz-yildirimturk-son-yolculuguna-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010569/murat-agirel-in-avukatindan-yeniden-tahliye-talebi-iddialar-coktu-tutuklulugu-derhal-sonlandirilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010570/kiraathane-soguk-cay-sicak-mevzu-agir-uyuyan-devi-uyandirmaya-calisiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010571/2013-ten-bu-yana-en-az-916-cocuk-isci-yasamini-yitirdi-kocaeli-isig-meclisi-nden-cocuk-iscilige-karsi-mucadele-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010572/amedspor-rizespor-0-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010574/galatasaray-samsunspor-1-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010575/vergi-cennetleri-nasil-calisiyor-sirketler-ve-milyarderler-paralarini-neden-baska-ulkelere-tasiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010576/patronun-kacirdigi-mesem-li-kiz-cocugunun-annesi-tek-bir-mesem-yetkilisi-bize-ulasmadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010577/fon-vurgunu-dosyalarini-aciklayan-yeni-partili-ozlale-ye-akp-li-turel-den-suc-duyurusu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/vom-vogelschiss-zum-vorbild-die-afd-und-das-jahr-1933-accg-201696487.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/kolumne-kuechenhilfe-zander-mit-kuerbis-und-curry-schaum-accg-201302109.html",
   "https://www.faz.net/aktuell/feuilleton/kolumnen/women-and-war-dokumentiert-folter-und-sexuelle-gewalt-in-russlands-haft-accg-201685729.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/die-kuenstlerin-sophie-calle-erinnert-sich-an-ostberlin-accg-201685723.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/gta-vi-lucia-caminos-und-das-neue-frauenbild-im-game-accg-201702092.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/kevin-allein-zu-haus-soll-fortgesetzt-werden-mit-macaulay-culkin-accg-201704219.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presserat-fordert-auskunftsrecht-auf-bundesebene-accg-201700875.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-unter-datenschutz-pruefung-was-steckt-hinter-dem-datenklau-accg-201701211.html",
@@ -310,9 +319,11 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-medien-wildberries-chefin-ist-zurueckgetreten-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel-faz-19444916.html",
   "https://www.faz.net/aktuell/reise/100-jahre-route-66-amerikas-mythische-strasse-accg-201690672.html",
+  "https://www.faz.net/aktuell/rhein-main/a7-lkw-hinterlaesst-truemmerfeld-in-baustelle-bei-niederaula-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-diesmal-blieben-die-demos-friedlich-aber-das-problem-bleibt-accg-201704309.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-hochspannung-stoert-die-stadtentwicklung-nicht-accg-201688481.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-gesichter/arne-weick-chef-der-frankfurter-sparkasse-mit-sinn-fuer-selbstironie-accg-201701618.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/friedliche-demos-in-frankfurt-warum-dafuer-3000-polizisten-noetig-waren-accg-201704416.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-muss-65-millionen-euro-einsparen-so-soll-es-gehen-accg-201702296.html",
   "https://www.faz.net/aktuell/rhein-main/keine-neue-krawallnacht-nach-den-demos-blieb-es-frankfurt-ruhig-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/irischer-abend-kingfishr-vor-1800-fans-im-zoom-frankfurt-accg-201703967.html",
@@ -329,8 +340,11 @@
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-werder-bremen-verlaengert-mit-trainer-daniel-thioune-18134600.html",
   "https://www.faz.net/aktuell/sport/fussball/philipp-lahm-ueber-juergen-klopp-was-die-bundesliga-vom-bundestrainer-lernen-kann-accg-201694317.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/franz-wagner-und-moritz-wagner-spielen-in-nba-gegeneinander-accg-201704480.html",
+  "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/bundesliga-eintracht-frankfurt-profi-ritsu-doan-zeigt-zwei-gesichter-accg-201701601.html",
   "https://www.faz.net/aktuell/technik-motor/motor/henry-nadig-der-vergessene-automobilpionier-aus-odernheim-am-glan-accg-201606247.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/preisdeckel-reiche-moechte-autobahntankstellen-schonen-accg-201704570.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
   "https://www.faz.net/aktuell/wirtschaft/schneller-schlau/das-bier-ist-auf-dem-rueckzug-201698741.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-unsinn-tiktok-kritisiert-verkaufsplaene-vom-kulturstaatsminister-weimer-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/chatgpt-und-gemini-welchen-einfluss-werbung-auf-ki-antworten-nimmt-accg-201629258.html",
@@ -341,6 +355,7 @@
   "https://www.faz.net/podcasts/ukraine-verhandlungen-mehr-symbolik-als-substanz-201703144.html",
   "https://www.faz.net/video/gen-z-auf-der-strasse-wehrpflicht-bildung-und-sozialkuerzungen-im-fokus-201704456.html",
   "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
+  "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
   "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
   "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border",
   "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma",
@@ -351,9 +366,12 @@
   "https://www.france24.com/en/france/20261121-live-france-braces-for-fresh-protests-as-social-unrest-enters-sixth-week",
   "https://www.france24.com/en/houthis-launch-strikes-on-saudi-arabia",
   "https://www.france24.com/en/music-strikes-a-chord-at-french-protest",
+  "https://www.france24.com/en/russia-tests-nato-s-eastern-defences",
   "https://www.france24.com/en/russian-projectiles-hit-poland-as-nato-tensions-rise",
+  "https://www.france24.com/en/thousands-protest-overs-prices-education-military-spending-in-france-and-europe",
   "https://www.france24.com/en/tv-shows/sports/20261121-nations-league-france-to-face-spain-in-quarter-finals-england-to-take-on-norway",
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
+  "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
   "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
@@ -372,6 +390,7 @@
   "https://www.spiegel.de/stil/boyfriend-blush-frauen-wollen-erroeten-wie-maenner-wars-das-mit-der-emanzipation-a-e82150e3-ca1d-4efd-ba05-f63a1ae8be68#ref=rss",
   "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
+  "https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
   "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
   "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
@@ -397,9 +416,12 @@
   "https://www.theguardian.com/politics/2026/nov/21/rejoining-eu-uk-trade-youth-deals-ed-miliband",
   "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
   "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
+  "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
   "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
   "https://www.theguardian.com/us-news/2026/nov/21/new-orleans-catholic-clergy-abuse-settlement",
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
+  "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+  "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
@@ -416,15 +438,18 @@
   "https://www.welt.de/kultur/plus6afedf8239a3e8110f0e2122/starintellektuelle-susan-sontag-und-ihre-deutschen-fritzen.html",
   "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6affeb0d39a3e8110f0e33fb/ende-romantischer-illusionen-kein-koalitionsbruch-wird-das-buergertum-retten.html",
   "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
+  "https://www.welt.de/politik/ausland/article6b000df0be487c5437746b74/mittelamerika-als-die-ergebnisse-der-midterms-ueber-den-fernseher-flimmern-packen-sie-ihre-koffer.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
+  "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-respekt-gebuehrt-allen-schichten-nicht-nur-arbeitern-und-bauern.html",
   "https://www.welt.de/politik/deutschland/article6afffc3dbe487c5437746988/spd-in-der-krise-fuer-solche-selbstbeschaeftigung-werden-wir-nicht-gewaehlt.html",
   "https://www.welt.de/politik/deutschland/article6b0147fa39a3e8110f0e4f4e/finanzreform-nicht-ausreichend-geheimes-gutachten-bringt-pkw-maut-wieder-ins-spiel.html",
   "https://www.welt.de/politik/deutschland/article6b015fed39a3e8110f0e50aa/hessen-migration-ohne-integration-rhein-fordert-abschiebungen-nach-den-frankfurter-krawallen.html",
   "https://www.welt.de/politik/deutschland/article6b016a9c4490a28f5fdb7efb/afd-chef-chrupalla-fordert-abschiebung-von-2-6-millionen-auslaendern.html",
   "https://www.welt.de/politik/deutschland/article6b01832e45d8681e4fca3c96/wirtschaftsministerin-spritpreisdeckel-ab-januar-reiche-will-autobahntankstellen-ausnehmen.html",
+  "https://www.welt.de/politik/deutschland/article6b018edc39a3e8110f0e54c2/leipzig-und-bundesweit-vier-kinder-und-mehr-als-40-jugendliche-unter-beschuldigten-nach-gen-z-regelt-krawallen.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/reise/plus6aba209618772248192d7741/london-oder-new-york-der-grosse-vergleich-sorgt-fuer-eine-ueberraschung.html",
@@ -438,6 +463,7 @@
   "https://www.welt.de/videos/video6b016e5545d8681e4fca3ab1/general-a-d-kather-warnt-dann-waeren-wir-naemlich-sehr-nahe-an-der-beistandspflicht-nach-artikel-5.html",
   "https://www.welt.de/wirtschaft/article6b01534a0148551551a4d496/hohe-rechnungen-energiepreise-steigen-gas-kunden-drohen-370-euro-mehrkosten.html",
   "https://www.welt.de/wirtschaft/plus6af99c7a4468a1e3991a329c/herbst-und-winter-schnee-eis-laub-die-grossen-irrtuemer-beim-raeumdienst.html",
+  "https://www.welt.de/wirtschaft/plus6afdf0f0a0547afb26e79250/die-falsche-naehe-der-sanierer-wie-sachwalter-ihre-unabhaengigkeit-verspielen.html",
   "https://www.welt.de/wirtschaft/plus6b00137cbe487c5437746c49/bmw-chef-nedeljkovic-in-sachen-buerokratie-und-energiepreise-gibt-es-in-unserem-land-nachholbedarf.html",
   "https://www.welt.de/wissenschaft/article6b0003e25842ff528b9e12c3/roboter-vielleicht-zaehlen-wir-bald-eine-weitere-population-die-sich-die-erde-mit-uns-teilt.html",
   "https://www.welt.de/wissenschaft/plus6ae3469f981b80c0b7985b29/sex-ueber-tiefenstimulation-des-vagus-konnten-diese-frauen-orgasmen-erleben.html"
