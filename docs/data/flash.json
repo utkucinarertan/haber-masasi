@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T04:27+01:00",
+ "updatedAt": "2026-11-21T04:57+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-21T04:50:50+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
+    "text": {
+     "tr": "Bir ABD mahkemesi, kimya devi Bayer'in Roundup davasındaki milyarlarca dolarlık uzlaşmasını onayladı.",
+     "de": "Ein US-Gericht hat den milliardenschweren Vergleich des Chemiekonzerns Bayer im Glyphosat-Rechtsstreit gebilligt."
+    }
+   },
    {
     "time": "2026-11-21T03:38:36+01:00",
     "source": "tagesschau",
@@ -38,15 +47,6 @@
      "tr": "Federal İş Ajansı'nın emlak yönetimi birimi bir hacker saldırısının hedefi oldu.",
      "de": "Die Immobilienverwaltung der Bundesagentur für Arbeit wurde Ziel eines Hackerangriffs."
     }
-   },
-   {
-    "time": "2026-11-20T23:55:44+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/video/2026/11/20/berlinde-ogrenci-protestosu-silahlanma-hamlesi-ve-zorunlu-askerlik-hedefte",
-    "text": {
-     "tr": "Berlin'de toplanan binlerce öğrenci ülkenin yeniden silahlanmasını ve zorunlu askerlik planlarını protesto etti.",
-     "de": "In Berlin haben हजार (tousands of) Studierende gegen die Aufrüstung des Landes und die Wehrpflicht demonstriert."
-    }
    }
   ],
   "world": [
@@ -57,6 +57,15 @@
     "text": {
      "tr": "Peru'nun merkezinde meydana gelen 6,7 büyüklüğündeki deprem heyelanlara yol açtı.",
      "de": "Ein Erdbeben der Stärke 6,7 hat im Zentrum von Peru Erdrutsche ausgelöst."
+    }
+   },
+   {
+    "time": "2026-11-21T03:51:03+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
+    "text": {
+     "tr": "Rockstar Games, Grand Theft Auto VI oyununun ilk gün satışlarının 3,8 milyar dolara ulaştığını açıkladı.",
+     "de": "Rockstar Games gab bekannt, dass der Umsatz des Videospiels Grand Theft Auto VI am ersten Tag 3,8 Milliarden Dollar erreichte."
     }
    },
    {
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Brezilya'nın eski Devlet Başkanı Jair Bolsonaro, karın ağrısı şikayetiyle hastaneye kaldırıldı.",
      "de": "Der brasilianische Ex-Präsident Jair Bolsonaro wurde wegen Unterleibsschmerzen in ein Krankenhaus eingeliefert."
-    }
-   },
-   {
-    "time": "2026-11-21T01:02:39+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cqgm0zlkgrm2o",
-    "text": {
-     "tr": "Gözaltındaki göçmenleri dolandıran suçluların, 811 milyon dolarlık para cezasına rağmen kefalet dolandırıcılığını sürdürdüğü bildirildi.",
-     "de": "Verurteilte Betrüger führten Kautionsgeschäfte mit inhaftierten Migranten trotz einer Geldstrafe von 811 Millionen Dollar offenbar fort."
     }
    }
   ],
@@ -375,6 +375,7 @@
   "https://www.cumhuriyet.com.tr/yerel-gundem/safranbolu-da-sirin-fazli-yesilyurt-aktif-yas-alma-merkezi-yeni-binasinda-acildi-2557912",
   "https://www.cumhuriyet.com.tr/yerel-gundem/tarihi-kaleici-nde-iklim-krizine-sanat-damgasi-atiklar-esere-donustu-2557915",
   "https://www.dw.com/en/africa-at-cop31-will-climate-cash-finally-flow/a-80002269",
+  "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648",
   "https://www.dw.com/en/china-s-xi-praises-turnaround-in-relationship-with-australia/a-79999229",
   "https://www.dw.com/en/eu-and-uk-hold-a-rare-summit-in-bid-to-rebuild-ties/a-80001076",
   "https://www.dw.com/en/eu-and-uk-strike-landmark-deal-to-rebuild-ties-after-brexit/a-80001076",
@@ -722,6 +723,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html",
   "https://www.tagesschau.de/investigativ/ndr/festnahme-tuerkei-napoleon-kriminalitaet-100.html",
+  "https://www.tagesschau.de/wirtschaft/bayer-glyphosat-vergleich-usa-100.html",
   "https://www.tagesschau.de/wirtschaft/boerse/anthropic-ki-tech-werte-boersen-100.html",
   "https://www.tagesschau.de/wirtschaft/boerse/ki-kater-100.html",
   "https://www.tagesschau.de/wirtschaft/deutsch-ukrainisches-wirtschaftsforum-104.html",
@@ -741,6 +743,7 @@
   "https://www.theguardian.com/film/2026/nov/20/gerard-depardieu-michel-houellebecq-investigated-allegations",
   "https://www.theguardian.com/film/2026/nov/20/home-alone-sequel-macaulay-culkin",
   "https://www.theguardian.com/film/2026/nov/20/suki-waterhouse-robert-pattinson-britain-hollywood-power-couple",
+  "https://www.theguardian.com/games/2026/nov/21/a-new-record-for-entertainment-grand-theft-auto-vi-sales-hit-38bn-on-first-day-of-release-developer-says",
   "https://www.theguardian.com/law/2026/nov/20/us-eu-reaction-myanmar-rohingya-genocide-icj-ruling-trump-international-law",
   "https://www.theguardian.com/politics/2026/nov/20/andy-burnham-uk-eu-brussels-summit",
   "https://www.theguardian.com/politics/2026/nov/20/burnham-trade-youth-mobility-deals-biggest-step-towards-eu-since-brexit",
