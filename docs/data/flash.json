@@ -1,8 +1,17 @@
 {
  "since": "2026-11-20T05:15+01:00",
- "updatedAt": "2026-11-21T02:51+01:00",
+ "updatedAt": "2026-11-21T03:27+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-21T01:54:05+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b00ee7b5842ff528b9e26b6/gen-z-regelt-demonstrationen-fliegende-flaschen-muelleimer-feuerwerkskoerper-ausschreitungen-bei-protesten-am-spaeteren-abend.html",
+    "text": {
+     "tr": "Gen Z regelt inisiyatifinin düzenlediği protestoların ilerleyen saatlerinde çıkan olaylarda polis tazyikli su kullandı.",
+     "de": "Bei den landesweiten Protesten der Initiative Gen Z regelt kam es am späten Abend zu Ausschreitungen, woraufhin die Polizei Wasserwerfer einsetzte."
+    }
+   },
    {
     "time": "2026-11-21T01:30:00+01:00",
     "source": "Der Spiegel",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Juso lideri Philipp Türmer, yeni SPD yönetiminden sol bir çizgi izlemesini talep etti.",
      "de": "Juso-Chef Philipp Türmer fordert von der künftigen SPD-Spitze einen deutlicheren Links-Kurs."
-    }
-   },
-   {
-    "time": "2026-11-20T22:35:53+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/einkommen-gestiegen-ungleichheit-auch-was-zeigen-diw-daten-201698063.html",
-    "text": {
-     "tr": "Almanya'da yapılan iki yeni araştırma, ücretler ve gelirlerdeki artışla birlikte halkın büyük kısmının daha zenginleştiğini ortaya koydu.",
-     "de": "Zwei neuen Studien zufolge sind die Löhne und Einkommen in Deutschland gestiegen und die allermeisten Bürger sind reicher geworden."
     }
    }
   ],
@@ -795,6 +795,7 @@
   "https://www.welt.de/politik/article6b00959a39a3e8110f0e4930/boris-rhein-kritisiert-bundesregierung-meine-geduld-ist-langsam-am-ende.html",
   "https://www.welt.de/politik/article6b00bdea5842ff528b9e251c/donald-trump-putin-will-krieg-mit-diplomatischen-mitteln-beenden-glaubt-der-us-praesident.html",
   "https://www.welt.de/politik/article6b00ddcb39a3e8110f0e4c32/cybersecurity-hackerangriff-auf-immobilienverwaltung-der-bundesagentur-fuer-arbeit.html",
+  "https://www.welt.de/politik/article6b00ee7b5842ff528b9e26b6/gen-z-regelt-demonstrationen-fliegende-flaschen-muelleimer-feuerwerkskoerper-ausschreitungen-bei-protesten-am-spaeteren-abend.html",
   "https://www.welt.de/politik/ausland/article6afffac1be487c543774694d/polen-meldet-absturz-mehrerer-russischer-flugobjekte-nato-verurteilt-luftraumverletzungen.html",
   "https://www.welt.de/politik/ausland/article6b00169239a3e8110f0e38a8/gipfel-in-bruessel-eu-und-grossbritannien-einigen-sich-auf-projekte-fuer-annaeherung-eine-streitfrage-ist-ungeloest.html",
   "https://www.welt.de/politik/ausland/article6b007fecb237b5b41c9a304a/treffen-in-shenzhen-hm-wo-ist-europa-fragt-medwedew-russland-feiert-dreiergipfel.html",
