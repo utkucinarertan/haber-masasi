@@ -1,8 +1,26 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T16:21+01:00",
+ "updatedAt": "2026-11-21T16:51+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T15:30:07+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
+    "text": {
+     "tr": "ABD'nin Virginia eyaletinde, 2026 yılının ilk kızamık kaynaklı çocuk ölümünün gerçekleştiği bildirildi.",
+     "de": "In Virginia starb ein Kind an den Folgen einer Maserninfektion, dem ersten Todesfall dieser Art im US-Bundesstaat im Jahr 2026."
+    }
+   },
+   {
+    "time": "2026-11-21T15:21:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099",
+    "text": {
+     "tr": "Avrupa Birliği ve Endonezya, küresel ekonomik gerilimlerin ortasında yeni ticaret anlaşması imzaladı.",
+     "de": "Die Europäische Union und Indonesien haben ein Handelsabkommen zur Senkung von Zöllen unterzeichnet."
+    }
+   },
    {
     "time": "2026-11-21T15:15:27+01:00",
     "source": "tagesschau",
@@ -28,24 +46,6 @@
     "text": {
      "tr": "Avrupa Konseyi Başkanı Antonio Costa, 2028-2034 dönemi için büyük teknoloji şirketlerine yüzde 3 vergi getirilmesini içeren yeni bütçe teklifinde bulundu.",
      "de": "EU-Ratspräsident Antonio Costa hat in seinem Haushaltsentwurf für 2028-2034 eine dreiprozentige Steuer auf große Digitalkonzerne vorgeschlagen."
-    }
-   },
-   {
-    "time": "2026-11-21T14:44:00+00:00",
-    "source": "DW World",
-    "url": "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
-    "text": {
-     "tr": "Rusya'nın Ukrayna'nın doğusuna düzenlediği saldırılarda Devlet Başkanı Volodimir Zelenski'nin memleketinde 2 kişi hayatını kaybetti.",
-     "de": "Bei russischen Luftangriffen auf die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj wurden zwei Menschen getötet."
-    }
-   },
-   {
-    "time": "2026-11-21T14:42:56+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
-    "text": {
-     "tr": "Galler Prensesi Catherine, BBC'ye verdiği röportajda kanser teşhisinin hayatını ve bedenini nasıl değiştirdiğini anlattı.",
-     "de": "Die britische Prinzessin Kate hat in einem BBC-Dokumentarfilm über die körperlichen und persönlichen Veränderungen nach ihrer Krebsdiagnose gesprochen."
     }
    }
   ],
@@ -98,6 +98,24 @@
   ],
   "de": [
    {
+    "time": "2026-11-21T16:46:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss",
+    "text": {
+     "tr": "Oyuncu Gérard Depardieu ve yazar Michel Houellebecq hakkında ortak cinsel saldırı suçlamasıyla soruşturma açıldı.",
+     "de": "Gegen Gérard Depardieu und Michel Houellebecq wird nach Vorwürfen gemeinschaftlicher Vergewaltigung ermittelt."
+    }
+   },
+   {
+    "time": "2026-11-21T16:27:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss",
+    "text": {
+     "tr": "Björn Höcke, Thüringen eyaletinde yeniden aşırı sağcı AfD'nin liderliğine seçildi.",
+     "de": "Björn Höcke wurde als thüringischer AfD-Chef wiedergewählt."
+    }
+   },
+   {
     "time": "2026-11-21T16:07:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Avrupa Birliği ve Endonezya, otomobil vergilerini düşüren ve hammadde erişimini kolaylaştıran kapsamlı bir serbest ticaret anlaşması imzaladı.",
      "de": "Die EU und Indonesien haben ein weitreichendes Freihandelsabkommen unterzeichnet, das Zölle senkt und den Zugang zu Rohstoffen verbessert."
-    }
-   },
-   {
-    "time": "2026-11-21T14:42:06+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/feuilleton/kunstmarkt/kunstsammler-friedrich-christian-flick-stirbt-nach-sturz-mit-82-jahren-accg-201704768.html",
-    "text": {
-     "tr": "Alman sanat koleksiyoncusu Friedrich Christian Flick, geçirdiği kaza sonucu 82 yaşında hayatını kaybetti.",
-     "de": "Der deutsche Kunstsammler Friedrich Christian Flick ist nach einem Sturz im Alter von 82 Jahren gestorben."
-    }
-   },
-   {
-    "time": "2026-11-21T14:16:33+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/video/daenische-geheimdienste-stoppen-attentat-kurz-vor-konzert-in-kopenhagen-201704640.html",
-    "text": {
-     "tr": "Danimarka istihbaratı Kopenhag'daki bir konser öncesinde planlanan bir suikast girişimini engelledi.",
-     "de": "Dänische Geheimdienste haben kurz vor einem Konzert in Kopenhagen ein Attentat vereitelt."
     }
    }
   ]
@@ -170,6 +170,7 @@
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
   "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
   "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+  "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
   "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
@@ -210,6 +211,7 @@
   "https://www.cumhuriyet.com.tr/yasam/tarlada-kilosu-8-liradan-aliniyor-markette-60-liraya-satiliyor-2558078",
   "https://www.cumhuriyet.com.tr/yasam/uzayda-8-yil-sonra-gozlerini-acti-merkur-e-giden-dev-x-isini-teleskobundan-ilk-kozmik-gozlem-2558080",
   "https://www.dw.com/en/anthropic-researcher-uses-ai-to-solve-math-s-greatest-riddle/a-80008428",
+  "https://www.dw.com/en/eu-and-indonesia-sign-trade-deal/a-80010099",
   "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
   "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
   "https://www.dw.com/en/russia-strikes-zelenskyy-s-hometown-killing-2/a-80009458",
@@ -309,6 +311,7 @@
   "https://www.evrensel.net/haber/6010585/spot-dogal-gaz-piyasasinda-islem-hacmi-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010586/petrolun-varil-fiyatindan-pompaya-uzanan-yol-turkiye-de-akaryakit-fiyati-nasil-belirleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010587/22-yil-once-katledilen-ugur-kaymaz-ve-babasi-mezarlari-basinda-anildi-cezasizlik-politikasina-son-verilsin-sorumlular-yargilansin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010590/agri-neden-hissedilir-beyin-agriyi-nasil-algiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010593/mansur-yavas-imamoglu-na-siyasi-yasak-kararina-iliskin-soruyu-yanitsiz-birakti-biz-buraya-park-acilisina-geldik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010595/rakibiyle-kafa-kafaya-carpisti-myenty-abena-ambulansla-hastaneye-kaldirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010596/tgrt-ankara-temsilcisi-fatih-atik-isimleri-acikladi-5-belediye-baskani-daha-akp-ye-mi-geciyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -325,6 +328,7 @@
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/gta-vi-lucia-caminos-und-das-neue-frauenbild-im-game-accg-201702092.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/kevin-allein-zu-haus-soll-fortgesetzt-werden-mit-macaulay-culkin-accg-201704219.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/renate-reinsve-spielt-grossartig-in-butterfly-rueckkehr-nach-gran-canaria-201691215.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presserat-fordert-auskunftsrecht-auf-bundesebene-accg-201700875.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-unter-datenschutz-pruefung-was-steckt-hinter-dem-datenklau-accg-201701211.html",
   "https://www.faz.net/aktuell/finanzen/so-kommt-die-anthropic-aktie-in-ihren-etf-accg-201700980.html",
@@ -341,6 +345,7 @@
   "https://www.faz.net/aktuell/politik/inland/afd-streit-ueber-migration-chrupalla-und-das-krokodil-accg-201690981.html",
   "https://www.faz.net/aktuell/politik/inland/gen-z-banden-aus-der-tuerkei-wie-sie-deutschland-bedrohen-accg-201676060.html",
   "https://www.faz.net/aktuell/politik/inland/hubert-aiwanger-in-inkofen-beigesetzt-2-000-menschen-nehmen-abschied-accg-201704863.html",
+  "https://www.faz.net/aktuell/politik/inland/interview-mit-bestatter-trauer-moechte-gesehen-werden-accg-201693689.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hoecke-bleibt-afd-chef-in-thueringen-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/wie-stark-schuetzt-der-foederalismus-in-deutschland-die-demokratie-201701861.html",
@@ -354,6 +359,7 @@
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-hochspannung-stoert-die-stadtentwicklung-nicht-accg-201688481.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurter-gesichter/arne-weick-chef-der-frankfurter-sparkasse-mit-sinn-fuer-selbstironie-accg-201701618.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/friedliche-demos-in-frankfurt-warum-dafuer-3000-polizisten-noetig-waren-accg-201704416.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/kunstraub-in-der-schirn-1994-was-heute-bekannt-ist-110063157.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/leseklub-des-maedchenbueros-milena-kinder-lesen-fuer-senioren-accg-201643846.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-muss-65-millionen-euro-einsparen-so-soll-es-gehen-accg-201702296.html",
   "https://www.faz.net/aktuell/rhein-main/keine-neue-krawallnacht-nach-den-demos-blieb-es-frankfurt-ruhig-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
@@ -375,6 +381,7 @@
   "https://www.faz.net/aktuell/sport/fussball/philipp-lahm-ueber-juergen-klopp-was-die-bundesliga-vom-bundestrainer-lernen-kann-accg-201694317.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/franz-wagner-und-moritz-wagner-spielen-in-nba-gegeneinander-accg-201704480.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/bundesliga-eintracht-frankfurt-profi-ritsu-doan-zeigt-zwei-gesichter-accg-201701601.html",
+  "https://www.faz.net/aktuell/sport/wintersport/emma-aicher-und-lena-duerr-backen-im-slalom-weltcup-kleinere-kuechlein-accg-201704318.html",
   "https://www.faz.net/aktuell/technik-motor/motor/henry-nadig-der-vergessene-automobilpionier-aus-odernheim-am-glan-accg-201606247.html",
   "https://www.faz.net/aktuell/technik-motor/technik/kneipen-keller-knaller-unterhaltungsgeraete-fuer-zuhause-accg-201668446.html",
   "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html",
@@ -392,6 +399,7 @@
   "https://www.faz.net/podcasts/ukraine-verhandlungen-mehr-symbolik-als-substanz-201703144.html",
   "https://www.faz.net/video/daenische-geheimdienste-stoppen-attentat-kurz-vor-konzert-in-kopenhagen-201704640.html",
   "https://www.faz.net/video/gen-z-auf-der-strasse-wehrpflicht-bildung-und-sozialkuerzungen-im-fokus-201704456.html",
+  "https://www.faz.net/video/meerschweinchen-in-kostuemen-festival-in-el-alto-feiert-andentraditionen-201704925.html",
   "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
   "https://www.france24.com/en/cargo-ship-runs-aground-off-french-coast",
   "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
@@ -411,22 +419,26 @@
   "https://www.france24.com/en/tv-shows/truth-or-fake/20261121-was-vladimir-putin-snubbed-by-xi-jinping-viral-handshake-video-is-ai-fake",
   "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
+  "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
   "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
   "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
   "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
+  "https://www.spiegel.de/kultur/kino/gerard-depardieu-und-michel-houellebecq-vorwurf-der-gemeinschaftliche-vergewaltigung-justiz-ermittelt-a-2c73adeb-f0e4-4ce6-a7fc-c3f29f12b3b3#ref=rss",
   "https://www.spiegel.de/kultur/literatur/bosco-ruebe-und-die-beweisung-des-weihnachtsmanns-der-beste-verstecker-der-welt-a-bd3b685c-0266-4976-8754-59218afad363#ref=rss",
   "https://www.spiegel.de/kultur/musik/mick-jagger-rolling-stones-frontmann-mick-jagger-wundert-sich-ueber-vorbehalte-gegen-migration-a-fc00f367-f024-4594-b257-7911983d40b2#ref=rss",
   "https://www.spiegel.de/netzwelt/games/rollenspiele-im-test-daggerheart-midgard-draconis-und-storyfold-a-c56dcccc-bfd0-4a46-8ac8-5fa32474f560#ref=rss",
   "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
   "https://www.spiegel.de/panorama/leute/manuel-neuer-torwart-absolviert-reha-in-brasilien-mit-bayern-erlaubnis-a-e1799422-d410-43e1-86e3-47b08861c7ed#ref=rss",
   "https://www.spiegel.de/panorama/usa-katze-verzoegert-flugzeugstart-in-boston-a-b5bac02e-17de-4f5e-9df1-ffa8c2acb76f#ref=rss",
+  "https://www.spiegel.de/politik/bjoern-hoecke-wiederwahl-als-thueringer-afd-chef-a-e44dee38-ea82-4269-8b15-eb3406dfe402#ref=rss",
   "https://www.spiegel.de/politik/deutschland/franziska-brantner-gruenenchefin-kritisiert-soeder-geschenke-zulasten-jugend-a-a69c41bb-868d-4c29-bc4c-4fa4860f82fc#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
   "https://www.spiegel.de/politik/killerroboter-un-konferenz-endet-mit-minimalkonsens-a-ac54782b-a751-4962-94fe-3b5731986bce#ref=rss",
   "https://www.spiegel.de/psychologie/auswandern-warum-jessica-jessen-vom-dorf-in-die-welt-und-zurueck-zog-a-3e2801b1-0382-4518-a888-2f3994b1c3bc#ref=rss",
   "https://www.spiegel.de/sport/basketball/nba-franz-wagner-gewinnt-erstes-duell-gegen-bruder-moritz-wagner-a-74bd147a-2e83-4378-b74d-c0698dd54090#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-max-verstappen-zeigt-george-russell-den-mittelfinger-a-3c6273c7-a9f1-45dd-a472-8ec739eaf94e#ref=rss",
+  "https://www.spiegel.de/sport/fussball/jamal-musiala-die-fc-bayern-patriarchen-senden-mit-ihrer-demontage-ein-schlimmes-signal-kommentar-a-87412b40-4770-4e55-97d0-4b18fdaf7e4a#ref=rss",
   "https://www.spiegel.de/sport/fussball/tv-interview-von-karl-heinz-rummenigge-der-angriff-auf-jamal-musiala-a-3a22a2a8-8af3-43f5-83a4-3c79a322f097#ref=rss",
   "https://www.spiegel.de/sport/tennis/rafael-nadal-tennisikone-wird-in-vorstand-von-real-madrid-gewaehlt-a-cfb22f79-f60f-43c1-8d33-3fe4587d5ccd#ref=rss",
   "https://www.spiegel.de/start/arbeitsmarkt-fuer-welche-jungen-akademiker-die-jobsuche-immer-schwerer-wird-a-003279ec-e410-4a3d-830a-666366670b74#ref=rss",
@@ -437,6 +449,7 @@
   "https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale-a-1beb060c-afd7-45c3-8da2-6663214f4dd7#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
+  "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
   "https://www.tagesschau.de/ausland/amerika/peru-erdbeben-102.html",
   "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
@@ -474,6 +487,7 @@
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
   "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
   "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
+  "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
@@ -513,8 +527,10 @@
   "https://www.welt.de/reise/plus6aba209618772248192d7741/london-oder-new-york-der-grosse-vergleich-sorgt-fuer-eine-ueberraschung.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-borussen-duell-noch-torlos-kurioses-vergeben-von-elfmetern-in-frankfurt.html",
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-kann-der-bvb-im-borussen-duell-den-patzer-der-bayern-nutzen.html",
+  "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-moreira-schnuert-doppelpack-dortmund-wartet-weiter-auf-den-erloesenden-treffer.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0166135842ff528b9e2aa9/fc-bayern-eberl-widerspricht-rummenigge-die-zwei-lager-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01a57a4490a28f5fdb8317/jamal-musiala-immer-wieder-nebenwirkungen-neue-medizinische-details-zu-den-zweifeln-der-bosse.html",
   "https://www.welt.de/vermischtes/article6b014fe95842ff528b9e2954/weihnachtsmaerkte-rassismus-kritik-an-lumumba-jetzt-sind-auch-lumi-und-lumamba-umstritten.html",
   "https://www.welt.de/vermischtes/article6b01714545d8681e4fca3b04/wetter-am-wochenende-der-erste-schnee-ist-in-sicht-hier-koennte-es-bald-weiss-werden.html",
   "https://www.welt.de/vermischtes/article6b0172814490a28f5fdb7fc3/grossbritannien-umzug-visa-aerger-darum-sollen-harry-und-meghan-in-die-heimat-zurueckgekehrt-sein.html",
