@@ -1,0 +1,646 @@
+{
+ "date": "2026-11-21",
+ "updatedAt": "2026-11-21T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "8c270162c9718169",
+   "overview": "In Deutschland prägten heute bundesweite Proteste der Initiative 'Gen Z regelt' samt späterer Ausschreitungen und Polizeieinsätzen das Tagesgeschehen. In der Wirtschaft sorgten die Warnstreiks der IG Metall und harte Forderungen von VW für Spannung, während Bundeskanzler Friedrich Merz milliardenschwere Investitionen aus Katar ankündigte und über die wirtschaftlichen Effekte der Ukraine-Hilfen debattiert wurde. Im Sport schockierte das Unentschieden des FC Bayern München gegen Köln und die schwere Verletzung von Harry Kane die Fans.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Proteste von 'Gen Z': Ausschreitungen in den Abendstunden",
+     "summary": "Tausende junge Menschen sind in ganz Deutschland im Rahmen der Initiative 'Gen Z regelt' für bessere Bildung und Klimaschutz auf die Straßen gegangen. Die weitgehend friedlichen Demonstrationen eskalierten andernorts in den späten Abendstunden. Die Polizei setzte unter anderem Wasserwerfer ein, nachdem mit Flaschen und Pyrotechnik geworfen wurde.",
+     "category": "Proteste",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/jugendproteste-krawalle-gen-z-100.html",
+     "time": "2026-11-21T03:38:36+01:00"
+    },
+    {
+     "title": "Pistorius in Polen: Reise im Zeichen der Sicherheit und Erinnerung",
+     "summary": "Bundesverteidigungsminister Boris Pistorius ist zu einem Besuch nach Polen gereist, um die gemeinsame Verantwortung für die Sicherheit in Europa zu bekräftigen. Im Mittelpunkt standen dabei auch das Gedenken an die deutsche Vergangenheit und die Vertiefung der bilateralen Zusammenarbeit.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/pistorius-polen-gedenken-100.html",
+     "time": "2026-11-20T17:22:44+01:00"
+    },
+    {
+     "title": "Bundesrat stoppt 'Startchancengesetz' vorerst",
+     "summary": "Der Bundesrat hat das 'Startchancengesetz' vorerst gestoppt, um Nachbesserungen zu fordern. Grünes Licht gab die Länderkammer hingegen für Vorhaben wie die 'Frühstartrente', die Notfallversorgungsreform und die digitale Brieftasche. Damit passierten wichtige sozial- und gesundheitspolitische Reformen den Bundesrat.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundesrat-startchancengesetz-fruehstartrente-notfallreform-100.html",
+     "time": "2026-11-20T16:03:38+01:00"
+    },
+    {
+     "title": "Nürnberg: Ermittlungen wegen mutmaßlicher sexueller Ausbeutung",
+     "summary": "Im Drogenmilieu rund um den Nürnberger Hauptbahnhof soll es zu massiven Fällen von sexuellem Missbrauch gekommen sein, bei denen junge Mädchen mit Drogen gefügig gemacht wurden. Die Polizei hat Dutzende Verdächtige identifiziert. Die Ermittlungen zu den Vorfällen dauern an.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/justiz/nuernberg-dealer-sollen-maedchen-mit-drogen-gefuegig-gemacht-dan-vergewaltigt-haben-a-cc645195-6d9b-4f2e-9b33-db765d6b28d4#ref=rss",
+     "time": "2026-11-20T16:43:00+01:00"
+    },
+    {
+     "title": "Prien verteidigt Kürzungen bei Demokratieprojekten",
+     "summary": "Bundesfamilienministerin Karin Prien hat den Vorwurf zurückgewiesen, bei Projekten gegen Antisemitismus zu sparen. Sie begründete auslaufende Förderungen für einzelne Initiativen mit strukturellen Anpassungen. Die Kürzungen sorgen jedoch weiterhin für Diskussionen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-demokratiefoerderung-100.html",
+     "time": "2026-11-20T16:49:38+01:00"
+    },
+    {
+     "title": "IG Metall setzt ganztägige Warnstreiks fort",
+     "summary": "Mehr als 100.000 Beschäftigte haben bei ganztägigen Warnstreiks der IG Metall die Arbeit niedergelegt, darunter bei BMW und Audi in Bayern sowie auf Werften im Norden. Ein neues Gesprächsangebot konnte die Streikwelle vorerst nicht stoppen. In der kommenden Woche sollen die Arbeitsniederlegungen fortgesetzt werden.",
+     "category": "Streiks",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/ig-metall-streik-112.html",
+     "time": "2026-11-20T20:58:08+01:00"
+    },
+    {
+     "title": "Friedrich Merz kündigt Milliardeninvestitionen aus Katar an",
+     "summary": "Bundeskanzler Friedrich Merz hat sich in Berlin mit dem Emir von Katar, Scheich Tamim bin Hamad Al Thani, getroffen. Dabei wurden neue Investitionen Katars in Höhe von 15 Milliarden Euro in Deutschland vereinbart. Beide Seiten betonten die Bedeutung der wirtschaftlichen Zusammenarbeit.",
+     "category": "Investitionen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/katar-friedrich-merz-begruesst-milliarden-investitionen-in-deutschland-a-43570797-3fed-4b48-91a3-5bcd3d31d2d0#ref=rss",
+     "time": "2026-11-20T16:52:00+01:00"
+    },
+    {
+     "title": "Gender Pay Gap: Frauen arbeiten den Rest des Jahres kostenlos",
+     "summary": "Laut EU-Kommission arbeiten Frauen in der EU aufgrund der statistischen Lohnlücke zum Jahresende hin rein rechnerisch unbezahlt. Deutschland hat zudem die Frist für neue EU-Transparenzregeln verstreichen lassen. Die Debatte um gerechte Entlohnung und Lohngerechtigkeit hält an.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/gender-pay-gap-140.html",
+     "time": "2026-11-20T11:09:15+01:00"
+    },
+    {
+     "title": "Galeria schließt drei Filialen – und plant weiteren Rückzug",
+     "summary": "Das Warenhausunternehmen Galeria trennt sich von Standorten in Berlin, Köln und München. Medienberichten zufolge könnte dies erst der Anfang sein, und am Ende nur rund die Hälfte der bisherigen Filialen erhalten bleiben. Der Konzern reagiert damit auf die anhaltenden Probleme im stationären Handel.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/galerie-schliessung-filialen-100.html",
+     "time": "2026-11-20T14:47:08+01:00"
+    },
+    {
+     "title": "Weltgrößtes Windrad in der Lausitz in Betrieb genommen",
+     "summary": "In der Lausitz ist eine bis zu 365 Meter hohe Windkraftanlage und damit laut Angaben das weltweit größte Windrad ans Netz gegangen. Ingenieure feiern dies als Rekordbauwerk, während Wirtschaftlichkeit und Akzeptanz bei Anwohnern weiterhin diskutiert werden. Das Projekt soll zur regionalen Stromerzeugung beitragen.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/energie/groesstes-windrad-lausitz-100.html",
+     "time": "2026-11-20T17:25:17+01:00"
+    },
+    {
+     "title": "'GTA 6' spielt am ersten Verkaufstag knapp 3,8 Milliarden Dollar ein",
+     "summary": "Das mit Spannung erwartete Videospiel 'GTA 6' hat direkt am ersten Tag nach der Veröffentlichung fast 3,8 Milliarden Dollar eingespielt. Damit bricht der Titel des Studios Rockstar Games nicht nur bei den Produktionskosten, sondern auch bei den Umsatzzahlen am Debüttag alle Rekorde.",
+     "category": "Spiele",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/games/gta-6-spielt-am-ersten-verkaufstag-knapp-3-8-milliarden-dollar-ein-a-53c77687-45dc-47fb-a1d8-0aab58107f86#ref=rss",
+     "time": "2026-11-20T23:12:00+01:00"
+    },
+    {
+     "title": "Chinesische Hacker drangen früher in die Deutsche Bank ein",
+     "summary": "Interne Unterlagen offenbaren einen bisher zehn Jahre lang geheimen, schwerwiegenden Hackerangriff aus China auf die Deutsche Bank. Die Dokumente zeigen demnach, wie überfordert das Geldhaus damals agierte und welche Sicherheitslücken ausgenutzt wurden.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/deutsche-bank-als-hacker-aus-china-in-das-geldhaus-eindrangen-a-72eae30d-1680-44c0-9807-ee586596fab3#ref=rss",
+     "time": "2026-11-20T20:57:00+01:00"
+    },
+    {
+     "title": "Mathematiker will Riemann-Vermutung mithilfe von KI bewiesen haben",
+     "summary": "Ein Mitarbeiter von Anthropic behauptet, mithilfe von Künstlicher Intelligenz einen Beweis für die seit über 160 Jahren ungelöste Riemann-Vermutung gefunden zu haben. Offenbar versteht der Urheber den komplexen Beweis selbst noch nicht in allen Einzelheiten, was in der Fachwelt für Diskussionen sorgt.",
+     "category": "KI",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/wissenschaft/riemann-vermutung-mathematiker-behauptet-mit-ki-einen-beweis-fuer-den-heiligen-gral-der-mathematik-gefunden-zu-haben-a-cb24fb59-9f4e-44f7-a7cc-c3c19418721b#ref=rss",
+     "time": "2026-11-20T18:30:00+01:00"
+    },
+    {
+     "title": "Hacker legen Onlineshop der Buchhandlung Hugendubel lahm",
+     "summary": "Die Internetseite und der Onlineshop der Buchhandelskette Hugendubel sind offenbar infolge eines Hackerangriffs offline. Kunden können vorübergehend weder E-Books erwerben noch den gewohnten Webservice nutzen. Das Unternehmen arbeitet an der Behebung der IT-Störung.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/hugendubel-ist-offline-hacker-legen-onlineshop-des-buchhaendlers-lahm-a-9434135c-d09d-4377-8fcf-bf320cb7f57f#ref=rss",
+     "time": "2026-11-20T20:14:00+01:00"
+    },
+    {
+     "title": "LKA Niedersachsen setzt verdeckte Ermittler als Scheinkinder ein",
+     "summary": "Das Landeskriminalamt Niedersachsen lässt verdeckte Ermittler im Internet als Kinder auftreten, um Täter im Bereich des Cybergroomings frühzeitig zu überführen. Damit soll den wachsenden Gefahren für Minderjährige im Netz entgegengewirkt werden.",
+     "category": "Digitalpolitik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/LKA-Niedersachsen-setzt-verdeckte-Ermittler-als-Scheinkinder-gegen-Groomer-ein-11532577.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-20T14:49:00+01:00"
+    },
+    {
+     "title": "Schock für FC Bayern: Harry Kane erleidet Syndesmoseriss",
+     "summary": "Der FC Bayern München muss monatelang auf seinen Starstürmer Harry Kane verzichten. Der englische Angreifer zog sich beim 1:1-Unentschieden gegen den 1. FC Köln einen Riss des Syndesmosebandes zu. Dies bestätigte der deutsche Rekordmeister nach Spielende.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/harry-kane-erleidet-syndesmoseriss,kane-verletzung-100.html",
+     "time": "2026-11-20T23:24:47+01:00"
+    },
+    {
+     "title": "Alexander Zverev zieht ins Halbfinale der ATP Finals ein",
+     "summary": "Mit drei Siegen in der Gruppenphase hat Alexander Zverev souverän das Halbfinale der ATP Finals erreicht. Die Form des Hamburgers stimmt zuversichtlich, auch wenn der rechte Fuß Beobachtung erfordert. In der nächsten Runde trifft er auf Daniil Medwedew.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/atp/zverev-schaltet-in-nummer-eins-modus,zverev-vor-finals-halbfinale-100.html",
+     "time": "2026-11-20T22:09:41+01:00"
+    },
+    {
+     "title": "Rummenigge äußert sich nach Musialas Comeback zur Vertragssituation",
+     "summary": "Beim Comeback von Jamal Musiala nach wochenlanger Pause kam der FC Bayern nicht über ein 1:1 gegen Köln hinaus. Im Anschluss äußerte sich Aufsichtsratsmitglied Karl-Heinz Rummenigge kritisch zu den wirtschaftlichen Rahmenbedingungen des Nationalspielers. Solche Summen seien schlicht nicht mehr darstellbar.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "kicker",
+     "url": "https://www.kicker.de/kann-mir-nicht-vorstellen-dass-irgendein-verein-musiala-unter-diesen-voraussetzungen-kaufen-wird-1273374/artikel#omrss",
+     "time": "2026-11-20T22:33:00+00:00"
+    },
+    {
+     "title": "Rasta Vechta dreht Spiel in Würzburg nach Verlängerung",
+     "summary": "Am 10. Spieltag der Basketball-Bundesliga hat Rasta Vechta einen Rückstand aufgeholt und bei den Würzburg Baskets mit 96:91 nach Verlängerung gewonnen. Center Tibor Pleiß glänzte dabei mit einem Double-Double. Für die Gastgeber war es die dritte Ligapleite in Serie.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "kicker",
+     "url": "https://www.kicker.de/wuerzburg-gegen-vechta-2026-bbl-5254060/spielbericht#omrss",
+     "time": "2026-11-20T21:28:16+01:00"
+    },
+    {
+     "title": "Arminia Bielefeld verliert Heimspiel gegen Magdeburg",
+     "summary": "Die Heimserie von Arminia Bielefeld ist gerissen: Gegen den 1. FC Magdeburg kassierte der DSC eine Niederlage und musste alle Punkte abgeben. Zudem schied Torwart Jonas Kersken benommen verletzungsbedingt aus. Für die Ostwestfalen war es ein bitterer Fußballabend.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga2/kersken-verletzt-serie-gerissen-arminias-bitterer-abend",
+     "time": "2026-11-20T20:46:24+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "65b541a1f427b39d",
+   "overview": "Im Zentrum der heutigen Berichterstattung über die Türkei stehen politische Debatten, juristische Entscheidungen und wirtschaftliche Entwicklungen. Während in Antalya die Verhandlungen auf der UN-Klimakonferenz COP31 andauern, hat die Bankenaufsicht BDDK neue finanzpolitische Schritte untermauert. In der Sportwelt stehen die Vorbereitungen der Süper-Lig-Klubs und die internationalen Partien der türkischen Vertreter im Fokus.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Brief von Ekrem İmamoğlu aus der Haft: Ich unterstütze den Frieden",
+     "summary": "Der im Gefängnis von Silivri inhaftierte Ekrem İmamoğlu hat in einem verfassten Brief seine Unterstützung für den Friedensprozess zum Ausdruck gebracht. Er betonte, dass er zwar nicht die Regierung, wohl aber den Frieden und den sozialen Zusammenhalt befürworte.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cqm2lnlxz7d3o",
+     "time": "2026-11-21T01:05:18+00:00"
+    },
+    {
+     "title": "Von der Türkei in Syrien gegründete sechs Fakultäten geschlossen",
+     "summary": "Per Dekret von Staatspräsident Recep Tayyip Erdoğan wurden sechs von der Gaziantep-Universität und der Universität für Gesundheitswissenschaften in Syrien betriebene Fakultäten geschlossen. Die Abwicklung der Hochschulteileinheiten in Städten wie Al-Bab, Asas und Afrin wurde dem Hochschulrat YÖK übertragen.",
+     "category": "Bildung",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/erdogan-imzaladi-turkiyenin-suriyede-kurdugu-6-fakulte-kapatildi-2085375",
+     "time": "2026-11-21T00:29:00+03:00"
+    },
+    {
+     "title": "Gesuchter Unternehmer Serdar Altınbaş in Tschechien gefasst",
+     "summary": "Das Innenministerium hat bekannt gegeben, dass der im Rahmen des weitreichenden Fonds-Betrugsermittlungen gesuchte Altınbaş-Holding-Vorstand Serdar Altınbaş in Tschechien festgenommen wurde. Die rechtlichen Schritte dauern an.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Diken",
+     "url": "https://www.diken.com.tr/fon-vurgunu-serdar-altinbas-cekyada-yakalandi/?utm_source=rss&utm_medium=rss&utm_campaign=fon-vurgunu-serdar-altinbas-cekyada-yakalandi",
+     "time": "2026-11-20T19:57:32+00:00"
+    },
+    {
+     "title": "Untersuchungsakte gegen Mustafa Sarıgül vorbereitet",
+     "summary": "Die Staatsanwaltschaft Ankara hat eine Akte mit fünf verschiedenen Vorwürfen gegen Mustafa Sarıgül an das Justizministerium übermittelt. Mit der Weiterleitung an das Parlament TBMM wird das Verfahren zur Aufhebung seiner Immunität eingeleitet.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/mustafa-sarıgül-için-fezleke-ankara-başsavcılığından-dokunulmazlık-hamlesi/a-80004935",
+     "time": "2026-11-20T15:01:00+00:00"
+    },
+    {
+     "title": "Anwaltskammer TBB fordert sofortige Freilassung von Can Atalay",
+     "summary": "Die Union der türkischen Rechtsanwaltskammern TBB hat nach der Entscheidung des EGMR über die Verletzung von Can Atalays Rechten seine Freilassung gefordert. In der Erklärung wurde betont, dass die Missachtung von Urteilen des Verfassungsgerichts die Rechtsordnung gefährdet.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Agos",
+     "url": "https://www.agos.com.tr/tr/haber/aihm-karari-derhal-uygulanmali-atalay-tahliye-edilmeli-42573",
+     "time": "2026-11-20T13:28:00+03:00"
+    },
+    {
+     "title": "Zwangsvollstreckungsverfahren bei Mautsystem HGS werden gestoppt",
+     "summary": "Verkehrs- und Infrastrukturminister Abdulkadir Uraloğlu gab neue Maßnahmen bezüglich Problemen bei den HGS-Mautdurchfahrten bekannt. Die anwaltlichen Inkassoverfahren privater Autobahnbetreiber werden vorübergehend ausgesetzt.",
+     "category": "Verkehr",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/hgs-de-yeni-donem-bakan-uraloglu-kararlari-acikladi-2557903",
+     "time": "2026-11-20T17:23:00+03:00"
+    },
+    {
+     "title": "Neue Regelung der Bankenaufsicht für Mindestzahlungen bei Kreditkarten",
+     "summary": "Die Bankenaufsichtsbehörde BDDK hat das System der Mindestzahlungen für Kreditkartenschulden reformiert. Künftig richten sich die zu zahlenden Mindestbeträge nach den jeweiligen Kreditkartenlimits.",
+     "category": "Banken",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/bddk-den-kredi-karti-karari-asgari-odeme-oranlari-degisti-2557882",
+     "time": "2026-11-20T16:14:00+03:00"
+    },
+    {
+     "title": "OYAK weist finanzielle Anschuldigungen scharf zurück",
+     "summary": "Die Vorsorgekasse OYAK hat Vorwürfe zurückgewiesen, wonach ihre Finanzressourcen durch Investitionen in Fonds entzogen worden seien. In einer Erklärung wurde von Desinformation gesprochen und rechtliche Schritte angekündigt.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/oyak-tamamen-iftira-gerceklerle-hicbir-alakasi-yok-2085376",
+     "time": "2026-11-21T01:09:33+03:00"
+    },
+    {
+     "title": "Finanzminister Mehmet Şimşek bewertet Leistungsbilanz",
+     "summary": "Finanz- und Schatzminister Mehmet Şimşek äußerte sich zur Entwicklung der Auslandsverschuldung und des Leistungsbilanzdefizits der Türkei. Er hob hervor, dass trotz globaler Energiekrise eine Verbesserung des Außenbilanzgleichgewichts erzielt worden sei.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/mehmet-simsek-2026-cari-acik-tahminini-acikladi-zorlu-kosullarin-oldugu-bu-donemde-2557850",
+     "time": "2026-11-20T14:59:00+03:00"
+    },
+    {
+     "title": "Zentralbank veröffentlicht Daten zum Auslandsverschuldungsstand",
+     "summary": "Der Schuldenstand der Türkei im Ausland ist im dritten Quartal gestiegen. Der Zuwachs betrifft sowohl kurz- als auch langfristige Verbindlichkeiten der Wirtschaft.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-nin-dis-borcu-ne-kadar-tcmb-acikladi-2557818",
+     "time": "2026-11-20T12:19:00+03:00"
+    },
+    {
+     "title": "Türkischer Mathematiker behauptet Lösung der Riemannschen Vermutung per KI",
+     "summary": "Der bei Anthropic tätige türkische Mathematiker Levent Alpöge hat erklärt, er habe eines der schwierigsten mathematischen Probleme, die Riemannsche Vermutung, mithilfe des KI-Modells Claude bewiesen. Diese Ankündigung stieß in Fachkreisen auf großes Interesse.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/20/turk-matematikci-167-yillik-problemi-yapay-zekayla-cozdugunu-one-surdu",
+     "time": "2026-11-20T19:40:25+01:00"
+    },
+    {
+     "title": "Mercedes-AMG GT 4-Türer Coupé in der Türkei auf dem Markt",
+     "summary": "Das mit Elektroantrieb ausgestattete neue Mercedes-AMG GT 4-Türer Coupé ist ab sofort auf dem türkischen Markt erhältlich. Die technischen Spezifikationen und Verkaufspreise wurden veröffentlicht.",
+     "category": "Automobil",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/mercedes-amg-gt-4-kapi-coupe-turkiye-fiyati-ozellikleri-h229291.html",
+     "time": "2026-11-20T17:44:03+03:00"
+    },
+    {
+     "title": "EU-Kommissionziel von KI-gestütztem Cyberangriff",
+     "summary": "Die Europäische Kommission hat bestätigt, dass sie Ziel eines KI-basierten Cyberangriffs geworden ist. Aus Gründen der Untersuchungssicherheit wurden zunächst keine weiteren Details genannt.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/ab-komisyonu-yapay-zeka-destekli-siber-saldiriya-ugradik-2557926",
+     "time": "2026-11-20T18:53:00+03:00"
+    },
+    {
+     "title": "Toyota stellt ersten Corolla-Pick-up vor",
+     "summary": "Toyota hat den neuen Pick-up-Wagen Corolla Deck präsentiert, der auf der Corolla-Cross-Plattform basiert. Das in Brasilien produzierte Hybridfahrzeug soll auf internationalen Märkten angeboten werden.",
+     "category": "Automobil",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/toyota-corolla-pikap-hibrit-motor-h229285.html",
+     "time": "2026-11-20T17:00:49+03:00"
+    },
+    {
+     "title": "Apple entwickelt autonomen KI-Agenten",
+     "summary": "Apple arbeitet an einem autonomen KI-Agenten, der im Internet surfen und Anwendungen steuern kann. Damit positioniert sich das Unternehmen als Konkurrent zu Branchengrößen wie OpenAI und Anthropic.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-dan-yapay-zeka-ajani-hamlesi-openai-ve-anthropic-e-rakip-geliyor-2557820",
+     "time": "2026-11-20T12:30:00+03:00"
+    },
+    {
+     "title": "Türkische Basketball-Nationalmannschaft an der Spitze der FIBA-Rangliste",
+     "summary": "Die türkische A-Nationalmannschaft der Männer belegt in den Leistungsrankings der europäischen Qualifikation zur FIBA-Basketball-Weltmeisterschaft 2027 den ersten Platz. Das Team überzeugte mit starken Leistungen.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-a-buyuk-onur-fiba-siralamasinda-zirvede-2557938",
+     "time": "2026-11-20T19:59:00+03:00"
+    },
+    {
+     "title": "Verletzungssorgen bei Galatasaray vor wichtigen Spielen",
+     "summary": "Vor den anstehenden Partien in der Süper Lig arbeitet das medizinische Team von Galatasaray auf Hochtouren. Der Verein informierte über den aktuellen Reha-Status verletzter Akteure wie Victor Osimhen.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/spor-haberleri/galatasarayda-dev-maclar-oncesi-sakatlik-alarmi-victor-osimhen-hangi-2085380",
+     "time": "2026-11-21T02:52:06+03:00"
+    },
+    {
+     "title": "Galatasaray verpflichtet WNBA-Nachwuchsstar Olivia Miles",
+     "summary": "Galatasaray Çağdaş Faktoring hat die Verpflichtung der US-amerikanischen Aufbauspielerin Olivia Miles bekannt gegeben. Die zum WNBA-Rookie des Jahres 2026 gewählte Athletin stößt im März 2027 zum Kader.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-dan-wnba-yildizina-imza-2557949",
+     "time": "2026-11-20T21:14:00+03:00"
+    },
+    {
+     "title": "Klarer Heimsieg für Anadolu Efes gegen ASVEL",
+     "summary": "In der 13. Runde der Turkish Airlines EuroLeague hat Anadolu Efes den französischen Vertreter LDLC ASVEL vor heimischer Kulisse mit 107:81 bezwungen. Die Istanbuler dominierten das Spielgeschehen.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ten-asvel-karsisinda-farkli-galibiyet-2557963",
+     "time": "2026-11-20T22:32:00+03:00"
+    },
+    {
+     "title": "Auslosung der UEFA Nations League erfolgt",
+     "summary": "Nach der Auslosung im schweizerischen Nyon stehen die Paarungen für das Viertelfinale und die Play-offs der UEFA Nations League fest. Die Partien werden im März 2027 ausgetragen.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/uluslar-ligi-nde-ceyrek-final-ve-play-off-eslesmeleri-belli-oldu-2557890",
+     "time": "2026-11-20T16:37:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "37edc7c5c95bc688",
+   "overview": "Das weltweite Geschehen wird von den Nachwirkungen des umstrittenen Dreiergipfels von US-Präsident Trump mit den Staatschefs Chinas und Russlands sowie von anhaltenden Sicherheitskrisen in Europa geprägt. Während schwere Angriffe in der Ukraine und Luftraumverletzungen in Polen die Spannungen verschärfen, haben sich das Vereinigte Königreich und die Europäische Union auf ein wegweisendes Abkommen zur Annäherung nach dem Brexit geeinigt. In Wirtschaft und Technologie sorgten derweil Marktkorrekturen im KI-Sektor sowie historische Verkaufsrekorde in der Unterhaltungsindustrie für Schlagzeilen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Schwere Angriffe auf Kiew und Luftraumverletzung in Polen",
+     "summary": "Russische Streitkräfte haben bei Angriffen auf Brücken im Herzen der ukrainischen Hauptstadt Kiew mehrere Menschen getötet. Gleichzeitig drangen nach polnischen Angaben mehrere Flugobjekte in den polnischen Luftraum ein, was Warschau als gezielte Provokation wertete. Die Vorfälle verschärfen die Sicherheitslage in Osteuropa drastisch.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/ukraine-russland-angriffe-bruecken-100.html",
+     "time": "2026-11-20T12:47:44+01:00"
+    },
+    {
+     "title": "Großbritannien und EU vereinbaren engere Beziehungen beim Gipfel in Brüssel",
+     "summary": "Sechs Jahre nach dem Brexit haben die EU und das Vereinigte Königreich bei einem Gipfel in Brüssel ein weitreichendes Abkommen zur Annäherung besiegelt. Die Vereinbarung umfasst Erleichterungen beim Lebensmittelhandel, den Emissionshandel sowie Jugendmobilitätsprogramme. Beide Seiten werten den Schritt als historischen Neuanfang zur Stärkung der Zusammenarbeit.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/eu-uk-gipfel-102.html",
+     "time": "2026-11-20T18:44:07+01:00"
+    },
+    {
+     "title": "Trumps Dreiergipfel mit Xi und Putin stößt in den USA auf Kritik",
+     "summary": "Erstmals trat ein US-Präsident gemeinsam mit den Staatschefs Chinas und Russlands an einen Tisch, ohne dass nennenswerte Abkommen erzielt wurden. In den USA wird das Treffen kontrovers als inszenierte Show oder fragwürdige Diplomatie debattiert. Der Gipfel wirft international Fragen zur künftigen Ausrichtung der US-Außenpolitik auf.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/us-reaktionen-dreiergipfel-100.html",
+     "time": "2026-11-20T06:48:01+01:00"
+    },
+    {
+     "title": "Französische Polizisten nach rassistischem Angriff auf Musikproduzenten verurteilt",
+     "summary": "Wegen der brutalen Misshandlung des schwarzen Musikproduzenten Michel Zecler im Jahr 2020 hat ein Gericht in Paris drei Polizisten zu Haftstrafen verurteilt. Der Vorfall hatte landesweit Empörung ausgelöst und eine intensive Debatte über rassistische Polizeigewalt in Frankreich entfacht. Das Urteil gilt in der französischen Justizgeschichte als bemerkenswert.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/france/20261120-paris-police-officers-sentenced-to-prison-2020-beating-of-black-man-michel-zecler",
+     "time": "2026-11-20T22:04:45+00:00"
+    },
+    {
+     "title": "Brasiliens Ex-Präsident Jair Bolsonaro wegen Bauchschmerzen im Krankenhaus",
+     "summary": "Der frühere brasilianische Staatschef Jair Bolsonaro ist wegen eines Darmverschlusses in Brasília in ein Krankenhaus eingeliefert worden. Nach Angaben seiner Familie erhält der rechtsextreme Politiker Schmerzmittel und wird medizinisch überwacht. Sein Zustand wird genau beobachtet.",
+     "category": "Gesundheit",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/brazil-ex-president-jair-bolsonaro-taken-to-hospital-over-abdominal-pain/a-80007648",
+     "time": "2026-11-21T03:16:00+00:00"
+    },
+    {
+     "title": "Tech-Abverkauf und Anthropic-Börsengang reißen globale Märkte nach unten",
+     "summary": "Ein massiver Ausverkauf bei Technologiewerten und Kursverluste beim Börsenneuling Anthropic haben die Wall Street schwer getroffen. Der Nasdaq Composite gab seine Gewinne aus dem laufenden Jahr vollständig ab. Anleger stellen angesichts der enormen Investitionen in die künstliche Intelligenz zunehmend die Rentabilität der Projekte infrage.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/business/2026/nov/20/global-stock-markets-slump-anthropic-ipo-ai-sell-off",
+     "time": "2026-11-20T21:38:17+00:00"
+    },
+    {
+     "title": "Grand Theft Auto VI erzielt 3,8 Milliarden Dollar Umsatz am ersten Tag",
+     "summary": "Das von Rockstar Games veröffentlichte Spiel Grand Theft Auto VI hat am ersten Tag weltweit 3,8 Milliarden US-Dollar eingespielt. Damit bricht der Titel sämtliche bisherigen Rekorde für Videospielstarts und Einspielergebnisse der Filmgeschichte. Experten sprechen vom größten Entertainment-Launch aller Zeiten.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+     "time": "2026-11-20T22:53:24+00:00"
+    },
+    {
+     "title": "JPMorgan-Chef kritisiert britische Bankensteuer und kündigt Gegenmaßnahmen an",
+     "summary": "JPMorgan-CEO Jamie Dimon hat die Verdoppelung der britischen Bankenabgabe von 3 auf 6 Prozent durch die Regierung als unfair kritisiert. Er kündigte an, Wege zu finden, um die Belastungen für das Finanzinstitut auszugleichen. Die Steuerpolitik der Regierung sorgt im Londoner Bankensektor für heftige Debatten.",
+     "category": "Banken",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/business/2026/nov/20/jp-morgan-jamie-dimon-uk-tax-hike-bank-surcharge",
+     "time": "2026-11-20T19:38:59+00:00"
+    },
+    {
+     "title": "Airbnbs neue Richtlinien für Gäste treten in Kraft",
+     "summary": "Die Buchungsplattform Airbnb hat neue Vorgaben eingeführt, die den Rahmen für Aufgaben von Gästen bei Aufenthalten regeln sollen. Während Reisende dadurch von manchen Reinigungsarbeiten entlastet werden könnten, befürchten Experten steigende Gesamtpreise. Die Änderungen sorgen bei Nutzern für Diskussionen.",
+     "category": "Tourismus",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cmx278n2genyo",
+     "time": "2026-11-20T15:48:35+00:00"
+    },
+    {
+     "title": "Notfallkampagne treibt Verkäufe von haltbaren Lebensmitteln in Großbritannien",
+     "summary": "Offiziellen Daten zufolge sind die Umsätze mit Konserven und haltbarer Milch im Oktober gestiegen. Experten führen dies auf eine verstärkte Bevorratung durch Verbraucher im Zuge einer Informationskampagne zurück. Der Trend zeigt das veränderte Vorsorgeverhalten der Bürger.",
+     "category": "Einzelhandel",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/ck053mzy2qqeo",
+     "time": "2026-11-20T09:44:56+00:00"
+    },
+    {
+     "title": "Anthropic-Forscher will Riemann-Hypothese mithilfe von KI gelöst haben",
+     "summary": "Ein Mathematiker des Unternehmens Anthropic hat erklärt, er habe eine künstliche Intelligenz eingesetzt, um das berühmte mathematische Rätsel der Riemann-Hypothese zu beweisen. Die Fachwelt reagiert gespannt, betont jedoch, dass die Verifikation durch unabhängige Mathematiker einige Zeit in Anspruch nehmen wird. Der Vorstoß markiert einen möglichen Meilenstein für den Einsatz von KI in der Grundlagenforschung.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c6pqr2g7w059o",
+     "time": "2026-11-20T23:08:57+00:00"
+    },
+    {
+     "title": "Meta überdenkt Netto-Null-Ziel bis 2030 wegen steigender KI-Emissionen",
+     "summary": "Wegen des massiven Energiebedarfs und Rekordemissionen durch neue KI-Rechenzentren evaluiert Meta seine Nachhaltigkeitsziele für das Jahr 2030 neu. Der enorme Ressourcenverbrauch der Technologiebranche gerät zunehmend in die Kritik. Beobachter fragen, ob andere Tech-Konzerne ähnliche Schritte ankündigen werden.",
+     "category": "Klima",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/meta-reconsiders-2030-net-zero-goal-amid-record-emissions-from-ai-data-centers/",
+     "time": "2026-11-20T21:47:10+00:00"
+    },
+    {
+     "title": "US-Kommission untersagt Kalifornien Durchsetzung von Festnetz-Vorgaben",
+     "summary": "Die US-Kommission FCC hat per Präemptionserklärung entschieden, dass Kalifornien seine Vorschriften zur Aufrechterhaltung von Festnetzdiensten für AT&T nicht durchsetzen darf. Die Behörde argumentiert, dass staatliche Regeln mit der Bundesgesetzgebung kollidieren. Der Schritt entfacht den Streit zwischen Bund und US-Bundesstaaten neu.",
+     "category": "Politik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+     "time": "2026-11-20T22:28:24+00:00"
+    },
+    {
+     "title": "Google gestaltet Startseite um und ersetzt Suchbutton durch KI-Sidebar",
+     "summary": "Google hat eine überarbeitete Suchstartseite vorgestellt, bei der der traditionelle Suchknopf zugunsten einer integrierten KI-Seitenleiste entfallen ist. Nutzer erhalten dadurch einen direkten Zugriff auf Chat-Verläufe und KI-Werkzeuge. Die Änderung unterstreicht den Wandel hin zu einer konversationsbasierten Suche.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/googles-latest-search-page-redesign-drops-the-search-button-adds-ai-sidebar/",
+     "time": "2026-11-20T21:58:29+00:00"
+    },
+    {
+     "title": "Weißes Haus entlässt Cybersicherheitschef nach technischen Ausfällen",
+     "summary": "Nach einer Serie von Pannen und IT-Ausfällen hat das Weiße Haus den nationalen Cybersicherheitsdirektor entlassen. Berichten zufolge verlor er den Rückhalt im Beraterstab. Die Amtsgeschäfte übernimmt vorerst kommissarisch eine leitende IT-Beauftragte des Pentagons.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/cwz0k3nn5p5mo",
+     "time": "2026-11-20T19:03:56+00:00"
+    },
+    {
+     "title": "Bayern München wochenlang ohne verletzten Harry Kane",
+     "summary": "Bayern München muss monatelang auf Stürmerstar Harry Kane verzichten. Der englische Nationalspieler erlitt beim 1-1 gegen den 1. FC Köln einen Bänderriss im linken Sprunggelenk, wie der Verein bestätigte. Kane musste bereits nach wenigen Minuten ausgewechselt werden und fehlt dem Rekordmeister in den kommenden Wochen schwer.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/20/harry-kane-ankle-ligament-injury-bayern-munich-england",
+     "time": "2026-11-20T22:43:40+00:00"
+    },
+    {
+     "title": "Cricket Australia spricht Test-Kapitän Pat Cummins einstimmig das Vertrauen aus",
+     "summary": "Trotz intensiven Drucks und des Wiederauflebens der alten Skandal-Debatte bleibt Pat Cummins Kapitän der australischen Test-Cricket-Mannschaft. Der Verband Cricket Australia stellte sich in einer einstimmigen Erklärung hinter den Bowler. Auch Teamkollege Josh Hazlewood stärkte dem umstrittenen Spielführer demonstrativ den Rücken.",
+     "category": "Cricket",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/21/josh-hazlewood-pat-cummins-cricket-australia-sandpapergate",
+     "time": "2026-11-21T03:24:42+00:00"
+    },
+    {
+     "title": "Lauren Price krönt sich zur unbestrittenen Weltergewichts-Weltmeisterin",
+     "summary": "Lauren Price hat sich durch einen dominanten Sieg gegen Michaela Kotaskova den Titel der unbestrittenen Weltmeisterin im Weltergewicht gesichert. Die Britin schrieb damit Boxgeschichte und feierte den bislang größten Erfolg ihrer Profikarriere. Price ließ ihrer Gegnerin über den gesamten Kampf hinweg keine Chance.",
+     "category": "Boxen",
+     "topic": "spor",
+     "importance": 2,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/boxing/articles/cw808y2lrkzxo",
+     "time": "2026-11-20T23:30:56+00:00"
+    },
+    {
+     "title": "Manchester United: Kosten für Trainerwechsel nähern sich der 100-Millionen-Grenze",
+     "summary": "Durch die Verpflichtung von Mauricio Pochettino als neuen Cheftrainer und fällige Kompensationen an den US-Verband steigen die Ausgaben von Manchester United für Trainerwechsel massiv an. Die Gesamtsumme, die der Klub in den vergangenen Jahren für Entlassungen und Verpflichtungen aufwenden musste, beläuft sich mittlerweile auf knapp 100 Millionen Pfund.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/football/articles/cwd01n9z23x5o",
+     "time": "2026-11-20T23:18:16+00:00"
+    },
+    {
+     "title": "Carlos Alcaraz besiegt Cobolli und wahrt weiße Weste bei ATP Finals",
+     "summary": "Trotz leichter Blessuren hat Carlos Alcaraz sein Gruppenspiel bei den ATP Finals gegen Flavio Cobolli souverän gewonnen. Der Spanier beendete damit die Gruppenphase ohne Niederlage und unterstrich seine Ambitionen auf den Turniersieg. Alcaraz zeigte eine konzentrierte und dominante Leistung.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cqrkgn17emr2o",
+     "time": "2026-11-20T21:58:24+00:00"
+    }
+   ]
+  }
+ ]
+}
