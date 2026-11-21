@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T07:51+01:00",
+ "updatedAt": "2026-11-21T08:21+01:00",
  "countries": {
   "world": [
    {
@@ -51,6 +51,24 @@
   ],
   "tr": [
    {
+    "time": "2026-11-21T10:08:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010511/sultangazi-de-insaatin-bodrum-katinda-erkek-cesedi-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İstanbul Sultangazi'de bir inşaatın bodrum katında yüksekten düşme sonucu hayatını kaybeden bir erkeğin cesedi bulundu.",
+     "de": "In Istanbul-Sultangazi wurde im Keller einer Baustelle die Leiche eines Mannes entdeckt, der durch einen Sturz ums Leben kam."
+    }
+   },
+   {
+    "time": "2026-11-21T09:48:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010507/rusya-ve-ukrayna-karsilikli-saldirilarini-yogunlastirdi-sivil-kayiplar-artiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Rusya'nın Kriviy Rig'e düzenlediği saldırıda 2 kişi yaşamını yitirdi, 47 kişi yaralandı; tarafların karşılıklı saldırıları sürüyor.",
+     "de": "Bei einem russischen Angriff auf Krywyj Rih starben zwei Menschen und 47 wurden verletzt, während die gegenseitigen Angriffe anhalten."
+    }
+   },
+   {
     "time": "2026-11-21T09:45:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010506/akp-li-erzurum-buyuksehir-belediyesinin-sayistay-raporu-9-milyarlik-ihalelerde-usulsuzlukler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Slovakya'nın başkenti Bratislava'da sokağa çıkan gençler, savaşa değil eğitime ve sosyal hizmetlere bütçe ayrılmasını istedi.",
      "de": "Jugendliche forderten in der slowakischen Hauptstadt Bratislava bei Protesten mehr Budget für Bildung und soziale Dienste statt für Kriege."
-    }
-   },
-   {
-    "time": "2026-11-21T09:22:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010502/ekrem-imamoglu-ndan-surecle-ilgili-mektup-iktidari-desteklemiyorum-ama-barisi-destekliyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Tutuklu İstanbul Büyükşehir Belediye Başkanı Ekrem İmamoğlu, iktidarı desteklemediğini ancak ülkenin barışını desteklediğini belirtti.",
-     "de": "Der inhaftierte Istanbuler Bürgermeister Ekrem İmamoğlu erklärte in einem Brief, er unterstütze nicht die Regierung, wohl aber den Frieden."
-    }
-   },
-   {
-    "time": "2026-11-21T08:38:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010501/ankara-da-saganak-etkili-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Ankara'da gece saatlerinde başlayan sağanak yağış sabah saatlerinde de etkisini sürdürmeye devam ediyor.",
-     "de": "In Ankara sorgt nächtlicher Starkregen auch am Morgen weiterhin für Behinderungen."
     }
    }
   ],
@@ -153,6 +153,7 @@
   "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
   "https://www.bbc.co.uk/news/articles/cxnv4zvmdy0jo",
   "https://www.cumhuriyet.com.tr/yasam/bursa-nin-yani-basinda-rengarenk-cumbali-evleri-ile-sanat-koyu-misi-2557504",
+  "https://www.dw.com/en/man-convicted-of-arson-over-deadly-2025-palisades-fire-in-los-angeles/a-80007933",
   "https://www.evrensel.net/haber/6010496/almanya-da-hukumet-politikalarini-protesto-eylemine-polis-mudahalesi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010497/spk-den-baticim-hisselerine-gecici-islem-yasagi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010498/istanbul-da-ogrenciler-toplu-ulasimda-1-liraya-yolculuk-yapacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -164,16 +165,24 @@
   "https://www.evrensel.net/haber/6010504/samsun-da-ekolojik-yikim-buyuyor-tarim-alanlari-daraliyor-kiyilar-yok-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010505/abd-de-cin-e-cip-ihracati-tartismasi-schumer-trump-i-ulusal-guvenligi-tehlikeye-atmakla-sucladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010506/akp-li-erzurum-buyuksehir-belediyesinin-sayistay-raporu-9-milyarlik-ihalelerde-usulsuzlukler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010507/rusya-ve-ukrayna-karsilikli-saldirilarini-yogunlastirdi-sivil-kayiplar-artiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010508/silopi-de-termik-santrale-karsi-yapilacak-yuruyuse-katilim-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010509/22-yil-once-mardin-de-oldurulen-ugur-kaymaz-in-annesi-sorumlularin-yargilanmasi-baris-icin-umut-olur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010510/termik-santraller-su-kaynaklarini-tuketiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010511/sultangazi-de-insaatin-bodrum-katinda-erkek-cesedi-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/finanzen/so-kommt-die-anthropic-aktie-in-ihren-etf-accg-201700980.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/caroline-wahl-mein-botox-unfall-und-warum-es-besser-ist-mit-faeltchen-schoen-zu-sein-201695327.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel-faz-19444916.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-hochspannung-stoert-die-stadtentwicklung-nicht-accg-201688481.html",
   "https://www.faz.net/podcasts/ukraine-verhandlungen-mehr-symbolik-als-substanz-201703144.html",
+  "https://www.france24.com/en/americas/20261121-us-agriculture-department-fbi-hit-by-cyberattacks-media-report",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
   "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-boris-pistorius-patzt-hilfen-fuer-die-ukraine-afd-auf-kurssuche-donald-trump-lobt-stephen-miller-a-cb84b583-511a-4850-9455-833a6e8d92a7#ref=rss",
+  "https://www.spiegel.de/psychologie/auswandern-warum-jessica-jessen-vom-dorf-in-die-welt-und-zurueck-zog-a-3e2801b1-0382-4518-a888-2f3994b1c3bc#ref=rss",
   "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
   "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
@@ -182,9 +191,13 @@
   "https://www.theguardian.com/society/2026/nov/21/campaigners-back-call-for-scrutiny-of-consent-laws-by-joanne-young",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+  "https://www.welt.de/debatte/article6affe19e39a3e8110f0e331f/berlin-die-linken-sind-wenigstens-ehrlich.html",
+  "https://www.welt.de/finanzen/plus6b001fa1b237b5b41c9a247f/aktien-gold-bitcoin-dieser-eine-grund-steckt-hinter-dem-grossen-ausverkauf.html",
+  "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6affeb0d39a3e8110f0e33fb/ende-romantischer-illusionen-kein-koalitionsbruch-wird-das-buergertum-retten.html",
   "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
-  "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html"
+  "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
+  "https://www.welt.de/wissenschaft/plus6ae3469f981b80c0b7985b29/sex-ueber-tiefenstimulation-des-vagus-konnten-diese-frauen-orgasmen-erleben.html"
  ]
 }
