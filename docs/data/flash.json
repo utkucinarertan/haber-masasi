@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T06:21+01:00",
+ "updatedAt": "2026-11-21T06:51+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T06:28:57+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
+    "text": {
+     "tr": "Birleşmiş Milletler İklim Değişikliği Konferansı, devam eden müzakereler nedeniyle hafta sonuna kadar uzatıldı.",
+     "de": "Die Weltklimakonferenz geht wegen andauernder Verhandlungen in die Verlängerung."
+    }
+   },
    {
     "time": "2026-11-21T04:34:00+00:00",
     "source": "BBC News World",
@@ -32,6 +41,15 @@
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T08:38:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010501/ankara-da-saganak-etkili-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Ankara'da gece saatlerinde başlayan sağanak yağış sabah saatlerinde de etkisini sürdürmeye devam ediyor.",
+     "de": "In Ankara sorgt nächtlicher Starkregen auch am Morgen weiterhin für Behinderungen."
+    }
+   },
    {
     "time": "2026-11-21T07:59:00+03:00",
     "source": "Evrensel",
@@ -71,6 +89,15 @@
     }
    },
    {
+    "time": "2026-11-21T05:23:16+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
+    "text": {
+     "tr": "Ulaştırma Bakanı Steffen Bilger, otomotiv endüstrisinden Almanya'daki üretim ve geliştirme üssüne bağlı kalmasını istedi.",
+     "de": "Verkehrsminister Steffen Bilger fordert von der Automobilindustrie ein klares Bekenntnis zum Standort Deutschland."
+    }
+   },
+   {
     "time": "2026-11-21T05:03:21+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
@@ -90,11 +117,18 @@
   "https://www.evrensel.net/haber/6010498/istanbul-da-ogrenciler-toplu-ulasimda-1-liraya-yolculuk-yapacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010499/ibb-nin-2027-mali-yili-butcesi-kabul-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010500/meteoroloji-den-yagisli-hava-uyarisi-hava-sicakliklari-2-ila-6-derece-azalacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010501/ankara-da-saganak-etkili-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/erdbeben-der-staerke-6-7-erschuettert-peru-bis-nach-lima-accg-201704102.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
+  "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-trump-bringt-stabschef-miller-als-praesidentschaftskandidaten-ins-spiel-faz-19444916.html",
+  "https://www.faz.net/podcasts/ukraine-verhandlungen-mehr-symbolik-als-substanz-201703144.html",
+  "https://www.spiegel.de/kultur/kevin-allein-zu-haus-macaulay-culkin-plant-dritte-fortsetzung-nach-35-jahren-a-ecdbb8df-9679-4753-bd84-cfa988e23d81#ref=rss",
+  "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
+  "https://www.welt.de/politik/article6b010faf5842ff528b9e276d/made-in-germany-verkehrsminister-bilger-erwartet-von-automobilindustrie-klares-bekenntnis-zu-deutschland.html",
+  "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html"
  ]
 }
