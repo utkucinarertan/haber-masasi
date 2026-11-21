@@ -1,8 +1,26 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T18:57+01:00",
+ "updatedAt": "2026-11-21T19:27+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T18:08:30+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, federal müteahhitlerin Kongre sorgulamaları konusunda Beyaz Saray'a danışmasını zorunlu kılan bir kararname imzaladı.",
+     "de": "US-Präsident Donald Trump hat per Dekret angeordnet, dass Bundesauftragnehmer sich bei Kongressanfragen mit dem Weißen Haus abstimmen müssen."
+    }
+   },
+   {
+    "time": "2026-11-21T18:02:23+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
+    "text": {
+     "tr": "Finlandiya körfezinde bir Rus kargo gemisi drone saldırısı sonucu alev alarak Finlandiya sularına sürüklendi.",
+     "de": "Ein russisches Frachtschiff geriet nach einem Drohnenangriff im Finnischen Meerbusen in Brand und trieb in finnische Gewässer ab."
+    }
+   },
    {
     "time": "2026-11-21T17:24:43+01:00",
     "source": "Euronews Türkçe",
@@ -28,24 +46,6 @@
     "text": {
      "tr": "Los Angeles mahkemesi, 2025 Palisades yangınını çıkaran eski sürücü Jonathan Rinderknecht'i suçlu buldu.",
      "de": "Ein Gericht in Los Angeles hat einen ehemaligen Fahrer schuldig gesprochen, im Jahr 2025 das Palisades-Feuer gelegt zu haben."
-    }
-   },
-   {
-    "time": "2026-11-21T17:08:00+00:00",
-    "source": "DW World",
-    "url": "https://www.dw.com/en/russian-helicopter-suspected-of-violating-finnish-airspace/a-80010133",
-    "text": {
-     "tr": "Finlandiya Savunma Bakanlığı, Rus helikopterinin Finlandiya hava sahasını ihlal etmiş olabileceğinden şüpheleniyor.",
-     "de": "Das finnische Verteidigungsministerium vermutet eine Verletzung des finnischen Luftraums durch einen russischen Hubschrauber."
-    }
-   },
-   {
-    "time": "2026-11-21T16:51:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/justiz/mexiko-heftige-feuergefechte-bei-festnahme-von-kartell-boss-fausto-isidro-meza-flores-a-0485868c-060d-4086-b981-5bb0611f6c9c#ref=rss",
-    "text": {
-     "tr": "Meksika'da uyuşturucu baronu Fausto Isidro Meza Flores'in yakalanması sırasında şiddetli çatışmalar yaşandı.",
-     "de": "Beim Zugriff auf den Drogenboss Fausto Isidro Meza Flores kam es in Mexiko zu heftigen Feuergefechten."
     }
    }
   ],
@@ -98,6 +98,15 @@
   ],
   "de": [
    {
+    "time": "2026-11-21T18:33:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
+    "text": {
+     "tr": "Rus e-ticaret devi Wildberries'in kurucusu ve yöneticisi Tatjana Kim, AB yaptırımlarının ardından görevinden ayrıldı.",
+     "de": "Tatjana Kim, die Chefin des russischen Onlinehändlers Wildberries, ist nach EU-Sanktionen von ihrem Führungsposten zurückgetreten."
+    }
+   },
+   {
     "time": "2026-11-21T18:32:19+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
@@ -132,15 +141,6 @@
      "tr": "Costa Concordia'nın eski kaptanı Francesco Schettino, yaklaşık dokuz yıllık hapis cezasının ardından şartlı olarak serbest bırakıldı.",
      "de": "Der frühere Kapitän der Costa Concordia, Francesco Schettino, wurde nach rund neunjähriger Haft unter Auflagen aus dem Gefängnis entlassen."
     }
-   },
-   {
-    "time": "2026-11-21T17:07:53+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bauern-rufen-wieder-zum-protest-warum-ist-der-politische-einfluss-der-landwirte-so-gross-201635365.html",
-    "text": {
-     "tr": "Alman Çiftçiler Birliği, planlanan AB doğrudan ödeme kesintilerine karşı yeni protestolar düzenleneceğini duyurdu.",
-     "de": "Der Deutsche Bauernverband ruft zu neuen Protesten gegen geplante Kürzungen der EU-Direktzahlungen auf."
-    }
    }
   ]
  },
@@ -157,6 +157,7 @@
   "https://tr.euronews.com/2026/11/21/estonya-rusya-sinirindaki-tum-kara-yolu-gecislerini-kapatma-karari-aldi",
   "https://tr.euronews.com/2026/11/21/ev-hapsindeki-eski-brezilya-devlet-baskani-bolsonaro-karin-agrisi-nedeniyle-hastaneye-kald",
   "https://tr.euronews.com/2026/11/21/finlandiya-korfezinde-rus-kargo-gemisine-iha-saldirisi",
+  "https://tr.euronews.com/2026/11/21/italyan-mucevherci-paolo-bulgari-89-yasinda-romada-hayatini-kaybetti",
   "https://tr.euronews.com/2026/11/21/macrondan-rusyanin-saldirganliginda-yeni-seviye-uyarisi",
   "https://tr.euronews.com/2026/11/21/meksikada-operasyon-fbiin-en-cok-arananlar-listesindeki-kartel-lideri-yakalandi",
   "https://tr.euronews.com/2026/11/21/off-the-record-trumpin-yalta-20-girisimi-siyasi-bir-fiyaskoya-donustu",
@@ -348,6 +349,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/presserat-fordert-auskunftsrecht-auf-bundesebene-accg-201700875.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/deutsche-bank-unter-datenschutz-pruefung-was-steckt-hinter-dem-datenklau-accg-201701211.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/trump-media-in-der-bitcoin-falle-droht-der-notverkauf-accg-201701385.html",
+  "https://www.faz.net/aktuell/finanzen/neuer-standard-fuer-bessere-qualitaet-deutscher-anleihen-201695027.html",
   "https://www.faz.net/aktuell/finanzen/so-kommt-die-anthropic-aktie-in-ihren-etf-accg-201700980.html",
   "https://www.faz.net/aktuell/gesellschaft/gesundheit/beeinflusst-eine-vasektomie-das-sexleben-was-maenner-zur-sterilisation-wissen-muessen-accg-201666509.html",
   "https://www.faz.net/aktuell/gesellschaft/gesundheit/grippe-impfstoff-hausaerzte-klagen-ueber-lieferengpaesse-accg-201704531.html",
@@ -370,6 +372,7 @@
   "https://www.faz.net/aktuell/politik/inland/interview-mit-bestatter-trauer-moechte-gesehen-werden-accg-201693689.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-bundesweite-jugendproteste-weitestgehend-friedlich-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-hoecke-bleibt-afd-chef-in-thueringen-faz-110093143.html",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-schwerdtner-emdes-ego-show-brauchen-wir-nicht-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/wie-stark-schuetzt-der-foederalismus-in-deutschland-die-demokratie-201701861.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-greift-russisches-schiff-sparta-ii-an-finnlands-gefaehrliches-dilemma-in-der-ostsee-201702129.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-macron-bekundet-solidaritaet-mit-polen-nach-einschlaegen-faz-110683325.html",
@@ -440,6 +443,7 @@
   "https://www.france24.com/en/cop31-deep-divisions-persist-over-energy-finance-and-science",
   "https://www.france24.com/en/countries-race-to-secure-cop31-deal",
   "https://www.france24.com/en/denmark-accuses-russia-of-assassination-plot-expels-diplomat",
+  "https://www.france24.com/en/drone-attack-sets-russian-cargo-ship-ablaze-in-gulf-of-finland",
   "https://www.france24.com/en/endurance-athlete-swims-in-hormuz-strait",
   "https://www.france24.com/en/ethiopia-eritrea-troops-mobilise-along-the-border",
   "https://www.france24.com/en/ethiopia-tackling-period-poverty-and-stigma",
@@ -494,6 +498,8 @@
   "https://www.spiegel.de/wirtschaft/autobahnen-vertrauliches-gutachten-empfiehlt-pkw-maut-zur-finanzierung-a-e105dfef-32ed-4421-9a26-b935f697e8f9#ref=rss",
   "https://www.spiegel.de/wirtschaft/nvidia-und-anthropic-das-steckt-hinter-dem-boersenbeben-a-f2133f0d-0378-4c58-9875-7410412e0df1#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/altersvorsorgedepot-staatliches-depot-fuer-zusatzrente-verzoegert-sich-wohl-a-705ab323-1c12-4e1e-b81f-4293c37475d6#ref=rss",
+  "https://www.spiegel.de/wirtschaft/tatjana-kim-chefin-von-russischem-onlinehaendler-wildberries-tritt-zurueck-a-c7075012-6bff-4f8e-8bc0-f8c3e9ac6d53#ref=rss",
+  "https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss",
   "https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale-a-1beb060c-afd7-45c3-8da2-6663214f4dd7#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
@@ -538,10 +544,12 @@
   "https://www.theguardian.com/us-news/2026/nov/21/new-york-judge-ice-shooting-immigration",
   "https://www.theguardian.com/us-news/2026/nov/21/senate-democrats-chuck-schumer-chris-van-hollen",
   "https://www.theguardian.com/us-news/2026/nov/21/trump-class-warships",
+  "https://www.theguardian.com/us-news/2026/nov/21/trump-contractors-congress-executive-order",
   "https://www.theguardian.com/us-news/2026/nov/21/usda-fbi-outages-cyber-attack",
   "https://www.theguardian.com/us-news/2026/nov/21/vance-trump-iran-nuclear-weapon",
   "https://www.theguardian.com/us-news/2026/nov/21/virginia-child-dies-measles",
   "https://www.theguardian.com/world/2026/nov/20/denmark-russian-diplomat-us-ukrainian-rapper-attempted-killing",
+  "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
   "https://www.theguardian.com/world/2026/nov/21/charity-hit-coin-throwing-rome-trevi-fountain-caritas-italy",
   "https://www.theguardian.com/world/2026/nov/21/excitement-unease-haiti-el-salvador-troops-gangs-war-bukele",
   "https://www.theguardian.com/world/2026/nov/21/kyiv-russian-attacks-bridges",
