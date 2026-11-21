@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T23:27+01:00",
+ "updatedAt": "2026-11-21T23:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T01:45:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010627/yapay-zeka-beyni-taklit-ediyor-ama-onun-gibi-dusunmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Kanadalı araştırmacılar, beyin aktivitesini taklit eden yapay zeka modellerinin görsel görevleri insan beyninden farklı iç stratejilerle çözdüğünü belirledi.",
+     "de": "Kanadische Forscher fanden heraus, dass KI-Modelle, die Gehirnaktivitäten nachahmen, visuelle Aufgaben mit anderen internen Strategien als das menschliche Gehirn lösen."
+    }
+   },
    {
     "time": "2026-11-22T00:25:00+03:00",
     "source": "Evrensel",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Fransa'da hayat pahalılığını protesto etmek amacıyla düzenlenen gösterilerin altıncısına katılım önceki haftalara göre azaldı.",
      "de": "In Frankreich ist die Beteiligung an den landesweiten Protesten gegen die Lebenshaltungskosten am sechsten Samstag in Folge zurückgegangen."
-    }
-   },
-   {
-    "time": "2026-11-21T19:56:39+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
-    "text": {
-     "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin memleketi Kropyvnytskyi'ye düzenlenen Rus füze saldırısında 2 kişi hayatını kaybetti, onlarca kişi yaralandı.",
-     "de": "Bei einem russischen Raketenangriff auf die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj wurden zwei Menschen getötet und Dutzende verletzt."
     }
    }
   ],
@@ -371,6 +371,7 @@
   "https://www.evrensel.net/haber/6010623/ahmet-sik-fon-listesindeki-isimleri-acikladi-cumhurbaskanligi-devlet-denetleme-kurulu-uyesi-de-listede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010624/balikesir-kadin-platformu-ndan-25-kasim-cagrisi-siddete-ve-esitsizlige-karsi-meydanlara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010625/norvec-in-baskenti-oslo-da-2027-butcesi-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010627/yapay-zeka-beyni-taklit-ediyor-ama-onun-gibi-dusunmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -529,6 +530,7 @@
   "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
   "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
+  "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss",
   "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
   "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
   "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
@@ -593,6 +595,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+  "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
   "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
   "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
   "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
