@@ -1,8 +1,26 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T19:27+01:00",
+ "updatedAt": "2026-11-21T19:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-21T18:26:31+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
+    "text": {
+     "tr": "Polonya'da düşen bir mühimmatın yeni üretilmiş bir Rus seyir füzesi olduğu belirlenirken, NATO Genel Sekreteri Rutte Polonya'nın savunulacağını vurguladı.",
+     "de": "Polnische Ermittler haben ein abgestürztes Flugobjekt als russischen Marschflugkörper identifiziert, woraufhin NATO-Generalsekretär Rutte den Schutz Polens betonte."
+    }
+   },
+   {
+    "time": "2026-11-21T18:20:37+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
+    "text": {
+     "tr": "İngiltere'nin Suffolk bölgesindeki Barnham köyü sakinleri, yakınlardaki eski bir üsse sığınmacı yerleştirilmesi planına tepki olarak simgesel bir referandumla İngiltere'den ayrılma yönünde oy kullandı.",
+     "de": "Bewohner eines Dorfes in Suffolk haben in einer symbolischen Abstimmung für den Austritt aus Großbritannien gestimmt, um gegen geplante Flüchtlingsunterkünfte zu protestieren."
+    }
+   },
    {
     "time": "2026-11-21T18:08:30+00:00",
     "source": "The Guardian World",
@@ -29,27 +47,18 @@
      "tr": "Ev hapsindeki eski Brezilya Devlet Başkanı Jair Bolsonaro, karın ağrısı şikayetiyle hastaneye kaldırıldı.",
      "de": "Der unter Hausarrest stehende ehemalige brasilianische Präsident Jair Bolsonaro wurde wegen Karınschmerzen ins Krankenhaus gebracht."
     }
-   },
-   {
-    "time": "2026-11-21T17:23:18+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/fbi-criminal-database-hacked",
-    "text": {
-     "tr": "FBI, ulusal kolluk kuvvetleri veritabanı NCIC'e yönelik büyük bir siber saldırıyı araştırdığını duyurdu.",
-     "de": "Das FBI untersucht einen großen Cyberangriff auf seine nationale Strafverfolgungsdatenbank NCIC."
-    }
-   },
-   {
-    "time": "2026-11-21T17:21:55+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/man-convicted-of-starting-palisades-fire",
-    "text": {
-     "tr": "Los Angeles mahkemesi, 2025 Palisades yangınını çıkaran eski sürücü Jonathan Rinderknecht'i suçlu buldu.",
-     "de": "Ein Gericht in Los Angeles hat einen ehemaligen Fahrer schuldig gesprochen, im Jahr 2025 das Palisades-Feuer gelegt zu haben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-21T21:39:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010614/kocaelispor-fenerbahce-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Süper Lig'in 12. haftasında Fenerbahçe deplasmanda Kocaelispor ile 2-2 berabere kaldı.",
+     "de": "Fenerbahçe spielte am 12. Spieltag der Süper Lig auswärts gegen Kocaelispor 2:2 unentschieden."
+    }
+   },
    {
     "time": "2026-11-21T20:07:00+03:00",
     "source": "Evrensel",
@@ -85,15 +94,6 @@
      "tr": "Şanlıurfa'da bir inşaatın üçüncü katından düşen işçi Ahmet Beytemur yaşamını yitirdi.",
      "de": "In Şanlıurfa ist ein Arbeiter nach dem Sturz aus dem dritten Stockwerk einer Baustelle gestorben."
     }
-   },
-   {
-    "time": "2026-11-21T19:17:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010603/iran-cumhurbaskanliginda-isiticilar-kapatildi-pezeskiyan-ofisinde-montla-calisiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İran Cumhurbaşkanı Mesud Pezeşkiyan, enerji krizi nedeniyle ofisinde ısıtıcılar kapatıldığı için montla çalışıyor.",
-     "de": "Irans Präsident Massud Peseschkian arbeitet wegen des Energiemangels in seinem Büro mit einer Winterjacke."
-    }
    }
   ],
   "de": [
@@ -116,6 +116,15 @@
     }
    },
    {
+    "time": "2026-11-21T18:30:03+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b01de5539a3e8110f0e5ae1/unternehmensgruppe-wahre-kreative-seele-schmuckunternehmer-paolo-bulgari-stirbt-mit-89.html",
+    "text": {
+     "tr": "İtalyan mücevher markası Bulgari'nin yöneticisi ve tasarımcısı Paolo Bulgari 89 yaşında hayatını kaybetti.",
+     "de": "Der italienische Schmuckunternehmer und Designer Paolo Bulgari ist im Alter von 89 Jahren gestorben."
+    }
+   },
+   {
     "time": "2026-11-21T18:00:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/kultur/friedrich-christian-mick-flick-spross-einer-industriellendynastie-ist-tot-a-f9d81eae-7bc2-4cc3-a05a-2ab504c1c2a8#ref=rss",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Almanya'da polisin düzenlediği operasyonda, Rumeli çetesinin Romanya'dan getirdiği kadınları fuhşa zorladığı ortaya çıkarıldı ve bir kadın öldürüldü.",
      "de": "Bei Razzien in Deutschland hat die Polizei einen Zuhälterring zerschlagen, der Frauen aus Rumänien zur Prostitution zwang."
-    }
-   },
-   {
-    "time": "2026-11-21T17:25:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/costa-concordia-kapitaen-francesco-schettino-darf-das-gefaengnis-verlassen-a-6fc5504e-dccd-48c0-a38b-c59679782475#ref=rss",
-    "text": {
-     "tr": "Costa Concordia'nın eski kaptanı Francesco Schettino, yaklaşık dokuz yıllık hapis cezasının ardından şartlı olarak serbest bırakıldı.",
-     "de": "Der frühere Kapitän der Costa Concordia, Francesco Schettino, wurde nach rund neunjähriger Haft unter Auflagen aus dem Gefängnis entlassen."
     }
    }
   ]
@@ -173,6 +173,7 @@
   "https://www.bbc.co.uk/news/articles/c64gn0gy8rj3o",
   "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
   "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
+  "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
   "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
   "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
@@ -315,6 +316,7 @@
   "https://www.evrensel.net/haber/6010585/spot-dogal-gaz-piyasasinda-islem-hacmi-geriledi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010586/petrolun-varil-fiyatindan-pompaya-uzanan-yol-turkiye-de-akaryakit-fiyati-nasil-belirleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010587/22-yil-once-katledilen-ugur-kaymaz-ve-babasi-mezarlari-basinda-anildi-cezasizlik-politikasina-son-verilsin-sorumlular-yargilansin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010588/kemoterapi-kanser-hucrelerini-nasil-olduruyor-saglikli-hucreler-neden-zarar-goruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010590/agri-neden-hissedilir-beyin-agriyi-nasil-algiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010591/insan-vucudu-kac-derece-soguga-dayanabilir-hipoterminin-siniri-nerede-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010593/mansur-yavas-imamoglu-na-siyasi-yasak-kararina-iliskin-soruyu-yanitsiz-birakti-biz-buraya-park-acilisina-geldik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -332,6 +334,7 @@
   "https://www.evrensel.net/haber/6010609/bekev-li-kadinlar-20-yili-kutladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010610/burhaniye-de-toprak-da-bizim-gelecek-de-mitingi-sandigi-bekle-diyenler-bizi-eve-hapsetmek-istiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010611/istanbul-a-is-bulmaya-gelmisti-denizde-cesedi-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010614/kocaelispor-fenerbahce-2-2?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -424,6 +427,7 @@
   "https://www.faz.net/aktuell/wirtschaft/eu-digitalsteuer-costas-plan-fuer-den-haushalt-und-trumps-moegliche-reaktion-accg-201704604.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/bauern-rufen-wieder-zum-protest-warum-ist-der-politische-einfluss-der-landwirte-so-gross-201635365.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/eu-und-indonesien-unterzeichnen-weitreichendes-freihandelsabkommen-accg-201704887.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/lars-klingbeil-und-das-defizit-tappt-deutschland-in-die-schuldenfalle-201621537.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/mentale-gesundheit-junger-menschen-was-der-oecd-bericht-zeigt-accg-201695949.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/preisdeckel-reiche-moechte-autobahntankstellen-schonen-accg-201704570.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/schaden-die-sozialen-medien-der-psychischen-gesundheit-von-jugendlichen-accg-201624549.html",
@@ -537,6 +541,7 @@
   "https://www.theguardian.com/uk-news/2026/nov/21/british-man-recalls-despair-over-sons-death-after-fall-from-cyprus-window",
   "https://www.theguardian.com/uk-news/2026/nov/21/lucy-letby-trial-doctor-professor-peter-hindmarsh-barred-from-treating-patients-expert-witness-another-case",
   "https://www.theguardian.com/uk-news/2026/nov/21/princess-of-wales-impact-cancer-diagnosis-bbc-film-heal",
+  "https://www.theguardian.com/uk-news/2026/nov/21/suffolk-village-votes-to-leave-the-uk-over-plans-to-house-asylum-seekers-nearby",
   "https://www.theguardian.com/uk-news/2026/nov/21/uk-weather-cold-rain-warning-south-west-england",
   "https://www.theguardian.com/us-news/2026/nov/21/democrats-florida-midterm-election-loss",
   "https://www.theguardian.com/us-news/2026/nov/21/florida-prisoner-lawsuit-extreme-heat",
@@ -571,6 +576,7 @@
   "https://www.welt.de/politik/ausland/article6b000df0be487c5437746b74/mittelamerika-als-die-ergebnisse-der-midterms-ueber-den-fernseher-flimmern-packen-sie-ihre-koffer.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/ausland/article6b011cc55842ff528b9e27b2/pressekonferenz-im-weissen-haus-die-koordinierte-kampagne-der-usa-gegen-die-ukraine.html",
+  "https://www.welt.de/politik/ausland/article6b01d13073a6d0d4d9e1127e/luftraum-verletzt-russische-rakete-abgestuerzt-nato-wird-jeden-zentimeter-von-polen-verteidigen-betont-rutte.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-auch-akademiker-verdienen-respekt-nicht-nur-arbeiter-und-bauern.html",
@@ -595,6 +601,7 @@
   "https://www.welt.de/sport/fussball/article6b01a2445842ff528b9e2eec/bundesliga-moreira-schnuert-doppelpack-dortmund-wartet-weiter-auf-den-erloesenden-treffer.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0166135842ff528b9e2aa9/fc-bayern-eberl-widerspricht-rummenigge-die-zwei-lager-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b01c4ca39a3e8110f0e58f9/bundesliga-ticker-schalke-04-gegen-vfb-stuttgart-live.html",
+  "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b01d54939a3e8110f0e5a43/bvb-nmecha-verzichtet-auf-seinen-torjubel-bedeutet-aber-nicht-dass-ich-ihn-nicht-wieder-mache.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0154825842ff528b9e29af/fc-bayern-harry-kane-fehlt-lange-auch-michael-olise-verletzt-abend-wie-aus-einem-alptraum.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01a57a4490a28f5fdb8317/jamal-musiala-immer-wieder-nebenwirkungen-neue-medizinische-details-zu-den-zweifeln-der-bosse.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01bbe945d8681e4fca3fc0/jamal-musiala-das-hat-mit-mia-san-mia-wenig-zu-tun-neurologe-attackiert-bayern-bosse-auf-jhv.html",
@@ -603,6 +610,7 @@
   "https://www.welt.de/vermischtes/article6b0172814490a28f5fdb7fc3/grossbritannien-umzug-visa-aerger-darum-sollen-harry-und-meghan-in-die-heimat-zurueckgekehrt-sein.html",
   "https://www.welt.de/vermischtes/article6b01b08039a3e8110f0e57c1/niederbayern-freie-waehler-chef-aiwanger-beigesetzt-lebensgefaehrtin-dankt-fuer-solidaritaet.html",
   "https://www.welt.de/vermischtes/article6b01bb854490a28f5fdb8480/unternehmerdynastie-kunstsammler-mick-flick-stirbt-mit-82-an-folgen-eines-sturzes.html",
+  "https://www.welt.de/vermischtes/article6b01de5539a3e8110f0e5ae1/unternehmensgruppe-wahre-kreative-seele-schmuckunternehmer-paolo-bulgari-stirbt-mit-89.html",
   "https://www.welt.de/vermischtes/plus6b002c51b237b5b41c9a266e/partnerschaft-fuer-einen-mann-gebe-ich-meine-wohnung-nicht-noch-einmal-auf.html",
   "https://www.welt.de/videos/video6b0152af3b9cfbd09f99d89b/sachsen-anhalt-ulrich-siegmund-draengt-zur-macht-die-cdu-steckt-im-chaos-entscheidet-das-bsw.html",
   "https://www.welt.de/videos/video6b016e5545d8681e4fca3ab1/general-a-d-kather-warnt-dann-waeren-wir-naemlich-sehr-nahe-an-der-beistandspflicht-nach-artikel-5.html",
