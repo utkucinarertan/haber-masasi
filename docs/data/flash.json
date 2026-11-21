@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-21T22:27+01:00",
+ "updatedAt": "2026-11-21T22:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T00:25:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010625/norvec-in-baskenti-oslo-da-2027-butcesi-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Norveç'in başkenti Oslo'da vatandaşlar, 2027 bütçesindeki askeri yığınak ve silahlanmayı protesto etti.",
+     "de": "In Norwegens Hauptstadt Oslo haben Bürger gegen den Rüstungskurs im Haushalt für 2027 protestiert."
+    }
+   },
    {
     "time": "2026-11-21T21:01:45+00:00",
     "source": "Die Welt",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin memleketi Kropyvnytskyi'ye düzenlenen Rus füze saldırısında 2 kişi hayatını kaybetti, onlarca kişi yaralandı.",
      "de": "Bei einem russischen Raketenangriff auf die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj wurden zwei Menschen getötet und Dutzende verletzt."
-    }
-   },
-   {
-    "time": "2026-11-21T19:42:42+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/21/man-charged-with-attempted-after-councillor-stabbed-in-bradford",
-    "text": {
-     "tr": "İngiltere'nin Bradford kentinde görev başında bıçaklanan yerel meclis üyesi Ibrar Ali'ye saldırıyla ilgili bir kişi cinayete teşebbüsle suçlandı.",
-     "de": "Nach einer Messerattacke auf einen Kommunalpolitiker im britischen Bradford wurde ein 31-jährigen Mann wegen versuchten Mordes angeklagt."
     }
    }
   ],
@@ -98,6 +98,15 @@
   ],
   "de": [
    {
+    "time": "2026-11-21T21:39:30+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/tennis/article6b020c165842ff528b9e3421/atp-finals-nach-den-pfiffen-der-zuschauer-macht-zverev-das-traumfinale-perfekt.html",
+    "text": {
+     "tr": "Tenisçi Alexander Zverev, ATP Finalleri'nde kariyerinde üçüncü kez finale yükseldi.",
+     "de": "Alexander Zverev hat zum dritten Mal in seiner Karriere das Finale der ATP Finals erreicht."
+    }
+   },
+   {
     "time": "2026-11-21T21:13:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Afganistan'da Taliban'ın ahlak polisinin kadınların sağlık hizmetlerine erişimini ve ebelerin eğitimini yasaklaması tıbbi bir krizin doğmasına yol açıyor.",
      "de": "In Afghanistan unterbinden die Taliban zunehmend die medizinische Versorgung von Frauen und die Ausbildung von Hebammen, was eine humanitäre Krise auslöst."
-    }
-   },
-   {
-    "time": "2026-11-21T19:58:28+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
-    "text": {
-     "tr": "Brezilya'nın eski Devlet Başkanı Jair Bolsonaro, akut bağırsak tıkanıklığı nedeniyle yoğun bakım ünitesine kaldırıldı.",
-     "de": "Der frühere brasilianische Präsident Jair Bolsonaro ist wegen eines akuten Darmverschlusses auf eine Intensivstation eingeliefert worden."
     }
    }
   ]
@@ -334,6 +334,7 @@
   "https://www.evrensel.net/haber/6010586/petrolun-varil-fiyatindan-pompaya-uzanan-yol-turkiye-de-akaryakit-fiyati-nasil-belirleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010587/22-yil-once-katledilen-ugur-kaymaz-ve-babasi-mezarlari-basinda-anildi-cezasizlik-politikasina-son-verilsin-sorumlular-yargilansin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010588/kemoterapi-kanser-hucrelerini-nasil-olduruyor-saglikli-hucreler-neden-zarar-goruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010589/sevgi-soysal-i-kaybedisimizin-50-yili-kadinlar-hl-yuruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010590/agri-neden-hissedilir-beyin-agriyi-nasil-algiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010591/insan-vucudu-kac-derece-soguga-dayanabilir-hipoterminin-siniri-nerede-basliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010593/mansur-yavas-imamoglu-na-siyasi-yasak-kararina-iliskin-soruyu-yanitsiz-birakti-biz-buraya-park-acilisina-geldik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -365,8 +366,10 @@
   "https://www.evrensel.net/haber/6010619/bahceli-den-ozgur-ozel-e-chp-yi-bolmeyi-basardiniz-ama-turkiye-yi-boldurtmeyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010620/ismail-gercek-ve-gokhan-edge-mezarlari-basinda-anildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010621/kyr-tekstil-ve-tabu-tekstil-iscileri-alacaklarini-istedi-patronlar-iscinin-parasini-odememeyi-aliskanlik-haline-getirmis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010622/ab-sirketleri-rant-kapitalizmi-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010623/ahmet-sik-fon-listesindeki-isimleri-acikladi-cumhurbaskanligi-devlet-denetleme-kurulu-uyesi-de-listede?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010624/balikesir-kadin-platformu-ndan-25-kasim-cagrisi-siddete-ve-esitsizlige-karsi-meydanlara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010625/norvec-in-baskenti-oslo-da-2027-butcesi-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
@@ -451,9 +454,11 @@
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-verletzungsschock-durch-harry-kane-und-michael-olise-accg-201704300.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/pressestimmen-zum-fc-bayern-muenchen-nach-ausfaellen-von-kane-und-olise-accg-201704452.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/rb-leipzig-mit-deutlichem-sieg-in-der-bundesliga-bei-union-berlin-201304411.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/zweite-bundesliga-fc-st-pauli-gewinnt-2-0-gegen-vfl-bochum-201304609.html",
   "https://www.faz.net/aktuell/sport/fussball/fussball-transferticker-werder-bremen-verlaengert-mit-trainer-daniel-thioune-18134600.html",
   "https://www.faz.net/aktuell/sport/fussball/philipp-lahm-ueber-juergen-klopp-was-die-bundesliga-vom-bundestrainer-lernen-kann-accg-201694317.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-und-das-problem-mit-den-aufschlaegen-im-tennis-201701389.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-in-turin-alexander-zverev-erreicht-traumfinale-gegen-carlos-alcaraz-201705427.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/franz-wagner-und-moritz-wagner-spielen-in-nba-gegeneinander-accg-201704480.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/tennisspieler-carlos-alcaraz-zieht-bei-atp-finals-in-finale-ein-accg-201705032.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/bundesliga-eintracht-frankfurt-profi-ritsu-doan-zeigt-zwei-gesichter-accg-201701601.html",
@@ -518,6 +523,7 @@
   "https://www.spiegel.de/ausland/auswandern-in-die-schweiz-12-dinge-die-sie-vorher-wissen-sollten-a-14cd0939-59d0-4648-b770-91769305ae7a#ref=rss",
   "https://www.spiegel.de/ausland/donald-trump-demuetigt-vance-und-rubio-oeffentlich-a-8b8a7280-1893-4b07-a935-41246834876c#ref=rss",
   "https://www.spiegel.de/ausland/finnland-russisches-frachtschiff-nach-drohnenangriff-in-brand-a-4a4de76e-5165-4547-9c57-787de3fec8d8#ref=rss",
+  "https://www.spiegel.de/ausland/frankreich-deutlich-weniger-teilnehmer-am-sechsten-protestsamstag-a-4e6b94d5-2440-450f-a18e-6fba793ebcf8#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-kann-andrew-burnham-sein-land-wirklich-in-die-eu-zurueckbringen-podcast-a-cb6fa77e-838d-4460-946c-cb5ba1854368#ref=rss",
   "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
   "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
@@ -672,12 +678,14 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01a57a4490a28f5fdb8317/jamal-musiala-immer-wieder-nebenwirkungen-neue-medizinische-details-zu-den-zweifeln-der-bosse.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01bbe945d8681e4fca3fc0/jamal-musiala-das-hat-mit-mia-san-mia-wenig-zu-tun-neurologe-attackiert-bayern-bosse-auf-jhv.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b01e0a59d1767cbac691b70/fc-bayern-die-aermste-sau-spielergewerkschaft-und-matthaeus-springen-musiala-bei.html",
+  "https://www.welt.de/sport/tennis/article6b020c165842ff528b9e3421/atp-finals-nach-den-pfiffen-der-zuschauer-macht-zverev-das-traumfinale-perfekt.html",
   "https://www.welt.de/vermischtes/article6b014fe95842ff528b9e2954/weihnachtsmaerkte-rassismus-kritik-an-lumumba-jetzt-sind-auch-lumi-und-lumamba-umstritten.html",
   "https://www.welt.de/vermischtes/article6b01714545d8681e4fca3b04/wetter-am-wochenende-der-erste-schnee-ist-in-sicht-hier-koennte-es-bald-weiss-werden.html",
   "https://www.welt.de/vermischtes/article6b0172814490a28f5fdb7fc3/grossbritannien-umzug-visa-aerger-darum-sollen-harry-und-meghan-in-die-heimat-zurueckgekehrt-sein.html",
   "https://www.welt.de/vermischtes/article6b01b08039a3e8110f0e57c1/niederbayern-freie-waehler-chef-aiwanger-beigesetzt-lebensgefaehrtin-dankt-fuer-solidaritaet.html",
   "https://www.welt.de/vermischtes/article6b01bb854490a28f5fdb8480/unternehmerdynastie-kunstsammler-mick-flick-stirbt-mit-82-an-folgen-eines-sturzes.html",
   "https://www.welt.de/vermischtes/article6b01de5539a3e8110f0e5ae1/unternehmensgruppe-wahre-kreative-seele-schmuckunternehmer-paolo-bulgari-stirbt-mit-89.html",
+  "https://www.welt.de/vermischtes/article6b020b00de2d9d52fb686038/iran-krieg-die-explosion-liess-das-meer-schaukeln-umweltschuetzer-schwimmt-durch-strasse-von-hormus.html",
   "https://www.welt.de/vermischtes/plus6b002c51b237b5b41c9a266e/partnerschaft-fuer-einen-mann-gebe-ich-meine-wohnung-nicht-noch-einmal-auf.html",
   "https://www.welt.de/videos/video6b0152af3b9cfbd09f99d89b/sachsen-anhalt-ulrich-siegmund-draengt-zur-macht-die-cdu-steckt-im-chaos-entscheidet-das-bsw.html",
   "https://www.welt.de/videos/video6b016e5545d8681e4fca3ab1/general-a-d-kather-warnt-dann-waeren-wir-naemlich-sehr-nahe-an-der-beistandspflicht-nach-artikel-5.html",
