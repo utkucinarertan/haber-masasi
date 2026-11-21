@@ -1,8 +1,26 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-22T00:27+01:00",
+ "updatedAt": "2026-11-22T00:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T02:40:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010629/nasa-ay-ve-mars-yolculugu-icin-roket-motoru-testlerini-surduruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "NASA, Artemis IV Ay inişi ve Mars hedefleri kapsamında RS-25 roket motorunu 200 saniye süreyle test etti.",
+     "de": "NASA hat das RS-25-Raketentriebwerk für die Artemis-IV-Mondlandung und Marssuche 200 Sekunden lang getestet."
+    }
+   },
+   {
+    "time": "2026-11-22T02:20:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010628/andromeda-da-iki-yildiz-birlesti-james-webb-patlamadan-47-gun-sonrasini-yakaladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "James Webb Uzay Teleskobu, Andromeda gökadasında iki yıldızın birleşmesiyle oluşan patlamanın kalıntılarını gözlemledi.",
+     "de": "Das James-Webb-Weltraumteleskop beobachtete die Überreste einer Sternverschmelzung in der Andromeda-Galaxie."
+    }
+   },
    {
     "time": "2026-11-22T01:45:00+03:00",
     "source": "Evrensel",
@@ -28,24 +46,6 @@
     "text": {
      "tr": "Ukrayna'nın Lviv şehrine düzenlenen Rus füze ve İHA saldırısında 2 kişi hayatını kaybetti, en az 10 kişi yaralandı.",
      "de": "Bei einem russischen Raketen- und Drohnenangriff auf die ukrainische Stadt Lwiw wurden 2 Menschen getötet und mindestens 10 weitere verletzt."
-    }
-   },
-   {
-    "time": "2026-11-21T21:01:45+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
-    "text": {
-     "tr": "İngiltere'nin Barnham köyünün 600 sakini, askeri tesise mülteci kampı kurulmasına tepki olarak bir referandumla Birleşik Krallık'tan ayrılma yönünde oy kullandı.",
-     "de": "Aus Protest gegen geplante Asylunterkünfte stimmten die 600 Bewohner des englischen Dorfes Barnham in einem Referendum für die Unabhängigkeit von Großbritannien."
-    }
-   },
-   {
-    "time": "2026-11-21T20:49:04+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261121-eisenkot-invites-netanyahu-s-party-for-marathon-israeli-coalition-talks",
-    "text": {
-     "tr": "İsrail'de muhalefet lideri Gadi Eisenkot, Benjamin Netanyahu'nun Likud partisini koalisyon görüşmelerine davet etti.",
-     "de": "Der israelische Oppositionsführer Gadi Eisenkot hat Benjamin Netanyahus Likud-Partei zu Koalitionsgesprächen eingeladen."
     }
    }
   ],
@@ -373,6 +373,8 @@
   "https://www.evrensel.net/haber/6010624/balikesir-kadin-platformu-ndan-25-kasim-cagrisi-siddete-ve-esitsizlige-karsi-meydanlara?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010625/norvec-in-baskenti-oslo-da-2027-butcesi-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010627/yapay-zeka-beyni-taklit-ediyor-ama-onun-gibi-dusunmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010628/andromeda-da-iki-yildiz-birlesti-james-webb-patlamadan-47-gun-sonrasini-yakaladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010629/nasa-ay-ve-mars-yolculugu-icin-roket-motoru-testlerini-surduruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-mir-sylvester-stallones-rocky-beim-ueberleben-geholfen-hat-accg-201682965.html",
   "https://www.faz.net/aktuell/besser-leben/stil/familie-colombo-wie-rennraeder-und-bauhaus-moebel-zusammenhaengen-accg-201683203.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/birgit-birnbachers-roman-sie-wollen-uns-erzaehlen-201604277.html",
