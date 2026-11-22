@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T13:45+01:00",
+ "updatedAt": "2026-11-22T14:15+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T14:02:45+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/ukraynada-rus-iha-saldirisi-iki-cocuk-dahil-15-kisiden-haber-alinamiyor",
+    "text": {
+     "tr": "Ukrayna'da düzenlenen Rus İHA saldırısında iki çocuk dahil 15 kişiden haber alınamıyor.",
+     "de": "Bei einem russischen Drohnenangriff in der Ukraine werden 15 Personen, darunter zwei Kinder, vermisst."
+    }
+   },
+   {
+    "time": "2026-11-22T13:55:52+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/endonezyada-sekerleme-fabrikasinda-yangin-en-az-6-olu",
+    "text": {
+     "tr": "Endonezya'nın Cava Adası'ndaki bir şekerleme fabrikasında çıkan yangında en az 6 kişi hayatını kaybetti.",
+     "de": "Bei einem Brand in einer Süßwarenfabrik auf der indonesischen Insel Java starben mindestens sechs Menschen."
+    }
+   },
    {
     "time": "2026-11-22T13:40:13+01:00",
     "source": "tagesschau",
@@ -29,27 +47,18 @@
      "tr": "Endonezya'da şeker ve atıştırmalık ürünler üreten bir fabrikada çıkan yangında 3 kişi hayatını kaybetti, 36 kişi kayıp.",
      "de": "Bei einem verheerenden Brand in einer Fabrik in Indonesien sind mindestens drei Menschen getötet worden, 36 werden vermisst."
     }
-   },
-   {
-    "time": "2026-11-22T12:00:28+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
-    "text": {
-     "tr": "ABD'nin Tennessee eyaletine bağlı Memphis şehrinde düzenlenen göçmen baskınında 120'den fazla kişi gözaltına alındı.",
-     "de": "Bei einer großangelegten Razzia der US-Einwanderungsbehörde ICE in Memphis im US-Bundesstaat Tennessee wurden über 120 Menschen festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-22T11:59:28+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
-    "text": {
-     "tr": "İngiltere ve Galler'de, suçluların tespitten kaçmak için kullandığı ikiz plaka mağdurları için yeni bir ihbar aracı hizmete sokuldu.",
-     "de": "In England und Wales wurde ein neues Meldetool für Opfer von manipulierten Nummernschildern eingeführt."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T15:43:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010685/tugberk-imamoglu-gemisinde-kaybolan-8-denizci-icin-4-sehirde-eylem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Tuğberk İmamoğlu gemisinde kaybolan 8 denizcinin yakınları dört şehirde eylem düzenledi.",
+     "de": "Angehörige von acht vermissten Seeleuten des Schiffes Tuğberk İmamoğlu hielten in vier Städten Kundgebungen ab."
+    }
+   },
    {
     "time": "2026-11-22T15:30:00+03:00",
     "source": "Evrensel",
@@ -85,18 +94,18 @@
      "tr": "Belçika'da sendikaların kemer sıkma politikalarına karşı aldığı karar doğrultusunda yarın ülke genelinde ulusal greve gidilecek ve tüm uçuşlar iptal edildi.",
      "de": "Wegen eines landesweiten Streiks gegen die Sparpolitik in Belgien sind für morgen alle Flüge abgesagt worden."
     }
-   },
-   {
-    "time": "2026-11-22T14:20:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010671/dem-parti-imrali-heyeti-ocalan-ile-gorusmek-icin-adaya-gitti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "DEM Parti İmralı heyetinin, Abdullah Öcalan ile görüşmek üzere adaya gittiği bildirildi.",
-     "de": "Die DEM-Partei-Delegation ist auf die Gefängnisinsel İmralı gereist, um sich mit Abdullah Öcalan zu treffen."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T14:10:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
+    "text": {
+     "tr": "Berlin'de iki hafta önce Brandenburg'da ölü bulunan öğrenci Lisa için cenaze töreni düzenlendi.",
+     "de": "In Berlin hat eine Trauerfeier für die vor zwei Wochen tot aufgefundene Schülerin Lisa stattgefunden."
+    }
+   },
    {
     "time": "2026-11-22T13:06:00+01:00",
     "source": "Der Spiegel",
@@ -132,15 +141,6 @@
      "tr": "Alexander Zverev, ATP Finalleri'nde set vermeden Carlos Alcaraz ile yapılacak final maçı hakkını kazandı.",
      "de": "Alexander Zverev ist bei den ATP Finals ins Finale gegen Carlos Alcaraz eingezogen."
     }
-   },
-   {
-    "time": "2026-11-22T11:50:40+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/gesundheit/article6b02d0483cd434a4d6d0ce29/grippe-teilweise-viel-zu-spaet-geliefert-hausaerzte-beklagen-zu-wenig-impfstoff-gegen-influenza.html",
-    "text": {
-     "tr": "Almanya'daki birçok aile hekimi, grip aşısının geciktiğini ve yetersiz kaldığını belirterek şikâyette bulundu.",
-     "de": "Zahlreiche Hausärzte in Deutschland beklagen eine verspätete Lieferung und einen Mangel an Grippe-Impfstoff."
-    }
    }
   ]
  },
@@ -153,7 +153,9 @@
   "https://tr.euronews.com/2026/11/22/cop31de-ulkeler-anlasma-arayisinda-fosil-yakitlar-konusundaki-uzlasmazlik-suruyor",
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
   "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
+  "https://tr.euronews.com/2026/11/22/endonezyada-sekerleme-fabrikasinda-yangin-en-az-6-olu",
   "https://tr.euronews.com/2026/11/22/fbiin-suc-veri-tabani-hedefte-trump-saldirinin-faydalari-olabilecegini-soyledi",
+  "https://tr.euronews.com/2026/11/22/ftxin-cokusunun-ardindaki-ask-hikayesi-netflix-dizisi-the-altruistste",
   "https://tr.euronews.com/2026/11/22/grand-ekinokstan-halis-karatas-bold-pilot-uyumuna-at-yarisinin-unutulmaz-hikayeleri",
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
   "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
@@ -168,6 +170,7 @@
   "https://tr.euronews.com/2026/11/22/sarkici-miley-cyrus-4-yillik-iliski-yasadigi-maxx-morando-ile-evlendi",
   "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
   "https://tr.euronews.com/2026/11/22/turkiye-ve-ermenistan-arasinda-sanatla-kurulan-yeni-bir-diyalog-noraralik",
+  "https://tr.euronews.com/2026/11/22/ukraynada-rus-iha-saldirisi-iki-cocuk-dahil-15-kisiden-haber-alinamiyor",
   "https://tr.euronews.com/video/2026/11/22/japonyada-saitama-maskot-festivali-hayranlar-favori-karakterleriyle-bulustu",
   "https://tr.euronews.com/video/2026/11/22/portekizde-isciler-yagmur-altinda-butce-oncesi-daha-uygun-yasam-kosullari-icin-yurudu",
   "https://tr.euronews.com/video/2026/11/22/ukraynada-rus-saldirisi-kiev-yakininda-enkaz-altinda-en-fazla-yedi-kisi-araniyor",
@@ -252,6 +255,11 @@
   "https://www.evrensel.net/haber/6010679/iran-da-kasim-sonundan-itibaren-planli-elektrik-kesintileri-uygulanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010680/kalbin-durdugu-butun-zamanlar-polat-ozluoglu-anlatti-bu-cografya-faillerle-hesaplasmiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010681/besiktas-in-konyaspor-karsisindaki-ilk-11-i-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010682/yolun-sonu-degil-birlikte-mucadelenin-yeni-baslangici?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010683/mehmet-ucum-ocalan-in-durumunun-merkeze-konmasi-surece-destegi-azaltir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010684/edibe-taylan-in-meseleler-sergisi-ayse-taki-galerisi-nde-acildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010685/tugberk-imamoglu-gemisinde-kaybolan-8-denizci-icin-4-sehirde-eylem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010686/aaahh-belinda-sinema-bulusmalari-nda-tartisilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -260,6 +268,7 @@
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/was-passiert-wenn-sich-eine-ki-als-forscher-vorstellt-accg-201699981.html",
+  "https://www.faz.net/aktuell/finanzen/black-friday-warum-konsumkritik-oft-ein-luxusproblem-ist-accg-201699559.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schreckschusswaffe-im-zug-polizeieinsatz-am-bahnhof-hamburg-harburg-accg-201706217.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vom-privatgymnasium-ins-gefaengnis-wie-mein-bekannter-zum-drogenboss-wurde-accg-201682866.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/ethnologe-das-lehren-uns-andere-kulturen-uns-ueber-den-tod-accg-201680644.html",
@@ -323,9 +332,11 @@
   "https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss",
   "https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss",
   "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss",
+  "https://www.spiegel.de/kultur/thalia-theater-hamburg-borcherts-antikriegsklassiker-als-aufgedrehte-revue-a-95dd4c9d-58ce-4cbc-8f0c-b528645cd25b#ref=rss",
   "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
   "https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
   "https://www.spiegel.de/panorama/leute/miley-cyrus-und-maxx-morando-haben-geheiratet-auf-frank-sinatras-ehemaligem-anwesen-in-palm-springs-a-8cada71b-5c5e-4e6c-937f-56d28dab0216#ref=rss",
   "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
   "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
@@ -367,6 +378,7 @@
   "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
+  "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
   "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
   "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
@@ -380,6 +392,7 @@
   "https://www.welt.de/kultur/plus6afda78aa0547afb26e78a38/holz-und-maennlichkeit-warum-es-nach-700-000-jahren-immer-noch-die-vaeter-sind-die-ein-holzfeuer-anzuenden.html",
   "https://www.welt.de/politik/ausland/article6ad5e52d51e5094f7a57183d/kartografie-groenland-groesser-als-afrika-warum-ihre-weltkarte-luegt-und-wie-die-erde-wirklich-aussieht.html",
   "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
+  "https://www.welt.de/politik/ausland/plus6af6d4e55a72dceba1d6121d/inside-iran-unser-schweigen-ist-keine-zustimmung-im-iran-stellt-sich-jetzt-eine-entscheidende-frage.html",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
   "https://www.welt.de/politik/deutschland/article6b02999939a3e8110f0e60fa/zentralratspraesident-mit-juedischem-leben-nur-schwer-kompatibel-schuster-warnt-vor-extremisten-in-der-bundesregierung.html",
   "https://www.welt.de/politik/deutschland/article6b02ae29eefa807c11d9a64d/vorstoss-von-csu-chef-soeder-in-dieser-koalition-macht-niemand-mehr-was-der-kanzler-sagt.html",
@@ -403,6 +416,7 @@
   "https://www.welt.de/vermischtes/article6b02d2585842ff528b9e3c16/fall-paolo-borsellino-nach-ermittlungen-zu-ermordung-von-anti-mafia-richter-italiens-ex-polizeichef-begeht-suizid.html",
   "https://www.welt.de/wirtschaft/plus6af8546a389d31d8c8a803aa/medizintechnik-die-naechste-bastion-deutscher-ingenieurskunst-fuerchtet-den-china-schock.html",
   "https://www.welt.de/wirtschaft/plus6afc5b31cdc4b5009f0a8de2/mieten-was-deutschlands-ehrlichster-wohnatlas-ueber-ihre-region-verraet.html",
+  "https://www.welt.de/wirtschaft/plus6b02cee725b618a0b5d5bba8/sein-grossvater-erfand-die-atombombe-er-setzt-auf-kernenergie-2-0-und-kritisiert-deutschland.html",
   "https://www.welt.de/wissenschaft/article6afeb159e9561dcc48a02c19/auto-gefahr-durch-rentner-was-eine-pflicht-zum-fuehrerschein-check-ab-65-wirklich-bringt.html",
   "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-nicht-zustimmungsfaehig-deutschland-verweigert-unterstuetzung-fuer-klima-beschlusstext.html",
   "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-trotz-40-stunden-verlaengerung-droht-der-weltklimagipfel-zu-scheitern.html",
