@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T22:42+01:00",
+ "updatedAt": "2026-11-22T23:12+01:00",
  "countries": {
   "world": [
    {
@@ -116,6 +116,15 @@
     }
    },
    {
+    "time": "2026-11-22T21:17:56+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/plus6afee42bc1e8003ef73c43e7/designierter-generalinspekteur-wie-freuding-die-bundeswehr-fuer-den-modernen-krieg-ruesten-will.html",
+    "text": {
+     "tr": "Alman ordusu, Litvanya'daki 'Freedom Shield II' tatbikatında ilk kez kamikaze dronları ve yapay zekayı test ediyor.",
+     "de": "Die Bundeswehr erprobt bei der Übung „Freedom Shield II“ in Litauen erstmals Kamikaze-Drohnen und KI im Gefechtsstand."
+    }
+   },
+   {
     "time": "2026-11-22T20:58:18+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Finlandiya sınır muhafızlarına göre, Baltık Denizi'nde bir dron saldırısına uğrayan Rus kargo gemisi Sparta II Rus sularına çekiliyor.",
      "de": "Nach einem Drohnenangriff in der Ostsee wird der russische Frachter Sparta II laut finnischem Grenzschutz in russische Gewässer geschleppt."
-    }
-   },
-   {
-    "time": "2026-11-22T20:48:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
-    "text": {
-     "tr": "Alexander Zverev, ATP Finalleri finalinde Carlos Alcaraz'a yenilerek harika yılını şampiyonlukla taçlandıramadı.",
-     "de": "Alexander Zverev hat das Endspiel der ATP Finals gegen Carlos Alcaraz verloren und damit die Krönung seines Jahres verpasst."
     }
    }
   ]
@@ -557,6 +557,7 @@
   "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
   "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
   "https://www.theguardian.com/environment/2026/nov/22/cop31-climate-talks-set-to-end-in-deep-division-as-key-deal-rejected",
+  "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
   "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
   "https://www.theguardian.com/music/2026/nov/22/miley-cyrus-maxx-morando-wedding",
   "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
@@ -620,6 +621,7 @@
   "https://www.welt.de/politik/deutschland/article6b0304925842ff528b9e3fac/lau-bei-ronzheimer-merz-ist-einer-der-wenigen-spitzenpolitiker-die-verstanden-haben-was-die-stunde-geschlagen-hat.html",
   "https://www.welt.de/politik/deutschland/harald-martenstein/plus6affe0c739a3e8110f0e3302/houellebecq-und-reichelt-die-anklage-aufstachelung-zu-diskriminierung-haette-der-stasi-gefallen.html",
   "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
+  "https://www.welt.de/politik/deutschland/plus6afee42bc1e8003ef73c43e7/designierter-generalinspekteur-wie-freuding-die-bundeswehr-fuer-den-modernen-krieg-ruesten-will.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-dritte-klasse-ein-junge-fragte-die-praktikantin-machst-du-auch-onlyfans.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-es-gibt-an-schulen-oft-probleme-mit-sexualisierter-sprache-und-sexualisierten-handlungen.html",
   "https://www.welt.de/politik/deutschland/plus6b000c73b237b5b41c9a2158/ueberraschender-parteitag-stiller-machtgewinn-der-radikalen-in-der-zerruetteten-nrw-afd.html",
@@ -637,6 +639,8 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b02ebdb3cd434a4d6d0d033/fc-bayern-erneuter-rueckfall-bei-musiala-seine-agentur-meldet-sich-mit-hinweis.html",
   "https://www.welt.de/sport/fussball/bundesliga/hamburger-sv/article6b01a0a35842ff528b9e2ec7/mario-vuskovic-ist-zurueck-ein-freispruch-haette-das-gesamte-test-system-ins-wanken-gebracht.html",
   "https://www.welt.de/sport/fussball/bundesliga/rb-leipzig/article6b02ae935842ff528b9e38a1/juergen-klopp-lob-und-kritik-ein-geiler-typ-aber-er-muss-noch-lernen-klopps-ueberflieger-gruda-trumpft-erneut-auf.html",
+  "https://www.welt.de/sport/fussball/internationale-ligen/article6b0345af5842ff528b9e43a3/manchester-united-pochettino-geht-beim-debuet-in-liverpool-unter-starker-wirtz-trifft.html",
+  "https://www.welt.de/sport/tennis/article6b03406b3b1a22514b912f6a/atp-finals-zverev-vergibt-drei-satzbaelle-und-verliert-das-endspiel-gegen-alcaraz.html",
   "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
   "https://www.welt.de/vermischtes/article6b02a4a73cd434a4d6d0ca74/kfz-zulassung-88-hh-18-ss-diese-nazi-codes-sind-auf-kennzeichen-verboten.html",
@@ -644,6 +648,7 @@
   "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/vorwuerfe-gegen-ehemann-sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
   "https://www.welt.de/vermischtes/article6b02d2585842ff528b9e3c16/fall-paolo-borsellino-nach-ermittlungen-zu-ermordung-von-anti-mafia-richter-italiens-ex-polizeichef-begeht-suizid.html",
   "https://www.welt.de/vermischtes/article6b02f0fc25b618a0b5d5bed8/bayern-defekte-heizung-in-kirche-19-menschen-im-allgaeu-verletzt.html",
+  "https://www.welt.de/vermischtes/article6b0346135842ff528b9e43ae/keine-talkshow-eingesperrt-mit-jan-fleischhauer-der-glaube-dass-der-markt-es-richtet-ist-empirisch-gescheitert-sagt-linken-politikerin-lay.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b035c170e350969f7b71391/ron-prosor-israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin-und-fdppolitikerin-preisler.html",
   "https://www.welt.de/videos/video6b02eb645842ff528b9e3dfb/40-stunden-woche-ohne-lohnausgleich-wenn-das-nicht-klappt-und-wir-streiken-durch-dann-gute-nacht-autoindustrie.html",
   "https://www.welt.de/wirtschaft/plus6af8546a389d31d8c8a803aa/medizintechnik-die-naechste-bastion-deutscher-ingenieurskunst-fuerchtet-den-china-schock.html",
