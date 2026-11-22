@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T21:42+01:00",
+ "updatedAt": "2026-11-22T22:12+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T20:55:33+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
+    "text": {
+     "tr": "ABD Ulusal İstihbarat Direktörü Jay Clayton, Başkan Trump'ın Vladimir Putin'i 'dostum' olarak nitelendirmesine tamamen güvendiğini söyledi.",
+     "de": "US-Geheimdienstchef Jay Clayton sagte, er vertraue Donald Trumps Bezeichnung von Wladimir Putin als 'Freund' vollkommen."
+    }
+   },
    {
     "time": "2026-11-22T19:41:23+00:00",
     "source": "France 24",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "İngiltere'deki 31 hastane vakfı, tasarruf baskılarının hizmetleri ve personeli tehdit ettiği konusunda sert uyarılarda bulundu.",
      "de": "Einsparvorgaben des NHS zwingen dutzende Krankenhäuser in England zu harten Einschnitten bei Diensten und Personal."
-    }
-   },
-   {
-    "time": "2026-11-22T18:29:46+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
-    "text": {
-     "tr": "ABD Ordusu, mahkeme kararına rağmen Iowa'daki mühimmat fabrikasında tonlarca kararsız patlayıcıyı imha edeceğini açıkladı.",
-     "de": "Die US-Armee will trotz einer gerichtlichen Anordnung tonnenweise instabile Sprengstoffe in Iowa detonieren lassen."
     }
    }
   ],
@@ -125,21 +125,21 @@
     }
    },
    {
+    "time": "2026-11-22T20:47:58+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
+    "text": {
+     "tr": "Enerji sektörü, elektrik şebekelerindeki gecikmeler nedeniyle federal hükümet ve eyaletlerle bir kriz zirvesi talep ediyor.",
+     "de": "Die Energiewirtschaft fordert wegen Verzögerungen bei den Stromnetzen einen Krisengipfel mit Bund und Ländern."
+    }
+   },
+   {
     "time": "2026-11-22T20:24:22+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
     "text": {
      "tr": "Techniker Krankenkassa yöneticisi Baas, randevu sorunlarının daha fazla parayla çözülemeyeceğini ve tamamen yeni bir sistem gerektiğini belirtti.",
      "de": "TK-Chef Baas fordert ein grundlegendes neues System statt mehr Geld, um das Problem mit Arztterminen zu lösen."
-    }
-   },
-   {
-    "time": "2026-11-22T20:10:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
-    "text": {
-     "tr": "Müzisyen Billy Joel, 69 motosikletten oluşan koleksiyonunu hayır kurumları yararına iki milyon dolara açık artırmayla sattı.",
-     "de": "Musiker Billy Joel hat seine Motorradsammlung mit 69 Maschinen für zwei Millionen Dollar für den guten Zweck versteigert."
     }
    }
   ]
@@ -327,6 +327,7 @@
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/carissa-veliz-kann-ki-prognosen-fuer-die-zukunft-geben-accg-201685758.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/pilze-korallen-bakterien-auch-die-natur-kann-kunst-sein-201614718.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/gehen-opernhaeuser-und-orchester-reihenweise-pleite-201666939.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/fotografiska-lauren-greenfields-social-media-warnung-201685754.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/pablo-picasso-karl-faber-versteigert-seltene-radierung-fuer-bis-zu-700-000-euro-accg-201698408.html",
@@ -348,6 +349,7 @@
   "https://www.faz.net/aktuell/karriere-hochschule/buero-co/pilotenausbildung-was-quereinsteiger-dirk-hager-erlebt-hat-201687467.html",
   "https://www.faz.net/aktuell/neue-uhren-im-herbst-201665593.html",
   "https://www.faz.net/aktuell/politik/ausland/11-tote-bei-festnahme-von-drogenboss-fausto-isidro-meza-in-mexiko-accg-201706370.html",
+  "https://www.faz.net/aktuell/politik/ausland/burnhams-eu-unterhaendler-falconer-wird-auch-von-brexiteers-respektiert-201703442.html",
   "https://www.faz.net/aktuell/politik/ausland/macron-plant-schuldenbremse-in-der-verfassung-mit-bardella-accg-201705914.html",
   "https://www.faz.net/aktuell/politik/ausland/proteste-gegen-schliessung-regierungskritischer-medien-in-istanbul-201707434.html",
   "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
@@ -422,7 +424,9 @@
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/marine-le-pen-und-frankreichs-schuldenkrise-ein-risiko-fuer-europa-201699158.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sinkende-geburtenraten-werden-kinder-zum-demografischen-luxus-201699085.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
+  "https://www.faz.net/aktuell/wirtschaft/mineralwasser-in-deutschland-ein-kulturgut-unter-druck-201275604.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
@@ -457,6 +461,7 @@
   "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
   "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
+  "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
   "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
@@ -476,6 +481,7 @@
   "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
   "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/im-verhoer-korrupte-justiz-3-wie-man-sich-einen-staatsanwalt-kauft-spiegel-tv-a-508e2f16-03cb-4944-87cb-67ccba1d98e8#ref=rss",
   "https://www.spiegel.de/panorama/justiz/landkreis-vechta-ein-hund-soll-seinen-bruder-getoetet-haben-trotzdem-will-er-ihn-unbedingt-zurueck-a-a1ac8e77-d3d5-4f17-a627-9ee9cd1eb966#ref=rss",
   "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
   "https://www.spiegel.de/panorama/leute/miley-cyrus-und-maxx-morando-haben-geheiratet-auf-frank-sinatras-ehemaligem-anwesen-in-palm-springs-a-8cada71b-5c5e-4e6c-937f-56d28dab0216#ref=rss",
@@ -564,6 +570,7 @@
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
   "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
   "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+  "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
   "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
   "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
