@@ -1,7 +1,19 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T05:27+01:00",
- "countries": {},
+ "updatedAt": "2026-11-22T05:57+01:00",
+ "countries": {
+  "world": [
+   {
+    "time": "2026-11-22T05:41:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
+    "text": {
+     "tr": "Washington Valisi ve sendikalar, ABD Göçmenlik ve Gümrük Muhafaza biriminin Seattle Havalimanı'ndaki gözaltı operasyonuna tepki gösterdi.",
+     "de": "Der Gouverneur von Washington und Gewerkschaften haben einen Festnahmeeinsatz der US-Einwanderungsbehörde ICE am Flughafen Seattle kritisiert."
+    }
+   }
+  ]
+ },
  "seen": [
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-bardak-suyun-hatirina-bartin-2558086",
@@ -13,6 +25,8 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/okan-bayulgen-cumhuriyet-pazar-da-sanatci-politikayi-kendi-eseriyle-yapar-2558090",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
-  "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110"
+  "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
+  "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
+  "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html"
  ]
 }
