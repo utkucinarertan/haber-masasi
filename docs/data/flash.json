@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T09:10+01:00",
+ "updatedAt": "2026-11-22T09:40+01:00",
  "countries": {
   "world": [
    {
@@ -51,6 +51,24 @@
   ],
   "tr": [
    {
+    "time": "2026-11-22T11:09:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010649/antalya-kepez-belediyesine-operasyon-10-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Antalya Kepez Belediyesine yönelik rüşvet ve irtikap soruşturmasında düzenlenen operasyonda 10 kişi gözaltına alındı.",
+     "de": "Bei einer Operation gegen die Gemeinde Antalya-Kepez wurden im Rahmen von Bestechungsermittlungen zehn Personen festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-22T10:35:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010646/sirnak-ta-bir-asker-hayatini-kaybetti-msb-silah-kazasi-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Şırnak'ta 48'inci Hudut Tugay Komutanlığında meydana gelen silah kazasında ağır yaralanan Astsubay Çavuş Yalın Gergün hayatını kaybetti.",
+     "de": "Ein Unteroffizier ist bei einem Waffenunfall in einer Grenzbrigade in Şırnak im Krankenhaus gestorben."
+    }
+   },
+   {
     "time": "2026-11-22T10:34:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010647/istanbul-da-sicaklik-11-derece-birden-dusecek-saganak-ve-lodos-etkili-olacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -76,27 +94,18 @@
      "tr": "İstanbul'da bağımsız medyaya yönelik baskılara ve kayyım atamalarına karşı bugün 'gazetecilere özgürlük' yürüyüşü düzenlenecek.",
      "de": "In Istanbul findet heute ein Marsch für die Freiheit von Journalisten gegen den Druck auf unabhängige Medien statt."
     }
-   },
-   {
-    "time": "2026-11-22T09:40:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010641/iran-bahreyn-deki-abd-uslerini-vurdu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İran Devrim Muhafızları, Bahreyn'deki iki ABD askeri üssünün hedef alındığını bildirdi.",
-     "de": "Die iranischen Revolutionsgarden haben Angriffe auf zwei US-Militärbasen in Bahrain gemeldet."
-    }
-   },
-   {
-    "time": "2026-11-22T09:36:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010640/hep-ucuz-reklamina-1-milyon-lira-ceza-fiyatlar-karsilastirildi-iddia-dogrulanmadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Ticaret Bakanlığı, 'Hep ucuz' sloganıyla yanıltıcı fiyat algısı yaratan bir zincir markete 1 milyon 83 bin lira ceza kesti.",
-     "de": "Das türkische Handelsministerium hat eine Supermarktkette wegen irreführender Werbung zu einer Geldstrafe verurteilt."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T09:16:45+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+    "text": {
+     "tr": "Almanya Adalet Bakanlığı, kadın cinayetlerinin açıkça cinayet olarak cezalandırılmasını öngören bir yasa taslağı hazırladı.",
+     "de": "Das Justizministerium hat einen Gesetzentwurf vorgelegt, wonach Femizide eindeutig als Mord bestraft werden sollen."
+    }
+   },
    {
     "time": "2026-11-22T07:52:00+01:00",
     "source": "Der Spiegel",
@@ -132,22 +141,15 @@
      "tr": "Alman Tugay Komutanı Tuğgeneral Huber, Rusya'nın gücünün arttığını ancak NATO'nun sürprizle karşılaşmayacağını belirtti.",
      "de": "Brigadegeneral Huber sieht die Stärke Russlands wachsen, betont aber, dass die Nato von keiner Überraschung bedroht werde."
     }
-   },
-   {
-    "time": "2026-11-22T06:47:26+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
-    "text": {
-     "tr": "Almanya Antisemitizm Sorumlusu Schnurbein, ülkede artan Yahudi düşmanlığına karşı daha fazla mücadele edilmesi çağrısında bulundu.",
-     "de": "Die Antisemitismusbeauftragte Schnurbein warnt vor wachsendem Judenhass in Deutschland und fordert ein entschlosseneres Engagement dagegen."
-    }
    }
   ]
  },
  "seen": [
   "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
   "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
+  "https://tr.euronews.com/2026/11/22/cop31de-ulkeler-anlasma-arayisinda-fosil-yakitlar-konusundaki-uzlasmazlik-suruyor",
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
+  "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
   "https://tr.euronews.com/2026/11/22/katarin-en-iyi-bes-yildizli-otelleri-doha-ve-lusailde-luks-konaklama",
   "https://tr.euronews.com/2026/11/22/madeira-ocean-expedition-koruma-ise-yariyor-kopekbaligi-azligi-endise-veriyor",
@@ -188,7 +190,12 @@
   "https://www.evrensel.net/haber/6010643/yediemin-depolari-traktorle-doluyor-tarlalar-icradan-satilik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010644/bir-kisi-tutuklandi-gaziosmanpasa-daki-yanginda-12-yasindaki-cocuk-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010645/isvicre-de-parlamento-binasi-onunde-2-bin-kisi-gazetecilige-destek-verdi-daha-az-gazetecilik-daha-az-demokrasi-demektir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010646/sirnak-ta-bir-asker-hayatini-kaybetti-msb-silah-kazasi-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010647/istanbul-da-sicaklik-11-derece-birden-dusecek-saganak-ve-lodos-etkili-olacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010648/ismail-saymaz-dan-teoman-mutlu-iddialari-anket-manipulasyonuyla-milletvekilligi-ve-dokunulmazlik-hedefliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010649/antalya-kepez-belediyesine-operasyon-10-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010650/dem-partili-kocyigit-bakan-simsek-e-soru-onergesi-verdi-kars-belediyesi-sayistay-bulgulari-meclis-gundeminde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010651/interpol-un-aradigi-israilli-organ-kacakcisi-yillarca-turkiye-de-yasadi-rusya-da-12-yil-hapis-cezasina-carptirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/fotografiska-lauren-greenfields-social-media-warnung-201685754.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
@@ -199,6 +206,7 @@
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
+  "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
   "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
   "https://www.faz.net/aktuell/wissen/geist-soziales/isabelle-deflers-ueber-kriegerische-frauen-im-18-jahrhundert-accg-201680264.html",
@@ -220,7 +228,10 @@
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
   "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+  "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+  "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
   "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
   "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
