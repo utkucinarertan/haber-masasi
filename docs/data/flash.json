@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T23:42+01:00",
+ "updatedAt": "2026-11-23T00:12+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T22:24:56+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
+    "text": {
+     "tr": "Avustralyalı müzik yapımcısı ve yayıncı Molly Meldrum, Melbourne'deki bir hastanede 83 yaşında hayatını kaybetti.",
+     "de": "Der australische Musikproduzent und Moderator Molly Meldrum ist im Alter von 83 Jahren in Melbourne gestorben."
+    }
+   },
    {
     "time": "2026-11-22T22:01:17+00:00",
     "source": "The Guardian World",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Libyalı yetkililer, Bingazi'deki deniz üssünde demirli bulunan bir Rus savaş gemisinin Ukrayna'ya ait olduğu sanılan bir dronla vurulduğunu bildirdi.",
      "de": "Ein russisches Kriegsschiff wurde nach Angaben libyscher Offiziere an einem Marinestützpunkt in Bengasi von einer mutmasslich ukrainischen Drohne getroffen."
-    }
-   },
-   {
-    "time": "2026-11-22T19:17:56+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
-    "text": {
-     "tr": "ABD'de Temsilciler Meclisi ara seçimlerinde Demokratlar en az 258 sandalye kazanarak 1992'den bu yana en büyük zaferini elde etti.",
-     "de": "Bei den US-Zwischenwahlen haben die Demokraten im Repräsentantenhaus mindestens 258 Sitze und damit den grössten Sieg seit 1992 errungen."
     }
    }
   ],
@@ -460,6 +460,7 @@
   "https://www.faz.net/podcasts/nico-lange/migration-in-der-eu-warum-sich-routen-so-schnell-verlagern-201704453.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
   "https://www.faz.net/video/trotz-starkregen-europa-protestiert-201706484.html",
+  "https://www.france24.com/en/africa/20261122-drone-strikes-hit-homes-and-un-building-in-sudan-s-khartoum",
   "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
   "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
   "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
@@ -574,6 +575,7 @@
   "https://www.theguardian.com/environment/2026/nov/23/cop31-left-chris-bowen-stuck-between-petrostates-and-climate-reality-but-the-failure-to-say-the-f-word-is-not-his-alone",
   "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
   "https://www.theguardian.com/music/2026/nov/22/miley-cyrus-maxx-morando-wedding",
+  "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
   "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
   "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
   "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
