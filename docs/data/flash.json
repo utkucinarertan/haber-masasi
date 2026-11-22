@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T06:27+01:00",
+ "updatedAt": "2026-11-22T06:57+01:00",
  "countries": {
   "world": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "Washington Valisi ve sendikalar, ABD Göçmenlik ve Gümrük Muhafaza biriminin Seattle Havalimanı'ndaki gözaltı operasyonuna tepki gösterdi.",
      "de": "Der Gouverneur von Washington und Gewerkschaften haben einen Festnahmeeinsatz der US-Einwanderungsbehörde ICE am Flughafen Seattle kritisiert."
+    }
+   },
+   {
+    "time": "2026-11-22T05:26:10+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+    "text": {
+     "tr": "Türkiye'deki BM İklim Zirvesi COP31'de, görüşmelerin çökmesini önlemeyi amaçlayan yeni bir taslak anlaşma hazırlandı.",
+     "de": "Auf der UN-Klimakonferenz COP31 in der Türkei soll ein neuer Entwurf das Scheitern der Verhandlungen verhindern."
     }
    },
    {
@@ -33,6 +42,15 @@
     }
    },
    {
+    "time": "2026-11-22T06:48:40+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
+    "text": {
+     "tr": "Bolu Belediyesi ihale davasında Tanju Özcan hakkında tahliye kararı verilirken, başka bir cezası nedeniyle tutukluluğu sürecek.",
+     "de": "Im Ausschreibungsverfahren der Stadtverwaltung Bolu wurde die Freilassung von Tanju Özcan angeordnet, er bleibt jedoch aufgrund einer anderen Haftstrafe inhaftiert."
+    }
+   },
+   {
     "time": "2026-11-22T06:21:04+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
@@ -43,6 +61,15 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T06:47:26+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+    "text": {
+     "tr": "Almanya Antisemitizm Sorumlusu Schnurbein, ülkede artan Yahudi düşmanlığına karşı daha fazla mücadele edilmesi çağrısında bulundu.",
+     "de": "Die Antisemitismusbeauftragte Schnurbein warnt vor wachsendem Judenhass in Deutschland und fordert ein entschlosseneres Engagement dagegen."
+    }
+   },
    {
     "time": "2026-11-22T05:19:19+00:00",
     "source": "Die Welt",
@@ -55,6 +82,9 @@
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
+  "https://tr.euronews.com/2026/11/22/prenses-kate-kanserle-mucadelesini-anlatti-kanser-insani-degistiriyor",
+  "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-bardak-suyun-hatirina-bartin-2558086",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-baskadir-artik-baska-2558082",
@@ -67,10 +97,13 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.evrensel.net/haber/6010630/meteoroloji-den-sel-ve-su-baskini-uyarisi-dogu-guneydogu-ve-karadeniz-de-kuvvetli-yagis-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010631/darica-da-kadinlar-taleplerini-haykirdi-aileyi-degil-kadini-koru?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+  "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+  "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html"
