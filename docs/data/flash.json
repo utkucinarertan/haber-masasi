@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T10:10+01:00",
+ "updatedAt": "2026-11-22T10:40+01:00",
  "countries": {
   "world": [
    {
@@ -40,16 +40,25 @@
     }
    },
    {
-    "time": "2026-11-22T09:00:42+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
+    "time": "2026-11-22T09:20:45+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
     "text": {
-     "tr": "Avrupa'da son bir ayda siber saldırılar nedeniyle derin dondurucuların ısınması ve GPS kayıpları gibi birçok olay yaşandı.",
-     "de": "Europa hat einen Monat voller Cyberangriffe erlebt, die unter anderem zu GPS-Ausfällen und veränderten Temperaturen in Gefriertruhen führten."
+     "tr": "Güney Kore Eğitim Bakanı Choi Kyo-jin, üniversite giriş sınavında yapay zeka destekli kopya skandalı nedeniyle istifa etti.",
+     "de": "Der südkoreanische Bildungsminister Choi Kyo-jin ist wegen eines Skandals um KI-gestütztes Schummeln bei den Hochschulaufnahmeprüfungen zurückgetreten."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T12:14:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010657/ivrindi-de-antimuan-ocagi-kapasite-artisina-yargi-engeli-mahkeme-susuzyayla-ve-gozlucayir-daki-maden-projesine-dur-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Balıkesir'in İvrindi ilçesindeki antimuan ocağı kapasite artışı projesine verilen ÇED olumlu kararı mahkemece iptal edildi.",
+     "de": "Ein Gericht hat die Baugenehmigung für die Kapazitätserweiterung einer Antimonmine in İvrindi, Balıkesir, aufgehoben."
+    }
+   },
    {
     "time": "2026-11-22T11:09:00+03:00",
     "source": "Evrensel",
@@ -85,18 +94,27 @@
      "tr": "İstanbul Gaziosmanpaşa'daki bir binada çıkan yangında 12 yaşındaki çocuk hayatını kaybetti, bir kişi tutuklandı.",
      "de": "Bei einem Brand in einem Gebäude in Istanbul-Gaziosmanpaşa starb ein 12-jähriges Kind, eine Person wurde festgenommen."
     }
-   },
-   {
-    "time": "2026-11-22T09:50:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010642/istanbul-da-bugun-gazetecilere-ozgurluk-icin-yurunecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İstanbul'da bağımsız medyaya yönelik baskılara ve kayyım atamalarına karşı bugün 'gazetecilere özgürlük' yürüyüşü düzenlenecek.",
-     "de": "In Istanbul findet heute ein Marsch für die Freiheit von Journalisten gegen den Druck auf unabhängige Medien statt."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T10:22:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
+    "text": {
+     "tr": "Almanya, Antalya'daki COP31 iklim konferansında sunulan ve fosil yakıtlardan vazgeçilmesini içermeyen taslak metni onaylamayacağını açıkladı.",
+     "de": "Deutschland hält den Entwurf für das Abschlusstext der Klimakonferenz COP31 in Antalya für nicht zustimmungsfähig, da ein Bekenntnis zu fossilen Brennstoffen fehlt."
+    }
+   },
+   {
+    "time": "2026-11-22T09:32:42+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b02ae6b39a3e8110f0e627b/kalte-progression-mehr-netto-im-geldbeutel-soeder-fordert-sofortige-steuerentlastung.html",
+    "text": {
+     "tr": "CSU lideri Markus Söder, kalıcı vergi yükünün azaltılması ve vatandaşlara hemen net gelir artışı sağlanması çağrısında bulundu.",
+     "de": "CSU-Chef Markus Söder fordert eine sofortige Steuerentlastung und mehr Netto im Geldbeutel für die Bürger."
+    }
+   },
    {
     "time": "2026-11-22T09:16:45+01:00",
     "source": "tagesschau",
@@ -123,47 +141,35 @@
      "tr": "FDP'li siyasetçi Preisler, Filistin yanlısı bir gösteride saldırıya uğradı.",
      "de": "FDP-Politikerin Preisler wurde bei einer propalästinensischen Demonstration attackiert."
     }
-   },
-   {
-    "time": "2026-11-22T07:52:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
-    "text": {
-     "tr": "Eski CDU lideri Kramp-Karrenbauer, partisinin sağa kaymak yerine günlük yaşam kaygılarına odaklanması gerektiğini söyledi.",
-     "de": "Die frühere CDU-Chefin Kramp-Karrenbauer fordert, dass sich ihre Partei statt eines Rechtskurses auf Alltagsängste konzentrieren sollte."
-    }
-   },
-   {
-    "time": "2026-11-22T07:04:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
-    "text": {
-     "tr": "Formula 1 Las Vegas Grand Prix'sinde Max Verstappen birinci oldu.",
-     "de": "Max Verstappen gewinnt den Großen Preis von Las Vegas in der Formel 1."
-    }
    }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/22/ahmet-gunestekinden-60-yasina-ozel-sergi-kaldigimiz-yerden",
   "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
   "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
   "https://tr.euronews.com/2026/11/22/cop31de-ulkeler-anlasma-arayisinda-fosil-yakitlar-konusundaki-uzlasmazlik-suruyor",
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
   "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
+  "https://tr.euronews.com/2026/11/22/fbiin-suc-veri-tabani-hedefte-trump-saldirinin-faydalari-olabilecegini-soyledi",
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
   "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
   "https://tr.euronews.com/2026/11/22/katarin-en-iyi-bes-yildizli-otelleri-doha-ve-lusailde-luks-konaklama",
   "https://tr.euronews.com/2026/11/22/madeira-ocean-expedition-koruma-ise-yariyor-kopekbaligi-azligi-endise-veriyor",
+  "https://tr.euronews.com/2026/11/22/mariah-careynin-ikonik-yilbasi-gorunumu-barbie-bebege-donustu",
   "https://tr.euronews.com/2026/11/22/micotakisin-gta-6li-emeklilik-ikramiye-duyurusu-tepki-cekti",
   "https://tr.euronews.com/2026/11/22/muslumanlara-yonelik-sozleriyle-tepki-ceken-yazara-ve-aktor-depardieuya-toplu-tecavuz-soru",
   "https://tr.euronews.com/2026/11/22/oecdnin-beceri-odakli-isgucu-piyasasi-endeksi-isvec-ve-fransa-avrupaya-liderlik-ediyor",
   "https://tr.euronews.com/2026/11/22/prens-harry-gerekirse-rusyaya-karsi-savasmak-icin-orduya-donerim",
   "https://tr.euronews.com/2026/11/22/prenses-kate-kanserle-mucadelesini-anlatti-kanser-insani-degistiriyor",
   "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
+  "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+  "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o",
+  "https://www.bbc.com/turkce/articles/cw7728xx70z5o",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-bardak-suyun-hatirina-bartin-2558086",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-baskadir-artik-baska-2558082",
@@ -204,17 +210,27 @@
   "https://www.evrensel.net/haber/6010652/yeni-parti-milletvekili-ozgur-karabat-tan-ekonomi-degerlendirmesi-2027-ye-hangi-parayla-giriyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010653/tbmm-de-bu-hafta-butce-gorusmelerinde-komisyon-asamasi-sona-eriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010654/abd-hazine-bakani-scott-bessent-askeri-uste-kaldigini-dogruladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010655/ekoloji-mucadelesinin-ve-devrimci-tarihin-tanigi-gonul-yucel-hastaoglu-na-veda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010656/petrol-is-gebze-sube-baskani-kirmizicicek-iscilerin-ortak-talepleri-kartal-meydani-nda-yukselecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010657/ivrindi-de-antimuan-ocagi-kapasite-artisina-yargi-engeli-mahkeme-susuzyayla-ve-gozlucayir-daki-maden-projesine-dur-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010658/cop31-de-anlasma-yok-kapanis-ertelendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/fotografiska-lauren-greenfields-social-media-warnung-201685754.html",
+  "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/was-passiert-wenn-sich-eine-ki-als-forscher-vorstellt-accg-201699981.html",
+  "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vom-privatgymnasium-ins-gefaengnis-wie-mein-bekannter-zum-drogenboss-wurde-accg-201682866.html",
   "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
   "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/viva-frida-kahlo-immersive-ausstellung-gastiert-in-frankfurt-accg-201680843.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovi-beim-hsv-ist-er-nach-vier-jahren-doping-sperre-noch-gut-genug-accg-201651345.html",
   "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
   "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
@@ -237,6 +253,7 @@
   "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
+  "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
   "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
@@ -245,8 +262,10 @@
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
   "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+  "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
   "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+  "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
   "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
   "https://www.welt.de/debatte/plus6affe4a439a3e8110f0e336d/buchhandel-einmal-queer-durchs-regal.html",
@@ -257,6 +276,8 @@
   "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
   "https://www.welt.de/politik/deutschland/article6b02999939a3e8110f0e60fa/zentralratspraesident-mit-juedischem-leben-nur-schwer-kompatibel-schuster-warnt-vor-extremisten-in-der-bundesregierung.html",
+  "https://www.welt.de/politik/deutschland/article6b02ae6b39a3e8110f0e627b/kalte-progression-mehr-netto-im-geldbeutel-soeder-fordert-sofortige-steuerentlastung.html",
+  "https://www.welt.de/politik/deutschland/harald-martenstein/plus6affe0c739a3e8110f0e3302/houellebecq-und-reichelt-die-anklage-aufstachelung-zu-diskriminierung-haette-der-stasi-gefallen.html",
   "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
   "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
   "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
@@ -265,7 +286,9 @@
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
   "https://www.welt.de/vermischtes/article6b02a4a73cd434a4d6d0ca74/kfz-zulassung-88-hh-18-ss-diese-nazi-codes-sind-auf-kennzeichen-verboten.html",
   "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
+  "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/vorwuerfe-gegen-ehemann-sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
   "https://www.welt.de/wissenschaft/article6afeb159e9561dcc48a02c19/auto-gefahr-durch-rentner-was-eine-pflicht-zum-fuehrerschein-check-ab-65-wirklich-bringt.html",
+  "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-nicht-zustimmungsfaehig-deutschland-verweigert-unterstuetzung-fuer-klima-beschlusstext.html",
   "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-trotz-40-stunden-verlaengerung-droht-der-weltklimagipfel-zu-scheitern.html",
   "https://www.welt.de/wissenschaft/plus6afeb159e9561dcc48a02c19/auto-gefahr-durch-rentner-was-eine-pflicht-zum-fuehrerschein-check-ab-65-wirklich-bringt.html"
  ]
