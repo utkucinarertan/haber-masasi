@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T06:57+01:00",
+ "updatedAt": "2026-11-22T07:40+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T06:15:38+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+    "text": {
+     "tr": "Baltık Denizi'nde bir Rus kargo gemisine düzenlenen insansız hava aracı saldırısının ardından Finlandiya savaşın sıçradığını belirtti.",
+     "de": "Nach einem Drohnenangriff auf ein russisches Frachtschiff in der Ostsee erklärte Finnland, der Krieg weite sich aus."
+    }
+   },
+   {
+    "time": "2026-11-22T06:14:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
+    "text": {
+     "tr": "Endonezya'nın Banten eyaletindeki bir şekerleme fabrikasında çıkan yangında en az 3 kişi hayatını kaybetti, onlarca kişi kayıp.",
+     "de": "Bei einem Brand in einer Süßwarenfabrik in Indonesien sind mindestens drei Menschen gestorben und Dutzende vermisst."
+    }
+   },
    {
     "time": "2026-11-22T05:41:00+01:00",
     "source": "Der Spiegel",
@@ -33,6 +51,33 @@
   ],
   "tr": [
    {
+    "time": "2026-11-22T09:18:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010637/mus-ta-dem-partili-ve-dbp-li-siyasetcilere-ceza-yagdi-surece-karsi-guvensizligi-derinlestiriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Muş'ta DEM Partili Çiçek Tutuş'a 1 yıl 6 ay, eski DBP'li Selamettin Yılmaz'a 6 yıl 3 ay hapis cezası verildi.",
+     "de": "In Muş wurden zwei kurdische Politiker zu Haftstrafen verurteilt."
+    }
+   },
+   {
+    "time": "2026-11-22T09:08:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010636/hatay-da-zincirleme-kaza-5-arac-karisti-1-kisi-oldu-10-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Hatay'ın Antakya ilçesinde 5 aracın katıldığı zincirleme kazada 1 kişi öldü, 10 kişi yaralandı.",
+     "de": "Bei einer Massenkarambolage mit fünf Fahrzeugen in Hatay starb eine Person, zehn weitere wurden verletzt."
+    }
+   },
+   {
+    "time": "2026-11-22T07:39:19+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
+    "text": {
+     "tr": "Türkiye'nin Suriye'deki akademik birimleri yerel üniversitelere devrediliyor.",
+     "de": "Von der Türkei in Syrien betriebene akademische Einrichtungen werden an lokale Universitäten übergeben."
+    }
+   },
+   {
     "time": "2026-11-22T07:38:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010630/meteoroloji-den-sel-ve-su-baskini-uyarisi-dogu-guneydogu-ve-karadeniz-de-kuvvetli-yagis-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -49,18 +94,18 @@
      "tr": "Bolu Belediyesi ihale davasında Tanju Özcan hakkında tahliye kararı verilirken, başka bir cezası nedeniyle tutukluluğu sürecek.",
      "de": "Im Ausschreibungsverfahren der Stadtverwaltung Bolu wurde die Freilassung von Tanju Özcan angeordnet, er bleibt jedoch aufgrund einer anderen Haftstrafe inhaftiert."
     }
-   },
-   {
-    "time": "2026-11-22T06:21:04+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
-    "text": {
-     "tr": "Antalya'daki COP31 iklim zirvesinde, fosil yakıtlardan çıkış taahhüdü içermeyen yeni bir taslak metin hazırlandı.",
-     "de": "Auf dem Klimagipfel COP31 in Antalya liegt ein neuer Entwurf für die Abschlusserklärung vor, der fossile Energien nicht erwähnt."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T07:04:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
+    "text": {
+     "tr": "Formula 1 Las Vegas Grand Prix'sinde Max Verstappen birinci oldu.",
+     "de": "Max Verstappen gewinnt den Großen Preis von Las Vegas in der Formel 1."
+    }
+   },
    {
     "time": "2026-11-22T06:47:26+01:00",
     "source": "tagesschau",
@@ -83,8 +128,15 @@
  },
  "seen": [
   "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
+  "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
+  "https://tr.euronews.com/2026/11/22/katarin-en-iyi-bes-yildizli-otelleri-doha-ve-lusailde-luks-konaklama",
+  "https://tr.euronews.com/2026/11/22/madeira-ocean-expedition-koruma-ise-yariyor-kopekbaligi-azligi-endise-veriyor",
+  "https://tr.euronews.com/2026/11/22/oecdnin-beceri-odakli-isgucu-piyasasi-endeksi-isvec-ve-fransa-avrupaya-liderlik-ediyor",
+  "https://tr.euronews.com/2026/11/22/prens-harry-gerekirse-rusyaya-karsi-savasmak-icin-orduya-donerim",
   "https://tr.euronews.com/2026/11/22/prenses-kate-kanserle-mucadelesini-anlatti-kanser-insani-degistiriyor",
+  "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+  "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-bardak-suyun-hatirina-bartin-2558086",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-baskadir-artik-baska-2558082",
@@ -96,16 +148,38 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
+  "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
   "https://www.evrensel.net/haber/6010630/meteoroloji-den-sel-ve-su-baskini-uyarisi-dogu-guneydogu-ve-karadeniz-de-kuvvetli-yagis-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010631/darica-da-kadinlar-taleplerini-haykirdi-aileyi-degil-kadini-koru?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010632/trabzonspor-eyupspor-maci-ne-zaman-saat-kacta-hangi-kanalda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010633/kucukcekmece-de-5-katli-binada-yangin-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010634/konyaspor-besiktas-maci-ne-zaman-saat-kacta-hangi-kanalda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010635/mus-ta-kuvvetli-ruzgar-elektrik-diregi-ve-agaclar-araclarin-uzerine-devrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010636/hatay-da-zincirleme-kaza-5-arac-karisti-1-kisi-oldu-10-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010637/mus-ta-dem-partili-ve-dbp-li-siyasetcilere-ceza-yagdi-surece-karsi-guvensizligi-derinlestiriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
+  "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
+  "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
+  "https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss",
+  "https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss",
+  "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
+  "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
+  "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
+  "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+  "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
+  "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+  "https://www.welt.de/geschichte/article6af5b90750175c81de7a3a6b/totensonntag-mit-entsetzen-denkt-man-sich-das-schauervolle-ende-dieser-ungluecklichen.html",
+  "https://www.welt.de/kultur/plus6aec7bb947b5fce02f878f79/zu-zweit-allein-die-brutalste-einsamkeit-ist-die-in-einer-beziehung.html",
+  "https://www.welt.de/kultur/plus6afda78aa0547afb26e78a38/holz-und-maennlichkeit-warum-es-nach-700-000-jahren-immer-noch-die-vaeter-sind-die-ein-holzfeuer-anzuenden.html",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
+  "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html"
  ]
 }
