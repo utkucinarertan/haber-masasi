@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T16:15+01:00",
+ "updatedAt": "2026-11-22T16:45+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T15:22:38+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
+    "text": {
+     "tr": "İsrailli aşırı sağcı yerleşimciler Batı Şeria'daki Filistin köylerine baskın düzenleyerek araç ve evleri ateşe verdi.",
+     "de": "Radikale israelische Siedler überfielen palästinensische Dörfer im Westjordanland und zündeten Fahrzeuge sowie Häuser an."
+    }
+   },
    {
     "time": "2026-11-22T14:18:55+00:00",
     "source": "France 24",
@@ -38,18 +47,18 @@
      "tr": "Endonezya'nın Cava Adası'ndaki bir şekerleme fabrikasında çıkan yangında en az 6 kişi hayatını kaybetti.",
      "de": "Bei einem Brand in einer Süßwarenfabrik auf der indonesischen Insel Java starben mindestens sechs Menschen."
     }
-   },
-   {
-    "time": "2026-11-22T13:47:04+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/israel-investigates-west-bank-fires",
-    "text": {
-     "tr": "İsrail güçleri, işgal altındaki Batı Şeria'da dört köyde Filistinlilere ait araç ve mülklerin yakılması olaylarıyla ilgili soruşturma başlattı.",
-     "de": "Israelische Behörden haben Ermittlungen eingeleitet, nachdem im besetzten Westjordanland palästinensische Fahrzeuge und Immobilien in Brand gesetzt wurden."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T18:20:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010697/bakan-gurlek-ten-fon-aciklamasi-85-kisiden-toplam-4458-milyar-tl-tahsil-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Adalet Bakanı Gürlek, fon soruşturmasında gönüllü iade kapsamında 85 kişiden toplam 44,58 milyar TL tahsil edildiğini açıkladı.",
+     "de": "Justizminister Gürlek gab bekannt, dass im Rahmen von Fondsermittlungen von 85 Personen insgesamt 44,58 Milliarden Lira eingezogen wurden."
+    }
+   },
    {
     "time": "2026-11-22T17:26:00+03:00",
     "source": "Evrensel",
@@ -69,30 +78,21 @@
     }
    },
    {
+    "time": "2026-11-22T16:28:24+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/bepicolombo-sekiz-yillik-yolculugun-ardindan-merkur-yorungesine-girdi",
+    "text": {
+     "tr": "BepiColombo uzay aracı, sekiz yıllık yolculuğun ardından Merkür yörüngesine girdi.",
+     "de": "Die Raumsonde BepiColombo ist nach einer achtjährigen Reise in die Umlaufbahn des Merkur eingetreten."
+    }
+   },
+   {
     "time": "2026-11-22T16:27:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010690/masoud-sadedin-in-on-what-grounds-sergisi-istanbul-da?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
      "tr": "İranlı ressam Masoud Sadedin’in \"On What Grounds\" başlıklı kişisel sergisi İstanbul'daki Shiva Zahed Gallery'de açıldı.",
      "de": "Die Einzelausstellung des iranischen Malers Masoud Sadedin mit dem Titel \"On What Grounds\" wurde in der Shiva Zahed Gallery in Istanbul eröffnet."
-    }
-   },
-   {
-    "time": "2026-11-22T15:43:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010685/tugberk-imamoglu-gemisinde-kaybolan-8-denizci-icin-4-sehirde-eylem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Tuğberk İmamoğlu gemisinde kaybolan 8 denizcinin yakınları dört şehirde eylem düzenledi.",
-     "de": "Angehörige von acht vermissten Seeleuten des Schiffes Tuğberk İmamoğlu hielten in vier Städten Kundgebungen ab."
-    }
-   },
-   {
-    "time": "2026-11-22T15:30:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010679/iran-da-kasim-sonundan-itibaren-planli-elektrik-kesintileri-uygulanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İran'da, yakıt sıkıntısı ve artan tüketim nedeniyle kasım sonundan itibaren planlı elektrik kesintileri uygulanacak.",
-     "de": "Im Iran kommt es ab Ende November wegen Kraftstoffmängeln zu planmäßigen Stromausfällen."
     }
    }
   ],
@@ -104,6 +104,15 @@
     "text": {
      "tr": "Antalya'da düzenlenen COP31 Birleşmiş Milletler İklim Değişikliği Konferansı, net bir fosil yakıt çıkış kararı alınamadan sona erdi.",
      "de": "Die Weltklimakonferenz COP31 in Antalya ist ohne einen klaren Beschluss zum Ausstieg aus den fossilen Brennstoffen zu Ende gegangen."
+    }
+   },
+   {
+    "time": "2026-11-22T15:36:05+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
+    "text": {
+     "tr": "Almanya'da belediyeler ve şehirler, en derin finansal kriz nedeniyle federal hükümetten 30 milyar euro acil yardım talep etti.",
+     "de": "Kommunen und Städte fordern in ihrer tiefsten Finanzkrise 30 Milliarden Euro Soforthilfe vom Bund."
     }
    },
    {
@@ -132,15 +141,6 @@
      "tr": "Almanya Adalet Bakanı Stefanie Hubig, kadın cinayetlerinin daha ağır cezalandırılması için cinayet maddesinde sertleştirme teklifi sundu.",
      "de": "Justizministerin Stefanie Hubig hat einen Gesetzentwurf vorgelegt, um den Mordparagrafen bei Femiziden zu verschärfen."
     }
-   },
-   {
-    "time": "2026-11-22T14:30:48+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
-    "text": {
-     "tr": "Doğu Almanya'daki protestan sinodları, azalan üye sayıları nedeniyle ortak bir kilise birleşme planını onayladı.",
-     "de": "Die evangelischen Synoden in Ostdeutschland haben einem Plan zur Fusion zu einer gemeinsamen Landeskirche zugestimmt."
-    }
    }
   ]
  },
@@ -148,6 +148,7 @@
   "https://tr.euronews.com/2026/11/22/ahmet-gunestekinden-60-yasina-ozel-sergi-kaldigimiz-yerden",
   "https://tr.euronews.com/2026/11/22/antalyadaki-cop31-en-uzun-bm-iklim-zirvesi-olarak-tarihe-gecti",
   "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
+  "https://tr.euronews.com/2026/11/22/bepicolombo-sekiz-yillik-yolculugun-ardindan-merkur-yorungesine-girdi",
   "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
   "https://tr.euronews.com/2026/11/22/cocukluk-hafizasindan-evrensel-formlara-seylan-kandakin-oval-serisi",
   "https://tr.euronews.com/2026/11/22/cop31-antalya-konferansi-ab-ve-diger-ulkeler-fosil-yakit-yok-diye-iklim-anlasma-taslagini",
@@ -184,7 +185,9 @@
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
   "https://www.bbc.com/turkce/articles/c6z7490p3l8no",
+  "https://www.bbc.com/turkce/articles/c9ly41k071r2o",
   "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o",
+  "https://www.bbc.com/turkce/articles/cm3wgxjn1e20o",
   "https://www.bbc.com/turkce/articles/cm702e55rp84o",
   "https://www.bbc.com/turkce/articles/cw7728xx70z5o",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
@@ -205,6 +208,7 @@
   "https://www.dw.com/tr/cop31-de-fosil-yakıt-anlaşmazlığı-antalya-mutabakatı-çıkmadı/a-80013013",
   "https://www.dw.com/tr/cop31-de-fosil-yakıt-anlaşmazlığı-taslak-metinde-uzlaşma-sağlanamadı/a-80013013",
   "https://www.dw.com/tr/cop31-de-fosil-yakıt-krizi-almanya-ve-fransa-son-taslağa-karşı-çıktı/a-80013013",
+  "https://www.dw.com/tr/guterres-ten-cop31-tepkisi-derin-hayal-kırıklığı-yaşıyorum/a-80014411",
   "https://www.dw.com/tr/mega-hapishaneler-çözüm-olabilir-mi/a-79982917",
   "https://www.dw.com/tr/yapay-zeka-öğrencileri-aptallaştırıyor-mu/a-79971819",
   "https://www.evrensel.net/haber/6010630/meteoroloji-den-sel-ve-su-baskini-uyarisi-dogu-guneydogu-ve-karadeniz-de-kuvvetli-yagis-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -273,6 +277,8 @@
   "https://www.evrensel.net/haber/6010693/amedspor-dan-var-hakemlerine-tepki-acik-ihlalleri-tespit-etmeyecekse-var-sistemi-ne-icin-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010694/epstein-in-rusya-baglantilari-ortaya-cikti-putin-le-gorusmeye-calismis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010695/bingol-solhan-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010696/kadikoy-de-25-kasim-eylemi-kadinlardan-siddete-karsi-mucadele-ve-adalet-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010697/bakan-gurlek-ten-fon-aciklamasi-85-kisiden-toplam-4458-milyar-tl-tahsil-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -288,6 +294,7 @@
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/trauerfeier-fuer-lisa-500-menschen-nehmen-abschied-in-berlin-marzahn-accg-201706684.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vom-privatgymnasium-ins-gefaengnis-wie-mein-bekannter-zum-drogenboss-wurde-accg-201682866.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/ethnologe-das-lehren-uns-andere-kulturen-uns-ueber-den-tod-accg-201680644.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/philipp-plein-mit-designerhundebetten-zur-ersten-million-accg-201705985.html",
   "https://www.faz.net/aktuell/gesellschaft/smalltalk/herzblatt-geschichten/wie-viel-vertrauen-verdient-ein-klatschheft-accg-201701021.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-mindestens-drei-tote-accg-201706156.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/kohlenmonoxid-in-allgaeuer-kirche-19-menschen-verletzt-accg-201706736.html",
@@ -302,6 +309,7 @@
   "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
   "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-vor-finnland-getroffener-frachter-soll-nach-russland-gebracht-werden-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gouverneur-von-washington-ice-ist-voellig-ausser-kontrolle-faz-19444916.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/naechster-praesident-warum-trump-stephen-miller-ins-spiel-bringt-201706506.html",
   "https://www.faz.net/aktuell/reise/neue-fluggastrechte-wie-passagiere-davon-profitieren-accg-201058082.html",
@@ -310,6 +318,7 @@
   "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/krafttraining-fuer-kinder-was-eltern-wissen-sollten-und-wann-es-gefaehrlich-wird-accg-201614346.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/schlange-stehen-in-der-neuen-frankfurter-thalia-filiale-accg-201705365.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/tumo-frankfurt-wo-jugendliche-robotik-und-programmieren-lernen-accg-201693898.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/viva-frida-kahlo-immersive-ausstellung-gastiert-in-frankfurt-accg-201680843.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/in-frankfurt-und-luzern-fuenf-illustratorinnen-zeigen-ausstellung-zum-kindsein-accg-201697564.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundespraesidialamt-faellt-durch-relativ-niedrigen-krankenstand-auf-accg-201698796.html",
@@ -324,6 +333,7 @@
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
   "https://www.faz.net/aktuell/sport/formel-1/max-verstappen-siegt-in-las-vegas-75-karrieresieg-im-chaos-rennen-accg-201705885.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-bundesliga-hertha-bsc-siegt-in-cottbus-und-traeumt-vom-weihnachtsmeister-titel-accg-201304611.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-dortmunds-neuer-trumpf-im-titelkampf-accg-201706749.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/gta-6-und-der-fussball-muessen-klubs-ihre-spieler-schuetzen-201701012.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovi-beim-hsv-ist-er-nach-vier-jahren-doping-sperre-noch-gut-genug-accg-201651345.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/rb-leipzig-laesst-sich-die-luecke-zum-fc-bayern-diese-saison-schliessen-accg-201705855.html",
@@ -341,6 +351,7 @@
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/das-klima-drama-von-antalya-accg-201704569.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/erbschaftsteuer-union-warnt-vor-schnellschuessen-nach-doepfner-affaere-accg-201706427.html",
@@ -375,6 +386,7 @@
   "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss",
   "https://www.spiegel.de/kultur/thalia-theater-hamburg-borcherts-antikriegsklassiker-als-aufgedrehte-revue-a-95dd4c9d-58ce-4cbc-8f0c-b528645cd25b#ref=rss",
   "https://www.spiegel.de/kultur/tv/doku-operation-cobalt-ueber-frankfurter-kunstraub-die-rueckkehr-der-geraubten-bilder-a-56fcd51b-e901-4ed2-b2a2-48480c5dc3f5#ref=rss",
+  "https://www.spiegel.de/kultur/tv/prinzessin-kate-teilt-ihre-krebs-erfahrungen-im-fernsehen-a-9741e0b6-28bf-4188-923f-87e5d0887e2d#ref=rss",
   "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
   "https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
@@ -402,6 +414,7 @@
   "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
+  "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
   "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
@@ -413,8 +426,10 @@
   "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
+  "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+  "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
   "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
   "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
   "https://www.theguardian.com/education/2026/nov/22/prospect-union-leader-uk-funding-agency-science-research-ukri",
@@ -441,6 +456,7 @@
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
   "https://www.theguardian.com/world/2026/nov/22/india-congress-meta-protests-police-hyderabad",
   "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
+  "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
   "https://www.welt.de/debatte/plus6affe4a439a3e8110f0e336d/buchhandel-einmal-queer-durchs-regal.html",
   "https://www.welt.de/debatte/plus6b02b68025b618a0b5d5b98c/cop31-in-antalya-europas-grosse-klima-lebensluege-ist-gescheitert.html",
@@ -455,6 +471,7 @@
   "https://www.welt.de/politik/ausland/article6ae45338aacefa08f5b9905d/klitschko-foundation-wir-haben-keine-andere-wahl-wie-der-krieg-die-ukrainische-jugend-praegt.html",
   "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
   "https://www.welt.de/politik/ausland/plus6af6d4e55a72dceba1d6121d/inside-iran-unser-schweigen-ist-keine-zustimmung-im-iran-stellt-sich-jetzt-eine-entscheidende-frage.html",
+  "https://www.welt.de/politik/ausland/plus6b02ceb825b618a0b5d5bba2/ex-oberbefehlshaber-der-ukraine-das-ist-eine-heikle-angelegenheit-sagt-der-general-als-die-usa-zur-sprache-kommen.html",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
   "https://www.welt.de/politik/deutschland/article6b02999939a3e8110f0e60fa/zentralratspraesident-mit-juedischem-leben-nur-schwer-kompatibel-schuster-warnt-vor-extremisten-in-der-bundesregierung.html",
   "https://www.welt.de/politik/deutschland/article6b02ae29eefa807c11d9a64d/vorstoss-von-csu-chef-soeder-in-dieser-koalition-macht-niemand-mehr-was-der-kanzler-sagt.html",
@@ -472,6 +489,7 @@
   "https://www.welt.de/sport/formel1/article6b0294dc5842ff528b9e3738/leclerc-rammt-hamilton-teamzoff-bei-ferrari-eskaliert-ich-moechte-dich-nach-dem-rennen-direkt-sehen-funkt-der-team-chef.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02b41939a3e8110f0e630e/musiala-kane-fc-bayern-vor-der-schwersten-zerreissprobe-seit-ewigen-zeiten.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02d91e3cd434a4d6d0cebb/jamal-musiala-schaebig-katastrophal-mobbing-kritik-am-fc-bayern-wird-immer-massiver.html",
+  "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b02fcc539a3e8110f0e6b85/bvb-boss-ueber-felix-nmecha-lass-es-uns-einfach-vergessen-mitglieder-reagieren-mit-buh-rufen.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b02ebdb3cd434a4d6d0d033/fc-bayern-erneuter-rueckfall-bei-musiala-seine-agentur-meldet-sich-mit-hinweis.html",
   "https://www.welt.de/sport/fussball/bundesliga/hamburger-sv/article6b01a0a35842ff528b9e2ec7/mario-vuskovic-ist-zurueck-ein-freispruch-haette-das-gesamte-test-system-ins-wanken-gebracht.html",
   "https://www.welt.de/sport/fussball/bundesliga/rb-leipzig/article6b02ae935842ff528b9e38a1/juergen-klopp-lob-und-kritik-ein-geiler-typ-aber-er-muss-noch-lernen-klopps-ueberflieger-gruda-trumpft-erneut-auf.html",
