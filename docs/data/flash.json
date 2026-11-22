@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-22T02:57+01:00",
+ "updatedAt": "2026-11-22T03:27+01:00",
  "countries": {
   "world": [
    {
@@ -22,6 +22,15 @@
     }
    },
    {
+    "time": "2026-11-22T02:08:49+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
+    "text": {
+     "tr": "Avustralya'da Victoria Yeşilleri Partisi, parti logosunu taklit eden ve kendilerini son sıraya yazdıran bağımsız adaya karşı yüksek mahkemeden tedbir kararı aldı.",
+     "de": "Die australische Partei Victorian Greens erwirkte eine gerichtliche Verfügung gegen einen unabhängigen Kandidaten, der Wahlkarten mit kopiertem Branding verteilte."
+    }
+   },
+   {
     "time": "2026-11-22T01:45:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010627/yapay-zeka-beyni-taklit-ediyor-ama-onun-gibi-dusunmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, eleştirilere rağmen Rusya Devlet Başkanı Vladimir Putin'i dostu olarak nitelendirmeye devam ediyor.",
      "de": "Trotz scharfer Kritik aus den USA bezeichnet US-Präsident Donald Trump den Kremlchef Wladimir Putin erneut als Freund."
-    }
-   },
-   {
-    "time": "2026-11-22T00:25:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010625/norvec-in-baskenti-oslo-da-2027-butcesi-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Norveç'in başkenti Oslo'da vatandaşlar, 2027 bütçesindeki askeri yığınak ve silahlanmayı protesto etti.",
-     "de": "In Norwegens Hauptstadt Oslo haben Bürger gegen den Rüstungskurs im Haushalt für 2027 protestiert."
     }
    }
   ],
@@ -601,6 +601,7 @@
   "https://www.tagesschau.de/wirtschaft/weltwirtschaft/eu-indonesien-handelsabkommen-102.html",
   "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/21/victorian-greens-seek-urgent-injunction-over-how-to-vote-cards-mimicking-branding-but-preferencing-it-last-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
   "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
