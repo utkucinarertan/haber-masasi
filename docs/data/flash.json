@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T19:29+01:00",
+ "updatedAt": "2026-11-22T19:59+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T18:29:46+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
+    "text": {
+     "tr": "ABD Ordusu, mahkeme kararına rağmen Iowa'daki mühimmat fabrikasında tonlarca kararsız patlayıcıyı imha edeceğini açıkladı.",
+     "de": "Die US-Armee will trotz einer gerichtlichen Anordnung tonnenweise instabile Sprengstoffe in Iowa detonieren lassen."
+    }
+   },
    {
     "time": "2026-11-22T18:17:01+00:00",
     "source": "Die Welt",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "PSG, Nice'i 3-2 yenerek Ligue 1'deki galibiyet serisini sürdürdü ancak Désiré Doué sakatlandı.",
      "de": "PSG besiegt Nizza mit 3-2 und baut Siegesserie aus, verliert aber Désiré Doué durch eine schwere Knieverletzung."
-    }
-   },
-   {
-    "time": "2026-11-22T16:23:23+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
-    "text": {
-     "tr": "Ukrayna'nın başkenti Kyiv yakınlarındaki Dimir köyüne düzenlenen Rus saldırısında 2 kişi hayatını kaybetti.",
-     "de": "Ein russischer Angriff auf ein Wohngebäude im Dorf Dymer nördlich von Kiew forderte mindestens zwei Todesopfer."
     }
    }
   ],
@@ -98,6 +98,15 @@
   ],
   "de": [
    {
+    "time": "2026-11-22T18:50:38+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/justin-njinmah-schiesst-werder-bremen-zum-sieg-im-nordderby-gegen-den-hamburger-sv-201304429.html",
+    "text": {
+     "tr": "Justin Njinmah, Werder Bremen'in kuzey derbisinde Hamburg'u 4-0 yendiği maçta takımını galibiyete taşıdı.",
+     "de": "Justin Njinmah führte Werder Bremen mit starken Aktionen zu einem 4:0-Sieg im Nordderby gegen den HSV."
+    }
+   },
+   {
     "time": "2026-11-22T18:36:50+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
@@ -132,15 +141,6 @@
      "tr": "ESA ve JAXA'nın ortaklaşa gönderdiği BepiColombo uzay sondası Merkür'ün yörüngesine girdi.",
      "de": "Die Doppelsonde BepiColombo von ESA und Jaxa ist erfolgreich in die Umlaufbahn des Planeten Merkur eingetreten."
     }
-   },
-   {
-    "time": "2026-11-22T17:36:18+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
-    "text": {
-     "tr": "Kuzey Ren-Vestfalya AfD teşkilatı, 2027 Eyalet Meclisi seçimleri için seçim programını kabul etti.",
-     "de": "Der NRW-Landesverband der AfD hat das Wahlprogramm für die Landtagswahl 2027 verabschiedet."
-    }
    }
   ]
  },
@@ -160,6 +160,7 @@
   "https://tr.euronews.com/2026/11/22/fbiin-suc-veri-tabani-hedefte-trump-saldirinin-faydalari-olabilecegini-soyledi",
   "https://tr.euronews.com/2026/11/22/ftxin-cokusunun-ardindaki-ask-hikayesi-netflix-dizisi-the-altruistste",
   "https://tr.euronews.com/2026/11/22/grand-ekinokstan-halis-karatas-bold-pilot-uyumuna-at-yarisinin-unutulmaz-hikayeleri",
+  "https://tr.euronews.com/2026/11/22/imf-israil-bu-yil-yaklasik-747-milyar-dolarla-dunyanin-25-buyuk-ekonomisi-olacak",
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
   "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
   "https://tr.euronews.com/2026/11/22/israil-dunyanin-25-buyuk-ekonomisi-olma-yolunda-avrupa-ne-ogrenebilir",
@@ -182,7 +183,9 @@
   "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+  "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
+  "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
   "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
   "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
@@ -190,6 +193,7 @@
   "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
   "https://www.bbc.com/turkce/articles/c6z7490p3l8no",
   "https://www.bbc.com/turkce/articles/c9ly41k071r2o",
+  "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo",
   "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o",
   "https://www.bbc.com/turkce/articles/cm3wgxjn1e20o",
   "https://www.bbc.com/turkce/articles/cm702e55rp84o",
@@ -309,7 +313,9 @@
   "https://www.evrensel.net/haber/6010703/kadinlar-balcova-ve-narlidere-de-dayanisma-sofrasinda-bulustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010704/bursa-da-pencereden-dusen-cocuk-agir-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010705/iklim-eylem-agi-ndan-cop31-elestirisi-simdiye-kadarki-en-kotu-cop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talanin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talyeni-partili-karasu-dan-hgs-tepkisianin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010707/aydin-ekmek-ve-gul-den-25-kasim-paneli-kadinlarin-mucadelesi-ve-dayanismasi-buyuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -375,14 +381,17 @@
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-201304423.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-dortmunds-neuer-trumpf-im-titelkampf-accg-201706749.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/gta-6-und-der-fussball-muessen-klubs-ihre-spieler-schuetzen-201701012.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/justin-njinmah-schiesst-werder-bremen-zum-sieg-im-nordderby-gegen-den-hamburger-sv-201304429.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovi-beim-hsv-ist-er-nach-vier-jahren-doping-sperre-noch-gut-genug-accg-201651345.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/rb-leipzig-laesst-sich-die-luecke-zum-fc-bayern-diese-saison-schliessen-accg-201705855.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/schalke-04-und-die-last-der-null-ist-ein-ende-der-torflaute-in-sicht-accg-201706106.html",
   "https://www.faz.net/aktuell/sport/fussball/ein-wort-ein-bruch-der-fc-bayern-gegen-jamal-musiala-201706239.html",
+  "https://www.faz.net/aktuell/sport/fussball/florian-wirtz-glaenzt-bei-deutlichem-sieg-fuer-fc-liverpool-gegen-manchester-united-201707442.html",
   "https://www.faz.net/aktuell/sport/fussball/leandro-paredes-bricht-nach-boca-juniors-triumph-zusammen-accg-201706251.html",
   "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/wilhelm-hirsch-wird-langdistanz-weltmeister-im-triathlon-accg-201706445.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/darmstadt-98-die-rueckkehr-des-fussballs-ans-boellenfalltor-accg-201706324.html",
+  "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-wahrscheinlichkeit-spricht-gegen-die-europa-league-qualifikation-201706400.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/noah-atubolu-frankfurts-elfmeter-phaenomen-stellt-bundesliga-rekord-auf-201706253.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-zarte-hoffnung-bei-der-mannschaft-von-urs-fischer-accg-201702107.html",
   "https://www.faz.net/aktuell/sport/wintersport/warum-linus-strasser-seine-komfortzone-verlassen-hat-accg-201704908.html",
@@ -395,6 +404,7 @@
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/gescheiterter-un-klimagipfel-guterres-fordert-mehr-einsatz-201707238.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-teurer-alleingang-bei-satellitenkommunikation-201699724.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/marine-le-pen-und-frankreichs-schuldenkrise-ein-risiko-fuer-europa-201699158.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sinkende-geburtenraten-werden-kinder-zum-demografischen-luxus-201699085.html",
@@ -462,6 +472,7 @@
   "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-verstappen-gewinnt-das-rennen-des-jahres-pressestimmen-a-91d46e06-efa3-4fa6-886c-8216bb752109#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
   "https://www.spiegel.de/sport/fussball/argentinien-boca-juniors-kapitaen-leandro-paredes-bricht-nach-pokalsieg-vor-kamera-zusammen-a-256ccf42-1d67-4bef-a4c0-3bf6bca21dae#ref=rss",
+  "https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-ueberrollt-hsv-und-wird-zur-ueberraschung-der-saison-a-1d8dcdf8-3ee2-4a58-a22a-895efe064dd9#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss",
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
@@ -474,6 +485,7 @@
   "https://www.spiegel.de/wissenschaft/medizin/krank-durchs-krankenhaus-bettruhe-macht-viele-aeltere-patienten-zu-pflegefaellen-a-fa5eb3c6-7018-440c-9ae9-a0dd6d65f7d0#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-die-oelproduzenten-haben-angst-die-europaeer-reden-sich-raus-a-3805b4d7-2a8e-40e3-9b7b-d36d3ff3d6dc#ref=rss",
   "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
+  "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
   "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
@@ -519,6 +531,7 @@
   "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
   "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
+  "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
   "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
   "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
@@ -568,6 +581,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/article6b02b41939a3e8110f0e630e/musiala-kane-fc-bayern-vor-der-schwersten-zerreissprobe-seit-ewigen-zeiten.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02d91e3cd434a4d6d0cebb/jamal-musiala-schaebig-katastrophal-mobbing-kritik-am-fc-bayern-wird-immer-massiver.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02f86025b618a0b5d5bf62/bundesliga-ticker-nordderby-werder-bremen-hsv-live.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b02f86025b618a0b5d5bf62/fuellkrug-liefert-die-zugabe-werder-schiesst-den-hsv-im-nordderby-ab.html",
   "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b02fcc539a3e8110f0e6b85/bvb-boss-ueber-felix-nmecha-lass-es-uns-einfach-vergessen-mitglieder-reagieren-mit-buh-rufen.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b02ebdb3cd434a4d6d0d033/fc-bayern-erneuter-rueckfall-bei-musiala-seine-agentur-meldet-sich-mit-hinweis.html",
   "https://www.welt.de/sport/fussball/bundesliga/hamburger-sv/article6b01a0a35842ff528b9e2ec7/mario-vuskovic-ist-zurueck-ein-freispruch-haette-das-gesamte-test-system-ins-wanken-gebracht.html",
