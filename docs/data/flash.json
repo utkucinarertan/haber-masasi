@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-22T01:57+01:00",
+ "updatedAt": "2026-11-22T02:27+01:00",
  "countries": {
   "world": [
    {
@@ -98,6 +98,15 @@
   ],
   "de": [
    {
+    "time": "2026-11-22T02:02:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss",
+    "text": {
+     "tr": "ABD'de FBI'a düzenlenen siber saldırıyı değerlendiren Donald Trump, olayın beklenmedik bazı faydalı bilgiler sağlayabileceğini belirtti.",
+     "de": "Donald Trump äußerte sich zu dem Cyberangriff auf das FBI und hofft, dass der Vorfall neue Erkenntnisse bringen könnte."
+    }
+   },
+   {
     "time": "2026-11-22T00:13:24+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/politik/deutschland/article6b02320639a3e8110f0e5e80/antisemitismusbeauftragte-afd-ideologie-besonders-gefaehrlich-schnurbein-warnt-vor-regierungsbeteiligung-der-afd.html",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "FC St. Pauli, Millerntor'da VfL Bochum'u mağlup etti.",
      "de": "Der FC St. Pauli besiegte den VfL Bochum am Millerntor."
-    }
-   },
-   {
-    "time": "2026-11-21T21:39:30+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/tennis/article6b020c165842ff528b9e3421/atp-finals-nach-den-pfiffen-der-zuschauer-macht-zverev-das-traumfinale-perfekt.html",
-    "text": {
-     "tr": "Tenisçi Alexander Zverev, ATP Finalleri'nde kariyerinde üçüncü kez finale yükseldi.",
-     "de": "Alexander Zverev hat zum dritten Mal in seiner Karriere das Finale der ATP Finals erreicht."
     }
    }
   ]
@@ -536,6 +536,7 @@
   "https://www.spiegel.de/ausland/polen-flugobjekt-in-polen-war-russische-rakete-nato-spricht-von-einem-gefaehrlichen-vorfall-a-e82b2c83-f347-4ef6-b4b6-970b0d909be3#ref=rss",
   "https://www.spiegel.de/ausland/russland-warum-der-kreml-angst-vor-zu-klugen-schuelern-hat-kolumne-a-12f26152-3b28-44ee-a6f0-3d088f6a66c7#ref=rss",
   "https://www.spiegel.de/ausland/tucker-carlson-hat-mit-donald-trump-gebrochen-viele-eurer-politiker-sind-eine-lachnummer-a-81c1a5fd-24ee-438f-8104-52ebb67fe563#ref=rss",
+  "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss",
   "https://www.spiegel.de/ausland/wahl-in-israel-gadi-eisenkot-trifft-benjamin-netanyahus-partei-zu-koalitionsgespraechen-a-5350748d-252f-43b2-ada8-8c0279780790#ref=rss",
   "https://www.spiegel.de/ausland/wolodymyr-selenskyj-russisches-prestigeprojekt-krimbruecke-habe-keine-zukunft-a-a0180ce2-d9fe-446d-af25-b1ad00cb33bb#ref=rss",
   "https://www.spiegel.de/gesundheit/achtsamkeit-ich-will-meditieren-kriege-es-aber-nicht-hin-was-tun-a-0bd4f40b-a27e-481f-8c4a-88a34271fa0c#ref=rss",
@@ -601,8 +602,10 @@
   "https://www.theguardian.com/australia-news/2026/nov/21/teenager-allegedly-organised-arsons-and-kidnapping-on-signal-during-melbourne-hospitality-wars-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/australian-neo-nazis-among-far-right-groups-raising-hundreds-of-thousands-via-global-crowdfunding-platform-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/22/cigarette-platter-bondi-copini-beauty-event-investigation",
+  "https://www.theguardian.com/australia-news/2026/nov/22/fred-nile-former-nsw-politician-and-figurehead-of-the-rightwing-christian-democratic-party-dies-aged-92",
   "https://www.theguardian.com/australia-news/2026/nov/22/man-found-dead-on-flinders-island-linked-to-shooting-of-police-officer-tasmanian-authorities-say",
   "https://www.theguardian.com/australia-news/2026/nov/22/queensland-health-ambulance-deaths-lnp-labor-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/22/victoria-election-2026-what-are-parties-promising-energy-policy",
   "https://www.theguardian.com/environment/2026/nov/21/china-commits-low-carbon-electrification-help-others-improve",
   "https://www.theguardian.com/lifeandstyle/2026/nov/21/black-friday-deals-liquid-brazilian-butt-lifts-criticised-safety-fears",
   "https://www.theguardian.com/media/2026/nov/21/telegraph-departures-direction-axel-springer-ownership",
