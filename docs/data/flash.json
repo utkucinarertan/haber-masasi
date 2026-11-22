@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-22T02:27+01:00",
+ "updatedAt": "2026-11-22T02:57+01:00",
  "countries": {
   "world": [
    {
@@ -31,6 +31,15 @@
     }
    },
    {
+    "time": "2026-11-22T01:24:31+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b02422a39a3e8110f0e5e9f/us-praesident-trotz-scharfer-kritik-aus-den-eigenen-reihen-trump-nennt-putin-erneut-freund.html",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, eleştirilere rağmen Rusya Devlet Başkanı Vladimir Putin'i dostu olarak nitelendirmeye devam ediyor.",
+     "de": "Trotz scharfer Kritik aus den USA bezeichnet US-Präsident Donald Trump den Kremlchef Wladimir Putin erneut als Freund."
+    }
+   },
+   {
     "time": "2026-11-22T00:25:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010625/norvec-in-baskenti-oslo-da-2027-butcesi-protesto-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -38,18 +47,18 @@
      "tr": "Norveç'in başkenti Oslo'da vatandaşlar, 2027 bütçesindeki askeri yığınak ve silahlanmayı protesto etti.",
      "de": "In Norwegens Hauptstadt Oslo haben Bürger gegen den Rüstungskurs im Haushalt für 2027 protestiert."
     }
-   },
-   {
-    "time": "2026-11-22T00:06:52+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/video/2026/11/22/lvivde-rus-fuze-ve-iha-saldirisi-arac-kamerasi-patlama-anini-kaydetti",
-    "text": {
-     "tr": "Ukrayna'nın Lviv şehrine düzenlenen Rus füze ve İHA saldırısında 2 kişi hayatını kaybetti, en az 10 kişi yaralandı.",
-     "de": "Bei einem russischen Raketen- und Drohnenangriff auf die ukrainische Stadt Lwiw wurden 2 Menschen getötet und mindestens 10 weitere verletzt."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T02:55:26+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+    "text": {
+     "tr": "Antalya'daki COP31 iklim konferansında yaklaşık 200 ülke, fosil yaklaşımlardan çıkış konusunda uzlaşı arıyor.",
+     "de": "Bei der Klimakonferenz COP31 in Antalya ringen fast 200 Staaten um eine Einigung zum Ausstieg aus fossilen Energien."
+    }
+   },
    {
     "time": "2026-11-22T00:10:00+03:00",
     "source": "Evrensel",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "MHP Genel Başkanı Devlet Bahçeli, CHP lideri Özgür Özel'e yönelik eleştirilerde bulunarak Türkiye'yi böldürtmeyeceklerini vurguladı.",
      "de": "MHP-Vorsitzender Devlet Bahçeli kritisierte CHP-Chef Özgür Özel und betonte, man werde die Spaltung der Türkei nicht zulassen."
-    }
-   },
-   {
-    "time": "2026-11-21T22:52:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010618/antalya-da-kadin-cinayeti-evli-oldugu-kadini-oldurup-intihar-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Antalya'da Hasan Ergün, evli olduğu Fatma Ergün'ü silahla öldürdükten sonra aynı silahla intihar etti.",
-     "de": "In Antalya hat ein Mann seine Ehefrau getötet und anschließend Suizid begangen."
     }
    }
   ],
@@ -582,6 +582,7 @@
   "https://www.tagesschau.de/ausland/amerika/prozess-pacific-palisades-feuer-kalifornien-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-hackerangriffe-100.html",
   "https://www.tagesschau.de/ausland/asien/klimakonferenz-verlaengerung-100.html",
+  "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/europa/costa-concordia-kapitaen-aus-haft-entlassen-100.html",
   "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
   "https://www.tagesschau.de/ausland/europa/italien-polizeichef-de-gennaro-tot-100.html",
@@ -661,6 +662,7 @@
   "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
   "https://www.welt.de/politik/ausland/article6b020ec639a3e8110f0e5d96/israel-eisenkot-laedt-netanjahus-likud-partei-doch-zu-koalitionsgespraechen-ein.html",
   "https://www.welt.de/politik/ausland/article6b022ab65842ff528b9e34ce/chapo-isidro-schon-elf-tote-festnahme-von-drogen-boss-loest-in-mexiko-heftige-gewalt-aus.html",
+  "https://www.welt.de/politik/ausland/article6b02422a39a3e8110f0e5e9f/us-praesident-trotz-scharfer-kritik-aus-den-eigenen-reihen-trump-nennt-putin-erneut-freund.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-auch-akademiker-verdienen-respekt-nicht-nur-arbeiter-und-bauern.html",
