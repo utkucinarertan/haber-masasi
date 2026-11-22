@@ -1,8 +1,35 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T18:45+01:00",
+ "updatedAt": "2026-11-22T19:29+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T18:17:01+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/fussball/article6b032cfd39a3e8110f0e6f2f/fc-arsenal-mitten-im-spiel-bricht-nationalspielerin-lisa-baum-ploetzlich-zusammen.html",
+    "text": {
+     "tr": "Arsenal'in 19 yaşındaki milli futbolcusu Lisa Baum, West Ham ile oynanan maçta aniden fenalaşarak yere yığıldı.",
+     "de": "Die 19-jährige Nationalspielerin Lisa Baum brach im Spiel des FC Arsenal gegen West Ham plötzlich zusammen."
+    }
+   },
+   {
+    "time": "2026-11-22T17:55:27+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+    "text": {
+     "tr": "Antropic'in yapay zeka aracı Claude, bir matematikçinin 19. yüzyıldan kalma Riemann hipotezini çözmesine yardımcı oldu.",
+     "de": "Das KI-Tool Claude von Anthropic half einem Mathematiker dabei, die berühmte Riemann-Vermutung zu lösen."
+    }
+   },
+   {
+    "time": "2026-11-22T17:47:34+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
+    "text": {
+     "tr": "Fransız aşırı sağcı lider Marine Le Pen, içişleri bakanlığı yetkilisinden sızdırılmış gizli bilgi almadığını söyledi.",
+     "de": "Die französische Rechtspopulistin Marine Le Pen bestritt, vertrauliche Informationen vom Innenministerium erhalten zu haben."
+    }
+   },
    {
     "time": "2026-11-22T16:55:55+00:00",
     "source": "France 24",
@@ -20,36 +47,18 @@
      "tr": "Ukrayna'nın başkenti Kyiv yakınlarındaki Dimir köyüne düzenlenen Rus saldırısında 2 kişi hayatını kaybetti.",
      "de": "Ein russischer Angriff auf ein Wohngebäude im Dorf Dymer nördlich von Kiew forderte mindestens zwei Todesopfer."
     }
-   },
-   {
-    "time": "2026-11-22T16:05:25+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
-    "text": {
-     "tr": "Libya limanındaki bir Rus gemisinde meydana gelen patlamanın muhtemelen insansız hava aracı saldırısından kaynaklandığı bildirildi.",
-     "de": "Eine Explosion auf einem russischen Schiff in einem libyschen Hafen wurde laut Behördenangaben wahrscheinlich durch eine Drohne verursacht."
-    }
-   },
-   {
-    "time": "2026-11-22T15:43:01+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
-    "text": {
-     "tr": "HMRC verilerine göre İngiliz mükelleflerin vergi cennetlerindeki offshore hesaplarında tuttuğu miktar ilk kez 1 trilyon sterlini aştı.",
-     "de": "HMRC-Daten zeigen, dass von britischen Steuerzahlern in Steueroasen gehaltene Offshore-Gelder erstmals die Marke von einer Billion Pfund überstiegen."
-    }
-   },
-   {
-    "time": "2026-11-22T15:22:38+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/nov/22/netanyahu-rival-condemns-settler-arson-attacks-palestinian-villages-west-bank",
-    "text": {
-     "tr": "İsrailli aşırı sağcı yerleşimciler Batı Şeria'daki Filistin köylerine baskın düzenleyerek araç ve evleri ateşe verdi.",
-     "de": "Radikale israelische Siedler überfielen palästinensische Dörfer im Westjordanland und zündeten Fahrzeuge sowie Häuser an."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T20:40:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010705/iklim-eylem-agi-ndan-cop31-elestirisi-simdiye-kadarki-en-kotu-cop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Uluslararası İklim Eylem Ağı, Antalya'da düzenlenen COP31 zirvesini şimdiye kadarki en kötü iklim konferansı olarak nitelendirdi.",
+     "de": "Das Internationale Klimaschutznetzwerk kritisierte die UN-Klimakonferenz COP31 in Antalya als bisher schlechteste Klimakonferenz."
+    }
+   },
    {
     "time": "2026-11-22T20:29:00+03:00",
     "source": "Evrensel",
@@ -85,15 +94,6 @@
      "tr": "Bakan Murat Kurum, Antalya'daki iklim konferansında Gana temsilcisiyle yaşanan tartışma nedeniyle özür diledi.",
      "de": "Minister Murat Kurum hat sich für den Vorfall mit der ghanaischen Vertreterin auf der Klimakonferenz in Antalya entschuldigt."
     }
-   },
-   {
-    "time": "2026-11-22T19:24:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/agiralioglu-ndan-net-aciklama-secimde-ittifak-yapacaklar-mi-cumhur-ittifaki-yla-beraber-2558397",
-    "text": {
-     "tr": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, seçimlere hiçbir ittifaka dahil olmadan gireceklerini açıkladı.",
-     "de": "Der Vorsitzende der Anahtar-Partei, Yavuz Ağıralioğlu, erklärte, dass sie ohne Bündnisse in die Wahlen gehen werden."
-    }
    }
   ],
   "de": [
@@ -104,6 +104,24 @@
     "text": {
      "tr": "Aile Bakanı Prien, Berlin'de Filistin yanlısı bir gösteri sırasında FDP'li siyasetçi Preisler'e düzenlenen saldırıyı kınadı.",
      "de": "Bundesfamilienministerin Prien verurteilt den Angriff auf die FDP-Politikerin Preisler bei einer Demonstration in Berlin scharf."
+    }
+   },
+   {
+    "time": "2026-11-22T18:14:04+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/grosseinsatz-am-flughafen-in-frankfurt-30-condor-passagiere-klagen-ueber-unwohlsein-201707372.html",
+    "text": {
+     "tr": "Karayipler'den Frankfurt'a gelen uçaktaki 30 yolcunun rahatsızlanması üzerine havalimanında acil durum ilan edildi.",
+     "de": "Nach Unwohlsein von 30 Passagieren eines Karibik-Fluges rückten Rettungskräfte am Frankfurter Flughafen zu einem Großeinsatz aus."
+    }
+   },
+   {
+    "time": "2026-11-22T17:59:29+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
+    "text": {
+     "tr": "Alman kayakla atlama takımı, Lillehammer'daki Dünya Kupası açılışında hayal kırıklığı yaratan bir başlangıç yaptı.",
+     "de": "Die deutschen Skispringer erlebten beim Weltcup-Auftakt in Lillehammer einen ernüchternden Start mit nur einem Finalisten."
     }
    },
    {
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Kuzey Ren-Vestfalya AfD teşkilatı, 2027 Eyalet Meclisi seçimleri için seçim programını kabul etti.",
      "de": "Der NRW-Landesverband der AfD hat das Wahlprogramm für die Landtagswahl 2027 verabschiedet."
-    }
-   },
-   {
-    "time": "2026-11-22T16:49:55+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
-    "text": {
-     "tr": "Alman derin teknoloji girişimleri, bugüne kadarki en yüksek yatırımı alarak rekor kırdı.",
-     "de": "Deutsche Deeptech-Start-ups haben so viel Kapital wie nie zuvor eingesammelt und einen Rekord aufgestellt."
-    }
-   },
-   {
-    "time": "2026-11-22T16:37:29+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/noah-atubolu-frankfurts-elfmeter-phaenomen-stellt-bundesliga-rekord-auf-201706253.html",
-    "text": {
-     "tr": "Frankfurt kalecisi Noah Atubolu, Hoffenheim maçında yedinci penaltıyı kurtararak Bundesliga rekoru kırdı.",
-     "de": "Frankfurts Torwart Noah Atubolu parierte gegen Hoffenheim den siebten Elfmeter und stellte einen Bundesliga-Rekord auf."
     }
    }
   ]
@@ -185,6 +185,7 @@
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+  "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
   "https://www.bbc.com/turkce/articles/c6z7490p3l8no",
@@ -306,10 +307,14 @@
   "https://www.evrensel.net/haber/6010701/kamu-is-kesk-ve-birtek-sen-den-ortak-panel-bir-direnis-deneyimi-ve-ortak-mucadelenin-gelecegi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010702/abd-baskani-trump-tan-senato-yarisi-mesaji-schumer-lider-olursa-calismamiz-cok-zor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010703/kadinlar-balcova-ve-narlidere-de-dayanisma-sofrasinda-bulustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010704/bursa-da-pencereden-dusen-cocuk-agir-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010705/iklim-eylem-agi-ndan-cop31-elestirisi-simdiye-kadarki-en-kotu-cop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talyeni-partili-karasu-dan-hgs-tepkisianin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/carissa-veliz-kann-ki-prognosen-fuer-die-zukunft-geben-accg-201685758.html",
+  "https://www.faz.net/aktuell/feuilleton/debatten/gehen-opernhaeuser-und-orchester-reihenweise-pleite-201666939.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/fotografiska-lauren-greenfields-social-media-warnung-201685754.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/pablo-picasso-karl-faber-versteigert-seltene-radierung-fuer-bis-zu-700-000-euro-accg-201698408.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
@@ -337,6 +342,7 @@
   "https://www.faz.net/aktuell/politik/inland/hubig-will-keinen-straftatbestand-fuer-femizid-schaffen-201706016.html",
   "https://www.faz.net/aktuell/politik/inland/in-nrw-setzt-die-afd-auf-rechtsstaatliche-remigration-201705943.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-kritik-an-plaenen-fuer-spritpreisdeckel-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
   "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html",
@@ -347,6 +353,7 @@
   "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-polizei-nimmt-bewohner-nach-wohnungsbrand-im-gallusviertel-fest-accg-201706880.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-in-frankfurt-polizei-einsatzleiter-erklaert-warum-es-friedlich-blieb-accg-201704661.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/grosseinsatz-am-flughafen-in-frankfurt-30-condor-passagiere-klagen-ueber-unwohlsein-201707372.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/krafttraining-fuer-kinder-was-eltern-wissen-sollten-und-wann-es-gefaehrlich-wird-accg-201614346.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/schlange-stehen-in-der-neuen-frankfurter-thalia-filiale-accg-201705365.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/tumo-frankfurt-wo-jugendliche-robotik-und-programmieren-lernen-accg-201693898.html",
@@ -411,6 +418,7 @@
   "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
   "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
   "https://www.france24.com/en/former-italian-police-chief-found-dead",
+  "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
   "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
   "https://www.france24.com/en/israel-investigates-west-bank-fires",
   "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
@@ -422,6 +430,7 @@
   "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
+  "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
   "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss",
   "https://www.spiegel.de/deinspiegel/beruf-geruestbauer-viel-bewegung-schwere-lasten-und-arbeit-in-der-hoehe-a-bd3e630f-6de1-48f0-90f2-58fbdf9417d1#ref=rss",
@@ -457,10 +466,12 @@
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
+  "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-in-antalya-eklat-bei-uno-klimakonferenz-in-antalya-teilnehmer-koennen-sich-nicht-auf-abschlusserklaerung-einigen-a-e9928a84-c539-492f-8b13-f71ca6296c95#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
+  "https://www.spiegel.de/wissenschaft/medizin/krank-durchs-krankenhaus-bettruhe-macht-viele-aeltere-patienten-zu-pflegefaellen-a-fa5eb3c6-7018-440c-9ae9-a0dd6d65f7d0#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-die-oelproduzenten-haben-angst-die-europaeer-reden-sich-raus-a-3805b4d7-2a8e-40e3-9b7b-d36d3ff3d6dc#ref=rss",
   "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
@@ -492,6 +503,7 @@
   "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
   "https://www.theguardian.com/music/2026/nov/22/miley-cyrus-maxx-morando-wedding",
   "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+  "https://www.theguardian.com/news/2026/nov/22/russell-brand-wife-laura-gallacher-youtube-video",
   "https://www.theguardian.com/news/2026/nov/23/potty-mouthed-mps-ranked-as-australian-parliament-sets-new-swearing-record",
   "https://www.theguardian.com/politics/2026/nov/22/british-right-reform-tory-party-distances-itself-from-trump-putin-friend-post",
   "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
@@ -500,7 +512,9 @@
   "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
   "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
   "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+  "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
   "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
+  "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
   "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
   "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
   "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
@@ -540,6 +554,7 @@
   "https://www.welt.de/politik/deutschland/article6b02ee833cd434a4d6d0d067/kanzler-kritisch-mit-sich-staerker-auf-die-zeit-druecken-merz-wuerde-bei-neuanfang-schneller-entscheiden.html",
   "https://www.welt.de/politik/deutschland/article6b02f23625b618a0b5d5bee5/bei-palaestina-protesten-sie-trat-mich-wuchtig-in-die-koerpermitte-fdp-politikerin-preisler-ueber-angriff-auf-demo.html",
   "https://www.welt.de/politik/deutschland/article6b0302e925b618a0b5d5c020/lauterbach-bei-ki-laboren-auf-deutschland-blicken-die-fuehrenden-koepfe-dort-desinteressiert-oder-mitleidig.html",
+  "https://www.welt.de/politik/deutschland/article6b0304925842ff528b9e3fac/lau-bei-ronzheimer-merz-ist-einer-der-wenigen-spitzenpolitiker-die-verstanden-haben-was-die-stunde-geschlagen-hat.html",
   "https://www.welt.de/politik/deutschland/harald-martenstein/plus6affe0c739a3e8110f0e3302/houellebecq-und-reichelt-die-anklage-aufstachelung-zu-diskriminierung-haette-der-stasi-gefallen.html",
   "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-dritte-klasse-ein-junge-fragte-die-praktikantin-machst-du-auch-onlyfans.html",
@@ -549,6 +564,7 @@
   "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
   "https://www.welt.de/sport/formel1/article6b02929739a3e8110f0e609e/chaotischstes-rennen-der-geschichte-30-fuehrungswechsel-verstappen-triumphiert-beim-ueberhol-festival-in-las-vegas.html",
   "https://www.welt.de/sport/formel1/article6b0294dc5842ff528b9e3738/leclerc-rammt-hamilton-teamzoff-bei-ferrari-eskaliert-ich-moechte-dich-nach-dem-rennen-direkt-sehen-funkt-der-team-chef.html",
+  "https://www.welt.de/sport/fussball/article6b032cfd39a3e8110f0e6f2f/fc-arsenal-mitten-im-spiel-bricht-nationalspielerin-lisa-baum-ploetzlich-zusammen.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02b41939a3e8110f0e630e/musiala-kane-fc-bayern-vor-der-schwersten-zerreissprobe-seit-ewigen-zeiten.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02d91e3cd434a4d6d0cebb/jamal-musiala-schaebig-katastrophal-mobbing-kritik-am-fc-bayern-wird-immer-massiver.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02f86025b618a0b5d5bf62/bundesliga-ticker-nordderby-werder-bremen-hsv-live.html",
@@ -556,6 +572,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b02ebdb3cd434a4d6d0d033/fc-bayern-erneuter-rueckfall-bei-musiala-seine-agentur-meldet-sich-mit-hinweis.html",
   "https://www.welt.de/sport/fussball/bundesliga/hamburger-sv/article6b01a0a35842ff528b9e2ec7/mario-vuskovic-ist-zurueck-ein-freispruch-haette-das-gesamte-test-system-ins-wanken-gebracht.html",
   "https://www.welt.de/sport/fussball/bundesliga/rb-leipzig/article6b02ae935842ff528b9e38a1/juergen-klopp-lob-und-kritik-ein-geiler-typ-aber-er-muss-noch-lernen-klopps-ueberflieger-gruda-trumpft-erneut-auf.html",
+  "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
   "https://www.welt.de/vermischtes/article6b02a4a73cd434a4d6d0ca74/kfz-zulassung-88-hh-18-ss-diese-nazi-codes-sind-auf-kennzeichen-verboten.html",
   "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
