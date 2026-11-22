@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T20:29+01:00",
+ "updatedAt": "2026-11-22T20:59+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T19:41:23+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+    "text": {
+     "tr": "Libyalı yetkililer, Bingazi'deki deniz üssünde demirli bulunan bir Rus savaş gemisinin Ukrayna'ya ait olduğu sanılan bir dronla vurulduğunu bildirdi.",
+     "de": "Ein russisches Kriegsschiff wurde nach Angaben libyscher Offiziere an einem Marinestützpunkt in Bengasi von einer mutmasslich ukrainischen Drohne getroffen."
+    }
+   },
+   {
+    "time": "2026-11-22T19:17:56+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+    "text": {
+     "tr": "ABD'de Temsilciler Meclisi ara seçimlerinde Demokratlar en az 258 sandalye kazanarak 1992'den bu yana en büyük zaferini elde etti.",
+     "de": "Bei den US-Zwischenwahlen haben die Demokraten im Repräsentantenhaus mindestens 258 Sitze und damit den grössten Sieg seit 1992 errungen."
+    }
+   },
    {
     "time": "2026-11-22T19:00:34+00:00",
     "source": "The Guardian World",
@@ -28,24 +46,6 @@
     "text": {
      "tr": "ABD Ordusu, mahkeme kararına rağmen Iowa'daki mühimmat fabrikasında tonlarca kararsız patlayıcıyı imha edeceğini açıkladı.",
      "de": "Die US-Armee will trotz einer gerichtlichen Anordnung tonnenweise instabile Sprengstoffe in Iowa detonieren lassen."
-    }
-   },
-   {
-    "time": "2026-11-22T18:17:01+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/fussball/article6b032cfd39a3e8110f0e6f2f/fc-arsenal-mitten-im-spiel-bricht-nationalspielerin-lisa-baum-ploetzlich-zusammen.html",
-    "text": {
-     "tr": "Arsenal'in 19 yaşındaki milli futbolcusu Lisa Baum, West Ham ile oynanan maçta aniden fenalaşarak yere yığıldı.",
-     "de": "Die 19-jährige Nationalspielerin Lisa Baum brach im Spiel des FC Arsenal gegen West Ham plötzlich zusammen."
-    }
-   },
-   {
-    "time": "2026-11-22T17:55:27+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
-    "text": {
-     "tr": "Antropic'in yapay zeka aracı Claude, bir matematikçinin 19. yüzyıldan kalma Riemann hipotezini çözmesine yardımcı oldu.",
-     "de": "Das KI-Tool Claude von Anthropic half einem Mathematiker dabei, die berühmte Riemann-Vermutung zu lösen."
     }
    }
   ],
@@ -98,6 +98,24 @@
   ],
   "de": [
    {
+    "time": "2026-11-22T20:53:03+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
+    "text": {
+     "tr": "Finlandiya sınır muhafızlarına göre, Baltık Denizi'nde bir dron saldırısına uğrayan Rus kargo gemisi Sparta II Rus sularına çekiliyor.",
+     "de": "Nach einem Drohnenangriff in der Ostsee wird der russische Frachter Sparta II laut finnischem Grenzschutz in russische Gewässer geschleppt."
+    }
+   },
+   {
+    "time": "2026-11-22T20:48:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
+    "text": {
+     "tr": "Alexander Zverev, ATP Finalleri finalinde Carlos Alcaraz'a yenilerek harika yılını şampiyonlukla taçlandıramadı.",
+     "de": "Alexander Zverev hat das Endspiel der ATP Finals gegen Carlos Alcaraz verloren und damit die Krönung seines Jahres verpasst."
+    }
+   },
+   {
     "time": "2026-11-22T20:24:22+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
@@ -123,24 +141,6 @@
      "tr": "Amerikalı havayolu şirketi Delta, yaşayan teknik arızalar nedeniyle yolcuların gecikmelerle karşılaşacağını açıkladı.",
      "de": "Die US-Fluggesellschaft Delta ist erneut von einer technischen Störung betroffen, was zu Verspätungen für Passagiere führt."
     }
-   },
-   {
-    "time": "2026-11-22T19:13:08+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/saudi-arabien-plant-langen-krieg-gegen-huthi-im-jemen-201704686.html",
-    "text": {
-     "tr": "Suudi Arabistan, Husilere karşı askeri baskıyı artırarak Yemen'de uzun süreli bir savaşa hazırlanıyor.",
-     "de": "Saudi-Arabien will den militärischen Druck auf die Huthi-Rebellen erhöhen und stellt sich auf einen langen Jemen-Krieg ein."
-    }
-   },
-   {
-    "time": "2026-11-22T19:11:16+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/proteste-gegen-schliessung-regierungskritischer-medien-in-istanbul-201707434.html",
-    "text": {
-     "tr": "İstanbul'da muhalif medyanın kapatılmasına karşı binlerce kişi protesto gösterisi düzenledi.",
-     "de": "Tausende Menschen haben in Istanbul gegen die Schließung regierungskritischer Medien und Einschränkungen der Pressefreiheit protestiert."
-    }
    }
   ]
  },
@@ -164,6 +164,7 @@
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
   "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
   "https://tr.euronews.com/2026/11/22/israil-dunyanin-25-buyuk-ekonomisi-olma-yolunda-avrupa-ne-ogrenebilir",
+  "https://tr.euronews.com/2026/11/22/israil-ekonomisi-25inci-siraya-yukseliyor-avrupa-icin-hangi-dersler-var",
   "https://tr.euronews.com/2026/11/22/katarin-en-iyi-bes-yildizli-otelleri-doha-ve-lusailde-luks-konaklama",
   "https://tr.euronews.com/2026/11/22/madeira-ocean-expedition-koruma-ise-yariyor-kopekbaligi-azligi-endise-veriyor",
   "https://tr.euronews.com/2026/11/22/mariah-careynin-ikonik-yilbasi-gorunumu-barbie-bebege-donustu",
@@ -335,12 +336,14 @@
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/trauerfeier-fuer-lisa-500-menschen-nehmen-abschied-in-berlin-marzahn-accg-201706684.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/vom-privatgymnasium-ins-gefaengnis-wie-mein-bekannter-zum-drogenboss-wurde-accg-201682866.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/ethnologe-das-lehren-uns-andere-kulturen-uns-ueber-den-tod-accg-201680644.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/miley-cyrus-heiratet-maxx-morando-in-palm-springs-201707506.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/philipp-plein-mit-designerhundebetten-zur-ersten-million-accg-201705985.html",
   "https://www.faz.net/aktuell/gesellschaft/smalltalk/herzblatt-geschichten/wie-viel-vertrauen-verdient-ein-klatschheft-accg-201701021.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-mindestens-drei-tote-accg-201706156.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/kohlenmonoxid-in-allgaeuer-kirche-19-menschen-verletzt-accg-201706736.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/unwetter-in-tupancireta-vier-tote-und-8000-beschaedigte-haeuser-accg-201704557.html",
   "https://www.faz.net/aktuell/karriere-hochschule/buero-co/pilotenausbildung-was-quereinsteiger-dirk-hager-erlebt-hat-201687467.html",
+  "https://www.faz.net/aktuell/neue-uhren-im-herbst-201665593.html",
   "https://www.faz.net/aktuell/politik/ausland/11-tote-bei-festnahme-von-drogenboss-fausto-isidro-meza-in-mexiko-accg-201706370.html",
   "https://www.faz.net/aktuell/politik/ausland/macron-plant-schuldenbremse-in-der-verfassung-mit-bardella-accg-201705914.html",
   "https://www.faz.net/aktuell/politik/ausland/proteste-gegen-schliessung-regierungskritischer-medien-in-istanbul-201707434.html",
@@ -395,6 +398,7 @@
   "https://www.faz.net/aktuell/sport/fussball/florian-wirtz-glaenzt-bei-deutlichem-sieg-fuer-fc-liverpool-gegen-manchester-united-201707442.html",
   "https://www.faz.net/aktuell/sport/fussball/leandro-paredes-bricht-nach-boca-juniors-triumph-zusammen-accg-201706251.html",
   "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-201707509.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/wilhelm-hirsch-wird-langdistanz-weltmeister-im-triathlon-accg-201706445.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/darmstadt-98-die-rueckkehr-des-fussballs-ans-boellenfalltor-accg-201706324.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-wahrscheinlichkeit-spricht-gegen-die-europa-league-qualifikation-201706400.html",
@@ -411,10 +415,12 @@
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/gescheiterter-un-klimagipfel-guterres-fordert-mehr-einsatz-201707238.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/deutschlands-teurer-alleingang-bei-satellitenkommunikation-201699724.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/doepfner-und-die-erbschaftsteuer-wann-handelt-die-politik-201706122.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/marine-le-pen-und-frankreichs-schuldenkrise-ein-risiko-fuer-europa-201699158.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sinkende-geburtenraten-werden-kinder-zum-demografischen-luxus-201699085.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/erbschaftsteuer-union-warnt-vor-schnellschuessen-nach-doepfner-affaere-accg-201706427.html",
@@ -428,6 +434,7 @@
   "https://www.faz.net/podcasts/nico-lange/migration-in-der-eu-warum-sich-routen-so-schnell-verlagern-201704453.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
   "https://www.faz.net/video/trotz-starkregen-europa-protestiert-201706484.html",
+  "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
   "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
   "https://www.france24.com/en/english-village-votes-to-leave-uk",
   "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
@@ -442,11 +449,13 @@
   "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
   "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
   "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
+  "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
   "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
   "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
   "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss",
+  "https://www.spiegel.de/ausland/ukraine-krieg-der-ukraine-steht-der-haerteste-kriegswinter-bevor-militaerexperte-franz-stefan-gady-a-a540c544-b586-4a52-b06a-63b32f4c8233#ref=rss",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
   "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss",
   "https://www.spiegel.de/deinspiegel/beruf-geruestbauer-viel-bewegung-schwere-lasten-und-arbeit-in-der-hoehe-a-bd3e630f-6de1-48f0-90f2-58fbdf9417d1#ref=rss",
@@ -484,7 +493,9 @@
   "https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-ueberrollt-hsv-und-wird-zur-ueberraschung-der-saison-a-1d8dcdf8-3ee2-4a58-a22a-895efe064dd9#ref=rss",
   "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss",
+  "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
+  "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
@@ -502,6 +513,7 @@
   "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
+  "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-102.html",
   "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
   "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
@@ -518,6 +530,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
   "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+  "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
   "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
   "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
   "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
@@ -545,6 +558,8 @@
   "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
   "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
+  "https://www.theguardian.com/us-news/2026/nov/22/house-democrats-historic-sweep",
+  "https://www.theguardian.com/us-news/2026/nov/22/jensen-huang-nvidia-john-kennedy",
   "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
   "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
