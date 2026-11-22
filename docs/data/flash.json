@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T17:45+01:00",
+ "updatedAt": "2026-11-22T18:15+01:00",
  "countries": {
   "world": [
    {
@@ -51,6 +51,33 @@
   ],
   "tr": [
    {
+    "time": "2026-11-22T20:11:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-ten-kendi-evinde-farkli-galibiyet-2558404",
+    "text": {
+     "tr": "Galatasaray MCT Technic, Basketbol Süper Ligi maçında Aliağa Petkim Spor'u 81-64 yendi.",
+     "de": "Galatasaray MCT Technic hat Aliağa Petkim Spor in der Basketball-Superliga mit 81:64 geschlagen."
+    }
+   },
+   {
+    "time": "2026-11-22T20:09:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emir-komisyon-kararina-aciklik-getirdi-mudahaleleri-siraladi-bizim-tutumumuz-ilk-gunden-beri-savundugumuz-2558403",
+    "text": {
+     "tr": "Yeni Parti Grup Başkanvekili Murat Emir, İzleme Komisyonu'na üye vermeme kararlarını savundu.",
+     "de": "Der Fraktionsvize der Yeni-Partei, Murat Emir, hat die Entscheidung verteidigt, keine Mitglieder in die Beobachtungskommission zu entsenden."
+    }
+   },
+   {
+    "time": "2026-11-22T19:44:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/murat-kurum-dan-gana-ya-ozur-soz-kesmek-gibi-bir-niyetimiz-olamaz-2558400",
+    "text": {
+     "tr": "Bakan Murat Kurum, Antalya'daki iklim konferansında Gana temsilcisiyle yaşanan tartışma nedeniyle özür diledi.",
+     "de": "Minister Murat Kurum hat sich für den Vorfall mit der ghanaischen Vertreterin auf der Klimakonferenz in Antalya entschuldigt."
+    }
+   },
+   {
     "time": "2026-11-22T19:24:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/siyaset/agiralioglu-ndan-net-aciklama-secimde-ittifak-yapacaklar-mi-cumhur-ittifaki-yla-beraber-2558397",
@@ -67,33 +94,6 @@
      "tr": "Silivri açıklarında batan Tuğberk İmamoğlu gemisinde kaybolan 8 denizcinin aileleri arama çalışmalarının yeniden başlatılmasını istedi.",
      "de": "Die Familien von acht vermissten Seeleuten des vor Silivri gesunkenen Schiffes forderten die Wiederaufnahme der Suche."
     }
-   },
-   {
-    "time": "2026-11-22T19:03:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Çanakkale'de beklenen olumsuz hava koşulları nedeniyle Gökçeada ve Bozcaada'ya yapılacak bazı feribot seferleri iptal edildi.",
-     "de": "Wegen eines Sturms wurden geplante Fährverbindungen zu den türkischen Inseln Gökçeada und Bozcaada abgesagt."
-    }
-   },
-   {
-    "time": "2026-11-22T18:28:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/milli-parkta-2-bozayi-vuruldu-sorusturma-baslatildi-2558388",
-    "text": {
-     "tr": "Ankara'daki Soğuksu Milli Parkı'nda iki bozayının vurulmasıyla ilgili idari soruşturma başlatıldı.",
-     "de": "Nach dem Abschuss von zwei Braunbären im Soğuksu-Nationalpark in Ankara wurde ein Verfahren eingeleitet."
-    }
-   },
-   {
-    "time": "2026-11-22T18:20:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010697/bakan-gurlek-ten-fon-aciklamasi-85-kisiden-toplam-4458-milyar-tl-tahsil-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Adalet Bakanı Gürlek, fon soruşturmasında gönüllü iade kapsamında 85 kişiden toplam 44,58 milyar TL tahsil edildiğini açıkladı.",
-     "de": "Justizminister Gürlek gab bekannt, dass im Rahmen von Fondsermittlungen von 85 Personen insgesamt 44,58 Milliarden Lira eingezogen wurden."
-    }
    }
   ],
   "de": [
@@ -104,6 +104,15 @@
     "text": {
      "tr": "Kuzey Ren-Vestfalya AfD teşkilatı, 2027 Eyalet Meclisi seçimleri için seçim programını kabul etti.",
      "de": "Der NRW-Landesverband der AfD hat das Wahlprogramm für die Landtagswahl 2027 verabschiedet."
+    }
+   },
+   {
+    "time": "2026-11-22T16:49:55+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
+    "text": {
+     "tr": "Alman derin teknoloji girişimleri, bugüne kadarki en yüksek yatırımı alarak rekor kırdı.",
+     "de": "Deutsche Deeptech-Start-ups haben so viel Kapital wie nie zuvor eingesammelt und einen Rekord aufgestellt."
     }
    },
    {
@@ -132,15 +141,6 @@
      "tr": "Antalya'da düzenlenen COP31 Birleşmiş Milletler İklim Değişikliği Konferansı, net bir fosil yakıt çıkış kararı alınamadan sona erdi.",
      "de": "Die Weltklimakonferenz COP31 in Antalya ist ohne einen klaren Beschluss zum Ausstieg aus den fossilen Brennstoffen zu Ende gegangen."
     }
-   },
-   {
-    "time": "2026-11-22T15:45:01+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b0302e925b618a0b5d5c020/lauterbach-bei-ki-laboren-auf-deutschland-blicken-die-fuehrenden-koepfe-dort-desinteressiert-oder-mitleidig.html",
-    "text": {
-     "tr": "Sağlık Bakanı Karl Lauterbach, ABD'deki yapay zeka uzmanlarının Almanya'ya kayıtsız ve acıyarak baktığını söyledi.",
-     "de": "Karl Lauterbach berichtet nach US-Gesprächen, führende KI-Entwickler blickten desinteressiert oder mitleidig auf Deutschland."
-    }
    }
   ]
  },
@@ -162,6 +162,7 @@
   "https://tr.euronews.com/2026/11/22/grand-ekinokstan-halis-karatas-bold-pilot-uyumuna-at-yarisinin-unutulmaz-hikayeleri",
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
   "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
+  "https://tr.euronews.com/2026/11/22/israil-dunyanin-25-buyuk-ekonomisi-olma-yolunda-avrupa-ne-ogrenebilir",
   "https://tr.euronews.com/2026/11/22/katarin-en-iyi-bes-yildizli-otelleri-doha-ve-lusailde-luks-konaklama",
   "https://tr.euronews.com/2026/11/22/madeira-ocean-expedition-koruma-ise-yariyor-kopekbaligi-azligi-endise-veriyor",
   "https://tr.euronews.com/2026/11/22/mariah-careynin-ikonik-yilbasi-gorunumu-barbie-bebege-donustu",
@@ -205,15 +206,21 @@
   "https://www.cumhuriyet.com.tr/siyaset/agiralioglu-ndan-net-aciklama-secimde-ittifak-yapacaklar-mi-cumhur-ittifaki-yla-beraber-2558397",
   "https://www.cumhuriyet.com.tr/siyaset/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-son-verileri-acikladi-kac-kisinin-mal-varliklarina-el-konuldu-ne-kadar-gonullu-iade-yapildi-2558386",
   "https://www.cumhuriyet.com.tr/siyaset/imrali-heyeti-ocalan-ile-gorustu-aciklama-icin-tarih-verdiler-2558395",
+  "https://www.cumhuriyet.com.tr/siyaset/murat-kurum-dan-gana-ya-ozur-soz-kesmek-gibi-bir-niyetimiz-olamaz-2558400",
+  "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emir-komisyon-kararina-aciklik-getirdi-mudahaleleri-siraladi-bizim-tutumumuz-ilk-gunden-beri-savundugumuz-2558403",
   "https://www.cumhuriyet.com.tr/spor/barcelona-pes-etmedi-kendi-evinde-2-0-dan-geri-dondu-2558390",
+  "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-ten-kendi-evinde-farkli-galibiyet-2558404",
   "https://www.cumhuriyet.com.tr/spor/hull-city-uzatmalarda-guldu-8-maclik-kotu-seriye-son-verdi-2558396",
   "https://www.cumhuriyet.com.tr/spor/kasimpasa-uc-puani-90-1-de-kapti-2558389",
+  "https://www.cumhuriyet.com.tr/spor/mahmut-uslu-dan-iddialara-yanit-o-sozler-tamamen-asilsiz-2558399",
   "https://www.cumhuriyet.com.tr/spor/serdal-adali-dan-mhk-ye-tepki-isi-bulandirmaya-calismasinlar-2558392",
+  "https://www.cumhuriyet.com.tr/spor/vincenzo-italiano-dan-galibiyet-aciklamasi-hepimizin-uzerinde-deplasman-agirligi-vardi-2558398",
   "https://www.cumhuriyet.com.tr/turkiye/26-ayri-aranma-kaydi-bulunan-firari-kayseri-de-yakalandi-2558387",
   "https://www.cumhuriyet.com.tr/turkiye/babasini-bogazindan-yaralamisti-17-yasindaki-cocuk-tutuklandi-2558394",
   "https://www.cumhuriyet.com.tr/turkiye/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-calismalari-yeniden-baslatilmali-2558393",
   "https://www.cumhuriyet.com.tr/turkiye/feribot-seferlerine-olumsuz-hava-sartlari-engeli-bazi-seferler-iptal-edildi-2558391",
   "https://www.cumhuriyet.com.tr/turkiye/milli-parkta-2-bozayi-vuruldu-sorusturma-baslatildi-2558388",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/daha-17-dizisinin-yeni-bolumu-ne-zaman-daha-17-dizisinin-son-bolumunde-ne-oldu-2558401",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
   "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
@@ -296,6 +303,7 @@
   "https://www.evrensel.net/haber/6010698/zeytin-agaclarindan-evrensel-e-uzanan-dayanisma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010700/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-ve-cikarma-calismalari-yeniden-baslatilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010701/kamu-is-kesk-ve-birtek-sen-den-ortak-panel-bir-direnis-deneyimi-ve-ortak-mucadelenin-gelecegi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -322,6 +330,7 @@
   "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
   "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
+  "https://www.faz.net/aktuell/politik/inland/genz-proteste-und-landespolitik-in-baden-wuerttemberg-201705243.html",
   "https://www.faz.net/aktuell/politik/inland/hubig-will-keinen-straftatbestand-fuer-femizid-schaffen-201706016.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
@@ -378,6 +387,7 @@
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/marine-le-pen-und-frankreichs-schuldenkrise-ein-risiko-fuer-europa-201699158.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/erbschaftsteuer-union-warnt-vor-schnellschuessen-nach-doepfner-affaere-accg-201706427.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/neues-von-den-start-ups-her-mit-den-lederhosen-201700208.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/voith-chef-hoke-spricht-mit-f-a-z-ueber-krise-im-maschinenbau-201700911.html",
@@ -485,6 +495,7 @@
   "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
   "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+  "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
   "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
   "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
