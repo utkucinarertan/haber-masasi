@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T18:15+01:00",
+ "updatedAt": "2026-11-22T18:45+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T16:55:55+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
+    "text": {
+     "tr": "PSG, Nice'i 3-2 yenerek Ligue 1'deki galibiyet serisini sürdürdü ancak Désiré Doué sakatlandı.",
+     "de": "PSG besiegt Nizza mit 3-2 und baut Siegesserie aus, verliert aber Désiré Doué durch eine schwere Knieverletzung."
+    }
+   },
+   {
+    "time": "2026-11-22T16:23:23+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
+    "text": {
+     "tr": "Ukrayna'nın başkenti Kyiv yakınlarındaki Dimir köyüne düzenlenen Rus saldırısında 2 kişi hayatını kaybetti.",
+     "de": "Ein russischer Angriff auf ein Wohngebäude im Dorf Dymer nördlich von Kiew forderte mindestens zwei Todesopfer."
+    }
+   },
    {
     "time": "2026-11-22T16:05:25+00:00",
     "source": "BBC News World",
@@ -29,27 +47,18 @@
      "tr": "İsrailli aşırı sağcı yerleşimciler Batı Şeria'daki Filistin köylerine baskın düzenleyerek araç ve evleri ateşe verdi.",
      "de": "Radikale israelische Siedler überfielen palästinensische Dörfer im Westjordanland und zündeten Fahrzeuge sowie Häuser an."
     }
-   },
-   {
-    "time": "2026-11-22T14:18:55+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
-    "text": {
-     "tr": "Antropik matematikçisi Levent Alpöge, 17 milyon satırlık kodla Riemann hipotezinin kanıtını yayımladı.",
-     "de": "Der Mathematiker Levent Alpöge von Anthropic hat einen Beweis der Riemannschen Vermutung in 17 Millionen Zeilen Code veröffentlicht."
-    }
-   },
-   {
-    "time": "2026-11-22T14:06:45+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/11-tote-bei-festnahme-von-drogenboss-fausto-isidro-meza-in-mexiko-accg-201706370.html",
-    "text": {
-     "tr": "Meksika'nın kuzeyinde düzenlenen askeri operasyonda uyuşturucu karteli elebaşı Fausto Isidro Meza yakalanırken 11 kişi hayatını kaybetti.",
-     "de": "Sicherheitskräfte haben im Norden Mexikos den Drogenboss Fausto Isidro Meza festgenommen, wobei elf Menschen starben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T20:29:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010702/abd-baskani-trump-tan-senato-yarisi-mesaji-schumer-lider-olursa-calismamiz-cok-zor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "ABD Başkanı Trump, Demokrat Senatör Chuck Schumer'ın lider olması halinde çalışmanın zor olacağını belirtti.",
+     "de": "US-Präsident Trump erklärte, dass eine Zusammenarbeit mit dem demokratischen Senator Chuck Schumer als Mehrheitsführer sehr schwierig werde."
+    }
+   },
    {
     "time": "2026-11-22T20:11:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -85,18 +94,27 @@
      "tr": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, seçimlere hiçbir ittifaka dahil olmadan gireceklerini açıkladı.",
      "de": "Der Vorsitzende der Anahtar-Partei, Yavuz Ağıralioğlu, erklärte, dass sie ohne Bündnisse in die Wahlen gehen werden."
     }
-   },
-   {
-    "time": "2026-11-22T19:13:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010700/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-ve-cikarma-calismalari-yeniden-baslatilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Silivri açıklarında batan Tuğberk İmamoğlu gemisinde kaybolan 8 denizcinin aileleri arama çalışmalarının yeniden başlatılmasını istedi.",
-     "de": "Die Familien von acht vermissten Seeleuten des vor Silivri gesunkenen Schiffes forderten die Wiederaufnahme der Suche."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T18:36:50+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+    "text": {
+     "tr": "Aile Bakanı Prien, Berlin'de Filistin yanlısı bir gösteri sırasında FDP'li siyasetçi Preisler'e düzenlenen saldırıyı kınadı.",
+     "de": "Bundesfamilienministerin Prien verurteilt den Angriff auf die FDP-Politikerin Preisler bei einer Demonstration in Berlin scharf."
+    }
+   },
+   {
+    "time": "2026-11-22T17:43:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
+    "text": {
+     "tr": "ESA ve JAXA'nın ortaklaşa gönderdiği BepiColombo uzay sondası Merkür'ün yörüngesine girdi.",
+     "de": "Die Doppelsonde BepiColombo von ESA und Jaxa ist erfolgreich in die Umlaufbahn des Planeten Merkur eingetreten."
+    }
+   },
    {
     "time": "2026-11-22T17:36:18+01:00",
     "source": "tagesschau",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Frankfurt kalecisi Noah Atubolu, Hoffenheim maçında yedinci penaltıyı kurtararak Bundesliga rekoru kırdı.",
      "de": "Frankfurts Torwart Noah Atubolu parierte gegen Hoffenheim den siebten Elfmeter und stellte einen Bundesliga-Rekord auf."
-    }
-   },
-   {
-    "time": "2026-11-22T16:11:25+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/wissenschaft/article6b030f6e39a3e8110f0e6d2f/klimaschutz-weltklimakonferenz-hat-historisch-versagt-beklagt-neubauer-fatales-ergebnis-urteilt-droege.html",
-    "text": {
-     "tr": "Almanya ve AB'nin fosil yakıtlara yer vermeyen taslağı reddetmesiyle COP31 İklim Konferansı başarısızlıkla sonuçlandı.",
-     "de": "Wegen der Ablehnung eines Entwurfs ohne fossile Brennstoffe durch Deutschland und die EU ist die Weltklimakonferenz COP31 gescheitert."
-    }
-   },
-   {
-    "time": "2026-11-22T16:01:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
-    "text": {
-     "tr": "Antalya'da düzenlenen COP31 Birleşmiş Milletler İklim Değişikliği Konferansı, net bir fosil yakıt çıkış kararı alınamadan sona erdi.",
-     "de": "Die Weltklimakonferenz COP31 in Antalya ist ohne einen klaren Beschluss zum Ausstieg aus den fossilen Brennstoffen zu Ende gegangen."
     }
    }
   ]
@@ -304,6 +304,8 @@
   "https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010700/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-ve-cikarma-calismalari-yeniden-baslatilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010701/kamu-is-kesk-ve-birtek-sen-den-ortak-panel-bir-direnis-deneyimi-ve-ortak-mucadelenin-gelecegi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010702/abd-baskani-trump-tan-senato-yarisi-mesaji-schumer-lider-olursa-calismamiz-cok-zor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010703/kadinlar-balcova-ve-narlidere-de-dayanisma-sofrasinda-bulustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -324,6 +326,7 @@
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-mindestens-drei-tote-accg-201706156.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/kohlenmonoxid-in-allgaeuer-kirche-19-menschen-verletzt-accg-201706736.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/unwetter-in-tupancireta-vier-tote-und-8000-beschaedigte-haeuser-accg-201704557.html",
+  "https://www.faz.net/aktuell/karriere-hochschule/buero-co/pilotenausbildung-was-quereinsteiger-dirk-hager-erlebt-hat-201687467.html",
   "https://www.faz.net/aktuell/politik/ausland/11-tote-bei-festnahme-von-drogenboss-fausto-isidro-meza-in-mexiko-accg-201706370.html",
   "https://www.faz.net/aktuell/politik/ausland/macron-plant-schuldenbremse-in-der-verfassung-mit-bardella-accg-201705914.html",
   "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
@@ -332,6 +335,7 @@
   "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
   "https://www.faz.net/aktuell/politik/inland/genz-proteste-und-landespolitik-in-baden-wuerttemberg-201705243.html",
   "https://www.faz.net/aktuell/politik/inland/hubig-will-keinen-straftatbestand-fuer-femizid-schaffen-201706016.html",
+  "https://www.faz.net/aktuell/politik/inland/in-nrw-setzt-die-afd-auf-rechtsstaatliche-remigration-201705943.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
   "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
@@ -382,9 +386,11 @@
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cop31-ist-das-ende-des-klima-multilateralismus-gekommen-201704572.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/das-klima-drama-von-antalya-accg-201704569.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html",
+  "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/gescheiterter-un-klimagipfel-guterres-fordert-mehr-einsatz-201707238.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/marine-le-pen-und-frankreichs-schuldenkrise-ein-risiko-fuer-europa-201699158.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/sinkende-geburtenraten-werden-kinder-zum-demografischen-luxus-201699085.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/weltklimakonferenz-carsten-schneider-haelt-einigung-fuer-unwahrscheinlich-accg-201706259.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/deutsche-deeptech-startups-sammeln-rekordsumme-ein-201695243.html",
@@ -408,9 +414,12 @@
   "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
   "https://www.france24.com/en/israel-investigates-west-bank-fires",
   "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
+  "https://www.france24.com/en/russian-strike-kills-2-in-kyiv",
   "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
   "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
+  "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
   "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
+  "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
@@ -439,6 +448,7 @@
   "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
   "https://www.spiegel.de/politik/deutschland/nrw-innenminister-herbert-reul-gibt-update-ueber-gesundheitszustand-a-1508172b-e030-493e-8b8a-03706f84c6bd#ref=rss",
   "https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss",
+  "https://www.spiegel.de/sport/alex-kukla-deutscher-lief-sieben-marathons-in-sieben-tagen-auf-sieben-kontinenten-a-dffc40a5-95f3-4b86-8680-90fafdae74bc#ref=rss",
   "https://www.spiegel.de/sport/boxen/regina-halmich-ueber-anfeindungen-hass-im-netz-und-feminismus-wurde-behandelt-wie-ein-unfall-a-e005db66-2ce4-4e13-9298-b862b4a54590#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-verstappen-gewinnt-das-rennen-des-jahres-pressestimmen-a-91d46e06-efa3-4fa6-886c-8216bb752109#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
@@ -451,6 +461,8 @@
   "https://www.spiegel.de/wissenschaft/cop31-in-antalya-eklat-bei-uno-klimakonferenz-in-antalya-teilnehmer-koennen-sich-nicht-auf-abschlusserklaerung-einigen-a-e9928a84-c539-492f-8b13-f71ca6296c95#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
+  "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-die-oelproduzenten-haben-angst-die-europaeer-reden-sich-raus-a-3805b4d7-2a8e-40e3-9b7b-d36d3ff3d6dc#ref=rss",
+  "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
   "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
@@ -464,6 +476,7 @@
   "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
   "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
   "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
@@ -531,6 +544,7 @@
   "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-dritte-klasse-ein-junge-fragte-die-praktikantin-machst-du-auch-onlyfans.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-es-gibt-an-schulen-oft-probleme-mit-sexualisierter-sprache-und-sexualisierten-handlungen.html",
+  "https://www.welt.de/politik/deutschland/plus6b000c73b237b5b41c9a2158/ueberraschender-parteitag-stiller-machtgewinn-der-radikalen-in-der-zerruetteten-nrw-afd.html",
   "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
   "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
   "https://www.welt.de/sport/formel1/article6b02929739a3e8110f0e609e/chaotischstes-rennen-der-geschichte-30-fuehrungswechsel-verstappen-triumphiert-beim-ueberhol-festival-in-las-vegas.html",
