@@ -1,0 +1,616 @@
+{
+ "date": "2026-11-22",
+ "updatedAt": "2026-11-22T05:15+01:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "key": "b313a120394847cd",
+   "overview": "Almanya gündeminde iç güvenlik, siyasi tartışmalar ve uluslararası ekonomi politikaları ön plana çıkmaktadır. Bundeswehr'in Litvanya'ya sevkiyat yöntemini Rusya provokasyonunu önlemek amacıyla değiştirmesi ve aşırı sağ ile ilgili uyarılar güvenlik odaklı tartışmaları şekillendirmektedir. Ekonomide ise AB bütçe müzakereleri, otomotiv sektörünün geleceği ve yaklaşan iklim zirvesi kararları yakından takip edilmektedir.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Rusya'yı provoke etmemek için Bundeswehr Litvanya sevkiyatını değiştirdi",
+     "summary": "Doğru caydırıcılık ölçüsünü bulmak ve gereksiz provokasyonlardan kaçınmak amacıyla Bundeswehr, büyük bir tatbikat için 10. Panzer Tümeni'nin güçlerini karayolu konvoyu yerine trenle Litvanya'ya sevk etti. Bu karar, NATO'nun doğu kanadındaki askeri hareketliliğinde hassas bir dengenin gözetildiğini gösteriyor.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b0228355842ff528b9e34bc/geplante-grossuebung-russland-nicht-provozieren-bundeswehr-aendert-kraefte-verlegung-nach-litauen.html",
+     "time": "2026-11-21T23:34:09+00:00"
+    },
+    {
+     "title": "Federal Hükümet'in Antisemitizm Sorumlusu'ndan AfD uyarısı",
+     "summary": "Federal Hükümet'in yeni Antisemitizm Sorumlusu Katharina von Schnurbein, AfD'nin hükümete ortak olmasının tehlikelerine karşı sert bir uyarıda bulundu. Bu durumun özellikle Almanya'daki anma kültürünü kökten değiştireceğini belirtti.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b02320639a3e8110f0e5e80/antisemitismusbeauftragte-afd-ideologie-besonders-gefaehrlich-schnurbein-warnt-vor-regierungsbeteiligung-der-afd.html",
+     "time": "2026-11-22T00:13:24+00:00"
+    },
+    {
+     "title": "Geleceğin Genelkurmay Başkanı Freuding'den cinsel tacize karşı sert önlem vaadi",
+     "summary": "Bundeswehr'deki cinsel saldırılara ilişkin sarsıcı bir araştırmanın ardından müstakbel Genelkurmay Başkanı Christian Freuding, amansız ve sert bir mücadele sözü verdi. Freuding, yaşanan olaylar karşısında duyduğu şoku dile getirdi.",
+     "category": "Savunma",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b022d9139a3e8110f0e5e68/generalinspekteur-das-ist-nicht-meine-bundeswehr-freuding-will-bei-sexuellem-fehlverhalten-hart-durchgreifen.html",
+     "time": "2026-11-21T23:57:52+00:00"
+    },
+    {
+     "title": "Berlin'deki Filistin yanlısı gösteride FDP'li siyasetçi saldırıya uğradı",
+     "summary": "FDP'li siyasetçi Karoline Preisler, Berlin'deki İsrail karşıtı bir gösteride saldırıya uğradı ve tekmelendi. Preisler, İsrail düşmanlığına karşı düzenli olarak protesto eylemlerine katılan bir hukukçu olarak biliniyor.",
+     "category": "Toplum",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
+     "time": "2026-11-21T20:23:14+00:00"
+    },
+    {
+     "title": "Nürnberg Belediyesi'nin bütçe görüşmelerinde tansiyon yükseldi",
+     "summary": "Nürnberg'in yaklaşık 70 milyon euro tasarruf yapma zorunluluğu nedeniyle belediye meclisinde protestolar patlak verdi. Sosyal ve kültürel kesintilere karşı çıkan göstericiler toplantıyı basarken, bir meclis üyesi taciz edildi ve belediye başkanı hedef alındı.",
+     "category": "Yerel Siyaset",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
+     "time": "2026-11-21T19:24:20+00:00"
+    },
+    {
+     "title": "AB bütçe teklifinde kesintilere rağmen Berlin'den eleştiri sürüyor",
+     "summary": "AB Konseyi Başkanı António Costa, üye ülkelerin katkı paylarını azaltmaya yönelik yeni bir uzlaşma önerisi sunsa da Federal Şansölye Friedrich Merz bütçe teklifine mesafeli yaklaşmaya devam ediyor. Bütçe krizini hafifletmek için dijital devlerden vergi alınması da seçenekler arasında yer alıyor. Taraflar yıl sonuna kadar ortak bir noktaya varmaya çalışıyor.",
+     "category": "Bütçe",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
+     "time": "2026-11-21T21:10:00+01:00"
+    },
+    {
+     "title": "Bakanlık otoyol benzinliklerini akaryakıt fiyat sınırından muaf tutmayı planlıyor",
+     "summary": "Ocak ayında yürürlüğe girmesi planlanan benzin ve motorin fiyat tavanı uygulamasından otoyol üzerindeki istasyonların muaf tutulması gündemde. Ekonomi Bakanlığı tarafından hazırlanan yeni tasarı şu anda bakanlıklar arasında müzakere ediliyor. Bu adım, özellikle uzun yol sürücülerinin yakıt maliyetlerindeki artışı durdurmayı hedefliyor.",
+     "category": "Enerji",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+     "time": "2026-11-21T16:55:59+01:00"
+    },
+    {
+     "title": "Domuz üreticileri için açıklanan likidite yardımı yetersiz bulunuyor",
+     "summary": "Almanya'da domuz yetiştiriciliğinin zarar etmesi üzerine devreye sokulan 25 milyon euroluk likidite yardımı çiftçiler tarafından eleştirildi. Sektör temsilcileri ve muhalefet, bu acil durum programının yapısal sorunları çözmekten uzak olduğunu ve sadece geçici bir rahatlama sağlayacağını belirtiyor.",
+     "category": "Tarım",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+     "time": "2026-11-21T09:26:38+01:00"
+    },
+    {
+     "title": "Verivox: Elektrik ve doğalgaz maliyetlerinde artış bekleniyor",
+     "summary": "Koalisyon hükümetinin elektrik vergisini düşürme kararını almasına rağmen uzmanlar maliyetlerin artmaya devam edeceğini öngörüyor. Verivox analizine göre, özellikle doğalgaz fiyatlarındaki artış tüketiciler için çok daha sert hissedilecek.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss",
+     "time": "2026-11-21T11:50:00+01:00"
+    },
+    {
+     "title": "Yeni emeklilik modelinde devlet destekli fon henüz hazır değil",
+     "summary": "Almanya'da yıl başında yürürlüğe girecek olan devlet destekli yeni emeklilik sistemi 'Altersvorsorgedepot' için hazırlıklar sürerken, sistemin omurgasını oluşturması gereken kamu destekli temel fonun zamanında hazır olamayacağı belirtiliyor. Piyasada özel alternatifler bulunmasına rağmen kamusal seçeneğin gecikmesi eleştiriliyor.",
+     "category": "Finans",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
+     "time": "2026-11-21T11:16:17+01:00"
+    },
+    {
+     "title": "Yapay zeka as gen asırlık matematik problemini çözmüş olabilir",
+     "summary": "Matematiğin en büyük bulmacalarından biri olarak kabul edilen asal sayılara ilişkin Riemann hipotezi, yapay zeka yardımıyla çözülmüş olabileceği iddia edildi. Anthropic firmasının yapay zeka sisteminin gerçekleştirdiği bu iddia, şirketin borsa arzıyla eş zamanlı olarak bilim dünyasında geniş yankı uyandırdı.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+     "time": "2026-11-21T18:32:19+01:00"
+    },
+    {
+     "title": "ABD'de kritik güvenlik açığı: Hackler FBI veritabanına sızdı",
+     "summary": "CNN'in haberine göre, kısa süre içinde yaşanan ikinci büyük güvenlik açığında hackerlar önemli bir FBI veritabanına erişim sağladı. Başka bir resmi kurumun da siber saldırıdan etkilendiği bildirildi.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
+     "time": "2026-11-21T07:42:00+01:00"
+    },
+    {
+     "title": "TikTok'tan Alman Kültür Bakanı'na sert yanıt: Satış planı saçmalık",
+     "summary": "Kültürden Sorumlu Devlet Bakanı Wolfram Weimer'in TikTok'u Avrupalı bir mülkiyet yapısına devretme önerisine şirketten sert tepki geldi. Sosyal medya platformu bu tür planları tamamen 'sacmalık' olarak nitelendirdi.",
+     "category": "Dijital Politika",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/netzpolitik/tiktok-bezeichnet-verkaufsplaene-von-wolfram-weimer-als-unsinn-a-824dc8bd-b7be-4e5c-a139-73ab61a6da3c#ref=rss",
+     "time": "2026-11-21T08:40:00+01:00"
+    },
+    {
+     "title": "Microsoft'tan Windows güncellemesi: Karanlıkta yüz tanıma özelliği",
+     "summary": "Microsoft, yaklaşan yama günü güncellemelerinin önizlemesini yayınladı. Windows Hello artık kullanıcılara karanlık ortamlarda bile yüz tanıma kilidini açma imkanı sunacak.",
+     "category": "Yazılım",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Darkeln-11533459.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-21T11:52:00+01:00"
+    },
+    {
+     "title": "Alexander Zverev ATP Finalleri'nde rüya finalde",
+     "summary": "Alman tenisçi Alexander Zverev, Turin'deki ATP Finalleri yarı finalinde ezeli rakibi Daniil Medvedev'i mağlup ederek adını finale yazdırdı. Zverev böylece kariyerinde üçüncü kez turnuvanın finaline yükselirken, şampiyonluk maçında Carlos Alcaraz ile karşılaşacak.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/atp/zverev-folgt-alcaraz-ins-traumfinale,spielbericht-atp-finals-zverev-medvedev-100.html",
+     "time": "2026-11-21T22:31:58+01:00"
+    },
+    {
+     "title": "St. Pauli, Bochum'u erken gollerle mağlup etti",
+     "summary": "FC St. Pauli, 2. Bundesliga mücadelesinde VfL Bochum'u hızıyla şaşırttı ve her iki devrede bulduğu erken gollerle kritik bir galibiyet elde etti. Bu sonuçla Hamburg ekibi puan tablosunda üst sıralara tırmandı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga2/st-pauli-siegt-durch-zwei-blitztore-gegen-bochum,spielbericht-st-pauli-vfl-bochum-100.html",
+     "time": "2026-11-21T22:28:08+01:00"
+    },
+    {
+     "title": "Schalke kendi sahasında yine gol atamadı ama Stuttgart'tan puan kopardı",
+     "summary": "FC Schalke 04, Şampiyonlar Ligi katılımcısı VfB Stuttgart karşısında dirençli bir futbol ortaya koyarak golsüz beraberlikle bir puan aldı. Ancak kendi sahasında bu sezon da gol atamayarak olumsuz bir rekora imza attı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+     "time": "2026-11-21T21:16:39+01:00"
+    },
+    {
+     "title": "Krawietz ve Pütz dramatik şekilde finale çıkamadı",
+     "summary": "Alman tenisçiler Kevin Krawietz ve Tim Pütz, ATP Finalleri'nde oynadıkları çiftler yarı final maçını dramatik bir şekilde kaybetti. İkili, turnuva sonrasında yollarını ayıracaklarını duyurdu.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/krawietz-und-puetz-verlieren-halbfinal-krimi-dramatisch,atp-finals-krawietz-puetz-100.html",
+     "time": "2026-11-21T20:56:44+01:00"
+    },
+    {
+     "title": "Lillehammer'daki kayakla atlama sezon açılışında Almanlar zorlandı",
+     "summary": "Lillehammer'da gerçekleştirilen kayakla atlama Dünya Kupası sezon açılışında Stephan Embacher zafer kazandı. Değişken rüzgar koşullarının favorileri zorladığı yarışta Alman sporcular beklentilerin altında kaldı.",
+     "category": "Kış Sporları",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/wintersport/skispringen/raimund-verhindert-dsv-debakel-in-lillehammer-,lillehammer-einzel-maenner-wettkampf-100.html",
+     "time": "2026-11-21T19:24:30+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "72699a173b5cb524",
+   "overview": "Türkiye bugün ulusal basında yer alan iç politika, diplomasi, iklim müzakereleri ve spor gelişmelerine odaklanmış durumda. Antalya'da düzenlenen COP31 iklim zirvesinde fosil yakıtlar konusundaki anlaşmazlıklar nedeniyle müzakerelerin uzaması, Türkiye'nin ev sahipliğinde yürütülen çevre diplomasisini öne çıkardı. İç siyasette Can Atalay'ın durumu, yargı kararları ve parti içi açıklamalar tartışılırken, ekonomi alanında kredi kartı yapılandırma çalışmaları ve değerli metallerdeki düşüşler dikkat çekiyor. Spor liglerinde ise Süper Lig maçları ve kulüplerin değerlendirmeleri gündemi meşgul ediyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Antalya'daki COP31 müzakereleri fosil yakıt anlaşmazlığı nedeniyle uzadı",
+     "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), ülkelerin nihai bir anlaşma metninde uzlaşamaması nedeniyle hafta sonuna sarktı. Delegeler, özellikle fosil yakıtların geleceği konusundaki derin görüş ayrılıklarını gidermek için müzakerelerini sürdürüyor. Türkiye'nin ev sahipliğindeki zirvede taraflar ortak bir karar metnine varmaya çalışıyor.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cq8j40d29kneo",
+     "time": "2026-11-21T09:37:52+00:00"
+    },
+    {
+     "title": "Can Atalay'dan AİHM kararı sonrası derhal tahliye ve Meclis çağrısı",
+     "summary": "Milletvekilliği düşürülen tutuklu avukat Can Atalay, Avrupa İnsan Hakları Mahkemesi'nin (AİHM) hakkındaki kararının ardından derhal serbest bırakılmasını istedi. Atalay, seçildiği Hatay milletvekili olarak Türkiye Büyük Millet Meclisi çalışmalarına katılması gerektiğini belirtti. Konu, Türkiye'deki yargı ve parlamento gündemindeki yerini koruyor.",
+     "category": "Yargı",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko",
+     "time": "2026-11-21T09:58:15+00:00"
+    },
+    {
+     "title": "Şırnak'ta silah kazasında yaralanan astsubay şehit oldu",
+     "summary": "Milli Savunma Bakanlığı, Şırnak'ın Şenoba bölgesindeki 48'inci Hudut Tugay Komutanlığında meydana gelen silah kazasında yaralanan İstihkam Astsubay Çavuş Yalın Gergün'ün şehit olduğunu açıkladı. Hastaneye kaldırılan Gergün, tüm müdahalelere rağmen kurtarılamadı. Milli Savunma Bakanı Yaşar Güler taziye mesajı yayımladı.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/sirnakta-silah-kazasinda-yaralanan-astsubay-sehit-oldu-2085520",
+     "time": "2026-11-22T00:48:21+03:00"
+    },
+    {
+     "title": "Alanya'da yol verme tartışması cinayetle bitti: Türkçe öğretmeni öldürüldü",
+     "summary": "Antalya'nın Alanya ilçesinde motosikletle kaldırımdan geçmek isteyen kişilerle tartışan 42 yaşındaki Türkçe öğretmeni Yasin Demir, çıkan kavgada bıçaklanarak hayatını kaybetti. Karın ve boyun bölgesinden yaralanan öğretmen hastanede kurtarılamadı. Olayın ardından kaçan iki şüpheli saklandıkları evde yakalandı.",
+     "category": "Asayiş",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/alanyada-yol-verme-tartismasi-cinayetle-bitti-turkce-ogretmeni-2085522",
+     "time": "2026-11-22T01:41:00+03:00"
+    },
+    {
+     "title": "İBB'den 2027 bütçesinde öğrenci ulaşımı için indirim hamlesi",
+     "summary": "İstanbul Büyükşehir Belediyesi Başkan Vekili Nuri Aslan, 2027 bütçesi kapsamında abonmanı olan öğrencilere her binişin 1 TL olacağını duyurdu. Uygulama ile mevcut 653 TL'lik tarife üzerinden seyahat eden milyonlarca öğrencinin ulaşım maliyetlerinin düşmesi hedefleniyor.",
+     "category": "Yerel Yönetim",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/653-tl-odeyen-ogrencilerin-yuzu-gulecek-ibbden-2027-butcesinde-dev-1-2085517",
+     "time": "2026-11-22T00:16:05+03:00"
+    },
+    {
+     "title": "Kredi kartı ve ihtiyaç kredisi borçluları için yeni yapılandırma paketi hazırlanıyor",
+     "summary": "Bireysel kredi kartı ve tüketici kredisi borçlarının 7,1 trilyon lirayı aşması ve yasal takibe düşenlerin artması ekonomi yönetimini harekete geçirdi. Bankacılık Düzenleme ve Denetleme Kurumu (BDDK), ödeme güçlüğü çekenler için 48 ila 60 ay vade ve yüzde 3,11'in altında faiz içeren yeni bir paket üzerinde çalışıyor.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/kredi-karti-ve-ihtiyac-kredisi-olanlara-60-ay-vade-yuzde-311in-2085521",
+     "time": "2026-11-22T01:28:32+03:00"
+    },
+    {
+     "title": "Küresel piyasalardaki satış dalgasıyla altın ve gümüş fiyatları sert düştü",
+     "summary": "Fed'in faiz artırımlarını hızlandırabileceği endişeleri ve borsalardaki likidite ihtiyacı değerli metalleri vurdu. Ons altın haftalık yüzde 8,9 düşüşle 3 bin 502 dolara gerilerken, gümüş yüzde 15,4 kayıpla 40 dolara gerileyerek son 34 haftanın en sert düşüşünü yaşadı.",
+     "category": "Emtia",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/guvenli-liman-neden-dustu-ons-altin-3-bin-502-dolara-gumus-40-dolara-geriledi-2558124",
+     "time": "2026-11-21T15:56:00+03:00"
+    },
+    {
+     "title": "Bakan Bolat'tan BYD'nin Türkiye yatırımı açıklaması: Teminatlar alındı",
+     "summary": "Ticaret Bakanı Ömer Bolat, Çinli otomobil üreticisi BYD'nin Türkiye'deki yatırımının gecikip gecikmediğine dair eleştirileri yanıtladı. Gerekli teminatların Sanayi ve Teknoloji Bakanlığı tarafından alındığını belirten Bolat, hiçbir kamu zararına yol açılmayacağını vurguladı.",
+     "category": "Yatırım",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/cinli-byd-nin-turkiye-yatirimi-gecikiyor-mu-bakan-bolat-tan-teminat-vurgulu-yanit-2558121",
+     "time": "2026-11-21T15:48:00+03:00"
+    },
+    {
+     "title": "Türkiye'de de satılan elektrikli araçlar gerçek yol menzil testinde kaldırılamadı",
+     "summary": "AUTOBEST'in 2026 testine göre, Türkiye pazarında da satılan elektrikli otomobiller gerçek yol koşullarında üreticilerin açıkladığı WLTP menzil değerlerine ulaşamadı. Test edilen 15 modelden hiçbiri resmi menzil verilerini yakalayamazken, Kia EV2 hedefe en çok yaklaşan model oldu.",
+     "category": "Otomotiv",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/elektrikli-araclar-menzil-testinde-basarisiz-oldu-2085514",
+     "time": "2026-11-22T00:01:00+03:00"
+    },
+    {
+     "title": "100 bin liranın 32 günlük vadeli mevduat faiz getirileri güncellendi",
+     "summary": "Enflasyona karşı birikimlerini korumak isteyen yurttaşların tercih ettiği vadeli mevduat hesaplarında faiz oranları yeniden düzenlendi. 100 bin liralık bir birikimin 32 günlük vade sonundaki net getirisi bankalara göre değişerek 2 bin 850 lira sınırına yaklaştı.",
+     "category": "Bankacılık",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/100-bin-tl-nin-32-gunluk-faiz-getirisi-hesaplandi-en-yuksek-mevduat-faizi-hangi-bankada-iste-guncel-getiri-tablosu-2558137",
+     "time": "2026-11-21T17:45:00+03:00"
+    },
+    {
+     "title": "Araştırma: Dünya'nın şiddetli fırtına döngüleri Venüs ve Jüpiter'in yörünge etkisine bağlı",
+     "summary": "Antik kaya katmanlarındaki tortul izlerini inceleyen bilim insanları, şiddetli fırtınaların yaklaşık 405 bin yıllık ritimlerle arttığını belirledi. Bulgular, bu döngünün Venüs ve Jüpiter'in kütle çekiminden kaynaklanan yörünge değişimleriyle ilişkili olduğunu gösteriyor.",
+     "category": "Bilim",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/dunya-nin-firtina-dongulerinde-venus-ve-jupiter-etkisi-405-bin-yillik-ritim-2558136",
+     "time": "2026-11-21T17:13:00+03:00"
+    },
+    {
+     "title": "Dünya'nın geçici mini uydusu '2026 QQ8' aralık başında yörüngeden ayrılıyor",
+     "summary": "Nisan ayından bu yana Dünya'nın çekimine kapılarak yörüngede dönen yaklaşık iki metre çapındaki '2026 QQ8' adlı doğal gök taşının ayrılacağı açıklandı. Gök bilimciler cisim için herhangi bir çarpma riskinin bulunmadığını ve aralık başında Güneş etrafındaki yörüngesine döneceğini belirtti.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/dunya-nin-gecici-mini-uydusu-2026-qq8-aralikta-ayriliyor-tehlike-var-mi-2558136",
+     "time": "2026-11-21T15:23:00+03:00"
+    },
+    {
+     "title": "BM çatısı altındaki müzakerelerde 'katil robotlara' yasak çıkmadı",
+     "summary": "Cenevre'de Birleşmiş Milletler nezdinde yürütülen ve yapay zekâ destekli otonom silahlara düzenleme getirmeyi amaçlayan görüşmeler sonuçsuz kaldı. ABD ve Rusya'nın itirazları nedeniyle yasak kararından kaçınılırken, aktivistler insanlığın tehlikeye atıldığını savunuyor.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/abd-ve-rusya-itiraz-etti-katil-robotlara-yasak-çıkmadı/a-80010227",
+     "time": "2026-11-21T14:58:00+00:00"
+    },
+    {
+     "title": "2026 yılının en iyi akıllı telefon ekran koruyucu markaları karşılaştırıldı",
+     "summary": "Akıllı cihaz kullanıcıları için pazar analizi yapan teknoloji mecraları, 2026 yılında öne çıkan ekran koruyucu markalarını inceledi. Spigen, Baseus, Nillkin, Benks, ESR, Belkin ve PanzerGlass ürünlerinin detayları ve koruma özellikleri karşılaştırıldı.",
+     "category": "Mobil",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/en-iyi-ekran-koruyucu-markalari-h229294.html",
+     "time": "2026-11-21T17:12:14+03:00"
+    },
+    {
+     "title": "Yapay zekâ yatırımlarında endişeler Wall Street'te sert satış dalgasına yol açtı",
+     "summary": "Yapay zekâ yatırımlarının kârlılığına dair kaygılar ve düzenleyici kurumların incelemeleri teknoloji piyasalarını sarstı. Anthropic hisselerinin halka arz sonrası gerilemesi ve SEC'in Nvidia incelemesi, Nasdaq endeksinde yüzde 5'i aşan değer kaybına neden oldu.",
+     "category": "Dijital Politika",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/yapay-zeka-balonu-sonuyor-mu-anthropic-ikinci-gununde-cakildi-nvidia-ya-sec-kiskaci-2558013",
+     "time": "2026-11-21T09:54:00+03:00"
+    },
+    {
+     "title": "Fenerbahçe öne geçtiği maçta Kocaelispor ile berabere kaldı",
+     "summary": "Trendyol Süper Lig'in 12. haftasında Fenerbahçe, deplasmanda üstünlüğü koruyamayarak Kocaelispor ile 2-2 berabere kaldı. Karşılaşmanın ardından Fenerbahçe teknik heyeti ve Kocaelispor Başkanı Recep Durul mücadeleyi değerlendiren açıklamalarda bulundu.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/emre-belozoglu-ndan-11-puan-fark-icin-yorum-bunlarni-konusmanin-puan-durumu-2558190",
+     "time": "2026-11-21T21:58:00+03:00"
+    },
+    {
+     "title": "Samsunspor Başkanı Yüksel Yıldırım'dan Galatasaray maçı sonrası hakem tepkisi",
+     "summary": "Samsunspor'un Galatasaray'a 2-1 yenildiği maçın ardından kulüp başkanı Yüksel Yıldırım hakem kararlarına sert tepki gösterdi. Yıldırım, Video Yardımcı Hakem (VAR) uygulaması üzerinden eleştirilerde bulunarak hakem yönetimini eleştirdi.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/yuksel-yildirim-dan-hakem-aciklamasi-adamlar-var-da-bizi-dogradi-2558161",
+     "time": "2026-11-21T19:06:00+03:00"
+    },
+    {
+     "title": "Amed Sportif Faaliyetler Teknik Direktörü Besnik Hasi'den Mbaye Diagne açıklaması",
+     "summary": "Amed Sportif Faaliyetler Teknik Direktörü Besnik Hasi, Mbaye Diagne'nin milli aranın ardından takıma dönmediğini belirtti. Hasi, futbolcunun nerede olduğunu bilmediğini ifade ederek şaşkınlığını dile getirdi.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/besnik-hasi-diagne-nin-nerede-oldugunu-bilmiyorum-2558185",
+     "time": "2026-11-21T21:20:00+03:00"
+    },
+    {
+     "title": "Teknik direktör Hikmet Karaman'dan Arda Güler değerlendirmesi",
+     "summary": "Teknik direktör Hikmet Karaman yaptığı bir söyleşide Süper Lig'in yapısını ve genç futbolcuların gelişimini değerlendirdi. Karaman, Arda Güler'in Türkiye'de kalması durumunda bugünkü kariyer seviyesine ulaşamayacağını ifade etti.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Medyascope",
+     "url": "https://medyascope.tv/2026/11/21/hikmet-karaman-ile-soylesi-arda-turkiyede-bugunku-adina-donusemezdi/",
+     "time": "2026-11-21T15:16:10+00:00"
+    },
+    {
+     "title": "Galatasaray'ın Şampiyonlar Ligi'ndeki rakibi Aston Villa'dan puan kaybı",
+     "summary": "Galatasaray'ın UEFA Şampiyonlar Ligi'nde bu hafta karşılaşacağı rakibi Aston Villa, Premier Lig'de sahasında Sunderland ile 0-0 berabere kaldı. İngiliz ekibi bu sonuçla ligde puan kaybı yaşayarak Avrupa maçı öncesi durakladı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-maci-oncesi-aston-villa-dan-puan-kaybi-2558175",
+     "time": "2026-11-21T20:10:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "170c01b6b2cacc6f",
+   "overview": "Küresel gündem, COP31 iklim zirvesindeki sert tıkanmalar, Rusya'nın Ukrayna'ya yönelik füze saldırıları ve Baltık Denizi'ndeki kritik gemi sabotajı ile sarsıldı. Ekonomide Bayer'in dev tazminat anlaşması ve AB-Endonezya ticaret anlaşması öne çıkarken, yapay zekanın Riemann hipotezi gibi devasa matematik problemlerini çözmede kullanılması teknoloji dünyasında çığır açtı. Spor alanında ise uluslararası şampiyonalar ve turnuvalardaki kritik karşılaşmalar futbol ve tenis gündemini belirledi.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Antalya'daki COP31 İklim Zirvesi Fosil Yakıt Tartışmaları Nedeniyle Tıkandı",
+     "summary": "Türkiye'de düzenlenen COP31 iklim konferansında yaklaşık 200 ülke, fosil yakıtlardan çıkış konusunda yaşanan anlaşmazlıklar nedeniyle uzlaşma sağlayamadı. Sürenin dolmasına ve zirvenin uzatılmasına rağmen taraflar arasında derin görüş ayrılıkları devam ediyor. Ev sahibi ülke ise yeni bir taslak metinle uzlaşma umudunu koruyor.",
+     "category": "İklim",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+     "time": "2026-11-22T02:55:26+01:00"
+    },
+    {
+     "title": "Rusya'dan Zelenskiy'nin Memleketine Balistik Füze Saldırısı",
+     "summary": "Rusya'nın Ukrayna Devlet Başkanı Volodimir Zelenskiy'nin memleketine düzenlediği balistik füze saldırısında iki kişi hayatını kaybetti, onlarca kişi yaralandı. Bu saldırının ardından Ukrayna lideri, ülkesinin NATO'ya katılma kararlılığını bir kez daha yineledi. Olay, Kerç Köprüsü'ne düzenlenenukrayna saldırılarının ardından Moskova'nın misilleme tehditlerini izledi.",
+     "category": "Savaş",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+     "time": "2026-11-21T19:56:39+00:00"
+    },
+    {
+     "title": "Finlandiya Açıklarında Rus Kargo Gemisine Drohon Saldırısı Düzenlendi",
+     "summary": "Finlandiya yakınlarındaki uluslararası sularda seyreden Rus bayraklı bir kargo gemisi dronlar tarafından hedef alındı. Saldırı sonucunda gemide yangın çıkarken, olay Finlandiya sınırlarına sürüklendi. Finlandiya Savunma Bakanlığı olayla bağlantılı olabilecek bir Rus helikopterinin hava sahasını ihlal ettiğinden şüpheleniyor.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+     "time": "2026-11-21T20:10:03+01:00"
+    },
+    {
+     "title": "FBI'ın En Çok Arananlar Listesindeki Meksikalı Uyurtucu Baronu Yakalandı",
+     "summary": "Meksika'da özel kuvvetlerin düzenlediği operasyonda, FBI'ın en çok aranan 10 kaçak listesinde yer alan uyurtucu karteli lideri Fausto Isidro Meza Flores ele geçirildi. Sinaloa eyaletindeki çatışmada kartel lideri ve iki adamı gözaltına alındı. Operasyon bölgede çatışmalara yol açtı.",
+     "category": "Suç",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "time": "2026-11-21T17:46:55+00:00"
+    },
+    {
+     "title": "Fransa'da Hayat Pahalılığına Karşı Düzenlenen Protestolar Devam Ediyor",
+     "summary": "Fransa genelinde hayat pahalılığına ve hükümet politikalarına karşı düzenlenen protestolar altıncı haftasında da sürdü. İçişleri Bakanlığı ülke genelindeki gösterilere katılımın düştüğünü bildirirken, organizatörler on binlerce kişinin sokaklarda olduğunu kaydetti. Eylemler büyük ölçüde barışçıl bir şekilde gerçekleşti.",
+     "category": "Politika",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+     "time": "2026-11-21T20:20:37+00:00"
+    },
+    {
+     "title": "Amerikalı Yargıç Bayer'in 7.25 Milyar Dolarlık Roundup Uzlaşmasını Onayladı",
+     "summary": "Missouri eyaletindeki bir yargıç, Alman kimya devi Bayer'in yabani ot öldürücüsü Roundup'ın kansere yol açtığı iddiasıyla açılan davaları çözmek için öngördüğü 7.25 milyar dolarlık uzlaşmayı onayladı. Bu karar, şirketin yıllardır üzerinde baskı kuran on binlerce dava sürecini kapatma yolunda kritik bir adım teşkil ediyor. Yargıç, anlaşmanın adil olduğuna hükmetti.",
+     "category": "Hukuk",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+     "time": "2026-11-20T23:42:43+00:00"
+    },
+    {
+     "title": "Avrupa Birliği ile Endonezya Arasında Kapsamlı Ticaret Anlaşması İmzalandı",
+     "summary": "On yıl süren müzakerelerin ardından Avrupa Birliği ve Endonezya dev bir ticaret anlaşmasına imza attı. Anlaşma, iki taraf arasındaki gümrük vergilerinin yüzde 98.5'ini ortadan kaldırarak nikel, palmiye yağı ve tekstil gibi kritik sektörlerde ticaretin önünü açıyor. Bu hamle, AB'nin Güneydoğu Asya'nın en büyük ekonomisiyle bağlarını güçlendirmesini sağladı.",
+     "category": "Ticaret",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+     "time": "2026-11-21T22:23:03+00:00"
+    },
+    {
+     "title": "GTA 6 Satışları İlk Günde 3.8 Milyar Dolara Ulaştı",
+     "summary": "Uzun süredir beklenen video oyunu GTA 6, piyasaya çıktığı ilk günde 3.8 milyar dolarlık satış rakamına ulaştı. Bu devasa rakam, tarihteki tüm video oyunu lansmanlarını ve günlük sinema gişe rekorlarını geride bıraktı. Sektör analistleri bu başarının eğlence endüstrisinde yeni bir eşik oluşturduğunu belirtiyor.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+     "time": "2026-11-20T22:53:24+00:00"
+    },
+    {
+     "title": "Avrupa Konseyi'nden Küresel Teknoloji Devlerine Vergi Önerisi",
+     "summary": "Avrupa Konseyi Başkanı Antonio Costa, 2028-2034 dönemi için üye devletlerin katkı paylarını azaltmayı hedefleyen yeni bir AB bütçe teklifi sundu. Paket, büyük dijital firmalara yüzde 3 oranında bir vergi getirilmesini de içeriyor. Fransa ise bu teklifin yetersiz olduğunu belirterek şimdiden reddetti.",
+     "category": "Bütçe",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
+     "time": "2026-11-21T14:58:00+00:00"
+    },
+    {
+     "title": "Teknoloji Hisselerindeki Satış Dalgası Borsaları Aşağı Çekti",
+     "summary": "ABD piyasalarında teknoloji hisselerinde yaşanan düşüşler endeksleri olumsuz etkiledi. S&P 500 ve Dow Jones Industrial Average düzeltme bölgesine sürüklendi. Anthropic hisselerindeki gerileme de piyasalardaki tedirginliği artırdı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+     "time": "2026-11-20T22:42:47+00:00"
+    },
+    {
+     "title": "Yapay Zeka Destekli Araştırmacı Asırlık Matematik Problemini Çözdü",
+     "summary": "Yapay zeka şirketi Anthropic'te görev yapan bir matematikçi, şirketin yapay zeka aracı Claude'un yardımıyla 19. yüzyıldan kalma ünlü Riemann hipotezini çözmeye yardımcı olduğunu açıkladı. Altı hafta süren çalışmalar neticesinde elde edilen bulgular, bağımsız uzmanlar tarafından doğrulanmaya başlandı. Bu gelişme, yapay zekanın bilimsel araştırmalardaki rolünü güçlendirdi.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "time": "2026-11-21T20:15:57+00:00"
+    },
+    {
+     "title": "Cenevre'deki BM Görüşmelerinde Otonom Silahlar İçin Bağlayıcı Karar Çıkmadı",
+     "summary": "Cenevre'de gerçekleştirilen Birleşmiş Milletler toplantılarında otonom silahlara ve yapay zeka destekli askeri dronlara karşı bağlayıcı kurallar getirme çabaları sonuçsuz kaldı. İnsani yardım kuruluşları, askeri teknolojideki ilerlemenin diplomasinin çok önünde gittiği konusunda uyardı. Ülkeler sadece tartışmaları iki yıl daha uzatma konusunda anlaştı.",
+     "category": "Dijital Politika",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "NPR World",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "time": "2026-11-21T09:18:17-05:00"
+    },
+    {
+     "title": "ABD Federal İletişim Komisyonu'ndan California'ya Telefon Hizmeti Engeli",
+     "summary": "FCC, AT&T'nin ev telefon hizmeti sunmaya devam etmesini zorunlu kılan California eyalet kurallarını geçersiz kıldı. Federal kurum, eyaletin bu konudaki düzenleme yetkisini engellediğini duyurdu. Karar, telekomünikasyon sektöründe federal ve yerel yetkiler arasındaki yetki çatışmasını yeniden gündeme taşıdı.",
+     "category": "Telekom",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+     "time": "2026-11-20T22:28:24+00:00"
+    },
+    {
+     "title": "Carlos Alcaraz ile Alexander Zverev ATP Finalleri Şampiyonluk Maçında Karşılaşacak",
+     "summary": "Ben Shelton karşısında harika bir geri dönüş galibiyetine imza atan Carlos Alcaraz, ATP Finalleri'nde finale yükseldi. İspanyol tenisçi, yarı finalde Daniil Medvedev'i mağlup eden dünya bir numarası Alexander Zverev ile şampiyonluk mücadelesi verecek. Final maçı Torino'da tenis severlerin odak noktası olacak.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o",
+     "time": "2026-11-21T22:50:19+00:00"
+    },
+    {
+     "title": "Fransa Arjantin'i Farklı Yenerek Uluslar Şampiyonası Finaline Yükseldi",
+     "summary": "Paris'te oynanan yarı final maçında Fransa, Arjantin'i 45-17 mağlup ederek Uluslar Şampiyonası finaline adını yazdırdı. İkinci yarıda attığı beş try ile rakibini deviren Les Bleus, finalde Güney Afrika ile kozlarını paylaşacak. Maç Allianz Stadyumu'nda oynanacak.",
+     "category": "Rugby",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-final-with-south-africa",
+     "time": "2026-11-21T22:46:00+00:00"
+    },
+    {
+     "title": "Lionel Messi Kırmızı Kart Tartışmalarının Odağında: Inter Miami Play-off'tan Eledi",
+     "summary": "MLS Kupası play-off ilk maçında Inter Miami, Columbus Crew'a 3-0 mağlup olarak turnuvaya veda etti. Maç sırasında topu rakibinin yüzüne fırlatan Lionel Messi sarı kartla cezalandırılırken, rakip teknik direktör Arjantinli yıldızın kırmızı kart görmesi gerektiğini savundu. Savunmadaki son şampiyon ağır bir yenilgi aldı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mlsplayoffs",
+     "time": "2026-11-22T03:01:55+00:00"
+    },
+    {
+     "title": "Arsenal'e David Raya'dan Kötü Haber: Omuz Sakatlığı",
+     "summary": "Newcastle United ile 2-2 berabere kalan Arsenal'de kaleci David Raya ikinci yarıda yaşadığı omuz sakatlığı nedeniyle oyundan çıkmak zorunda kaldı. Teknik direktör Mikel Arteta İspanyol kalecinin durumu hakkında endişelerini dile getirdi. Arsenal Premier Lig'de liderliğini sürdürüyor.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-asset-newcastle-mikel-arteta",
+     "time": "2026-11-21T21:48:21+00:00"
+    },
+    {
+     "title": "İskoçya Premiership'te Hearts'tan Dundee'ye 8 Gol",
+     "summary": "Hearts, İskoçya Premiership maçında Dundee'yi deplasmanda 8-0 mağlup ederek teknik direktör Wouter Vrancken yönetimindeki en iyi performansını sergiledi. Dundee teknik direktörü Steven Pressley maç sonrası taraftarlardan özür diledi. Celtic ve Rangers da haftayı galibiyetle kapattı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+     "time": "2026-11-21T22:20:19+00:00"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,616 @@
+{
+ "date": "2026-11-22",
+ "updatedAt": "2026-11-22T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "b313a120394847cd",
+   "overview": "Im Zentrum der Berichterstattung stehen innenpolitische Debatten, sicherheitspolitische Weichenstellungen und wirtschaftliche Weichenstellungen für Deutschland. Die Bundeswehr passt ihre Truppenverlegung nach Litauen an, um Provokationen zu vermeiden, während Diskussionen über den Rechtsextremismus anhalten. Wirtschaftlich dominieren die EU-Haushaltsverhandlungen, die Zukunft der Autoindustrie und das Ringen um den Klimaschutz.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Bundeswehr ändert Kräfte-Verlegung nach Litauen, um Russland nicht zu provozieren",
+     "summary": "Um das richtige Maß an Abschreckung zu finden und unnötige Provokationen zu vermeiden, hat die Bundeswehr die Kräfte der 10. Panzerdivision für eine Großübung per Bahn statt per Konvoi nach Litauen verlegt. Damit reagiert das Verteidigungsministerium sensibel auf die geopolitische Lage an der NATO-Ostflanke.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b0228355842ff528b9e34bc/geplante-grossuebung-russland-nicht-provozieren-bundeswehr-aendert-kraefte-verlegung-nach-litauen.html",
+     "time": "2026-11-21T23:34:09+00:00"
+    },
+    {
+     "title": "Antisemitismusbeauftragte warnt vor Regierungsbeteiligung der AfD",
+     "summary": "Katharina von Schnurbein, die Antisemitismusbeauftragte der Bundesregierung, warnt eindringlich vor einer Regierungsbeteiligung der AfD. Ihrer Ansicht nach würde dies vor allem die Erinnerungskultur in Deutschland verändern.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b02320639a3e8110f0e5e80/antisemitismusbeauftragte-afd-ideologie-besonders-gefaehrlich-schnurbein-warnt-vor-regierungsbeteiligung-der-afd.html",
+     "time": "2026-11-22T00:13:24+00:00"
+    },
+    {
+     "title": "Künftiger Generalinspekteur Freuding will bei sexuellem Fehlverhalten hart durchgreifen",
+     "summary": "Nach erschütternden Ergebnissen einer Dunkelstudie zu sexuellen Übergriffen in der Truppe kündigt der künftige Generalinspekteur Christian Freuding ein unerbittlich hartes Vorgehen an. Er zeigte sich tief bestürzt über die Zustände.",
+     "category": "Bundeswehr",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b022d9139a3e8110f0e5e68/generalinspekteur-das-ist-nicht-meine-bundeswehr-freuding-will-bei-sexuellem-fehlverhalten-hart-durchgreifen.html",
+     "time": "2026-11-21T23:57:52+00:00"
+    },
+    {
+     "title": "FDP-Politikerin Karoline Preisler bei Demonstration in Berlin angegriffen",
+     "summary": "Karoline Preisler ist bei einer israelfeindlichen Demonstration in Berlin angegriffen und getreten worden. Es ist nicht die erste Attacke auf die Juristin, die regelmäßig gegen Israel-Hass protestiert.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
+     "time": "2026-11-21T20:23:14+00:00"
+    },
+    {
+     "title": "Proteste und Tumulte bei Haushaltsberatungen im Nürnberger Rathaus",
+     "summary": "Wegen eines notwendigen Sparpakets in Höhe von knapp 70 Millionen Euro kam es im Nürnberger Rathaus zu heftigen Protesten. Demonstranten störten die Beratungen, bedrängten eine Stadträtin und beschimpften den Oberbürgermeister.",
+     "category": "Kommunalpolitik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
+     "time": "2026-11-21T19:24:20+00:00"
+    },
+    {
+     "title": "Trotz Kürzungen: Kritik an EU-Budgetvorschlag hält an",
+     "summary": "EU-Ratspräsident António Costa hat einen Kompromissvorschlag für den kommenden Finanzrahmen vorgelegt, um den Streit zu entschärfen. Dennoch stößt das Vorhaben bei Bundeskanzler Friedrich Merz weiterhin auf Kritik. Zur Entlastung der Kassen sollen unter anderem Steuern für Digitalkonzerne geprüft werden.",
+     "category": "Haushalt",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/antonio-costa-kuerzt-friedrich-merz-kritisiert-dennoch-den-eu-budget-vorschlag-a-dabd98ed-f515-48af-af87-b52c783e71ee#ref=rss",
+     "time": "2026-11-21T21:10:00+01:00"
+    },
+    {
+     "title": "Wirtschaftsministerium plant Ausnahme für Autobahntankstellen beim Spritpreisdeckel",
+     "summary": "Der ab Januar geplante Preisdeckel für Benzin und Diesel soll nach Plänen von Wirtschaftsministerin Reiche offenbar nicht für Autobahntankstellen gelten. Ein entsprechender Gesetzentwurf befindet sich derzeit in der Abstimmung zwischen den Ministerien. Damit soll auf die besonderen Kostenstrukturen an Fernstraßen reagiert werden.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
+     "time": "2026-11-21T16:55:59+01:00"
+    },
+    {
+     "title": "Liquiditätshilfen für Schweinehalter stoßen auf Kritik",
+     "summary": "Angesichts anhaltender Verluste in der deutschen Schweinehaltung sollen Liquiditätshilfen in Höhe von 25 Millionen Euro den Betrieben unter die Arme greifen. Landwirte und Opposition warnen jedoch, dass dieses Notfallprogramm allein nicht ausreichen wird, um die Krise der Branche zu bewältigen.",
+     "category": "Landwirtschaft",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
+     "time": "2026-11-21T09:26:38+01:00"
+    },
+    {
+     "title": "Verivox rechnet trotz Steuersenkung mit steigenden Strom- und Gaskosten",
+     "summary": "Die von der Koalition beschlossene Senkung der Stromsteuer reicht einer Auswertung zufolge nicht aus, um den generellen Anstieg der Energiekosten zu stoppen. Noch drastischer fällt die Teuerung demnach beim Gas aus, was Haushalte zusätzlich belasten dürfte.",
+     "category": "Verbraucher",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/service/strom-und-gas-verivox-rechnet-mit-steigenden-kosten-a-d6900d1e-e5cd-4399-a6ac-ca93f756be7b#ref=rss",
+     "time": "2026-11-21T11:50:00+01:00"
+    },
+    {
+     "title": "Staatlich organisiertes Altersvorsorgedepot zum Start wohl noch nicht bereit",
+     "summary": "Zum Jahreswechsel soll das neue Modell der staatlichen Altersvorsorge an den Start gehen. Während private Angebote bereits bereitstehen, wird das öffentlich organisierte Basis-Fondsangebot voraussichtlich noch nicht einsatzbereit sein.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
+     "time": "2026-11-21T11:16:17+01:00"
+    },
+    {
+     "title": "Riemannsche Vermutung: Jahrhundertproblem der Mathematik möglicherweise durch KI gelöst",
+     "summary": "Die berühmte Riemannsche Vermutung über Primzahlen gilt als einer der heiligen Grals der Mathematik. Nun könnte sie mithilfe der Künstlichen Intelligenz von Anthropic gelöst worden sein – fast zeitgleich mit dem Börsengang des US-Unternehmens.",
+     "category": "Forschung",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
+     "time": "2026-11-21T18:32:19+01:00"
+    },
+    {
+     "title": "FBI-Datenbank Ziel von Cyberangriff geworden",
+     "summary": "Laut Medienberichten haben sich Hacker in einem neuen Sicherheitsvorfall Zugriff auf eine wichtige Datenbank des FBI verschafft. Von dem Cyberangriff ist nach weiteren Berichten auch eine andere US-Behörde betroffen.",
+     "category": "Cybercrime",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/usa-hacker-sollen-in-fbi-datenbank-eingedrungen-sein-a-9752137b-bfb0-447a-88b1-afdea2319f3b#ref=rss",
+     "time": "2026-11-21T07:42:00+01:00"
+    },
+    {
+     "title": "TikTok weist Verkaufspläne von Kulturstaatsminister Weimer zurück",
+     "summary": "Kulturstaatsminister Wolfram Weimer hatte vorgeschlagen, TikTok in eine europäische Eigentümerstruktur zu überführen. Das Unternehmen reagierte darauf scharf und bezeichnete die Pläne als ‚Unsinn‘.",
+     "category": "Netzpolitik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/netzpolitik/tiktok-bezeichnet-verkaufsplaene-von-wolfram-weimer-als-unsinn-a-824dc8bd-b7be-4e5c-a139-73ab61a6da3c#ref=rss",
+     "time": "2026-11-21T08:40:00+01:00"
+    },
+    {
+     "title": "Windows-Update-Vorschau bringt Gesichts-Unlock im Dunkeln",
+     "summary": "Microsoft hat die Vorschau für kommende Patchday-Updates veröffentlicht. Darin lernt die Funktion Windows Hello, Nutzer auch bei Dunkelheit per Gesichtserkennung zu authentifizieren.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Windows-Update-Vorschau-Gesichts-Unlock-im-Darkeln-11533459.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-21T11:52:00+01:00"
+    },
+    {
+     "title": "Alexander Zverev zieht ins Traumfinale der ATP Finals ein",
+     "summary": "Nach Carlos Alcaraz hat auch Alexander Zverev das Endspiel der ATP Finals in Turin erreicht. Der Hamburger bezwang im Halbfinale seinen Angstgegner Daniil Medvedev und greift nun nach dem Titel.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/atp/zverev-folgt-alcaraz-ins-traumfinale,spielbericht-atp-finals-zverev-medvedev-100.html",
+     "time": "2026-11-21T22:31:58+01:00"
+    },
+    {
+     "title": "FC St. Pauli besiegt den VfL Bochum durch Blitzstarts",
+     "summary": "Mit zwei frühen Toreffekten in den jeweiligen Halbzeiten hat der FC St. Pauli den VfL Bochum in der 2. Fußball-Bundesliga überrumpelt. Die Hamburger fuhren damit einen wichtigen Heimsieg ein.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga2/st-pauli-siegt-durch-zwei-blitztore-gegen-bochum,spielbericht-st-pauli-vfl-bochum-100.html",
+     "time": "2026-11-21T22:28:08+01:00"
+    },
+    {
+     "title": "Schalke 04 holt Punkt gegen Stuttgart, bleibt aber zuhause torlos",
+     "summary": "Gegen den Champions-League-Teilnehmer VfB Stuttgart erkämpfte sich Schalke 04 ein torloses Remis. Damit wartet S04 im eigenen Stadion jedoch weiter auf den ersten Saisontreffer.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/schalke-zementiert-die-null-im-eigenen-stadion,spielbericht-schalke-04-vfb-stuttgart-100.html",
+     "time": "2026-11-21T21:16:39+01:00"
+    },
+    {
+     "title": "Krawietz und Pütz scheitern im Halbfinal-Krimi der ATP Finals",
+     "summary": "Das deutsche Davis-Cup-Doppel Kevin Krawietz und Tim Pütz hat das Endspiel der ATP Finals auf dramatische Weise verpasst. Zudem gaben die beiden Profis das baldige Ende ihrer Partnerschaft bekannt.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/krawietz-und-puetz-verlieren-halbfinal-krimi-dramatisch,atp-finals-krawietz-puetz-100.html",
+     "time": "2026-11-21T20:56:44+01:00"
+    },
+    {
+     "title": "DSV-Skispringer erwischen schwierigen Saisonstart in Lillehammer",
+     "summary": "Der Weltcup-Auftakt der Skispringer in Lillehammer hat den deutschen Athleten die Grenzen aufgezeigt. Starker Wind sorgte für schwierige Bedingungen, die viele Favoriten straucheln ließen.",
+     "category": "Wintersport",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/wintersport/skispringen/raimund-verhindert-dsv-debakel-in-lillehammer-,lillehammer-einzel-maenner-wettkampf-100.html",
+     "time": "2026-11-21T19:24:30+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "72699a173b5cb524",
+   "overview": "Türkiye blickt heute auf eine Reihe innenpolitischer, diplomatischer und wirtschaftlicher Entwicklungen sowie auf sportliche Ereignisse. Die Verlängerung der COP31-Klimakonferenz in Antalya infolge von Differenzen bei den fossilen Brennstoffen rückt die türkische Umweltdiplomatie in den Vordergrund. In der Innenpolitik stehen rechtliche und politische Debatten wie der Fall Can Atalay im Fokus, während in der Wirtschaft Reformüberlegungen zu Kreditkarten und Kursrückgänge bei Edelmetallen diskutiert werden. Im Sport prägen die aktuellen Begegnungen der Süper Lig und Clubanalysen das Tagesgeschehen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "COP31-Verhandlungen in Antalya wegen Streit um fossile Brennstoffe verlängert",
+     "summary": "Die in Antalya stattfindende UN-Klimakonferenz (COP31) hat sich bis ins Wochenende hinein verlängert, da die teilnehmenden Staaten noch keine Einigung auf einen finalen Text erzielen konnten. Delegierte verhandeln weiter, um tiefgreifende Differenzen insbesondere zur Zukunft der fossilen Brennstoffe beizulegen. Bei dem von Türkiye ausgerichteten Gipfel wird weiterhin nach einem gemeinsamen Konsens gesucht.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cq8j40d29kneo",
+     "time": "2026-11-21T09:37:52+00:00"
+    },
+    {
+     "title": "Can Atalay fordert nach EGMR-Entscheidung sofortige Freilassung und Parlamentsrückkehr",
+     "summary": "Der inhaftierte und seiner parlamentarischen Abgeordneten ehren beraubte Anwalt Can Atalay hat nach dem Urteil des Europäischen Gerichtshofs für Menschenrechte (EGMR) seine sofortige Freilassung gefordert. Er betonte, dass er als gewählter Abgeordneter der Provinz Hatay an der Arbeit der Großen Nationalversammlung der Türkei teilnehmen müsse. Das Thema bleibt ein zentraler Punkt der juristischen und politischen Debatte im Land.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c3y0xnx8vk5ko",
+     "time": "2026-11-21T09:58:15+00:00"
+    },
+    {
+     "title": "In Şırnak bei Waffenunfall verletzter Unteroffizier gestorben",
+     "summary": "Das nationale Verteidigungsministerium gab bekannt, dass der Pionier-Unteroffizier Sergeant Yalın Gergün infolge eines Waffenunfalls im Gebiet Şenoba in Şırnak gestorben ist. Der Soldat war zuvor in ein Krankenhaus eingeliefert worden, konnte aber trotz medizinischer Versorgung nicht gerettet werden. Verteidigungsminister Yaşar Güler veröffentlichte eine Beileidsbotschaft.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/sirnakta-silah-kazasinda-yaralanan-astsubay-sehit-oldu-2085520",
+     "time": "2026-11-22T00:48:21+03:00"
+    },
+    {
+     "title": "Streit um Vorfahrt in Alanya endet tödlich: Türkischlehrer getötet",
+     "summary": "Im Bezirk Alanya in Antalya wurde der 42-jährige Türkischlehrer Yasin Demir bei einer Auseinandersetzung über die Wegvorfahrt mit zwei Personen, die mit einem Motorrad den Gehweg nutzen wollten, niedergestochen. Der Lehrer erlag im Krankenhaus seinen schweren Verletzungen. Die beiden geflüchteten Tatverdächtigen wurden in ihrem Versteck festgenommen.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/alanyada-yol-verme-tartismasi-cinayetle-bitti-turkce-ogretmeni-2085522",
+     "time": "2026-11-22T01:41:00+03:00"
+    },
+    {
+     "title": "İBB plant im Haushalt 2027 vergünstigte Nahverkehrstarife für Studierende",
+     "summary": "Der stellvertretende Bürgermeister der Stadtverwaltung Istanbul (İBB), Nuri Aslan, gab bekannt, dass im Rahmen des Haushalts 2027 jede Fahrt für Studierende mit Abonnement 1 TL kosten wird. Mit dieser Maßnahme sollen die Fahrtkosten für Millionen von Studierenden, die bisher den Tarif von 653 TL nutzten, deutlich gesenkt werden.",
+     "category": "Kommunalpolitik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/653-tl-odeyen-ogrencilerin-yuzu-gulecek-ibbden-2027-butcesinde-dev-1-2085517",
+     "time": "2026-11-22T00:16:05+03:00"
+    },
+    {
+     "title": "Neues Restrukturierungspaket für Kreditkarten- und Privatkreditnehmer in Vorbereitung",
+     "summary": "Die Tatsache, dass die Verschuldung durch Privatkreditkarten und Verbraucherkredite 7,1 Billionen Lira überschritten hat und die Zahl der Schuldner in Rechtsverfolgung steigt, hat die Wirtschaftsführung zum Handeln veranlasst. Die Bankenregulierungs- und -aufsichtsbehörde (BDDK) arbeitet an einem neuen Paket mit Laufzeiten von 48 bis 60 Monaten und Zinssätzen unter 3,11 Prozent für zahlungsunfähige Bürger.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/kredi-karti-ve-ihtiyac-kredisi-olanlara-60-ay-vade-yuzde-311in-2085521",
+     "time": "2026-11-22T01:28:32+03:00"
+    },
+    {
+     "title": "Gold- und Silberpreise brechen infolge weltweiter Verkaufswelle ein",
+     "summary": "Sorgen über mögliche beschleunigte Zinserhöhungen der Fed und Liquiditätsbedarfe an den Börsen trafen Edelmetalle hart. Der Goldpreis sank auf Wochenbasis um 8,9 Prozent auf 3.502 US-Dollar, während Silber mit einem Verlust von 15,4 Prozent auf 40 US-Dollar fiel und den stärksten Rückgang seit 34 Wochen verzeichnete.",
+     "category": "Rohstoffe",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/guvenli-liman-neden-dustu-ons-altin-3-bin-502-dolara-gumus-40-dolara-geriledi-2558124",
+     "time": "2026-11-21T15:56:00+03:00"
+    },
+    {
+     "title": "Minister Bolat zu BYD-Investition in Türkiye: Sicherheiten wurden hinterlegt",
+     "summary": "Handelsminister Ömer Bolat äußerte sich zu Kritikpunkten bezüglich möglicher Verzögerungen bei der Investition des chinesischen Autoherstellers BYD in Türkiye. Bolat erklärte, dass die erforderlichen Sicherheiten vom Ministerium für Industrie und Technologie eingeholt wurden und kein öffentlicher Schaden entstehen werde.",
+     "category": "Investitionen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/cinli-byd-nin-turkiye-yatirimi-gecikiyor-mu-bakan-bolat-tan-teminat-vurgulu-yanit-2558121",
+     "time": "2026-11-21T15:48:00+03:00"
+    },
+    {
+     "title": "Elektroautos verfehlen in Reichweitentests unter Realbedingungen die Herstellerangaben",
+     "summary": "Dem AUTOBEST-Test 2026 zufolge erreichten Elektroautos, die auch auf dem türkischen Markt vertrieben werden, unter realen Fahrbedingungen nicht die von den Herstellern angegebenen WLTP-Reichweitenwerte. Keines der 15 getesteten Modelle konnte die offiziellen Angaben einhalten, wobei der Kia EV2 dem Ziel am nächsten kam.",
+     "category": "Automotive",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/elektrikli-araclar-menzil-testinde-basarisiz-oldu-2085514",
+     "time": "2026-11-22T00:01:00+03:00"
+    },
+    {
+     "title": "Zinserträge für 32-tägige Festgeldanlagen von 100.000 Lira aktualisiert",
+     "summary": "Die Zinssätze für Termineinlagen, die von Bürgern zum Schutz ihrer Ersparnisse vor Inflation bevorzugt werden, wurden neu angepasst. Die Nettorendite einer Ersparnis von 100.000 Lira nach einer Laufzeit von 32 Tagen variiert je nach Bank und nähert sich der Grenze von 2.850 Lira an.",
+     "category": "Banken",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/100-bin-tl-nin-32-gunluk-faiz-getirisi-hesaplandi-en-yuksek-mevduat-faizi-hangi-bankada-iste-guncel-getiri-tablosu-2558137",
+     "time": "2026-11-21T17:45:00+03:00"
+    },
+    {
+     "title": "Studie: Heftige Sturmzyklen der Erde hängen von Umlaufbahnen der Venus und des Jupiter ab",
+     "summary": "Wissenschaftler, die sedimentäre Spuren in antiken Gekischichten untersuchten, fanden heraus, dass heftige Stürme in Zyklen von rund 405.000 Jahren zunehmen. Die Ergebnisse deuten darauf hin, dass dieser Rhythmus mit orbitalen Veränderungen zusammenhängt, die durch die Gravitation von Venus und Jupiter verursacht werden.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/dunya-nin-firtina-dongulerinde-venus-ve-jupiter-etkisi-405-bin-yillik-ritim-2558136",
+     "time": "2026-11-21T17:13:00+03:00"
+    },
+    {
+     "title": "Erds temporärer Mini-Mond '2026 QQ8' verlässt im Dezember die Umlaufbahn",
+     "summary": "Es wurde bekannt gegeben, dass der etwa zwei Meter große natürliche Asteroid '2026 QQ8', der seit April von der Erdanziehungskraft eingefangen wurde und die Erde umkreist, sich entfernen wird. Astronomische Beobachtungen bestätigten, dass keine Kollisionsgefahr besteht und das Objekt Anfang Dezember auf seine Bahn um die Sonne zurückkehren wird.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/dunya-nin-gecici-mini-uydusu-2026-qq8-aralikta-ayriliyor-tehlike-var-mi-2558136",
+     "time": "2026-11-21T15:23:00+03:00"
+    },
+    {
+     "title": "Kein Verbot für „Killer-Roboter“ bei UN-Verhandlungen in Genf",
+     "summary": "Die unter dem Dach der UN in Genf geführten Verhandlungen zur Regulierung von KI-gestützten autonomen Waffen blieben ohne Ergebnis. Wegen Einwänden der USA und Russlands kam kein Verbot zustande, während Aktivisten warnen, dass die Menschheit gefährdet werde.",
+     "category": "KI",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/abd-ve-rusya-itiraz-etti-katil-robotlara-yasak-çıkmadı/a-80010227",
+     "time": "2026-11-21T14:58:00+00:00"
+    },
+    {
+     "title": "Die besten Displayschutzmarken für Smartphones im Jahr 2026 im Vergleich",
+     "summary": "Technologieportale haben eine Marktanalyse für Nutzer von Smart-Geräten durchgeführt und die im Jahr 2026 führenden Displayschutzmarken untersucht. Die Produkte und Schutzeigenschaften von Marken wie Spigen, Baseus, Nillkin, Benks, ESR, Belkin und PanzerGlass wurden verglichen.",
+     "category": "Mobil",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/en-iyi-ekran-koruyucu-markalari-h229294.html",
+     "time": "2026-11-21T17:12:14+03:00"
+    },
+    {
+     "title": "Sorgen um KI-Investitionen lösen heftige Verkaufswelle an der Wall Street aus",
+     "summary": "Bedenken hinsichtlich der Rentabilität von KI-Investitionen und behördliche Prüfungen haben die Märkte erschüttert. Der Kursrückgang von Anthropic nach dem Börsengang und SEC-Untersuchungen gegen Nvidia führten zu Verlusten von über fünf Prozent im Nasdaq-Index.",
+     "category": "Digitalpolitik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/yapay-zeka-balonu-sonuyor-mu-anthropic-ikinci-gununde-cakildi-nvidia-ya-sec-kiskaci-2558013",
+     "time": "2026-11-21T09:54:00+03:00"
+    },
+    {
+     "title": "Fenerbahçe spielt nach Führung nur Unentschieden gegen Kocaelispor",
+     "summary": "Am 12. Spieltag der Trendyol Süper Lig konnte Fenerbahçe eine Führung nicht halten und trennte sich auswärts von Kocaelispor mit 2:2. Nach der Begegnung äußerten sich der Trainerstab von Fenerbahçe und Kocaelispor-Präsident Recep Durul zum Spielverlauf.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/emre-belozoglu-ndan-11-puan-fark-icin-yorum-bunlarni-konusmanin-puan-durumu-2558190",
+     "time": "2026-11-21T21:58:00+03:00"
+    },
+    {
+     "title": "Samsunspor-Präsident Yüksel Yıldırım kritisiert Schiedsrichter nach Galatasaray-Spiel scharf",
+     "summary": "Nach der 1:2-Niederlage von Samsunspor gegen Galatasaray äußerte Vereinspräsident Yüksel Yıldırım scharfe Kritik an den Schiedsrichterentscheidungen. Yıldırım kritisierte dabei insbesondere den Einsatz des Video-Assistenten (VAR).",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/yuksel-yildirim-dan-hakem-aciklamasi-adamlar-var-da-bizi-dogradi-2558161",
+     "time": "2026-11-21T19:06:00+03:00"
+    },
+    {
+     "title": "Amed-Sportif-Trainer Besnik Hasi äußert sich zum Verbleib von Mbaye Diagne",
+     "summary": "Der Trainer von Amed Sportif Faaliyetler, Besnik Hasi, erklärte, dass Mbaye Diagne nach der Länderspielpause nicht ins Team zurückgekehrt ist. Hasi äußerte sein Unverständnis und erklärte, er wisse nicht, wo sich der Spieler aufhalte.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/besnik-hasi-diagne-nin-nerede-oldugunu-bilmiyorum-2558185",
+     "time": "2026-11-21T21:20:00+03:00"
+    },
+    {
+     "title": "Trainer Hikmet Karaman bewertet die Entwicklung von Arda Güler",
+     "summary": "Trainer Hikmet Karaman äußerte sich in einem Interview zur Struktur der Süper Lig und der Entwicklung junger Spieler. Karaman erklärte, dass Arda Güler bei einem Verbleib in Türkiye nicht das heutige Karriereniveau erreicht hätte.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Medyascope",
+     "url": "https://medyascope.tv/2026/11/21/hikmet-karaman-ile-soylesi-arda-turkiyede-bugunku-adina-donusemezdi/",
+     "time": "2026-11-21T15:16:10+00:00"
+    },
+    {
+     "title": "Punktverlust für Galatasaray-Gegner Aston Villa in der Premier League",
+     "summary": "Aston Villa, der Gegner von Galatasaray in dieser Woche in der UEFA Champions League, kam in der Premier League gegen Sunderland zu Hause nicht über ein 0:0 hinaus. Das englische Team verlor durch dieses Ergebnis wichtige Punkte im Ligabetrieb vor dem Europapokalspiel.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-maci-oncesi-aston-villa-dan-puan-kaybi-2558175",
+     "time": "2026-11-21T20:10:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "170c01b6b2cacc6f",
+   "overview": "Das Weltgeschehen wurde von den festgefahrenen Klimaverhandlungen auf dem COP31-Gipfel, den russischen Raketenangriffen in der Ukraine und einem kritischen Drohnenangriff auf ein Handelsschiff in der Ostsee geprägt. In der Wirtschaft sorgten der milliardenschwere Vergleich von Bayer und ein neues EU-Handelsabkommen für Schlagzeilen, während der Einsatz von KI zur Lösung historischer mathematischer Probleme einen Meilenstein markierte. Im Sport dominierten internationale Meisterschaften, ATP-Finals und entscheidende Play-off-Partien das Geschehen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Klimakonferenz COP31 in Antalya ringt um Kompromiss bei fossilen Energien",
+     "summary": "Bei der Klimakonferenz COP31 in der Türkei ringen fast 200 Staaten weiterhin um eine gemeinsame Abschlusserklärung. Hauptstreitpunkt bleibt der Ausstieg aus fossilen Energien, was zu einer Verlängerung der Verhandlungen führte. Das Gastgeberland zeigt sich jedoch optimistisch, mit einem neuen Entwurf den erhofften Durchbruch zu erzielen.",
+     "category": "Klima",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+     "time": "2026-11-22T02:55:26+01:00"
+    },
+    {
+     "title": "Russischer Raketenangriff auf Selenskyjs Heimatstadt in der Ukraine",
+     "summary": "Bei einem russischen Ballistikraketenangriff auf die Heimatstadt des ukrainischen Präsidenten Wolodymyr Selenskyj sind zwei Menschen getötet und Dutzende weitere verletzt worden. Kurz nach dem Angriff bekräftigte Selenskyj die Entschlossenheit seines Landes zum Beitritt zur NATO. Die Attacke folgt auf Drohungen Moskaus als Reaktion auf ukrainische Angriffe auf die Krim-Brücke.",
+     "category": "Krieg",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/europe/20261121-russia-attacks-zelensky-s-hometown-ukraine-reaffirms-wish-to-join-nato",
+     "time": "2026-11-21T19:56:39+00:00"
+    },
+    {
+     "title": "Russisches Frachtschiff vor Finnland in der Ostsee von Drohnen getroffen",
+     "summary": "Ein russisches Handelsschiff ist in internationalen Gewässern vor Finnland von Drohnen attackiert worden, woraufhin an Bord ein Feuer ausbrach. Das brennende Schiff trieb in finnische Gewässer ab, während das Verteidigungsministerium in Helsinki zudem einen möglichen Hubschraubereinzug in den finnischen Luftraum meldete.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/finnland-ostsee-drohnenangriff-russland-frachter-100.html",
+     "time": "2026-11-21T20:10:03+01:00"
+    },
+    {
+     "title": "Führender mexikanischer Drogenboss bei Spezialkräfte-Razzia festgenommen",
+     "summary": "Mexikanische Spezialkräfte haben im Bundesstaat Sinaloa den mutmaßlichen Drogenkartellchef Fausto Isidro Meza Flores festgenommen, der auf der Liste der zehn meistgesuchten Flüchtigen des FBI stand. Bei der Festnahme kam es zu heftigen Schusswechseln. Die Aktion dürfte den Druck auf die Drogenkartelle im Land erhöhen.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/21/alleged-mexican-drug-cartel-boss-el-chapo-isidro-meza-flores-arrested",
+     "time": "2026-11-21T17:46:55+00:00"
+    },
+    {
+     "title": "Sechste Protestwoche in Frankreich gegen steigende Lebenshaltungskosten",
+     "summary": "In Frankreich haben Bürger zum sechsten Mal in Folge gegen die Lebenshaltungskosten und die Regierungspolitik demonstriert. Nach Angaben des Innenministeriums ging die Teilnehmerzahl bei den überwiegend friedlichen Kundesgebungen landesweit zurück. Gewerkschaften und Organisatoren fordern jedoch weiterhin spürbare Entlastungen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/france/20261121-france-s-sixth-consecutive-saturday-of-protests-draw-lower-turnout",
+     "time": "2026-11-21T20:20:37+00:00"
+    },
+    {
+     "title": "US-Gericht billigt Bayer-Vergleich über 7,25 Milliarden Dollar wegen Roundup",
+     "summary": "Ein Richter in Missouri hat den Vergleich des deutschen Konzerns Bayer über 7,25 Milliarden Dollar zur Beilegung von Krebsklagen im Zusammenhang mit dem Unkrautvernichter Roundup genehmigt. Damit steht der Weg offen, einen jahrelangen Rechtsstreit mit Zehntausenden Klägern weitgehend abzuschließen. Das Gericht stufte die Einigung als faire Lösung ein.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/20/bayer-roundup-cancer-litigation",
+     "time": "2026-11-20T23:42:43+00:00"
+    },
+    {
+     "title": "Europäische Union und Indonesien unterzeichnen umfassendes Handelsabkommen",
+     "summary": "Nach zehn Jahren Verhandlungen haben die EU und Indonesien ein bedeutendes Handelsabkommen besiegelt. Das Abkommen baut fast alle Zölle zwischen beiden Märkten ab und sichert Europa unter anderem den Zugang zu wichtigen Rohstoffen wie Nickel. Für Indonesien erleichtert es den Export von Palmöl und Textilien.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/video/20261121-eu-indonesia-agreement-sees-the-light-after-ten-years-of-negotiations",
+     "time": "2026-11-21T22:23:03+00:00"
+    },
+    {
+     "title": "GTA 6 bricht Rekorde mit 3,8 Milliarden Dollar Umsatz am ersten Tag",
+     "summary": "Das mit Spannung erwartete Videospiel GTA 6 hat an seinem ersten Verkaufstag einen Umsatz von 3,8 Milliarden Dollar erzielt. Damit übertrifft der Launch jeden bisherigen Videospiel- und Kinokassen-Rekord in der Geschichte. Experten sprechen von einem historischen Meilenstein für die Unterhaltungsbranche.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr5nyv5dj2o",
+     "time": "2026-11-20T22:53:24+00:00"
+    },
+    {
+     "title": "EU-Haushaltsvorschlag sieht Steuer für globale Tech-Konzerne vor",
+     "summary": "EU-Ratspräsident Antonio Costa hat einen neuen Finanzrahmen für 2028 bis 2034 vorgelegt, der unter anderem eine dreiprozentige Steuer auf große Digitalkonzerne zur Entlastung der Mitgliedstaaten umfasst. Frankreich lehnte den Vorschlag jedoch als unzureichend ab.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/new-eu-budget-proposal-aims-at-tax-gobal-tech-giants/a-80009255",
+     "time": "2026-11-21T14:58:00+00:00"
+    },
+    {
+     "title": "Tech-Aktienverkaufswelle drückt US-Börsen ins Minus",
+     "summary": "Verkaufsdruck bei Technologieaktien hat die US-Märkte belastet und Indizes wie den S&P 500 sowie den Dow Jones in Richtung Korrekturzone gedrückt. Insbesondere Kursrückgänge bei Unternehmen wie Anthropic dämpften die Stimmung der Anleger.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c6808ym10vzgo",
+     "time": "2026-11-20T22:42:47+00:00"
+    },
+    {
+     "title": "Anthropic-Forscher löst mathematisches Jahrtausendrätsel mit KI-Hilfe",
+     "summary": "Ein Mathematiker des KI-Unternehmens Anthropic hat mithilfe des KI-Assistenten Claude einen Durchbruch bei der Beweisführung für die berühmte Riemannsche Vermutung erzielt. Experten bestätigen, dass dieser Ansatz mathematische Forschung nachhaltig verändern könnte. Die Verifizierung des Beweises läuft derzeit.",
+     "category": "KI",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
+     "time": "2026-11-21T20:15:57+00:00"
+    },
+    {
+     "title": "UN-Verhandlungen über autonome Waffen ohne verbindliche Regeln",
+     "summary": "Bei UN-Gesprächen in Genf ist es den Delegierten nicht gelungen, rechtlich bindende Regeln für den Einsatz autonomer Waffensysteme und militärischer Drohnen zu vereinbaren. Kritiker und Hilfsorganisationen warnten, dass die militärische KI-Entwicklung die internationale Diplomatie weit überhole. Die Staaten einigten sich lediglich auf eine Verlängerung der Gespräche.",
+     "category": "Digitalpolitik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "NPR World",
+     "url": "https://www.npr.org/2026/11/21/nx-s1-6047916/killer-robots-un-drones",
+     "time": "2026-11-21T09:18:17-05:00"
+    },
+    {
+     "title": "US-Kommission untersagt Kalifornien Durchsetzung von Telefonservice-Regeln",
+     "summary": "Die US-Kommission FCC hat angeordnet, dass der Bundesstaat Kalifornien seine Vorschriften zur Aufrechterhaltung von Festnetzdiensten durch AT&T nicht mehr durchsetzen darf. Die Bundesbehörde greift damit in die Gesetzgebung des Bundesstaates ein. Der Schritt entfacht den Streit um Telekommunikationskompetenzen neu.",
+     "category": "Telekommunikation",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/fcc-orders-california-to-stop-enforcing-phone-service-rules-against-att/",
+     "time": "2026-11-20T22:28:24+00:00"
+    },
+    {
+     "title": "Carlos Alcaraz trifft im ATP-Finals-Endspiel auf Alexander Zverev",
+     "summary": "Nach einem starken Comeback-Sieg gegen Ben Shelton zieht Carlos Alcaraz in das Finale der ATP Finals ein. Dort trifft der Spanier auf die deutsche Nummer eins Alexander Zverev, der sich im Halbfinale gegen Daniil Medvedev durchsetzte. Das Endspiel in Turin verspricht ein absolutes Top-Duell zu werden.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cw5y1gg7nyv0o",
+     "time": "2026-11-21T22:50:19+00:00"
+    },
+    {
+     "title": "Frankreich schlägt Argentinien und zieht ins Nations-Championship-Finale ein",
+     "summary": "Mit einem souveränen 45:17-Erfolg über Argentinien in Paris hat sich Frankreich für das Finale der Nations Championship qualifiziert. Die Franzosen überrollten die Pumas in der zweiten Halbzeit mit fünf Versuchen und treffen im Endspiel in London auf Südafrika.",
+     "category": "Rugby",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/21/france-beat-argentina-to-set-up-nations-final-with-south-africa",
+     "time": "2026-11-21T22:46:00+00:00"
+    },
+    {
+     "title": "Lionel Messi im Zentrum von Platzverweis-Debatte bei frühem MLS-Play-off-Aus",
+     "summary": "Inter Miami ist nach einer 0:3-Niederlage gegen Columbus Crew überraschend früh aus den MLS-Play-offs ausgeschieden. Lionel Messi stand dabei im Fokus, nachdem er frustriert den Ball in das Gesicht eines Gegners geworfen hatte und dafür nur verwarnt wurde. Der gegnerische Trainer forderte vehement einen roten Karton.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/21/lionel-messi-red-card-controversy-inter-miami-columbus-crew-mlsplayoffs",
+     "time": "2026-11-22T03:01:55+00:00"
+    },
+    {
+     "title": "Arsenal bangt um Torhüter David Raya nach Schulterverletzung",
+     "summary": "Beim 2:2-Unentschieden von Arsenal gegen Newcastle United musste Schlussmann David Raya in der zweiten Halbzeit ausgewechselt werden. Trainer Mikel Arteta zeigte sich besorgt über die Schwere der Schulterverletzung des Spaniers, während die Gunners die Tabellenspitze behaupten.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/21/david-raya-shoulder-injury-asset-newcastle-mikel-arteta",
+     "time": "2026-11-21T21:48:21+00:00"
+    },
+    {
+     "title": "Schottische Premiership: Hearts deklassiert Dundee mit 8:0",
+     "summary": "Hearts hat in der schottischen Premiership einen historischen 8:0-Kantersieg bei Dundee gefeiert und damit die beste Leistung unter Coach Wouter Vrancken gezeigt. Dundee-Trainer Steven Pressley zeigte sich nach der Pleite beschämt und entschuldigte sich. Celtic und Rangers gewannen ihre jeweiligen Partien ebenfalls.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/21/scottish-premiership-roundup-celtic-sweep-st-mirren-aside-to-strengthen-grip-at-top",
+     "time": "2026-11-21T22:20:19+00:00"
+    }
+   ]
+  }
+ ]
+}
