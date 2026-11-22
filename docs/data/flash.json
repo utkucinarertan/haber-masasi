@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T09:40+01:00",
+ "updatedAt": "2026-11-22T10:10+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T11:43:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010654/abd-hazine-bakani-scott-bessent-askeri-uste-kaldigini-dogruladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "ABD Hazine Bakanı Scott Bessent, İran kaynaklı tehditler nedeniyle askeri üste kaldığını doğruladı.",
+     "de": "US-Finanzminister Scott Bessent hat bestätigt, dass er wegen drohender Gefahren auf einem Militärstützpunkt bleibt."
+    }
+   },
+   {
+    "time": "2026-11-22T10:03:17+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/micotakisin-gta-6li-emeklilik-ikramiye-duyurusu-tepki-cekti",
+    "text": {
+     "tr": "Yunanistan Başbakanı Miçotakis'in emeklilik ikramiyesini duyururken GTA 6 sorması tepki çekti.",
+     "de": "Der griechische Ministerpräsident Mitsotakis hat mit einer GTA-6-Frage bei der Rentenbonus-Präsentation Kritik ausgelöst."
+    }
+   },
    {
     "time": "2026-11-22T10:00:00+03:00",
     "source": "Evrensel",
@@ -13,39 +31,21 @@
     }
    },
    {
+    "time": "2026-11-22T09:50:56+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
+    "text": {
+     "tr": "İskoçya'daki 700 yıllık Kader Taşı'na çekiçle saldırarak üzerine oturan kişi yakalandı.",
+     "de": "Ein Mann hat in Schottland den 700 Jahre alten Schicksalsstein mit einem Hammer beschädigt und sich darauf gesetzt."
+    }
+   },
+   {
     "time": "2026-11-22T09:00:42+01:00",
     "source": "Euronews Türkçe",
     "url": "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
     "text": {
      "tr": "Avrupa'da son bir ayda siber saldırılar nedeniyle derin dondurucuların ısınması ve GPS kayıpları gibi birçok olay yaşandı.",
      "de": "Europa hat einen Monat voller Cyberangriffe erlebt, die unter anderem zu GPS-Ausfällen und veränderten Temperaturen in Gefriertruhen führten."
-    }
-   },
-   {
-    "time": "2026-11-22T08:01:13+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-trotz-40-stunden-verlaengerung-droht-der-weltklimagipfel-zu-scheitern.html",
-    "text": {
-     "tr": "Antalya'da düzenlenen Dünya İklim Zirvesi, petrol üretici ülkelerin blokajı nedeniyle uzatmalara rağmen başarısızlık riskiyle karşı karşıya.",
-     "de": "Der Weltklimagipfel droht trotz einer Verlängerung um 40 Stunden zu scheitern, da Ölförderländer weitere Schritte blockieren."
-    }
-   },
-   {
-    "time": "2026-11-22T07:49:42+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/formel1/article6b0294dc5842ff528b9e3738/leclerc-rammt-hamilton-teamzoff-bei-ferrari-eskaliert-ich-moechte-dich-nach-dem-rennen-direkt-sehen-funkt-der-team-chef.html",
-    "text": {
-     "tr": "Las Vegas Grand Prix'sinde Ferrari pilotları Lewis Hamilton ve Charles Leclerc'in çarpışmasıyla takım içi gerginlik doruğa ulaştı.",
-     "de": "Beim Großen Preis von Las Vegas kollidierten die Ferrari-Piloten Charles Leclerc und Lewis Hamilton, wodurch der Teamzoff eskalierte."
-    }
-   },
-   {
-    "time": "2026-11-22T07:41:30+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wissen/weltraum/merkur-sonde-bepicolombo-ist-am-ziel-angekommen-accg-201705832.html",
-    "text": {
-     "tr": "BepiColombo uzay sondası, 10 milyar kilometre yol kat ederek nihayet Merkür'e ulaştı.",
-     "de": "Die Raumsonde „BepiColombo“ hat nach zehn Milliarden Kilometren Reise ihr Ziel Merkur erreicht."
     }
    }
   ],
@@ -107,6 +107,24 @@
     }
    },
    {
+    "time": "2026-11-22T08:48:00+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
+    "text": {
+     "tr": "IG Metall, kuzey bölgesinde 24 saatlik uyarı grevlerini genişletti.",
+     "de": "Die IG Metall weitet die 24-Stunden-Warnstreiks im Norden aus."
+    }
+   },
+   {
+    "time": "2026-11-22T08:38:06+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
+    "text": {
+     "tr": "FDP'li siyasetçi Preisler, Filistin yanlısı bir gösteride saldırıya uğradı.",
+     "de": "FDP-Politikerin Preisler wurde bei einer propalästinensischen Demonstration attackiert."
+    }
+   },
+   {
     "time": "2026-11-22T07:52:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
@@ -123,24 +141,6 @@
      "tr": "Formula 1 Las Vegas Grand Prix'sinde Max Verstappen birinci oldu.",
      "de": "Max Verstappen gewinnt den Großen Preis von Las Vegas in der Formel 1."
     }
-   },
-   {
-    "time": "2026-11-22T07:00:00+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
-    "text": {
-     "tr": "Mainz kenti ve şehir işletmeleri, popüler Taubertsbergbad havuzunun kurtarıldığını duyurdu.",
-     "de": "Stadt und Stadtwerke in Mainz haben die Rettung des populären Taubertsbergbads bekannt gegeben."
-    }
-   },
-   {
-    "time": "2026-11-22T06:51:04+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
-    "text": {
-     "tr": "Alman Tugay Komutanı Tuğgeneral Huber, Rusya'nın gücünün arttığını ancak NATO'nun sürprizle karşılaşmayacağını belirtti.",
-     "de": "Brigadegeneral Huber sieht die Stärke Russlands wachsen, betont aber, dass die Nato von keiner Überraschung bedroht werde."
-    }
    }
   ]
  },
@@ -151,8 +151,10 @@
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
   "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
   "https://tr.euronews.com/2026/11/22/iran-bahreyndeki-abd-uslerini-hedef-aldi-tankerler-ablukayi-asmaya-hazirlaniyor",
+  "https://tr.euronews.com/2026/11/22/iskocyanin-700-yillik-kutsal-tasina-cekicli-saldiri-amaci-uzerine-oturmak",
   "https://tr.euronews.com/2026/11/22/katarin-en-iyi-bes-yildizli-otelleri-doha-ve-lusailde-luks-konaklama",
   "https://tr.euronews.com/2026/11/22/madeira-ocean-expedition-koruma-ise-yariyor-kopekbaligi-azligi-endise-veriyor",
+  "https://tr.euronews.com/2026/11/22/micotakisin-gta-6li-emeklilik-ikramiye-duyurusu-tepki-cekti",
   "https://tr.euronews.com/2026/11/22/muslumanlara-yonelik-sozleriyle-tepki-ceken-yazara-ve-aktor-depardieuya-toplu-tecavuz-soru",
   "https://tr.euronews.com/2026/11/22/oecdnin-beceri-odakli-isgucu-piyasasi-endeksi-isvec-ve-fransa-avrupaya-liderlik-ediyor",
   "https://tr.euronews.com/2026/11/22/prens-harry-gerekirse-rusyaya-karsi-savasmak-icin-orduya-donerim",
@@ -160,6 +162,8 @@
   "https://tr.euronews.com/2026/11/22/suriyedeki-turk-universitelerine-bagli-fakulteler-devrediliyor-karar-ne-anlama-geliyor",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+  "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+  "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/aglamanin-kokenleri-2558105",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-bardak-suyun-hatirina-bartin-2558086",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/bir-baskadir-artik-baska-2558082",
@@ -171,6 +175,7 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
+  "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
   "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
   "https://www.dw.com/tr/mega-hapishaneler-çözüm-olabilir-mi/a-79982917",
   "https://www.dw.com/tr/yapay-zeka-öğrencileri-aptallaştırıyor-mu/a-79971819",
@@ -196,12 +201,16 @@
   "https://www.evrensel.net/haber/6010649/antalya-kepez-belediyesine-operasyon-10-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010650/dem-partili-kocyigit-bakan-simsek-e-soru-onergesi-verdi-kars-belediyesi-sayistay-bulgulari-meclis-gundeminde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010651/interpol-un-aradigi-israilli-organ-kacakcisi-yillarca-turkiye-de-yasadi-rusya-da-12-yil-hapis-cezasina-carptirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010652/yeni-parti-milletvekili-ozgur-karabat-tan-ekonomi-degerlendirmesi-2027-ye-hangi-parayla-giriyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010653/tbmm-de-bu-hafta-butce-gorusmelerinde-komisyon-asamasi-sona-eriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010654/abd-hazine-bakani-scott-bessent-askeri-uste-kaldigini-dogruladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/fotografiska-lauren-greenfields-social-media-warnung-201685754.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
   "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
   "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/viva-frida-kahlo-immersive-ausstellung-gastiert-in-frankfurt-accg-201680843.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
@@ -209,9 +218,11 @@
   "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
   "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-ig-metall-weitet-24-stunden-streiks-im-norden-aus-faz-200452404.html",
   "https://www.faz.net/aktuell/wissen/geist-soziales/isabelle-deflers-ueber-kriegerische-frauen-im-18-jahrhundert-accg-201680264.html",
   "https://www.faz.net/aktuell/wissen/netzraetsel/erdbeben-tsunami-asteroideneinschlag-diese-website-zaehlt-mit-accg-201697741.html",
   "https://www.faz.net/aktuell/wissen/weltraum/merkur-sonde-bepicolombo-ist-am-ziel-angekommen-accg-201705832.html",
+  "https://www.faz.net/podcasts/nico-lange/migration-in-der-eu-warum-sich-routen-so-schnell-verlagern-201704453.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
   "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
@@ -224,6 +235,7 @@
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
   "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
@@ -245,11 +257,14 @@
   "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
   "https://www.welt.de/politik/deutschland/article6b02999939a3e8110f0e60fa/zentralratspraesident-mit-juedischem-leben-nur-schwer-kompatibel-schuster-warnt-vor-extremisten-in-der-bundesregierung.html",
+  "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
   "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
   "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
   "https://www.welt.de/sport/formel1/article6b02929739a3e8110f0e609e/chaotischstes-rennen-der-geschichte-30-fuehrungswechsel-verstappen-triumphiert-beim-ueberhol-festival-in-las-vegas.html",
   "https://www.welt.de/sport/formel1/article6b0294dc5842ff528b9e3738/leclerc-rammt-hamilton-teamzoff-bei-ferrari-eskaliert-ich-moechte-dich-nach-dem-rennen-direkt-sehen-funkt-der-team-chef.html",
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
+  "https://www.welt.de/vermischtes/article6b02a4a73cd434a4d6d0ca74/kfz-zulassung-88-hh-18-ss-diese-nazi-codes-sind-auf-kennzeichen-verboten.html",
+  "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
   "https://www.welt.de/wissenschaft/article6afeb159e9561dcc48a02c19/auto-gefahr-durch-rentner-was-eine-pflicht-zum-fuehrerschein-check-ab-65-wirklich-bringt.html",
   "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-trotz-40-stunden-verlaengerung-droht-der-weltklimagipfel-zu-scheitern.html",
   "https://www.welt.de/wissenschaft/plus6afeb159e9561dcc48a02c19/auto-gefahr-durch-rentner-was-eine-pflicht-zum-fuehrerschein-check-ab-65-wirklich-bringt.html"
