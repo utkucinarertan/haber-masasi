@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T12:45+01:00",
+ "updatedAt": "2026-11-22T13:15+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T12:11:00+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
+    "text": {
+     "tr": "Endonezya'da şeker ve atıştırmalık ürünler üreten bir fabrikada çıkan yangında 3 kişi hayatını kaybetti, 36 kişi kayıp.",
+     "de": "Bei einem verheerenden Brand in einer Fabrik in Indonesien sind mindestens drei Menschen getötet worden, 36 werden vermisst."
+    }
+   },
+   {
+    "time": "2026-11-22T11:59:28+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
+    "text": {
+     "tr": "İngiltere ve Galler'de, suçluların tespitten kaçmak için kullandığı ikiz plaka mağdurları için yeni bir ihbar aracı hizmete sokuldu.",
+     "de": "In England und Wales wurde ein neues Meldetool für Opfer von manipulierten Nummernschildern eingeführt."
+    }
+   },
    {
     "time": "2026-11-22T11:43:00+03:00",
     "source": "Evrensel",
@@ -13,6 +31,15 @@
     }
    },
    {
+    "time": "2026-11-22T11:41:49+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
+    "text": {
+     "tr": "İngiltere Dışişleri Bakanı Ed Miliband, AB ile daha yakın bağların ülkeye Brüksel'deki kararlarda söz hakkı vereceğini söyledi.",
+     "de": "Der britische Außenminister Ed Miliband argumentiert, dass engere EU-Typen Großbritannien Mitspracherecht bei Entscheidungen in Brüssel geben werden."
+    }
+   },
+   {
     "time": "2026-11-22T11:00:26+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
@@ -20,36 +47,27 @@
      "tr": "ABD'deki ara seçim yenilgisi sonrasında muhafazakâr medyanın Donald Trump ile ilişkisini sorguladığı bildirildi.",
      "de": "Konservative US-Medien diskutieren nach der Kongresswahl über ihre Zukunft und Distanzierung zu Donald Trump."
     }
-   },
-   {
-    "time": "2026-11-22T11:00:25+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
-    "text": {
-     "tr": "ABD'nin Arizona eyaletinde çölde kaybolan iki yaşındaki çocuğu bulan bir büyükbabanın kahraman ilan edildiği duyuruldu.",
-     "de": "Ein Großvater in Arizona wurde als Held gefeiert, nachdem er ein vermisstes Kleinkind in der Wüste gefunden hatte."
-    }
-   },
-   {
-    "time": "2026-11-22T11:00:24+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
-    "text": {
-     "tr": "Birleşik Krallık ile Avrupa Birliği arasında gıda ürünlerindeki kontrolleri kaldıran yeni bir anlaşmaya varıldığı açıklandı.",
-     "de": "Großbritannien und die EU haben ein neues Abkommen zur weitgehenden Abschaffung von Grenzkontrollen für Lebensmittel erzielt."
-    }
-   },
-   {
-    "time": "2026-11-22T10:25:52+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/former-italian-police-chief-found-dead",
-    "text": {
-     "tr": "İtalya'nın eski ulusal polis şefi, Sicilya'daki mafya bağlantılı bir bombalı saldırı soruşturmasında örtbas şüphesiyle incelenirken ölü bulundu.",
-     "de": "Ein ehemaliger Chef der italienischen Polizei wurde tot aufgefunden, während er wegen des Verdachts der Vertuschung eines mafiabasierten Anschlags untersucht wurde."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T14:47:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010673/murat-ongun-butlan-chp-sinin-kararina-dikkat-cekti-secim-tahminini-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İBB Başkanı Ekrem İmamoğlu'nun danışmanı Murat Ongun, olası seçim tarihine ilişkin öngörülerini paylaştı.",
+     "de": "Murat Ongun, Berater des inhaftierten Istanbuler Bürgermeisters Ekrem İmamoğlu, hat seine Einschätzung zum möglichen Wahltermin geäußert."
+    }
+   },
+   {
+    "time": "2026-11-22T14:23:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010672/belcika-da-yarin-ulusal-grev-gunu-tum-ucuslar-iptal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Belçika'da sendikaların kemer sıkma politikalarına karşı aldığı karar doğrultusunda yarın ülke genelinde ulusal greve gidilecek ve tüm uçuşlar iptal edildi.",
+     "de": "Wegen eines landesweiten Streiks gegen die Sparpolitik in Belgien sind für morgen alle Flüge abgesagt worden."
+    }
+   },
    {
     "time": "2026-11-22T14:20:00+03:00",
     "source": "Evrensel",
@@ -76,27 +94,36 @@
      "tr": "Yunanistan Başbakanı Kiryakos Miçotakis'in emekli ikramiyesini GTA 6 videosuyla tanıtması tepki topladı.",
      "de": "Der griechische Premierminister Mitsotakis geriet wegen der Präsentation von Rentenboni mit einem GTA-6-Video in die Kritik."
     }
-   },
-   {
-    "time": "2026-11-22T13:56:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010667/malatya-ayaklandi-paylasimlarina-sorusturma-acildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Dezenformasyonla Mücadele Merkezi, sosyal medyadaki asılsız 'Malatya ayaklandı' paylaşımları hakkında soruşturma açıldığını duyurdu.",
-     "de": "Über soziale Medien verbreitete unbelegte Behauptungen über angebliche Unruhen in Malatya haben eine Untersuchung ausgelöst."
-    }
-   },
-   {
-    "time": "2026-11-22T13:48:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010668/kapanan-ozyildiz-compin-fainsa-iscileri-alacaklari-icin-eylemde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Bursa'da kapatılan Özyıldız Compin Fainsa fabrikasında işsiz kalan yaklaşık 80 işçi, ödenmeyen alacakları için eylem yaptı.",
-     "de": "In Bursa protestierten rund 80 Arbeiter der geschlossenen Fabrik Özyıldız Compin Fainsa für die Auszahlung ihrer ausstehenden Löhne."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T13:06:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
+    "text": {
+     "tr": "Almanya'da Ekonomik İşler Bakanı Katherina Reiche, yüksek akaryakıt fiyatlarına karşı planlanan fiyat tavanından otoban benzinliklerinin muaf tutulmasını istiyor.",
+     "de": "Wirtschaftsministerin Katherina Reiche will Autobahntankstellen wegen hoher Spritpreise von einem geplanten Preisdeckel ausnehmen."
+    }
+   },
+   {
+    "time": "2026-11-22T12:47:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-eklat-bei-uno-klimakonferenz-in-antalya-teilnehmer-koennen-sich-nicht-auf-abschlusserklaerung-einigen-a-e9928a84-c539-492f-8b13-f71ca6296c95#ref=rss",
+    "text": {
+     "tr": "Antalya'da düzenlenen COP31 BM İklim Konferansı'nda katılımcılar ortak bir nihai bildiri üzerinde anlaşma sağlayamadı.",
+     "de": "Bei der COP31-UN-Klimakonferenz in Antalya konnten sich die Teilnehmer nicht auf eine gemeinsame Abschlusserklärung einigen."
+    }
+   },
+   {
+    "time": "2026-11-22T12:09:00+00:00",
+    "source": "DW Türkçe",
+    "url": "https://www.dw.com/tr/almanya-kadın-cinayetlerinde-cezaları-ağırlaştırmaya-hazırlanıyor/a-80013520",
+    "text": {
+     "tr": "Almanya Adalet Bakanı Hubig, kadın cinayetlerinde faillerin cezalarının ağırlaştırılmasına yönelik yeni bir yasa değişikliği planlıyor.",
+     "de": "Die deutsche Justizministerin Hubig plant eine Gesetzesänderung, um die Strafen für Täter bei Femiziden zu verschärfen."
+    }
+   },
    {
     "time": "2026-11-22T11:55:00+01:00",
     "source": "Der Spiegel",
@@ -107,39 +134,12 @@
     }
    },
    {
-    "time": "2026-11-22T11:23:27+00:00",
+    "time": "2026-11-22T11:50:40+00:00",
     "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b02c62a5842ff528b9e3ab0/gerichtsbeschluss-kontrollen-an-der-grenze-pole-verklagt-deutschland-und-gewinnt.html",
+    "url": "https://www.welt.de/gesundheit/article6b02d0483cd434a4d6d0ce29/grippe-teilweise-viel-zu-spaet-geliefert-hausaerzte-beklagen-zu-wenig-impfstoff-gegen-influenza.html",
     "text": {
-     "tr": "Almanya'nın Polonya sınırındaki kontrollerine karşı dava açan bir Polonya vatandaşının haklı bulunduğu bildirildi.",
-     "de": "Ein polnischer Bürger hat vor Gericht gegen die deutschen Grenzkontrollen gewonnen und Recht bekommen."
-    }
-   },
-   {
-    "time": "2026-11-22T11:22:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
-    "text": {
-     "tr": "Alman ordusu Bundeswehr, Litvanya'daki ortak tatbikat için tank ve araçları Polonya yollarında karayolu konvoyu yerine demiryoluyla sevk etti.",
-     "de": "Die Bundeswehr hat Panzer und Fahrzeuge für eine Großübung in Litauen kurzfristig per Zug statt über Polens Straßen verlegt."
-    }
-   },
-   {
-    "time": "2026-11-22T11:17:06+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/macron-plant-schuldenbremse-in-der-verfassung-mit-bardella-accg-201705914.html",
-    "text": {
-     "tr": "Fransa Cumhurbaşkanı Macron'un, bütçe açığını azaltmak amacıyla bir anayasal borç freni planladığı belirtildi.",
-     "de": "Der französische Präsident Macron plant eine Verfassungsänderung zur Einführung einer Schuldenbremse."
-    }
-   },
-   {
-    "time": "2026-11-22T11:14:40+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/unwetter-in-tupancireta-vier-tote-und-8000-beschaedigte-haeuser-accg-201704557.html",
-    "text": {
-     "tr": "Brezilya'nın güneyinde meydana gelen şiddetli fırtınalarda 4 kişi hayatını kaybetti ve 8 bin ev zarar gördü.",
-     "de": "Schwere Unwetter im Süden von Brasilien forderten vier Todesopfer und beschädigten 8000 Häuser."
+     "tr": "Almanya'daki birçok aile hekimi, grip aşısının geciktiğini ve yetersiz kaldığını belirterek şikâyette bulundu.",
+     "de": "Zahlreiche Hausärzte in Deutschland beklagen eine verspätete Lieferung und einen Mangel an Grippe-Impfstoff."
     }
    }
   ]
@@ -148,6 +148,7 @@
   "https://tr.euronews.com/2026/11/22/ahmet-gunestekinden-60-yasina-ozel-sergi-kaldigimiz-yerden",
   "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
   "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
+  "https://tr.euronews.com/2026/11/22/cocukluk-hafizasindan-evrensel-formlara-seylan-kandakin-oval-serisi",
   "https://tr.euronews.com/2026/11/22/cop31de-ulkeler-anlasma-arayisinda-fosil-yakitlar-konusundaki-uzlasmazlik-suruyor",
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
   "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
@@ -173,6 +174,7 @@
   "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+  "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
   "https://www.bbc.com/turkce/articles/c6z7490p3l8no",
   "https://www.bbc.com/turkce/articles/cm2l5jn0r8q8o",
   "https://www.bbc.com/turkce/articles/cm702e55rp84o",
@@ -190,6 +192,7 @@
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
   "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
+  "https://www.dw.com/tr/almanya-kadın-cinayetlerinde-cezaları-ağırlaştırmaya-hazırlanıyor/a-80013520",
   "https://www.dw.com/tr/cop31-de-fosil-yakıt-krizi-almanya-ve-fransa-son-taslağa-karşı-çıktı/a-80013013",
   "https://www.dw.com/tr/mega-hapishaneler-çözüm-olabilir-mi/a-79982917",
   "https://www.dw.com/tr/yapay-zeka-öğrencileri-aptallaştırıyor-mu/a-79971819",
@@ -231,10 +234,14 @@
   "https://www.evrensel.net/haber/6010665/yazar-aygun-kevrina-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010666/ukrayna-baltik-denizi-nde-rus-kargo-gemisini-vurdu-yangin-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010667/malatya-ayaklandi-paylasimlarina-sorusturma-acildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010668/bursa-da-uretim-yapan-ozyildiz-compin-fainsa-iscileri-haklarini-vermeden-isten-cikardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010668/kapanan-ozyildiz-compin-fainsa-iscileri-alacaklari-icin-eylemde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010669/micotakis-emekli-ikramiyesini-gta-6-ile-tanitti-tepki-yagdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010670/31-yillik-haber-sitesi-salon-yayin-hayatina-son-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010671/dem-parti-imrali-heyeti-ocalan-ile-gorusmek-icin-adaya-gitti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010672/belcika-da-yarin-ulusal-grev-gunu-tum-ucuslar-iptal?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010673/murat-ongun-butlan-chp-sinin-kararina-dikkat-cekti-secim-tahminini-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010674/emep-ankara-il-kongresi-iscilerin-ve-genclerin-katilimiyla-gerceklesti-istedikleri-kadar-yok-sansinlar-mucadele-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -262,6 +269,7 @@
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundespraesidialamt-faellt-durch-relativ-niedrigen-krankenstand-auf-accg-201698796.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/warum-silberreiher-den-deutschen-winter-lieben-accg-201704744.html",
   "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
   "https://www.faz.net/aktuell/sport/formel-1/max-verstappen-siegt-in-las-vegas-75-karrieresieg-im-chaos-rennen-accg-201705885.html",
@@ -270,6 +278,7 @@
   "https://www.faz.net/aktuell/sport/fussball/leandro-paredes-bricht-nach-boca-juniors-triumph-zusammen-accg-201706251.html",
   "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-zarte-hoffnung-bei-der-mannschaft-von-urs-fischer-accg-201702107.html",
+  "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/porsche-macan-gts-im-test-stark-teuer-aber-ohne-v6-accg-201655974.html",
   "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
   "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/teslas-wette-auf-europa-ist-gewagt-201700919.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
@@ -286,6 +295,7 @@
   "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
   "https://www.france24.com/en/europe/20261122-live-finland-says-war-spilling-over-after-baltic-sea-drone-strike-on-russian-cargo-ship",
   "https://www.france24.com/en/former-italian-police-chief-found-dead",
+  "https://www.france24.com/en/indonesia-factory-hit-by-deadly-blaze-three-killed-and-36-missing",
   "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
   "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
   "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
@@ -307,7 +317,9 @@
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
+  "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
+  "https://www.spiegel.de/wissenschaft/cop31-in-antalya-eklat-bei-uno-klimakonferenz-in-antalya-teilnehmer-koennen-sich-nicht-auf-abschlusserklaerung-einigen-a-e9928a84-c539-492f-8b13-f71ca6296c95#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
@@ -322,9 +334,12 @@
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
   "https://www.theguardian.com/culture/2026/nov/22/exquisitely-decorated-home-of-victorian-workman-david-parr-wins-blue-plaque-cambridge",
+  "https://www.theguardian.com/money/2026/nov/22/cloned-number-plate-victims-england-and-wales-new-reporting-tool",
   "https://www.theguardian.com/news/2026/nov/22/bank-of-england-directors-illegally-profited-enslavement-cuba",
+  "https://www.theguardian.com/politics/2026/nov/22/closer-eu-ties-uk-ed-miliband-brexit",
   "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
   "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
+  "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
   "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
   "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
@@ -335,6 +350,7 @@
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
   "https://www.welt.de/debatte/plus6affe4a439a3e8110f0e336d/buchhandel-einmal-queer-durchs-regal.html",
   "https://www.welt.de/geschichte/article6af5b90750175c81de7a3a6b/totensonntag-mit-entsetzen-denkt-man-sich-das-schauervolle-ende-dieser-ungluecklichen.html",
+  "https://www.welt.de/gesundheit/article6b02d0483cd434a4d6d0ce29/grippe-teilweise-viel-zu-spaet-geliefert-hausaerzte-beklagen-zu-wenig-impfstoff-gegen-influenza.html",
   "https://www.welt.de/kultur/article6afd9529bb7e7a6679f92da7/so-wird-der-frankfurter-tatort-wer-das-nicht-aushaelt-ist-in-dieser-welt-verloren.html",
   "https://www.welt.de/kultur/plus6aec7bb947b5fce02f878f79/zu-zweit-allein-die-brutalste-einsamkeit-ist-die-in-einer-beziehung.html",
   "https://www.welt.de/kultur/plus6afda78aa0547afb26e78a38/holz-und-maennlichkeit-warum-es-nach-700-000-jahren-immer-noch-die-vaeter-sind-die-ein-holzfeuer-anzuenden.html",
@@ -346,6 +362,7 @@
   "https://www.welt.de/politik/deutschland/article6b02c62a5842ff528b9e3ab0/gerichtsbeschluss-kontrollen-an-der-grenze-pole-verklagt-deutschland-und-gewinnt.html",
   "https://www.welt.de/politik/deutschland/harald-martenstein/plus6affe0c739a3e8110f0e3302/houellebecq-und-reichelt-die-anklage-aufstachelung-zu-diskriminierung-haette-der-stasi-gefallen.html",
   "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
+  "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-dritte-klasse-ein-junge-fragte-die-praktikantin-machst-du-auch-onlyfans.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-es-gibt-an-schulen-oft-probleme-mit-sexualisierter-sprache-und-sexualisierten-handlungen.html",
   "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
   "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
@@ -357,6 +374,8 @@
   "https://www.welt.de/vermischtes/article6b02a4a73cd434a4d6d0ca74/kfz-zulassung-88-hh-18-ss-diese-nazi-codes-sind-auf-kennzeichen-verboten.html",
   "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
   "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/vorwuerfe-gegen-ehemann-sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
+  "https://www.welt.de/vermischtes/article6b02d2585842ff528b9e3c16/fall-paolo-borsellino-nach-ermittlungen-zu-ermordung-von-anti-mafia-richter-italiens-ex-polizeichef-begeht-suizid.html",
+  "https://www.welt.de/wirtschaft/plus6af8546a389d31d8c8a803aa/medizintechnik-die-naechste-bastion-deutscher-ingenieurskunst-fuerchtet-den-china-schock.html",
   "https://www.welt.de/wirtschaft/plus6afc5b31cdc4b5009f0a8de2/mieten-was-deutschlands-ehrlichster-wohnatlas-ueber-ihre-region-verraet.html",
   "https://www.welt.de/wissenschaft/article6afeb159e9561dcc48a02c19/auto-gefahr-durch-rentner-was-eine-pflicht-zum-fuehrerschein-check-ab-65-wirklich-bringt.html",
   "https://www.welt.de/wissenschaft/article6b029e1c1ea1bb54bdcf45fc/antalya-nicht-zustimmungsfaehig-deutschland-verweigert-unterstuetzung-fuer-klima-beschlusstext.html",
