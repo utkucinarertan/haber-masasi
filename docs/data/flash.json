@@ -1,8 +1,17 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-22T04:27+01:00",
+ "updatedAt": "2026-11-22T04:57+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T04:31:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss",
+    "text": {
+     "tr": "Türkiye'deki Birleşmiş Milletler İklim Konferansı'nın yeni taslak metni yine fosil yakıtlardan kaçınıyor.",
+     "de": "Der neue Beschlusstext der UN-Klimakonferenz in der Türkei verzichtet erneut auf ein klares Nein zu fossilen Energien."
+    }
+   },
    {
     "time": "2026-11-22T02:40:00+03:00",
     "source": "Evrensel",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Kanadalı araştırmacılar, beyin aktivitesini taklit eden yapay zeka modellerinin görsel görevleri insan beyninden farklı iç stratejilerle çözdüğünü belirledi.",
      "de": "Kanadische Forscher fanden heraus, dass KI-Modelle, die Gehirnaktivitäten nachahmen, visuelle Aufgaben mit anderen internen Strategien als das menschliche Gehirn lösen."
-    }
-   },
-   {
-    "time": "2026-11-22T01:24:31+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b02422a39a3e8110f0e5e9f/us-praesident-trotz-scharfer-kritik-aus-den-eigenen-reihen-trump-nennt-putin-erneut-freund.html",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, eleştirilere rağmen Rusya Devlet Başkanı Vladimir Putin'i dostu olarak nitelendirmeye devam ediyor.",
-     "de": "Trotz scharfer Kritik aus den USA bezeichnet US-Präsident Donald Trump den Kremlchef Wladimir Putin erneut als Freund."
     }
    }
   ],
@@ -98,6 +98,15 @@
   ],
   "de": [
    {
+    "time": "2026-11-22T04:50:01+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+    "text": {
+     "tr": "IG Metall, kuzeydeki metal ve elektrik endüstrisinde uyarı grevlerini 24 saatliğine genişletiyor.",
+     "de": "Die IG Metall weitet die Warnstreiks in der norddeutschen Metall- und Elektroindustrie für 24 Stunden aus."
+    }
+   },
+   {
     "time": "2026-11-22T02:02:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/ausland/usa-donald-trump-hofft-auf-erkenntnisse-nach-hackerangriff-auf-fbi-a-d16451cc-3f81-4768-89e4-6f1b57438b3d#ref=rss",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Alman ordusu, Rusya'yı provoke etmemek amacıyla Litvanya'daki büyük bir tatbikat için askeri birlik sevkıyatını karayolu konvoyu yerine trenle gerçekleştirdi.",
      "de": "Die Bundeswehr verlegte Truppen für ein Großmanöver nach Litauen per Bahn statt per Konvoi, um Russland nicht zu provozieren."
-    }
-   },
-   {
-    "time": "2026-11-21T22:01:12+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/fussball/2-bundesliga/article6b020f0139a3e8110f0e5da4/2-liga-fc-st-pauli-gleich-zweimal-hellwach-vfl-bochum-verliert-am-millerntor.html",
-    "text": {
-     "tr": "FC St. Pauli, Millerntor'da VfL Bochum'u mağlup etti.",
-     "de": "Der FC St. Pauli besiegte den VfL Bochum am Millerntor."
     }
    }
   ]
@@ -576,6 +576,7 @@
   "https://www.spiegel.de/wirtschaft/thore-schoelermann-ueber-den-wechsel-vom-moderator-zum-mcdonalds-unternehmer-a-db3f070f-19e6-4d63-97b9-02ac76a21c37#ref=rss",
   "https://www.spiegel.de/wirtschaft/vw-mercedes-bmw-wie-chinas-e-autos-von-der-absatzkrise-in-deutschland-profitieren-spiegel-tv-a-ca7dfa0a-7514-49eb-a828-d7ef69e180e8#ref=rss",
   "https://www.spiegel.de/wissenschaft/mensch/mundgeruch-die-ursache-fuer-schlechten-atem-wird-oft-jahrelang-uebersehen-a-86c42235-e3b8-4693-a49e-4b2b3824cd36#ref=rss",
+  "https://www.spiegel.de/wissenschaft/un-klimakonferenz-verzichtet-im-neuen-beschlusstext-erneut-auf-fossile-energien-a-0f6ba7a3-ddc5-41ba-b813-a3add034efbb#ref=rss",
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-in-antalya-frust-und-verhaertete-fronten-beim-verhandlungsfinale-a-1beb060c-afd7-45c3-8da2-6663214f4dd7#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/wassermangel-suedafrika-100.html",
   "https://www.tagesschau.de/ausland/amerika/mexiko-drogenkartell-chef-festnahme-100.html",
@@ -595,6 +596,7 @@
   "https://www.tagesschau.de/inland/gesellschaft/schweinezucht-deutschland-exporte-100.html",
   "https://www.tagesschau.de/inland/spritpreis-autobahntankstellen-ausnahme-100.html",
   "https://www.tagesschau.de/kultur/50-jahre-rocky-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/klaus-michael-kuehne-unternehmer-vergangenheit-schindellegi-schweiz-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/milliardengewinn-gta-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/altersvorsorgedepot-staatlicher-fonds-nicht-startklar-100.html",
