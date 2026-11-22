@@ -1,6 +1,6 @@
 {
  "since": "2026-11-21T05:15+01:00",
- "updatedAt": "2026-11-22T00:57+01:00",
+ "updatedAt": "2026-11-22T01:27+01:00",
  "countries": {
   "world": [
    {
@@ -98,6 +98,33 @@
   ],
   "de": [
    {
+    "time": "2026-11-22T00:13:24+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b02320639a3e8110f0e5e80/antisemitismusbeauftragte-afd-ideologie-besonders-gefaehrlich-schnurbein-warnt-vor-regierungsbeteiligung-der-afd.html",
+    "text": {
+     "tr": "Almanya Antisemitizm Sorumlusu Katharina von Schnurbein, aşırı sağcı AfD'nin iktidara ortak olmasının hafıza kültürünü değiştireceği konusunda uyardı.",
+     "de": "Die Antisemitismusbeauftragte der Bundesregierung Katharina von Schnurbein warnt, eine Regierungsbeteiligung der AfD würde die Erinnerungskultur verändern."
+    }
+   },
+   {
+    "time": "2026-11-21T23:57:52+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b022d9139a3e8110f0e5e68/generalinspekteur-das-ist-nicht-meine-bundeswehr-freuding-will-bei-sexuellem-fehlverhalten-hart-durchgreifen.html",
+    "text": {
+     "tr": "Geleceğin Genelkurmay Başkanı Christian Freuding, Alman silahlı kuvvetlerindeki cinsel taciz vakalarına karşı kararlı bir şekilde mücadele edeceğini duyurdu.",
+     "de": "Der künftige Generalinspekteur Christian Freuding kündigte ein hartes Vorgehen gegen sexuelle Übergriffe in der Bundeswehr an."
+    }
+   },
+   {
+    "time": "2026-11-21T23:34:09+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b0228355842ff528b9e34bc/geplante-grossuebung-russland-nicht-provozieren-bundeswehr-aendert-kraefte-verlegung-nach-litauen.html",
+    "text": {
+     "tr": "Alman ordusu, Rusya'yı provoke etmemek amacıyla Litvanya'daki büyük bir tatbikat için askeri birlik sevkıyatını karayolu konvoyu yerine trenle gerçekleştirdi.",
+     "de": "Die Bundeswehr verlegte Truppen für ein Großmanöver nach Litauen per Bahn statt per Konvoi, um Russland nicht zu provozieren."
+    }
+   },
+   {
     "time": "2026-11-21T22:01:12+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/sport/fussball/2-bundesliga/article6b020f0139a3e8110f0e5da4/2-liga-fc-st-pauli-gleich-zweimal-hellwach-vfl-bochum-verliert-am-millerntor.html",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Tenisçi Alexander Zverev, ATP Finalleri'nde kariyerinde üçüncü kez finale yükseldi.",
      "de": "Alexander Zverev hat zum dritten Mal in seiner Karriere das Finale der ATP Finals erreicht."
-    }
-   },
-   {
-    "time": "2026-11-21T21:13:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/karl-lauterbach-dass-ki-die-menschheit-ausloescht-halte-ich-fuer-unsinn-a-89b982ec-a41a-4dbc-9a4c-3834629fa058#ref=rss",
-    "text": {
-     "tr": "Eski Sağlık Bakanı Karl Lauterbach, ABD ve Çin'deki yapay zeka laboratuvarlarını ziyaret ettikten sonra Almanya'nın geride kalmaması gerektiğini belirtti.",
-     "de": "Ex-Gesundheitsminister Karl Lauterbach hat nach Besuchen von KI-Laboren in den USA und China gewarnt, dass Deutschland nicht den Anschluss verlieren darf."
-    }
-   },
-   {
-    "time": "2026-11-21T20:54:06+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/niederlande-protest-gegen-pfas-100.html",
-    "text": {
-     "tr": "Hollanda'da Chemours fabrikası çevresindeki PFAS kirliliği nedeniyle vatandaşlar kendi bahçelerinden meyve yememeleri konusunda uyarılırken protestolar düzenlendi.",
-     "de": "In den Niederlanden protestieren Bürger gegen eine starke PFAS-Verseuchung rund um die Chemours-Fabrik und wurden vor dem Verzehr von Gartenobst gewarnt."
-    }
-   },
-   {
-    "time": "2026-11-21T20:23:14+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
-    "text": {
-     "tr": "FDP politikacısı ve hukukçu Karoline Preisler, Berlin'deki Filistin yanlısı bir gösteride saldırıya uğrayarak darp edildi.",
-     "de": "Die FDP-Politikerin und Juristin Karoline Preisler ist bei einer israelfeindlichen Demonstration in Berlin angegriffen und getreten worden."
     }
    }
   ]
@@ -176,9 +176,11 @@
   "https://www.bbc.co.uk/news/articles/c6ly5w40eg07o",
   "https://www.bbc.co.uk/news/articles/c6wy0qj7w5zqo",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+  "https://www.bbc.co.uk/news/articles/ck4g174n020eo",
   "https://www.bbc.co.uk/news/articles/ckz749ey0r75o",
   "https://www.bbc.co.uk/news/articles/cm9w9p4geke8o",
   "https://www.bbc.co.uk/news/articles/cmde1lj4yjxno",
+  "https://www.bbc.co.uk/news/articles/cmq8lyv8lkjwo",
   "https://www.bbc.co.uk/news/articles/cvze7de86pk3o",
   "https://www.bbc.co.uk/news/articles/cwe9k23dpz0do",
   "https://www.bbc.co.uk/news/articles/cx8dv4327dnpo",
@@ -654,6 +656,7 @@
   "https://www.welt.de/politik/ausland/article6b01f39f5842ff528b9e333c/klinisch-stabil-akuter-darmverschluss-brasiliens-ex-praesident-bolsonaro-auf-intensivstation.html",
   "https://www.welt.de/politik/ausland/article6b0203ce5842ff528b9e33c5/grafschaft-suffolk-aus-protest-gegen-asylunterkunft-dorf-stimmt-fuer-unabhaengigkeit-von-grossbritannien.html",
   "https://www.welt.de/politik/ausland/article6b020ec639a3e8110f0e5d96/israel-eisenkot-laedt-netanjahus-likud-partei-doch-zu-koalitionsgespraechen-ein.html",
+  "https://www.welt.de/politik/ausland/article6b022ab65842ff528b9e34ce/chapo-isidro-schon-elf-tote-festnahme-von-drogen-boss-loest-in-mexiko-heftige-gewalt-aus.html",
   "https://www.welt.de/politik/ausland/plus6b0029175842ff528b9e17cb/praesidentenwahl-die-unglaublichste-und-unberechenbarste-wahl-von-allen-frankreich-schwankt-europa-zittert.html",
   "https://www.welt.de/politik/ausland/plus6b011cc55842ff528b9e27b2/kritik-an-ukraine-unterstuetzung-die-koordinierte-kampagne-der-usa-gegen-kiew.html",
   "https://www.welt.de/politik/deutschland/article6aff12b1c1e8003ef73c4a5b/kolumne-aufgeblaettert-auch-akademiker-verdienen-respekt-nicht-nur-arbeiter-und-bauern.html",
@@ -670,6 +673,9 @@
   "https://www.welt.de/politik/deutschland/article6b01c42a39a3e8110f0e58ee/linke-vorsitzende-so-eine-ego-show-brauchen-wir-nicht-schwerdtner-rechnet-mit-parteiausschluss-von-emde.html",
   "https://www.welt.de/politik/deutschland/article6b01e3e25842ff528b9e326a/nuernberg-halts-maul-rufe-im-rathaus-demonstranten-stoeren-beratungen-zu-spar-haushalt.html",
   "https://www.welt.de/politik/deutschland/article6b01f9745842ff528b9e336d/fdp-politikerin-karoline-preisler-bei-palaestina-demonstration-in-berlin-angegriffen.html",
+  "https://www.welt.de/politik/deutschland/article6b0228355842ff528b9e34bc/geplante-grossuebung-russland-nicht-provozieren-bundeswehr-aendert-kraefte-verlegung-nach-litauen.html",
+  "https://www.welt.de/politik/deutschland/article6b022d9139a3e8110f0e5e68/generalinspekteur-das-ist-nicht-meine-bundeswehr-freuding-will-bei-sexuellem-fehlverhalten-hart-durchgreifen.html",
+  "https://www.welt.de/politik/deutschland/article6b02320639a3e8110f0e5e80/antisemitismusbeauftragte-afd-ideologie-besonders-gefaehrlich-schnurbein-warnt-vor-regierungsbeteiligung-der-afd.html",
   "https://www.welt.de/politik/deutschland/plus6b0008f6be487c5437746ad6/polizei-in-berlin-die-brennpunkt-einheit-ueberprueft-einen-afrikaner-er-hat-220-eintraege-im-system.html",
   "https://www.welt.de/politik/plus6b001b91b237b5b41c9a2411/der-fall-hanning-und-die-angst-seiner-tochter.html",
   "https://www.welt.de/regionales/hamburg/article6b0196e339a3e8110f0e5576/gruenen-chefin-eine-grausame-politik-zulasten-der-naechsten-generation.html",
