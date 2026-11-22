@@ -1,8 +1,26 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T19:59+01:00",
+ "updatedAt": "2026-11-22T20:29+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T19:00:34+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
+    "text": {
+     "tr": "Yapılan bir analize göre, veri merkezi yöneticileri Avustralyalı eyalet başbakanları ve bakanlarla üç yılda yaklaşık 120 kez görüştü.",
+     "de": "Datacentre-Chefs haben sich Analysen zufolge in drei Jahren fast 120 Mal mit australischen Regierungschefs und Ministern getroffen."
+    }
+   },
+   {
+    "time": "2026-11-22T18:45:30+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
+    "text": {
+     "tr": "İngiltere'deki 31 hastane vakfı, tasarruf baskılarının hizmetleri ve personeli tehdit ettiği konusunda sert uyarılarda bulundu.",
+     "de": "Einsparvorgaben des NHS zwingen dutzende Krankenhäuser in England zu harten Einschnitten bei Diensten und Personal."
+    }
+   },
    {
     "time": "2026-11-22T18:29:46+00:00",
     "source": "BBC News World",
@@ -29,27 +47,18 @@
      "tr": "Antropic'in yapay zeka aracı Claude, bir matematikçinin 19. yüzyıldan kalma Riemann hipotezini çözmesine yardımcı oldu.",
      "de": "Das KI-Tool Claude von Anthropic half einem Mathematiker dabei, die berühmte Riemann-Vermutung zu lösen."
     }
-   },
-   {
-    "time": "2026-11-22T17:47:34+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261122-le-pen-denies-receiving-leaked-information-from-french-interior-ministry-official",
-    "text": {
-     "tr": "Fransız aşırı sağcı lider Marine Le Pen, içişleri bakanlığı yetkilisinden sızdırılmış gizli bilgi almadığını söyledi.",
-     "de": "Die französische Rechtspopulistin Marine Le Pen bestritt, vertrauliche Informationen vom Innenministerium erhalten zu haben."
-    }
-   },
-   {
-    "time": "2026-11-22T16:55:55+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
-    "text": {
-     "tr": "PSG, Nice'i 3-2 yenerek Ligue 1'deki galibiyet serisini sürdürdü ancak Désiré Doué sakatlandı.",
-     "de": "PSG besiegt Nizza mit 3-2 und baut Siegesserie aus, verliert aber Désiré Doué durch eine schwere Knieverletzung."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T21:43:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010708/antalya-daki-cop31-de-anlasma-saglanamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Antalya'da düzenlenen COP31 zirvesinde, fosil yakıtlardan uzaklaşma taahhüdünün metne eklenmemesi nedeniyle anlaşmaya varılamadı.",
+     "de": "Auf der COP31 in Antalya konnte kein Abkommen erzielt werden, da die Verpflichtung zum Ausstieg aus fossilen Brennstoffen fehlte."
+    }
+   },
    {
     "time": "2026-11-22T20:40:00+03:00",
     "source": "Evrensel",
@@ -85,61 +94,52 @@
      "tr": "Yeni Parti Grup Başkanvekili Murat Emir, İzleme Komisyonu'na üye vermeme kararlarını savundu.",
      "de": "Der Fraktionsvize der Yeni-Partei, Murat Emir, hat die Entscheidung verteidigt, keine Mitglieder in die Beobachtungskommission zu entsenden."
     }
-   },
-   {
-    "time": "2026-11-22T19:44:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/murat-kurum-dan-gana-ya-ozur-soz-kesmek-gibi-bir-niyetimiz-olamaz-2558400",
-    "text": {
-     "tr": "Bakan Murat Kurum, Antalya'daki iklim konferansında Gana temsilcisiyle yaşanan tartışma nedeniyle özür diledi.",
-     "de": "Minister Murat Kurum hat sich für den Vorfall mit der ghanaischen Vertreterin auf der Klimakonferenz in Antalya entschuldigt."
-    }
    }
   ],
   "de": [
    {
-    "time": "2026-11-22T18:50:38+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/fussball/bundesliga/justin-njinmah-schiesst-werder-bremen-zum-sieg-im-nordderby-gegen-den-hamburger-sv-201304429.html",
-    "text": {
-     "tr": "Justin Njinmah, Werder Bremen'in kuzey derbisinde Hamburg'u 4-0 yendiği maçta takımını galibiyete taşıdı.",
-     "de": "Justin Njinmah führte Werder Bremen mit starken Aktionen zu einem 4:0-Sieg im Nordderby gegen den HSV."
-    }
-   },
-   {
-    "time": "2026-11-22T18:36:50+01:00",
+    "time": "2026-11-22T20:24:22+01:00",
     "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
     "text": {
-     "tr": "Aile Bakanı Prien, Berlin'de Filistin yanlısı bir gösteri sırasında FDP'li siyasetçi Preisler'e düzenlenen saldırıyı kınadı.",
-     "de": "Bundesfamilienministerin Prien verurteilt den Angriff auf die FDP-Politikerin Preisler bei einer Demonstration in Berlin scharf."
+     "tr": "Techniker Krankenkassa yöneticisi Baas, randevu sorunlarının daha fazla parayla çözülemeyeceğini ve tamamen yeni bir sistem gerektiğini belirtti.",
+     "de": "TK-Chef Baas fordert ein grundlegendes neues System statt mehr Geld, um das Problem mit Arztterminen zu lösen."
     }
    },
    {
-    "time": "2026-11-22T18:14:04+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/rhein-main/frankfurt/grosseinsatz-am-flughafen-in-frankfurt-30-condor-passagiere-klagen-ueber-unwohlsein-201707372.html",
-    "text": {
-     "tr": "Karayipler'den Frankfurt'a gelen uçaktaki 30 yolcunun rahatsızlanması üzerine havalimanında acil durum ilan edildi.",
-     "de": "Nach Unwohlsein von 30 Passagieren eines Karibik-Fluges rückten Rettungskräfte am Frankfurter Flughafen zu einem Großeinsatz aus."
-    }
-   },
-   {
-    "time": "2026-11-22T17:59:29+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/wintersport/article6b0323dc39a3e8110f0e6e9a/neuer-bundestrainer-deutsche-skispringer-erleben-beim-weltcup-auftakt-ein-debakel.html",
-    "text": {
-     "tr": "Alman kayakla atlama takımı, Lillehammer'daki Dünya Kupası açılışında hayal kırıklığı yaratan bir başlangıç yaptı.",
-     "de": "Die deutschen Skispringer erlebten beim Weltcup-Auftakt in Lillehammer einen ernüchternden Start mit nur einem Finalisten."
-    }
-   },
-   {
-    "time": "2026-11-22T17:43:00+01:00",
+    "time": "2026-11-22T20:10:00+01:00",
     "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
+    "url": "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
     "text": {
-     "tr": "ESA ve JAXA'nın ortaklaşa gönderdiği BepiColombo uzay sondası Merkür'ün yörüngesine girdi.",
-     "de": "Die Doppelsonde BepiColombo von ESA und Jaxa ist erfolgreich in die Umlaufbahn des Planeten Merkur eingetreten."
+     "tr": "Müzisyen Billy Joel, 69 motosikletten oluşan koleksiyonunu hayır kurumları yararına iki milyon dolara açık artırmayla sattı.",
+     "de": "Musiker Billy Joel hat seine Motorradsammlung mit 69 Maschinen für zwei Millionen Dollar für den guten Zweck versteigert."
+    }
+   },
+   {
+    "time": "2026-11-22T20:00:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
+    "text": {
+     "tr": "Amerikalı havayolu şirketi Delta, yaşayan teknik arızalar nedeniyle yolcuların gecikmelerle karşılaşacağını açıkladı.",
+     "de": "Die US-Fluggesellschaft Delta ist erneut von einer technischen Störung betroffen, was zu Verspätungen für Passagiere führt."
+    }
+   },
+   {
+    "time": "2026-11-22T19:13:08+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/ausland/saudi-arabien-plant-langen-krieg-gegen-huthi-im-jemen-201704686.html",
+    "text": {
+     "tr": "Suudi Arabistan, Husilere karşı askeri baskıyı artırarak Yemen'de uzun süreli bir savaşa hazırlanıyor.",
+     "de": "Saudi-Arabien will den militärischen Druck auf die Huthi-Rebellen erhöhen und stellt sich auf einen langen Jemen-Krieg ein."
+    }
+   },
+   {
+    "time": "2026-11-22T19:11:16+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/ausland/proteste-gegen-schliessung-regierungskritischer-medien-in-istanbul-201707434.html",
+    "text": {
+     "tr": "İstanbul'da muhalif medyanın kapatılmasına karşı binlerce kişi protesto gösterisi düzenledi.",
+     "de": "Tausende Menschen haben in Istanbul gegen die Schließung regierungskritischer Medien und Einschränkungen der Pressefreiheit protestiert."
     }
    }
   ]
@@ -183,11 +183,13 @@
   "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
+  "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
   "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
   "https://www.bbc.co.uk/news/articles/cw3dgk29d37no",
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
+  "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
   "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
@@ -316,6 +318,7 @@
   "https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talanin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talyeni-partili-karasu-dan-hgs-tepkisianin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010707/aydin-ekmek-ve-gul-den-25-kasim-paneli-kadinlarin-mucadelesi-ve-dayanismasi-buyuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010708/antalya-daki-cop31-de-anlasma-saglanamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -340,13 +343,16 @@
   "https://www.faz.net/aktuell/karriere-hochschule/buero-co/pilotenausbildung-was-quereinsteiger-dirk-hager-erlebt-hat-201687467.html",
   "https://www.faz.net/aktuell/politik/ausland/11-tote-bei-festnahme-von-drogenboss-fausto-isidro-meza-in-mexiko-accg-201706370.html",
   "https://www.faz.net/aktuell/politik/ausland/macron-plant-schuldenbremse-in-der-verfassung-mit-bardella-accg-201705914.html",
+  "https://www.faz.net/aktuell/politik/ausland/proteste-gegen-schliessung-regierungskritischer-medien-in-istanbul-201707434.html",
   "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
+  "https://www.faz.net/aktuell/politik/ausland/saudi-arabien-plant-langen-krieg-gegen-huthi-im-jemen-201704686.html",
   "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
   "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
   "https://www.faz.net/aktuell/politik/inland/genz-proteste-und-landespolitik-in-baden-wuerttemberg-201705243.html",
   "https://www.faz.net/aktuell/politik/inland/hubig-will-keinen-straftatbestand-fuer-femizid-schaffen-201706016.html",
   "https://www.faz.net/aktuell/politik/inland/in-nrw-setzt-die-afd-auf-rechtsstaatliche-remigration-201705943.html",
+  "https://www.faz.net/aktuell/politik/inland/joschka-fischer-und-die-frankfurter-spontis-als-die-revolution-scheiterte-200942860.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-kritik-an-plaenen-fuer-spritpreisdeckel-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
@@ -454,9 +460,11 @@
   "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
   "https://www.spiegel.de/panorama/benzin-und-diesel-gibt-es-mehr-kraftstoffklau-seit-die-preise-so-hoch-sind-a-aa94de4d-ae4f-4f50-bb1c-d31077954642#ref=rss",
   "https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss",
+  "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
   "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
   "https://www.spiegel.de/panorama/justiz/landkreis-vechta-ein-hund-soll-seinen-bruder-getoetet-haben-trotzdem-will-er-ihn-unbedingt-zurueck-a-a1ac8e77-d3d5-4f17-a627-9ee9cd1eb966#ref=rss",
+  "https://www.spiegel.de/panorama/leute/billy-joel-versteigert-motorradsammlung-fuer-zwei-millionen-dollar-a-2494a781-6b22-4e11-b34f-451b41a4c23b#ref=rss",
   "https://www.spiegel.de/panorama/leute/miley-cyrus-und-maxx-morando-haben-geheiratet-auf-frank-sinatras-ehemaligem-anwesen-in-palm-springs-a-8cada71b-5c5e-4e6c-937f-56d28dab0216#ref=rss",
   "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ausgleich-der-kalten-progression-droht-schon-der-naechste-koalitionsstreit-a-68edb092-41fd-4ae8-9494-01ebc13ee219#ref=rss",
@@ -467,12 +475,14 @@
   "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
   "https://www.spiegel.de/politik/deutschland/nrw-innenminister-herbert-reul-gibt-update-ueber-gesundheitszustand-a-1508172b-e030-493e-8b8a-03706f84c6bd#ref=rss",
   "https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss",
+  "https://www.spiegel.de/psychologie/umgang-mit-trauer-wenn-der-friedhof-zum-ort-fuer-freundinnen-und-feiern-wird-a-c029ae9a-d194-4f77-91c4-281b5bbfb8f3#ref=rss",
   "https://www.spiegel.de/sport/alex-kukla-deutscher-lief-sieben-marathons-in-sieben-tagen-auf-sieben-kontinenten-a-dffc40a5-95f3-4b86-8680-90fafdae74bc#ref=rss",
   "https://www.spiegel.de/sport/boxen/regina-halmich-ueber-anfeindungen-hass-im-netz-und-feminismus-wurde-behandelt-wie-ein-unfall-a-e005db66-2ce4-4e13-9298-b862b4a54590#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-verstappen-gewinnt-das-rennen-des-jahres-pressestimmen-a-91d46e06-efa3-4fa6-886c-8216bb752109#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
   "https://www.spiegel.de/sport/fussball/argentinien-boca-juniors-kapitaen-leandro-paredes-bricht-nach-pokalsieg-vor-kamera-zusammen-a-256ccf42-1d67-4bef-a4c0-3bf6bca21dae#ref=rss",
   "https://www.spiegel.de/sport/fussball/bundesliga-werder-bremen-ueberrollt-hsv-und-wird-zur-ueberraschung-der-saison-a-1d8dcdf8-3ee2-4a58-a22a-895efe064dd9#ref=rss",
+  "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss",
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
@@ -498,6 +508,7 @@
   "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
   "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/bericht-aus-berlin-arzttermine-baas-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
   "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
@@ -506,6 +517,7 @@
   "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+  "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
   "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
   "https://www.theguardian.com/business/2026/nov/22/uk-eu-food-sps-deal-brexit-checks",
   "https://www.theguardian.com/business/2026/nov/22/uk-taxpayer-funds-held-in-offshore-tax-havens-top-1tn-latest-hmrc-data-shows",
@@ -524,6 +536,7 @@
   "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
   "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
   "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
+  "https://www.theguardian.com/society/2026/nov/22/nhs-savings-hospitals-trusts-england-cuts",
   "https://www.theguardian.com/society/2026/nov/22/pip-review-overhaul-rather-than-scrapping-benefit-under-25s-timms",
   "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
   "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
@@ -573,6 +586,7 @@
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-dritte-klasse-ein-junge-fragte-die-praktikantin-machst-du-auch-onlyfans.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-es-gibt-an-schulen-oft-probleme-mit-sexualisierter-sprache-und-sexualisierten-handlungen.html",
   "https://www.welt.de/politik/deutschland/plus6b000c73b237b5b41c9a2158/ueberraschender-parteitag-stiller-machtgewinn-der-radikalen-in-der-zerruetteten-nrw-afd.html",
+  "https://www.welt.de/politik/deutschland/plus6b000c73b237b5b41c9a2158/ueberraschender-parteitag-warum-die-verfeindeten-lager-in-der-nrw-afd-jetzt-waffenstillstand-auf-zeit-schliessen.html",
   "https://www.welt.de/politik/deutschland/plus6b004ded39a3e8110f0e4208/neues-unterhaltsrechtsrecht-dann-habe-ich-gar-nichts-mehr-in-der-hand-fuerchtet-die-alleinerziehende.html",
   "https://www.welt.de/politik/plus6b00247ab237b5b41c9a2566/gutachten-warnt-vor-lebensgefahr-fuer-ex-bnd-chef-hanning.html",
   "https://www.welt.de/sport/formel1/article6b02929739a3e8110f0e609e/chaotischstes-rennen-der-geschichte-30-fuehrungswechsel-verstappen-triumphiert-beim-ueberhol-festival-in-las-vegas.html",
