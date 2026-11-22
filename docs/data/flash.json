@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T17:15+01:00",
+ "updatedAt": "2026-11-22T17:45+01:00",
  "countries": {
   "world": [
    {
@@ -51,12 +51,39 @@
   ],
   "tr": [
    {
+    "time": "2026-11-22T19:24:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/agiralioglu-ndan-net-aciklama-secimde-ittifak-yapacaklar-mi-cumhur-ittifaki-yla-beraber-2558397",
+    "text": {
+     "tr": "Anahtar Parti Genel Başkanı Yavuz Ağıralioğlu, seçimlere hiçbir ittifaka dahil olmadan gireceklerini açıkladı.",
+     "de": "Der Vorsitzende der Anahtar-Partei, Yavuz Ağıralioğlu, erklärte, dass sie ohne Bündnisse in die Wahlen gehen werden."
+    }
+   },
+   {
+    "time": "2026-11-22T19:13:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010700/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-ve-cikarma-calismalari-yeniden-baslatilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Silivri açıklarında batan Tuğberk İmamoğlu gemisinde kaybolan 8 denizcinin aileleri arama çalışmalarının yeniden başlatılmasını istedi.",
+     "de": "Die Familien von acht vermissten Seeleuten des vor Silivri gesunkenen Schiffes forderten die Wiederaufnahme der Suche."
+    }
+   },
+   {
     "time": "2026-11-22T19:03:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
      "tr": "Çanakkale'de beklenen olumsuz hava koşulları nedeniyle Gökçeada ve Bozcaada'ya yapılacak bazı feribot seferleri iptal edildi.",
      "de": "Wegen eines Sturms wurden geplante Fährverbindungen zu den türkischen Inseln Gökçeada und Bozcaada abgesagt."
+    }
+   },
+   {
+    "time": "2026-11-22T18:28:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/milli-parkta-2-bozayi-vuruldu-sorusturma-baslatildi-2558388",
+    "text": {
+     "tr": "Ankara'daki Soğuksu Milli Parkı'nda iki bozayının vurulmasıyla ilgili idari soruşturma başlatıldı.",
+     "de": "Nach dem Abschuss von zwei Braunbären im Soğuksu-Nationalpark in Ankara wurde ein Verfahren eingeleitet."
     }
    },
    {
@@ -67,36 +94,27 @@
      "tr": "Adalet Bakanı Gürlek, fon soruşturmasında gönüllü iade kapsamında 85 kişiden toplam 44,58 milyar TL tahsil edildiğini açıkladı.",
      "de": "Justizminister Gürlek gab bekannt, dass im Rahmen von Fondsermittlungen von 85 Personen insgesamt 44,58 Milliarden Lira eingezogen wurden."
     }
-   },
-   {
-    "time": "2026-11-22T17:26:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010695/bingol-solhan-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Bingöl'ün Solhan ilçesinde etkili olan şiddetli yağış nedeniyle ev ve iş yerlerinin zemin katlarını su bastı.",
-     "de": "Starke Regenfälle haben in Solhan in der Provinz Bingöl Kellergeschosse von Häusern und Geschäften überschwemmt."
-    }
-   },
-   {
-    "time": "2026-11-22T16:45:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010692/bakan-gurlek-duyurdu-hgs-icra-takiplerine-sorusturma-baslatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Adalet Bakanı Akın Gürlek, HGS icra takiplerinde hileli yöntemlerle haksız kazanç sağlandığı iddiaları üzerine soruşturma başlatıldığını açıkladı.",
-     "de": "Der türkische Justizminister Akın Gürlek kündigte Ermittlungen wegen angeblich betrügerischer Methoden bei Vollstreckungsverfahren für das Mautsystem HGS an."
-    }
-   },
-   {
-    "time": "2026-11-22T16:28:24+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/22/bepicolombo-sekiz-yillik-yolculugun-ardindan-merkur-yorungesine-girdi",
-    "text": {
-     "tr": "BepiColombo uzay aracı, sekiz yıllık yolculuğun ardından Merkür yörüngesine girdi.",
-     "de": "Die Raumsonde BepiColombo ist nach einer achtjährigen Reise in die Umlaufbahn des Merkur eingetreten."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T17:36:18+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
+    "text": {
+     "tr": "Kuzey Ren-Vestfalya AfD teşkilatı, 2027 Eyalet Meclisi seçimleri için seçim programını kabul etti.",
+     "de": "Der NRW-Landesverband der AfD hat das Wahlprogramm für die Landtagswahl 2027 verabschiedet."
+    }
+   },
+   {
+    "time": "2026-11-22T16:37:29+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/noah-atubolu-frankfurts-elfmeter-phaenomen-stellt-bundesliga-rekord-auf-201706253.html",
+    "text": {
+     "tr": "Frankfurt kalecisi Noah Atubolu, Hoffenheim maçında yedinci penaltıyı kurtararak Bundesliga rekoru kırdı.",
+     "de": "Frankfurts Torwart Noah Atubolu parierte gegen Hoffenheim den siebten Elfmeter und stellte einen Bundesliga-Rekord auf."
+    }
+   },
    {
     "time": "2026-11-22T16:11:25+00:00",
     "source": "Die Welt",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Sağlık Bakanı Karl Lauterbach, ABD'deki yapay zeka uzmanlarının Almanya'ya kayıtsız ve acıyarak baktığını söyledi.",
      "de": "Karl Lauterbach berichtet nach US-Gesprächen, führende KI-Entwickler blickten desinteressiert oder mitleidig auf Deutschland."
-    }
-   },
-   {
-    "time": "2026-11-22T15:36:05+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/kommunen-fordern-30-milliarden-euro-soforthilfe-vom-bund-accg-201706110.html",
-    "text": {
-     "tr": "Almanya'da belediyeler ve şehirler, en derin finansal kriz nedeniyle federal hükümetten 30 milyar euro acil yardım talep etti.",
-     "de": "Kommunen und Städte fordern in ihrer tiefsten Finanzkrise 30 Milliarden Euro Soforthilfe vom Bund."
-    }
-   },
-   {
-    "time": "2026-11-22T14:55:44+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/raeuber-mit-machete-ueberfaellt-tankstelle-in-limburg-polizei-bittet-um-hinweise-accg-201706996.html",
-    "text": {
-     "tr": "Almanya'nın Limburg yakınlarındaki Elbtal'de maskeli bir kişi, palayla bir benzin istasyonunu soydu.",
-     "de": "Ein maskierter Räuber hat in Elbtal bei Limburg eine Tankstelle mit einer Machete überfallen."
     }
    }
   ]
@@ -202,6 +202,18 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/okan-bayulgen-cumhuriyet-pazar-da-sanatci-politikayi-kendi-eseriyle-yapar-2558090",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
+  "https://www.cumhuriyet.com.tr/siyaset/agiralioglu-ndan-net-aciklama-secimde-ittifak-yapacaklar-mi-cumhur-ittifaki-yla-beraber-2558397",
+  "https://www.cumhuriyet.com.tr/siyaset/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-son-verileri-acikladi-kac-kisinin-mal-varliklarina-el-konuldu-ne-kadar-gonullu-iade-yapildi-2558386",
+  "https://www.cumhuriyet.com.tr/siyaset/imrali-heyeti-ocalan-ile-gorustu-aciklama-icin-tarih-verdiler-2558395",
+  "https://www.cumhuriyet.com.tr/spor/barcelona-pes-etmedi-kendi-evinde-2-0-dan-geri-dondu-2558390",
+  "https://www.cumhuriyet.com.tr/spor/hull-city-uzatmalarda-guldu-8-maclik-kotu-seriye-son-verdi-2558396",
+  "https://www.cumhuriyet.com.tr/spor/kasimpasa-uc-puani-90-1-de-kapti-2558389",
+  "https://www.cumhuriyet.com.tr/spor/serdal-adali-dan-mhk-ye-tepki-isi-bulandirmaya-calismasinlar-2558392",
+  "https://www.cumhuriyet.com.tr/turkiye/26-ayri-aranma-kaydi-bulunan-firari-kayseri-de-yakalandi-2558387",
+  "https://www.cumhuriyet.com.tr/turkiye/babasini-bogazindan-yaralamisti-17-yasindaki-cocuk-tutuklandi-2558394",
+  "https://www.cumhuriyet.com.tr/turkiye/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-calismalari-yeniden-baslatilmali-2558393",
+  "https://www.cumhuriyet.com.tr/turkiye/feribot-seferlerine-olumsuz-hava-sartlari-engeli-bazi-seferler-iptal-edildi-2558391",
+  "https://www.cumhuriyet.com.tr/turkiye/milli-parkta-2-bozayi-vuruldu-sorusturma-baslatildi-2558388",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
   "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
@@ -283,6 +295,7 @@
   "https://www.evrensel.net/haber/6010697/bakan-gurlek-ten-fon-aciklamasi-85-kisiden-toplam-4458-milyar-tl-tahsil-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010698/zeytin-agaclarindan-evrensel-e-uzanan-dayanisma?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010699/gokceada-ve-bozcaada-feribot-seferlerine-firtina-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010700/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-ve-cikarma-calismalari-yeniden-baslatilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -309,6 +322,7 @@
   "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
   "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
+  "https://www.faz.net/aktuell/politik/inland/hubig-will-keinen-straftatbestand-fuer-femizid-schaffen-201706016.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
   "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
@@ -334,9 +348,11 @@
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/warum-silberreiher-den-deutschen-winter-lieben-accg-201704744.html",
   "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+  "https://www.faz.net/aktuell/rhein-main/wirtschaft/ameropa-wird-75-wie-der-bahnreiseveranstalter-neu-durchstarten-will-201665091.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
   "https://www.faz.net/aktuell/sport/formel-1/max-verstappen-siegt-in-las-vegas-75-karrieresieg-im-chaos-rennen-accg-201705885.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-bundesliga-hertha-bsc-siegt-in-cottbus-und-traeumt-vom-weihnachtsmeister-titel-accg-201304611.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/augsburg-gewinnt-hitziges-krisen-duell-gegen-mainz-201304423.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/borussia-dortmunds-neuer-trumpf-im-titelkampf-accg-201706749.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/gta-6-und-der-fussball-muessen-klubs-ihre-spieler-schuetzen-201701012.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovi-beim-hsv-ist-er-nach-vier-jahren-doping-sperre-noch-gut-genug-accg-201651345.html",
@@ -347,6 +363,7 @@
   "https://www.faz.net/aktuell/sport/fussball/lionel-messi-droht-mit-inter-miami-das-fruehe-playoff-aus-in-der-mls-accg-201705854.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/wilhelm-hirsch-wird-langdistanz-weltmeister-im-triathlon-accg-201706445.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/darmstadt-98-die-rueckkehr-des-fussballs-ans-boellenfalltor-accg-201706324.html",
+  "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/noah-atubolu-frankfurts-elfmeter-phaenomen-stellt-bundesliga-rekord-auf-201706253.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-zarte-hoffnung-bei-der-mannschaft-von-urs-fischer-accg-201702107.html",
   "https://www.faz.net/aktuell/sport/wintersport/warum-linus-strasser-seine-komfortzone-verlassen-hat-accg-201704908.html",
   "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/porsche-macan-gts-im-test-stark-teuer-aber-ohne-v6-accg-201655974.html",
@@ -397,12 +414,14 @@
   "https://www.spiegel.de/kultur/tv/doku-operation-cobalt-ueber-frankfurter-kunstraub-die-rueckkehr-der-geraubten-bilder-a-56fcd51b-e901-4ed2-b2a2-48480c5dc3f5#ref=rss",
   "https://www.spiegel.de/kultur/tv/prinzessin-kate-teilt-ihre-krebs-erfahrungen-im-fernsehen-a-9741e0b6-28bf-4188-923f-87e5d0887e2d#ref=rss",
   "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
+  "https://www.spiegel.de/panorama/benzin-und-diesel-gibt-es-mehr-kraftstoffklau-seit-die-preise-so-hoch-sind-a-aa94de4d-ae4f-4f50-bb1c-d31077954642#ref=rss",
   "https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
   "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
   "https://www.spiegel.de/panorama/justiz/landkreis-vechta-ein-hund-soll-seinen-bruder-getoetet-haben-trotzdem-will-er-ihn-unbedingt-zurueck-a-a1ac8e77-d3d5-4f17-a627-9ee9cd1eb966#ref=rss",
   "https://www.spiegel.de/panorama/leute/miley-cyrus-und-maxx-morando-haben-geheiratet-auf-frank-sinatras-ehemaligem-anwesen-in-palm-springs-a-8cada71b-5c5e-4e6c-937f-56d28dab0216#ref=rss",
   "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/ausgleich-der-kalten-progression-droht-schon-der-naechste-koalitionsstreit-a-68edb092-41fd-4ae8-9494-01ebc13ee219#ref=rss",
   "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
   "https://www.spiegel.de/politik/deutschland/buerokratie-in-deutschland-warum-viele-regeln-unverzichtbar-bleiben-meinung-a-629821a3-ef85-4bed-8d72-1fabc074250d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
@@ -428,12 +447,14 @@
   "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
+  "https://www.tagesschau.de/ausland/europa/tuerkei-proteste-pressefreiheit-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
   "https://www.tagesschau.de/ausland/weltklimakonferenz-cop-droht-zu-scheitern-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
   "https://www.tagesschau.de/inland/gesellschaft/armut-kinder-familien-100.html",
   "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+  "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
   "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
@@ -454,6 +475,7 @@
   "https://www.theguardian.com/politics/2026/nov/22/intimidating-vigilantes-posing-as-far-right-security-on-the-rise-uk-experts-say",
   "https://www.theguardian.com/politics/2026/nov/22/labour-mp-leadership-course-rightwing-populism-gary-lubner",
   "https://www.theguardian.com/politics/2026/nov/22/theresa-may-aghast-andy-burnham-talk-about-rejoining-eu",
+  "https://www.theguardian.com/politics/2026/nov/22/theresa-may-blast-from-the-past-tories-brexit",
   "https://www.theguardian.com/politics/live/2026/nov/22/andy-burnham-brexit-theresa-may-michael-gove-latest-news-updates",
   "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
   "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
@@ -482,6 +504,7 @@
   "https://www.welt.de/kultur/plus6afda78aa0547afb26e78a38/holz-und-maennlichkeit-warum-es-nach-700-000-jahren-immer-noch-die-vaeter-sind-die-ein-holzfeuer-anzuenden.html",
   "https://www.welt.de/politik/ausland/article6ad5e52d51e5094f7a57183d/kartografie-groenland-groesser-als-afrika-warum-ihre-weltkarte-luegt-und-wie-die-erde-wirklich-aussieht.html",
   "https://www.welt.de/politik/ausland/article6ae45338aacefa08f5b9905d/klitschko-foundation-wir-haben-keine-andere-wahl-wie-der-krieg-die-ukrainische-jugend-praegt.html",
+  "https://www.welt.de/politik/ausland/article6afdba464d1895cf2a8efe70/irak-jetzt-wo-die-amerikaner-weg-sind-wird-der-is-wieder-staerker.html",
   "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
   "https://www.welt.de/politik/ausland/plus6af6d4e55a72dceba1d6121d/inside-iran-unser-schweigen-ist-keine-zustimmung-im-iran-stellt-sich-jetzt-eine-entscheidende-frage.html",
   "https://www.welt.de/politik/ausland/plus6b02ceb825b618a0b5d5bba2/ex-oberbefehlshaber-der-ukraine-das-ist-eine-heikle-angelegenheit-sagt-der-general-als-die-usa-zur-sprache-kommen.html",
@@ -503,6 +526,7 @@
   "https://www.welt.de/sport/formel1/article6b0294dc5842ff528b9e3738/leclerc-rammt-hamilton-teamzoff-bei-ferrari-eskaliert-ich-moechte-dich-nach-dem-rennen-direkt-sehen-funkt-der-team-chef.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02b41939a3e8110f0e630e/musiala-kane-fc-bayern-vor-der-schwersten-zerreissprobe-seit-ewigen-zeiten.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02d91e3cd434a4d6d0cebb/jamal-musiala-schaebig-katastrophal-mobbing-kritik-am-fc-bayern-wird-immer-massiver.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b02f86025b618a0b5d5bf62/bundesliga-ticker-nordderby-werder-bremen-hsv-live.html",
   "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b02fcc539a3e8110f0e6b85/bvb-boss-ueber-felix-nmecha-lass-es-uns-einfach-vergessen-mitglieder-reagieren-mit-buh-rufen.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b02ebdb3cd434a4d6d0d033/fc-bayern-erneuter-rueckfall-bei-musiala-seine-agentur-meldet-sich-mit-hinweis.html",
   "https://www.welt.de/sport/fussball/bundesliga/hamburger-sv/article6b01a0a35842ff528b9e2ec7/mario-vuskovic-ist-zurueck-ein-freispruch-haette-das-gesamte-test-system-ins-wanken-gebracht.html",
