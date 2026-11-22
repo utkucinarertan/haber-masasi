@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T20:59+01:00",
+ "updatedAt": "2026-11-22T21:42+01:00",
  "countries": {
   "world": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-22T23:17:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010712/sariyer-de-aslan-gordum-ihbari-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler bölgede çalışma başlatırken, jandarma vatandaşları uyardı.",
+     "de": "Nach einer Meldung über eine Sichtung eines Löwen in Sarıyer haben die Einsatzkräfte mit Sucharbeiten begonnen und die Anwohner gewarnt."
+    }
+   },
+   {
     "time": "2026-11-22T21:43:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010708/antalya-daki-cop31-de-anlasma-saglanamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -85,18 +94,18 @@
      "tr": "Galatasaray MCT Technic, Basketbol Süper Ligi maçında Aliağa Petkim Spor'u 81-64 yendi.",
      "de": "Galatasaray MCT Technic hat Aliağa Petkim Spor in der Basketball-Superliga mit 81:64 geschlagen."
     }
-   },
-   {
-    "time": "2026-11-22T20:09:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emir-komisyon-kararina-aciklik-getirdi-mudahaleleri-siraladi-bizim-tutumumuz-ilk-gunden-beri-savundugumuz-2558403",
-    "text": {
-     "tr": "Yeni Parti Grup Başkanvekili Murat Emir, İzleme Komisyonu'na üye vermeme kararlarını savundu.",
-     "de": "Der Fraktionsvize der Yeni-Partei, Murat Emir, hat die Entscheidung verteidigt, keine Mitglieder in die Beobachtungskommission zu entsenden."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T20:58:18+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+    "text": {
+     "tr": "Borussia Dortmund'un genel müdürü Cramer, futbolcu Nmecha'nın tartışmalı gol sevinci hakkında kulüp üyelerinin toplantısında protesto edildi.",
+     "de": "BVB-Geschäftsführer Cramer wurde bei der Mitgliederversammlung wegen des Falls um den umstrittenen Torjubel von Fußballer Nmecha mit Buhrufen empfangen."
+    }
+   },
    {
     "time": "2026-11-22T20:53:03+01:00",
     "source": "tagesschau",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Müzisyen Billy Joel, 69 motosikletten oluşan koleksiyonunu hayır kurumları yararına iki milyon dolara açık artırmayla sattı.",
      "de": "Musiker Billy Joel hat seine Motorradsammlung mit 69 Maschinen für zwei Millionen Dollar für den guten Zweck versteigert."
-    }
-   },
-   {
-    "time": "2026-11-22T20:00:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
-    "text": {
-     "tr": "Amerikalı havayolu şirketi Delta, yaşayan teknik arızalar nedeniyle yolcuların gecikmelerle karşılaşacağını açıkladı.",
-     "de": "Die US-Fluggesellschaft Delta ist erneut von einer technischen Störung betroffen, was zu Verspätungen für Passagiere führt."
     }
    }
   ]
@@ -181,6 +181,7 @@
   "https://tr.euronews.com/video/2026/11/22/japonyada-saitama-maskot-festivali-hayranlar-favori-karakterleriyle-bulustu",
   "https://tr.euronews.com/video/2026/11/22/portekizde-isciler-yagmur-altinda-butce-oncesi-daha-uygun-yasam-kosullari-icin-yurudu",
   "https://tr.euronews.com/video/2026/11/22/ukraynada-rus-saldirisi-kiev-yakininda-enkaz-altinda-en-fazla-yedi-kisi-araniyor",
+  "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
   "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
@@ -320,6 +321,8 @@
   "https://www.evrensel.net/haber/6010706/yeni-partili-karasu-dan-hgs-tepkisi-bu-talyeni-partili-karasu-dan-hgs-tepkisianin-siyasi-sorumlusu-iktidardir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010707/aydin-ekmek-ve-gul-den-25-kasim-paneli-kadinlarin-mucadelesi-ve-dayanismasi-buyuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010708/antalya-daki-cop31-de-anlasma-saglanamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010711/yeni-parti-li-murat-emir-izleme-komisyonu-karari-baris-irademizde-bir-degisiklik-anlamina-gelmez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010712/sariyer-de-aslan-gordum-ihbari-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -435,6 +438,7 @@
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
   "https://www.faz.net/video/trotz-starkregen-europa-protestiert-201706484.html",
   "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
+  "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
   "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
   "https://www.france24.com/en/english-village-votes-to-leave-uk",
   "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
@@ -525,6 +529,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
   "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/afd-nrw-wahlprogramm-100.html",
   "https://www.tagesschau.de/kommentar/weltklimakonferenz-cop31-scheitern-100.html",
+  "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/boerse-investment-einzelaktien-etf-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
