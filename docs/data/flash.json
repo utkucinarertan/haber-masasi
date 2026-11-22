@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T15:15+01:00",
+ "updatedAt": "2026-11-22T15:45+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T14:18:55+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
+    "text": {
+     "tr": "Antropik matematikçisi Levent Alpöge, 17 milyon satırlık kodla Riemann hipotezinin kanıtını yayımladı.",
+     "de": "Der Mathematiker Levent Alpöge von Anthropic hat einen Beweis der Riemannschen Vermutung in 17 Millionen Zeilen Code veröffentlicht."
+    }
+   },
    {
     "time": "2026-11-22T14:06:45+00:00",
     "source": "FAZ Nachrichten",
@@ -38,18 +47,18 @@
      "tr": "İsrail güçleri, işgal altındaki Batı Şeria'da dört köyde Filistinlilere ait araç ve mülklerin yakılması olaylarıyla ilgili soruşturma başlattı.",
      "de": "Israelische Behörden haben Ermittlungen eingeleitet, nachdem im besetzten Westjordanland palästinensische Fahrzeuge und Immobilien in Brand gesetzt wurden."
     }
-   },
-   {
-    "time": "2026-11-22T13:40:13+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
-    "text": {
-     "tr": "Antalya'daki COP31 iklim zirvesi, ülkelerin ortak bir bildiri üzerinde anlaşamaması nedeniyle sona erdi.",
-     "de": "Die Weltklimakonferenz COP31 in Antalya ist ohne eine gemeinsame Abschlusserklärung zu Ende gegangen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-22T17:26:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010695/bingol-solhan-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Bingöl'ün Solhan ilçesinde etkili olan şiddetli yağış nedeniyle ev ve iş yerlerinin zemin katlarını su bastı.",
+     "de": "Starke Regenfälle haben in Solhan in der Provinz Bingöl Kellergeschosse von Häusern und Geschäften überschwemmt."
+    }
+   },
    {
     "time": "2026-11-22T16:45:00+03:00",
     "source": "Evrensel",
@@ -85,18 +94,45 @@
      "tr": "İran'da, yakıt sıkıntısı ve artan tüketim nedeniyle kasım sonundan itibaren planlı elektrik kesintileri uygulanacak.",
      "de": "Im Iran kommt es ab Ende November wegen Kraftstoffmängeln zu planmäßigen Stromausfällen."
     }
-   },
-   {
-    "time": "2026-11-22T15:20:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010677/dersim-de-kayyim-protestosu-bizim-olani-geri-alacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Dersim Belediyesi'ne kayyım atanmasının ikinci yılında Kışla Meydanı'nda protesto düzenlendi.",
-     "de": "In Dersim wurde zum zweiten Jahrestag der Einsetzung eines Zwangsverwalters gegen die Maßnahme protestiert."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-22T14:40:00+00:00",
+    "source": "DW Türkçe",
+    "url": "https://www.dw.com/tr/almanya-da-henrike-naumann-ödülü-nün-ilk-sahibi-sanatçı-leyla-yenirce-oldu/a-80014061",
+    "text": {
+     "tr": "Berlin'de yaşayan sanatçı Leyla Yenirce, bu yıl ilk kez verilen Henrike Naumann Ödülü'nün sahibi oldu.",
+     "de": "Die in Berlin lebende Künstlerin Leyla Yenirce hat den erstmals vergebenen Henrike-Naumann-Preis gewonnen."
+    }
+   },
+   {
+    "time": "2026-11-22T14:30:48+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
+    "text": {
+     "tr": "Doğu Almanya'daki protestan sinodları, azalan üye sayıları nedeniyle ortak bir kilise birleşme planını onayladı.",
+     "de": "Die evangelischen Synoden in Ostdeutschland haben einem Plan zur Fusion zu einer gemeinsamen Landeskirche zugestimmt."
+    }
+   },
+   {
+    "time": "2026-11-22T14:22:17+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b02f23625b618a0b5d5bee5/bei-palaestina-protesten-sie-trat-mich-wuchtig-in-die-koerpermitte-fdp-politikerin-preisler-ueber-angriff-auf-demo.html",
+    "text": {
+     "tr": "FDP'li siyasetçi Karoline Preisler, Berlin'deki İsrail'e destek gösterisinde saldırıya uğradı.",
+     "de": "Die FDP-Politikerin Karoline Preisler ist bei einer Solidaritätskundgebung für Israel in Berlin attackiert worden."
+    }
+   },
+   {
+    "time": "2026-11-22T14:12:28+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/spd-hessen-mitgliederentscheid-soll-streit-um-spitzenkandidatur-beilegen-accg-201706631.html",
+    "text": {
+     "tr": "Hessen'deki yaklaşık 40 bin Sosyal Demokrat Parti üyesi, 2028 seçimleri için başbakan adayını belirlemek üzere oylama yapacak.",
+     "de": "Rund 40.000 hessische SPD-Mitglieder sollen in einem Entscheid über den Spitzenkandidaten für die Landtagswahl 2028 abstimmen."
+    }
+   },
    {
     "time": "2026-11-22T14:10:00+01:00",
     "source": "Der Spiegel",
@@ -104,42 +140,6 @@
     "text": {
      "tr": "Berlin'de iki hafta önce Brandenburg'da ölü bulunan öğrenci Lisa için cenaze töreni düzenlendi.",
      "de": "In Berlin hat eine Trauerfeier für die vor zwei Wochen tot aufgefundene Schülerin Lisa stattgefunden."
-    }
-   },
-   {
-    "time": "2026-11-22T13:50:02+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b02f0fc25b618a0b5d5bed8/bayern-defekte-heizung-in-kirche-19-menschen-im-allgaeu-verletzt.html",
-    "text": {
-     "tr": "Almanya'nın Bavyera eyaletine bağlı Bad Grönenbach kasabasındaki bir kilisede arızalı ısıtma sisteminden sızan karbonmonoksit gazı nedeniyle 4'ü ağır 19 kişi yaralandı.",
-     "de": "Durch eine defekte Heizung in einer Kirche im bayerischen Bad Grönenbach wurden 19 Menschen durch Kohlenmonoxid verletzt, vier davon schwer."
-    }
-   },
-   {
-    "time": "2026-11-22T13:27:30+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/trauerfeier-fuer-lisa-500-menschen-nehmen-abschied-in-berlin-marzahn-accg-201706684.html",
-    "text": {
-     "tr": "Berlin'de hayatını kaybeden 13 yaşındaki Lisa için yaklaşık 500 kişinin katılımıyla cenaze töreni düzenlendi.",
-     "de": "Rund 500 Menschen haben bei einer Trauerfeier in Berlin Abschied von der getöteten 13-jährigen Lisa genommen."
-    }
-   },
-   {
-    "time": "2026-11-22T13:14:45+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/mehr-sport/wilhelm-hirsch-wird-langdistanz-weltmeister-im-triathlon-accg-201706445.html",
-    "text": {
-     "tr": "Alman triatloncu Wilhelm Hirsch, Abu Dabi'deki Multisport Dünya Şampiyonası'nda uzun mesafede dünya şampiyonu oldu.",
-     "de": "Der deutsche Triathlet Wilhelm Hirsch hat sich bei der Multisport-WM in Abu Dhabi den Langdistanz-Weltmeistertitel gesichert."
-    }
-   },
-   {
-    "time": "2026-11-22T13:06:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
-    "text": {
-     "tr": "Almanya'da Ekonomik İşler Bakanı Katherina Reiche, yüksek akaryakıt fiyatlarına karşı planlanan fiyat tavanından otoban benzinliklerinin muaf tutulmasını istiyor.",
-     "de": "Wirtschaftsministerin Katherina Reiche will Autobahntankstellen wegen hoher Spritpreise von einem geplanten Preisdeckel ausnehmen."
     }
    }
   ]
@@ -150,6 +150,7 @@
   "https://tr.euronews.com/2026/11/22/avrupanin-bir-ayi-siber-saldirilarla-gecti-sicak-derin-dondurucular-gps-kaybi-sahte-bombal",
   "https://tr.euronews.com/2026/11/22/bolu-belediyesindeki-ihale-davasinda-tanju-ozcana-tahliye-karari-tutuklulugu-devam-edecek",
   "https://tr.euronews.com/2026/11/22/cocukluk-hafizasindan-evrensel-formlara-seylan-kandakin-oval-serisi",
+  "https://tr.euronews.com/2026/11/22/cop31-antalya-konferansi-ab-ve-diger-ulkeler-fosil-yakit-yok-diye-iklim-anlasma-taslagini",
   "https://tr.euronews.com/2026/11/22/cop31de-ulkeler-anlasma-arayisinda-fosil-yakitlar-konusundaki-uzlasmazlik-suruyor",
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
   "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
@@ -198,6 +199,7 @@
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
   "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
+  "https://www.dw.com/tr/almanya-da-henrike-naumann-ödülü-nün-ilk-sahibi-sanatçı-leyla-yenirce-oldu/a-80014061",
   "https://www.dw.com/tr/almanya-kadın-cinayetlerinde-cezaları-ağırlaştırmaya-hazırlanıyor/a-80013520",
   "https://www.dw.com/tr/cop31-de-fosil-yakıt-anlaşmazlığı-antalya-mutabakatı-çıkmadı/a-80013013",
   "https://www.dw.com/tr/cop31-de-fosil-yakıt-anlaşmazlığı-taslak-metinde-uzlaşma-sağlanamadı/a-80013013",
@@ -269,6 +271,7 @@
   "https://www.evrensel.net/haber/6010692/bakan-gurlek-duyurdu-hgs-icra-takiplerine-sorusturma-baslatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010693/amedspor-dan-var-hakemlerine-tepki-acik-ihlalleri-tespit-etmeyecekse-var-sistemi-ne-icin-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010694/epstein-in-rusya-baglantilari-ortaya-cikti-putin-le-gorusmeye-calismis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010695/bingol-solhan-da-saganak-nedeniyle-ev-ve-is-yerlerini-su-basti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -292,6 +295,7 @@
   "https://www.faz.net/aktuell/politik/ausland/russland-soll-mord-an-rapper-kyivstoner-in-daenemark-geplant-haben-accg-201705371.html",
   "https://www.faz.net/aktuell/politik/inland/die-koalition-und-ihr-personal-in-der-mitte-nichts-neues-accg-201691253.html",
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
+  "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html",
@@ -305,6 +309,7 @@
   "https://www.faz.net/aktuell/rhein-main/kultur/in-frankfurt-und-luzern-fuenf-illustratorinnen-zeigen-ausstellung-zum-kindsein-accg-201697564.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundespraesidialamt-faellt-durch-relativ-niedrigen-krankenstand-auf-accg-201698796.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/kreis-offenbach-landrat-quilling-cdu-plant-ruhestand-accg-201697595.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/spd-hessen-mitgliederentscheid-soll-streit-um-spitzenkandidatur-beilegen-accg-201706631.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/warum-silberreiher-den-deutschen-winter-lieben-accg-201704744.html",
@@ -320,6 +325,7 @@
   "https://www.faz.net/aktuell/sport/mehr-sport/wilhelm-hirsch-wird-langdistanz-weltmeister-im-triathlon-accg-201706445.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/darmstadt-98/darmstadt-98-die-rueckkehr-des-fussballs-ans-boellenfalltor-accg-201706324.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/mainz-05/fsv-mainz-05-zarte-hoffnung-bei-der-mannschaft-von-urs-fischer-accg-201702107.html",
+  "https://www.faz.net/aktuell/sport/wintersport/warum-linus-strasser-seine-komfortzone-verlassen-hat-accg-201704908.html",
   "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/porsche-macan-gts-im-test-stark-teuer-aber-ohne-v6-accg-201655974.html",
   "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
   "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/teslas-wette-auf-europa-ist-gewagt-201700919.html",
@@ -336,6 +342,7 @@
   "https://www.faz.net/podcasts/f-a-z-buecher-podcast/lorenz-meyer-ueber-seinen-roman-es-haette-auch-stimmen-koennen-201694868.html",
   "https://www.faz.net/podcasts/nico-lange/migration-in-der-eu-warum-sich-routen-so-schnell-verlagern-201704453.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
+  "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
   "https://www.france24.com/en/english-village-votes-to-leave-uk",
   "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
   "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
@@ -346,6 +353,7 @@
   "https://www.france24.com/en/princess-of-wales-opens-up-about-cancer",
   "https://www.france24.com/en/south-korea-ai-cheating-sparks-exam-security-chaos",
   "https://www.france24.com/en/technology/20261122-nato-faces-sovereignty-dilemma-as-militaries-rely-on-private-tech-ai",
+  "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
@@ -378,6 +386,7 @@
   "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
+  "https://www.tagesschau.de/ausland/asien/tuerkei-sender-soezcue-zwangsverwaltung-100.html",
   "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
   "https://www.tagesschau.de/ausland/europa/finnland-ostsee-frachter-drohne-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
@@ -417,6 +426,7 @@
   "https://www.theguardian.com/world/2026/nov/22/military-ai-event-berlin-kraftwerk-arts-complex",
   "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
   "https://www.welt.de/debatte/plus6affe4a439a3e8110f0e336d/buchhandel-einmal-queer-durchs-regal.html",
+  "https://www.welt.de/debatte/plus6b02b68025b618a0b5d5b98c/cop31-in-antalya-europas-grosse-klima-lebensluege-ist-gescheitert.html",
   "https://www.welt.de/geschichte/article6af5b90750175c81de7a3a6b/totensonntag-mit-entsetzen-denkt-man-sich-das-schauervolle-ende-dieser-ungluecklichen.html",
   "https://www.welt.de/gesundheit/article6b02d0483cd434a4d6d0ce29/grippe-teilweise-viel-zu-spaet-geliefert-hausaerzte-beklagen-zu-wenig-impfstoff-gegen-influenza.html",
   "https://www.welt.de/gesundheit/plus6afac9764495f9bd85b8216d/das-zweite-herz-des-koerpers-sitzt-in-den-waden-so-nutzen-sie-es-fuer-einen-besseren-stoffwechsel.html",
@@ -433,6 +443,7 @@
   "https://www.welt.de/politik/deutschland/article6b02ae6b39a3e8110f0e627b/kalte-progression-mehr-netto-im-geldbeutel-soeder-fordert-sofortige-steuerentlastung.html",
   "https://www.welt.de/politik/deutschland/article6b02c62a5842ff528b9e3ab0/gerichtsbeschluss-kontrollen-an-der-grenze-pole-verklagt-deutschland-und-gewinnt.html",
   "https://www.welt.de/politik/deutschland/article6b02ee833cd434a4d6d0d067/kanzler-kritisch-mit-sich-staerker-auf-die-zeit-druecken-merz-wuerde-bei-neuanfang-schneller-entscheiden.html",
+  "https://www.welt.de/politik/deutschland/article6b02f23625b618a0b5d5bee5/bei-palaestina-protesten-sie-trat-mich-wuchtig-in-die-koerpermitte-fdp-politikerin-preisler-ueber-angriff-auf-demo.html",
   "https://www.welt.de/politik/deutschland/harald-martenstein/plus6affe0c739a3e8110f0e3302/houellebecq-und-reichelt-die-anklage-aufstachelung-zu-diskriminierung-haette-der-stasi-gefallen.html",
   "https://www.welt.de/politik/deutschland/plus6afc7658bb7e7a6679f91a26/schwarz-rot-in-der-krise-das-ist-das-groesste-dilemma-einer-liberalen-demokratie.html",
   "https://www.welt.de/politik/deutschland/plus6afee48639a3e8110f0e21c3/grundschullehrer-berichtet-dritte-klasse-ein-junge-fragte-die-praktikantin-machst-du-auch-onlyfans.html",
