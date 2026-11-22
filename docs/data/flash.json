@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T05:57+01:00",
+ "updatedAt": "2026-11-22T06:27+01:00",
  "countries": {
   "world": [
    {
@@ -10,6 +10,46 @@
     "text": {
      "tr": "Washington Valisi ve sendikalar, ABD Göçmenlik ve Gümrük Muhafaza biriminin Seattle Havalimanı'ndaki gözaltı operasyonuna tepki gösterdi.",
      "de": "Der Gouverneur von Washington und Gewerkschaften haben einen Festnahmeeinsatz der US-Einwanderungsbehörde ICE am Flughafen Seattle kritisiert."
+    }
+   },
+   {
+    "time": "2026-11-22T05:04:39+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+    "text": {
+     "tr": "Güney Kore'de üniversite giriş sınavlarını sarsan yapay zeka destekli kopya skandalının ardından Eğitim Bakanı istifa etti.",
+     "de": "Nach einem Skandal um KI-gestützte Betrugsversuche bei Universitätsaufnahmeprüfungen ist Südkoreas Bildungsminister zurückgetreten."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-22T07:38:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010630/meteoroloji-den-sel-ve-su-baskini-uyarisi-dogu-guneydogu-ve-karadeniz-de-kuvvetli-yagis-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Meteoroloji, Doğu, Güneydoğu ve Karadeniz bölgelerinde beklenen kuvvetli yağışlar nedeniyle 21 il için sarı kodlu uyarı yayımladı.",
+     "de": "Der Wetterdienst hat wegen heftiger Regenfälle für 21 Provinzen im Osten, Südosten und am Schwarzen Meer eine Warnung herausgegeben."
+    }
+   },
+   {
+    "time": "2026-11-22T06:21:04+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+    "text": {
+     "tr": "Antalya'daki COP31 iklim zirvesinde, fosil yakıtlardan çıkış taahhüdü içermeyen yeni bir taslak metin hazırlandı.",
+     "de": "Auf dem Klimagipfel COP31 in Antalya liegt ein neuer Entwurf für die Abschlusserklärung vor, der fossile Energien nicht erwähnt."
+    }
+   }
+  ],
+  "de": [
+   {
+    "time": "2026-11-22T05:19:19+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
+    "text": {
+     "tr": "Berlin'de hastaneler, itfaiye ve polis, yılbaşında serbest havai fişek kullanımına derhal son verilmesini talep etti.",
+     "de": "Kliniken, Feuerwehr und Polizei in Berlin fordern ein sofortiges Verbot von privatem Silvesterfeuerwerk."
     }
    }
   ]
@@ -26,7 +66,13 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
+  "https://www.evrensel.net/haber/6010630/meteoroloji-den-sel-ve-su-baskini-uyarisi-dogu-guneydogu-ve-karadeniz-de-kuvvetli-yagis-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
+  "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
-  "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html"
+  "https://www.tagesschau.de/ausland/europa/cop31-klimakonferenz-100.html",
+  "https://www.theguardian.com/world/2026/nov/22/south-korea-education-minister-resigns-after-ai-cheating-scandal-engulfs-university-exams",
+  "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
+  "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html"
  ]
 }
