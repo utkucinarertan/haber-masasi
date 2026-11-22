@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T23:12+01:00",
+ "updatedAt": "2026-11-22T23:42+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-22T22:01:17+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
+    "text": {
+     "tr": "ABD'li senatör seçilen Abdul El-Sayed, sağlık reformu tasarısının Donald Trump'ın adıyla anılmasına açık olduğunu belirtti.",
+     "de": "Der US-Senator Abdul El-Sayed bekräftigte, dass er offen dafür sei, eine Gesundheitsreform nach Donald Trump zu benennen, wenn dieser sie unterstützt."
+    }
+   },
    {
     "time": "2026-11-22T21:29:16+00:00",
     "source": "France 24",
@@ -38,18 +47,36 @@
      "tr": "ABD'de Temsilciler Meclisi ara seçimlerinde Demokratlar en az 258 sandalye kazanarak 1992'den bu yana en büyük zaferini elde etti.",
      "de": "Bei den US-Zwischenwahlen haben die Demokraten im Repräsentantenhaus mindestens 258 Sitze und damit den grössten Sieg seit 1992 errungen."
     }
-   },
-   {
-    "time": "2026-11-22T19:00:34+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
-    "text": {
-     "tr": "Yapılan bir analize göre, veri merkezi yöneticileri Avustralyalı eyalet başbakanları ve bakanlarla üç yılda yaklaşık 120 kez görüştü.",
-     "de": "Datacentre-Chefs haben sich Analysen zufolge in drei Jahren fast 120 Mal mit australischen Regierungschefs und Ministern getroffen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-23T00:58:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/tankerde-271-kilo-uyusturucu-ele-gecirildi-2558448",
+    "text": {
+     "tr": "Ağrı'nın Doğubayazıt ilçesindeki Gürbulak Gümrük Kapısı'nda bir tankerde 271 kilo 750 gram uyuşturucu ele geçirildi.",
+     "de": "Am Grenzübergang Gürbulak im Bezirk Doğubayazıt in Ağrı wurden in einem Tankwagen 271 Kilogramm und 750 Gramm Drogen sichergestellt."
+    }
+   },
+   {
+    "time": "2026-11-23T00:38:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/duzce-de-9-2-milyon-liralik-uyusturucu-operasyonu-2-kisi-tutuklandi-2558447",
+    "text": {
+     "tr": "Düzce'de düzenlenen uyuşturucu operasyonunda 46 bin 203 sentetik ecza ele geçirilirken, 2 şüpheli tutuklandı.",
+     "de": "Bei einer Drogenoperation in Düzce wurden 46.203 synthetische Pillen sichergestellt und zwei Verdächtige festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-23T00:12:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/van-in-3-ilcesinde-egitime-kar-engeli-2558446",
+    "text": {
+     "tr": "Van'ın Muradiye, Çaldıran ve Saray ilçelerinde yoğun kar yağışı ve buzlanma nedeniyle eğitime bir gün ara verildi.",
+     "de": "In den Bezirken Muradiye, Çaldıran und Saray in Van wurde der Unterricht wegen starker Schneefälle und Glatteis für einen Tag ausgesetzt."
+    }
+   },
    {
     "time": "2026-11-23T00:05:00+03:00",
     "source": "Evrensel",
@@ -60,39 +87,12 @@
     }
    },
    {
-    "time": "2026-11-22T23:17:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010712/sariyer-de-aslan-gordum-ihbari-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "time": "2026-11-23T00:03:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/prizden-cikan-dumani-fark-etti-akima-kapilip-kalbi-durdu-2558445",
     "text": {
-     "tr": "Sarıyer'de aslan görüldüğü ihbarı üzerine ekipler bölgede çalışma başlatırken, jandarma vatandaşları uyardı.",
-     "de": "Nach einer Meldung über eine Sichtung eines Löwen in Sarıyer haben die Einsatzkräfte mit Sucharbeiten begonnen und die Anwohner gewarnt."
-    }
-   },
-   {
-    "time": "2026-11-22T21:43:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010708/antalya-daki-cop31-de-anlasma-saglanamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Antalya'da düzenlenen COP31 zirvesinde, fosil yakıtlardan uzaklaşma taahhüdünün metne eklenmemesi nedeniyle anlaşmaya varılamadı.",
-     "de": "Auf der COP31 in Antalya konnte kein Abkommen erzielt werden, da die Verpflichtung zum Ausstieg aus fossilen Brennstoffen fehlte."
-    }
-   },
-   {
-    "time": "2026-11-22T20:40:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010705/iklim-eylem-agi-ndan-cop31-elestirisi-simdiye-kadarki-en-kotu-cop?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Uluslararası İklim Eylem Ağı, Antalya'da düzenlenen COP31 zirvesini şimdiye kadarki en kötü iklim konferansı olarak nitelendirdi.",
-     "de": "Das Internationale Klimaschutznetzwerk kritisierte die UN-Klimakonferenz COP31 in Antalya als bisher schlechteste Klimakonferenz."
-    }
-   },
-   {
-    "time": "2026-11-22T20:29:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010702/abd-baskani-trump-tan-senato-yarisi-mesaji-schumer-lider-olursa-calismamiz-cok-zor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "ABD Başkanı Trump, Demokrat Senatör Chuck Schumer'ın lider olması halinde çalışmanın zor olacağını belirtti.",
-     "de": "US-Präsident Trump erklärte, dass eine Zusammenarbeit mit dem demokratischen Senator Chuck Schumer als Mehrheitsführer sehr schwierig werde."
+     "tr": "Antalya'da banyo prizinden çıkan dumanı fark edip müdahale etmek isteyen bir kişi elektrik akımına kapılarak yaralandı.",
+     "de": "In Antalya erlitt ein Mann einen Stromschlag, als er auf Rauch aus einer Steckdose im Badezimmer reagieren wollte."
     }
    }
   ],
@@ -179,6 +179,7 @@
   "https://tr.euronews.com/2026/11/22/turkiye-ve-ermenistan-arasinda-sanatla-kurulan-yeni-bir-diyalog-noraralik",
   "https://tr.euronews.com/2026/11/22/ukraynada-rus-iha-saldirisi-iki-cocuk-dahil-15-kisiden-haber-alinamiyor",
   "https://tr.euronews.com/video/2026/11/22/bati-seriada-dort-filistin-koyune-supheli-yerlesimci-saldirilari",
+  "https://tr.euronews.com/video/2026/11/22/fastaki-surreal-heykel-parki-dunyayi-cocuk-gozunden-yeniden-kesfetmeye-davet-ediyor",
   "https://tr.euronews.com/video/2026/11/22/japonyada-saitama-maskot-festivali-hayranlar-favori-karakterleriyle-bulustu",
   "https://tr.euronews.com/video/2026/11/22/portekizde-isciler-yagmur-altinda-butce-oncesi-daha-uygun-yasam-kosullari-icin-yurudu",
   "https://tr.euronews.com/video/2026/11/22/ukraynada-rus-saldirisi-kiev-yakininda-enkaz-altinda-en-fazla-yedi-kisi-araniyor",
@@ -213,13 +214,21 @@
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/okan-bayulgen-cumhuriyet-pazar-da-sanatci-politikayi-kendi-eseriyle-yapar-2558090",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/sari-nin-kosesi-kimin-yasayacagina-kim-karar-veriyor-2558099",
   "https://www.cumhuriyet.com.tr/cumhuriyet-pazar/tasarim-tarihinin-gorunmeyen-kadinlari-2558094",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-edremit-2-sulh-hukuk-mahkemesi-hakimligi-2558439",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-elazig-3-sulh-hukuk-mahkemesi-2558440",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-erzincan-4-asliye-hukuk-mahkemesi-hakimligi-2558438",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-keciborlu-asliye-hukuk-mahkemesi-2558436",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kocaeli-9-asliye-ceza-mahkemesi-hakimligi-2558435",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-samsun-1-asliye-hukuk-mahkemesi-2558434",
   "https://www.cumhuriyet.com.tr/siyaset/agiralioglu-ndan-net-aciklama-secimde-ittifak-yapacaklar-mi-cumhur-ittifaki-yla-beraber-2558397",
   "https://www.cumhuriyet.com.tr/siyaset/bakan-gurlek-ten-fon-sorusturmasi-aciklamasi-son-verileri-acikladi-kac-kisinin-mal-varliklarina-el-konuldu-ne-kadar-gonullu-iade-yapildi-2558386",
   "https://www.cumhuriyet.com.tr/siyaset/imrali-heyeti-ocalan-ile-gorustu-aciklama-icin-tarih-verdiler-2558395",
   "https://www.cumhuriyet.com.tr/siyaset/murat-kurum-dan-gana-ya-ozur-soz-kesmek-gibi-bir-niyetimiz-olamaz-2558400",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emir-komisyon-kararina-aciklik-getirdi-mudahaleleri-siraladi-bizim-tutumumuz-ilk-gunden-beri-savundugumuz-2558403",
   "https://www.cumhuriyet.com.tr/spor/barcelona-pes-etmedi-kendi-evinde-2-0-dan-geri-dondu-2558390",
+  "https://www.cumhuriyet.com.tr/spor/emmanuel-agbadou-dan-elestirilere-sert-yanit-sahsen-utaniyorum-cunku-2558444",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-ten-kendi-evinde-farkli-galibiyet-2558404",
+  "https://www.cumhuriyet.com.tr/spor/hakan-calhanoglu-ndan-kotu-haber-oyuna-devam-edemedi-2558443",
   "https://www.cumhuriyet.com.tr/spor/hull-city-uzatmalarda-guldu-8-maclik-kotu-seriye-son-verdi-2558396",
   "https://www.cumhuriyet.com.tr/spor/kasimpasa-uc-puani-90-1-de-kapti-2558389",
   "https://www.cumhuriyet.com.tr/spor/mahmut-uslu-dan-iddialara-yanit-o-sozler-tamamen-asilsiz-2558399",
@@ -228,8 +237,12 @@
   "https://www.cumhuriyet.com.tr/turkiye/26-ayri-aranma-kaydi-bulunan-firari-kayseri-de-yakalandi-2558387",
   "https://www.cumhuriyet.com.tr/turkiye/babasini-bogazindan-yaralamisti-17-yasindaki-cocuk-tutuklandi-2558394",
   "https://www.cumhuriyet.com.tr/turkiye/batan-tugberk-imamoglu-gemisindeki-8-denizci-icin-ailelerden-cagri-arama-calismalari-yeniden-baslatilmali-2558393",
+  "https://www.cumhuriyet.com.tr/turkiye/duzce-de-9-2-milyon-liralik-uyusturucu-operasyonu-2-kisi-tutuklandi-2558447",
   "https://www.cumhuriyet.com.tr/turkiye/feribot-seferlerine-olumsuz-hava-sartlari-engeli-bazi-seferler-iptal-edildi-2558391",
   "https://www.cumhuriyet.com.tr/turkiye/milli-parkta-2-bozayi-vuruldu-sorusturma-baslatildi-2558388",
+  "https://www.cumhuriyet.com.tr/turkiye/prizden-cikan-dumani-fark-etti-akima-kapilip-kalbi-durdu-2558445",
+  "https://www.cumhuriyet.com.tr/turkiye/tankerde-271-kilo-uyusturucu-ele-gecirildi-2558448",
+  "https://www.cumhuriyet.com.tr/turkiye/van-in-3-ilcesinde-egitime-kar-engeli-2558446",
   "https://www.cumhuriyet.com.tr/tv-rehberi/daha-17-dizisinin-yeni-bolumu-ne-zaman-daha-17-dizisinin-son-bolumunde-ne-oldu-2558401",
   "https://www.cumhuriyet.com.tr/yazarlar/ustun-dokmen/gencligi-nasil-duzeltiriz-2558110",
   "https://www.dw.com/en/china-asean-countries-struggle-over-south-china-sea-code-of-conduct/a-80009799",
@@ -466,6 +479,7 @@
   "https://www.france24.com/en/tv-shows/sports/20261122-ligue-1-psg-extend-winning-run-at-nice-3-2-but-lose-d%C3%A9sir%C3%A9-dou%C3%A9-to-injury",
   "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
   "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
+  "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
   "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
@@ -575,6 +589,7 @@
   "https://www.theguardian.com/sport/2026/nov/22/titans-jaylen-harrell-reportedly-assaulted-driver-before-crash-that-left-player-seriously-injured",
   "https://www.theguardian.com/technology/2026/nov/21/anthropic-riemann-hypothesis-solved-claude-ai",
   "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
+  "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
   "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
   "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
