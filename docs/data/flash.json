@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-22T15:45+01:00",
+ "updatedAt": "2026-11-22T16:15+01:00",
  "countries": {
   "world": [
    {
@@ -98,6 +98,24 @@
   ],
   "de": [
    {
+    "time": "2026-11-22T16:01:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
+    "text": {
+     "tr": "Antalya'da düzenlenen COP31 Birleşmiş Milletler İklim Değişikliği Konferansı, net bir fosil yakıt çıkış kararı alınamadan sona erdi.",
+     "de": "Die Weltklimakonferenz COP31 in Antalya ist ohne einen klaren Beschluss zum Ausstieg aus den fossilen Brennstoffen zu Ende gegangen."
+    }
+   },
+   {
+    "time": "2026-11-22T14:55:44+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/raeuber-mit-machete-ueberfaellt-tankstelle-in-limburg-polizei-bittet-um-hinweise-accg-201706996.html",
+    "text": {
+     "tr": "Almanya'nın Limburg yakınlarındaki Elbtal'de maskeli bir kişi, palayla bir benzin istasyonunu soydu.",
+     "de": "Ein maskierter Räuber hat in Elbtal bei Limburg eine Tankstelle mit einer Machete überfallen."
+    }
+   },
+   {
     "time": "2026-11-22T14:40:00+00:00",
     "source": "DW Türkçe",
     "url": "https://www.dw.com/tr/almanya-da-henrike-naumann-ödülü-nün-ilk-sahibi-sanatçı-leyla-yenirce-oldu/a-80014061",
@@ -107,39 +125,21 @@
     }
    },
    {
+    "time": "2026-11-22T14:37:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/femizide-stefanie-hubig-will-mordparagrafen-verschaerfen-a-c6d29e6d-8edb-4651-8128-ef74725623e4#ref=rss",
+    "text": {
+     "tr": "Almanya Adalet Bakanı Stefanie Hubig, kadın cinayetlerinin daha ağır cezalandırılması için cinayet maddesinde sertleştirme teklifi sundu.",
+     "de": "Justizministerin Stefanie Hubig hat einen Gesetzentwurf vorgelegt, um den Mordparagrafen bei Femiziden zu verschärfen."
+    }
+   },
+   {
     "time": "2026-11-22T14:30:48+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
     "text": {
      "tr": "Doğu Almanya'daki protestan sinodları, azalan üye sayıları nedeniyle ortak bir kilise birleşme planını onayladı.",
      "de": "Die evangelischen Synoden in Ostdeutschland haben einem Plan zur Fusion zu einer gemeinsamen Landeskirche zugestimmt."
-    }
-   },
-   {
-    "time": "2026-11-22T14:22:17+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b02f23625b618a0b5d5bee5/bei-palaestina-protesten-sie-trat-mich-wuchtig-in-die-koerpermitte-fdp-politikerin-preisler-ueber-angriff-auf-demo.html",
-    "text": {
-     "tr": "FDP'li siyasetçi Karoline Preisler, Berlin'deki İsrail'e destek gösterisinde saldırıya uğradı.",
-     "de": "Die FDP-Politikerin Karoline Preisler ist bei einer Solidaritätskundgebung für Israel in Berlin attackiert worden."
-    }
-   },
-   {
-    "time": "2026-11-22T14:12:28+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/spd-hessen-mitgliederentscheid-soll-streit-um-spitzenkandidatur-beilegen-accg-201706631.html",
-    "text": {
-     "tr": "Hessen'deki yaklaşık 40 bin Sosyal Demokrat Parti üyesi, 2028 seçimleri için başbakan adayını belirlemek üzere oylama yapacak.",
-     "de": "Rund 40.000 hessische SPD-Mitglieder sollen in einem Entscheid über den Spitzenkandidaten für die Landtagswahl 2028 abstimmen."
-    }
-   },
-   {
-    "time": "2026-11-22T14:10:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
-    "text": {
-     "tr": "Berlin'de iki hafta önce Brandenburg'da ölü bulunan öğrenci Lisa için cenaze töreni düzenlendi.",
-     "de": "In Berlin hat eine Trauerfeier für die vor zwei Wochen tot aufgefundene Schülerin Lisa stattgefunden."
     }
    }
   ]
@@ -152,6 +152,7 @@
   "https://tr.euronews.com/2026/11/22/cocukluk-hafizasindan-evrensel-formlara-seylan-kandakin-oval-serisi",
   "https://tr.euronews.com/2026/11/22/cop31-antalya-konferansi-ab-ve-diger-ulkeler-fosil-yakit-yok-diye-iklim-anlasma-taslagini",
   "https://tr.euronews.com/2026/11/22/cop31de-ulkeler-anlasma-arayisinda-fosil-yakitlar-konusundaki-uzlasmazlik-suruyor",
+  "https://tr.euronews.com/2026/11/22/cop31den-kopenhaga-uzlasma-cikmayan-8-bm-iklim-zirvesi",
   "https://tr.euronews.com/2026/11/22/dakar-bienalinde-2026-temasi-kirilganlik-nasil-guce-donusur",
   "https://tr.euronews.com/2026/11/22/eisenkot-israilde-koalisyon-icin-netanyahunun-likud-partisini-masaya-cagirdi",
   "https://tr.euronews.com/2026/11/22/endonezyada-sekerleme-fabrikasinda-yangin-en-az-6-olu",
@@ -277,6 +278,7 @@
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/carissa-veliz-kann-ki-prognosen-fuer-die-zukunft-geben-accg-201685758.html",
   "https://www.faz.net/aktuell/feuilleton/kunst-und-architektur/ausstellung/fotografiska-lauren-greenfields-social-media-warnung-201685754.html",
+  "https://www.faz.net/aktuell/feuilleton/kunstmarkt/pablo-picasso-karl-faber-versteigert-seltene-radierung-fuer-bis-zu-700-000-euro-accg-201698408.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/was-passiert-wenn-sich-eine-ki-als-forscher-vorstellt-accg-201699981.html",
@@ -297,10 +299,13 @@
   "https://www.faz.net/aktuell/politik/inland/die-strafverfahren-in-deutschland-dauern-zu-lange-201691488.html",
   "https://www.faz.net/aktuell/politik/inland/evangelische-kirche-synoden-stimmen-fusionsplan-in-ostdeutschland-zu-accg-201706371.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-fdp-politikerin-preisler-bei-propalaestinensischer-demo-attackiert-faz-110093143.html",
+  "https://www.faz.net/aktuell/politik/inland/vanessa-emde-eine-galionsfigur-fuer-teile-der-linkspartei-accg-201706022.html",
   "https://www.faz.net/aktuell/politik/ukraine/einschlag-waehrend-uebung-was-folgt-aus-russlands-provokation-in-polen-accg-201705870.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-brand-auf-russischem-frachter-vor-finnischer-kueste-dauert-an-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gouverneur-von-washington-ice-ist-voellig-ausser-kontrolle-faz-19444916.html",
+  "https://www.faz.net/aktuell/politik/usa-unter-trump/naechster-praesident-warum-trump-stephen-miller-ins-spiel-bringt-201706506.html",
   "https://www.faz.net/aktuell/reise/neue-fluggastrechte-wie-passagiere-davon-profitieren-accg-201058082.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/frankfurt-polizei-nimmt-bewohner-nach-wohnungsbrand-im-gallusviertel-fest-accg-201706880.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-in-frankfurt-polizei-einsatzleiter-erklaert-warum-es-friedlich-blieb-accg-201704661.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/gen-z-proteste-zehn-festnahmen-am-demo-freitag-in-frankfurt-accg-201706132.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/krafttraining-fuer-kinder-was-eltern-wissen-sollten-und-wann-es-gefaehrlich-wird-accg-201614346.html",
@@ -309,6 +314,8 @@
   "https://www.faz.net/aktuell/rhein-main/kultur/in-frankfurt-und-luzern-fuenf-illustratorinnen-zeigen-ausstellung-zum-kindsein-accg-201697564.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/bundespraesidialamt-faellt-durch-relativ-niedrigen-krankenstand-auf-accg-201698796.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/kreis-offenbach-landrat-quilling-cdu-plant-ruhestand-accg-201697595.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/neue-urknall-theorie-heizten-winzige-schwarze-loecher-das-universum-auf-accg-201701869.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/raeuber-mit-machete-ueberfaellt-tankstelle-in-limburg-polizei-bittet-um-hinweise-accg-201706996.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/spd-hessen-mitgliederentscheid-soll-streit-um-spitzenkandidatur-beilegen-accg-201706631.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/stadtwerke-sanieren-mainzer-taubertsbergbad-201702127.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/todesanzeigen-fotos-witze-qr-codes-was-alles-erlaubt-ist-accg-201651450.html",
@@ -316,6 +323,7 @@
   "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-verstappen-triumphiert-in-las-vegas-accg-201705701.html",
   "https://www.faz.net/aktuell/sport/formel-1/max-verstappen-siegt-in-las-vegas-75-karrieresieg-im-chaos-rennen-accg-201705885.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-bundesliga-hertha-bsc-siegt-in-cottbus-und-traeumt-vom-weihnachtsmeister-titel-accg-201304611.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/gta-6-und-der-fussball-muessen-klubs-ihre-spieler-schuetzen-201701012.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/mario-vuskovi-beim-hsv-ist-er-nach-vier-jahren-doping-sperre-noch-gut-genug-accg-201651345.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/rb-leipzig-laesst-sich-die-luecke-zum-fc-bayern-diese-saison-schliessen-accg-201705855.html",
@@ -329,6 +337,7 @@
   "https://www.faz.net/aktuell/technik-motor/elektromobilitaet/porsche-macan-gts-im-test-stark-teuer-aber-ohne-v6-accg-201655974.html",
   "https://www.faz.net/aktuell/technik-motor/schlusslicht-18-prozent-fuer-alle-accg-201680565.html",
   "https://www.faz.net/aktuell/wirtschaft/auto-verkehr/teslas-wette-auf-europa-ist-gewagt-201700919.html",
+  "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/cop31-ist-das-ende-des-klima-multilateralismus-gekommen-201704572.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/das-klima-drama-von-antalya-accg-201704569.html",
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/einigung-bei-weltklimakonferenz-gescheitert-accg-201706517.html",
   "https://www.faz.net/aktuell/wirtschaft/klimagipfel-cop31-textentwurf-erwaehnt-fossile-energien-nicht-accg-201705645.html",
@@ -342,6 +351,7 @@
   "https://www.faz.net/podcasts/f-a-z-buecher-podcast/lorenz-meyer-ueber-seinen-roman-es-haette-auch-stimmen-koennen-201694868.html",
   "https://www.faz.net/podcasts/nico-lange/migration-in-der-eu-warum-sich-routen-so-schnell-verlagern-201704453.html",
   "https://www.faz.net/podcasts/wirtschaftspodcast/oekonom-bachmann-so-kommt-deutschland-aus-der-krise-201701479.html",
+  "https://www.faz.net/video/trotz-starkregen-europa-protestiert-201706484.html",
   "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
   "https://www.france24.com/en/english-village-votes-to-leave-uk",
   "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
@@ -358,31 +368,38 @@
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
   "https://www.spiegel.de/ausland/usa-unter-donald-trump-gouverneur-von-washington-kritisiert-ice-festnahmen-a-062b36e4-e1b4-41fb-9298-69978763255f#ref=rss",
   "https://www.spiegel.de/ausland/wirtschaft-in-deutschland-aufschwung-und-mehr-geld-fuer-start-ups-nur-gute-nachrichten-a-27f5a596-3d36-450b-95d3-265ed3df0285#ref=rss",
+  "https://www.spiegel.de/deinspiegel/beruf-geruestbauer-viel-bewegung-schwere-lasten-und-arbeit-in-der-hoehe-a-bd3e630f-6de1-48f0-90f2-58fbdf9417d1#ref=rss",
   "https://www.spiegel.de/fitness/fitness-der-rettungsring-will-nicht-weichen-wie-sport-gegen-bauchfett-hilft-a-372f5138-5ed8-486c-ac2a-541b1a8d3d74#ref=rss",
   "https://www.spiegel.de/gesundheit/krebserkrankung-des-vaters-papa-hat-haarausfall-a-fde44e1c-3ec8-4602-be9e-379b003829dd#ref=rss",
   "https://www.spiegel.de/karriere/vier-raeuber-und-viele-vorhaengeschloesser-raetsel-der-woche-a-f132063c-01d5-427d-80a3-07c71743170a#ref=rss",
   "https://www.spiegel.de/kultur/literatur/cartoons-der-woche-von-thomas-plassmann-klaus-stuttmann-a-9f53255e-149f-40df-860c-310e191576ae#ref=rss",
   "https://www.spiegel.de/kultur/thalia-theater-hamburg-borcherts-antikriegsklassiker-als-aufgedrehte-revue-a-95dd4c9d-58ce-4cbc-8f0c-b528645cd25b#ref=rss",
+  "https://www.spiegel.de/kultur/tv/doku-operation-cobalt-ueber-frankfurter-kunstraub-die-rueckkehr-der-geraubten-bilder-a-56fcd51b-e901-4ed2-b2a2-48480c5dc3f5#ref=rss",
   "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
   "https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
   "https://www.spiegel.de/panorama/justiz/berlin-trauerfeier-fuer-getoetete-schuelerin-lisa-viele-fragen-bleiben-offen-a-a89409da-9d53-4caa-a4ab-85288a636993#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/landkreis-vechta-ein-hund-soll-seinen-bruder-getoetet-haben-trotzdem-will-er-ihn-unbedingt-zurueck-a-a1ac8e77-d3d5-4f17-a627-9ee9cd1eb966#ref=rss",
   "https://www.spiegel.de/panorama/leute/miley-cyrus-und-maxx-morando-haben-geheiratet-auf-frank-sinatras-ehemaligem-anwesen-in-palm-springs-a-8cada71b-5c5e-4e6c-937f-56d28dab0216#ref=rss",
   "https://www.spiegel.de/politik/deutschland/antisemitismusbeauftragte-katharina-von-schnurbein-warnt-vor-afd-regierung-a-88fde859-ed6b-45a0-8638-7f11fb6ebb67#ref=rss",
   "https://www.spiegel.de/politik/deutschland/bahn-statt-konvoi-bundeswehr-aendert-truppenverlegung-nach-litauen-kurzfristig-a-74ad6a42-70a8-4973-ab13-571ba1696bce#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/buerokratie-in-deutschland-warum-viele-regeln-unverzichtbar-bleiben-meinung-a-629821a3-ef85-4bed-8d72-1fabc074250d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/cdu-annegret-kramp-karrenbauer-fordert-fokus-auf-alltagsaengste-statt-rechtskurs-a-56cb454f-6004-48e3-b4da-43e693c4a588#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/femizide-stefanie-hubig-will-mordparagrafen-verschaerfen-a-c6d29e6d-8edb-4651-8128-ef74725623e4#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-treffen-von-donald-trump-wladimir-putin-und-xi-jinping-in-shenzhen-dreckige-deals-der-deutschen-bank-a-9561aaa0-4107-4044-892c-0927ac523870#ref=rss",
   "https://www.spiegel.de/politik/deutschland/nrw-innenminister-herbert-reul-gibt-update-ueber-gesundheitszustand-a-1508172b-e030-493e-8b8a-03706f84c6bd#ref=rss",
   "https://www.spiegel.de/politik/markus-soeder-fordert-ausgleich-der-kalten-progression-a-ec276ef0-1015-40f2-abd3-c5ef820e15aa#ref=rss",
   "https://www.spiegel.de/sport/boxen/regina-halmich-ueber-anfeindungen-hass-im-netz-und-feminismus-wurde-behandelt-wie-ein-unfall-a-e005db66-2ce4-4e13-9298-b862b4a54590#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-in-las-vegas-verstappen-gewinnt-das-rennen-des-jahres-pressestimmen-a-91d46e06-efa3-4fa6-886c-8216bb752109#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-gewinnt-spektakulaeres-rennen-in-las-vegas-a-b4612efa-7f2b-4302-a813-dff895f76e43#ref=rss",
+  "https://www.spiegel.de/sport/fussball/argentinien-boca-juniors-kapitaen-leandro-paredes-bricht-nach-pokalsieg-vor-kamera-zusammen-a-256ccf42-1d67-4bef-a4c0-3bf6bca21dae#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss",
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-in-antalya-eklat-bei-uno-klimakonferenz-in-antalya-teilnehmer-koennen-sich-nicht-auf-abschlusserklaerung-einigen-a-e9928a84-c539-492f-8b13-f71ca6296c95#ref=rss",
+  "https://www.spiegel.de/wissenschaft/cop31-in-antalya-weltklimakonferenz-endet-ohne-klaren-ausstiegsbeschluss-a-112c0d3f-75a5-4709-b1ec-7533f999d386#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
@@ -431,6 +448,7 @@
   "https://www.welt.de/gesundheit/article6b02d0483cd434a4d6d0ce29/grippe-teilweise-viel-zu-spaet-geliefert-hausaerzte-beklagen-zu-wenig-impfstoff-gegen-influenza.html",
   "https://www.welt.de/gesundheit/plus6afac9764495f9bd85b8216d/das-zweite-herz-des-koerpers-sitzt-in-den-waden-so-nutzen-sie-es-fuer-einen-besseren-stoffwechsel.html",
   "https://www.welt.de/kultur/article6afd9529bb7e7a6679f92da7/so-wird-der-frankfurter-tatort-wer-das-nicht-aushaelt-ist-in-dieser-welt-verloren.html",
+  "https://www.welt.de/kultur/article6b02dd595842ff528b9e3cea/scheitern-des-liberalismus-und-auf-einmal-argumentiert-kubicki-wie-ein-linker.html",
   "https://www.welt.de/kultur/plus6aec7bb947b5fce02f878f79/zu-zweit-allein-die-brutalste-einsamkeit-ist-die-in-einer-beziehung.html",
   "https://www.welt.de/kultur/plus6afda78aa0547afb26e78a38/holz-und-maennlichkeit-warum-es-nach-700-000-jahren-immer-noch-die-vaeter-sind-die-ein-holzfeuer-anzuenden.html",
   "https://www.welt.de/politik/ausland/article6ad5e52d51e5094f7a57183d/kartografie-groenland-groesser-als-afrika-warum-ihre-weltkarte-luegt-und-wie-die-erde-wirklich-aussieht.html",
@@ -454,6 +472,7 @@
   "https://www.welt.de/sport/formel1/article6b0294dc5842ff528b9e3738/leclerc-rammt-hamilton-teamzoff-bei-ferrari-eskaliert-ich-moechte-dich-nach-dem-rennen-direkt-sehen-funkt-der-team-chef.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02b41939a3e8110f0e630e/musiala-kane-fc-bayern-vor-der-schwersten-zerreissprobe-seit-ewigen-zeiten.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b02d91e3cd434a4d6d0cebb/jamal-musiala-schaebig-katastrophal-mobbing-kritik-am-fc-bayern-wird-immer-massiver.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b02ebdb3cd434a4d6d0d033/fc-bayern-erneuter-rueckfall-bei-musiala-seine-agentur-meldet-sich-mit-hinweis.html",
   "https://www.welt.de/sport/fussball/bundesliga/hamburger-sv/article6b01a0a35842ff528b9e2ec7/mario-vuskovic-ist-zurueck-ein-freispruch-haette-das-gesamte-test-system-ins-wanken-gebracht.html",
   "https://www.welt.de/sport/fussball/bundesliga/rb-leipzig/article6b02ae935842ff528b9e38a1/juergen-klopp-lob-und-kritik-ein-geiler-typ-aber-er-muss-noch-lernen-klopps-ueberflieger-gruda-trumpft-erneut-auf.html",
   "https://www.welt.de/vermischtes/article6b0278ab5842ff528b9e3635/silvester-2026-kliniken-feuerwehr-und-polizei-fordern-sofortiges-boellerverbot-in-berlin.html",
@@ -462,6 +481,7 @@
   "https://www.welt.de/vermischtes/article6b02a874eefa807c11d9a603/vorwuerfe-gegen-ehemann-sechsstellige-summe-fuer-anwaelte-fernandes-spricht-ueber-rechtsstreit-mit-ulmen.html",
   "https://www.welt.de/vermischtes/article6b02d2585842ff528b9e3c16/fall-paolo-borsellino-nach-ermittlungen-zu-ermordung-von-anti-mafia-richter-italiens-ex-polizeichef-begeht-suizid.html",
   "https://www.welt.de/vermischtes/article6b02f0fc25b618a0b5d5bed8/bayern-defekte-heizung-in-kirche-19-menschen-im-allgaeu-verletzt.html",
+  "https://www.welt.de/videos/video6b02eb645842ff528b9e3dfb/40-stunden-woche-ohne-lohnausgleich-wenn-das-nicht-klappt-und-wir-streiken-durch-dann-gute-nacht-autoindustrie.html",
   "https://www.welt.de/wirtschaft/plus6af8546a389d31d8c8a803aa/medizintechnik-die-naechste-bastion-deutscher-ingenieurskunst-fuerchtet-den-china-schock.html",
   "https://www.welt.de/wirtschaft/plus6afb0b0b028f6e41ab3f11c3/booking-com-ceo-will-das-reisen-neu-erfinden-und-widerspricht-dem-hotel-trick.html",
   "https://www.welt.de/wirtschaft/plus6afc5b31cdc4b5009f0a8de2/mieten-was-deutschlands-ehrlichster-wohnatlas-ueber-ihre-region-verraet.html",
