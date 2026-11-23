@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T20:22+01:00",
+ "updatedAt": "2026-11-23T21:06+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T20:35:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/iran-saengerin-parastu-ahmadi-wegen-verstoss-gegen-kopftuchpflicht-ausgepeitscht-a-aeda6a6e-0556-4654-83fc-4e5fa7e97e2e#ref=rss",
+    "text": {
+     "tr": "İranlı şarkıcı Parastu Ahmadi, koputuk takma kuralına uymadığı ve başörtüsüz şarkı söylediği gerekçesiyle kırbaçlandı.",
+     "de": "Wegen Verstoßes gegen die Kopftuchpflicht und Auftretens ohne Schleier ist die iranische Sängerin Parastu Ahmadi ausgepeitscht worden."
+    }
+   },
    {
     "time": "2026-11-23T20:07:24+01:00",
     "source": "tagesschau",
@@ -38,18 +47,27 @@
      "tr": "Berlin'deki NATO yıllık toplantısının sonunda, ittifak topraklarının her karışının savunulacağına dair Rusya'ya net bir uyarı yapıldı.",
      "de": "Zum Abschluss der Nato-Jahrestagung in Berlin wurde eine deutliche Warnung an Russland ausgesprochen, jeden Fuß des Bündnisgebiets zu verteidigen."
     }
-   },
-   {
-    "time": "2026-11-23T17:00:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/ukraine-krieg-spiegel-rechnet-mit-mehr-als-600-000-getoeteten-russischen-soldaten-im-ukrainekrieg-a-87309cd3-0345-4eb0-93aa-5b1330decd1a#ref=rss",
-    "text": {
-     "tr": "Gizli istatistik verilerine göre Ukrayna savaşında ölen Rus askerlerinin sayısı 600 binin üzerinde.",
-     "de": "Geheimen Daten zufolge sind im Ukraine-Krieg bereits mehr als 600.000 russische Soldaten gestorben."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-23T19:51:55+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+    "text": {
+     "tr": "Avustralya'da muhalefet koalisyonu, iklim hedefleri şartları nedeniyle Vanuatu ile yapılan güvenlik anlaşmasına karşı çıktı.",
+     "de": "Die australische Koalition lehnt ein Sicherheitsabkommen mit Vanuatu wegen verbindlicher Auflagen zu Klimazielen ab."
+    }
+   },
+   {
+    "time": "2026-11-23T19:42:40+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, Iowa'daki askeri mühimmat fabrikasında patlayıcı imha planı için temyiz mahkemesinin kararını bekleyecek.",
+     "de": "Donald Trump will die Entscheidung eines Berufungsgerichts abwarten, ob Sprengstoffreste in einer Munitionsfabrik in Iowa detoniert werden dürfen."
+    }
+   },
    {
     "time": "2026-11-23T18:20:03+00:00",
     "source": "The Guardian World",
@@ -76,27 +94,27 @@
      "tr": "Finlandiya, bir Rus helikopterinin hava sahasını ihlal etmesi ve Rus kargo gemisinin vurulmasının ardından Rusya'nın büyükelçisini bakanlığa çağırdı.",
      "de": "Finnland hat den russischen Botschafter einbestellt, nachdem ein russischer Hubschrauber den Luftraum verletzt hatte und ein Frachtschiff getroffen wurde."
     }
-   },
-   {
-    "time": "2026-11-23T16:42:09+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
-    "text": {
-     "tr": "İngiltere Eğitim Bakanı Lucy Powell, MI5 uyarısından hafta sonraları sonra İngiliz eğitimini tanıtmak üzere Pekin'i ziyaret ediyor.",
-     "de": "Die britische Bildungsministerin Lucy Powell reist nach Peking, um für das britische Bildungswesen zu werben, Wochen nach einer Warnung des MI5 vor chinesischer Einflussnahme."
-    }
-   },
-   {
-    "time": "2026-11-23T16:19:06+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/23/lilly-jones-stabbing-park-south-wales-trial",
-    "text": {
-     "tr": "Galler'in güneyindeki bir parkta 14 yaşındaki bir kız çocuğunun 55 kez bıçaklanarak öldürülmesiyle ilgili dava görüldü.",
-     "de": "Vor Gericht wurde der Fall verhandelt, bei dem ein 14-jähriges Mädchen in einem Park in Südwales 55 Mal erstochen wurde."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-23T22:55:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-2558777",
+    "text": {
+     "tr": "Sermaye piyasası işlemlerine yönelik yürütülen fon soruşturmasında gözaltına alınan 4 şüpheli tutuklama talebiyle sevk edildi.",
+     "de": "Vier Verdächtige sind im Zuge von Ermittlungen zu Kapitalmarkttransaktionen und Fonds mit einem Haftbefehl dem Haftrichter vorgeführt worden."
+    }
+   },
+   {
+    "time": "2026-11-23T22:22:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-valiligi-nden-aslan-ihbari-aciklamasi-hayvanin-aslan-veya-diger-buyuk-kedi-turlerinden-biri-olmadigi-degerlendirilmistir-2558767",
+    "text": {
+     "tr": "İstanbul Valiliği, Sarıyer'deki aslan ihbarı üzerine yapılan incelemelerde görüntülerdeki hayvanın aslan olmadığını açıkladı.",
+     "de": "Nach einer Tiersichtung in Istanbul hat das Gouvernement klargestellt, dass das gesuchte Tier in Sarıyer kein Löwe ist."
+    }
+   },
    {
     "time": "2026-11-23T22:12:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -123,24 +141,6 @@
      "tr": "AFAD, Erzurum'un Çat ilçesinde 3,9 büyüklüğünde deprem meydana geldiğini duyurdu.",
      "de": "In der türkischen Provinz Erzurum hat sich ein Erdbeben der Stärke 3,9 ereignet."
     }
-   },
-   {
-    "time": "2026-11-23T21:03:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/baygaralar-sorusturmasinda-90-supheli-tutuklandi-2558744",
-    "text": {
-     "tr": "Adana'da düzenlenen suç örgütü operasyonunda gözaltına alınan 93 şüpheliden 90'ı tutuklandı.",
-     "de": "Bei einer Operation gegen eine kriminelle Vereinigung in Adana wurden 90 von 93 verdächtigen Personen festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-23T19:46:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/fatih-te-tramvay-ile-otobus-carpisti-14-kisi-yaralandi-kaza-aninin-goruntusu-ortaya-cikti-2558725",
-    "text": {
-     "tr": "İstanbul Fatih'te tramvay ile İETT otobüsünün çarpışması sonucu 14 kişi yaralandı.",
-     "de": "Bei einer Kollision zwischen einer Straßenbahn und einem IETT-Bus in Istanbul-Fatih wurden 14 Personen verletzt."
-    }
    }
   ]
  },
@@ -161,6 +161,7 @@
   "https://tr.euronews.com/2026/11/23/bmden-libya-aciklarinda-rus-gemilerine-yonelik-iha-saldirilari-icin-sorusturma-cagrisi",
   "https://tr.euronews.com/2026/11/23/choose-france-zirvesi-149-milyar-avroluk-yeni-yatirim-aciklandi",
   "https://tr.euronews.com/2026/11/23/claude-yapay-zekasi-riemann-hipotezini-cozdu-bilim-ve-toplum-icin-ne-anlama-geliyor",
+  "https://tr.euronews.com/2026/11/23/cop31de-anlasma-saglanamazken-sicaklik-rekoru-kirildi-kuresel-isinma-bir-gunde-212-derecey",
   "https://tr.euronews.com/2026/11/23/crowdstrike-zscaleri-404-milyar-avroya-aldi-en-buyuk-siber-guvenlik-anlasmasi",
   "https://tr.euronews.com/2026/11/23/crowdstrike-zscaleri-404-milyar-euroluk-tarihin-en-buyuk-siber-guvenlik-anlasmasiyla-aliyo",
   "https://tr.euronews.com/2026/11/23/don-toliver-konserinde-bilinmeyen-madde-panigi-50den-fazla-kisi-etkilendi",
@@ -226,6 +227,7 @@
   "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
   "https://www.bbc.com/turkce/articles/c3rrg7qd9898o",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+  "https://www.bbc.com/turkce/articles/c6174rxvk8pgo",
   "https://www.bbc.com/turkce/articles/c61wr385xervo",
   "https://www.bbc.com/turkce/articles/c6930ynejexno",
   "https://www.bbc.com/turkce/articles/cj1dverkqw7zo",
@@ -251,6 +253,7 @@
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-vi-konsollar-icin-ilk-guncellemesini-aldi-2558753",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-vi-sizintisi-genisliyor-iddiaya-gore-pc-ye-bir-hafta-icinde-acilabilir-2558740",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/riza-disi-cinsel-icerikli-yapay-zeka-goruntuleri-nedeniyle-spacex-e-dava-2558733",
+  "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/cesme-belediyesi-nin-2027-yili-butcesi-izbb-meclisi-nde-oy-birligiyle-kabul-edildi-2558774",
   "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/kulturpark-platformu-basmane-cukuru-kamunundur-kamusal-haklarimizdan-vazgecmeyecegiz-2558650",
   "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/ulkemizin-turizmi-ve-misir-fas-2558756",
   "https://www.cumhuriyet.com.tr/dunya/ab-nin-yeni-butce-teklifi-macaristan-in-ardindan-bir-itiraz-da-cekya-dan-geldi-2558760",
@@ -290,6 +293,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/zafer-partisi-nden-iktidara-fon-onerisi-bari-soyguna-karismamis-olan-akp-lilerin-isimlerini-yayinlayin-2558718",
   "https://www.cumhuriyet.com.tr/spor/afrika-futbol-konfederasyonu-ndan-gianni-infantino-karari-2558754",
   "https://www.cumhuriyet.com.tr/spor/basin-toplantisinda-acikladi-okan-buruk-victor-osimhen-in-son-durumunu-duyurdu-2558614",
+  "https://www.cumhuriyet.com.tr/spor/bertug-yildirim-hat-trick-yapti-basaksehir-2-0-dan-geri-dondu-2558772",
   "https://www.cumhuriyet.com.tr/spor/davinson-sanchez-den-batrakov-sozleri-simdiden-kalitesini-gosteriyor-2558668",
   "https://www.cumhuriyet.com.tr/spor/desire-doue-ye-sakatliginin-ardindan-bir-sok-daha-2558524",
   "https://www.cumhuriyet.com.tr/spor/emre-mor-futbola-ara-mi-verdi-emre-mor-futbola-neden-ara-verdi-2558680",
@@ -300,12 +304,14 @@
   "https://www.cumhuriyet.com.tr/spor/genclerbirligi-baskani-acikladi-galatasarayli-iki-oyuncuya-talibiz-2558710",
   "https://www.cumhuriyet.com.tr/spor/hidayet-turkoglu-ndan-tarik-biberovic-aciklamasi-mevcut-statusunde-oynamaya-devam-edecek-2558741",
   "https://www.cumhuriyet.com.tr/spor/inter-ustunlugunu-koruyamadi-8-gollu-mucadelede-kazanan-cikmadi-2558521",
+  "https://www.cumhuriyet.com.tr/spor/kenan-sipahi-milli-forma-oldugu-zaman-yorgunluklar-gidiyor-2558775",
   "https://www.cumhuriyet.com.tr/spor/nec-nijmegen-duyurdu-emre-mor-dan-flas-karar-2558677",
   "https://www.cumhuriyet.com.tr/spor/orkun-kokcu-den-gelecek-aciklamasi-besiktas-tan-ayrilacak-mi-2558722",
   "https://www.cumhuriyet.com.tr/spor/uefa-dan-halil-umut-meler-e-sampiyonlar-ligi-gorevi-2558711",
   "https://www.cumhuriyet.com.tr/spor/unai-emery-den-galatasaray-a-ovgu-turkiye-nin-en-iyisi-2558757",
   "https://www.cumhuriyet.com.tr/spor/unai-emery-den-rams-park-zemini-icin-aciklama-bu-bir-mazeret-degil-2558673",
   "https://www.cumhuriyet.com.tr/turkiye/45-milyon-tl-yi-asan-para-hareketi-zonguldak-merkezli-7-ilde-dolandiricilik-operasyonu-gozaltilar-var-2558617",
+  "https://www.cumhuriyet.com.tr/turkiye/5-yasindaki-cocuga-cinsel-tacizde-bulundu-supheli-yakalanarak-gozaltina-alindi-2558776",
   "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-erzurum-da-deprem-2558739",
   "https://www.cumhuriyet.com.tr/turkiye/ankara-da-vurularak-oldurulmustu-anne-bozayinin-yavrusunu-emzirdigi-goruntuler-ortaya-cikti-2558715",
   "https://www.cumhuriyet.com.tr/turkiye/araci-camura-saplandi-yardim-istemeye-gitti-mehmet-ali-goksu-dan-haber-alinamiyor-2558615",
@@ -314,7 +320,9 @@
   "https://www.cumhuriyet.com.tr/turkiye/dere-kenarinda-supheli-olum-coplerin-arasinda-cesedi-bulundu-2558619",
   "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-yogun-sis-ulasimi-olumsuz-etkiledi-2558525",
   "https://www.cumhuriyet.com.tr/turkiye/fatih-te-tramvay-ile-otobus-carpisti-14-kisi-yaralandi-kaza-aninin-goruntusu-ortaya-cikti-2558725",
+  "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-2558777",
   "https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-sorusturmasinda-tutuklu-polis-hakan-yalcin-in-ifadesi-ortaya-cikti-zarfla-para-trafigi-2558708",
+  "https://www.cumhuriyet.com.tr/turkiye/istanbul-valiligi-nden-aslan-ihbari-aciklamasi-hayvanin-aslan-veya-diger-buyuk-kedi-turlerinden-biri-olmadigi-degerlendirilmistir-2558767",
   "https://www.cumhuriyet.com.tr/turkiye/izmir-buyuksehir-belediye-meclisi-nde-akp-ye-gecis-protestosu-uc-kisi-fenalasti-2558674",
   "https://www.cumhuriyet.com.tr/turkiye/jandarma-9-bin-uzman-erbas-alimi-basvurulari-ne-zaman-2027-jandarma-uzman-erbas-alimi-sartlari-neler-nasil-yapilir-2558528",
   "https://www.cumhuriyet.com.tr/turkiye/kahramanmaras-taki-okul-saldirisinin-uzerinden-223-gun-gecti-3-cocuk-hala-hastanede-2558609",
@@ -511,6 +519,10 @@
   "https://www.evrensel.net/haber/6010877/silvan-da-olum-magarasi-bulundu-bassavciliga-acil-sorusturma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010878/trump-nvidia-yi-ikna-ettigini-soyledi-jensen-huang-yeniden-ceo-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010879/super-lig-de-12-haftanin-son-maci-basaksehir-corum-u-2-0-geriden-gelip-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010880/fon-sorusturmasinda-mal-varligina-tedbir-istenen-neslihan-mumcu-nun-milyonlarca-liralik-hisse-sattigi-ortaya-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010881/saatlerdir-aranan-aslan-meger-yokmus-istanbul-valiligi-goruntulerdeki-hayvanin-aslan-olmadigini-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010882/yuzlerce-birlesik-metal-is-uyesi-isci-volvac-onunde-35-arkadasimizi-geri-alin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010883/trump-jensen-huang-i-boyle-kutladi-suikast-fotografini-yeniden-kurguladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/50-todestag-andre-malraux-accg-201705805.html",
@@ -526,6 +538,7 @@
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/mit-yves-klein-vorschau-auf-die-winterauktionen-bei-grisebach-in-berlin-accg-201687754.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesverfassungsgericht-urteilt-zu-rundfunkbeitrag-erst-2027-201710856.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kreml-propaganda-deutsche-schueler-fuer-putins-ukraine-krieg-accg-201706066.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/televisionale-in-weimar-kinder-tv-preis-fuer-meister-eder-201709690.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimers-plan-fuer-ein-europaeisches-tiktok-ist-kein-unsinn-201709555.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/bob-dylan-in-frankfurt-201709636.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/ki-boom-an-der-boerse-ist-nach-dem-crash-ein-comeback-moeglich-201709768.html",
@@ -620,7 +633,9 @@
   "https://www.faz.net/aktuell/wirtschaft/bundeshaushalt-widerstand-gegen-soeders-vorstoss-zur-kalten-progression-accg-201708020.html",
   "https://www.faz.net/aktuell/wirtschaft/hanks-welt/atmosphere-models-wenn-schoenheit-zur-dienstleistung-wird-accg-201698152.html",
   "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/mailaender-bauskandal-korruptionsvorwuerfe-gegen-giuseppe-sala-fallen-accg-201681665.html",
+  "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/weltklimakonferenz-in-antalya-was-aus-dem-scheitern-folgen-muss-201709336.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fellbaby-statt-kind-wie-haustiere-die-neue-familie-werden-accg-201249138.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-fda-genehmigt-zulassung-fuer-brustkrebsmittel-von-roche-in-den-usa-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lego-investiert-ueber-eine-milliarde-euro-in-neues-werk-in-portugal-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/byd-darf-ti7-nicht-in-der-eu-verkaufen-gericht-sieht-land-rover-defender-kopiert-201708750.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/ccep-eu-kommission-leitet-wettbewerbsverfahren-gegen-europaeischen-coca-cola-abfueller-ein-accg-201708941.html",
@@ -679,8 +694,10 @@
   "https://www.spiegel.de/ausland/cop31-china-nennt-scheitern-der-klimakonferenz-enttaeuschend-und-die-energiewende-unumkehrbar-a-20e9350c-2227-4233-926b-373e3c856c95#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-britische-ex-premiers-theresa-may-und-rishi-sunak-warnen-vor-neuer-brexit-debatte-a-2e13c77d-7457-475a-ac61-fb4cdb646a57#ref=rss",
   "https://www.spiegel.de/ausland/grossbritannien-premier-andy-burnham-wehrt-sich-gegen-kritik-seiner-amtsvorgaenger-a-58375c3b-b652-4d07-b9bf-d7baf7c99c96#ref=rss",
+  "https://www.spiegel.de/ausland/iran-saengerin-parastu-ahmadi-wegen-verstoss-gegen-kopftuchpflicht-ausgepeitscht-a-aeda6a6e-0556-4654-83fc-4e5fa7e97e2e#ref=rss",
   "https://www.spiegel.de/ausland/israel-eisenkot-verurteilt-juedischen-terrorismus-im-westjordanland-a-93535601-043a-494e-8423-e946c944b269#ref=rss",
   "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
+  "https://www.spiegel.de/ausland/jared-kushner-donald-trumps-schwiegersohn-und-chefvermittler-wird-immer-reicher-a-b3af0ff4-f30f-4dc3-b727-5a3a03cc5901#ref=rss",
   "https://www.spiegel.de/ausland/kanada-mark-carney-holt-beim-presse-dinner-falschen-donald-trump-auf-die-buehne-a-047a4fae-bec9-48c7-aa69-680fd7fdeb61#ref=rss",
   "https://www.spiegel.de/ausland/libyen-ukraine-attackiert-russische-flotte-weit-entfernt-von-der-front-a-28d532ee-b844-4509-9b83-c040fac35c3a#ref=rss",
   "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
@@ -770,6 +787,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/23/football-queensland-gate-fee-kids-soccer-outrage",
   "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
   "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
+  "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
   "https://www.theguardian.com/business/2026/nov/23/flagship-uk-gigafactory-turmoil-loses-second-builder",
   "https://www.theguardian.com/business/2026/nov/23/gas-prices-in-europe-surge-as-forecast-cold-snap-feeds-supply-shortage-fears",
@@ -811,6 +829,7 @@
   "https://www.theguardian.com/us-news/2026/nov/23/deltona-florida-christmas-parade-amendment-3",
   "https://www.theguardian.com/us-news/2026/nov/23/dnc-democrats-presidential-primary-debates",
   "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
+  "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
   "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani",
   "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
   "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
@@ -822,6 +841,7 @@
   "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
   "https://www.theguardian.com/world/2026/nov/23/russia-nuclear-weapons-space-german-intelligence",
   "https://www.theguardian.com/world/2026/nov/23/russia-war-dead-hidden-toll-ukraine-conflict",
+  "https://www.theguardian.com/world/2026/nov/23/student-arrest-racist-campaign-israel-palestine-benjamin-netanyahu",
   "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
   "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
   "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
