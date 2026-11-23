@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-23T03:12+01:00",
+ "updatedAt": "2026-11-23T03:42+01:00",
  "countries": {
   "world": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-23T02:15:34+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+    "text": {
+     "tr": "Binlerce kişi, İstanbul'da muhalefete ve bağımsız medyaya yönelik baskıları protesto etmek için yürüdü.",
+     "de": "Tausende demonstrierten in Istanbul gegen das Vorgehen gegen die Opposition und unabhängige Medien."
+    }
+   },
+   {
     "time": "2026-11-23T00:58:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/turkiye/tankerde-271-kilo-uyusturucu-ele-gecirildi-2558448",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "İzmir Aliağa'da 19 işçinin öldüğü HABAŞ tesisinin İngiltere merkezli bir kurum tarafından güvenli üretim sertifikası aldığı ortaya çıktı.",
      "de": "Es wurde bekannt, dass das HABAŞ-Werk in Aliağa, in dem 19 Arbeiter starben, von einer britischen Institution zertifiziert wurde."
-    }
-   },
-   {
-    "time": "2026-11-23T00:03:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/prizden-cikan-dumani-fark-etti-akima-kapilip-kalbi-durdu-2558445",
-    "text": {
-     "tr": "Antalya'da banyo prizinden çıkan dumanı fark edip müdahale etmek isteyen bir kişi elektrik akımına kapılarak yaralandı.",
-     "de": "In Antalya erlitt ein Mann einen Stromschlag, als er auf Rauch aus einer Steckdose im Badezimmer reagieren wollte."
     }
    }
   ],
@@ -354,6 +354,7 @@
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/rekordauktionen-in-new-york-was-den-kunstmarkt-antreibt-accg-201698888.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/donald-trumps-prozesse-gegen-die-medien-accg-201705514.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/was-passiert-wenn-sich-eine-ki-als-forscher-vorstellt-accg-201699981.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/caren-miosga-in-der-tv-kritik-roettgen-verteidigt-ukrainehilfen-accg-201707615.html",
   "https://www.faz.net/aktuell/finanzen/black-friday-warum-konsumkritik-oft-ein-luxusproblem-ist-accg-201699559.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/italiens-ex-polizeichef-de-gennaro-begeht-suizid-accg-201706594.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/schreckschusswaffe-im-zug-polizeieinsatz-am-bahnhof-hamburg-harburg-accg-201706217.html",
@@ -467,6 +468,7 @@
   "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
   "https://www.france24.com/en/americas/20261122-democrat-hubbard-wins-north-carolina-recount-clinching-historic-house-majority",
   "https://www.france24.com/en/asia-pacific/20261122-the-week-in-pictures-xi-hosts-trump-and-putin-cop31-and-more-french-protests",
+  "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
   "https://www.france24.com/en/english-village-votes-to-leave-uk",
   "https://www.france24.com/en/environment/20261121-latest-cop31-deal-sidesteps-fossil-fuels-amid-growing-divisions",
   "https://www.france24.com/en/europe-sees-new-protests-over-rising-costs-inequality-and-public-services",
@@ -536,6 +538,7 @@
   "https://www.spiegel.de/sport/fussball/fc-arsenal-lisa-baum-bricht-im-spiel-mit-atemnot-zusammen-a-f95f7696-4847-4505-9f22-ff09f760bee4#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-lothar-matthaeus-spielergewerkschaft-und-neurologe-kritisieren-umgang-der-bayern-bosse-scharf-a-c10eb7f9-6ac2-4501-9382-30b30b318606#ref=rss",
   "https://www.spiegel.de/sport/fussball/premier-league-pochettino-soll-united-retten-erlebt-0-4-debakel-in-liverpool-a-dba1119d-5a88-4669-b7f3-b5057efb1cc9#ref=rss",
+  "https://www.spiegel.de/sport/leichtathletik/alex-kukla-deutscher-lief-sieben-marathons-in-sieben-tagen-auf-sieben-kontinenten-a-dffc40a5-95f3-4b86-8680-90fafdae74bc#ref=rss",
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
