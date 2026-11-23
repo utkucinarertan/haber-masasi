@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T10:25+01:00",
+ "updatedAt": "2026-11-23T10:55+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T10:45:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/spd-sigmar-gabriel-kritisiert-fuehrungsvakuum-in-der-partei-a-e31c435a-b50b-4f5f-8098-67041beca7b1#ref=rss",
+    "text": {
+     "tr": "Eski SPD Genel Başkanı Sigmar Gabriel, partisindeki liderlik boşluğunu ve iç dayanışma eksikliğini eleştirdi.",
+     "de": "Der ehemalige SPD-Vorsitzende Sigmar Gabriel hat ein Führungsvakuum und mangelnde innerparteiliche Solidarität in seiner Partei kritisiert."
+    }
+   },
    {
     "time": "2026-11-23T10:16:50+01:00",
     "source": "tagesschau",
@@ -38,18 +47,27 @@
      "tr": "Alman borsa endeksi Dax, üst üste altı seans süren düşüşün ardından hafif bir toparlanma kaydetti.",
      "de": "Der deutsche Leitindex Dax verzeichnet nach sechs Verlusttagen in Folge eine leichte Erholung zu Handelsbeginn."
     }
-   },
-   {
-    "time": "2026-11-23T09:47:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/justiz/liebesspiel-im-ice-endet-fuer-29-jaehrigen-in-haft-a-172cd427-3580-4807-a350-ede1ade69d94#ref=rss",
-    "text": {
-     "tr": "Hannover-Göttingen seferi yapan trende mahrem eylemlerde bulunan 29 yaşındaki yolcu, hakkında iki tutuklama emri olduğu için gözaltına alındı.",
-     "de": "Intime Handlungen eines 29-Jährigen in einem ICE zwischen Hannover und Göttingen führten zur Festnahme, da zwei Haftbefehle vorlagen."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-23T12:31:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010770/hudeyde-de-can-kaybi-10-a-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Yemen'in Hudeyde kentindeki bir telekomünikasyon binasına düzenlenen saldırıda yaşamını yitirenlerin sayısı 10'a yükseldi.",
+     "de": "Nach einem Angriff auf ein Telekommunikationsgebäude in der jemenitischen Stadt Hodeidah ist die Zahl der Todesopfer auf 10 gestiegen."
+    }
+   },
+   {
+    "time": "2026-11-23T12:15:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010768/tekstil-markalarinin-hak-taahhutleri-kagit-uzerinde-kaldi-iscilerin-yuzde-431-i-temel-ihtiyaclarini-karsilayamiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Temiz Giysi Kampanyası'nın araştırmasına göre, tekstil işçilerinin yüzde 43,1'i temel ihtiyaçlarını karşılayamıyor.",
+     "de": "Einer Studie der Clean Clothes Campaign zufolge können 43,1 Prozent der Textilarbeiter ihre Grundbedürfnisse nicht decken."
+    }
+   },
    {
     "time": "2026-11-23T11:16:00+03:00",
     "source": "Evrensel",
@@ -69,30 +87,12 @@
     }
    },
    {
-    "time": "2026-11-23T10:22:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/magazin/quentin-tarantino-ucuncu-kez-baba-oldu-bebegin-cinsiyeti-belli-oldu-2558527",
+    "time": "2026-11-23T10:41:04+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/23/almanya-litvanyada-kamikaze-ihalari-ve-yapay-zeka-destekli-hedeflemeyi-test-ediyor",
     "text": {
-     "tr": "Oscar ödüllü yönetmen Quentin Tarantino ile eşi Daniella Pick'in üçüncü çocukları dünyaya geldi.",
-     "de": "Der Oscar-prämierte Regisseur Quentin Tarantino und seine Frau Daniella Pick sind zum dritten Mal Eltern geworden."
-    }
-   },
-   {
-    "time": "2026-11-23T09:24:41+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
-    "text": {
-     "tr": "Ukrayna, Libya limanında demirli Rus savaş gemisi Merkury'nin deniz dronları kullanılarak batırıldığını açıkladı.",
-     "de": "Die Ukraine hat sich zur Zerstörung des russischen Kriegsschiffs Merkury in einem libyschen Hafen mittels Seedrohnen bekannt."
-    }
-   },
-   {
-    "time": "2026-11-23T08:53:01+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro",
-    "text": {
-     "tr": "Kenya ve Kongo Demokratik Cumhuriyeti, çatışmalar nedeniyle gerilen ilişkileri yeniden tesis etme konusunda anlaşmaya vardı.",
-     "de": "Kenia und die Demokratische Republik Kongo haben sich auf eine Wiederherstellung ihrer Beziehungen nach Konfliktspannungen geeinigt."
+     "tr": "Alman ordusu Litvanya'daki tatbikatlarda kamikaze İHA'ları ve yapay zekâ destekli hedefleme sistemlerini test ediyor.",
+     "de": "Die Bundeswehr testet bei Manövern in Litauen Kamikaze-Drohnen und KI-gestützte Zielerfassungssysteme."
     }
    }
   ],
@@ -148,6 +148,7 @@
   "https://tr.euronews.com/2026/11/23/1992-yapimi-batmobil-acik-artirmaya-cikiyor-tahmini-fiyati-7-milyon-dolar",
   "https://tr.euronews.com/2026/11/23/abd-ara-secimleri-demokratlar-temsilciler-meclisinde-son-30-yilin-en-buyuk-cogunlugunu-eld",
   "https://tr.euronews.com/2026/11/23/abdde-konser-alanina-silahli-saldiri-9-kisi-yaralandi",
+  "https://tr.euronews.com/2026/11/23/almanya-litvanyada-kamikaze-ihalari-ve-yapay-zeka-destekli-hedeflemeyi-test-ediyor",
   "https://tr.euronews.com/2026/11/23/almanyada-bir-restoran-adet-agrisini-vardiya-planina-dahil-etti",
   "https://tr.euronews.com/2026/11/23/aralik-2026-avrupa-seyahat-rehberi-noel-pazarlari-trenler-yilbasi",
   "https://tr.euronews.com/2026/11/23/avrupada-gelir-esitsizligi-eurostat-verileri-hafif-dusus-gosteriyor",
@@ -177,6 +178,7 @@
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/cj1dverkqw7zo",
   "https://www.bbc.com/turkce/articles/cm4gn34x26w8o",
+  "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
   "https://www.bbc.com/turkce/articles/cxyvdqvlzzm1o",
   "https://www.cumhuriyet.com.tr/dunya/trump-in-dostum-dedigi-putin-e-abd-istihbaratindan-yanit-kesinlikle-dostumuz-degil-2558522",
   "https://www.cumhuriyet.com.tr/ekonomi/hizmet-sektoru-yukseldi-sanayi-cakildi-tuik-3-ceyrek-isgucu-tablosu-aciklandi-2558519",
@@ -240,6 +242,11 @@
   "https://www.evrensel.net/haber/6010763/mlsa-erisim-engelleri-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010764/belcika-da-grev-gunu-tum-ucuslar-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010765/don-toliver-konserinde-supheli-madde-panigi-12-bin-kisi-tahliye-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010766/yozgat-ta-seker-pancari-hasadi-yagislara-takildi-uretici-dusuk-fiyat-yuksek-fire-ve-maliyetlerden-sikayetci?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010767/kenan-yildiz-in-sahalara-donusu-icin-tarih-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010768/tekstil-markalarinin-hak-taahhutleri-kagit-uzerinde-kaldi-iscilerin-yuzde-431-i-temel-ihtiyaclarini-karsilayamiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010769/sariyer-de-aslan-panigi-bir-aslanla-karsilasanlar-ne-yapmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010770/hudeyde-de-can-kaybi-10-a-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/der-mann-der-die-iphone-kamera-verantwortet-muss-gehen-201701259.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/kulturkampf-in-frankreich-accg-201699273.html",
@@ -250,6 +257,7 @@
   "https://www.faz.net/aktuell/politik/ausland/frankreich-jean-luc-melenchons-liebstes-feindbild-heisst-deutschland-201699870.html",
   "https://www.faz.net/aktuell/politik/ausland/jovo-baki-und-aleksandra-stimac-serbiens-studentenliste-bekommt-gesichter-accg-201705185.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-plant-offenbar-ueberraschendes-koalitions-manoever-faz-200583539.html",
+  "https://www.faz.net/aktuell/politik/inland/ganztagsbetreuung-fuer-erstklaessler-geht-es-wirklich-um-die-kinder-accg-201650730.html",
   "https://www.faz.net/aktuell/politik/ukraine/nato-vor-schwieriger-abwaegung-drei-vorfaelle-ein-dilemma-201706520.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kiew-versenkt-russisches-kriegsschiff-vor-libyen-faz-110683325.html",
   "https://www.faz.net/aktuell/reise/safari-in-botswana-mit-tourismus-aus-der-krise-accg-201119923.html",
@@ -269,13 +277,19 @@
   "https://www.faz.net/aktuell/wirtschaft/arm-und-reich/oekonom-ruediger-bachmann-inflation-zerstoert-den-gesellschaftlichen-zusammenhalt-accg-201700848.html",
   "https://www.faz.net/aktuell/wirtschaft/bundeshaushalt-widerstand-gegen-soeders-vorstoss-zur-kalten-progression-accg-201708020.html",
   "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/bauen-kaufen/mailaender-bauskandal-korruptionsvorwuerfe-gegen-giuseppe-sala-fallen-accg-201681665.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fellbaby-statt-kind-wie-haustiere-die-neue-familie-werden-accg-201249138.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/glyphosat-vergleich-der-befreiungsschlag-fuer-bayer-accg-201706096.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/mistral-ist-dieses-unternehmen-eine-echte-ki-alternative-fuer-europa-accg-201700028.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-mr-bean-bis-zum-christkindl-fuenf-koepfe-auf-die-sie-diese-woche-achten-sollten-accg-201703963.html",
   "https://www.faz.net/aktuell/wirtschaft/warum-deutschlands-jugend-wuetend-ist-und-was-das-land-tun-kann-accg-201702110.html",
+  "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/altman-musk-amodei-und-hassabis-in-feindschaft-vereint-buecher-des-jahres-accg-201298756.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wer-wird-nachfolger-von-hubert-aiwanger-f-a-z-fruehdenker-201707539.html",
+  "https://www.faz.net/video/ukraine-zahl-der-todesopfer-nach-russischem-angriff-steigt-201708307.html",
+  "https://www.france24.com/en/environment/20261123-let-down-on-all-sides-pacific-island-nations-express-despair-over-cop31-failure",
   "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
   "https://www.france24.com/en/tv-shows/sports/20261123-ligue-1-marseille-lose-to-le-mans-after-being-up-2-goals-at-home",
   "https://www.manager-magazin.de/unternehmen/handel/obi-mutter-tengelmann-setzt-verschwinden-von-karl-erivan-haub-zu-geldsorgen-drohen-a-04dd2dfe-19fd-42c0-ae29-8698933c4ef2#ref=rss",
+  "https://www.spiegel.de/ausland/cop31-china-nennt-scheitern-der-klimakonferenz-enttaeuschend-und-die-energiewende-unumkehrbar-a-20e9350c-2227-4233-926b-373e3c856c95#ref=rss",
   "https://www.spiegel.de/ausland/israel-eisenkot-verurteilt-juedischen-terrorismus-im-westjordanland-a-93535601-043a-494e-8423-e946c944b269#ref=rss",
   "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
   "https://www.spiegel.de/ausland/kanada-mark-carney-holt-beim-presse-dinner-falschen-donald-trump-auf-die-buehne-a-047a4fae-bec9-48c7-aa69-680fd7fdeb61#ref=rss",
@@ -288,18 +302,22 @@
   "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
   "https://www.spiegel.de/panorama/bad-groenenbach-im-allgaeu-56-verletzte-bei-gottesdienst-wegen-kohlenmonoxid-austritt-a-ebf9cf29-ce27-49f4-8e74-e2d2756f9277#ref=rss",
   "https://www.spiegel.de/panorama/justiz/liebesspiel-im-ice-endet-fuer-29-jaehrigen-in-haft-a-172cd427-3580-4807-a350-ede1ade69d94#ref=rss",
+  "https://www.spiegel.de/panorama/leute/hollywoodstar-dwayne-johnson-kommt-zu-wetten-dass-frank-elstner-nicht-a-f69b67d3-84eb-4e9b-9dc8-22dd263f935e#ref=rss",
   "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
   "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/spd-sigmar-gabriel-kritisiert-fuehrungsvakuum-in-der-partei-a-e31c435a-b50b-4f5f-8098-67041beca7b1#ref=rss",
   "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
   "https://www.spiegel.de/sport/strasse-von-hormus-britischer-aktivist-schwimmt-durch-das-umkaempfte-kriegsgebiet-a-4454c6af-565f-4675-a3dc-6ffad35940f5#ref=rss",
   "https://www.spiegel.de/wirtschaft/boerse-dax-erholt-sich-leicht-nach-sechs-verlusttagen-in-folge-a-745db546-edc4-4c0a-bf25-824fba43f63c#ref=rss",
   "https://www.spiegel.de/wirtschaft/gutachter-sieht-autobahn-schulden-als-umgehung-der-schuldenbremse-a-d03e377a-694b-4f1e-8737-5f93bd1bf7b3#ref=rss",
+  "https://www.spiegel.de/wirtschaft/russland-wie-ein-satellit-des-start-ups-iceye-aus-finnland-bedraengt-wurde-a-ff5b0831-a793-4834-b0b9-a24f353a2060#ref=rss",
   "https://www.spiegel.de/wirtschaft/siemens-chef-busch-bescheinigt-deutscher-industrie-grosses-ki-talent-a-44d2b992-08e0-4848-a205-3f4743eb0244#ref=rss",
   "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
   "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+  "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
   "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
   "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
@@ -309,6 +327,7 @@
   "https://www.tagesschau.de/investigativ/ndr-wdr/taliban-konsulat-bonn-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/streiks-ig-metall-norden-100.html",
+  "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
   "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/constitutional-law-expert-brands-defence-bill-allowing-secret-security-rules-lazy-and-irresponsible",
@@ -321,6 +340,8 @@
   "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
   "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
   "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+  "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+  "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
   "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
   "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
@@ -331,6 +352,7 @@
   "https://www.welt.de/finanzen/plus6afef2a3ee91e990acae6bdc/gebaeudetyp-e-die-regeln-fuer-das-billigere-bauen-stehen-fest-und-werden-kaum-etwas-aendern.html",
   "https://www.welt.de/finanzen/plus6b0166eb39a3e8110f0e512b/der-crash-der-aus-dem-nichts-kam-und-wie-es-jetzt-an-den-weltboersen-weitergeht.html",
   "https://www.welt.de/geschichte/article6afad8bdf3f8db1dd9f3e156/sozialismus-in-der-wohnungspolitik-luegt-die-linke-heute-so-dreist-wie-einst-die-sed.html",
+  "https://www.welt.de/gesundheit/plus6b002c7bb237b5b41c9a267a/prostata-operation-ich-wollte-nicht-mit-krebs-herumlaufen.html",
   "https://www.welt.de/iconist/gesellschaft/article6afec280a3767a11a0be9e3e/nackt-im-museum-warum-ich-mich-fuer-die-kunst-ausziehen-will.html",
   "https://www.welt.de/iconist/gesellschaft/plus6b03144225b618a0b5d5c135/russell-brand-warum-die-comedy-branche-bei-sexismus-wegsah.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-kann-nur-antifeminismus-sein-erklaert-die-bundeszentrale.html",
@@ -341,6 +363,7 @@
   "https://www.welt.de/politik/ausland/article6b03db295842ff528b9e4815/nvidia-affaere-alice-huang-soll-ueber-ein-jahr-kontakt-zu-chinas-geheimdienst-gehabt-haben.html",
   "https://www.welt.de/politik/ausland/article6b03df9dcdd7733913bf1c8f/russland-soll-atomwaffe-im-weltraum-vorbereiten-folgen-fuer-das-leben-in-deutschland-immens.html",
   "https://www.welt.de/politik/ausland/article6b03edb5172877701c06f03e/ben-hodges-genau-diese-haefen-werden-russen-ins-visier-nehmen-ex-us-general-nennt-bremerhaven-und-goeteborg.html",
+  "https://www.welt.de/politik/ausland/plus6ae9c5703ac17eaf0c625dc9/deutsch-russische-beziehungen-wenn-die-deutschen-ueber-russland-sprechen-reden-sie-vor-allem-ueber-sich-selbst.html",
   "https://www.welt.de/politik/ausland/plus6aff01539c68d2fcf0c7d20c/litwinenko-witwe-warnt-vor-putins-methoden-und-fordert-trotzdem-dialog.html",
   "https://www.welt.de/politik/ausland/video6b03e11d5842ff528b9e484b/angriffe-auf-die-schattenflotte-kann-der-versuch-von-hardlinern-sein-friedensgespraeche-zu-torpedieren.html",
   "https://www.welt.de/politik/deutschland/article6b02dcd03cd434a4d6d0cf1e/primark-h-m-und-co-gruene-sagen-billig-kleidung-den-kampf-an.html",
@@ -350,6 +373,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b03e85f172877701c06efda/jamal-musiala-das-ist-wie-in-der-eigenen-firma-entgegnet-der-bayern-boss-auf-die-fan-kritik.html",
   "https://www.welt.de/sport/fussball/internationale-ligen/article6b03e11acdd7733913bf1ca4/fc-liverpool-lobeshymnen-auf-wirtz-dank-klopp-wie-ein-anderer-spieler.html",
   "https://www.welt.de/vermischtes/article6b03d8a95842ff528b9e47f1/augsburg-nach-poller-wahnsinn-jetzt-sichert-die-stadt-den-weihnachtsmarkt-mit-tonnenschweren-stahlbarrieren.html",
+  "https://www.welt.de/vermischtes/article6b03ef865842ff528b9e4941/tobias-schlegl-es-war-lebensgefaehrlich-ex-tv-moderator-schildert-attacke-im-rettungsdienst.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b03fa8c39a3e8110f0e784a/hannover-goettingen-paar-wird-beim-sex-im-ice-erwischt-dann-fliegt-der-mann-als-gesuchter-straftaeter-auf.html",
   "https://www.welt.de/wissenschaft/article6b02aed53cd434a4d6d0cb17/karriere-und-kinder-sind-vaeter-in-elternzeit-gluecklicher-forscher-nennen-wichtigen-faktor.html"
  ]
