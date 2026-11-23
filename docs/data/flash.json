@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T05:55+01:00",
+ "updatedAt": "2026-11-23T06:25+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T06:00:06+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
+    "text": {
+     "tr": "Batılı istihbarat teşkilatlarına göre Rusya, bu yıl uzaya nükleer başlık taşıyan bir uydu yerleştirmeyi planlıyor.",
+     "de": "Westlichen Geheimdiensten zufolge plant Russland noch in diesem Jahr, einen Satelliten mit einem Atomsprengkopf in den Weltraum zu bringen."
+    }
+   },
    {
     "time": "2026-11-23T05:43:07+01:00",
     "source": "tagesschau",
@@ -24,6 +33,24 @@
   ],
   "world": [
    {
+    "time": "2026-11-23T05:15:06+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+    "text": {
+     "tr": "Derin anlaşmazlıklar nedeniyle tarihin en uzun BM iklim görüşmeleri anlaşmasız sona erdi.",
+     "de": "Die historisch längsten UN-Klimaverhandlungen sind wegen tiefgreifender Meinungsverschiedenheiten ohne Einigung zu Ende gegangen."
+    }
+   },
+   {
+    "time": "2026-11-23T05:05:21+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b03c6c25842ff528b9e46ed/libysche-kueste-zwoelf-wasserdrohnen-sichergestellt-angriff-auf-russisches-schiff-im-mittelmeer.html",
+    "text": {
+     "tr": "Libya'nın Bingazi limanında demirli Rus gemisine düzenlenen dron saldırısının ardından on iki su altı dronu ele geçirildi.",
+     "de": "Im Hafen von Bengasi in Libyen wurden nach einem Drohnenangriff auf ein russisches Schiff zwölf Wasserdrohnen sichergestellt."
+    }
+   },
+   {
     "time": "2026-11-23T04:44:00+00:00",
     "source": "BBC News World",
     "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
@@ -41,20 +68,42 @@
      "de": "Die US-Armee plant trotz eines gerichtlichen Stopps die Sprengung gefährlicher Chemikalien in einer Munitionsfabrik."
     }
    }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-23T08:09:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010719/ara-tatil-bitti-istanbul-da-trafik-yogunlugu-artti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İstanbul'da ara tatilin bitişi ve haftanın ilk iş günü nedeniyle sabah saatlerinde trafik yoğunluğu yüzde 62 olarak ölçüldü.",
+     "de": "In Istanbul stieg die Verkehrsdichte am ersten Arbeitstag nach den Schulferien am Morgen auf 62 Prozent."
+    }
+   }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/23/dso-genel-direktorlugu-en-genc-aday-gevorg-tamamyan-kimdir",
+  "https://tr.euronews.com/2026/11/23/teknoloji-ve-yapay-zeka-hisseleri-wall-street-satisi-asyaya-yayildi",
   "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+  "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+  "https://www.evrensel.net/haber/6010719/ara-tatil-bitti-istanbul-da-trafik-yogunlugu-artti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
+  "https://www.faz.net/aktuell/sport/sportpolitik/gregor-gysi-im-interview-ueber-parallelen-zwischen-judo-und-politik-accg-201691504.html",
+  "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wer-wird-nachfolger-von-hubert-aiwanger-f-a-z-fruehdenker-201707539.html",
   "https://www.spiegel.de/kultur/literatur/buecher-von-peter-hahne-und-ulf-poschardt-werden-bestseller-aber-ist-das-wutbuch-wirklich-eine-erfindung-der-rechten-a-7aaa47c8-8562-466e-818a-f026535d5668#ref=rss",
   "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+  "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
+  "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
   "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
   "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
-  "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html"
+  "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+  "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html",
+  "https://www.welt.de/politik/ausland/article6b03c6c25842ff528b9e46ed/libysche-kueste-zwoelf-wasserdrohnen-sichergestellt-angriff-auf-russisches-schiff-im-mittelmeer.html"
  ]
 }
