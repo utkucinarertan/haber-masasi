@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T22:04+01:00",
+ "updatedAt": "2026-11-23T22:34+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,33 @@
   ],
   "world": [
    {
+    "time": "2026-11-23T22:11:03+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/video/2026/11/23/belcikada-butce-kesintileri-protestosu-brukselde-isci-yuruyusu-catismaya-donustu",
+    "text": {
+     "tr": "Belçika'nın başkenti Brüksel'de bütçe kesintilerini protesto eden işçi yürüyüşünde arbede yaşandı, polis biber gazı ve tazyikli su kullandı.",
+     "de": "Bei Protesten gegen Haushaltsküerzungen in Brüssel kam es zu Ausschreitungen, woraufhin die Polizei Tränengas und Wasserwerfer einsetzte."
+    }
+   },
+   {
+    "time": "2026-11-23T21:59:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
+    "text": {
+     "tr": "Donald Trump'ın baskısı üzerine Jensen Huang, Nvidia CEO'luğu görevine geri döndü.",
+     "de": "Jensen Huang kehrt auf Druck von Donald Trump als CEO zu Nvidia zurück."
+    }
+   },
+   {
+    "time": "2026-11-23T21:23:25+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b04a915598b867519f0d540/brasilien-nur-in-unterwaesche-gekleidet-alzheimer-patient-ueberlebt-elf-tage-im-amazonas-regenwald.html",
+    "text": {
+     "tr": "Brezilya'da 74 yaşındaki bir Alzheimer hastası, Amazon yağmur ormanlarında 11 gün hayatta kalmayı başardı.",
+     "de": "Ein 74-jähriger Alzheimer-Patient hat elf Tage lang im Amazonas-Regenwald überlebt."
+    }
+   },
+   {
     "time": "2026-11-23T20:56:17+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
@@ -67,36 +94,45 @@
      "tr": "Londra'da Metropolitan Polisi, portakal kasalarının arasına gizlenmiş 893 kilo kokain ele geçirdi ve 8 kişiyi tutukladı.",
      "de": "Die Londoner Polizei hat bei einem Großeinsatz 893 Kilogramm Kokain in Orangenkisten sichergestellt und acht Verdächtige festgenommen."
     }
-   },
-   {
-    "time": "2026-11-23T19:53:51+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Jensen Huang'ın Nvidia CEO'luğuna dönmesini desteklerken Senatör Chuck Schumer soruşturma duyurdu.",
-     "de": "US-Präsident Donald Trump begrüßt die Rückkehr von Jensen Huang als Nvidia-Chef, während Demokraten eine Untersuchung ankündigen."
-    }
-   },
-   {
-    "time": "2026-11-23T19:51:55+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
-    "text": {
-     "tr": "Avustralya'da muhalefet koalisyonu, iklim hedefleri şartları nedeniyle Vanuatu ile yapılan güvenlik anlaşmasına karşı çıktı.",
-     "de": "Die australische Koalition lehnt ein Sicherheitsabkommen mit Vanuatu wegen verbindlicher Auflagen zu Klimazielen ab."
-    }
-   },
-   {
-    "time": "2026-11-23T19:42:40+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Iowa'daki askeri mühimmat fabrikasında patlayıcı imha planı için temyiz mahkemesinin kararını bekleyecek.",
-     "de": "Donald Trump will die Entscheidung eines Berufungsgerichts abwarten, ob Sprengstoffreste in einer Munitionsfabrik in Iowa detoniert werden dürfen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-24T00:26:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/vergi-harc-ve-cezalara-ne-kadar-zam-gelecek-resmi-gazete-de-yayimlandi-yeniden-degerleme-orani-belli-oldu-2558797",
+    "text": {
+     "tr": "Türkiye'de 2026 yılı için vergi, harç ve cezaları belirleyen yeniden değerleme oranı yüzde 27,83 olarak Resmi Gazete'de yayımlandı.",
+     "de": "In der Türkei wurde die neue Wiederbewertungsquote für Steuern, Gebühren und Strafen im Amtsblatt mit 27,83 Prozent festgelegt."
+    }
+   },
+   {
+    "time": "2026-11-24T00:20:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/28-kisinin-oldugu-gemi-faciasinda-yeni-gelisme-400-tl-lik-yapistiriciyla-tamir-edildigi-ortaya-cikti-2558796",
+    "text": {
+     "tr": "Kuzey Kıbrıs'ta 28 kişinin öldüğü gemi faciası davasında, geminin seferlerin aksamaması için 400 liralık yapıştırıcıyla tamir edildiği ortaya çıktı.",
+     "de": "Im Prozess zum Schiffsunglück mit 28 Toten in Nordzypern kam heraus, dass das Schiff mit Kleber repariert worden war."
+    }
+   },
+   {
+    "time": "2026-11-24T00:13:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-saganak-asfalt-coktu-3-kamyon-ve-1-kamyonet-cukura-dustu-2558795",
+    "text": {
+     "tr": "Balıkesir'in Havran ilçesinde sağanak nedeniyle çöken asfalttaki derin çukura 3 kamyon ve 1 kamyonet düştü.",
+     "de": "In Balıkesir stürzten nach heftigen Regenfällen drei Lkw und ein Kleintransporter in eine eingestürzte Straße."
+    }
+   },
+   {
+    "time": "2026-11-24T00:04:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/nuri-sahin-kotu-haberi-duyurdu-sezonu-kapatti-2558794",
+    "text": {
+     "tr": "Başakşehir Teknik Direktörü Nuri Şahin, sakatlanan Emin Bayram'ın sezonu kapattığını açıkladı.",
+     "de": "Basaksehir-Trainer Nuri Şahin gab bekannt, dass der verletzte Emin Bayram für den Rest der Saison ausfällt."
+    }
+   },
    {
     "time": "2026-11-23T23:32:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -104,42 +140,6 @@
     "text": {
      "tr": "Ankara Büyükşehir Belediyesinin 2027 yılı bütçesi 278 milyar lira olarak oy birliğiyle kabul edildi.",
      "de": "Der Haushalt der Stadtverwaltung Ankara für das Jahr 2027 wurde einstimmig auf 278 Milliarden Lira festgelegt."
-    }
-   },
-   {
-    "time": "2026-11-23T23:13:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/kotu-koku-harekete-gecirdi-yatalak-hastanin-esinin-cesediyle-3-gun-yasadigi-ortaya-cikti-2558786",
-    "text": {
-     "tr": "Kahramanmaraş'ta yatalak ve demans hastası bir kişi, ölen eşinin cesediyle evde 3 gün yaşadı.",
-     "de": "In Kahramanmaraş lebte ein bettlägeriger demenzkranker Mann drei Tage lang mit der Leiche seiner Frau in der Wohnung."
-    }
-   },
-   {
-    "time": "2026-11-23T22:55:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-2558777",
-    "text": {
-     "tr": "Sermaye piyasası işlemlerine yönelik yürütülen fon soruşturmasında gözaltına alınan 4 şüpheli tutuklama talebiyle sevk edildi.",
-     "de": "Vier Verdächtige sind im Zuge von Ermittlungen zu Kapitalmarkttransaktionen und Fonds mit einem Haftbefehl dem Haftrichter vorgeführt worden."
-    }
-   },
-   {
-    "time": "2026-11-23T22:22:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-valiligi-nden-aslan-ihbari-aciklamasi-hayvanin-aslan-veya-diger-buyuk-kedi-turlerinden-biri-olmadigi-degerlendirilmistir-2558767",
-    "text": {
-     "tr": "İstanbul Valiliği, Sarıyer'deki aslan ihbarı üzerine yapılan incelemelerde görüntülerdeki hayvanın aslan olmadığını açıkladı.",
-     "de": "Nach einer Tiersichtung in Istanbul hat das Gouvernement klargestellt, dass das gesuchte Tier in Sarıyer kein Löwe ist."
-    }
-   },
-   {
-    "time": "2026-11-23T22:12:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/dunya/ab-nin-yeni-butce-teklifi-macaristan-in-ardindan-bir-itiraz-da-cekya-dan-geldi-2558760",
-    "text": {
-     "tr": "AB'nin 2028-2034 bütçe teklifine Macaristan'ın ardından Çekya Başbakanı Andrej Babis de itiraz etti.",
-     "de": "Nach Ungarn hat auch Tschechien Kritik am neuen EU-Haushaltsvorschlag geäußert."
     }
    }
   ]
@@ -202,6 +202,7 @@
   "https://tr.euronews.com/2026/11/23/trump-nvidia-yonetimine-jensen-huangi-yeniden-ceo-yapma-cagrisi",
   "https://tr.euronews.com/2026/11/23/trumptan-nvidiaya-cagri-jensen-huangi-ceoluga-geri-alin",
   "https://tr.euronews.com/2026/11/23/yapay-zeka-seyahat-sektorunu-donusturuyor-tatil-planlamada-artan-rol",
+  "https://tr.euronews.com/video/2026/11/23/belcikada-butce-kesintileri-protestosu-brukselde-isci-yuruyusu-catismaya-donustu",
   "https://tr.euronews.com/video/2026/11/23/cinde-uc-bogazda-5-bin-dron-gosterisi-sonbahar-festivali-gokyuzunu-aydinlatti",
   "https://tr.euronews.com/video/2026/11/23/endonezyada-fabrika-yangini-enkazdan-24-cenaze-torbasi-cikarildi",
   "https://tr.euronews.com/video/2026/11/23/rio-copacabana-onur-yuruyusu-dev-gokkusagi-bayragiyla-dansli-kutlama",
@@ -282,6 +283,7 @@
   "https://www.cumhuriyet.com.tr/magazin/quentin-tarantino-ucuncu-kez-baba-oldu-bebegin-cinsiyeti-belli-oldu-2558527",
   "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-silvan-icra-dairesi-mudurlugu-2558441",
   "https://www.cumhuriyet.com.tr/saglik/hpv-sadece-genital-bolgeyi-etkilemiyor-uzmanindan-agiz-ve-bogaz-kanseri-uyarisi-2558700",
+  "https://www.cumhuriyet.com.tr/siyaset/28-kisinin-oldugu-gemi-faciasinda-yeni-gelisme-400-tl-lik-yapistiriciyla-tamir-edildigi-ortaya-cikti-2558796",
   "https://www.cumhuriyet.com.tr/siyaset/akp-li-vekil-elektrik-yatirimlarini-anlatirken-elektrikler-kesildi-saka-gibi-2558793",
   "https://www.cumhuriyet.com.tr/siyaset/akp-ye-gecen-tekirdag-buyuksehir-belediye-baskani-candan-yuceer-transferin-nedenini-acikladi-ne-bir-tehdit-ne-bir-korku-ne-de-kisisel-bir-ikbal-2558742",
   "https://www.cumhuriyet.com.tr/siyaset/butlan-chp-sinde-mesruiyet-tartismasi-buyuyor-oztrak-tan-salici-ya-firsatcilik-yaniti-2558661",
@@ -313,6 +315,7 @@
   "https://www.cumhuriyet.com.tr/spor/inter-ustunlugunu-koruyamadi-8-gollu-mucadelede-kazanan-cikmadi-2558521",
   "https://www.cumhuriyet.com.tr/spor/kenan-sipahi-milli-forma-oldugu-zaman-yorgunluklar-gidiyor-2558775",
   "https://www.cumhuriyet.com.tr/spor/nec-nijmegen-duyurdu-emre-mor-dan-flas-karar-2558677",
+  "https://www.cumhuriyet.com.tr/spor/nuri-sahin-kotu-haberi-duyurdu-sezonu-kapatti-2558794",
   "https://www.cumhuriyet.com.tr/spor/orkun-kokcu-den-gelecek-aciklamasi-besiktas-tan-ayrilacak-mi-2558722",
   "https://www.cumhuriyet.com.tr/spor/uefa-dan-halil-umut-meler-e-sampiyonlar-ligi-gorevi-2558711",
   "https://www.cumhuriyet.com.tr/spor/unai-emery-den-galatasaray-a-ovgu-turkiye-nin-en-iyisi-2558757",
@@ -324,6 +327,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/ankara-da-vurularak-oldurulmustu-anne-bozayinin-yavrusunu-emzirdigi-goruntuler-ortaya-cikti-2558715",
   "https://www.cumhuriyet.com.tr/turkiye/araci-camura-saplandi-yardim-istemeye-gitti-mehmet-ali-goksu-dan-haber-alinamiyor-2558615",
   "https://www.cumhuriyet.com.tr/turkiye/aslan-oldugu-iddiasiyla-ihbar-yapilan-hayvanin-yeni-goruntusu-ortaya-cikti-2558791",
+  "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-saganak-asfalt-coktu-3-kamyon-ve-1-kamyonet-cukura-dustu-2558795",
   "https://www.cumhuriyet.com.tr/turkiye/baygaralar-sorusturmasinda-90-supheli-tutuklandi-2558744",
   "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskanligi-kabinesi-toplandi-2558675",
   "https://www.cumhuriyet.com.tr/turkiye/dere-kenarinda-supheli-olum-coplerin-arasinda-cesedi-bulundu-2558619",
@@ -345,6 +349,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/sir-cinayet-cozuldu-miras-icin-babasini-oldurttugu-ortaya-cikti-2558720",
   "https://www.cumhuriyet.com.tr/turkiye/tiktok-ta-canakkale-savasi-ni-oyuna-cevirdiler-begeni-gonderen-cephane-tasiyor-yorum-yazan-ates-aciyor-2558611",
   "https://www.cumhuriyet.com.tr/turkiye/umit-ozlale-fon-sorusturmasinda-6-nci-dosyayi-acikliyor-unsal-ban-dugumu-malta-daki-alici-hesabi-kime-ait-2558642",
+  "https://www.cumhuriyet.com.tr/turkiye/vergi-harc-ve-cezalara-ne-kadar-zam-gelecek-resmi-gazete-de-yayimlandi-yeniden-degerleme-orani-belli-oldu-2558797",
   "https://www.cumhuriyet.com.tr/turkiye/yakalanacagini-anlayinca-kendini-vurdu-hayatini-kaybetti-2558723",
   "https://www.cumhuriyet.com.tr/turkiye/yasa-disi-bahis-operasyonunda-2-5-milyar-liralik-islem-hacmi-18-tutuklama-2558671",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-tasyapi-nin-sisli-de-yukselen-usulsuz-projesi-onunde-basin-aciklamasi-yapti-kent-suclarina-bir-yenisini-ekleyecekler-2558613",
@@ -466,6 +471,7 @@
   "https://www.evrensel.net/haber/6010801/kayseri-de-tarihi-kesif-mantar-kayanin-uzerinde-2-bin-yillik-roma-mezari-bulundu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010802/aym-nin-yeni-baskani-icin-secim-aralik-ayinin-ilk-haftasinda-yapilacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010803/bursa-da-kuvvetli-lodos-yayalar-yurumekte-zorluk-cekti-budo-ve-ido-seferleri-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010804/hastanelerde-tacize-guvencesizlige-ve-esitsizlige-karsi-birleselim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010805/yeni-hafta-surec-komisyonu-muhalefeti-kalici-olarak-bolecek-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010806/medvedev-askeri-tehdit-durumunda-onleyici-nukleer-saldiri-duzenleyebiliriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010807/bulent-arinc-tan-akp-cikisi-bazi-sonuclari-hesaba-katmamistik?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -488,18 +494,24 @@
   "https://www.evrensel.net/haber/6010824/akp-li-savci-sayan-fon-sahipleriyle-luks-yatlarda-sefa-suren-siyasetciler-kimler?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010825/izmir-de-yurttaslarin-ortak-derdi-gecim-sikintisi-2020-yilinda-maasimin-dortte-biriyle-kira-oduyordum-simdi-maasim-yetmiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010826/izmir-kulturpark-platformu-basmane-cukuru-icin-verdigimiz-mucadeleden-vazgecmeyecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010827/odtu-refika-aksoy-yurdunda-ogrenciler-eylemde-yurt-ucretlerine-yapilan-zammi-odemeyecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010828/ermenistan-da-yeni-anayasa-tartismalari-ararat-cikti-tripp-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010831/tekstil-patronunun-cinayetinde-kizi-dahil-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010834/belcika-da-kemer-sikma-politikalarina-karsi-protestolar-duzenlendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010836/iran-istihbarat-bakanliginda-koklu-degisiklik-plani?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010837/tbmm-heyetinden-samsun-da-kuyu-tipi-cezaevinde-inceleme?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010839/antalya-da-lisede-kiz-ogrenciler-arasinda-maket-bicakli-kavgada-2-ogrenci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010840/ahmet-umit-ten-elif-safak-a-intihal-suclamasi-bence-intihal-vardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010841/egitim-sen-den-24-kasim-aciklamasi-sorunlara-kalici-cozumler-uretilmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010842/habas-in-tonisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010843/dem-partili-eren-den-yunanistan-sinirinda-kaybolan-iki-kisi-icin-arastirma-talebi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010844/kroman-ve-colakoglu-iscilerinde-habas-ofkesi-can-guvenligimiz-patronun-gudumunden-cikarilmali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010845/saglik-kurulu-raporuna-ragmen-hekimin-acil-serviste-gorevlendirilmesi-meclis-gundemine-tasindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010846/metal-iscisi-kadinlardan-smart-iscisi-kadinlara-dayanisma-ziyareti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010847/jensen-huang-yeniden-nvidia-nin-ceo-su-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010849/manavgat-taki-aslan-saldirisinda-yaralanan-suleyman-kir-dan-sariyer-mesaji-halk-korkmasin-mucadele-etsin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010850/gulistan-doku-ailesinin-avukati-cimen-suphelilerin-ifadelerine-mudahale-saibesi-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010851/aygun-kevrina-nin-ardindan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010852/sariyer-de-kaybolan-aslan-icin-komandolar-harekete-gecti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010853/gta-6-icin-sizinti-iddiasi-bir-hafta-icinde-pc-de-calistirilabilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010854/dem-partili-serhat-eren-hasta-mahpus-ali-osman-kose-nin-durumunu-meclis-gundemine-getirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -540,6 +552,7 @@
   "https://www.evrensel.net/haber/6010888/kesk-yoneticileri-kocaeli-den-cagirdi-12-aralik-ta-ankara-dayiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010889/tanrikulu-catismasizlik-donemi-maden-ve-enerji-sirketleri-icin-rant-alanina-donusmesin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010890/egitim-is-arastirmasi-ogretmenlerin-yuzde-6382-sinin-en-buyuk-harcama-kalemleri-arasinda-borc-odemeleri-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010891/iran-abd-nin-deniz-ablukasini-askeri-yontemlerle-kiracak-adimlar-atacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/besser-leben/stil/bauhaus-und-italienische-avantgarde-zwei-designgalerien-in-der-berliner-mommsenstrasse-201614634.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
@@ -658,6 +671,7 @@
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fellbaby-statt-kind-wie-haustiere-die-neue-familie-werden-accg-201249138.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-fda-genehmigt-zulassung-fuer-brustkrebsmittel-von-roche-in-den-usa-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-lego-investiert-ueber-eine-milliarde-euro-in-neues-werk-in-portugal-faz-200452404.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-postet-bizarre-fotomontage-zu-huang-rueckkehr-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/byd-darf-ti7-nicht-in-der-eu-verkaufen-gericht-sieht-land-rover-defender-kopiert-201708750.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/ccep-eu-kommission-leitet-wettbewerbsverfahren-gegen-europaeischen-coca-cola-abfueller-ein-accg-201708941.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/erbschaftsteuer-union-warnt-vor-schnellschuessen-nach-doepfner-affaere-accg-201706427.html",
@@ -772,6 +786,7 @@
   "https://www.spiegel.de/wirtschaft/unternehmen/baumarktketten-obi-und-toom-schliessen-sich-zusammen-a-3a984bb7-6185-415f-a62e-146a593dd5c7#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnlichkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/coca-cola-eu-kommission-leitet-wettbewerbsverfahren-gegen-abfueller-ein-a-299661c2-fc74-4333-bc61-2025aaea1f44#ref=rss",
+  "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
   "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
   "https://www.spiegel.de/wissenschaft/k-o-tropfen-koennen-kuenftig-wohl-laenger-im-koerper-nachgewiesen-werden-a-fdd95ccf-fd96-499c-909d-86ff0c9c57fd#ref=rss",
   "https://www.spiegel.de/wissenschaft/technik/russland-soll-atomwaffe-im-weltraum-vorbereiten-was-die-zuendung-bedeuten-wuerde-a-ecdcaa74-f9e7-4d71-ac83-c81aeddd92d9#ref=rss",
@@ -860,6 +875,7 @@
   "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
   "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
   "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani",
+  "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
   "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
   "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
@@ -923,6 +939,7 @@
   "https://www.welt.de/politik/deutschland/article6b04727c5842ff528b9e6279/rente-mit-63-jetzt-formiert-sich-in-der-union-widerstand-gegen-eine-aufweichung-der-rentenreform.html",
   "https://www.welt.de/politik/deutschland/article6b0481c866a00c9ca1fe17ae/robert-habeck-brechen-unsere-moralischen-standards-ex-gruenen-chef-kritisiert-geplantes-abschiebezentrum-in-ruanda.html",
   "https://www.welt.de/politik/deutschland/article6b0481e139a3e8110f0e937f/afd-droht-mit-verfassungsbeschwerde-gegen-bundeshaushalt-unsinnige-ausgaben.html",
+  "https://www.welt.de/politik/deutschland/article6b0483645842ff528b9e6375/schwarz-rot-unionsfraktionschef-frei-gegen-aufweichung-der-rentenplaene-spd-kritisiert-haushaltsverfahren.html",
   "https://www.welt.de/politik/deutschland/article6b04998339a3e8110f0e94e6/ukraine-krieg-krieg-darf-sich-nicht-auf-ostsee-ausweiten-pistorius-mahnt-kiew.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-bei-der-aufruestung-gebe-es-keine-kontrolle-mehr-sagt-ein-rechnungspruefer.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-deutschlands-gewaltige-aufruestung-und-eine-kontrolle-die-nur-noch-simuliert-wird.html",
@@ -939,6 +956,7 @@
   "https://www.welt.de/vermischtes/article6b0416995842ff528b9e54f3/bombendrohungen-an-hunderten-schulen-in-ganz-deutschland.html",
   "https://www.welt.de/vermischtes/article6b04276539a3e8110f0e854c/dieter-nuhr-kabarettist-macht-krebserkrankung-oeffentlich-alle-auftritte-bis-fruehjahr-abgesagt.html",
   "https://www.welt.de/vermischtes/article6b04692d66a00c9ca1fe15d3/greta-thunberg-wegen-hausfriedensbruchs-in-daenemark-verurteilt.html",
+  "https://www.welt.de/vermischtes/article6b04a915598b867519f0d540/brasilien-nur-in-unterwaesche-gekleidet-alzheimer-patient-ueberlebt-elf-tage-im-amazonas-regenwald.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b03fa8c39a3e8110f0e784a/hannover-goettingen-paar-wird-beim-sex-im-ice-erwischt-dann-fliegt-der-mann-als-gesuchter-straftaeter-auf.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b04131e172877701c06f990/muenchen-eltern-stossen-baby-samt-kinderwagen-auf-gleise-24-jaehriger-rettet-saeugling.html",
   "https://www.welt.de/videos/video6b04771e5842ff528b9e62da/streit-um-den-haushalt-klingt-schon-so-als-waere-das-geld-der-buerger-eigentum-des-staates.html",
