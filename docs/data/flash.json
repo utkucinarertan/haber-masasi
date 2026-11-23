@@ -1,8 +1,35 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-23T03:42+01:00",
+ "updatedAt": "2026-11-23T04:12+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-23T03:00:00+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-dutzende-tote-befuerchtet-accg-201706156.html",
+    "text": {
+     "tr": "Endonezya'nın Cakarta yakınlarındaki bir şekerleme fabrikasında çıkan yangında 24 kişi hayatını kaybederken, 30'dan fazla kişi kayıp.",
+     "de": "Bei einem Brand in einer Süßwarenfabrik nahe Jakarta in Indonesien wurden 24 Leichensäcke geborgen und über 30 Menschen werden vermisst."
+    }
+   },
+   {
+    "time": "2026-11-23T02:38:16+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
+    "text": {
+     "tr": "ABD'nin Seattle kentindeki havalimanında, göçmenlik bürosu ajanlarının bir baba ve kızını uçuş öncesi gözaltına alması protestolara yol açtı.",
+     "de": "Die Festnahme eines Vaters und seiner Tochter durch US-Einwanderungsbehörden an einem Flugsteig in Seattle hat Proteste ausgelöst."
+    }
+   },
+   {
+    "time": "2026-11-23T02:37:02+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+    "text": {
+     "tr": "Ukrayna'da Rus saldırısının hedefi olan konut binasının enkazından saatler sonra canlı çıkarılan 7 yaşındaki çocukla birlikte ölü sayısı 9'a yükseldi.",
+     "de": "Nach einem russischen Angriff auf ein Wohngebäude in der Ukraine haben Rettungskräfte einen siebenjährigen Jungen lebendig aus den Trümmern geborgen; neun Menschen starben."
+    }
+   },
    {
     "time": "2026-11-23T00:54:02+00:00",
     "source": "The Guardian World",
@@ -20,36 +47,18 @@
      "tr": "ABD ordusu, Iowa'daki sağlık ve çevre riskleri endişelerine rağmen tonlarca bomba yapım kimyasalını patlatmak için acil durum yetkilerini devreye sokuyor.",
      "de": "Die US-Armee beruft sich in Iowa trotz Gesundheits- und Umweltbedenken auf Notstandsbefugnisse, um Sprengstoffchemikalien zu vernichten."
     }
-   },
-   {
-    "time": "2026-11-23T00:44:47+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
-    "text": {
-     "tr": "Türkiye'de düzenlenen COP31 iklim zirvesi, fosil yakıtlara açık atıfta bulunulmaması nedeniyle Avrupa Birliği ülkelerinin itirazıyla çöktü.",
-     "de": "Der Klimagipfel COP31 in der Türkei ist kollabiert, nachdem EU-Mitgliedstaaten Einspruch gegen ein Abkommen ohne ausdrückliche Erwähnung fossiler Brennstoffe erhoben hatten."
-    }
-   },
-   {
-    "time": "2026-11-23T00:43:36+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
-    "text": {
-     "tr": "Sudan'ın başkenti Hartum'da evleri ve bir BM binasını vuran dron saldırılarından ordu komşu Etiyopya'yı sorumlu tuttu.",
-     "de": "Bei Drohnenangriffen in Sudans Hauptstadt Karthum wurden Wohnhäuser und ein UN-Gebäude beschädigt; die Armee beschuldigt Äthiopien."
-    }
-   },
-   {
-    "time": "2026-11-23T00:31:31+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Demokratların menfaat çatışması suçlamalarına rağmen Virginia'da üçüncü kripto para galasına ev sahipliği yapıyor.",
-     "de": "US-Präsident Donald Trump richtet in Virginia trotz Kritik wegen Interessenkonflikten seine dritte Kryptowährungsgala aus."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-23T05:42:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010713/bodrum-aciklarinda-4-2-buyuklugunde-deprem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Ege Denizi'nde Bodrum açıklarında 4,2 büyüklüğünde deprem meydana geldi.",
+     "de": "Vor der Küste von Bodrum in der Ägäis hat sich ein Erdbeben der Stärke 4,2 ereignet."
+    }
+   },
    {
     "time": "2026-11-23T02:15:34+00:00",
     "source": "France 24",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Van'ın Muradiye, Çaldıran ve Saray ilçelerinde yoğun kar yağışı ve buzlanma nedeniyle eğitime bir gün ara verildi.",
      "de": "In den Bezirken Muradiye, Çaldıran und Saray in Van wurde der Unterricht wegen starker Schneefälle und Glatteis für einen Tag ausgesetzt."
-    }
-   },
-   {
-    "time": "2026-11-23T00:05:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010709/habas-katliamina-ingiliz-den-tam-not?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İzmir Aliağa'da 19 işçinin öldüğü HABAŞ tesisinin İngiltere merkezli bir kurum tarafından güvenli üretim sertifikası aldığı ortaya çıktı.",
-     "de": "Es wurde bekannt, dass das HABAŞ-Werk in Aliağa, in dem 19 Arbeiter starben, von einer britischen Institution zertifiziert wurde."
     }
    }
   ],
@@ -187,8 +187,11 @@
   "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
   "https://www.bbc.co.uk/news/articles/c8e39qk5vrpdo",
   "https://www.bbc.co.uk/news/articles/cj752ddve27ko",
+  "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
   "https://www.bbc.co.uk/news/articles/cq7827z2841zo",
   "https://www.bbc.co.uk/news/articles/cq8e0p87l89lo",
+  "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+  "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
   "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.bbc.co.uk/news/articles/cvglrx764gdxo",
@@ -343,6 +346,7 @@
   "https://www.evrensel.net/haber/6010710/her-gun-bugun-son-stresiyle-ise-geliyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010711/yeni-parti-li-murat-emir-izleme-komisyonu-karari-baris-irademizde-bir-degisiklik-anlamina-gelmez?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010712/sariyer-de-aslan-gordum-ihbari-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010713/bodrum-aciklarinda-4-2-buyuklugunde-deprem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -364,6 +368,7 @@
   "https://www.faz.net/aktuell/gesellschaft/menschen/miley-cyrus-heiratet-maxx-morando-in-palm-springs-201707506.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/philipp-plein-mit-designerhundebetten-zur-ersten-million-accg-201705985.html",
   "https://www.faz.net/aktuell/gesellschaft/smalltalk/herzblatt-geschichten/wie-viel-vertrauen-verdient-ein-klatschheft-accg-201701021.html",
+  "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-dutzende-tote-befuerchtet-accg-201706156.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-mindestens-drei-tote-accg-201706156.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/kohlenmonoxid-in-allgaeuer-kirche-19-menschen-verletzt-accg-201706736.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/unwetter-in-tupancireta-vier-tote-und-8000-beschaedigte-haeuser-accg-201704557.html",
@@ -576,6 +581,7 @@
   "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+  "https://www.theguardian.com/australia-news/2026/nov/23/bachelor-sam-wood-domestic-violence-charges-mediation-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
   "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
@@ -618,6 +624,7 @@
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
   "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
   "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+  "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
   "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
   "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
   "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
