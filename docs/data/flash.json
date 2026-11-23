@@ -1,8 +1,44 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-23T04:42+01:00",
+ "updatedAt": "2026-11-23T05:12+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-23T06:29:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010716/kolombiya-da-askeri-tabura-iha-saldirisi-1-kisi-yasamini-yitirdi-12-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Kolombiya'nın Cesar bölgesindeki askeri tabura düzenlenen İHA saldırısında 1 asker hayatını kaybetti, 12 asker yaralandı.",
+     "de": "Bei einem Drohnenangriff auf ein Militärlager in der kolumbianischen Provinz Cesar wurde ein Soldat getötet und 12 weitere wurden verletzt."
+    }
+   },
+   {
+    "time": "2026-11-23T05:00:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/libyen-uno-fordert-untersuchung-nach-angriffen-auf-schiffe-vor-bengasi-a-0843553c-ae70-475c-9d9f-9a64df4122a3#ref=rss",
+    "text": {
+     "tr": "BM, Bingazi açıklarında gemilere düzenlenen ve bir Rus savaş gemisinin batmasına yol açan saldırıların soruşturulmasını istedi.",
+     "de": "Die Uno fordert nach Angriffen auf Schiffe vor Bengasi eine Untersuchung des Vorfalls, bei dem ein russisches Kriegsschiff gesunken sein soll."
+    }
+   },
+   {
+    "time": "2026-11-23T04:03:23+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b038c2939a3e8110f0e732f/iran-krieg-trump-nennt-verhandlungen-bullshit-und-rechnet-mit-fortsetzung-der-angriffe.html",
+    "text": {
+     "tr": "ABD Başkanı Trump, İran ile yürütülen müzakereleri eleştirerek yeni saldırıların sürebileceğini belirtti.",
+     "de": "US-Präsident Trump nennt Verhandlungen mit dem Iran Bullshit und rechnet mit der Fortsetzung von Angriffen."
+    }
+   },
+   {
+    "time": "2026-11-23T03:45:49+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b03b54c39a3e8110f0e73fe/frankreich-rassistische-nachrichten-und-hitlergruss-ermittlungen-gegen-polizeischueler.html",
+    "text": {
+     "tr": "Fransa'da polis akademisi öğrencilerinin bir kursiyere yönelik rassistischer Nachrichten ve Hitlergruß eylemleri nedeniyle soruşturma başlatıldı.",
+     "de": "In Frankreich wird gegen Polizeischüler wegen rassistischer Nachrichten und eines Hitlergrußes gegen einen Mitschüler ermittelt."
+    }
+   },
    {
     "time": "2026-11-23T03:27:53+00:00",
     "source": "The Guardian World",
@@ -11,45 +47,18 @@
      "tr": "Manchester'daki Co-op Live arena, Don Toliver konserinde kalabalığa göz yaşartıcı gaz sıkılması üzerine tahliye edildi.",
      "de": "Die Co-op Live Arena in Manchester wurde nach einem mutmaßlichen Tränengasangriff bei einem Konzert evakuiert."
     }
-   },
-   {
-    "time": "2026-11-23T03:00:00+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/ungluecke/brand-in-suesswarenfabrik-bei-jakarta-dutzende-tote-befuerchtet-accg-201706156.html",
-    "text": {
-     "tr": "Endonezya'nın Cakarta yakınlarındaki bir şekerleme fabrikasında çıkan yangında 24 kişi hayatını kaybederken, 30'dan fazla kişi kayıp.",
-     "de": "Bei einem Brand in einer Süßwarenfabrik nahe Jakarta in Indonesien wurden 24 Leichensäcke geborgen und über 30 Menschen werden vermisst."
-    }
-   },
-   {
-    "time": "2026-11-23T02:38:16+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/23/father-daughter-ice-arrests-video-sparks-protests-seattle-airport",
-    "text": {
-     "tr": "ABD'nin Seattle kentindeki havalimanında, göçmenlik bürosu ajanlarının bir baba ve kızını uçuş öncesi gözaltına alması protestolara yol açtı.",
-     "de": "Die Festnahme eines Vaters und seiner Tochter durch US-Einwanderungsbehörden an einem Flugsteig in Seattle hat Proteste ausgelöst."
-    }
-   },
-   {
-    "time": "2026-11-23T02:37:02+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
-    "text": {
-     "tr": "Ukrayna'da Rus saldırısının hedefi olan konut binasının enkazından saatler sonra canlı çıkarılan 7 yaşındaki çocukla birlikte ölü sayısı 9'a yükseldi.",
-     "de": "Nach einem russischen Angriff auf ein Wohngebäude in der Ukraine haben Rettungskräfte einen siebenjährigen Jungen lebendig aus den Trümmern geborgen; neun Menschen starben."
-    }
-   },
-   {
-    "time": "2026-11-23T00:54:02+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
-    "text": {
-     "tr": "Savcılık, polis memuru Beau Lamarre-Condon'ın Sydney'deki bir çifti infaz ettiğini ve ardından yalan söylediğini belirtti.",
-     "de": "Die Staatsanwaltschaft wirft dem Polizisten Beau Lamarre-Condon vor, ein Paar in Sydney hingerichtet und gelogen zu haben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-23T06:44:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010717/van-da-kar-nedeniyle-egitime-ara-verildi-4-ilcede-okullar-tatil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Van'da kar yağışı, buzlanma ve sis nedeniyle 4 ilçede eğitime bir gün ara verildi.",
+     "de": "In Van wurde der Unterricht aufgrund von Schneefall, Glatteis und Nebel in vier Bezirken für einen Tag ausgesetzt."
+    }
+   },
    {
     "time": "2026-11-23T06:04:00+03:00",
     "source": "Evrensel",
@@ -85,18 +94,18 @@
      "tr": "Ağrı'nın Doğubayazıt ilçesindeki Gürbulak Gümrük Kapısı'nda bir tankerde 271 kilo 750 gram uyuşturucu ele geçirildi.",
      "de": "Am Grenzübergang Gürbulak im Bezirk Doğubayazıt in Ağrı wurden in einem Tankwagen 271 Kilogramm und 750 Gramm Drogen sichergestellt."
     }
-   },
-   {
-    "time": "2026-11-23T00:38:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/duzce-de-9-2-milyon-liralik-uyusturucu-operasyonu-2-kisi-tutuklandi-2558447",
-    "text": {
-     "tr": "Düzce'de düzenlenen uyuşturucu operasyonunda 46 bin 203 sentetik ecza ele geçirilirken, 2 şüpheli tutuklandı.",
-     "de": "Bei einer Drogenoperation in Düzce wurden 46.203 synthetische Pillen sichergestellt und zwei Verdächtige festgenommen."
-    }
    }
   ],
   "de": [
+   {
+    "time": "2026-11-23T03:58:56+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b03b8d739a3e8110f0e740c/bad-groenenbach-atembeschwerden-und-uebelkeit-56-verletzte-bei-gottesdienst-im-allgaeu.html",
+    "text": {
+     "tr": "Almanya'nın Allgäu bölgesindeki bir ayin sırasında atembeswerden ve übelkeit nedeniyle 56 kişi yaralandı.",
+     "de": "Bei einem Gottesdienst im Allgäu erlitten 56 Menschen Atembeschwerden und Übelkeit."
+    }
+   },
    {
     "time": "2026-11-23T03:24:38+00:00",
     "source": "FAZ Nachrichten",
@@ -104,6 +113,15 @@
     "text": {
      "tr": "Berlin-Lichtenberg'deki bir hastanede çıkan yangında 1'i ağır 15 kişi yaralandı.",
      "de": "Bei einem Brand in einem Krankenhaus in Berlin-Lichtenberg wurden 15 Menschen verletzt, eine Person schwebt in Lebensgefahr."
+    }
+   },
+   {
+    "time": "2026-11-22T22:33:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
+    "text": {
+     "tr": "Kuzey Ren-Vestfalya Eyalet Başbakanı Hendrik Wüst, Markus Söder'in kalte Progression talebine karşı çıktı.",
+     "de": "NRW-Ministerpräsident Hendrik Wüst lehnt die Forderung von Markus Söder zum Ausgleich der kalten Progression ab."
     }
    },
    {
@@ -122,24 +140,6 @@
     "text": {
      "tr": "İsrail'in Berlin Büyükelçisi Ron Prosor, saldırıya uğrayan FDP'li siyasetçi Karoline Preisler'in cesaretini övdü.",
      "de": "Israels Botschafter Ron Prosor würdigte den Mut der verletzten FDP-Politikerin Karoline Preisler im Einsatz gegen Judenhass."
-    }
-   },
-   {
-    "time": "2026-11-22T21:17:56+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/plus6afee42bc1e8003ef73c43e7/designierter-generalinspekteur-wie-freuding-die-bundeswehr-fuer-den-modernen-krieg-ruesten-will.html",
-    "text": {
-     "tr": "Alman ordusu, Litvanya'daki 'Freedom Shield II' tatbikatında ilk kez kamikaze dronları ve yapay zekayı test ediyor.",
-     "de": "Die Bundeswehr erprobt bei der Übung „Freedom Shield II“ in Litauen erstmals Kamikaze-Drohnen und KI im Gefechtsstand."
-    }
-   },
-   {
-    "time": "2026-11-22T20:58:18+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
-    "text": {
-     "tr": "Borussia Dortmund'un genel müdürü Cramer, futbolcu Nmecha'nın tartışmalı gol sevinci hakkında kulüp üyelerinin toplantısında protesto edildi.",
-     "de": "BVB-Geschäftsführer Cramer wurde bei der Mitgliederversammlung wegen des Falls um den umstrittenen Torjubel von Fußballer Nmecha mit Buhrufen empfangen."
     }
    }
   ]
@@ -349,6 +349,8 @@
   "https://www.evrensel.net/haber/6010713/bodrum-aciklarinda-4-2-buyuklugunde-deprem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010714/sakarya-da-tir-kirmizi-isikta-bekleyen-aracin-uzerine-devrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010715/sariyer-de-aslan-goruldu-yeri-tespit-edildi-yakalama-calismalari-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010716/kolombiya-da-askeri-tabura-iha-saldirisi-1-kisi-yasamini-yitirdi-12-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010717/van-da-kar-nedeniyle-egitime-ara-verildi-4-ilcede-okullar-tatil?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/so-isst-politik-afd-schokonikolaus-sorgt-fuer-streit-accg-201688853.html",
   "https://www.faz.net/aktuell/besser-leben/liebe/bindungsangst-zu-99-prozent-liegt-die-ursache-in-der-kindheit-accg-201047966.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/der-romanist-karlheinz-stierle-wird-90-jahre-alt-accg-201701380.html",
@@ -503,6 +505,7 @@
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
   "https://www.spiegel.de/ausland/libyen-explosion-auf-russischem-schiff-ukrainischer-angriff-vermutet-a-bc74e064-fd7a-4770-aebd-0d742578cfeb#ref=rss",
+  "https://www.spiegel.de/ausland/libyen-uno-fordert-untersuchung-nach-angriffen-auf-schiffe-vor-bengasi-a-0843553c-ae70-475c-9d9f-9a64df4122a3#ref=rss",
   "https://www.spiegel.de/ausland/midterms-in-den-usa-demokraten-erreichen-im-repraesentantenhaus-historisch-starke-mehrheit-a-6b42898d-ee86-41e7-a545-8275e28ea40d#ref=rss",
   "https://www.spiegel.de/ausland/ozempic-wegovy-und-co-wie-diaetspritzen-schuster-und-secondhandmode-beleben-a-c117682d-3286-4e99-b227-44ba663a7b92#ref=rss",
   "https://www.spiegel.de/ausland/tuerkei-tausende-protestieren-in-istanbul-gegen-schliessung-regierungskritischer-medien-a-96b78e92-3227-42f7-9a22-4cd1494db7a8#ref=rss",
@@ -518,7 +521,9 @@
   "https://www.spiegel.de/kultur/tv/doku-operation-cobalt-ueber-frankfurter-kunstraub-die-rueckkehr-der-geraubten-bilder-a-56fcd51b-e901-4ed2-b2a2-48480c5dc3f5#ref=rss",
   "https://www.spiegel.de/kultur/tv/prinzessin-kate-teilt-ihre-krebs-erfahrungen-im-fernsehen-a-9741e0b6-28bf-4188-923f-87e5d0887e2d#ref=rss",
   "https://www.spiegel.de/kultur/tv/tatort-heute-aus-frankfurt-4-finger-im-schnellcheck-a-85598a38-1258-4d11-95b2-774b7b162f59#ref=rss",
+  "https://www.spiegel.de/kultur/tv/tatort-vote-wie-gefiel-ihnen-4-finger-aus-frankfurt-a-5322bf52-8ee9-4d40-bcc6-5291133f1339#ref=rss",
   "https://www.spiegel.de/panorama/benzin-und-diesel-gibt-es-mehr-kraftstoffklau-seit-die-preise-so-hoch-sind-a-aa94de4d-ae4f-4f50-bb1c-d31077954642#ref=rss",
+  "https://www.spiegel.de/panorama/berlin-lichtenberg-15-verletzte-bei-brand-in-krankenhaus-a-45fc2700-244a-41e7-b0c2-3541cab7671a#ref=rss",
   "https://www.spiegel.de/panorama/bo-derek-und-john-corbett-haben-hund-von-gene-hackman-adoptiert-a-a506dd43-2edc-4504-a654-75c1ddbfb08b#ref=rss",
   "https://www.spiegel.de/panorama/delta-airline-erneut-us-fluggesellschaft-von-technischer-stoerung-betroffen-a-9317e67b-5293-47bd-a5db-f38ea3944283#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/telemedizin-hamburgerin-laesst-sich-in-apotheke-per-videosprechstunde-behandeln-a-a2fd7fba-6f83-4383-b9e0-f66eb8de1e8a#ref=rss",
@@ -551,6 +556,7 @@
   "https://www.spiegel.de/sport/leichtathletik/leichtathletik-laeuferin-gaia-sabbatini-berichtet-von-verfolgung-beim-training-a-b5f76a1d-391c-4693-8b68-9bd29c4307da#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
   "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-zieht-ins-traumfinale-gegen-carlos-alcaraz-ein-a-07249293-8b24-4db6-b0a0-263e24f9bc8a#ref=rss",
+  "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
   "https://www.spiegel.de/wissenschaft/cop31-deutschland-haelt-beschlusstext-fuer-klimakonferenz-nicht-fuer-zustimmungsfaehig-a-b1172321-139e-4859-8cb5-84327eaa462f#ref=rss",
@@ -653,9 +659,11 @@
   "https://www.welt.de/politik/ausland/article6ae45338aacefa08f5b9905d/klitschko-foundation-wir-haben-keine-andere-wahl-wie-der-krieg-die-ukrainische-jugend-praegt.html",
   "https://www.welt.de/politik/ausland/article6afdba464d1895cf2a8efe70/irak-jetzt-wo-die-amerikaner-weg-sind-wird-der-is-wieder-staerker.html",
   "https://www.welt.de/politik/ausland/article6b024c905842ff528b9e3523/paul-ronzheimer-die-nato-wird-nicht-ueberrascht-brigadegeneral-huber-ueber-gefahren-an-der-ostflanke.html",
+  "https://www.welt.de/politik/ausland/article6b038c2939a3e8110f0e732f/iran-krieg-trump-nennt-verhandlungen-bullshit-und-rechnet-mit-fortsetzung-der-angriffe.html",
   "https://www.welt.de/politik/ausland/article6b03ac0739a3e8110f0e7395/nvidia-skandal-new-york-times-hat-beweise-huang-geliebte-spionierte-ihn-ein-jahr-lang-aus.html",
   "https://www.welt.de/politik/ausland/plus6af6d4e55a72dceba1d6121d/inside-iran-unser-schweigen-ist-keine-zustimmung-im-iran-stellt-sich-jetzt-eine-entscheidende-frage.html",
   "https://www.welt.de/politik/ausland/plus6b02ceb825b618a0b5d5bba2/ex-oberbefehlshaber-der-ukraine-das-ist-eine-heikle-angelegenheit-sagt-der-general-als-die-usa-zur-sprache-kommen.html",
+  "https://www.welt.de/politik/ausland/plus6b039c525842ff528b9e45d5/sicherheitskonferenz-in-halifax-koalition-der-macher-wie-europa-und-kanada-ohne-trump-bestehen-wollen.html",
   "https://www.welt.de/politik/deutschland/article6b0271035842ff528b9e360a/stefanie-hubig-der-hass-ist-mehr-geworden-justizministerin-wird-im-netz-massiv-angefeindet.html",
   "https://www.welt.de/politik/deutschland/article6b02999939a3e8110f0e60fa/zentralratspraesident-mit-juedischem-leben-nur-schwer-kompatibel-schuster-warnt-vor-extremisten-in-der-bundesregierung.html",
   "https://www.welt.de/politik/deutschland/article6b02ae29eefa807c11d9a64d/vorstoss-von-csu-chef-soeder-in-dieser-koalition-macht-niemand-mehr-was-der-kanzler-sagt.html",
@@ -696,6 +704,8 @@
   "https://www.welt.de/vermischtes/article6b02f0fc25b618a0b5d5bed8/bayern-defekte-heizung-in-kirche-19-menschen-im-allgaeu-verletzt.html",
   "https://www.welt.de/vermischtes/article6b0346135842ff528b9e43ae/keine-talkshow-eingesperrt-mit-jan-fleischhauer-der-glaube-dass-der-markt-es-richtet-ist-empirisch-gescheitert-sagt-linken-politikerin-lay.html",
   "https://www.welt.de/vermischtes/article6b03ac4439a3e8110f0e739b/caren-miosga-offene-kollaborateure-dieses-kriegsverbrechers-roettgen-attackiert-die-afd.html",
+  "https://www.welt.de/vermischtes/article6b03b54c39a3e8110f0e73fe/frankreich-rassistische-nachrichten-und-hitlergruss-ermittlungen-gegen-polizeischueler.html",
+  "https://www.welt.de/vermischtes/article6b03b8d739a3e8110f0e740c/bad-groenenbach-atembeschwerden-und-uebelkeit-56-verletzte-bei-gottesdienst-im-allgaeu.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b035c170e350969f7b71391/ron-prosor-israels-botschafter-wuerdigt-mut-von-verletzter-aktivistin-und-fdppolitikerin-preisler.html",
   "https://www.welt.de/videos/video6b02eb645842ff528b9e3dfb/40-stunden-woche-ohne-lohnausgleich-wenn-das-nicht-klappt-und-wir-streiken-durch-dann-gute-nacht-autoindustrie.html",
   "https://www.welt.de/wirtschaft/plus6af8546a389d31d8c8a803aa/medizintechnik-die-naechste-bastion-deutscher-ingenieurskunst-fuerchtet-den-china-schock.html",
