@@ -1,8 +1,35 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T07:55+01:00",
+ "updatedAt": "2026-11-23T08:25+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T08:20:04+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+    "text": {
+     "tr": "Libya'nın Bingazi limanındaki bir Rus savaş gemisi, muhtemelen Ukrayna kaynaklı bir dron saldırısıyla batırıldı.",
+     "de": "Ein russisches Kriegsschiff ist im Hafen der libyschen Stadt Bengasi mutmaßlich durch einen Drohnenangriff gesunken."
+    }
+   },
+   {
+    "time": "2026-11-23T08:07:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/bad-groenenbach-im-allgaeu-56-verletzte-bei-gottesdienst-wegen-kohlenmonoxid-austritt-a-ebf9cf29-ce27-49f4-8e74-e2d2756f9277#ref=rss",
+    "text": {
+     "tr": "Almanya'nın Allgäu bölgesindeki bir kilisede meydana gelen karbon monoksit sızıntısı nedeniyle 56 kişi yaralandı.",
+     "de": "Bei einem Kohlenmonoxid-Austritt in einer Kirche im Allgäu wurden 56 Menschen bei einem Gottesdienst verletzt."
+    }
+   },
+   {
+    "time": "2026-11-23T07:52:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
+    "text": {
+     "tr": "Batılı istihbarat teşkilatlarına göre Rusya, yakın zamanda uzaya nükleer başlık yerleştirmeye hazırlanıyor.",
+     "de": "Westlichen Geheimdiensten zufolge bereitet Russland vor, zeitnah einen Atomsprengkopf im Weltraum zu stationieren."
+    }
+   },
    {
     "time": "2026-11-23T07:48:24+01:00",
     "source": "tagesschau",
@@ -19,33 +46,6 @@
     "text": {
      "tr": "Polonya makamları, geçen hafta güneydoğuya düşen üç askeri hava aracının Rusya'ya ait seyir füzeleri olduğunu açıkladı.",
      "de": "Polnische Behörden haben bestätigt, dass es sich bei drei militärischen Flugobjekten, die letzte Woche im Südosten Polens abstürzten, um Marschflugkörper aus Russland handelte."
-    }
-   },
-   {
-    "time": "2026-11-23T06:58:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
-    "text": {
-     "tr": "Federal hükümetin emeklilik komisyonu, kısmi emeklilik kurallarının sıkılaştırılmasını ve milyarlarca euro tasarruf sağlanmasını önerdi.",
-     "de": "Die Rentenkommission der Bundesregierung spricht sich für strengere Regeln bei der Altersteilzeit aus, was Milliarden einbringen könnte."
-    }
-   },
-   {
-    "time": "2026-11-23T06:40:46+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b03d8a95842ff528b9e47f1/augsburg-nach-poller-wahnsinn-jetzt-sichert-die-stadt-den-weihnachtsmarkt-mit-tonnenschweren-stahlbarrieren.html",
-    "text": {
-     "tr": "Augsburg kenti, geçen yıl eleştirilere yol açan plastik bariyerler yerine Noel pazarını tonlarca ağırlıktaki çelik bariyerlerle koruma altına alıyor.",
-     "de": "Augsburg sichert seinen Weihnachtsmarkt nach Kritik im Vorjahr nun mit tonnenschweren Stahlbarrieren ab."
-    }
-   },
-   {
-    "time": "2026-11-23T06:31:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
-    "text": {
-     "tr": "Almanya Meteoroloji Servisi, pazartesi günü yollarda buzlanma ve kar yağışı görülebileceği konusunda uyardı.",
-     "de": "Der Deutsche Wetterdienst warnt am Montag vielerorts vor glatten Straßen, Schnee und Temperaturen bis zu minus fünf Grad."
     }
    }
   ],
@@ -98,12 +98,30 @@
   ],
   "tr": [
    {
+    "time": "2026-11-23T09:55:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010735/arda-turan-in-8-oyuncusu-polonya-sinirinda-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Şakhtar Donetsk'in 8 oyuncusu, Polonya sınırında yaşanan vize sorunları nedeniyle takımla birlikte Londra'ya gidemedi.",
+     "de": "Acht Spieler von Shakhtar Donetsk konnten wegen visabezogener Probleme an der Grenze nicht nach Polen reisen."
+    }
+   },
+   {
     "time": "2026-11-23T09:48:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010732/disisleri-bakani-fidan-savas-bizim-isimiz-bildigimiz-yerden-soru-cikar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
      "tr": "Dışişleri Bakanı Hakan Fidan, Yemen'e asker gönderilmesine ilişkin henüz bir karar alınmadığını belirterek savaş tartışmalarına değindi.",
      "de": "Aussenminister Hakan Fidan erklärte, dass noch keine Entscheidung über die Entsendung von Soldaten in den Jemen getroffen wurde."
+    }
+   },
+   {
+    "time": "2026-11-23T09:47:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010734/abd-de-demokratlar-son-32-yilin-rekorunu-kirdi-temsilciler-meclisinde-258-sandalyeye-ulastilar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "ABD'de Demokratlar, Temsilciler Meclisi'ndeki sandalye sayılarını 258'e çıkararak son 32 yılın rekorunu kırdı.",
+     "de": "Die Demokraten in den USA haben ihre Sitze im Repräsentantenhaus auf 258 erhöht und damit einen Rekord aus 32 Jahren gebrochen."
     }
    },
    {
@@ -123,40 +141,28 @@
      "tr": "Endonezya'nın Banten eyaletindeki bir şekerleme fabrikasında çıkan yangında yaşamını yitirenlerin sayısı 24'e yükseldi.",
      "de": "Bei einem Fabrikbrand in der indonesischen Provinz Banten ist die Zahl der Todesopfer auf 24 gestiegen."
     }
-   },
-   {
-    "time": "2026-11-23T09:05:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010722/trump-tan-iran-aciklamasi-yurutulen-gorusmeler-anlamsiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, İran ile yürütülen görüşmelerden sonuç alınamaması halinde 1 Ocak'tan sonra askeri saldırı emri verebileceğini söyledi.",
-     "de": "US-Präsident Donald Trump drohte im Streit mit dem Iran an, nach dem 1. Januar militärische Schläge anzuordnen, falls Verhandlungen scheitern."
-    }
-   },
-   {
-    "time": "2026-11-23T08:20:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010720/cumhurbaskanligi-kabinesi-bugun-toplaniyor-emekli-maaslari-asgari-ucret-ve-fon-sorusturmasi-masada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Cumhurbaşkanlığı Kabinesi bugün Cumhurbaşkanı Erdoğan başkanlığında emekli maaşları, asgari ücret ve fon soruşturmasını görüşmek üzere toplanıyor.",
-     "de": "Das türkische Kababinett tagt heute unter der Leitung von Präsident Erdoğan, um über Rentenerhöhungen, den Mindestlohn und Fondsermittlungen zu beraten."
-    }
    }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/23/1992-yapimi-batmobil-acik-artirmaya-cikiyor-tahmini-fiyati-7-milyon-dolar",
   "https://tr.euronews.com/2026/11/23/abdde-konser-alanina-silahli-saldiri-9-kisi-yaralandi",
   "https://tr.euronews.com/2026/11/23/aralik-2026-avrupa-seyahat-rehberi-noel-pazarlari-trenler-yilbasi",
   "https://tr.euronews.com/2026/11/23/avrupada-gelir-esitsizligi-eurostat-verileri-hafif-dusus-gosteriyor",
+  "https://tr.euronews.com/2026/11/23/bmden-libya-aciklarinda-rus-gemilerine-yonelik-iha-saldirilari-icin-sorusturma-cagrisi",
   "https://tr.euronews.com/2026/11/23/choose-france-zirvesi-149-milyar-avroluk-yeni-yatirim-aciklandi",
   "https://tr.euronews.com/2026/11/23/dso-genel-direktorlugu-en-genc-aday-gevorg-tamamyan-kimdir",
   "https://tr.euronews.com/2026/11/23/imonun-net-sifir-cercevesi-deniz-tasimaciliginda-kuresel-anlasma-icin-yeni-girisim",
   "https://tr.euronews.com/2026/11/23/istanbul-sariyerde-aslan-goruldugu-ihbari-uzerine-ekipler-harekete-gecti-evden-cikmayin-uy",
+  "https://tr.euronews.com/2026/11/23/kuzey-kore-trumpin-gorusme-teklifine-mesafeli-kimden-egemenlik-vurgusu",
+  "https://tr.euronews.com/2026/11/23/portekiz-teknoloji-yatirimlarinda-avrupanin-ilk-10unda-tekever-finansmani-onemli-rol-oynad",
   "https://tr.euronews.com/2026/11/23/teknoloji-ve-yapay-zeka-hisseleri-wall-street-satisi-asyaya-yayildi",
+  "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
   "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
   "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
   "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+  "https://www.bbc.com/turkce/articles/cxyvdqvlzzm1o",
   "https://www.dw.com/tr/yeni-parti-nin-komisyon-kararı-dem-parti-ile-yol-ayrımı-mı/a-80015625",
   "https://www.evrensel.net/haber/6010719/ara-tatil-bitti-istanbul-da-trafik-yogunlugu-artti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010720/cumhurbaskanligi-kabinesi-bugun-toplaniyor-emekli-maaslari-asgari-ucret-ve-fon-sorusturmasi-masada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -172,16 +178,25 @@
   "https://www.evrensel.net/haber/6010730/eski-dikili-halkevi-binasinin-yikilarak-yerine-yeni-bir-saglik-tesisi-yapilmasi-plani-meclisin-gundeminde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010731/abd-eskiyen-dijital-altyapi-nedeniyle-kesintilere-hazirlaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010732/disisleri-bakani-fidan-savas-bizim-isimiz-bildigimiz-yerden-soru-cikar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010733/bm-guvenlik-konseyi-ukrayna-gundemiyle-toplaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010734/abd-de-demokratlar-son-32-yilin-rekorunu-kirdi-temsilciler-meclisinde-258-sandalyeye-ulastilar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010735/arda-turan-in-8-oyuncusu-polonya-sinirinda-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/kulturkampf-in-frankreich-accg-201699273.html",
   "https://www.faz.net/aktuell/finanzen/msci-world-etf-oder-anleihen-was-experten-raten-accg-201688448.html",
   "https://www.faz.net/aktuell/gesellschaft/winterwetter-zum-wochenstart-glatteis-und-schnee-in-deutschland-accg-201707940.html",
   "https://www.faz.net/aktuell/politik/ausland/frankreich-jean-luc-melenchons-liebstes-feindbild-heisst-deutschland-201699870.html",
   "https://www.faz.net/aktuell/politik/ukraine/nato-vor-schwieriger-abwaegung-drei-vorfaelle-ein-dilemma-201706520.html",
+  "https://www.faz.net/aktuell/reise/safari-in-botswana-mit-tourismus-aus-der-krise-accg-201119923.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/flucht-ueber-russland-und-china-wie-ein-juedisches-ehepaar-aus-nazideutschland-entkam-accg-201699477.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/goethe-uni-frankfurt-bibliotheken-kuerzen-oeffnungszeiten-accg-201690419.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-behandelt-als-erstmals-mit-tofersen-accg-201698242.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/rheingau-taunus-kreis-fast-alle-kommunen-mit-haushaltsdefizit-accg-201701700.html",
+  "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/dfb-schiedsrichterchef-knut-kircher-im-interview-ueber-den-var-in-der-bundesliga-accg-201701883.html",
+  "https://www.faz.net/aktuell/sport/mls-thomas-mueller-startet-mit-vancouver-whitecaps-erfolgreich-in-playoffs-accg-201708015.html",
   "https://www.faz.net/aktuell/sport/sportpolitik/gregor-gysi-im-interview-ueber-parallelen-zwischen-judo-und-politik-accg-201691504.html",
+  "https://www.faz.net/aktuell/wirtschaft/bundeshaushalt-widerstand-gegen-soeders-vorstoss-zur-kalten-progression-accg-201708020.html",
   "https://www.faz.net/aktuell/wirtschaft/warum-deutschlands-jugend-wuetend-ist-und-was-das-land-tun-kann-accg-201702110.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wer-wird-nachfolger-von-hubert-aiwanger-f-a-z-fruehdenker-201707539.html",
   "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
@@ -189,17 +204,22 @@
   "https://www.manager-magazin.de/unternehmen/handel/obi-mutter-tengelmann-setzt-verschwinden-von-karl-erivan-haub-zu-geldsorgen-drohen-a-04dd2dfe-19fd-42c0-ae29-8698933c4ef2#ref=rss",
   "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
   "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
+  "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
   "https://www.spiegel.de/kultur/literatur/buecher-von-peter-hahne-und-ulf-poschardt-werden-bestseller-aber-ist-das-wutbuch-wirklich-eine-erfindung-der-rechten-a-7aaa47c8-8562-466e-818a-f026535d5668#ref=rss",
   "https://www.spiegel.de/mobilitaet/auto/audi-a2-im-test-sparn-sparn-sparn-auf-der-autobahn-a-e58450ca-8527-4500-8dae-b1ac908841e8#ref=rss",
   "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
+  "https://www.spiegel.de/panorama/bad-groenenbach-im-allgaeu-56-verletzte-bei-gottesdienst-wegen-kohlenmonoxid-austritt-a-ebf9cf29-ce27-49f4-8e74-e2d2756f9277#ref=rss",
   "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
   "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
   "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
+  "https://www.spiegel.de/wirtschaft/gutachter-sieht-autobahn-schulden-als-umgehung-der-schuldenbremse-a-d03e377a-694b-4f1e-8737-5f93bd1bf7b3#ref=rss",
   "https://www.spiegel.de/wirtschaft/siemens-chef-busch-bescheinigt-deutscher-industrie-grosses-ki-talent-a-44d2b992-08e0-4848-a205-3f4743eb0244#ref=rss",
   "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
+  "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+  "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
@@ -209,8 +229,10 @@
   "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
   "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
   "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
+  "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
   "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+  "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
   "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
   "https://www.welt.de/finanzen/plus6b0166eb39a3e8110f0e512b/der-crash-der-aus-dem-nichts-kam-und-wie-es-jetzt-an-den-weltboersen-weitergeht.html",
   "https://www.welt.de/geschichte/article6afad8bdf3f8db1dd9f3e156/sozialismus-in-der-wohnungspolitik-luegt-die-linke-heute-so-dreist-wie-einst-die-sed.html",
@@ -219,6 +241,7 @@
   "https://www.welt.de/kultur/plus6afc64dfcdc4b5009f0a8f9a/generation-alpha-was-passiert-wenn-meine-tochter-eine-mutter-hat-die-gar-nicht-mehr-sterben-wird.html",
   "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html",
   "https://www.welt.de/politik/ausland/article6b03c6c25842ff528b9e46ed/libysche-kueste-zwoelf-wasserdrohnen-sichergestellt-angriff-auf-russisches-schiff-im-mittelmeer.html",
+  "https://www.welt.de/politik/ausland/article6b03df9dcdd7733913bf1c8f/russland-soll-atomwaffe-im-weltraum-vorbereiten-folgen-fuer-das-leben-in-deutschland-immens.html",
   "https://www.welt.de/politik/deutschland/article6b02dcd03cd434a4d6d0cf1e/primark-h-m-und-co-gruene-sagen-billig-kleidung-den-kampf-an.html",
   "https://www.welt.de/politik/deutschland/article6b03d77e39a3e8110f0e756c/sigmar-gabriel-so-ein-fuehrungsvakuum-hat-es-in-der-spd-noch-nie-gegeben-ex-spd-chef-attackiert-hubertus-heil.html",
   "https://www.welt.de/vermischtes/article6b03d8a95842ff528b9e47f1/augsburg-nach-poller-wahnsinn-jetzt-sichert-die-stadt-den-weihnachtsmarkt-mit-tonnenschweren-stahlbarrieren.html",
