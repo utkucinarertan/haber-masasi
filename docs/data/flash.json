@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T00:18+01:00",
+ "updatedAt": "2026-11-24T00:48+01:00",
  "countries": {
   "de": [
    {
@@ -60,6 +60,15 @@
     }
    },
    {
+    "time": "2026-11-23T23:19:13+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b04c8a95842ff528b9e660b/ukraine-krieg-luftalarm-in-polen-anwohner-sollen-schutzraeume-aufsuchen.html",
+    "text": {
+     "tr": "Polonya hükümeti, Ukrayna sınırına yakın güneydoğu bölgelerindeki sakinlerden sığınaklara gitmelerini istedi.",
+     "de": "Die polnische Regierung forderte die Bewohner der grenznahen Gebiete im Südosten des Landes auf, Schutzräume aufzusuchen."
+    }
+   },
+   {
     "time": "2026-11-23T23:10:22+00:00",
     "source": "France 24",
     "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "ABD, bir skandalın ardından yapay zeka çip sevkiyatı iddiaları nedeniyle Asyalı yapay zeka firması Megaspeed'i kara listeye alacak.",
      "de": "Die USA setzen die asiatische KI-Firma Megaspeed nach einem Skandal um Chiptransporte auf die schwarze Liste."
-    }
-   },
-   {
-    "time": "2026-11-23T22:14:17+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
-    "text": {
-     "tr": "Türkiye'de düzenlenen COP31 iklim zirvesi, fosil yakıtlar ve iklim finansmanı konusundaki derin anlaşmazlıklar nedeniyle uzlaşmaya varamadan sona erdi.",
-     "de": "Der Klimagipfel COP31 in der Türkei ist wegen tiefer Differenzen beim Ausstieg aus fossilen Brennstoffen ohne Einigung zu Ende gegangen."
     }
    }
   ],
@@ -946,6 +946,7 @@
   "https://www.welt.de/politik/ausland/article6b047a67172877701c070837/nvidia-trump-veroeffentlicht-meme-mit-jensen-huang.html",
   "https://www.welt.de/politik/ausland/article6b04845c39a3e8110f0e93a7/po-sprueche-und-ymca-tanz-ploetzlich-bittet-kanadas-premier-ein-trump-double-auf-die-buehne.html",
   "https://www.welt.de/politik/ausland/article6b049f56619e3d0ef1eedca6/nato-ostflanke-nato-verlegt-awacs-flugzeug-nach-polen-und-verstaerkt-luftraumueberwachung.html",
+  "https://www.welt.de/politik/ausland/article6b04c8a95842ff528b9e660b/ukraine-krieg-luftalarm-in-polen-anwohner-sollen-schutzraeume-aufsuchen.html",
   "https://www.welt.de/politik/ausland/plus6ae9c5703ac17eaf0c625dc9/deutsch-russische-beziehungen-wenn-die-deutschen-ueber-russland-sprechen-reden-sie-vor-allem-ueber-sich-selbst.html",
   "https://www.welt.de/politik/ausland/plus6aff01539c68d2fcf0c7d20c/litwinenko-witwe-warnt-vor-putins-methoden-und-fordert-trotzdem-dialog.html",
   "https://www.welt.de/politik/ausland/plus6b03f03566a00c9ca1fdfd68/rekrutierungsmethoden-de-facto-ein-gefaengnis-putins-globales-system-um-drohnen-bauen-zu-lassen.html",
