@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T17:18+01:00",
+ "updatedAt": "2026-11-23T17:48+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T17:28:53+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
+    "text": {
+     "tr": "Berlin'deki NATO yıllık toplantısının sonunda, ittifak topraklarının her karışının savunulacağına dair Rusya'ya net bir uyarı yapıldı.",
+     "de": "Zum Abschluss der Nato-Jahrestagung in Berlin wurde eine deutliche Warnung an Russland ausgesprochen, jeden Fuß des Bündnisgebiets zu verteidigen."
+    }
+   },
    {
     "time": "2026-11-23T17:00:00+01:00",
     "source": "Der Spiegel",
@@ -38,18 +47,27 @@
      "tr": "GTA VI oyununun erken görüntülerini sızdıran hacker yedi yıl hapis cezasına çarptırıldı.",
      "de": "Ein Hacker, der Einblicke in das Spiel GTA VI leakte, wurde zu sieben Jahren Haft verurteilt."
     }
-   },
-   {
-    "time": "2026-11-23T15:47:43+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wirtschaft/huang-wieder-nvidia-chef-100.html",
-    "text": {
-     "tr": "Jensen Huang, istifasından kısa bir süre sonra ABD'li teknoloji devi Nvidia'nın CEO'su görevine geri döndü.",
-     "de": "Jensen Huang ist kurz nach seinem Rücktritt überraschend wieder an die Spitze des US-Techkonzerns Nvidia zurückgekehrt."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-23T16:42:09+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
+    "text": {
+     "tr": "İngiltere Eğitim Bakanı Lucy Powell, MI5 uyarısından hafta sonraları sonra İngiliz eğitimini tanıtmak üzere Pekin'i ziyaret ediyor.",
+     "de": "Die britische Bildungsministerin Lucy Powell reist nach Peking, um für das britische Bildungswesen zu werben, Wochen nach einer Warnung des MI5 vor chinesischer Einflussnahme."
+    }
+   },
+   {
+    "time": "2026-11-23T16:19:06+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/23/lilly-jones-stabbing-park-south-wales-trial",
+    "text": {
+     "tr": "Galler'in güneyindeki bir parkta 14 yaşındaki bir kız çocuğunun 55 kez bıçaklanarak öldürülmesiyle ilgili dava görüldü.",
+     "de": "Vor Gericht wurde der Fall verhandelt, bei dem ein 14-jähriges Mädchen in einem Park in Südwales 55 Mal erstochen wurde."
+    }
+   },
    {
     "time": "2026-11-23T16:10:30+00:00",
     "source": "France 24",
@@ -76,27 +94,18 @@
      "tr": "Libya Başkanlık Konseyi Başkan Yardımcısı Musa el-Koni, Ukrayna'nın Bingazi Limanı'na yönelik saldırılarını savaş ilanı olarak nitelendirdi.",
      "de": "Der libysche Vizepräsident Musa al-Koni bezeichnete die Angriffe der Ukraine auf den Hafen von Bengasi als Kriegserklärung."
     }
-   },
-   {
-    "time": "2026-11-23T15:40:01+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/down-to-earth/20261123-behind-cop31-failure-a-showdown-over-fossil-fuel-interests",
-    "text": {
-     "tr": "Türkiye'nin Antalya kentinde düzenlenen COP31 iklim konferansı, fosil yakıtlar konusundaki anlaşmazlık nedeniyle başarısızlıkla sonuçlandı.",
-     "de": "Die Klimakonferenz COP31 in Antalya ist nach heftigen Streitigkeiten über fossile Brennstoffe gescheitert."
-    }
-   },
-   {
-    "time": "2026-11-23T14:54:03+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
-    "text": {
-     "tr": "Meksika'da uyuşturucu baronu 'El Chapo Isidro'nun tutuklanmasının ardından çıkan çatışmalarda 8 şüpheli yakalandı.",
-     "de": "Nach der Festnahme des Drogenbosses 'El Chapo Isidro' in Mexiko wurden acht Verdächtige nach Schießereien festgenommen."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-23T19:46:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/fatih-te-tramvay-ile-otobus-carpisti-14-kisi-yaralandi-kaza-aninin-goruntusu-ortaya-cikti-2558725",
+    "text": {
+     "tr": "İstanbul Fatih'te tramvay ile İETT otobüsünün çarpışması sonucu 14 kişi yaralandı.",
+     "de": "Bei einer Kollision zwischen einer Straßenbahn und einem IETT-Bus in Istanbul-Fatih wurden 14 Personen verletzt."
+    }
+   },
    {
     "time": "2026-11-23T19:15:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -125,21 +134,12 @@
     }
    },
    {
-    "time": "2026-11-23T16:03:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/yasa-disi-bahis-operasyonunda-2-5-milyar-liralik-islem-hacmi-18-tutuklama-2558671",
+    "time": "2026-11-23T17:25:09+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/23/macron-fransiz-havacilik-sanayisine-350-milyon-avroluk-destek",
     "text": {
-     "tr": "Denizli merkezli 11 ilde düzenlenen yasa dışı bahis operasyonunda 2,5 milyar liralık işlem hacmi tespit edilirken 18 kişi tutuklandı.",
-     "de": "Bei einer illegalen Wett-Operation in 11 Provinzen mit Zentrum in Denizli wurden 18 Verdächtige festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-23T15:37:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/astroloji/balik-burcu/gunluk-burc-yorumlari-24-kasim-sali-balik-burcu-yorumu-2558663",
-    "text": {
-     "tr": "Ermenistan, Azerbaycan ile barış süreci kapsamında hazırladığı yeni anayasa taslağında Ağrı Dağı ve soykırım atıflarına yer vermedi.",
-     "de": "Armenien hat einen neuen Verfassungsentwurf vorgelegt, in dem Bezüge zum Berg Ararat und zum Völkermord gestrichen wurden."
+     "tr": "Fransa Cumhurbaşkanı Emmanuel Macron, havacılık sanayisinde araştırma ve yeniliği desteklemek için 350 milyon avroluk bir paket açıkladı.",
+     "de": "Der französische Präsident Emmanuel Macron hat ein Paket über 350 Millionen Euro zur Unterstützung von Forschung und Innovation in der Luftfahrtindustrie angekündigt."
     }
    }
   ]
@@ -180,6 +180,7 @@
   "https://tr.euronews.com/2026/11/23/japonya-asya-petrol-gorev-gucunu-kurdu-korfezdeki-arz-kesintilerine-karsi",
   "https://tr.euronews.com/2026/11/23/kuzey-kore-trumpin-gorusme-teklifine-mesafeli-kimden-egemenlik-vurgusu",
   "https://tr.euronews.com/2026/11/23/lego-portekizin-estarreja-kentinde-yaklasik-1-milyar-euroluk-fabrika-kuracak-binin-uzerind",
+  "https://tr.euronews.com/2026/11/23/macron-fransiz-havacilik-sanayisine-350-milyon-avroluk-destek",
   "https://tr.euronews.com/2026/11/23/madriddeki-teatro-real-2-kez-dunyanin-en-iyi-operasi-secildi",
   "https://tr.euronews.com/2026/11/23/malaga-lizbon-madrid-2026da-avrupada-expatlar-icin-en-iyi-sehirler-arasinda",
   "https://tr.euronews.com/2026/11/23/mercedes-ve-bmwde-24-saatlik-grev-almanyada-ucret-anlasmazligi-buyuyor",
@@ -281,6 +282,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskanligi-kabinesi-toplandi-2558675",
   "https://www.cumhuriyet.com.tr/turkiye/dere-kenarinda-supheli-olum-coplerin-arasinda-cesedi-bulundu-2558619",
   "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-yogun-sis-ulasimi-olumsuz-etkiledi-2558525",
+  "https://www.cumhuriyet.com.tr/turkiye/fatih-te-tramvay-ile-otobus-carpisti-14-kisi-yaralandi-kaza-aninin-goruntusu-ortaya-cikti-2558725",
   "https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-sorusturmasinda-tutuklu-polis-hakan-yalcin-in-ifadesi-ortaya-cikti-zarfla-para-trafigi-2558708",
   "https://www.cumhuriyet.com.tr/turkiye/izmir-buyuksehir-belediye-meclisi-nde-akp-ye-gecis-protestosu-uc-kisi-fenalasti-2558674",
   "https://www.cumhuriyet.com.tr/turkiye/jandarma-9-bin-uzman-erbas-alimi-basvurulari-ne-zaman-2027-jandarma-uzman-erbas-alimi-sartlari-neler-nasil-yapilir-2558528",
@@ -294,6 +296,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/sir-cinayet-cozuldu-miras-icin-babasini-oldurttugu-ortaya-cikti-2558720",
   "https://www.cumhuriyet.com.tr/turkiye/tiktok-ta-canakkale-savasi-ni-oyuna-cevirdiler-begeni-gonderen-cephane-tasiyor-yorum-yazan-ates-aciyor-2558611",
   "https://www.cumhuriyet.com.tr/turkiye/umit-ozlale-fon-sorusturmasinda-6-nci-dosyayi-acikliyor-unsal-ban-dugumu-malta-daki-alici-hesabi-kime-ait-2558642",
+  "https://www.cumhuriyet.com.tr/turkiye/yakalanacagini-anlayinca-kendini-vurdu-hayatini-kaybetti-2558723",
   "https://www.cumhuriyet.com.tr/turkiye/yasa-disi-bahis-operasyonunda-2-5-milyar-liralik-islem-hacmi-18-tutuklama-2558671",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-tasyapi-nin-sisli-de-yukselen-usulsuz-projesi-onunde-basin-aciklamasi-yapti-kent-suclarina-bir-yenisini-ekleyecekler-2558613",
   "https://www.cumhuriyet.com.tr/tv-rehberi/alti-ustu-istanbul-dizisinin-son-bolumunde-ne-oldu-alti-ustu-istanbul-dizisinin-yeni-bolumu-ne-zaman-2558705",
@@ -314,6 +317,7 @@
   "https://www.dw.com/tr/antalya-da-uzlaşı-çıkmadı-cop-formatı-sorgulanıyor/a-80016651",
   "https://www.dw.com/tr/aym-den-ekrem-i̇mamoğlu-gündemi/a-80019289",
   "https://www.dw.com/tr/batılı-istihbarat-örgütlerine-göre-rusya-haftalar-içinde-nükleer-uydu-fırlatacak/a-80021767",
+  "https://www.dw.com/tr/cop31-antalya-da-neden-uzlaşısız-bitti-fosil-yakıt-ve-iklim-finansmanı-tıkanıklığı/a-80022675",
   "https://www.dw.com/tr/ekrem-i̇mamoğlu-dosyası-aym-gündeminde-tahliye-kararı-çıkar-mı/a-80019289",
   "https://www.dw.com/tr/ermenistan-anayasası-ndan-ağrı-dağı-soykırım-ve-karabağ-çıkıyor/a-80019560",
   "https://www.dw.com/tr/ermenistan-anayasası-ndan-ağrı-dağı-ve-dağlık-karabağ-çıkıyor/a-80019560",
@@ -452,6 +456,10 @@
   "https://www.evrensel.net/haber/6010859/galatasaray-dan-iki-oyuncuyu-istiyorlar-biri-icin-10-yil-oynar-dedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010860/erdogan-dan-fon-vurgunu-aciklamasi-bir-an-once-cozulmesini-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010861/tum-ihtimaller-aciklandi-osimhen-aston-villa-macinda-oynayacak-mi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010862/halk-tv-den-ayrilan-gazeteciler-yeni-kanal-kurdu-halk-televizyonu-bu-aksam-yayinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010863/sgk-den-emeklilere-kritik-uyari-3-ay-icinde-muayene-olunmazsa-ne-oluyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010864/genel-is-izmir-3-no-lu-subenin-genel-kurulunda-beyaz-liste-kazandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010865/emre-mor-futbola-neden-ara-verdi-nec-nijmegen-den-milli-futbolcuyla-ilgili-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/50-todestag-andre-malraux-accg-201705805.html",
@@ -526,7 +534,9 @@
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/ann-kahrin-berger-torhueterin-zurueck-in-bundesliga-zu-1-fc-union-berlin-201710494.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-was-werder-bremen-und-hamburger-sv-im-nordderby-unterscheidet-accg-201709091.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/dfb-schiedsrichterchef-knut-kircher-im-interview-ueber-den-var-in-der-bundesliga-accg-201701883.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/jamal-musiala-beim-fc-bayern-muenchen-dreesen-verteidigt-hoeness-und-rummenigge-201710592.html",
   "https://www.faz.net/aktuell/sport/fussball/florian-wirtz-tor-und-vorlage-fuer-fc-liverpool-lob-fuer-dfb-star-accg-201708562.html",
+  "https://www.faz.net/aktuell/sport/fussball/fussball-wm-der-frauen-fifa-vergibt-turniere-fuer-jahre-2031-und-2035-201710552.html",
   "https://www.faz.net/aktuell/sport/fussball/lautsprecherausfall-bei-eintracht-frankfurt-fans-uebernehmen-das-kommando-201706247.html",
   "https://www.faz.net/aktuell/sport/fussball/nick-woltemade-wie-dfb-stuermer-juventus-tiefgreifend-veraendert-accg-201708774.html",
   "https://www.faz.net/aktuell/sport/fussball/schweiz-torwart-marvin-keller-im-f-a-z-fragebogen-accg-201656473.html",
@@ -650,6 +660,7 @@
   "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
   "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
   "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
+  "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
   "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
   "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
@@ -689,14 +700,18 @@
   "https://www.theguardian.com/environment/2026/nov/23/plant-based-lunches-could-cut-australia-emissions-by-15m-tonnes-new-research-shows",
   "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
   "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
+  "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
   "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
   "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
+  "https://www.theguardian.com/politics/2026/nov/23/uk-visit-china-lucy-powell-education-mi5-universities-warning",
   "https://www.theguardian.com/politics/live/2026/nov/23/andy-burnham-brexit-europe-eu-uk-summit-deal-commons-cbi-farage-badenoch-haigh-politics-latest-news-updates",
   "https://www.theguardian.com/science/2026/nov/23/pervert-glasses-meta-word-of-the-year-macquarie-dictionary-nudify-aidr",
   "https://www.theguardian.com/society/2026/nov/23/smart-car-tracking-control-features-domestic-violence-warning-ntwnfb",
   "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+  "https://www.theguardian.com/technology/2026/nov/23/trump-jensen-huang-nvidia-reinstated",
   "https://www.theguardian.com/uk-news/2026/nov/23/asylum-seekers-removed-from-uk-unnecessary-and-intimidating-force",
   "https://www.theguardian.com/uk-news/2026/nov/23/ian-huntley-killed-by-inmate-court-trial",
+  "https://www.theguardian.com/uk-news/2026/nov/23/lilly-jones-stabbing-park-south-wales-trial",
   "https://www.theguardian.com/uk-news/2026/nov/23/man-pleads-guilty-case-woman-drugged-husband-raped-stockport",
   "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
   "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
@@ -718,7 +733,9 @@
   "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
   "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
   "https://www.welt.de/debatte/plus6aff1681c1e8003ef73c4aac/ngos-und-agenturen-verdacht-der-politischen-geldwaesche-wie-linke-und-gruene-lobbys-in-den-wahlkampf-eingreifen.html",
+  "https://www.welt.de/debatte/plus6b02f0a239a3e8110f0e6a3c/afd-politiker-krah-das-migrationsproblem-ist-loesbar-im-konsens-ueber-brandmauern-hinweg.html",
   "https://www.welt.de/debatte/plus6b03f62c39a3e8110f0e77aa/haushalt-2027-cl-kauf-pl-ab-die-autoritaet-des-bundeskanzlers-naehert-sich-dem-nullpunkt.html",
+  "https://www.welt.de/debatte/plus6b03fe96172877701c06f1a0/klima-doppelmoral-keiner-zockt-die-eu-so-ab-wie-lula.html",
   "https://www.welt.de/finanzen/plus6afef2a3ee91e990acae6bdc/gebaeudetyp-e-die-regeln-fuer-das-billigere-bauen-stehen-fest-und-werden-kaum-etwas-aendern.html",
   "https://www.welt.de/finanzen/plus6b0029f2be487c5437746f6e/vergesellschaftung-in-berlin-wer-ueber-enteignungen-spricht-darf-sich-nicht-wundern.html",
   "https://www.welt.de/finanzen/plus6b0166eb39a3e8110f0e512b/der-crash-der-aus-dem-nichts-kam-und-wie-es-jetzt-an-den-weltboersen-weitergeht.html",
@@ -773,6 +790,7 @@
   "https://www.welt.de/wirtschaft/plus6b0423b3172877701c06fc33/spritpreisdeckel-18-15-und-20-cent-diese-spritpreis-formel-soll-ab-januar-gelten.html",
   "https://www.welt.de/wirtschaft/plus6b04293566a00c9ca1fe0ba9/seekrieg-sieben-sprengboote-vor-bengasi-die-mysterioese-mission-der-ukrainischen-seedrohnen.html",
   "https://www.welt.de/wirtschaft/plus6b043a6966a00c9ca1fe0e0c/klimakonferenz-in-der-tuerkei-wie-deutschlands-klima-mission-in-einem-historischen-debakel-endete.html",
+  "https://www.welt.de/wirtschaft/plus6b0451a066a00c9ca1fe11dd/nvidia-und-ich-habe-sie-ueberzeugt-wie-trump-das-comeback-von-jensen-huang-einfaedelte.html",
   "https://www.welt.de/wissenschaft/article6b02aed53cd434a4d6d0cb17/karriere-und-kinder-sind-vaeter-in-elternzeit-gluecklicher-forscher-nennen-wichtigen-faktor.html"
  ]
 }
