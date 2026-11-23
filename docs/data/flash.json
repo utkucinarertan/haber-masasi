@@ -1,8 +1,26 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T23:34+01:00",
+ "updatedAt": "2026-11-24T00:18+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T23:00:11+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/plus6b000ac339a3e8110f0e36ed/migration-das-ganze-ausmass-der-deutsch-defizite-zugewanderter-kinder.html",
+    "text": {
+     "tr": "Uzun süreli araştırmalar, göçmen çocukların Alman eğitim sisteminde yıllar geçtikten sonra bile yerel sınıf arkadaşlarıyla aralarındaki Almanca dil açığını ortaya koyuyor.",
+     "de": "Langzeitstudien offenbaren eine deutliche Kluft bei den Deutschkenntnissen von zugewanderten Kindern im Vergleich zu einheimischen Mitschülern."
+    }
+   },
+   {
+    "time": "2026-11-23T22:58:06+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/plus6b0009c0be487c5437746af9/krisen-in-der-welt-deutschland-soll-fuehren-doch-die-deutschen-wollen-nicht.html",
+    "text": {
+     "tr": "Yeni bir araştırmaya göre Almanya'da halkın yaklaşık üçte ikisi dış politikada askeri bir liderlik rolünü reddediyor.",
+     "de": "Fast zwei Drittel der Bürger in Deutschland lehnen laut einer Studie eine militärische Führungsrolle des Landes ab."
+    }
+   },
    {
     "time": "2026-11-23T22:20:38+00:00",
     "source": "Die Welt",
@@ -29,24 +47,6 @@
      "tr": "Düşük gelirli hanelere yönelik ücretsiz enerji danışmanlığı ve fon sağlayan tasarruf programı üç yıl uzatıldı.",
      "de": "Die Finanzierung von kostenlosen Stromspar-Checks für einkommensschwache Haushalte wurde um drei Jahre verlängert."
     }
-   },
-   {
-    "time": "2026-11-23T20:35:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/iran-saengerin-parastu-ahmadi-wegen-verstoss-gegen-kopftuchpflicht-ausgepeitscht-a-aeda6a6e-0556-4654-83fc-4e5fa7e97e2e#ref=rss",
-    "text": {
-     "tr": "İranlı şarkıcı Parastu Ahmadi, koputuk takma kuralına uymadığı ve başörtüsüz şarkı söylediği gerekçesiyle kırbaçlandı.",
-     "de": "Wegen Verstoßes gegen die Kopftuchpflicht und Auftretens ohne Schleier ist die iranische Sängerin Parastu Ahmadi ausgepeitscht worden."
-    }
-   },
-   {
-    "time": "2026-11-23T20:26:11+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b04998339a3e8110f0e94e6/ukraine-krieg-krieg-darf-sich-nicht-auf-ostsee-ausweiten-pistorius-mahnt-kiew.html",
-    "text": {
-     "tr": "Savunma Bakanı Boris Pistorius, Ukrayna'nın Baltık Denizi'ndeki Rus gemisine saldırısının ardından Kiev'i uyardı.",
-     "de": "Verteidigungsminister Boris Pistorius hat die Ukraine nach dem Angriff auf ein russisches Schiff in der Ostsee ermahnt."
-    }
    }
   ],
   "world": [
@@ -60,6 +60,24 @@
     }
    },
    {
+    "time": "2026-11-23T23:10:22+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+    "text": {
+     "tr": "14 ülke, Uluslararası Adalet Divanı'nın Myanmar'ın Rohinyalı azınlığa soykırım uyguladığı yönündeki kararını tanıdı.",
+     "de": "14 Staaten haben das historische Urteil des Internationalen Gerichtshofs über den Völkermord an den Rohingya in Myanmar anerkannt."
+    }
+   },
+   {
+    "time": "2026-11-23T22:33:03+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
+    "text": {
+     "tr": "NATO Genel Sekreteri Mark Rutte, Rusya'nın nükleer uydu planı iddiaları üzerine ittifakın uzaydaki tehditlere karşı savunma yapacağını belirtti.",
+     "de": "NATO-Generalsekretär Mark Rutte hat angesichts von Berichten über einen russischen Atomsatelliten die Verteidigung im All zugesichert."
+    }
+   },
+   {
     "time": "2026-11-23T22:15:26+00:00",
     "source": "BBC News World",
     "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
@@ -69,34 +87,25 @@
     }
    },
    {
-    "time": "2026-11-23T22:11:03+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/video/2026/11/23/belcikada-butce-kesintileri-protestosu-brukselde-isci-yuruyusu-catismaya-donustu",
+    "time": "2026-11-23T22:14:17+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
     "text": {
-     "tr": "Belçika'nın başkenti Brüksel'de bütçe kesintilerini protesto eden işçi yürüyüşünde arbede yaşandı, polis biber gazı ve tazyikli su kullandı.",
-     "de": "Bei Protesten gegen Haushaltsküerzungen in Brüssel kam es zu Ausschreitungen, woraufhin die Polizei Tränengas und Wasserwerfer einsetzte."
-    }
-   },
-   {
-    "time": "2026-11-23T21:59:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-jensen-huang-kehrt-auf-druck-von-donald-trump-zurueck-a-24b07e86-c1ee-4a84-833e-61d4784dd87f#ref=rss",
-    "text": {
-     "tr": "Donald Trump'ın baskısı üzerine Jensen Huang, Nvidia CEO'luğu görevine geri döndü.",
-     "de": "Jensen Huang kehrt auf Druck von Donald Trump als CEO zu Nvidia zurück."
-    }
-   },
-   {
-    "time": "2026-11-23T21:53:33+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
-    "text": {
-     "tr": "ABD Temsilcisi Jimmy Gomez, hakkında hazırlanan cinsel taciz raporunun ardından Kongre'den istifa edeceğini açıkladı.",
-     "de": "Der US-Abgeordnete Jimmy Gomez kündigte nach einem Ethikbericht über sexuelles Fehlverhalten seinen Rücktritt aus dem Kongress an."
+     "tr": "Türkiye'de düzenlenen COP31 iklim zirvesi, fosil yakıtlar ve iklim finansmanı konusundaki derin anlaşmazlıklar nedeniyle uzlaşmaya varamadan sona erdi.",
+     "de": "Der Klimagipfel COP31 in der Türkei ist wegen tiefer Differenzen beim Ausstieg aus fossilen Brennstoffen ohne Einigung zu Ende gegangen."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-24T01:43:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010896/basaksehir-in-stoperi-emin-bayram-sakatligi-nedeniyle-sezonu-kapatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Başakşehir'in 23 yaşındaki stoperi Emin Bayram, Çorum FK maçında yaşadığı sakatlık nedeniyle sezonu kapattı.",
+     "de": "Başakşehir-Innenverteidiger Emin Bayram fällt wegen einer Verletzung für den Rest der Saison aus."
+    }
+   },
    {
     "time": "2026-11-24T01:02:00+03:00",
     "source": "Evrensel",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Kuzey Kıbrıs'ta 28 kişinin öldüğü gemi faciası davasında, geminin seferlerin aksamaması için 400 liralık yapıştırıcıyla tamir edildiği ortaya çıktı.",
      "de": "Im Prozess zum Schiffsunglück mit 28 Toten in Nordzypern kam heraus, dass das Schiff mit Kleber repariert worden war."
-    }
-   },
-   {
-    "time": "2026-11-24T00:13:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-saganak-asfalt-coktu-3-kamyon-ve-1-kamyonet-cukura-dustu-2558795",
-    "text": {
-     "tr": "Balıkesir'in Havran ilçesinde sağanak nedeniyle çöken asfalttaki derin çukura 3 kamyon ve 1 kamyonet düştü.",
-     "de": "In Balıkesir stürzten nach heftigen Regenfällen drei Lkw und ein Kleintransporter in eine eingestürzte Straße."
     }
    }
   ]
@@ -245,6 +245,7 @@
   "https://www.bbc.com/turkce/articles/cqkgm447g4gro",
   "https://www.bbc.com/turkce/articles/cqwy4nnvx323o",
   "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
+  "https://www.bbc.com/turkce/articles/cvglre569j3po",
   "https://www.bbc.com/turkce/articles/cwn70zz4zg0lo",
   "https://www.bbc.com/turkce/articles/cxyvdqvlzzm1o",
   "https://www.cumhuriyet.com.tr/astroloji/24-kasim-sali-burc-yorumlari-bugun-sizi-neler-bekliyor-2558666",
@@ -564,6 +565,7 @@
   "https://www.evrensel.net/haber/6010893/katar-ortadogu-abd-iran-arasinda-yeni-bir-gerilimi-kaldiramaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010894/yeniden-degerleme-orani-2783-olarak-tespit-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010895/elektronik-belge-uygulamalarinda-yeni-duzenleme-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010896/basaksehir-in-stoperi-emin-bayram-sakatligi-nedeniyle-sezonu-kapatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/besser-leben/stil/bauhaus-und-italienische-avantgarde-zwei-designgalerien-in-der-berliner-mommsenstrasse-201614634.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
@@ -705,9 +707,12 @@
   "https://www.faz.net/video/nvidia-holt-ex-chef-jensen-huang-zurueck-201710319.html",
   "https://www.faz.net/video/ukraine-zahl-der-todesopfer-nach-russischem-angriff-steigt-201708307.html",
   "https://www.faz.net/video/weltklimakonferenz-endet-ohne-einigung-201709096.html",
+  "https://www.france24.com/en/a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
+  "https://www.france24.com/en/africa-disappointed-with-cop31-outcome",
   "https://www.france24.com/en/americas/20261123-alice-huang-had-contact-with-china-spy-agency-during-affair-with-nvidia-boss-nyt-reports",
   "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
   "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
+  "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
   "https://www.france24.com/en/environment/20261123-let-down-on-all-sides-pacific-island-nations-express-despair-over-cop31-failure",
   "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
   "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
@@ -715,9 +720,12 @@
   "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
   "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages",
   "https://www.france24.com/en/libya-s-east-seeks-un-probe-into-claims-ukrainian-military-present-in-west",
+  "https://www.france24.com/en/nato-vows-space-defence-after-russia-nuclear-satellite-report",
   "https://www.france24.com/en/nvidia-reinstates-huang-as-ceo-after-trump-intervention",
   "https://www.france24.com/en/trump-backs-nvidia-boss-s-return-but-top-democrat-vows-probe",
+  "https://www.france24.com/en/tv-shows/a-propos/20261123-a-war-of-unmanned-machines-ai-and-total-transparency-of-the-battlefield",
   "https://www.france24.com/en/tv-shows/arts24/20261123-pamela-bring-a-little-light-to-darker-times-with-dancing-on-the-edge",
+  "https://www.france24.com/en/tv-shows/business/20261123-jensen-huang-reinstated-as-nvidia-ceo",
   "https://www.france24.com/en/tv-shows/down-to-earth/20261123-behind-cop31-failure-a-showdown-over-fossil-fuel-interests",
   "https://www.france24.com/en/tv-shows/focus/20261123-dhaka-bursting-at-the-seams-bangladeshi-capital-faces-public-health-housing-crisis",
   "https://www.france24.com/en/tv-shows/perspective/20261123-photographer-federico-veronesi-i-ve-been-in-love-with-african-wildlife-since-i-was-three",
@@ -894,6 +902,7 @@
   "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
   "https://www.theguardian.com/us-news/live/2026/nov/23/donald-trump-democrats-republicans-presidential-primary-midterms-house-latest-news-updates",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
+  "https://www.theguardian.com/world/2026/nov/23/canada-trump-impersonator-press-dinner",
   "https://www.theguardian.com/world/2026/nov/23/chamonix-mayor-tourist-limits-lac-blanc",
   "https://www.theguardian.com/world/2026/nov/23/gisele-pelicot-deeply-shocked-nude-images-book-france",
   "https://www.theguardian.com/world/2026/nov/23/iranian-singer-lashes-performing-without-hijab",
@@ -959,6 +968,8 @@
   "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-mann-soll-sitzung-der-gruenen-in-schwerte-gestuermt-haben-bericht-ueber-drei-verletzte.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-bei-der-aufruestung-gebe-es-keine-kontrolle-mehr-sagt-ein-rechnungspruefer.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-deutschlands-gewaltige-aufruestung-und-eine-kontrolle-die-nur-noch-simuliert-wird.html",
+  "https://www.welt.de/politik/deutschland/plus6b0009c0be487c5437746af9/krisen-in-der-welt-deutschland-soll-fuehren-doch-die-deutschen-wollen-nicht.html",
+  "https://www.welt.de/politik/deutschland/plus6b000ac339a3e8110f0e36ed/migration-das-ganze-ausmass-der-deutsch-defizite-zugewanderter-kinder.html",
   "https://www.welt.de/politik/deutschland/plus6b03f7c439a3e8110f0e77e4/afd-in-nrw-es-draengt-sich-der-eindruck-auf-dass-der-bundesvorstand-die-mehrheiten-drehen-will.html",
   "https://www.welt.de/politik/deutschland/plus6b03f8cd172877701c06f11c/freie-waehler-die-ungewoehnliche-strategie-hinter-der-aiwanger-nachfolge.html",
   "https://www.welt.de/politik/deutschland/plus6b049b3739a3e8110f0e950e/spd-nachwuchs-klassenkampf-statt-individualismus-wie-die-jusos-deutschland-und-die-spd-umkrempeln-wollen.html",
