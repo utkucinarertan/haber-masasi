@@ -1,8 +1,44 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-23T01:42+01:00",
+ "updatedAt": "2026-11-23T02:12+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-23T00:54:02+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+    "text": {
+     "tr": "Savcılık, polis memuru Beau Lamarre-Condon'ın Sydney'deki bir çifti infaz ettiğini ve ardından yalan söylediğini belirtti.",
+     "de": "Die Staatsanwaltschaft wirft dem Polizisten Beau Lamarre-Condon vor, ein Paar in Sydney hingerichtet und gelogen zu haben."
+    }
+   },
+   {
+    "time": "2026-11-23T00:50:39+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
+    "text": {
+     "tr": "ABD ordusu, Iowa'daki sağlık ve çevre riskleri endişelerine rağmen tonlarca bomba yapım kimyasalını patlatmak için acil durum yetkilerini devreye sokuyor.",
+     "de": "Die US-Armee beruft sich in Iowa trotz Gesundheits- und Umweltbedenken auf Notstandsbefugnisse, um Sprengstoffchemikalien zu vernichten."
+    }
+   },
+   {
+    "time": "2026-11-23T00:43:36+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+    "text": {
+     "tr": "Sudan'ın başkenti Hartum'da evleri ve bir BM binasını vuran dron saldırılarından ordu komşu Etiyopya'yı sorumlu tuttu.",
+     "de": "Bei Drohnenangriffen in Sudans Hauptstadt Karthum wurden Wohnhäuser und ein UN-Gebäude beschädigt; die Armee beschuldigt Äthiopien."
+    }
+   },
+   {
+    "time": "2026-11-23T00:31:31+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, Demokratların menfaat çatışması suçlamalarına rağmen Virginia'da üçüncü kripto para galasına ev sahipliği yapıyor.",
+     "de": "US-Präsident Donald Trump richtet in Virginia trotz Kritik wegen Interessenkonflikten seine dritte Kryptowährungsgala aus."
+    }
+   },
    {
     "time": "2026-11-23T00:18:59+00:00",
     "source": "BBC Türkçe",
@@ -10,42 +46,6 @@
     "text": {
      "tr": "Demokratlar, ara seçimlerde ABD Temsilciler Meclisi'nde 1992'den bu yana en yüksek sandalye sayısı olan en az 258 sandalyeye ulaştı.",
      "de": "Die Demokraten haben bei den Zwischenwahlen mindestens 258 Sitze im US-Repräsentantenhaus gewonnen und damit die höchste Anzahl seit 1992 erreicht."
-    }
-   },
-   {
-    "time": "2026-11-22T22:24:56+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/music/2026/nov/23/molly-meldrum-dies-aged-83",
-    "text": {
-     "tr": "Avustralyalı müzik yapımcısı ve yayıncı Molly Meldrum, Melbourne'deki bir hastanede 83 yaşında hayatını kaybetti.",
-     "de": "Der australische Musikproduzent und Moderator Molly Meldrum ist im Alter von 83 Jahren in Melbourne gestorben."
-    }
-   },
-   {
-    "time": "2026-11-22T22:01:17+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
-    "text": {
-     "tr": "ABD'li senatör seçilen Abdul El-Sayed, sağlık reformu tasarısının Donald Trump'ın adıyla anılmasına açık olduğunu belirtti.",
-     "de": "Der US-Senator Abdul El-Sayed bekräftigte, dass er offen dafür sei, eine Gesundheitsreform nach Donald Trump zu benennen, wenn dieser sie unterstützt."
-    }
-   },
-   {
-    "time": "2026-11-22T21:29:16+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261122-israel-s-eisenkot-slams-jewish-terrorism-after-attacks-by-settlers-in-west-bank",
-    "text": {
-     "tr": "İsrail muhalefet lideri Gadi Eizenkot, Batı Şeria'daki yerleşimcilerin Filistin köylerine düzenlediği saldırıları Yahudi terörizmi olarak nitelendirdi.",
-     "de": "Israels Oppositionsführer Gadi Eisenkot verurteilte Brandanschläge von Siedlern in palästinensischen Dörfern als jüdischen Terrorismus."
-    }
-   },
-   {
-    "time": "2026-11-22T20:55:33+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/22/intelligence-chief-jay-clayton-trump-putin-my-friend",
-    "text": {
-     "tr": "ABD Ulusal İstihbarat Direktörü Jay Clayton, Başkan Trump'ın Vladimir Putin'i 'dostum' olarak nitelendirmesine tamamen güvendiğini söyledi.",
-     "de": "US-Geheimdienstchef Jay Clayton sagte, er vertraue Donald Trumps Bezeichnung von Wladimir Putin als 'Freund' vollkommen."
     }
    }
   ],
@@ -484,6 +484,7 @@
   "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
   "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
   "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+  "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
   "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
@@ -544,6 +545,7 @@
   "https://www.spiegel.de/wissenschaft/uno-klimakonferenz-die-oelproduzenten-haben-angst-die-europaeer-reden-sich-raus-a-3805b4d7-2a8e-40e3-9b7b-d36d3ff3d6dc#ref=rss",
   "https://www.spiegel.de/wissenschaft/weltall/bepicolombo-doppelsonde-von-esa-und-jaxa-in-merkur-umlaufbahn-a-097c2f75-6331-4e5b-9a7d-014ab11f0596#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+  "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
   "https://www.tagesschau.de/ausland/asien/eilmeldung-weltklimakonferenz-cop31-antalya-kein-abschlussdokument-100.html",
   "https://www.tagesschau.de/ausland/asien/indonesien-brand-fabrik-tote-vermisste-100.html",
   "https://www.tagesschau.de/ausland/asien/israel-bat-jam-raketenangriff-klage-iran-reportage-100.html",
@@ -567,6 +569,7 @@
   "https://www.tagesschau.de/wirtschaft/verbraucher/gebrauchte-elektroautos-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/22/police-say-man-whose-body-lay-undiscovered-in-sydney-bushland-for-12-days-was-killed-in-suspected-hit-and-run-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/australia-urged-to-wean-off-imported-fossil-fuels-amid-global-supply-shocks",
+  "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/23/datacentre-bosses-met-australian-state-premiers-and-ministers-almost-120-times-in-three-years-analysis-finds",
   "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
   "https://www.theguardian.com/books/2026/nov/22/rivals-author-jilly-cooper-accused-plagiarism",
@@ -597,6 +600,7 @@
   "https://www.theguardian.com/uk-news/2026/nov/22/man-who-killed-three-during-psychotic-episode-had-been-released-after-catalogue-of-failures-investigation-finds-alexander-lewis-ranwell",
   "https://www.theguardian.com/us-news/2026/nov/22/abdul-el-sayed-trump-care-health-proposal-name",
   "https://www.theguardian.com/us-news/2026/nov/22/arizona-grandfather-toddler-missing-desert",
+  "https://www.theguardian.com/us-news/2026/nov/22/army-blow-up-bomb-making-chemicals-iowa",
   "https://www.theguardian.com/us-news/2026/nov/22/bigfoot-sighting-report-released-montana-oregon-forest-service",
   "https://www.theguardian.com/us-news/2026/nov/22/conservative-media-trump-midterm-elections-results",
   "https://www.theguardian.com/us-news/2026/nov/22/hakeem-jeffries-democrats-agenda",
@@ -606,6 +610,7 @@
   "https://www.theguardian.com/us-news/2026/nov/22/measles-amish-outbreak",
   "https://www.theguardian.com/us-news/2026/nov/22/memphis-tn-ice-detained",
   "https://www.theguardian.com/us-news/2026/nov/22/original-pantry-cafe-reopening-los-angeles",
+  "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
   "https://www.theguardian.com/world/2026/nov/22/blast-russian-ship-suspected-drone-attack-benghazi-libya",
   "https://www.theguardian.com/world/2026/nov/22/briton-lewis-pugh-swims-strait-of-hormuz-environment-war",
   "https://www.theguardian.com/world/2026/nov/22/europe-elections-supercycle-could-shake-eu-foundations",
