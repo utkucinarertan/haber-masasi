@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T08:55+01:00",
+ "updatedAt": "2026-11-23T09:25+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-23T11:16:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010750/cop31-in-uzlasma-saglanamadan-sona-ermesi-dunya-basininda-iklim-gorusmeleri-coktu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Antalya'da düzenlenen COP31 iklim zirvesi, fosil yakıtlar konusunda uzlaşma sağlanamadan sona erdi.",
+     "de": "Der Klimagipfel COP31 in Antalya ist ohne eine Einigung über fossile Brennstoffe zu Ende gegangen."
+    }
+   },
+   {
     "time": "2026-11-23T10:50:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010742/ermenistan-da-yeni-anayasa-taslagi-yayimlandi-bagimsizlik-bildirgesi-ne-atifta-bulunulmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -69,6 +78,15 @@
     }
    },
    {
+    "time": "2026-11-23T09:24:41+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
+    "text": {
+     "tr": "Ukrayna, Libya limanında demirli Rus savaş gemisi Merkury'nin deniz dronları kullanılarak batırıldığını açıkladı.",
+     "de": "Die Ukraine hat sich zur Zerstörung des russischen Kriegsschiffs Merkury in einem libyschen Hafen mittels Seedrohnen bekannt."
+    }
+   },
+   {
     "time": "2026-11-23T08:46:12+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/wissen/forschung/anthropic-riemannsche-vermutung-loesung-100.html",
@@ -76,27 +94,18 @@
      "tr": "Anthropic yapay zekası, matematikte yüzyılın problemi olan Riemann hipotezini çözmüş olabilir.",
      "de": "Die KI von Anthropic hat möglicherweise das Jahrhundertproblem der Mathematik, die Riemannsche Vermutung, gelöst."
     }
-   },
-   {
-    "time": "2026-11-23T08:41:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/kanada-mark-carney-holt-beim-presse-dinner-falschen-donald-trump-auf-die-buehne-a-047a4fae-bec9-48c7-aa69-680fd7fdeb61#ref=rss",
-    "text": {
-     "tr": "Kanada Başbakanı Mark Carney, bir basın yemeğinde Donald Trump'ın bir benzerini sahneye çıkardı.",
-     "de": "Kanadas Premierminister Mark Carney hat bei einem Presse-Dinner einen Donald-Trump-Doppelgänger auf die Bühne geholt."
-    }
-   },
-   {
-    "time": "2026-11-23T08:30:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/netzwelt/darknet-wie-ein-deutscher-den-weltgroessten-drogenmarktplatz-aufgebaut-hat-a-17f84a7a-c411-485c-8506-6612ea209876#ref=rss",
-    "text": {
-     "tr": "Ostwestfalyalı 31 yaşındaki bir Alman, dünyanın en büyük darknet uyuşturucu pazarını kurdu.",
-     "de": "Ein 31-jährigen Deutscher aus Ostwestfalen hat den weltgrößten Drogenmarktplatz im Darknet aufgebaut."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-23T11:15:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010749/akp-li-duzkoy-belediye-baskani-selim-celenk-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "AKP'li Düzköy Belediye Başkanı Selim Çelenk tedavi gördüğü Ankara Şehir Hastanesi’nde hayatını kaybetti.",
+     "de": "Der AKP-Bürgermeister von Düzköy, Selim Çelenk, ist im Stadtkrankenhaus Ankara verstorben."
+    }
+   },
    {
     "time": "2026-11-23T10:43:00+03:00",
     "source": "Evrensel",
@@ -132,15 +141,6 @@
      "tr": "Şakhtar Donetsk'in 8 oyuncusu, Polonya sınırında yaşanan vize sorunları nedeniyle takımla birlikte Londra'ya gidemedi.",
      "de": "Acht Spieler von Shakhtar Donetsk konnten wegen visabezogener Probleme an der Grenze nicht nach Polen reisen."
     }
-   },
-   {
-    "time": "2026-11-23T09:48:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010732/disisleri-bakani-fidan-savas-bizim-isimiz-bildigimiz-yerden-soru-cikar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Dışişleri Bakanı Hakan Fidan, Yemen'e asker gönderilmesine ilişkin henüz bir karar alınmadığını belirterek savaş tartışmalarına değindi.",
-     "de": "Aussenminister Hakan Fidan erklärte, dass noch keine Entscheidung über die Entsendung von Soldaten in den Jemen getroffen wurde."
-    }
    }
   ]
  },
@@ -156,11 +156,14 @@
   "https://tr.euronews.com/2026/11/23/gobeklitepe-ve-karahantepeden-34-eser-ilk-kez-sergide",
   "https://tr.euronews.com/2026/11/23/imonun-net-sifir-cercevesi-deniz-tasimaciliginda-kuresel-anlasma-icin-yeni-girisim",
   "https://tr.euronews.com/2026/11/23/istanbul-sariyerde-aslan-goruldugu-ihbari-uzerine-ekipler-harekete-gecti-evden-cikmayin-uy",
+  "https://tr.euronews.com/2026/11/23/istanbulda-yilbasi-sezonu-basliyor-kucukciftlik-parkta-yeni-yil-kasabasi",
   "https://tr.euronews.com/2026/11/23/kuzey-kore-trumpin-gorusme-teklifine-mesafeli-kimden-egemenlik-vurgusu",
+  "https://tr.euronews.com/2026/11/23/malaga-lizbon-madrid-2026da-avrupada-expatlar-icin-en-iyi-sehirler-arasinda",
   "https://tr.euronews.com/2026/11/23/portekiz-teknoloji-yatirimlarinda-avrupanin-ilk-10unda-tekever-finansmani-onemli-rol-oynad",
   "https://tr.euronews.com/2026/11/23/sanzelize-yilbasi-isiklariyla-parladi-noel-pazari-10-yil-sonra-geri-dondu",
   "https://tr.euronews.com/2026/11/23/teknoloji-ve-yapay-zeka-hisseleri-wall-street-satisi-asyaya-yayildi",
   "https://tr.euronews.com/2026/11/23/yapay-zeka-seyahat-sektorunu-donusturuyor-tatil-planlamada-artan-rol",
+  "https://tr.euronews.com/video/2026/11/23/rio-copacabana-onur-yuruyusu-dev-gokkusagi-bayragiyla-dansli-kutlama",
   "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
   "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
   "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
@@ -206,14 +209,27 @@
   "https://www.evrensel.net/haber/6010740/akp-den-belediyeler-icin-yeni-yasa-hazirligi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010741/piyasanin-enflasyon-beklentisi-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010742/ermenistan-da-yeni-anayasa-taslagi-yayimlandi-bagimsizlik-bildirgesi-ne-atifta-bulunulmuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010743/enflasyon-ve-konut-beklentisi-geriledi-dolar-tahmini-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010744/emep-istanbul-il-kongresinde-birlesik-mucadele-cagrisi-bu-rejimi-durdurmak-icin-guclerimizi-birlestirelim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010745/basketbol-avrupa-ligi-nde-14-hafta-heyecani-yarin-baslayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010746/kolombiya-hukumeti-eski-cumhurbaskani-petro-nun-x-hesabinin-askiya-alinmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010747/izmir-de-sifa-vaadiyle-dolandiricilik-ve-cinsel-saldiri-iddiasi-4-kisi-yakalandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010748/emep-corum-il-orgutu-11-olagan-kongresi-yapildi-birlesik-mucadeleyi-orgutlemeliyiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010749/akp-li-duzkoy-belediye-baskani-selim-celenk-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010750/cop31-in-uzlasma-saglanamadan-sona-ermesi-dunya-basininda-iklim-gorusmeleri-coktu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010751/rus-savas-gemisi-libya-da-iha-saldirisiyla-batti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010752/fosil-yakitlardan-neden-cikilamiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
+  "https://www.faz.net/aktuell/feuilleton/debatten/der-mann-der-die-iphone-kamera-verantwortet-muss-gehen-201701259.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/kulturkampf-in-frankreich-accg-201699273.html",
   "https://www.faz.net/aktuell/finanzen/msci-world-etf-oder-anleihen-was-experten-raten-accg-201688448.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/junge-rowdys-eskalation-in-holzgerlingen-accg-201699675.html",
   "https://www.faz.net/aktuell/gesellschaft/winterwetter-zum-wochenstart-glatteis-und-schnee-in-deutschland-accg-201707940.html",
   "https://www.faz.net/aktuell/politik/ausland/frankreich-jean-luc-melenchons-liebstes-feindbild-heisst-deutschland-201699870.html",
+  "https://www.faz.net/aktuell/politik/ausland/jovo-baki-und-aleksandra-stimac-serbiens-studentenliste-bekommt-gesichter-accg-201705185.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-plant-offenbar-ueberraschendes-koalitions-manoever-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/ukraine/nato-vor-schwieriger-abwaegung-drei-vorfaelle-ein-dilemma-201706520.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kiew-versenkt-russisches-kriegsschiff-vor-libyen-faz-110683325.html",
   "https://www.faz.net/aktuell/reise/safari-in-botswana-mit-tourismus-aus-der-krise-accg-201119923.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/flucht-ueber-russland-und-china-wie-ein-juedisches-ehepaar-aus-nazideutschland-entkam-accg-201699477.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/goethe-uni-frankfurt-bibliotheken-kuerzen-oeffnungszeiten-accg-201690419.html",
@@ -222,6 +238,7 @@
   "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/dfb-schiedsrichterchef-knut-kircher-im-interview-ueber-den-var-in-der-bundesliga-accg-201701883.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-unterliegt-alcaraz-dieses-spiel-zeigt-wo-sein-platz-in-der-hackordnung-ist-accg-201707628.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/amon-ra-st-brown-mit-naechstem-touchdown-detroit-lions-feiern-sechsten-sieg-in-serie-accg-201708132.html",
   "https://www.faz.net/aktuell/sport/mls-thomas-mueller-startet-mit-vancouver-whitecaps-erfolgreich-in-playoffs-accg-201708015.html",
   "https://www.faz.net/aktuell/sport/sportpolitik/gregor-gysi-im-interview-ueber-parallelen-zwischen-judo-und-politik-accg-201691504.html",
   "https://www.faz.net/aktuell/wirtschaft/bundeshaushalt-widerstand-gegen-soeders-vorstoss-zur-kalten-progression-accg-201708020.html",
@@ -249,9 +266,11 @@
   "https://www.spiegel.de/wirtschaft/gutachter-sieht-autobahn-schulden-als-umgehung-der-schuldenbremse-a-d03e377a-694b-4f1e-8737-5f93bd1bf7b3#ref=rss",
   "https://www.spiegel.de/wirtschaft/siemens-chef-busch-bescheinigt-deutscher-industrie-grosses-ki-talent-a-44d2b992-08e0-4848-a205-3f4743eb0244#ref=rss",
   "https://www.spiegel.de/wirtschaft/verschaerfung-der-regeln-fuer-altersteilzeit-koennte-milliarden-einbringen-a-27bb3a60-c9b2-446e-8f99-abe739300de7#ref=rss",
+  "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
   "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
   "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
+  "https://www.tagesschau.de/inland/regional/bayern/nachfolger-aiwanger-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
@@ -265,6 +284,7 @@
   "https://www.theguardian.com/media/2026/nov/23/bbc-tv-licence-fee-spiral-of-decline-report",
   "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
   "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
+  "https://www.theguardian.com/uk-news/2026/nov/23/manchester-co-op-live-arena-evacuated-tear-gas-don-toliver-concert",
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
   "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
   "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
@@ -273,6 +293,7 @@
   "https://www.welt.de/geschichte/article6afad8bdf3f8db1dd9f3e156/sozialismus-in-der-wohnungspolitik-luegt-die-linke-heute-so-dreist-wie-einst-die-sed.html",
   "https://www.welt.de/iconist/gesellschaft/article6afec280a3767a11a0be9e3e/nackt-im-museum-warum-ich-mich-fuer-die-kunst-ausziehen-will.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-kann-nur-antifeminismus-sein-erklaert-die-bundeszentrale.html",
+  "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-muss-antifeminismus-sein-erklaert-die-bundeszentrale.html",
   "https://www.welt.de/kultur/plus6afc64dfcdc4b5009f0a8f9a/generation-alpha-was-passiert-wenn-meine-tochter-eine-mutter-hat-die-gar-nicht-mehr-sterben-wird.html",
   "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html",
   "https://www.welt.de/politik/ausland/article6b03c6c25842ff528b9e46ed/libysche-kueste-zwoelf-wasserdrohnen-sichergestellt-angriff-auf-russisches-schiff-im-mittelmeer.html",
@@ -281,6 +302,8 @@
   "https://www.welt.de/politik/ausland/video6b03e11d5842ff528b9e484b/angriffe-auf-die-schattenflotte-kann-der-versuch-von-hardlinern-sein-friedensgespraeche-zu-torpedieren.html",
   "https://www.welt.de/politik/deutschland/article6b02dcd03cd434a4d6d0cf1e/primark-h-m-und-co-gruene-sagen-billig-kleidung-den-kampf-an.html",
   "https://www.welt.de/politik/deutschland/article6b03d77e39a3e8110f0e756c/sigmar-gabriel-so-ein-fuehrungsvakuum-hat-es-in-der-spd-noch-nie-gegeben-ex-spd-chef-attackiert-hubertus-heil.html",
+  "https://www.welt.de/sport/boxen/article6b02a5073cd434a4d6d0ca81/box-weltmeister-vielleicht-ist-mein-name-agit-kabayel-nicht-deutsch-genug.html",
+  "https://www.welt.de/sport/fussball/internationale-ligen/article6b03e11acdd7733913bf1ca4/fc-liverpool-lobeshymnen-auf-wirtz-dank-klopp-wie-ein-anderer-spieler.html",
   "https://www.welt.de/vermischtes/article6b03d8a95842ff528b9e47f1/augsburg-nach-poller-wahnsinn-jetzt-sichert-die-stadt-den-weihnachtsmarkt-mit-tonnenschweren-stahlbarrieren.html",
   "https://www.welt.de/wissenschaft/article6b02aed53cd434a4d6d0cb17/karriere-und-kinder-sind-vaeter-in-elternzeit-gluecklicher-forscher-nennen-wichtigen-faktor.html"
  ]
