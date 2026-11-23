@@ -10,7 +10,8 @@ Seçilen ülkelerin günün önemli haberlerini her sabah Türkçe, İngilizce v
 - **Bağımsız kaynaklar.** Haftada bir Gemini, Google'da güncel bilgiyi arayarak kaynakları denetler. Bağımsızlığını yitiren kaynakları (kayyum, devlet denetimi, kapanma) çıkarır, bağımsız haber sitelerini ekler; her adres denenir. Yöneticinin "kullanılmayacak siteler" listesi hiçbir zaman kullanılmaz.
 
 - **Kişisel profiller.** Yönetici her kişi için bir profil oluşturur (yönetim sayfası, 3. adım): kendi ülkeleri, kaynakları, konuları, dilleri ve saati olur. Kişi uygulamayı profilin bağlantısıyla (`?p=<profil>`) açar; uygulama profili hatırlar. Haber döngüsü her profili ayrı üretir; aynı ayarlı ülkeler profiller arasında paylaşılır, Gemini'ye bir kez gönderilir. Varsayılan profil `docs/data/`, diğerleri `docs/data/p/<profil>/` altındadır; liste `docs/data/profiles.json`.
-- **Sekmeler.** Her ülkede Son dakika, Gündem, Ekonomi, Teknoloji ve Spor sekmeleri var; ilk açılışta yalnız Son dakika ve Gündem açıktır.
+- **Sekmeler.** Her ülkede Son dakika, Gündem, Ekonomi, Teknoloji, Spor ve Kültür-Sanat sekmeleri var; ilk açılışta yalnız Son dakika ve Gündem açıktır.
+- **Profilim (kişi bazlı, cihazda).** Uygulama ilk açılışta profil penceresini gösterir: ad, takip edilen ülkeler, her ülkede açık ana konular ve **kendi konuları** (ör. "Beşiktaş"). Kendi konuları, ülkenin tüm kaynaklarından son 48 saatin başlıklarının yayınlandığı havuzda (`<profil>/pool/<ülke>.json`, 30 dakikada bir) telefonda aranır: sunucu yok, Gemini yok, kullanıcının konuları cihazdan çıkmaz. Havuzu genişletmek için yönetim sayfasında **Yalnız konu araması** türünde kaynak eklenir.
 
 Uygulama: https://utkucinarertan.github.io/haber-masasi/
 Yönetim: https://utkucinarertan.github.io/haber-masasi/admin.html

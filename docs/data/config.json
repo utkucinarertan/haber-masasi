@@ -75,13 +75,46 @@
      "url": "https://newsfeed.kicker.de/news/aktuell",
      "use": "daily",
      "topic": "spor"
+    },
+    {
+     "name": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/index.rss",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "FAZ Feuilleton",
+     "url": "https://www.faz.net/rss/aktuell/feuilleton/",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "Zeit Online",
+     "url": "https://newsfeed.zeit.de/index",
+     "use": "pool"
+    },
+    {
+     "name": "Süddeutsche Zeitung",
+     "url": "https://rss.sueddeutsche.de/rss/Topthemen",
+     "use": "pool"
+    },
+    {
+     "name": "Deutschlandfunk",
+     "url": "https://www.deutschlandfunk.de/nachrichten-100.rss",
+     "use": "pool"
+    },
+    {
+     "name": "sportschau Fußball",
+     "url": "https://www.sportschau.de/fussball/index~rss2.xml",
+     "use": "pool"
     }
    ],
    "topics": [
     "gundem",
     "ekonomi",
     "teknoloji",
-    "spor"
+    "spor",
+    "kultur"
    ]
   },
   {
@@ -162,13 +195,41 @@
      "url": "https://www.cumhuriyet.com.tr/rss/spor.xml",
      "use": "daily",
      "topic": "spor"
+    },
+    {
+     "name": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/rss/kultur-sanat.xml",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/rss?level=vertical&name=culture",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "Cumhuriyet Türkiye",
+     "url": "https://www.cumhuriyet.com.tr/rss/turkiye.xml",
+     "use": "pool"
+    },
+    {
+     "name": "Cumhuriyet Siyaset",
+     "url": "https://www.cumhuriyet.com.tr/rss/siyaset.xml",
+     "use": "pool"
+    },
+    {
+     "name": "Serbestiyet",
+     "url": "https://serbestiyet.com/feed/",
+     "use": "pool"
     }
    ],
    "topics": [
     "gundem",
     "ekonomi",
     "teknoloji",
-    "spor"
+    "spor",
+    "kultur"
    ]
   },
   {
@@ -178,7 +239,8 @@
     "gundem",
     "ekonomi",
     "teknoloji",
-    "spor"
+    "spor",
+    "kultur"
    ],
    "feeds": [
     {
@@ -246,6 +308,33 @@
      "url": "https://www.theguardian.com/sport/rss",
      "use": "daily",
      "topic": "spor"
+    },
+    {
+     "name": "BBC Entertainment & Arts",
+     "url": "https://feeds.bbci.co.uk/news/entertainment_and_arts/rss.xml",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "Guardian Culture",
+     "url": "https://www.theguardian.com/culture/rss",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "Guardian International",
+     "url": "https://www.theguardian.com/international/rss",
+     "use": "pool"
+    },
+    {
+     "name": "BBC News",
+     "url": "https://feeds.bbci.co.uk/news/rss.xml",
+     "use": "pool"
+    },
+    {
+     "name": "NPR News",
+     "url": "https://feeds.npr.org/1001/rss.xml",
+     "use": "pool"
     }
    ]
   }

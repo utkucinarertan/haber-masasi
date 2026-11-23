@@ -144,6 +144,41 @@ footer.note a{color:var(--muted)}
   .appbar .label{display:none}
   .desks{grid-template-columns:1fr;margin-top:12px}
 }
+.title .who{display:inline;font:inherit;color:inherit;opacity:.85}
+@media (max-width:600px){.title .who{display:none}}
+.tchip.kw{border-style:dashed}
+.tchip.kw[aria-pressed="true"]{border-style:solid}
+.tchip.add{color:var(--accent);border-color:var(--accent);border-style:dashed}
+.kwlist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:8px}
+.kwlist li{padding:10px 14px;background:var(--surface);border:1px solid var(--line);border-radius:12px}
+.kwlist a.t{color:var(--ink);font-weight:700;text-decoration:none;line-height:1.35;display:block}
+.kwlist a.t:hover{color:var(--accent)}
+.kwlist .m{font-size:.76rem;color:var(--muted);margin-top:3px}
+.kwlist mark{background:color-mix(in srgb,var(--accent) 22%,transparent);color:inherit;border-radius:3px;padding:0 1px}
+.kwempty{margin:0;font-size:.88rem;color:var(--muted)}
+/* Profilim */
+dialog.sheet{border:0;padding:0;border-radius:16px;width:min(620px,calc(100vw - 24px));max-height:calc(100dvh - 24px);
+  background:var(--bg,var(--surface));color:var(--ink);box-shadow:0 20px 60px rgba(0,0,0,.35)}
+dialog.sheet::backdrop{background:rgba(10,12,20,.55)}
+.sheet .in{display:flex;flex-direction:column;gap:16px;padding:18px 18px 0}
+.sheet h2{margin:0;font-size:1.3rem}
+.sheet .lead{margin:0;color:var(--muted);font-size:.92rem}
+.sheet label.f{display:flex;flex-direction:column;gap:6px;font-weight:700;font-size:.88rem}
+.sheet input[type=text]{padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit;min-width:0}
+.sheet .pc{border:1px solid var(--line);border-radius:12px;padding:12px;display:flex;flex-direction:column;gap:10px;background:var(--surface)}
+.sheet .pc .body{display:flex;flex-direction:column;gap:12px}
+.sheet .pc.off .body{display:none}
+.sheet .pc .hd{display:flex;align-items:center;gap:10px;font-weight:800}
+.sheet .pc .hd input{width:20px;height:20px;accent-color:var(--accent)}
+.sheet .sub{font-size:.78rem;font-weight:700;color:var(--muted);text-transform:uppercase;letter-spacing:.06em;margin-bottom:6px}
+.sheet .kwrow{display:flex;gap:6px}
+.sheet .kwrow input{flex:1}
+.sheet .kwtag{display:inline-flex;align-items:center;gap:4px;border:1px solid var(--accent);background:var(--accent-soft);border-radius:999px;padding:3px 4px 3px 11px;font-weight:700;font-size:.82rem}
+.sheet .kwtag button{border:0;background:transparent;color:var(--muted);font-size:1rem;line-height:1;padding:2px 6px;border-radius:999px}
+.sheet .kwtag button:hover{color:var(--err);background:var(--surface)}
+.sheet .foot{position:sticky;bottom:0;background:inherit;padding:12px 18px 16px;display:flex;justify-content:flex-end;gap:8px;border-top:1px solid var(--line);margin-top:16px}
+.sheet .btn2{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:10px;padding:9px 14px;font-weight:700}
+@media (max-width:600px){dialog.sheet{width:100vw;max-width:100vw;max-height:100dvh;height:100dvh;border-radius:0;margin:0}}
 </style>
 
 </head>
@@ -153,6 +188,10 @@ footer.note a{color:var(--muted)}
     <img class="logo" src="icons/icon-192.png" alt="">
     <div class="title"><b id="brand">Haber Masası</b><span id="subtitle"></span></div>
     <select class="langsel" id="lang" aria-label="Dil / Language / Sprache"></select>
+    <button class="iconbtn" id="me" type="button">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>
+      <span class="label" id="me-label">Profilim</span>
+    </button>
     <button class="iconbtn" id="update" type="button">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12a9 9 0 1 1-2.64-6.36"/><path d="M21 3v6h-6"/></svg>
       <span class="label" id="update-label">Yenile</span>
@@ -176,6 +215,18 @@ footer.note a{color:var(--muted)}
   <footer class="note"><span id="footnote"></span> <a href="admin.html" id="admin-link">Yönetim</a></footer>
 </div>
 
+<dialog class="sheet" id="sheet" aria-labelledby="sheet-title">
+  <form method="dialog">
+    <div class="in">
+      <h2 id="sheet-title"></h2>
+      <p class="lead" id="sheet-lead"></p>
+      <label class="f"><span id="name-label"></span><input type="text" id="my-name" maxlength="30" autocomplete="given-name"></label>
+      <div id="sheet-countries" style="display:flex;flex-direction:column;gap:10px"></div>
+    </div>
+    <div class="foot"><button class="primary" id="sheet-done" value="ok"></button></div>
+  </form>
+</dialog>
+
 <script>
 const T = {
   tr:{brand:"Haber Masası", today:"Bugünün baskısı", refresh:"Yenile", refreshTitle:"En son baskıyı getir", prepared:"Hazırlandı",
@@ -189,7 +240,11 @@ const T = {
       onlyLang:l => `Bu gün için haberler yalnızca ${l} olarak mevcut.`, noCountry:"Bu ülke için bu gün haber hazırlanmadı.",
       foot:"Haberler seçilen kaynaklardan derlenir; özet ve değerlendirmeler her sabah yapay zekâ ile hazırlanır. Ayrıntı için haberin kaynağına gidin.",
       admin:"Yönetim", locale:"tr-TR",
-      world:"Dünya", topics:{gundem:"Gündem", ekonomi:"Ekonomi", teknoloji:"Teknoloji", spor:"Spor"}, topicsLabel:"Konular",
+      world:"Dünya", topics:{gundem:"Gündem", ekonomi:"Ekonomi", teknoloji:"Teknoloji", spor:"Spor", kultur:"Kültür-Sanat"}, topicsLabel:"Konular",
+      me:"Profilim", meTitle:"Profilim", meWelcome:"Hoş geldiniz! Takip etmek istediğiniz ülkeleri ve konuları seçin. İstediğiniz kadar kendi konunuzu ekleyebilirsiniz; ör. Beşiktaş, enflasyon, yapay zekâ.",
+      meLead:"Ülkeleri, ana konuları ve kendi konularınızı seçin. Profiliniz yalnızca bu cihazda saklanır.", myName:"Adınız (isteğe bağlı)",
+      mainTopics:"Ana konular", myTopics:"Kendi konularım", addPh:"Konu ekle, ör. Beşiktaş", add:"Ekle", done:"Tamam", addTab:"+ Konu",
+      kwNone:q => `Son 48 saatte "${q}" ile ilgili haber bulunamadı.`, kwMore:n => `${n} haber daha`, kwLoading:"Aranıyor…", remove:"Kaldır",
       noTopic:"Görmek istediğiniz sekmeleri yukarıdan seçin.",
       flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste 30 dakikada bir güncellenir.",
       flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
@@ -204,7 +259,11 @@ const T = {
       onlyLang:l => `For this day the news is only available in ${l}.`, noCountry:"No stories were prepared for this country on this day.",
       foot:"Stories are gathered from selected sources; summaries and analysis are written by AI every morning. Follow the link to read the full source.",
       admin:"Admin", locale:"en-GB",
-      world:"World", topics:{gundem:"Top news", ekonomi:"Economy", teknoloji:"Technology", spor:"Sport"}, topicsLabel:"Topics",
+      world:"World", topics:{gundem:"Top news", ekonomi:"Economy", teknoloji:"Technology", spor:"Sport", kultur:"Culture"}, topicsLabel:"Topics",
+      me:"My profile", meTitle:"My profile", meWelcome:"Welcome! Choose the countries and topics you want to follow. Add as many of your own topics as you like, e.g. Bayern, inflation, AI.",
+      meLead:"Choose countries, main topics and your own topics. Your profile is stored only on this device.", myName:"Your name (optional)",
+      mainTopics:"Main topics", myTopics:"My topics", addPh:"Add a topic, e.g. Bayern", add:"Add", done:"Done", addTab:"+ Topic",
+      kwNone:q => `No stories about "${q}" in the last 48 hours.`, kwMore:n => `${n} more`, kwLoading:"Searching…", remove:"Remove",
       noTopic:"Choose the tabs you want to see above.",
       flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every 30 minutes.",
       flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
@@ -219,7 +278,11 @@ const T = {
       onlyLang:l => `Für diesen Tag gibt es die Nachrichten nur auf ${l}.`, noCountry:"Für dieses Land wurden an diesem Tag keine Meldungen erstellt.",
       foot:"Die Meldungen stammen aus ausgewählten Quellen; Zusammenfassungen und Einordnung erstellt jeden Morgen eine KI. Den vollständigen Text finden Sie bei der Quelle.",
       admin:"Verwaltung", locale:"de-DE",
-      world:"Welt", topics:{gundem:"Aktuelles", ekonomi:"Wirtschaft", teknoloji:"Technik", spor:"Sport"}, topicsLabel:"Themen",
+      world:"Welt", topics:{gundem:"Aktuelles", ekonomi:"Wirtschaft", teknoloji:"Technik", spor:"Sport", kultur:"Kultur"}, topicsLabel:"Themen",
+      me:"Mein Profil", meTitle:"Mein Profil", meWelcome:"Willkommen! Wählen Sie die Länder und Themen, denen Sie folgen möchten. Fügen Sie beliebig viele eigene Themen hinzu, z. B. Bayern, Inflation, KI.",
+      meLead:"Wählen Sie Länder, Hauptthemen und eigene Themen. Ihr Profil wird nur auf diesem Gerät gespeichert.", myName:"Ihr Name (optional)",
+      mainTopics:"Hauptthemen", myTopics:"Meine Themen", addPh:"Thema hinzufügen, z. B. Bayern", add:"Hinzufügen", done:"Fertig", addTab:"+ Thema",
+      kwNone:q => `Keine Meldungen zu „${q}“ in den letzten 48 Stunden.`, kwMore:n => `${n} weitere`, kwLoading:"Suche läuft…", remove:"Entfernen",
       noTopic:"Wählen Sie oben die gewünschten Reiter.",
       flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:"Noch keine neuen Meldungen; die Liste wird alle 30 Minuten aktualisiert.",
       flashUpd:h => `Aktualisiert ${h}`, more:n => `Alle anzeigen (${n})`, less:"Weniger anzeigen"},
@@ -240,7 +303,9 @@ const FLASH_SHOW = 5;   // ülke başına en fazla 5 son dakika maddesi (en yeni
 let lang = store.get("lang", null);
 let picked = store.get("countries", null);
 let pickedTopics = store.get("tabs", {});   // ülke kodu → okuyucunun açtığı sekmeler (flash = son dakika)
-const TOPIC_ORDER = ["gundem", "ekonomi", "teknoloji", "spor"];
+const TOPIC_ORDER = ["gundem", "ekonomi", "teknoloji", "spor", "kultur"];
+let keywords = store.get("keywords", {});   // ülke kodu → kişinin kendi konuları (ör. ["Beşiktaş"])
+let myName = store.get("myName", "");
 const WORLD = "world";
 const t = () => T[lang] || T.tr;
 const countryName = code => { if (code === WORLD) return t().world; try { return new Intl.DisplayNames([lang], {type:"region"}).of(code.toUpperCase()); } catch { return code.toUpperCase(); } };
@@ -286,7 +351,9 @@ async function getJSON(path){
 function applyLanguageUI(){
   document.documentElement.lang = lang;
   document.title = t().brand;
-  $("#brand").textContent = t().brand + (profileLabel ? " · " + profileLabel : "");
+  $("#brand").textContent = t().brand;
+  if (myName || profileLabel) $("#brand").append(el("span", "who", " · " + (myName || profileLabel)));
+  $("#me-label").textContent = t().me; $("#me").title = t().me;
   $("#update-label").textContent = t().refresh;
   $("#update").title = t().refreshTitle;
   $("#edition-select").setAttribute("aria-label", t().edition);
@@ -360,6 +427,7 @@ async function loadAll(keep, manual){
     const before = current && current.updatedAt + (flash?.updatedAt || "");
     const date = keep && current && index.some(e => e.date === current.date) ? current.date : index[0].date;
     await loadEdition(date);
+    if (!store.get("profileDone", false) && !$("#sheet").open) openProfile();
     if (manual){
       if (index[0].date !== todayTR()) showStatus("", t().notToday(config.time), 6000);
       else showStatus("ok", before && before === current?.updatedAt + (flash?.updatedAt || "") ? t().already : t().latest, 4000);
@@ -410,20 +478,22 @@ function renderDesk(code, data){
   const items = Array.isArray(data?.items) ? data.items : [];
   const available = topicsOf(data);   // eski baskılarda konu yok: düz liste
   const hasFlash = !!(flash && current && current.date === index[0]?.date);   // son dakika yalnız en son baskıda
-  const tabs = [...(hasFlash ? ["flash"] : []), ...available];
+  const kws = (keywords[code] || []).map(k => "kw:" + k);
+  const tabs = [...(hasFlash ? ["flash"] : []), ...available, ...kws];
   const want = pickedTopics[code] || DEFAULT_TABS;
   const chosen = tabs.filter(tp => want.includes(tp));
   const shown = available.length ? items.filter(it => chosen.includes(it.topic)) : items;
   const head = el("div", "desk-head");
   head.append(flag(code), el("h2", null, countryName(code)), el("span", "count", t().stories(shown.length)));
   sec.append(head);
-  if (tabs.length > 1){
+  {
     const row = el("div", "tchips"); row.setAttribute("role", "group"); row.setAttribute("aria-label", t().topicsLabel);
     tabs.forEach(tp => {
-      const b = el("button", "tchip" + (tp === "flash" ? " live" : ""));
+      const isKw = tp.startsWith("kw:");
+      const b = el("button", "tchip" + (tp === "flash" ? " live" : "") + (isKw ? " kw" : ""));
       b.type = "button";
       if (tp === "flash") b.append(el("span", "livedot"));
-      b.append(document.createTextNode(tp === "flash" ? t().flash : (t().topics[tp] || tp)));
+      b.append(document.createTextNode(tp === "flash" ? t().flash : isKw ? "#" + tp.slice(3) : (t().topics[tp] || tp)));
       b.setAttribute("aria-pressed", chosen.includes(tp));
       b.onclick = () => {
         const cur = pickedTopics[code] || DEFAULT_TABS;
@@ -432,13 +502,18 @@ function renderDesk(code, data){
       };
       row.append(b);
     });
+    const add = el("button", "tchip add", t().addTab); add.type = "button";
+    add.onclick = () => openProfile(code);
+    row.append(add);
     sec.append(row);
   }
   if (chosen.includes("flash") || !tabs.includes("flash")){
     const fl = renderFlash(code);
     if (fl) sec.append(fl);
   }
-  if (!data){ sec.append(el("p", "stamp", t().noCountry)); return sec; }
+  const kwChosen = chosen.filter(tp => tp.startsWith("kw:"));
+  for (const tp of kwChosen) sec.append(renderKeyword(code, tp.slice(3)));
+  if (!data){ if (!kwChosen.length) sec.append(el("p", "stamp", t().noCountry)); return sec; }
   // günün değerlendirmesi Gündem'e aittir (konusuz eski baskılarda her zaman)
   if (data.overview && (!available.length || chosen.includes("gundem"))){
     const ov = el("div", "overview");
@@ -453,7 +528,7 @@ function renderDesk(code, data){
   }
   if (!chosen.length){ sec.append(el("p", "stamp", t().noTopic)); return sec; }
   for (const tp of chosen){
-    if (tp === "flash") continue;
+    if (tp === "flash" || tp.startsWith("kw:")) continue;
     const list = items.filter(it => it.topic === tp);
     if (!list.length) continue;
     const box = el("div", "topic");
@@ -465,6 +540,140 @@ function renderDesk(code, data){
   }
   return sec;
 }
+
+/* Kendi konuları: ülkenin tüm kaynaklarından son 48 saatin başlıkları (pool/<ülke>.json) cihazda aranır */
+const pools = {};   // ülke kodu → {at, items, promise}
+const norm = x => String(x || "").toLocaleLowerCase("tr").replace(/ı/g, "i").replace(/ß/g, "ss")
+  .normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+const escRe = x => x.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+function loadPool(code){
+  const p = pools[code];
+  if (p && (p.items || p.promise) && Date.now() - p.at < 10 * 60 * 1000) return p.promise || Promise.resolve(p.items);
+  const entry = {at:Date.now()};
+  entry.promise = getJSON(`pool/${code}.json`).then(j => { entry.items = (j.items || []).map(i => ({...i, n:norm(i.t + " " + i.d)})); entry.promise = null; return entry.items; })
+    .catch(() => { entry.items = []; entry.promise = null; return []; });
+  pools[code] = entry;
+  return entry.promise;
+}
+function matcher(q){
+  const words = norm(q).split(/\s+/).filter(Boolean).map(w => new RegExp("(^|[^a-z0-9])" + escRe(w)));
+  return text => words.length && words.every(rx => rx.test(text));
+}
+const KW_SHOW = 10;
+function renderKeyword(code, q){
+  const box = el("div", "topic");
+  box.append(el("h3", null, "#" + q));
+  const holder = el("div"); holder.append(el("p", "kwempty", t().kwLoading)); box.append(holder);
+  loadPool(code).then(items => {
+    const test = matcher(q);
+    const hits = items.filter(i => test(i.n));
+    if (!hits.length){ holder.replaceChildren(el("p", "kwempty", t().kwNone(q))); return; }
+    const ul = el("ul", "kwlist");
+    const show = n => { ul.replaceChildren(...hits.slice(0, n).map(i => kwItem(i))); };
+    show(KW_SHOW);
+    holder.replaceChildren(ul);
+    if (hits.length > KW_SHOW){
+      const more = el("button", "tchip", t().kwMore(hits.length - KW_SHOW)); more.type = "button";
+      more.onclick = () => { show(hits.length); more.remove(); };
+      holder.append(more);
+    }
+  });
+  return box;
+}
+function kwItem(i){
+  const li = el("li");
+  const a = el("a", "t", i.t); if (/^https:\/\//.test(i.u)){ a.href = i.u; a.target = "_blank"; a.rel = "noopener"; }
+  li.append(a, el("div", "m", [i.s, fmtTime(i.at)].filter(Boolean).join(" · ")));
+  return li;
+}
+
+/* Profilim: cihazda saklanır (ad, ülkeler, ana konular, kendi konuları) */
+function saveProfile(){ store.set("keywords", keywords); store.set("tabs", pickedTopics); store.set("countries", picked); store.set("myName", myName); }
+function openProfile(focusCode){
+  const first = !store.get("profileDone", false);
+  $("#sheet-title").textContent = t().meTitle;
+  $("#sheet-lead").textContent = first ? t().meWelcome : t().meLead;
+  $("#name-label").textContent = t().myName;
+  $("#my-name").value = myName;
+  $("#sheet-done").textContent = t().done;
+  const wrap = $("#sheet-countries");
+  wrap.replaceChildren(...allCountries().map(code => profileCountry(code)));
+  const d = $("#sheet");
+  if (!d.open) d.showModal();
+  if (focusCode){
+    const box = wrap.querySelector(`[data-code="${focusCode}"]`);
+    box?.scrollIntoView({block:"center"}); box?.querySelector(".kwrow input")?.focus();
+  }
+}
+function profileCountry(code){
+  const on = picked.includes(code);
+  const box = el("div", "pc" + (on ? "" : " off")); box.dataset.code = code;
+  const hd = el("label", "hd"); const cb = el("input"); cb.type = "checkbox"; cb.checked = on;
+  hd.append(cb, flag(code), document.createTextNode(countryName(code)));
+  const body = el("div", "body");
+  cb.onchange = () => {
+    picked = cb.checked ? [...picked, code] : picked.filter(c => c !== code);
+    box.classList.toggle("off", !cb.checked); saveProfile(); renderChips(); render();
+  };
+  // ana konular (+ son dakika)
+  const cfgTopics = (config.countries.find(c => c.code === code)?.topics) || TOPIC_ORDER;
+  const main = el("div"); main.append(el("div", "sub", t().mainTopics));
+  const row = el("div", "tchips");
+  ["flash", ...TOPIC_ORDER.filter(tp => cfgTopics.includes(tp))].forEach(tp => {
+    const b = el("button", "tchip" + (tp === "flash" ? " live" : "")); b.type = "button";
+    if (tp === "flash") b.append(el("span", "livedot"));
+    b.append(document.createTextNode(tp === "flash" ? t().flash : t().topics[tp]));
+    const sync = () => b.setAttribute("aria-pressed", (pickedTopics[code] || DEFAULT_TABS).includes(tp));
+    sync();
+    b.onclick = () => {
+      const cur = pickedTopics[code] || DEFAULT_TABS;
+      pickedTopics = {...pickedTopics, [code]: cur.includes(tp) ? cur.filter(x => x !== tp) : [...cur, tp]};
+      saveProfile(); sync(); render();
+    };
+    row.append(b);
+  });
+  main.append(row);
+  // kendi konuları
+  const mine = el("div"); mine.append(el("div", "sub", t().myTopics));
+  const tags = el("div", "tchips");
+  const drawTags = () => tags.replaceChildren(...(keywords[code] || []).map(k => {
+    const tag = el("span", "kwtag"); tag.append(document.createTextNode("#" + k));
+    const x = el("button", null, "×"); x.type = "button"; x.title = t().remove; x.setAttribute("aria-label", `${t().remove}: ${k}`);
+    x.onclick = () => {
+      keywords = {...keywords, [code]: (keywords[code] || []).filter(v => v !== k)};
+      pickedTopics = {...pickedTopics, [code]: (pickedTopics[code] || DEFAULT_TABS).filter(v => v !== "kw:" + k)};
+      saveProfile(); drawTags(); render();
+    };
+    tag.append(x); return tag;
+  }));
+  drawTags();
+  const kwrow = el("div", "kwrow");
+  const inp = el("input"); inp.type = "text"; inp.placeholder = t().addPh; inp.maxLength = 40; inp.enterKeyHint = "done";
+  const addBtn = el("button", "btn2", t().add); addBtn.type = "button";
+  const addKw = () => {
+    const k = inp.value.trim().replace(/\s+/g, " ").replace(/^#/, "");
+    if (!k) return;
+    const list = keywords[code] || [];
+    if (!list.some(v => norm(v) === norm(k))){
+      keywords = {...keywords, [code]: [...list, k]};
+      const cur = pickedTopics[code] || DEFAULT_TABS;   // yeni konu hemen açık gelsin
+      pickedTopics = {...pickedTopics, [code]: [...cur, "kw:" + k]};
+      if (!picked.includes(code)){ picked = [...picked, code]; cb.checked = true; box.classList.remove("off"); renderChips(); }
+      saveProfile(); drawTags(); render();
+    }
+    inp.value = ""; inp.focus();
+  };
+  addBtn.onclick = addKw;
+  inp.addEventListener("keydown", e => { if (e.key === "Enter"){ e.preventDefault(); addKw(); } });
+  kwrow.append(inp, addBtn);
+  mine.append(tags, kwrow);
+  body.append(main, mine);
+  box.append(hd, body);
+  return box;
+}
+$("#me").addEventListener("click", () => openProfile());
+$("#my-name").addEventListener("input", e => { myName = e.target.value.trim(); saveProfile(); applyLanguageUI(); });
+$("#sheet").addEventListener("close", () => { store.set("profileDone", true); render(); });
 
 /* Son dakika: yalnızca en son baskı açıkken; baskı saatinden (07:00) beri saat başı eklenen tek cümlelik haberler */
 function renderFlash(code){

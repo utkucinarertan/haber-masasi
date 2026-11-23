@@ -50,13 +50,17 @@ MAX_WAIT = timedelta(hours=5, minutes=30) # GitHub işleri en fazla 6 saat süre
 MIN_ITEMS = 3
 MAX_INPUT_ITEMS = 60       # son dakika: ülke başına Gemini'ye gönderilen en fazla haber
 MAX_DAILY_ITEMS = 150      # günlük baskı: konu akışlarıyla birlikte en fazla haber
-TOPICS = ["gundem", "ekonomi", "teknoloji", "spor"]
+TOPICS = ["gundem", "ekonomi", "teknoloji", "spor", "kultur"]
 TOPIC_DESC = {
     "gundem": "Top news (Gündem): politics, government, society, security, justice, diplomacy, disasters",
     "ekonomi": "Economy (Ekonomi): economy, markets, companies, prices, jobs, energy, trade",
     "teknoloji": "Technology (Teknoloji): technology, science, AI, internet, telecoms, space, digital policy",
     "spor": "Sport (Spor): sport results and news (football, basketball, Olympic sports, etc.)",
+    "kultur": "Culture and arts (Kültür-Sanat): books, film, music, theatre, exhibitions, heritage, media and culture policy",
 }
+POOL_HOURS = 48            # konu arama havuzu: son 48 saatin başlıkları
+POOL_MAX = 900             # ülke başına en fazla başlık
+POOL_EVERY = timedelta(minutes=30)
 PER_TOPIC = 5
 WORLD = "world"
 FLASH = DATA / "flash.json"
@@ -162,6 +166,8 @@ def read_feed(name, url, since):
             tag = c.tag.split("}")[-1]
             f.setdefault(tag, c.text or c.attrib.get("href", ""))
         when = parse_time(f.get("pubDate") or f.get("date") or f.get("published") or f.get("updated"))
+        if when and when.tzinfo is None:
+            when = when.replace(tzinfo=timezone.utc)
         link = strip_tracking((f.get("link") or "").strip())
         if not when or when < since or not link.startswith("https://") or "whatsapp.com" in link:
             continue
@@ -172,9 +178,10 @@ def read_feed(name, url, since):
 
 
 def feed_use(feed):
-    """Kaynağın kullanımı: "daily" (yalnız günlük baskı), "flash" (yalnız son dakika) ya da "both"."""
+    """Kaynağın kullanımı: "daily" (yalnız günlük baskı), "flash" (yalnız son dakika), "both" ya da
+    "pool" (yalnız kullanıcının eklediği konuların aranacağı havuz; Gemini'ye gitmez)."""
     use = feed.get("use", "both")
-    return use if use in ("daily", "flash", "both") else "both"
+    return use if use in ("daily", "flash", "both", "pool") else "both"
 
 
 def country_topics(country):
@@ -347,6 +354,49 @@ def summarize(country, items, langs):
         picked += sorted(in_topic, key=lambda x: -x["importance"])[:PER_TOPIC]
     log("  konular: " + ", ".join(f"{t} {sum(x['topic'] == t for x in picked)}" for t in topics))
     return {"overview": overview, "stories": picked, "topics": topics}
+
+
+# ---------- Konu arama havuzu ----------
+
+def write_pool(cfg):
+    """Her ülkenin TÜM kaynaklarından son POOL_HOURS saatin başlıklarını <profil>/pool/<ülke>.json'a yazar.
+
+    Uygulama, kullanıcının eklediği konuları (ör. "Beşiktaş") bu havuzda telefonda arar: sunucu yok,
+    kullanıcının konuları cihazdan çıkmaz, Gemini kullanılmaz. Her satır bir haber (git farkları küçük kalsın)."""
+    since = datetime.now(timezone.utc) - timedelta(hours=POOL_HOURS)
+    out_dir = DATA / "pool"
+    out_dir.mkdir(exist_ok=True)
+    codes = set()
+    cache = {}
+    for country in cfg.get("countries", []):
+        codes.add(country["code"])
+        items = []
+        for feed in country.get("feeds", []):
+            key = feed["url"]
+            if key not in cache:
+                try:
+                    cache[key] = read_feed(feed.get("name") or "", key, since)
+                except Exception as e:  # noqa: BLE001
+                    log(f"  Havuz: kaynak alınamadı: {feed.get('name')} ({type(e).__name__})")
+                    cache[key] = []
+            items += cache[key]
+        seen, rows = set(), []
+        for it in sorted(items, key=lambda x: x["time"], reverse=True):
+            if it["url"] in seen or not it["title"]:
+                continue
+            seen.add(it["url"])
+            rows.append({"t": it["title"][:200], "d": it["description"][:160], "u": it["url"],
+                         "s": it["source"], "at": it["time"][:16]})
+            if len(rows) >= POOL_MAX:
+                break
+        body = ",\n".join(json.dumps(r, ensure_ascii=False) for r in rows)
+        (out_dir / f"{country['code']}.json").write_text(
+            f'{{"updatedAt": "{datetime.now(timezone.utc).isoformat(timespec="minutes")}", "items": [\n{body}\n]}}\n',
+            encoding="utf-8")
+    for f in out_dir.glob("*.json"):   # kaldırılan ülkelerin havuzu
+        if f.stem not in codes:
+            f.unlink()
+    log(f"Havuz: {len(codes)} ülke yazıldı.")
 
 
 # ---------- Son dakika ----------
@@ -677,7 +727,7 @@ def loop():
     - Son dakikayı FLASH_EVERY'de bir günceller.
     LOOP_FOR dolunca (ya da betik güncellenince) çıkar; iş akışı kendini yeniden başlatır."""
     started = datetime.now(timezone.utc)
-    next_build_try, next_flash_try = {}, {}
+    next_build_try, next_flash_try, next_pool = {}, {}, {}
     code_at_start = Path(__file__).read_bytes()
     while datetime.now(timezone.utc) - started < LOOP_FOR:
         sync()
@@ -689,7 +739,7 @@ def loop():
         for pid in list_profiles():
             use_profile(pid)
             try:
-                loop_profile(pid, next_build_try, next_flash_try)
+                loop_profile(pid, next_build_try, next_flash_try, next_pool)
             except (OSError, ValueError, KeyError) as e:   # bozuk bir profil diğerlerini durdurmasın
                 log(f"Uyarı: {pid} profili işlenemedi: {e}")
         time.sleep(60)
@@ -697,7 +747,7 @@ def loop():
     gh_output(chain="true")
 
 
-def loop_profile(pid, next_build_try, next_flash_try):
+def loop_profile(pid, next_build_try, next_flash_try, next_pool):
     tag = "" if pid == DEFAULT_PROFILE else f" [{pid}]"
     cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
     langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
@@ -713,6 +763,11 @@ def loop_profile(pid, next_build_try, next_flash_try):
             if left:
                 next_build_try[pid] = datetime.now(timezone.utc) + timedelta(minutes=3)
                 log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
+    utc = datetime.now(timezone.utc)
+    if utc >= next_pool.get(pid, utc):
+        write_pool(cfg)
+        next_pool[pid] = utc + POOL_EVERY
+        publish(f"Konu havuzu{tag} {datetime.now(zone(cfg)):%F %H:%M}")
     now = datetime.now(zone(cfg))
     utc = datetime.now(timezone.utc)
     age = flash_age(cfg, now)

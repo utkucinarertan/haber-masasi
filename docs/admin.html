@@ -151,8 +151,9 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
   <p>Kullanıcılar burada eklediğiniz ülkelerden istediklerini seçer. Her ülke için haberlerin derleneceği RSS adreslerini girin (haber sitesinin "RSS" bağlantısı). Gemini günlük baskı için 5-10 önemli haber seçer, saat başı da son dakika maddelerini yazar.</p>
   <ul class="help">
     <li>Her kaynağın yanında nerede kullanılacağını seçin: <b>Günlük + Son dakika</b>, <b>Yalnız günlük</b> (seçilmiş manşetler) ya da <b>Yalnız son dakika</b> (sık güncellenen "son dakika" akışları).</li>
-    <li><b>Konular</b>: her ülke (ve <b>🌐 Dünya</b>) için Gündem, Ekonomi, Teknoloji ve Spor'dan hangilerinin hazırlanacağını işaretleyin. Gemini her konuda en önemli 5 haberi seçer. Okuyucular uygulamada her ülke için görmek istedikleri konuları ayrıca seçer.</li>
+    <li><b>Konular</b>: her ülke (ve <b>🌐 Dünya</b>) için Gündem, Ekonomi, Teknoloji, Spor ve Kültür-Sanat'tan hangilerinin hazırlanacağını işaretleyin. Gemini her konuda en önemli 5 haberi seçer. Okuyucular uygulamada her ülke için görmek istedikleri konuları ayrıca seçer.</li>
     <li>Kaynağın <b>konusu</b> "Genel" ise her konuda kullanılır. Yalnız ekonomi, teknoloji ya da spor yayımlayan akışlar (ör. kicker, heise) o konuya atanır.</li>
+    <li><b>Kullanıcının kendi konuları</b> (ör. "Beşiktaş"): uygulama, ülkenin <b>tüm</b> kaynaklarından son 48 saatin başlıklarını telefonda arar. Kapsamı genişletmek için yalnızca aramaya katkı veren akışları <b>Yalnız konu araması</b> olarak ekleyin; bunlar Gemini'ye gitmez, maliyeti yoktur.</li>
     <li><b>LLM ile ekle</b>: ülkeyi seçip bu düğmeye basın. Gemini o ülkenin önemli haber sitelerini bulur, adresler tek tek denenir ve çalışanlar kullanım türleriyle birlikte forma eklenir (yaklaşık 1-2 dakika). Kontrol edip <b>Ayarları kaydet</b>'e basın.</li>
   </ul>
   <div id="countries" style="display:flex;flex-direction:column;gap:10px"></div>
@@ -194,7 +195,7 @@ const cTR = code => code === WORLD ? "Dünya" : nameTR.of(code.toUpperCase());
 const cEN = code => code === WORLD ? "World" : nameEN.of(code.toUpperCase());
 const REGION_OPTS = [[WORLD, "🌐 Dünya (uluslararası)"],
   ...REGIONS.map(c => [c.toLowerCase(), nameTR.of(c)]).sort((a, b) => a[1].localeCompare(b[1], "tr"))];
-const TOPICS = [["gundem", "Gündem"], ["ekonomi", "Ekonomi"], ["teknoloji", "Teknoloji"], ["spor", "Spor"]];
+const TOPICS = [["gundem", "Gündem"], ["ekonomi", "Ekonomi"], ["teknoloji", "Teknoloji"], ["spor", "Spor"], ["kultur", "Kültür-Sanat"]];
 
 const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
@@ -402,7 +403,7 @@ function renderConfig(){
   }));
   $("#countries").replaceChildren(...cfg.countries.map(renderCountry));
 }
-const USES = [["both", "Günlük + Son dakika"], ["daily", "Yalnız günlük"], ["flash", "Yalnız son dakika"]];
+const USES = [["both", "Günlük + Son dakika"], ["daily", "Yalnız günlük"], ["flash", "Yalnız son dakika"], ["pool", "Yalnız konu araması"]];
 function feedRow(f = {name:"", url:""}){
   const row = el("div", "feed");
   const n = el("input", "fname"); n.type = "text"; n.placeholder = "Kaynak adı (ör. tagesschau)"; n.value = f.name || "";
