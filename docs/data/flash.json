@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T23:04+01:00",
+ "updatedAt": "2026-11-23T23:34+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T22:20:38+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-mann-soll-sitzung-der-gruenen-in-schwerte-gestuermt-haben-bericht-ueber-drei-verletzte.html",
+    "text": {
+     "tr": "Schwerte'deki Yeşiller Partisi toplantısını basan maskeli bir saldırganın üç kişiyi yaraladığı bildirildi.",
+     "de": "Ein maskierter Angreifer stürmte eine Sitzung der Grünen in Schwerte und verletzte Berichten zufolge drei Menschen."
+    }
+   },
    {
     "time": "2026-11-23T22:09:00+01:00",
     "source": "Der Spiegel",
@@ -38,15 +47,6 @@
      "tr": "Savunma Bakanı Boris Pistorius, Ukrayna'nın Baltık Denizi'ndeki Rus gemisine saldırısının ardından Kiev'i uyardı.",
      "de": "Verteidigungsminister Boris Pistorius hat die Ukraine nach dem Angriff auf ein russisches Schiff in der Ostsee ermahnt."
     }
-   },
-   {
-    "time": "2026-11-23T20:24:54+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b049f56619e3d0ef1eedca6/nato-ostflanke-nato-verlegt-awacs-flugzeug-nach-polen-und-verstaerkt-luftraumueberwachung.html",
-    "text": {
-     "tr": "NATO, Rus seyir füzelerinin hava sahasını ihlal etmesinin ardından Polonya'ya AWACS uçağı sevk etti.",
-     "de": "Die Nato verlegt nach dem Eindringen russischer Marschflugkörper ein Awacs-Flugzeug nach Polen zur Luftraumüberwachung."
-    }
    }
   ],
   "world": [
@@ -57,6 +57,15 @@
     "text": {
      "tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nda deniz mayınlarına çarpan üç petrol tankerinde patlama meydana geldiğini duyurdu.",
      "de": "Laut iranischen Revolutionsgarden gerieten in der Straße von Hormus drei Öltanker nach Treffern durch Seeminen in Brand."
+    }
+   },
+   {
+    "time": "2026-11-23T22:15:26+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
+    "text": {
+     "tr": "ABD, bir skandalın ardından yapay zeka çip sevkiyatı iddiaları nedeniyle Asyalı yapay zeka firması Megaspeed'i kara listeye alacak.",
+     "de": "Die USA setzen die asiatische KI-Firma Megaspeed nach einem Skandal um Chiptransporte auf die schwarze Liste."
     }
    },
    {
@@ -85,18 +94,18 @@
      "tr": "ABD Temsilcisi Jimmy Gomez, hakkında hazırlanan cinsel taciz raporunun ardından Kongre'den istifa edeceğini açıkladı.",
      "de": "Der US-Abgeordnete Jimmy Gomez kündigte nach einem Ethikbericht über sexuelles Fehlverhalten seinen Rücktritt aus dem Kongress an."
     }
-   },
-   {
-    "time": "2026-11-23T21:23:25+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b04a915598b867519f0d540/brasilien-nur-in-unterwaesche-gekleidet-alzheimer-patient-ueberlebt-elf-tage-im-amazonas-regenwald.html",
-    "text": {
-     "tr": "Brezilya'da 74 yaşındaki bir Alzheimer hastası, Amazon yağmur ormanlarında 11 gün hayatta kalmayı başardı.",
-     "de": "Ein 74-jähriger Alzheimer-Patient hat elf Tage lang im Amazonas-Regenwald überlebt."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-24T01:02:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010895/elektronik-belge-uygulamalarinda-yeni-duzenleme-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Gelir İdaresi Başkanlığı, e-Arşiv Fatura kanallarını genişleterek belirli şartlardaki hekimlerin POS cihazı bulundurma zorunluluğunu kaldırdı.",
+     "de": "Die Steuerverwaltung hat die Kanäle für e-Archiv-Rechnungen erweitert und die POS-Pflicht für Ärzte unter bestimmten Bedingungen abgeschafft."
+    }
+   },
    {
     "time": "2026-11-24T00:56:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Balıkesir'in Havran ilçesinde sağanak nedeniyle çöken asfalttaki derin çukura 3 kamyon ve 1 kamyonet düştü.",
      "de": "In Balıkesir stürzten nach heftigen Regenfällen drei Lkw und ein Kleintransporter in eine eingestürzte Straße."
-    }
-   },
-   {
-    "time": "2026-11-24T00:04:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/nuri-sahin-kotu-haberi-duyurdu-sezonu-kapatti-2558794",
-    "text": {
-     "tr": "Başakşehir Teknik Direktörü Nuri Şahin, sakatlanan Emin Bayram'ın sezonu kapattığını açıkladı.",
-     "de": "Basaksehir-Trainer Nuri Şahin gab bekannt, dass der verletzte Emin Bayram für den Rest der Saison ausfällt."
     }
    }
   ]
@@ -223,11 +223,13 @@
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.bbc.co.uk/news/articles/cr930y92dyx4o",
   "https://www.bbc.co.uk/news/articles/cv1j65xjjk65o",
+  "https://www.bbc.co.uk/news/articles/cv98xpg5dg5zo",
   "https://www.bbc.co.uk/news/articles/cw074km48myeo",
   "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
   "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
   "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo",
   "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo",
+  "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo",
   "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
   "https://www.bbc.com/turkce/articles/c3rrg7qd9898o",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
@@ -239,6 +241,7 @@
   "https://www.bbc.com/turkce/articles/cm4gn34x26w8o",
   "https://www.bbc.com/turkce/articles/cm5y1evywyrqo",
   "https://www.bbc.com/turkce/articles/cn4vk1ng1jdo",
+  "https://www.bbc.com/turkce/articles/cqe979y7eq7o",
   "https://www.bbc.com/turkce/articles/cqkgm447g4gro",
   "https://www.bbc.com/turkce/articles/cqwy4nnvx323o",
   "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
@@ -560,6 +563,7 @@
   "https://www.evrensel.net/haber/6010892/hurmuz-bogazi-nda-iran-in-izin-vermedigi-guzergahi-kullanan-3-petrol-tankerinde-patlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010893/katar-ortadogu-abd-iran-arasinda-yeni-bir-gerilimi-kaldiramaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010894/yeniden-degerleme-orani-2783-olarak-tespit-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010895/elektronik-belge-uygulamalarinda-yeni-duzenleme-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/besser-leben/stil/bauhaus-und-italienische-avantgarde-zwei-designgalerien-in-der-berliner-mommsenstrasse-201614634.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
@@ -581,6 +585,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimers-plan-fuer-ein-europaeisches-tiktok-ist-kein-unsinn-201709555.html",
   "https://www.faz.net/aktuell/feuilleton/melinda-coopers-adorno-vorlesungen-untersuchen-den-patrimonialen-kapitalismus-201706358.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/bob-dylan-in-frankfurt-201709636.html",
+  "https://www.faz.net/aktuell/finanzen/finanzmarkt/boerse-anthropic-kann-vom-hype-um-huangs-nvidia-rueckkehr-nicht-profitieren-201710953.html",
   "https://www.faz.net/aktuell/finanzen/finanzmarkt/ki-boom-an-der-boerse-ist-nach-dem-crash-ein-comeback-moeglich-201709768.html",
   "https://www.faz.net/aktuell/finanzen/kapitalmarkt-warum-bequemlichkeit-jetzt-zum-risiko-wird-201701641.html",
   "https://www.faz.net/aktuell/finanzen/msci-world-etf-oder-anleihen-was-experten-raten-accg-201688448.html",
@@ -951,10 +956,12 @@
   "https://www.welt.de/politik/deutschland/article6b0481e139a3e8110f0e937f/afd-droht-mit-verfassungsbeschwerde-gegen-bundeshaushalt-unsinnige-ausgaben.html",
   "https://www.welt.de/politik/deutschland/article6b0483645842ff528b9e6375/schwarz-rot-unionsfraktionschef-frei-gegen-aufweichung-der-rentenplaene-spd-kritisiert-haushaltsverfahren.html",
   "https://www.welt.de/politik/deutschland/article6b04998339a3e8110f0e94e6/ukraine-krieg-krieg-darf-sich-nicht-auf-ostsee-ausweiten-pistorius-mahnt-kiew.html",
+  "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-mann-soll-sitzung-der-gruenen-in-schwerte-gestuermt-haben-bericht-ueber-drei-verletzte.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-bei-der-aufruestung-gebe-es-keine-kontrolle-mehr-sagt-ein-rechnungspruefer.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-deutschlands-gewaltige-aufruestung-und-eine-kontrolle-die-nur-noch-simuliert-wird.html",
   "https://www.welt.de/politik/deutschland/plus6b03f7c439a3e8110f0e77e4/afd-in-nrw-es-draengt-sich-der-eindruck-auf-dass-der-bundesvorstand-die-mehrheiten-drehen-will.html",
   "https://www.welt.de/politik/deutschland/plus6b03f8cd172877701c06f11c/freie-waehler-die-ungewoehnliche-strategie-hinter-der-aiwanger-nachfolge.html",
+  "https://www.welt.de/politik/deutschland/plus6b049b3739a3e8110f0e950e/spd-nachwuchs-klassenkampf-statt-individualismus-wie-die-jusos-deutschland-und-die-spd-umkrempeln-wollen.html",
   "https://www.welt.de/sport/boxen/article6b02a5073cd434a4d6d0ca81/box-weltmeister-vielleicht-ist-mein-name-agit-kabayel-nicht-deutsch-genug.html",
   "https://www.welt.de/sport/fitness/article6b02c3bd5842ff528b9e3a66/ernaehrung-bewegung-ist-laut-us-studie-schluessel-fuer-langes-leben-und-qualitaet-der-lebensjahre.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b03e85f172877701c06efda/jamal-musiala-das-ist-wie-in-der-eigenen-firma-entgegnet-der-bayern-boss-auf-die-fan-kritik.html",
