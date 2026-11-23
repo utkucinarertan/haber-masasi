@@ -1,0 +1,566 @@
+{
+ "date": "2026-11-23",
+ "updatedAt": "2026-11-23T05:15+01:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "key": "62961d1a22ffc105",
+   "overview": "Almanya gündeminde bugün iç politika, güvenlik ve toplumsal meseleler ön plandadır. Adalet Bakanlığı kadın cinayetlerinin cezalandırılmasını sertleştiren yeni tasarıyı duyururken, ekonomi alanında enerji ve akaryakıt fiyatları ile IG Metall'in uyarı grevleri öne çıkmaktadır. Dış politika ve uluslararası gelişmeler de Almanya'yı yakından ilgilendiren güvenlik tartışmalarını şekillendirmektedir.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Almanya'da kadın cinayetleri için daha ağır cezalar planlanıyor",
+     "summary": "Federal Adalet Bakanlığı, cinsiyete dayalı saiklerle işlenen cinayetlerin doğrudan cinayet (Mord) olarak cezalandırılmasını öngören yeni bir yasa tasarısı hazırladı. Tasarı, ayrılık bahanesiyle veya kadına yönelik işlenen cinayetlerde faillerin daha ağır cezalar almasını hedefliyor. Adalet Bakanı Hubig konuya ilişkin taslağı kamuoyuna açıkladı.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+     "time": "2026-11-22T13:00:00+01:00"
+    },
+    {
+     "title": "Yahudi düşmanlığına karşı daha fazla mücadele çağrısı",
+     "summary": "Federal Antisemitizm Sorumlusu von Schnurbein, Almanya'da Holokost'tan bu yana Yahudi düşmanlığının bu kadar açık görülmediğini belirterek artan antisemitizme karşı uyarıda bulundu. Özellikle aşırı sağcı ideolojinin Alman hafıza kültürüne yönelik tehlikeli bir saldırı olduğunu vurguladı.",
+     "category": "Toplum",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+     "time": "2026-11-22T06:47:26+01:00"
+    },
+    {
+     "title": "Geleceğin Genelkurmay Başkanı'ndan cinsel tacizle mücadele sözü",
+     "summary": "Bundeswehr içerisindeki cinsel içerikli kötü muamelelerin ve tacizlerin boyutunu ortaya koyan bir araştırma yayımlandı. Ordunun müstakbel Genelkurmay Başkanı Freuding, ortaya çıkan sayıların kabul edilemez olduğunu belirterek bu tür davranışlara karşı merhametsizce ve sert bir şekilde müdahale edeceklerini söyledi.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+     "time": "2026-11-22T10:51:56+01:00"
+    },
+    {
+     "title": "Berlin'de hastane yangını: 15 yaralı",
+     "summary": "Berlin-Lichtenberg'deki bir hastanenin birinci katındaki hasta odasında yangın çıktı. Kısa sürede yayılan duman nedeniyle tüm bina tahliye edilirken, aralarında hayati tehlikesi bulunanlar da dahil olmak üzere 15 kişi yaralandı. Polis olayla ilgili soruşturma başlattı.",
+     "category": "Olaylar",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/berlin-lichtenberg-15-verletzte-bei-brand-in-krankenhaus-a-45fc2700-244a-41e7-b0c2-3541cab7671a#ref=rss",
+     "time": "2026-11-23T04:09:00+01:00"
+    },
+    {
+     "title": "FDP'li siyasetçiye yönelik saldırıya tepki",
+     "summary": "Berlinli FDP'li siyasetçi Preisler'in Filistin yanlısı bir gösterinin kenarında iki kadın tarafından itilip tekneli saldırıya uğraması tepki çekti. Federal Aile Bakanı Prien yaşananları sert bir dille kınadı.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+     "time": "2026-11-22T18:36:50+01:00"
+    },
+    {
+     "title": "IG Metall, kuzeydeki metal ve elektrik sektöründe uyarı grevlerini artırıyor",
+     "summary": "Almanya genelinde metal ve elektrik sektöründe çalışan işçilerin iş bırakma eylemlerinin ardından, IG Metall Kuzey Bölgesi (Küste) eylemleri genişletme kararı aldı. Sendika, 24 saatlik yeni uyarı grevlerinin bazılarında akşam saatlerinden itibaren başlayacağını duyurdu.",
+     "category": "İş Dünyası",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+     "time": "2026-11-22T04:50:01+01:00"
+    },
+    {
+     "title": "Akaryakıt fiyatlarında olası istisnalar tartışması",
+     "summary": "Ekonomi Bakanlığı bünyesinde olası bir akaryakıt fiyat sınırlandırması gündeme gelirken, otoban benzinliklerinin bu olası fiyat tavanından muaf tutulması istendi. Olası kıtlık endişeleriyle dile getirilen bu öneri Sol Parti ve Yeşiller tarafından eleştirildi.",
+     "category": "Enerji",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
+     "time": "2026-11-22T13:06:00+01:00"
+    },
+    {
+     "title": "Enerji sektöründen elektrik şebekeleri için kris zirvesi talebi",
+     "summary": "Veri merkezleri ve sanayi tesislerinin elektrik bağlantıları için uzun yıllar beklemek zorunda kalması endişe yaratıyor. Şebeke işletmecileri ve enerji birlikleri, federal ve eyalet hükümetleriyle acil bir kriz zirvesi toplanmasını talep etti.",
+     "category": "Altyapı",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
+     "time": "2026-11-22T20:47:58+00:00"
+    },
+    {
+     "title": "Wüst'ten Söder'in vergi indirimi talebine ret",
+     "summary": "Kuzey Ren-Vestfalya Eyalet Başbakanı Hendrik Wüst, Markus Söder'in soğuk progresyonun (vergi dilimlerinin enflasyona göre ayarlanması) dengelenmesi yönündeki çağrısını reddetti. Elektrik vergisinin düşürülmesi konusunda anlaşıldığını belirten Wüst, bütçenin daha fazlasına imkan tanımadığını söyledi.",
+     "category": "Maliye",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
+     "time": "2026-11-22T22:33:00+01:00"
+    },
+    {
+     "title": "Nvidia skandalında Çin bağlantısı şüphesi",
+     "summary": "Eski Nvidia CEO'su Jensen Huang'ın eski sevgilisi Alice Huang'ın, şirketin bilgisayar çiplerini Çin'e yasa dışı yollarla satan firmalarla bağlantısı olduğu iddia edildi. Finans gazetelerinde yer alan haberler gizemli olaya yeni bir boyut kazandırdı.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
+     "time": "2026-11-22T18:34:00+01:00"
+    },
+    {
+     "title": "GL.iNet yönlendiricilerinde kritik güvenlik açığı tespit edildi",
+     "summary": "GL.iNet cihazlarının bulut tabanlı uzaktan yönetim servislerinde aktif olarak kötüye kullanılan bir güvenlik açığı keşfedildi. Uzmanlar, yöneticilerin sistemlerini korumak için acele etmesi ve mevcut yamayı derhal kurması gerektiğini belirtti.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entpedeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-22T11:02:00+01:00"
+    },
+    {
+     "title": "Hacker saldırısı uğrayan Hugendubel çevrim içi mağazası hâlâ kapalı",
+     "summary": "Siber saldırının hedefi olan Alman kitapçılık devi Hugendubel'in internet mağazasına erişim sağlanamamaya devam ediyor. Şirket yetkilileri arıza giderme ve güvenlik denetimlerinin sürdüğünü aktardı.",
+     "category": "İnternet",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
+     "time": "2026-11-22T19:49:37+00:00"
+    },
+    {
+     "title": "Alexander Zverev, ATP Finalleri'nde şampiyonluğu kaçırdı",
+     "summary": "Yıl içinde Paris ve New York Grand Slam turnuvalarını kazanan ve dünya sıralamasında zirveye yerleşen Alman tenisçi Alexander Zverev, ATP Finalleri finalinde Carlos Alcaraz'a mağlup oldu. Zverev, ilk seti kazanma şansını değerlendiremeyerek muazzam sezonunu zaferle taçlandıramadı.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
+     "time": "2026-11-22T20:48:00+01:00"
+    },
+    {
+     "title": "Köln, Münih'te sürpriz bir puanla döndü",
+     "summary": "Kadro sıkıntıları yaşayan Bayern Münih, sahasında konuk ettiği 1. FC Köln karşısında galibiyete ulaşamayarak sahadan 1-1 beraberlikle ayrıldı. Rekortmen kulüp sadece iki puan kaybetmekle kalmadı, aynı zamanda önemli oyuncularını da sakatlığa kurban verdi.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/koeln-feiert-ueberraschungspunkt-in-muenchen,video-bundesliga-bayern-muenchen-koeln-zusammenfassung-100.html",
+     "time": "2026-11-23T00:00:18+01:00"
+    },
+    {
+     "title": "Werder Bremen Kuzey Derbisi'nde HSV'yi mağlup etti",
+     "summary": "Werder Bremen, Bundesliga'daki çıkışını ezeli rakibi Hamburg'a karşı da sürdürdü. Kuzey derbisinde rakibini farklı geçen Bremen ekibi başarılı serisine devam ederken, maç sırasında statta yaşanan taşkınlıklar ve maddi zararlar da dikkat çekti.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bremen-fegt-ueber-hsv-im-nordderby,video-bundesliga-bremen-hamburg-zusammenfassung-100.html",
+     "time": "2026-11-23T00:00:28+01:00"
+    },
+    {
+     "title": "Borussia Dortmund Genel Kurulu'nda Nmecha tartışması",
+     "summary": "BVB'li futbolcu Nmecha'nın dini motifli sevinç gösterileri kulübün genel kurulunda tepkilere neden oldu. Genel Müdür Cramer oyuncuyu savunarak onun kusursuz bir insan olduğunu belirtirken, bu açıklama üyeler arasında yuhalamalarla karşılandı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+     "time": "2026-11-22T20:58:18+01:00"
+    },
+    {
+     "title": "RB Leipzig, Union Berlin'i farklı geçti",
+     "summary": "Bundesliga karşılaşmasında Union Berlin ilk yarıda direnç gösterse de ikinci devrede savunması çökünce RB Leipzig'e 5-1 mağlup oldu. Leipzig ikinci devrede bulduğu dört golle sahadan rahat bir galibiyetle ayrıldı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/union-bricht-gegen-leipzig-nach-der-pause-ein,video-bundesliga-union-berlin-leipzig-zusammenfassung-100.html",
+     "time": "2026-11-23T00:00:20+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "689e743344328714",
+   "overview": "Türkiye gündemi bu dönemde yoğun bir diplomatik ve adli tempoyla şekilleniyor. Antalya'da düzenlenen COP31 İklim Zirvesi'nin fosil yakıt anlaşmazlığı nedeniyle uzlaşmasız sona ermesi ve fon soruşturmasındaki milyarlarca liralık tahsilatlar öne çıkan başlıklar arasında yer alıyor. Ekonomi alanında kredi kısıtlamalarının esnetilmesi ve asgari ücret beklentileri tartışılırken, spor liglerindeki heyecanlı karşılaşmalar ve milli sporcuların durumu dikkat çekti.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Antalya'daki COP31 Zirvesi Fosil Yakıt Anlaşmazlığıyla Sona Erdi",
+     "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Değişikliği Konferansı (COP31), fosil yakıtlardan çıkış konusunda uzlaşma sağlanamaması nedeniyle başarısızlıkla sonuçlandı. Avrupa Birliği ve bazı ülkelerin taslak metne itiraz etmesi üzerine ortak bir karar metni kabul edilemedi.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+     "time": "2026-11-22T17:33:33+00:00"
+    },
+    {
+     "title": "Hızlı Geçiş Sistemi'ndeki İddialar Üzerine Soruşturma Başlatıldı",
+     "summary": "Adalet Bakanı Akın Gürlek, Hızlı Geçiş Sistemi (HGS) üzerinden haksız kazanç elde edildiği yönündeki iddialar ve şikayetler üzerine resmi soruşturma başlatıldığını açıkladı. Gelişme, kamuoyunda yükselen tepkilerin ardından geldi.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo",
+     "time": "2026-11-22T18:39:43+00:00"
+    },
+    {
+     "title": "Antalya Kepez Belediyesi'ne Soruşturma Kapsamında Gözaltılar",
+     "summary": "Antalya Cumhuriyet Başsavcılığı tarafından Kepez Belediyesi'ne yönelik yürütülen bir soruşturma kapsamında 20 kişinin gözaltına alındığı bildirildi. Soruşturmanın detaylarına ilişkin adli süreç devam ediyor.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
+     "time": "2026-11-22T12:14:28+00:00"
+    },
+    {
+     "title": "Van'da Yoğun Kar Yağışı Nedeniyle Üç İlçede Eğitime Ara Verildi",
+     "summary": "Van'ın Muradiye, Çaldıran ve Saray ilçelerinde etkisini sürdüren yoğun kar yağışı, sis ve buzlanma nedeniyle tüm eğitim kurumlarında eğitime bir gün süreyle ara verildi. Meteoroloji bölge genelinde olumsuz hava koşullarına karşı uyarıda bulundu.",
+     "category": "Hava Durumu",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/vanda-kar-etkisi-3-ilcede-okullar-tatil-edildi-2085629",
+     "time": "2026-11-23T01:25:58+03:00"
+    },
+    {
+     "title": "İçişleri Bakanlığı 1.170 Sözleşmeli Personel Alacak",
+     "summary": "İçişleri Bakanlığı merkez ve taşra teşkilatlarında istihdam edilmek üzere 1.170 sözleşmeli personel alımı yapacağını duyurdu. Lise, ön lisans ve lisans mezunlarının başvurabileceği kadrolar için en az 60 KPSS puanı şartı aranacak.",
+     "category": "Kamu",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/icisleri-bakanligi-1170-personel-alacak-lise-on-lisans-ve-lisans-2085627",
+     "time": "2026-11-23T00:40:00+03:00"
+    },
+    {
+     "title": "Fon Soruşturmasında 85 Kişiden Milyarlarca Lira Tahsil Edildi",
+     "summary": "Adalet Bakanı Akın Gürlek, yürütülen kapsamlı fon soruşturmasında 85 kişiden toplam 44,58 milyar Türk Lirası tahsil edildiğini açıkladı. Soruşturma kapsamında çok sayıda şüpheli hakkında yasal işlem sürerken çok sayıda şirkete kayyım atandı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Medyascope",
+     "url": "https://medyascope.tv/2026/11/22/akin-gurlek-fon-sorusturmasinda-85-kisiden-4458-milyar-tl-tahsil-edildi/",
+     "time": "2026-11-22T15:57:52+00:00"
+    },
+    {
+     "title": "BDDK'dan İkinci Konut Kredilerinde Kısıtlama Değişikliği",
+     "summary": "Bankacılık Düzenleme ve Denetleme Kurumu (BDDK) kredi kartı, ihtiyaç ve konut kredisinde düzenlemeye gitti. Yapılan değişiklikle, halihazırda bir evi olanların ikinci konut alırken karşılaştığı kredi kısıtlamaları kaldırıldı.",
+     "category": "Bankacılık",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/kredi-adimi-zengine-yaradi-2085623",
+     "time": "2026-11-23T00:01:00+03:00"
+    },
+    {
+     "title": "Asgari Ücret Anketinde Vatandaşın Talebi 38 Bin Liranın Üzerinde",
+     "summary": "ASAL Araştırma'nın yeni asgari ücrete ilişkin yaptığı ankete göre, katılımcıların büyük bir kesimi ücretin 38 bin liranın üzerinde olması gerektiğini belirtti. Ankete katılanların önemli bir oranı ise doğrudan 38 bin TL talebinde bulundu.",
+     "category": "İş Gücü",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucret-anketinde-carpici-sonuc-yurttasin-talebi-38-bin-tl-nin-uzerinde-2558305",
+     "time": "2026-11-22T12:23:00+03:00"
+    },
+    {
+     "title": "Araştırma Şirketinin Kasım Ayı Verilerine Göre Ekonomi Politikalarına Eleştiri",
+     "summary": "AREA Araştırma'nın kasım ayı çalışmasına göre katılımcıların yüzde 72,7'si hükümetin ekonomi politikasını başarısız buldu. Anket sonuçları, seçmenin ekonomik gelişmelere yönelik memnuniyetsizliğini ortaya koydu.",
+     "category": "Enflasyon",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/secmenin-yuzde-72-7-si-ekonomi-politikasini-basarisiz-buldu-anketten-iktidara-ekonomi-uyarisi-2558320",
+     "time": "2026-11-22T13:23:00+03:00"
+    },
+    {
+     "title": "Apple Resmi Destek Forumunu Erişime Kapattı",
+     "summary": "Teknoloji devi Apple, daha önce duyurduğu karar doğrultusunda resmi destek forumunu kapattı. Kullanıcıların teknik sorunları tartıştığı Apple Support Community platformu artık erişime kapalı.",
+     "category": "Donanım",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-in-resmi-destek-forumu-kapatildi-2558414",
+     "time": "2026-11-22T21:21:00+03:00"
+    },
+    {
+     "title": "Küresel Ölçekte Yaşanan Teknolojik Kesintiler Uzmanlar Tarafından İnceleniyor",
+     "summary": "Son dönemde Microsoft sistemlerinden ulusal güvenlik dairelerine kadar dünya genelinde yaşanan teknolojik aksaklıklar ve güvenlik açıkları dikkat çekiyor. Uzmanlar bu ölçekteki yaygın teknik arızaların arka planını değerlendiriyor.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/teknolojik-kesinti-saldiri-ve-guvenlik-aciklarinin-sebebi-ne-2558411",
+     "time": "2026-11-22T21:00:00+03:00"
+    },
+    {
+     "title": "Yapay Zekanın Eğitim Alanındaki Etkileri Tartışılıyor",
+     "summary": "ChatGPT ve benzeri yapay zeka araçlarının öğrencilerin günlük ders çalışmalarındaki kullanımı yaygınlaşıyor. Araştırmalar, bilinçsiz yapay zeka kullanımının temel beceriler üzerindeki olumsuz etkilerine dikkat çekiyor.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/yapay-zeka-öğrencileri-aptallaştırıyor-mu/a-79971819",
+     "time": "2026-11-22T07:14:00+00:00"
+    },
+    {
+     "title": "Basketbol Derbisinde Kazanan Beşiktaş Fuzul Oldu",
+     "summary": "Türkiye Basketbol Süper Ligi'nin 9. haftasında oynanan derbi karşılaşmasında Beşiktaş Fuzul, sahasında konuk ettiği Fenerbahçe Tarfin'i 92-88 mağlup etti. Siyah-beyazlılar çekişmeli geçen maçtan galibiyetle ayrıldı.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/basketbol-derbisinde-kazanan-besiktas-fuzul-fenerbahce-tarfin-i-maglup-etti-2558432",
+     "time": "2026-11-22T23:08:00+03:00"
+    },
+    {
+     "title": "Milli Futbolcu Hakan Çalhanoğlu Sakatlandı",
+     "summary": "İtalya Serie A ekiplerinden Inter'de forma giyen milli futbolcu Hakan Çalhanoğlu, Atalanta karşılaşmasında yaşadığı sakatlık nedeniyle oyuna devam edemedi. Oyuncunun sağlık durumu yapılacak kontrollerin ardından netleşecek.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/hakan-calhanoglu-ndan-kotu-haber-oyuna-devam-edemedi-2558443",
+     "time": "2026-11-22T23:51:00+03:00"
+    },
+    {
+     "title": "Amedspor'da Mbaye Diagne Krizi Yaşanıyor",
+     "summary": "Amedspor forması giyen Senegalli futbolcu Mbaye Diagne'nin antrenmanlara katılmadığı açıklanırken, oyuncu sosyal medya üzerinden kulübüne tepki gösterdi. İki taraf arasında yaşanan karşılıklı açıklamalar kulüpte krize yol açtı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/amedsporda-kriz-diagne-gemileri-yakti-2558442",
+     "time": "2026-11-22T20:39:57+00:00"
+    },
+    {
+     "title": "Galatasaray MCT Technic Sahasında Farklı Kazandı",
+     "summary": "Basketbol Süper Ligi'nin 9. hafta mücadelesinde Galatasaray MCT Technic, evinde ağırladığı Aliağa Petkimspor'u 81-64 mağlup etmeyi başardı. Sarı-kırmızılılar maç boyunca üstün bir performans sergiledi.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-ten-kendi-evinde-farkli-galibiyet-2558404",
+     "time": "2026-11-22T20:11:00+03:00"
+    },
+    {
+     "title": "Ozan Tufan'dan Milli Takım ve Teknik Direktör Açıklaması",
+     "summary": "Trabzonspor forması giyen orta saha oyuncusu Ozan Tufan, Eyüpspor galibiyetinin ardından milli takıma çağrılmamasıyla ilgili değerlendirmelerde bulundu. Oyuncu teknik ekibe ve kararlara saygı duyduğunu belirtti.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/ozan-tufan-dan-milli-takim-yaniti-sergen-hoca-ya-saygi-duyuyorum-2558423",
+     "time": "2026-11-22T22:13:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "c7cb3ac4040b46dd",
+   "overview": "Günün uluslararası haber gündemine Antalya'daki COP31 iklim zirvesinin fosil yakıt anlaşmazlığı nedeniyle çökmesi ve küresel diplomatik gerilimler damga vurdu. ABD'de Demokratların Temsilciler Meclisi'ndeki tarihi zaferi ve konut piyasası ile enerji faturalarındaki artışlar ekonomiyi sarsarken, Ukrayna savaşının deniz yoluyla NATO ve Akdeniz çevresine sıçraması güvenlik endişelerini artırdı. Spor dünyasında ise Carlos Alcaraz'ın ATP Finals zaferi ve Liverpool'un Manchester United karşısındaki tarihi galibiyeti öne çıktı.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "COP31 İklim Zirvesi Fosil Yakıt Anlaşmazlığı Yüzünden Çöktü",
+     "summary": "Antalya'da düzenlenen COP31 iklim müzakereleri, fosil yakıtlara açık referans verilmemesi nedeniyle AB üyesi devletlerin itirazıyla son anda çöktü. Tarihin en uzun süren zirvesinde taraflar nihai bir metin üzerinde uzlaşma sağlayamadı. Çevre bakanları süreçteki derin bölünmelere dikkat çekti.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+     "time": "2026-11-23T00:50:35+00:00"
+    },
+    {
+     "title": "ABD'de Demokratlar Temsilciler Meclisi'nde 1992'den Bu Yana En Büyük Çoğunluğunu Kazandı",
+     "summary": "Kuzey Karolina'daki kritik seçim yenilemesinin ardından Demokratlar, ABD Temsilciler Meclisi'ndeki sandalye sayılarını en az 258'e yükseltti. Bu sonuçla parti, Bill Clinton döneminden bu yana en güçlü meclis çoğunluğunu elde etti. Seçim sonuçları Washington'daki siyasi dengeleri değiştirdi.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+     "time": "2026-11-23T01:55:05+01:00"
+    },
+    {
+     "title": "Libya'nın Bingazi Limanı'nda Rus Askeri Gemisine SİHA Saldırısı",
+     "summary": "Libya'nın doğusundaki Bingazi deniz üssünde demirli bulunan Rus donanmasına ait bir korvet, şüpheli bir deniz dronu saldırısıyla hedef alındı. Olayda patlama meydana gelirken can kaybı bildirilmedi. Yetkililer saldırının Ukrayna savaşının bir uzantısı olabileceğini belirtti.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/video/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-benghazi-naval-base-libyan-officials-json",
+     "time": "2026-11-22T19:41:23+00:00"
+    },
+    {
+     "title": "Endonezya'daki Şeker Fabrikasında Çıkan Yangında Çok Sayıda Kişi Kayıp",
+     "summary": "Endonezya'nın başkent Cakarta'nın batısındaki Java adasında bulunan bir şekerleme fabrikasında büyük bir yangın çıktı. Olayda en az üç kişi hayatını kaybederken, onlarca işçi henüz bulunamadı. Kurtarma ekipleri binadaki arama çalışmalarını sürdürüyor.",
+     "category": "Felaket",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
+     "time": "2026-11-22T06:14:00+00:00"
+    },
+    {
+     "title": "İstanbul'da Muhalefete ve Medyaya Yönelik Baskılara Karşı Binlerce Kişi Yürüyüş Düzenledi",
+     "summary": "İstanbul'da binlerce kişi, muhalefete ve bağımsız medyaya yönelik baskıları protesto etmek için sokaklara döküldü. Sözcü TV'ye kayyım atanmasının ardından Yeni Parti'nin öncülüğünde düzenlenen eylemde basın özgürlüğü savunuldu. Göstericiler hükümetin medya politikalarını eleştirdi.",
+     "category": "Toplum",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+     "time": "2026-11-23T02:15:34+00:00"
+    },
+    {
+     "title": "Hanehalkı Enerji Faturaları Yılbaşında Artışa Geçiyor",
+     "summary": "Enerji maliyetlerindeki küresel dalgalanmalar nedeniyle hanehalkı faturalarının yakında yükseleceği açıklandı. Sektör yöneticileri, artan fiyatların tüketiciler üzerinde büyük bir baskı oluşturacağı konusunda uyardı. Uzmanlar tasarruf önlemleri konusunda tavsiyelerde bulunuyor.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+     "time": "2026-11-23T01:05:07+00:00"
+    },
+    {
+     "title": "Poundland İçin Zaman Daralıyor: Kayyım Tehlikesi",
+     "summary": "İngiltere'nin tanınmış perakende zincirlerinden Poundland, iflas riskini atlatmak için yeni bir alıcı bulmak zorunda. Şirketin yönetimi, önümüzdeki günlerde bir anlaşma sağlanamaması durumunda kayyım sürecine girileceğini duyurdu. Perakende sektöründeki kriz derinleşiyor.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+     "time": "2026-11-23T00:22:27+00:00"
+    },
+    {
+     "title": "Donald Trump Virginia'da Üçüncü Kripto Gala Gecesini Düzenliyor",
+     "summary": "ABD Başkanı Donald Trump, Virginia'daki kulübünde kendi meme coin yatırımcıları için üçüncü kez kripto para gala gecesine ev sahipliği yapıyor. Demokratlar, bu tür etkinliklerin açık bir çıkar çatışması yarattığını savunarak tepki gösterdi. Etkinlik siyasi çevrelerde tartışma yarattı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+     "time": "2026-11-23T00:31:31+00:00"
+    },
+    {
+     "title": "Küresel Sistem Kesintileri ve Siber Güvenlik Kaygıları Artıyor",
+     "summary": "Havacılık, bankacılık ve teknoloji devlerinde yaşanan son kesintiler kamuoyunda sistemlerin güvenliğine dair endişeleri artırdı. Uzmanlar siber saldırılar, yapay zeka entegrasyon hataları ve karmaşık ağ altyapılarının bu tür krizleri tetiklediğini belirtiyor. Şirketler altyapılarını güçlendirmek zorunda kalıyor.",
+     "category": "Teknoloji",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+     "time": "2026-11-22T06:00:19+00:00"
+    },
+    {
+     "title": "İş Verenlerden Adaylara Geri Bildirim Sağlamaları Talep Ediliyor",
+     "summary": "İş arayanlar, mülakatlar sonrasında çoğunlukla hiçbir dönüş almadıklarından şikayetçi. İş dünyası temsilcileri, şirketlerin her başvuru sahibine yanıt vermesini zorunlu kılacak düzenlemeleri tartışıyor. İstihdam piyasasında şeffaflık talepleri artıyor.",
+     "category": "İş Dünyası",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+     "time": "2026-11-22T00:04:07+00:00"
+    },
+    {
+     "title": "GLP-1 Türü İlaçların Çevresel ve Tarımsal Etkileri Beklenenden Büyük Olabilir",
+     "summary": "Yeni nesil GLP-1 kilo verme ilaçlarının küresel gıda talebini önemli ölçüde azaltabileceği belirtiliyor. Araştırmalar, bu durumun İtalya yüzölçümünden daha geniş tarım arazilerinin doğaya geri kazandırılmasına yol açabileceğini gösteriyor. Uzmanlar ilaçların ekolojik etkilerini inceliyor.",
+     "category": "Bilim",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+     "time": "2026-11-22T12:07:41+00:00"
+    },
+    {
+     "title": "San Francisco'da Yapay Zeka Sektörü Canlılığı Sürüyor Ancak Çöküş Endişeleri Artıyor",
+     "summary": "Yapay zeka teknolojilerinin merkezi olan San Francisco'da sektörün büyümesi devam ederken piyasada bir balon oluştuğu yönündeki kaygılar da artıyor. Sektör çalışanları yatırımların aşırı ısındığını ve olası bir düzeltme dalgasının gelebileceğini ifade ediyor. Teknoloji piyasası geleceği tartışıyor.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+     "time": "2026-11-23T00:08:00+00:00"
+    },
+    {
+     "title": "Avustralya'da Gençlere Yönelik Sosyal Medya Yasağının Uygulamasında Boşluklar Görülüyor",
+     "summary": "Avustralya'da çocukları sosyal medyanın zararlarından korumak amacıyla yürürlüğe konulan yasağın uygulamadaki eksiklikleri bir yıl sonra netleşmeye başladı. Uzmanlar yaş doğrulama ve teknik engeller konusunda sistemin açıklar barındırdığını vurguluyor. Düzenleme tartışılmaya devam ediyor.",
+     "category": "Dijital Politika",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+     "time": "2026-11-22T08:26:24+01:00"
+    },
+    {
+     "title": "Carlos Alcaraz, Alexander Zverev'i Yenerek İlk ATP Finals Şampiyonluğunu Kazandı",
+     "summary": "İspanyol tenisçi Carlos Alcaraz, dünya 1 numarası Alexander Zverev'i 6-2 ve 7-6'lık setlerle mağlup ederek kariyerindeki ilk ATP Finals kupasını kazandı. Torino'daki turnuvanın finalinde üstün bir performans sergileyen Alcaraz sezonu zirvede kapattı. Bu galibiyetle tarihe geçti.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+     "time": "2026-11-22T20:43:11+00:00"
+    },
+    {
+     "title": "New York Mets'ten Tarihi Anlaşma: Tarik Skubal ile 450 Milyon Dolarlık Rekor Sözleşme",
+     "summary": "New York Mets beyzbol kulübü, serbest oyuncu konumundaki yıldız pitcher Tarik Skubal ile 9 yıl karşılığında 450 milyon dolarlık rekor bir sözleşme imzaladı. Bu anlaşma, MLB tarihindeki bir pitcher için yapılan en yüksek maliyetli transfer rekorunu kırdı.",
+     "category": "Beyzbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+     "time": "2026-11-22T22:25:59+00:00"
+    },
+    {
+     "title": "Mauricio Pochettino'nun Manchester United Kariyeri Anfield'daki Ağır Yenilgiyle Başladı",
+     "summary": "Manchester United, yeni teknik direktörü Mauricio Pochettino yönetiminde çıktığı ilk maçta Liverpool'a deplasmanda 4-0 mağlup oldu. Maçın başında Leny Yoro'nun kırmızı kart görmesi Kırmızı Şeytanlar'ın direncini kırdı. Bu sonuç Pochettino'nun kulüp tarihindeki en ağır başlangıç yenilgilerinden biri oldu.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+     "time": "2026-11-22T21:31:03+00:00"
+    },
+    {
+     "title": "Gerwyn Price Dartta Hasrete Son Vererek Grand Slam Şampiyonu Oldu",
+     "summary": "Galli dart oyuncusu Gerwyn Price, Wolverhampton'daki Grand Slam finalinde Gian van Veen'i 16-11 yenerek büyük turnuvalardaki kupa hasretine son verdi. 2022'den bu yana ilk kez büyük bir televizyon turnuvası kazanan Price rahat bir nefes aldı.",
+     "category": "Dart",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/22/gerwyn-price-ends-barren-run-with-grand-slam-victory-in-wolverhampton",
+     "time": "2026-11-22T21:54:55+00:00"
+    },
+    {
+     "title": "Barcelona İki Gol Geriden Gelerek Villarreal'i Mağlup Etti",
+     "summary": "La Liga'da lider Barcelona, sahasında Villarreal'i iki gol geriden gelerek 3-2 yendi ve puan tablosundaki zirve farkını korudu. Lamine Yamal'ın penaltı kaçırdığı maçta Katalan ekibi harika bir geri dönüşe imza attı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+     "time": "2026-11-22T22:20:43+00:00"
+    }
+   ]
+  }
+ ]
+}

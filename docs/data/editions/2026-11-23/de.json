@@ -1,0 +1,566 @@
+{
+ "date": "2026-11-23",
+ "updatedAt": "2026-11-23T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "62961d1a22ffc105",
+   "overview": "Im Zentrum der deutschen Berichterstattung stehen heute innenpolitische, sicherheits- und gesellschaftspolitische Themen. Das Justizministerium kündigte verschärfte Strafen bei Femiziden an, während in der Wirtschaft Energie- und Spritpreise sowie die Warnstreiks der IG Metall im Fokus stehen. Aussenpolitische und sicherheitspolitische Entwicklungen prägen zudem die Debatte über Deutschlands Rolle.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Bundesjustizministerium plant härtere Strafen für Femizide",
+     "summary": "Das Bundesjustizministerium hat einen Gesetzentwurf vorgelegt, wonach Tötungen von Frauen aufgrund ihres Geschlechts künftig eindeutig als Mord bestraft werden sollen. Wer eine Frau tötet, weil sie sich trennen will, muss demnach als Mörder belangt werden. Justisministerin Hubig stellte die Pläne in Berlin vor.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/femizide-mord-gesetzentwurf-100.html",
+     "time": "2026-11-22T13:00:00+01:00"
+    },
+    {
+     "title": "Antisemitismusbeauftragte fordert mehr Engagement gegen Judenhass",
+     "summary": "Die Bundesbeauftragte von Schnurbein warnt vor einem so offenen Antisemitismus in Deutschland wie seit dem Holocaust nicht mehr. Sie betonte, dass die Ideologie der AfD einen gefährlichen Angriff auf die deutsche Erinnerungskultur darstelle.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/antisemitismusbeauftragte-102.html",
+     "time": "2026-11-22T06:47:26+01:00"
+    },
+    {
+     "title": "Künftiger Generalinspekteur will bei sexualisiertem Fehlverhalten durchgreifen",
+     "summary": "Eine Studie belegt ein anhaltendes Problem mit sexualisiertem Fehlverhalten in der Bundeswehr. Der künftige Generalinspekteur Freuding nannte die Zahlen unerträglich und kündigte an, dagegen unerbittlich hart durchzugreifen.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/bundeswehr-generalinspekteur-gegen-sexualisiertes-fehlverhalten-100.html",
+     "time": "2026-11-22T10:51:56+01:00"
+    },
+    {
+     "title": "15 Verletzte bei Brand in Berliner Krankenhaus",
+     "summary": "In einem Patientenzimmer im ersten Stock eines Krankenhauses in Berlin-Lichtenberg ist ein Feuer ausgebrochen. Wegen des dichten Rauchs musste das komplette Gebäude geräumt werden, wobei 15 Menschen verletzt wurden und teils Lebensgefahr besteht.",
+     "category": "Unglücke",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/berlin-lichtenberg-15-verletzte-bei-brand-in-krankenhaus-a-45fc2700-244a-41e7-b0c2-3541cab7671a#ref=rss",
+     "time": "2026-11-23T04:09:00+01:00"
+    },
+    {
+     "title": "Prien verurteilt Angriff auf FDP-Politikerin Preisler bei Demo",
+     "summary": "Die Berliner FDP-Politikerin Preisler soll am Rande einer pro-palästinensischen Demonstration von zwei Frauen geschubst und getreten worden sein. Bundesfamilienministerin Prien kritisierte den Vorfall scharf.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-angriff-preisler-100.html",
+     "time": "2026-11-22T18:36:50+01:00"
+    },
+    {
+     "title": "IG Metall weitet Warnstreiks in norddeutscher Metall- und Elektroindustrie aus",
+     "summary": "Nach bundesweiten Arbeitsniederlegungen in der Metall- und Elektroindustrie weitet die IG Metall Küste ihre Warnstreiks aus. Erneut soll für 24 Stunden gestreikt werden, teils bereits ab den Abendstunden.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/ig-metall-warnstreik-102.html",
+     "time": "2026-11-22T04:50:01+01:00"
+    },
+    {
+     "title": "Katherina Reiche will Autobahntankstellen von Preisdeckel ausnehmen",
+     "summary": "Angesichts der Diskussion um einen harten Spritpreisdeckel befürchtet das Wirtschaftsministerium mögliche Versorgungsengpässe an Autobahntankstellen und will diese ausnehmen. Linke und Grüne kritisieren diesen Vorstoß scharf.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/service/hohe-spritpreise-katherina-reiche-will-autobahntankstellen-von-preisdeckel-ausnehmen-a-98639391-2d38-4b1a-873b-927535a346a9#ref=rss",
+     "time": "2026-11-22T13:06:00+01:00"
+    },
+    {
+     "title": "Energiewirtschaft fordert Krisengipfel für die Stromnetze",
+     "summary": "Da Rechenzentren und Industriebetriebe oft jahrelang auf ihre Stromanschlüsse warten müssen, schlagen Netzbetreiber Alarm. Verbände fordern nun ein dringendes Treffen mit Vertretern aus Bund und Ländern.",
+     "category": "Infrastruktur",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/stromnetze-bdew-und-vku-fordern-krisengipfel-mit-katherina-reiche-201701678.html",
+     "time": "2026-11-22T20:47:58+00:00"
+    },
+    {
+     "title": "Hendrik Wüst lehnt Söders Forderung zur kalten Progression ab",
+     "summary": "NRW-Ministerpräsident Hendrik Wüst stellt sich gegen die Forderung von Markus Söder, die kalte Progression auszugleichen. Mit Verweis auf die bereits vereinbarte Senkung der Stromsteuer erklärte er, der Haushalt gebe nicht mehr her.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/markus-soeder-hendrik-wuest-lehnt-forderung-zur-kalten-progression-ab-a-fe4d16ef-8ba6-485a-9e27-fa42a09f1cb5#ref=rss",
+     "time": "2026-11-22T22:33:00+01:00"
+    },
+    {
+     "title": "Nvidia: Offenbar Verbindungen zwischen Alice Huang und Chinas Chip-Unterwelt",
+     "summary": "Berichten zufolge soll die frühere Geliebte des Ex-Nvidia-Chefs Jensen Huang Verbindungen zu Unternehmen gehabt haben, die Mikrochips des Konzerns illegal nach China verkauft haben. Dies könnte Licht in den umstrittenen Fall bringen.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/nvidia-verbindungen-zwischen-alice-huang-und-chinas-chip-unterwelt-a-87b31bb5-ed67-4363-bfd5-782009a3d796#ref=rss",
+     "time": "2026-11-22T18:34:00+01:00"
+    },
+    {
+     "title": "GL.iNet: Schwachstelle entdeckt, Patch verfügbar",
+     "summary": "In den cloudbasierten Fernverwaltungsdiensten von GL.iNet wurde eine Sicherheitslücke entdeckt, die bereits aktiv ausgenutzt wird. Administratoren werden dringend dazu aufgerufen, den verfügbaren Patch umgehend zu installieren.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/GL-iNet-Schwachstelle-entpedeckt-Patch-verfuegbar-11533722.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-22T11:02:00+01:00"
+    },
+    {
+     "title": "Hugendubel-Onlineshop nach Hackerangriff weiter nicht erreichbar",
+     "summary": "Nach einem Hackerangriff ist der Onlineshop der Buchhandelskette Hugendubel weiterhin offline. Die Verantwortlichen arbeiten nach Angaben des Unternehmens mit Hochdruck an der Behebung der Störung und an Sicherheitsanalysen.",
+     "category": "Internet",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-hugendubel-onlineshop-nach-hackerangriff-weiter-nicht-erreichbar-faz-200452404.html",
+     "time": "2026-11-22T19:49:37+00:00"
+    },
+    {
+     "title": "Alexander Zverev verpasst Krönung seines Traumjahres gegen Carlos Alcaraz",
+     "summary": "Nach seinen Siegen bei den Grand-Slam-Turnieren in Paris und New York sowie der Nummer eins im Ranking hat Alexander Zverev den Titel bei den ATP Finals verpasst. Gegen den Spanier Carlos Alcaraz vergab der deutsche Tennisstar im Finale seine Chancen im zweiten Satz.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/tennis/atp-finals-alexander-zverev-verpasst-kroenung-seines-traumjahres-gegen-carlos-alcaraz-a-8eff0478-ee60-4c90-bba6-7c36949c79ae#ref=rss",
+     "time": "2026-11-22T20:48:00+01:00"
+    },
+    {
+     "title": "Köln feiert Überraschungspunkt in München",
+     "summary": "Ein personell geschwächter FC Bayern München kam im Heimspiel gegen den 1. FC Köln nicht über ein 1:1-Unentschieden hinaus. Der Rekordmeister verlor im Bundesliga-Duell neben zwei Punkten auch weitere Leistungsträger.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/koeln-feiert-ueberraschungspunkt-in-muenchen,video-bundesliga-bayern-muenchen-koeln-zusammenfassung-100.html",
+     "time": "2026-11-23T00:00:18+01:00"
+    },
+    {
+     "title": "Werder Bremen fegt über den HSV im Nordderby",
+     "summary": "Werder Bremen reitet in der Fußball-Bundesliga weiter auf der Erfolgswelle und bezwang den Erzrivalen Hamburger SV im Nordderby deutlich. Das Spiel war überschattet von vereinzelten Ausschreitungen im Block und Sachbeschädigungen.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/bremen-fegt-ueber-hsv-im-nordderby,video-bundesliga-bremen-hamburg-zusammenfassung-100.html",
+     "time": "2026-11-23T00:00:28+01:00"
+    },
+    {
+     "title": "Buhrufe und Pfiffe gegen BVB-Boss Cramer wegen Fall Nmecha",
+     "summary": "Der religiös motivierte Torjubel von BVB-Profi Nmecha hat auf der Mitgliederversammlung des Vereins für hitzige Diskussionen gesorgt. Als Geschäftsführer Cramer den Spieler verteidigte und als tadellosen Menschen bezeichnete, erntete er Buhrufe.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/sport/mitgliederversammlung-bvb-fall-nmecha-100.html",
+     "time": "2026-11-22T20:58:18+01:00"
+    },
+    {
+     "title": "Union bricht gegen Leipzig nach der Pause ein",
+     "summary": "RB Leipzig feierte einen klaren 5:1-Erfolg gegen Union Berlin in der Fußball-Bundesliga. Die Köpenicker hielten zunächst gut mit, brachen jedoch nach dem Seitenwechsel ein und mussten vier weitere Gegentore hinnehmen.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/bundesliga/union-bricht-gegen-leipzig-nach-der-pause-ein,video-bundesliga-union-berlin-leipzig-zusammenfassung-100.html",
+     "time": "2026-11-23T00:00:20+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "689e743344328714",
+   "overview": "Die Nachrichtenlage in Türkiye wird in dieser Periode von intensiven diplomatischen und rechtlichen Entwicklungen geprägt. Das Klimagipfel COP31 in Antalya endete mangels Einigung beim Thema fossile Brennstoffe ohne Konsens, während im Zuge von Finanzmarktermittlungen hohe Summen sichergestellt wurden. Wirtschaftlich sorgen Krediterleichterungen und Debatten um den Mindestlohn für Gesprächsstoff, während im Sport die nationalen Meisterschaften und die Situation der Nationalspieler im Fokus stehen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Klimagipfel COP31 in Antalya endet ohne Einigung zu fossilen Brennstoffen",
+     "summary": "Die in Antalya abgehaltene UN-Klimakonferenz (COP31) ist ohne Einigung beim Ausstieg aus fossilen Brennstoffen zu Ende gegangen. Wegen Einsprüchen der Europäischen Union und anderer Staaten gegen den Entwurf konnte kein gemeinsames Abschlussdokument verabschiedet werden.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+     "time": "2026-11-22T17:33:33+00:00"
+    },
+    {
+     "title": "Ermittlungen zu Unregelmäßigkeiten beim Schnelltransitsystem HGS eingeleitet",
+     "summary": "Justizminister Akın Gürlek hat bekannt gegeben, dass nach Vorwürfen und Beschwerden über unrechtmäßige Gewinne über das Schnelltransitsystem HGS offizielle Ermittlungen eingeleitet wurden. Dieser Schritt folgt auf wachsenden öffentlichen Druck.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo",
+     "time": "2026-11-22T18:39:43+00:00"
+    },
+    {
+     "title": "Festnahmen bei Ermittlungen gegen die Stadtverwaltung Kepez in Antalya",
+     "summary": "Im Rahmen von Ermittlungen der Staatsanwaltschaft Antalya gegen die Stadtverwaltung von Kepez sind 20 Personen festgenommen worden. Die juristischen Prozesse dauern an.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
+     "time": "2026-11-22T12:14:28+00:00"
+    },
+    {
+     "title": "Schulunterricht in drei Bezirken von Van wegen starker Schneefälle ausgesetzt",
+     "summary": "In den Bezirken Muradiye, Çaldıran und Saray in Van wurde der Unterricht an allen Bildungseinrichtungen wegen starker Schneefälle, Nebel und Glätte für einen Tag ausgesetzt. Die Meteorologie warnte vor widrigen Witterungsbedingungen.",
+     "category": "Wetter",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/vanda-kar-etkisi-3-ilcede-okullar-tatil-edildi-2085629",
+     "time": "2026-11-23T01:25:58+03:00"
+    },
+    {
+     "title": "Innenministerium schreibt 1.170 Vertragstellen aus",
+     "summary": "Das türkische Innenministerium hat die Rekrutierung von 1.170 Vertragsbediensteten für die Zentral- und Provinzbehörden bekannt gegeben. Für die Stellen, auf die sich Absolventen verschiedener Bildungsstufen bewerben können, ist eine Mindestpunktzahl im Auswahltest KPSS erforderlich.",
+     "category": "Verwaltung",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/icisleri-bakanligi-1170-personel-alacak-lise-on-lisans-ve-lisans-2085627",
+     "time": "2026-11-23T00:40:00+03:00"
+    },
+    {
+     "title": "Milliardenbeträge im Zuge von Fondsuntersuchungen eingetrieben",
+     "summary": "Justizminister Akın Gürlek teilte mit, dass im Rahmen der laufenden Fondsuntersuchungen von 85 Personen insgesamt 44,58 Milliarden Türkische Lira eingezogen wurden. Gegen zahlreiche Verdächtige laufen Ermittlungen, und Dutzende Unternehmen wurden unter staatliche Verwaltung gestellt.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Medyascope",
+     "url": "https://medyascope.tv/2026/11/22/akin-gurlek-fon-sorusturmasinda-85-kisiden-4458-milyar-tl-tahsil-edildi/",
+     "time": "2026-11-22T15:57:52+00:00"
+    },
+    {
+     "title": "Bankenaufsicht BDDK lockert Kreditbeschränkungen für Zweitwohnsitze",
+     "summary": "Die Bankenregulierungs- und Aufsichtsbehörde BDDK hat Änderungen bei Kreditkarten-, Verbraucher- und Wohnungsbaudarlehen vorgenommen. Mit der Neuregelung wurden die Krediteinschränkungen aufgehoben, mit denen Personen beim Erwerb einer zweiten Immobilie konfrontiert waren.",
+     "category": "Banken",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/kredi-adimi-zengine-yaradi-2085623",
+     "time": "2026-11-23T00:01:00+03:00"
+    },
+    {
+     "title": "Umfrage zum Mindestlohn zeigt hohe Erwartungen der Bürger",
+     "summary": "Einer Umfrage des Instituts ASAL zum kommenden Mindestlohn zufolge spricht sich die Mehrheit der Befragten für einen Betrag von über 38.000 Türkische Lira aus. Ein erheblicher Teil forderte exakt diese Summe als neue Untergrenze.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/asgari-ucret-anketinde-carpici-sonuc-yurttasin-talebi-38-bin-tl-nin-uzerinde-2558305",
+     "time": "2026-11-22T12:23:00+03:00"
+    },
+    {
+     "title": "Umfragedaten belegen breite Unzufriedenheit mit Wirtschaftspolitik",
+     "summary": "Aktuellen Umfragedaten zufolge bewerten rund 72,7 Prozent der Befragten die Wirtschaftspolitik der Regierung als erfolglos. Die Ergebnisse verdeutlichen die anhaltende Skepsis der Wählerschaft gegenüber der aktuellen Finanz- und Wirtschaftslage.",
+     "category": "Konjunktur",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/secmenin-yuzde-72-7-si-ekonomi-politikasini-basarisiz-buldu-anketten-iktidara-ekonomi-uyarisi-2558320",
+     "time": "2026-11-22T13:23:00+03:00"
+    },
+    {
+     "title": "Apple schließt offizielles Support-Forum",
+     "summary": "Der Technologiekonzern Apple hat sein offizielles Support-Forum wie zuvor angekündigt abgeschaltet. Die Plattform für Nutzeraustausch und technische Unterstützung ist damit nicht mehr erreichbar.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-in-resmi-destek-forumu-kapatildi-2558414",
+     "time": "2026-11-22T21:21:00+03:00"
+    },
+    {
+     "title": "Experten analysieren weltweite technische Ausfälle und Sicherheitsrisiken",
+     "summary": "Jüngste technische Störungen und Sicherheitslücken, die von Softwaresystemen bis zu Behörden reichen, sorgen international für Aufmerksamkeit. Fachleute untersuchen die Ursachen für diese ungewöhnlichen Häufungen von Ausfällen.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/teknolojik-kesinti-saldiri-ve-guvenlik-aciklarinin-sebebi-ne-2558411",
+     "time": "2026-11-22T21:00:00+03:00"
+    },
+    {
+     "title": "Einsatz von Künstlicher Intelligenz im Bildungswesen in der Diskussion",
+     "summary": "Die Nutzung von KI-Anwendungen wie ChatGPT unter Schülerinnen und Schülern nimmt weiter zu. Studien weisen darauf hin, dass ein unkritischer Umgang mit diesen Werkzeugen fundamentale Lernfähigkeiten beeinträchtigen kann.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/yapay-zeka-öğrencileri-aptallaştırıyor-mu/a-79971819",
+     "time": "2026-11-22T07:14:00+00:00"
+    },
+    {
+     "title": "Beşiktaş Fuzul gewinnt Basketball-Derby gegen Fenerbahçe Tarfin",
+     "summary": "Im Derby des 9. Spieltags der türkischen Basketball-Superliga hat Beşiktaş Fuzul den Rivalen Fenerbahçe Tarfin in einem hart umkämpften Spiel mit 92-88 bezwungen.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/basketbol-derbisinde-kazanan-besiktas-fuzul-fenerbahce-tarfin-i-maglup-etti-2558432",
+     "time": "2026-11-22T23:08:00+03:00"
+    },
+    {
+     "title": "Nationalspieler Hakan Çalhanoğlu verletzungbedingt ausgewechselt",
+     "summary": "Der beim italienischen Erstligisten Inter unter Vertrag stehende türkische Nationalspieler Hakan Çalhanoğlu musste im Spiel gegen Atalanta wegen einer Verletzung den Platz verlassen. Nähere Untersuchungen stehen noch aus.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/hakan-calhanoglu-ndan-kotu-haber-oyuna-devam-edemedi-2558443",
+     "time": "2026-11-22T23:51:00+03:00"
+    },
+    {
+     "title": "Krise um Stürmer Mbaye Diagne bei Amedspor",
+     "summary": "Der senegalesische Angreifer Mbaye Diagne ist nach Vereinsangaben dem Training von Amedspor ferngeblieben, woraufhin es zu heftigen verbalen Auseinandersetzungen zwischen dem Spieler und der Vereinsführung kam.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/amedsporda-kriz-diagne-gemileri-yakti-2558442",
+     "time": "2026-11-22T20:39:57+00:00"
+    },
+    {
+     "title": "Galatasaray MCT Technic feiert klaren Heimsieg",
+     "summary": "Im Rahmen des 9. Spieltags der Basketball-Superliga setzte sich Galatasaray MCT Technic in eigener Halle deutlich mit 81-64 gegen Aliağa Petkimspor durch.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-mct-technic-ten-kendi-evinde-farkli-galibiyet-2558404",
+     "time": "2026-11-22T20:11:00+03:00"
+    },
+    {
+     "title": "Ozan Tufan äußert sich zur Nationalmannschaft",
+     "summary": "Nach dem Ligasieg von Trabzonspor äußerte sich Mittelfeldspieler Ozan Tufan zu seiner Nichtnominierung für die Nationalmannschaft und betonte seinen Respekt vor den Verantwortlichen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/ozan-tufan-dan-milli-takim-yaniti-sergen-hoca-ya-saygi-duyuyorum-2558423",
+     "time": "2026-11-22T22:13:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "c7cb3ac4040b46dd",
+   "overview": "Das internationale Nachrichtengeschehen wurde maßgeblich vom Scheitern des UN-Klimagipfels COP31 in Antalya infolge ungelöster Streitigkeiten über fossile Energieträger geprägt. Während der historische Wahlerfolg der Demokraten im US-Repräsentantenhaus und steigende Energiepreise die Weltwirtschaft beschäftigen, sorgt das Übergreifen des Ukraine-Kriegs auf maritime Routen bis ins Mittelmeer für wachsende Sicherheitsbedenken. Im Sport dominierten der ATP-Finals-Triumph von Carlos Alcaraz und der historische Kantersieg des FC Liverpool gegen Manchester United die Schlagzeilen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor"
+   ],
+   "items": [
+    {
+     "title": "Klimagipfel COP31 scheitert an Streit um fossile Brennstoffe",
+     "summary": "Die UN-Klimakonferenz COP31 in Antalya ist nach tagelangen Verhandlungen und scharfer Kritik an fehlenden Bezügen zu fossilen Energieträgern gescheitert. EU-Staaten lehnten den Beschlussentwurf in letzter Minute ab. Damit endete die am längsten laufende Konferenz der Geschichte ohne Einigung.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+     "time": "2026-11-23T00:50:35+00:00"
+    },
+    {
+     "title": "Demokraten bauen Mehrheit im US-Repräsentantenhaus auf stärksten Wert seit 1992 aus",
+     "summary": "Nach einem gewonnenen Nachzählungsmandat in North Carolina stellen die Demokraten ab Januar mindestens 258 Abgeordnete im US-Repräsentantenhaus. Damit verbuchen sie das beste Zwischenwahlresultat seit der Ära von Bill Clinton. Das Wahlergebnis verändert das politische Gewicht in Washington deutlich.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/demokraten-mehrheit-repraesentantenhaus-100.html",
+     "time": "2026-11-23T01:55:05+01:00"
+    },
+    {
+     "title": "Russisches Kriegsschiff in libyschem Hafen Bengasi bei Drohnenangriff getroffen",
+     "summary": "Ein im Marinestützpunkt der ostlibyschen Stadt Bengasi liegendes russisches Kriegsschiff ist von einer mutmaßlichen Seedrohne getroffen worden. Bei der Explosion entstand Sachschaden, Verletzte wurden zunächst nicht gemeldet. Behörden bringen den Vorfall mit dem Ukraine-Krieg in Verbindung.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/video/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-benghazi-naval-base-libyan-officials-json",
+     "time": "2026-11-22T19:41:23+00:00"
+    },
+    {
+     "title": "Dutzende Vermisste nach verheerendem Brand in indonesischer Süßwarenfabrik",
+     "summary": "Bei einem Großbrand in einer Fabrik westlich der indonesischen Hauptstadt Jakarta sind mindestens drei Menschen ums Leben gekommen. Zum Zeitpunkt des Ausbruchs befanden sich rund 60 Menschen im Gebäude. Die Behörden befürchten eine deutlich höhere Zahl an Opfern.",
+     "category": "Unglück",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/dozens-missing-as-deadly-fire-hits-indonesian-candy-factory/a-80012342",
+     "time": "2026-11-22T06:14:00+00:00"
+    },
+    {
+     "title": "Tausende demonstrieren in Istanbul gegen Vorgehen gegen Opposition und Medien",
+     "summary": "In Istanbul haben Tausende Menschen gegen die staatliche Einsetzung von Zwangsverwaltern bei regierungskritischen Medien wie Sözcü TV demonstriert. Zu den Kundgebungen hatte die Opposition aufgerufen. Die Teilnehmer forderten die Wahrung der Pressefreiheit.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261123-istanbul-turkey-crackdown-opposition-media-turkey",
+     "time": "2026-11-23T02:15:34+00:00"
+    },
+    {
+     "title": "Steigende Energiepreise belasten europäische Haushalte im neuen Jahr",
+     "summary": "Angesichts drohender Preissteigerungen bei Energieversorgern wachsen die Sorgen der Verbraucher. Energie-Branchenvertreter zeigen sich besorgt über die Zahl der Haushalte, die ihre Rechnungen künftig kaum noch begleichen können. Regierungen beraten über Entlastungen.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/crm4rygl4m3o",
+     "time": "2026-11-23T01:05:07+00:00"
+    },
+    {
+     "title": "Handelskette Poundland droht kurzfristig die Insolvenz",
+     "summary": "Der britische Einzelhändler Poundland steht unter enormem Druck, innerhalb weniger Tage einen Investor zu finden. Andernfalls droht dem Traditionsunternehmen der Gang in die Insolvenzverwaltung. Die Krise im stationären Handel hält an.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm4g10p2r0g9o",
+     "time": "2026-11-23T00:22:27+00:00"
+    },
+    {
+     "title": "Trump veranstaltet drittes Krypto-Gala-Dinner trotz Kritik an Interessenkonflikten",
+     "summary": "US-Präsident Donald Trump lädt zu einer weiteren Krypto-Gala in seinem Club in Virginia ein, um Inhaber seiner Meme-Coins zu treffen. Kritiker und Demokraten werfen ihm vor, von seinen privaten Kryptoprojekten im Amt zu profitieren. Die Veranstaltung sorgt für anhaltende politische Debatten.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/22/trump-cryptocurrency-gala-meme-coin",
+     "time": "2026-11-23T00:31:31+00:00"
+    },
+    {
+     "title": "Häufung globaler Systemausfälle wirft Fragen zur digitalen Sicherheit auf",
+     "summary": "Nach technischen Pannen und Störungen bei Banken, Fluggesellschaften und Technologiekonzernen wachsen die Sorgen um die Stabilität digitaler Infrastrukturen. Experten verweisen auf komplexe Netzwerke, Cyberrisiken und KI-Abhängigkeiten als mögliche Brandherde. Unternehmen stehen vor Nachbesserungen.",
+     "category": "Technologie",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/technology/2026/nov/22/hacks-ai-internet-outages-airlines-banks-microsoft-apple",
+     "time": "2026-11-22T06:00:19+00:00"
+    },
+    {
+     "title": "Forderung nach verpflichtendem Feedback für Bewerber im Arbeitsmarkt",
+     "summary": "Immer mehr Arbeitssuchende kritisieren das Ausbleiben von Rückmeldungen nach Vorstellungsgesprächen. Diskussionen über strengere Vorgaben für Arbeitgeber zur Kommunikation mit allen Kandidaten gewinnen an Fahrt. Experten fordern mehr Transparenz im Bewerbungsprozess.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm2d94le23xyo",
+     "time": "2026-11-22T00:04:07+00:00"
+    },
+    {
+     "title": "GLP-1-Abnehmpräparate könnten überraschend positive Umwelteffekte haben",
+     "summary": "Aktuelle Untersuchungen zeigen, dass neuartige GLP-1-Medikamente den weltweiten Nahrungsmittelbedarf spürbar senken könnten. Dadurch könnten freiwerdende Agrarflächen in der Größenordnung von ganz Italien ökologisch entlastet werden. Wissenschaftler analysieren die weitreichenden Folgen.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/11/glp-1-drugs-could-have-a-surprisingly-large-environmental-payoff/",
+     "time": "2026-11-22T12:07:41+00:00"
+    },
+    {
+     "title": "KI-Boom in San Francisco: Experten warnen vor möglicher Blasenbildung",
+     "summary": "Im Zentrum der globalen Künstlichen Intelligenz in San Francisco herrscht anhaltende Hochkonjunktur, doch die Sorgen vor einem wirtschaftlichen Abschwung wachsen. Branchenmitarbeiter und Analysten verweisen auf überhitzte Märkte. Die Technologiebranche blickt vorsichtig nach vorn.",
+     "category": "KI",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cqe9k09j9jv4o",
+     "time": "2026-11-23T00:08:00+00:00"
+    },
+    {
+     "title": "Australisches Social-Media-Verbot für Jugendliche offenbart Umsetzungsprobleme",
+     "summary": "Ein Jahr nach Einführung des australischen Social-Media-Verbots für Minderjährige zeigen sich deutliche Mängel bei der praktischen Umsetzung. Kritiker bemängeln unzureichende Kontrollen und technische Lücken bei der Altersverifikation. Die Debatte über digitale Schutzmaßnahmen hält an.",
+     "category": "Digitalpolitik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/ozeanien/australien-social-media-108.html",
+     "time": "2026-11-22T08:26:24+01:00"
+    },
+    {
+     "title": "Carlos Alcaraz schlägt Alexander Zverev und gewinnt erstmals ATP Finals",
+     "summary": "Der spanische Tennisstar Carlos Alcaraz hat sich im Endspiel der ATP Finals in Turin gegen die neue Nummer eins Alexander Zverev mit 6:2 und 7:6 durchgesetzt. Damit sichert sich Alcaraz seinen ersten Titel bei dem Saisonabschlussturnier. Er krönt damit eine starke Saison.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/22/carlos-alcaraz-first-atp-finals-title-alexander-zverev-tennis",
+     "time": "2026-11-22T20:43:11+00:00"
+    },
+    {
+     "title": "New York Mets verpflichten Tarik Skubal für Rekordsumme von 450 Millionen Dollar",
+     "summary": "Die New York Mets haben sich laut Medienberichten mit dem Star-Pitcher Tarik Skubal auf einen historischen Vertrag geeinigt. Der Kontrakt hat einen Wert von 450 Millionen US-Dollar über neun Jahre und ist damit der teuerste Pitcher-Vertrag in der Geschichte der MLB.",
+     "category": "Baseball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/22/tarik-skubal-new-york-mets-reported-deal-contract",
+     "time": "2026-11-22T22:25:59+00:00"
+    },
+    {
+     "title": "Mauricio Pochettinos Einstand bei Manchester United endet mit 0:4-Debakel gegen Liverpool",
+     "summary": "Für den neuen Manchester-United-Trainer Mauricio Pochettino verlief das Premier-League-Debüt an der Anfield Road katastrophal. Nach einer frühen roten Karte für Leny Yoro ging die Mannschaft mit 0:4 gegen den FC Liverpool unter. Es ist die historisch schwerste Auftaktniederlage eines United-Übungsleiters.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/22/mauricio-pochettino-manchester-united-reign-begins-with-anfield-humiliation-liverpool",
+     "time": "2026-11-22T21:31:03+00:00"
+    },
+    {
+     "title": "Gerwyn Price gewinnt Grand Slam of Darts und beendet Durststrecke",
+     "summary": "Der walisische Dartprofi Gerwyn Price hat das Finale des Grand Slam of Darts gegen Gian van Veen mit 16:11 für sich entschieden. Damit beendet er eine vierjährige Wartezeit auf einen großen Major-Titel der PDC und feiert ein emotionales Comeback an der Spitze.",
+     "category": "Darts",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/22/gerwyn-price-ends-barren-run-with-grand-slam-victory-in-wolverhampton",
+     "time": "2026-11-22T21:54:55+00:00"
+    },
+    {
+     "title": "Barcelona dreht Partie gegen Villarreal nach Zwei-Tore-Rückstand",
+     "summary": "Der FC Barcelona hat in La Liga einen 0:2-Rückstand gegen Villarreal noch in einen 3:2-Heimsieg gedreht und die Tabellenführung gefestigt. Trotz eines verschossenen Elfmeters von Lamine Yamal zeigten die Katalanen eine starke Moral.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/22/european-football-barcelona-villarreal-juventus-milan-inter",
+     "time": "2026-11-22T22:20:43+00:00"
+    }
+   ]
+  }
+ ]
+}
