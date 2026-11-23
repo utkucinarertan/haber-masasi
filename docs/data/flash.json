@@ -1,6 +1,6 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-23T02:12+01:00",
+ "updatedAt": "2026-11-23T02:42+01:00",
  "countries": {
   "world": [
    {
@@ -22,6 +22,15 @@
     }
    },
    {
+    "time": "2026-11-23T00:44:47+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
+    "text": {
+     "tr": "Türkiye'de düzenlenen COP31 iklim zirvesi, fosil yakıtlara açık atıfta bulunulmaması nedeniyle Avrupa Birliği ülkelerinin itirazıyla çöktü.",
+     "de": "Der Klimagipfel COP31 in der Türkei ist kollabiert, nachdem EU-Mitgliedstaaten Einspruch gegen ein Abkommen ohne ausdrückliche Erwähnung fossiler Brennstoffe erhoben hatten."
+    }
+   },
+   {
     "time": "2026-11-23T00:43:36+00:00",
     "source": "France 24",
     "url": "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, Demokratların menfaat çatışması suçlamalarına rağmen Virginia'da üçüncü kripto para galasına ev sahipliği yapıyor.",
      "de": "US-Präsident Donald Trump richtet in Virginia trotz Kritik wegen Interessenkonflikten seine dritte Kryptowährungsgala aus."
-    }
-   },
-   {
-    "time": "2026-11-23T00:18:59+00:00",
-    "source": "BBC Türkçe",
-    "url": "https://www.bbc.com/turkce/articles/c50mdr0mp04ro",
-    "text": {
-     "tr": "Demokratlar, ara seçimlerde ABD Temsilciler Meclisi'nde 1992'den bu yana en yüksek sandalye sayısı olan en az 258 sandalyeye ulaştı.",
-     "de": "Die Demokraten haben bei den Zwischenwahlen mindestens 258 Sitze im US-Repräsentantenhaus gewonnen und damit die höchste Anzahl seit 1992 erreicht."
     }
    }
   ],
@@ -484,7 +484,10 @@
   "https://www.france24.com/en/tv-shows/spotlight/20261122-burnham-brejoin-the-ghosts-of-brexit",
   "https://www.france24.com/en/tv-shows/tech-24/20261122-it-can-take-years-why-the-ai-riemann-proof-is-far-from-settled",
   "https://www.france24.com/en/video/20261122-russian-ship-attacked-near-benghazi-in-suspected-drone-attack-ukraine",
+  "https://www.france24.com/en/video/20261123-christmas-market-returns-to-paris-champs-elys%C3%A9es",
+  "https://www.france24.com/en/video/20261123-cop31-climate-talks-collapse",
   "https://www.france24.com/en/video/20261123-drone-strikes-hit-homes-united-nations-building-in-sudan-s-capital",
+  "https://www.france24.com/en/video/20261123-france-s-far-right-leader-le-pen-denies-receiving-secrets-from-civil-servant",
   "https://www.france24.com/en/west-bank-attacks-opposition-leader-eisenkot-decries-jewish-terrorism",
   "https://www.manager-magazin.de/unternehmen/banken/deutsche-bank-leak-wie-sich-das-bankhaus-von-den-biontech-milliardaeren-vorfuehren-liess-a-ebe4db0c-9bc1-4bd5-8905-cfb81a844776#ref=rss",
   "https://www.spiegel.de/ausland/finnland-sparta-ii-nach-brand-in-russische-gewaesser-geschleppt-a-3b64d5c4-f5b2-4c52-929a-d8dd06f0ddf3#ref=rss",
