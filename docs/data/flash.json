@@ -1,8 +1,26 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T11:25+01:00",
+ "updatedAt": "2026-11-23T11:55+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T11:49:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/justiz/bombendrohungen-gegen-schulen-in-mehreren-bundeslaendern-a-99dcdb25-8015-4e98-90ff-658f963ad00b#ref=rss",
+    "text": {
+     "tr": "Almanya'da birçok eyalette okullara yönelik gelen bombalı tehditler polis tarafından asılsız çıktı.",
+     "de": "Bombendrohungen gegen Schulen in mehreren deutschen Bundesländern haben sich laut Polizei als haltlos erwiesen."
+    }
+   },
+   {
+    "time": "2026-11-23T11:30:31+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
+    "text": {
+     "tr": "\"İsteyenler Koalisyonu\" Polonya'da Ukrayna'da barışın sağlanması için ilk askeri tatbikatını gerçekleştirdi.",
+     "de": "Die \"Koalition der Willigen\" hat in Polen ihre erste Militärübungen zur Friedenssicherung in der Ukraine absolviert."
+    }
+   },
    {
     "time": "2026-11-23T10:56:20+01:00",
     "source": "tagesschau",
@@ -22,30 +40,12 @@
     }
    },
    {
-    "time": "2026-11-23T10:16:50+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/investigativ/ndr-wdr/taliban-konsulat-bonn-100.html",
+    "time": "2026-11-23T10:33:47+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/saeugling-in-muenchen-auf-gleise-gestuerzt-ermittlungen-gegen-eltern-accg-201708766.html",
     "text": {
-     "tr": "Bonn'daki Afganistan Başkonsolosluğunda, Almanya'dan sığınma talep eden bir düzine kadar Afgan'ın Taliban adına çalıştığı ortaya çıktı.",
-     "de": "Im afghanischen Generalkonsulat in Bonn sind gut ein Dutzend Afghanen tätig, die in Deutschland Schutz gesucht hatten und nun für die Taliban arbeiten."
-    }
-   },
-   {
-    "time": "2026-11-23T10:14:40+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
-    "text": {
-     "tr": "NATO Parlamenter Asamblesi güvenlik politikalarını görüşmek üzere Berlin'de bir araya geldi.",
-     "de": "Die Parlamentarische Versammlung der NATO tagt zu sicherheitspolitischen Themen in Berlin."
-    }
-   },
-   {
-    "time": "2026-11-23T10:12:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/israel-eisenkot-verurteilt-juedischen-terrorismus-im-westjordanland-a-93535601-043a-494e-8423-e946c944b269#ref=rss",
-    "text": {
-     "tr": "İsrail'in eski askeri şefi Eisenkot, işgal altındaki Batı Şeria'da yaşanan Yahudi terörizmini ve artan şiddeti sert bir şekilde eleştirdi.",
-     "de": "Ex-Militärchef Eisenkot hat den jüdischen Terrorismus im besetzten Westjordanland scharf verurteilt und die Regierung für die Gewalt verantwortlich gemacht."
+     "tr": "Münih Merkez Tren İstasyonu'nda 5 aylık bir bebeğin raylara düşmesi üzerine sarhoş olan ebeveynleri hakkında soruşturma başlatıldı.",
+     "de": "Nach dem Sturz eines fünf Monate alten Babys auf die Gleise am Münchner Hauptbahnhof ermittelt die Polizei gegen die Eltern."
     }
    }
   ],
@@ -98,6 +98,33 @@
   ],
   "tr": [
    {
+    "time": "2026-11-23T13:25:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010784/haaretz-israil-ordusunda-intihar-vakalari-son-16-yilin-en-yuksek-seviyesine-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Haaretz gazetesine göre İsrail ordusunda intihar eden askerlerin sayısı bu yıl 23'e ulaştı.",
+     "de": "Laut der Zeitung Haaretz hat die Zahl der Suizide in der israelischen Armee mit 23 Fällen den höchsten Stand seit 16 Jahren erreicht."
+    }
+   },
+   {
+    "time": "2026-11-23T13:18:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010783/kendini-mehdi-olarak-tanitan-dolandirici-ve-ailesine-gozalti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İzmir'de kendini \"Mehdi\" olarak tanıtan bir kişi, bir aileyi 3 milyon TL dolandırarak cinsel istismarda bulunduğu iddiasıyla gözaltına alındı.",
+     "de": "In Izmir wurde ein Betrüger festgenommen, der sich als \"Mahdi\" ausgegeben, eine Familie um rund drei Millionen Türkische Lira betrogen und sexuell missbraucht haben soll."
+    }
+   },
+   {
+    "time": "2026-11-23T13:16:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010782/corum-da-hayvan-pazarinda-silahli-kavga-1-olu-1-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Çorum'daki hayvan pazarında çıkan silahlı kavgada 1 kişi hayatını kaybetti, 1 kişi yaralandı.",
+     "de": "Bei einer Schießerei auf einem Viehmarkt in Çorum wurde ein Mensch getötet und eine Person verletzt."
+    }
+   },
+   {
     "time": "2026-11-23T13:02:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010778/trump-ve-pasinyan-tripp-projesini-baslatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "İzmir'in Karaburun ilçesinde bir baba ile 14 yaşındaki oğlu ormanda av tüfeğiyle öldürülmüş halde bulundu.",
      "de": "In Karaburun in der Provinz Izmir wurden ein Vater und sein 14-jähriger Sohn tot in einem Wald aufgefunden."
-    }
-   },
-   {
-    "time": "2026-11-23T12:01:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010763/mlsa-erisim-engelleri-suruyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "MLSA verilerine göre, son bir hafta içinde Türkiye'de en az 521 X hesabına erişim engeli getirildi.",
-     "de": "Laut MLSA-Bericht wurden innerhalb einer Woche mindestens 521 X-Konten in der Türkei mit Zugriffssperren belegt."
-    }
-   },
-   {
-    "time": "2026-11-23T11:59:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010764/belcika-da-grev-gunu-tum-ucuslar-iptal-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Belçika'da hükümetin kemer sıkma politikalarına karşı düzenlenen ulusal grev nedeniyle tüm uçuşlar iptal edildi.",
-     "de": "Wegen eines nationalen Streiks gegen die Sparpolitik der Regierung in Belgien wurden sämtliche Flüge gestrichen."
-    }
-   },
-   {
-    "time": "2026-11-23T11:50:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010761/katar-basbakani-al-sani-washington-da-abd-disisleri-bakani-rubio-ile-abd-iran-muzakerelerini-gorusecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Katar Başbakanı ve Dışişleri Bakanı Al Sani, Washington'da ABD Dışişleri Bakanı Rubio ile ABD-İran müzakerelerini görüşmek üzere bir araya geliyor.",
-     "de": "Der katarische Premierminister Al Sani trifft in Washington US-Außenminister Rubio, um über die Verhandlungen zwischen den USA und dem Iran zu sprechen."
     }
    }
   ]
@@ -180,8 +180,10 @@
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
+  "https://www.bbc.com/turkce/articles/c6930ynejexno",
   "https://www.bbc.com/turkce/articles/cj1dverkqw7zo",
   "https://www.bbc.com/turkce/articles/cm4gn34x26w8o",
+  "https://www.bbc.com/turkce/articles/cn4vk1ng1jdo",
   "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
   "https://www.bbc.com/turkce/articles/cxyvdqvlzzm1o",
   "https://www.cumhuriyet.com.tr/dunya/trump-in-dostum-dedigi-putin-e-abd-istihbaratindan-yanit-kesinlikle-dostumuz-degil-2558522",
@@ -197,6 +199,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/nevsehir-de-arkadaslar-arasinda-kanli-kavga-bir-kisi-agir-yaralandi-birinin-kulagi-koptu-2558526",
   "https://www.cumhuriyet.com.tr/yasam/2027-ramazan-ayi-ne-zaman-basliyor-ilk-oruc-hangi-gun-tutulacak-2558523",
   "https://www.dw.com/tr/abd-de-oy-sayımı-sürüyor-34-yılın-en-büyük-zaferi/a-80015981",
+  "https://www.dw.com/tr/alman-basını-cop31-gerçek-bir-fiyasko/a-80018537",
   "https://www.dw.com/tr/antalya-da-uzlaşı-çıkmadı-cop-formatı-sorgulanıyor/a-80016651",
   "https://www.dw.com/tr/i̇stanbul-sarıyer-de-kaçak-aslanı-arama-çalışmaları-sürüyor/a-80016071",
   "https://www.dw.com/tr/yağmur-ülkesi-i̇ngiltere-de-kuraklık-alarmı/a-80018204",
@@ -261,17 +264,28 @@
   "https://www.evrensel.net/haber/6010777/maras-taki-okul-saldirisinin-uzerinden-223-gun-gecti-3-ogrencinin-tedavisi-devam-ediyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010778/trump-ve-pasinyan-tripp-projesini-baslatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010779/fiyasko-ile-sonuclanan-iklim-zirvesinin-gosterdigi-gezegen-bm-salonlarinda-kurtulmayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010780/tamir-etmeye-calistigi-traktorun-altinda-kaldi-62-yasindaki-arif-cicek-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010781/yazar-aygun-kevrina-son-yolculugu-icin-ugurlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010782/corum-da-hayvan-pazarinda-silahli-kavga-1-olu-1-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010783/kendini-mehdi-olarak-tanitan-dolandirici-ve-ailesine-gozalti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010784/haaretz-israil-ordusunda-intihar-vakalari-son-16-yilin-en-yuksek-seviyesine-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/autoren/50-todestag-andre-malraux-accg-201705805.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/der-mann-der-die-iphone-kamera-verantwortet-muss-gehen-201701259.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/kulturkampf-in-frankreich-accg-201699273.html",
+  "https://www.faz.net/aktuell/feuilleton/kunstmarkt/mit-yves-klein-vorschau-auf-die-winterauktionen-bei-grisebach-in-berlin-accg-201687754.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kreml-propaganda-deutsche-schueler-fuer-putins-ukraine-krieg-accg-201706066.html",
   "https://www.faz.net/aktuell/finanzen/msci-world-etf-oder-anleihen-was-experten-raten-accg-201688448.html",
+  "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/bombendrohungen-an-zahlreichen-schulen-in-deutschland-accg-201708875.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/intime-handlungen-im-ice-29-jaehriger-kommt-in-haft-accg-201708204.html",
+  "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/saeugling-in-muenchen-auf-gleise-gestuerzt-ermittlungen-gegen-eltern-accg-201708766.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/junge-rowdys-eskalation-in-holzgerlingen-accg-201699675.html",
   "https://www.faz.net/aktuell/gesellschaft/trends-nischen/warum-tun-wir-uns-jedes-jahr-gluehwein-an-201703084.html",
   "https://www.faz.net/aktuell/gesellschaft/winterwetter-zum-wochenstart-glatteis-und-schnee-in-deutschland-accg-201707940.html",
   "https://www.faz.net/aktuell/politik/ausland/frankreich-jean-luc-melenchons-liebstes-feindbild-heisst-deutschland-201699870.html",
   "https://www.faz.net/aktuell/politik/ausland/jovo-baki-und-aleksandra-stimac-serbiens-studentenliste-bekommt-gesichter-accg-201705185.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-plant-offenbar-ueberraschendes-koalitions-manoever-faz-200583539.html",
+  "https://www.faz.net/aktuell/politik/ausland/russland-plant-nuklear-bestueckten-satelliten-im-weltraum-accg-201708566.html",
   "https://www.faz.net/aktuell/politik/inland/ganztagsbetreuung-fuer-erstklaessler-geht-es-wirklich-um-die-kinder-accg-201650730.html",
   "https://www.faz.net/aktuell/politik/ukraine/nato-vor-schwieriger-abwaegung-drei-vorfaelle-ein-dilemma-201706520.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-kiew-versenkt-russisches-kriegsschiff-vor-libyen-faz-110683325.html",
@@ -279,6 +293,7 @@
   "https://www.faz.net/aktuell/rhein-main/frankfurt/flucht-ueber-russland-und-china-wie-ein-juedisches-ehepaar-aus-nazideutschland-entkam-accg-201699477.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/goethe-uni-frankfurt-bibliotheken-kuerzen-oeffnungszeiten-accg-201690419.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/uniklinik-frankfurt-behandelt-als-erstmals-mit-tofersen-accg-201698242.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/katze-viktoria-steckt-fest-feuerwehr-reichelsheim-rettet-sie-accg-201708842.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/rheingau-taunus-kreis-fast-alle-kommunen-mit-haushaltsdefizit-accg-201701700.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/streit-im-strassenverkehr-frau-attackiert-zwei-menschen-mit-messer-in-wetzlar-accg-201708637.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/warum-der-freundeskreis-der-fregatte-hessen-in-freidrichsdorf-sitzt-accg-201698646.html",
@@ -286,7 +301,9 @@
   "https://www.faz.net/aktuell/rhein-main/wiesbaden-junger-mann-nach-tritten-gegen-kopf-bewusstlos-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/sport/formel-1/formel-1-pressestimme-verstappen-der-einzige-koenig-des-chaos-in-las-vegas-accg-201708344.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/dfb-schiedsrichterchef-knut-kircher-im-interview-ueber-den-var-in-der-bundesliga-accg-201701883.html",
+  "https://www.faz.net/aktuell/sport/fussball/florian-wirtz-tor-und-vorlage-fuer-fc-liverpool-lob-fuer-dfb-star-accg-201708562.html",
   "https://www.faz.net/aktuell/sport/fussball/lautsprecherausfall-bei-eintracht-frankfurt-fans-uebernehmen-das-kommando-201706247.html",
+  "https://www.faz.net/aktuell/sport/fussball/nick-woltemade-wie-dfb-stuermer-juventus-tiefgreifend-veraendert-accg-201708774.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/alexander-zverev-unterliegt-alcaraz-dieses-spiel-zeigt-wo-sein-platz-in-der-hackordnung-ist-accg-201707628.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/amon-ra-st-brown-mit-naechstem-touchdown-detroit-lions-feiern-sechsten-sieg-in-serie-accg-201708132.html",
   "https://www.faz.net/aktuell/sport/mls-thomas-mueller-startet-mit-vancouver-whitecaps-erfolgreich-in-playoffs-accg-201708015.html",
@@ -298,6 +315,7 @@
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/fellbaby-statt-kind-wie-haustiere-die-neue-familie-werden-accg-201249138.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/glyphosat-vergleich-der-befreiungsschlag-fuer-bayer-accg-201706096.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/mistral-ist-dieses-unternehmen-eine-echte-ki-alternative-fuer-europa-accg-201700028.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/sony-wehrt-sammelklage-ab-millionen-playstation-spieler-gehen-leer-aus-accg-201701243.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/von-mr-bean-bis-zum-christkindl-fuenf-koepfe-auf-die-sie-diese-woche-achten-sollten-accg-201703963.html",
   "https://www.faz.net/aktuell/wirtschaft/warum-deutschlands-jugend-wuetend-ist-und-was-das-land-tun-kann-accg-201702110.html",
   "https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/altman-musk-amodei-und-hassabis-in-feindschaft-vereint-buecher-des-jahres-accg-201298756.html",
@@ -322,12 +340,14 @@
   "https://www.spiegel.de/netzwelt/darknet-wie-ein-deutscher-den-weltgroessten-drogenmarktplatz-aufgebaut-hat-a-17f84a7a-c411-485c-8506-6612ea209876#ref=rss",
   "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
   "https://www.spiegel.de/panorama/bad-groenenbach-im-allgaeu-56-verletzte-bei-gottesdienst-wegen-kohlenmonoxid-austritt-a-ebf9cf29-ce27-49f4-8e74-e2d2756f9277#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/bombendrohungen-gegen-schulen-in-mehreren-bundeslaendern-a-99dcdb25-8015-4e98-90ff-658f963ad00b#ref=rss",
   "https://www.spiegel.de/panorama/justiz/liebesspiel-im-ice-endet-fuer-29-jaehrigen-in-haft-a-172cd427-3580-4807-a350-ede1ade69d94#ref=rss",
   "https://www.spiegel.de/panorama/leute/hollywoodstar-dwayne-johnson-kommt-zu-wetten-dass-frank-elstner-nicht-a-f69b67d3-84eb-4e9b-9dc8-22dd263f935e#ref=rss",
   "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
   "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
   "https://www.spiegel.de/politik/deutschland/spd-sigmar-gabriel-kritisiert-fuehrungsvakuum-in-der-partei-a-e31c435a-b50b-4f5f-8098-67041beca7b1#ref=rss",
+  "https://www.spiegel.de/politik/elterngeld-reform-was-karin-prien-beim-elterngeld-richtig-gemacht-hat-a-89241644-bf5e-4003-9fe2-1b2fcef9a88e#ref=rss",
   "https://www.spiegel.de/psychologie/teenager-und-ihre-handys-ihr-kind-haengt-nur-noch-am-handy-6-tipps-ohne-verbote-a-d9bf6406-8227-4dec-b3bc-681108e845cc#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
   "https://www.spiegel.de/sport/fuji-in-japan-chinesischer-bergsteiger-vermisst-75-000-dollar-belohnung-a-114878b1-5a65-4fa6-863a-99ba93a9a0ee#ref=rss",
@@ -343,7 +363,10 @@
   "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
   "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
   "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
+  "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
+  "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+  "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/rente-koalition-soeder-100.html",
   "https://www.tagesschau.de/inland/nato-versammlung-berlin-100.html",
   "https://www.tagesschau.de/inland/regional/bayern/nachfolger-aiwanger-100.html",
@@ -375,6 +398,7 @@
   "https://www.theguardian.com/world/2026/nov/22/fire-confectionary-factory-indonesia-jakarta",
   "https://www.theguardian.com/world/2026/nov/23/monday-briefing-what-could-andy-burnhams-reset-mean-for-the-uk",
   "https://www.theguardian.com/world/2026/nov/23/mps-urge-miliband-force-uk-overseas-territories-publish-public-company-registers",
+  "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
   "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
   "https://www.welt.de/debatte/plus6aff1681c1e8003ef73c4aac/ngos-und-agenturen-verdacht-der-politischen-geldwaesche-wie-linke-und-gruene-lobbys-in-den-wahlkampf-eingreifen.html",
   "https://www.welt.de/finanzen/plus6afef2a3ee91e990acae6bdc/gebaeudetyp-e-die-regeln-fuer-das-billigere-bauen-stehen-fest-und-werden-kaum-etwas-aendern.html",
@@ -382,6 +406,7 @@
   "https://www.welt.de/geschichte/article6afad8bdf3f8db1dd9f3e156/sozialismus-in-der-wohnungspolitik-luegt-die-linke-heute-so-dreist-wie-einst-die-sed.html",
   "https://www.welt.de/gesundheit/plus6b002c7bb237b5b41c9a267a/prostata-operation-ich-wollte-nicht-mit-krebs-herumlaufen.html",
   "https://www.welt.de/iconist/gesellschaft/article6afec280a3767a11a0be9e3e/nackt-im-museum-warum-ich-mich-fuer-die-kunst-ausziehen-will.html",
+  "https://www.welt.de/iconist/gesellschaft/plus6b03144225b618a0b5d5c135/russell-brand-sie-waren-klug-und-charismatisch-wie-er-zum-taeter-wurde.html",
   "https://www.welt.de/iconist/gesellschaft/plus6b03144225b618a0b5d5c135/russell-brand-warum-die-comedy-branche-bei-sexismus-wegsah.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-kann-nur-antifeminismus-sein-erklaert-die-bundeszentrale.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-muss-antifeminismus-sein-erklaert-die-bundeszentrale.html",
@@ -403,7 +428,9 @@
   "https://www.welt.de/sport/fussball/internationale-ligen/article6b03e11acdd7733913bf1ca4/fc-liverpool-lobeshymnen-auf-wirtz-dank-klopp-wie-ein-anderer-spieler.html",
   "https://www.welt.de/vermischtes/article6b03d8a95842ff528b9e47f1/augsburg-nach-poller-wahnsinn-jetzt-sichert-die-stadt-den-weihnachtsmarkt-mit-tonnenschweren-stahlbarrieren.html",
   "https://www.welt.de/vermischtes/article6b03ef865842ff528b9e4941/tobias-schlegl-es-war-lebensgefaehrlich-ex-tv-moderator-schildert-attacke-im-rettungsdienst.html",
+  "https://www.welt.de/vermischtes/article6b0416995842ff528b9e54f3/bombendrohungen-an-hunderten-schulen-in-ganz-deutschland.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b03fa8c39a3e8110f0e784a/hannover-goettingen-paar-wird-beim-sex-im-ice-erwischt-dann-fliegt-der-mann-als-gesuchter-straftaeter-auf.html",
+  "https://www.welt.de/wirtschaft/plus6b016f8f45d8681e4fca3ad6/strom-steuer-runter-aber-preise-rauf-was-die-entlastung-fuer-ihre-rechnung-bedeutet.html",
   "https://www.welt.de/wissenschaft/article6b02aed53cd434a4d6d0cb17/karriere-und-kinder-sind-vaeter-in-elternzeit-gluecklicher-forscher-nennen-wichtigen-faktor.html"
  ]
 }
