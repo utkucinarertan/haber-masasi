@@ -1,8 +1,17 @@
 {
  "since": "2026-11-22T05:15+01:00",
- "updatedAt": "2026-11-23T01:12+01:00",
+ "updatedAt": "2026-11-23T01:42+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-23T00:18:59+00:00",
+    "source": "BBC Türkçe",
+    "url": "https://www.bbc.com/turkce/articles/c50mdr0mp04ro",
+    "text": {
+     "tr": "Demokratlar, ara seçimlerde ABD Temsilciler Meclisi'nde 1992'den bu yana en yüksek sandalye sayısı olan en az 258 sandalyeye ulaştı.",
+     "de": "Die Demokraten haben bei den Zwischenwahlen mindestens 258 Sitze im US-Repräsentantenhaus gewonnen und damit die höchste Anzahl seit 1992 erreicht."
+    }
+   },
    {
     "time": "2026-11-22T22:24:56+00:00",
     "source": "The Guardian World",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "ABD Ulusal İstihbarat Direktörü Jay Clayton, Başkan Trump'ın Vladimir Putin'i 'dostum' olarak nitelendirmesine tamamen güvendiğini söyledi.",
      "de": "US-Geheimdienstchef Jay Clayton sagte, er vertraue Donald Trumps Bezeichnung von Wladimir Putin als 'Freund' vollkommen."
-    }
-   },
-   {
-    "time": "2026-11-22T19:41:23+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/africa/20261122-russian-warship-hit-by-suspected-ukrainian-drone-at-libya-s-benghazi-naval-base",
-    "text": {
-     "tr": "Libyalı yetkililer, Bingazi'deki deniz üssünde demirli bulunan bir Rus savaş gemisinin Ukrayna'ya ait olduğu sanılan bir dronla vurulduğunu bildirdi.",
-     "de": "Ein russisches Kriegsschiff wurde nach Angaben libyscher Offiziere an einem Marinestützpunkt in Bengasi von einer mutmasslich ukrainischen Drohne getroffen."
     }
    }
   ],
@@ -196,6 +196,8 @@
   "https://www.bbc.co.uk/news/articles/cw8dvg5pgm0eo",
   "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
   "https://www.bbc.co.uk/news/videos/cre3dvd1k9y1o",
+  "https://www.bbc.com/turkce/articles/c50mdr0mp04ro",
+  "https://www.bbc.com/turkce/articles/c5742kxe9pexo",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
   "https://www.bbc.com/turkce/articles/c6z7490p3l8no",
