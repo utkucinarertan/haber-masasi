@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T05:25+01:00",
+ "updatedAt": "2026-11-23T05:55+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T05:43:07+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+    "text": {
+     "tr": "Ukrayna'nın Kiev bölgesinde bir apartmana düzenlenen gece saldırısında en az on kişi hayatını kaybetti.",
+     "de": "Bei einem nächtlichen Angriff auf ein Wohnhaus in der Region Kiew wurden mindestens zehn Menschen getötet."
+    }
+   },
    {
     "time": "2026-11-23T05:22:00+01:00",
     "source": "Der Spiegel",
@@ -15,6 +24,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-23T04:44:00+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+    "text": {
+     "tr": "Ukrayna'daki Rus saldırısının ardından enkaz altından yedi yaşında bir çocuk canlı olarak kurtarıldı.",
+     "de": "Ein siebenjähriger Junge wurde nach einem russischen Angriff in der Ukraine lebend aus den Trümmern gezogen."
+    }
+   },
+   {
     "time": "2026-11-23T04:16:18+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html",
@@ -26,7 +44,17 @@
   ]
  },
  "seen": [
+  "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+  "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
+  "https://www.spiegel.de/kultur/literatur/buecher-von-peter-hahne-und-ulf-poschardt-werden-bestseller-aber-ist-das-wutbuch-wirklich-eine-erfindung-der-rechten-a-7aaa47c8-8562-466e-818a-f026535d5668#ref=rss",
+  "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
+  "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+  "https://www.theguardian.com/australia-news/2026/nov/23/beau-lamarre-condon-trail-executed-jesse-baird-prosecution-argues-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
+  "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
+  "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
   "https://www.welt.de/politik/ausland/article6b03bc5639a3e8110f0e744c/iowa-us-armee-plant-trotz-gerichtsstopp-sprengung-gefaehrlicher-chemikalien.html"
  ]
 }
