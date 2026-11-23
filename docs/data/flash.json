@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-23T06:25+01:00",
+ "updatedAt": "2026-11-23T06:55+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-23T06:31:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
+    "text": {
+     "tr": "Almanya Meteoroloji Servisi, pazartesi günü yollarda buzlanma ve kar yağışı görülebileceği konusunda uyardı.",
+     "de": "Der Deutsche Wetterdienst warnt am Montag vielerorts vor glatten Straßen, Schnee und Temperaturen bis zu minus fünf Grad."
+    }
+   },
    {
     "time": "2026-11-23T06:00:06+01:00",
     "source": "tagesschau",
@@ -22,6 +31,15 @@
     }
    },
    {
+    "time": "2026-11-23T05:30:00+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/rhein-main/region-und-hessen/rheingau-taunus-kreis-fast-alle-kommunen-mit-haushaltsdefizit-accg-201701700.html",
+    "text": {
+     "tr": "Vergi Mükellefleri Birliği'nin analizine göre Rheingau-Taunus bölgesindeki neredeyse tüm belediyeler bütçe açığıyla karşı karşıya.",
+     "de": "Laut einer Analyse des Bundes der Steuerzahler weisen fast alle Kommunen im Rheingau-Taunus-Kreis ein Haushaltsdefizit auf."
+    }
+   },
+   {
     "time": "2026-11-23T05:22:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
@@ -32,6 +50,15 @@
    }
   ],
   "world": [
+   {
+    "time": "2026-11-23T06:52:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
+    "text": {
+     "tr": "İsrail'de hükümeti kurmakla görevlendirilen Gadi Eisenkot ile Netanyahu'nun partisi Likud arasındaki görüşmeler yine sonuçsuz kaldı.",
+     "de": "In Israel endeten die Regierungsgespräche zwischen dem beauftragten Gadi Eisenkot und Netanyahus Likud-Partei erneut ohne Einigung."
+    }
+   },
    {
     "time": "2026-11-23T05:15:06+00:00",
     "source": "BBC News World",
@@ -71,6 +98,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-23T08:20:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010720/cumhurbaskanligi-kabinesi-bugun-toplaniyor-emekli-maaslari-asgari-ucret-ve-fon-sorusturmasi-masada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Cumhurbaşkanlığı Kabinesi bugün Cumhurbaşkanı Erdoğan başkanlığında emekli maaşları, asgari ücret ve fon soruşturmasını görüşmek üzere toplanıyor.",
+     "de": "Das türkische Kababinett tagt heute unter der Leitung von Präsident Erdoğan, um über Rentenerhöhungen, den Mindestlohn und Fondsermittlungen zu beraten."
+    }
+   },
+   {
     "time": "2026-11-23T08:09:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010719/ara-tatil-bitti-istanbul-da-trafik-yogunlugu-artti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -86,12 +122,20 @@
   "https://tr.euronews.com/2026/11/23/teknoloji-ve-yapay-zeka-hisseleri-wall-street-satisi-asyaya-yayildi",
   "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
   "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
+  "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+  "https://www.dw.com/tr/yeni-parti-nin-komisyon-kararı-dem-parti-ile-yol-ayrımı-mı/a-80015625",
   "https://www.evrensel.net/haber/6010719/ara-tatil-bitti-istanbul-da-trafik-yogunlugu-artti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010720/cumhurbaskanligi-kabinesi-bugun-toplaniyor-emekli-maaslari-asgari-ucret-ve-fon-sorusturmasi-masada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
+  "https://www.faz.net/aktuell/finanzen/msci-world-etf-oder-anleihen-was-experten-raten-accg-201688448.html",
+  "https://www.faz.net/aktuell/politik/ausland/frankreich-jean-luc-melenchons-liebstes-feindbild-heisst-deutschland-201699870.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/rheingau-taunus-kreis-fast-alle-kommunen-mit-haushaltsdefizit-accg-201701700.html",
   "https://www.faz.net/aktuell/sport/sportpolitik/gregor-gysi-im-interview-ueber-parallelen-zwischen-judo-und-politik-accg-201691504.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/wer-wird-nachfolger-von-hubert-aiwanger-f-a-z-fruehdenker-201707539.html",
+  "https://www.spiegel.de/ausland/israel-gadi-eisenkot-und-netanyahus-partei-verhandeln-erneut-ohne-ergebnis-a-10b7b368-76d9-449a-8dc7-e6f0ecd1048e#ref=rss",
   "https://www.spiegel.de/kultur/literatur/buecher-von-peter-hahne-und-ulf-poschardt-werden-bestseller-aber-ist-das-wutbuch-wirklich-eine-erfindung-der-rechten-a-7aaa47c8-8562-466e-818a-f026535d5668#ref=rss",
   "https://www.spiegel.de/netzwelt/web/black-friday-und-black-week-so-finden-sie-mit-ki-tools-wie-chatgpt-echte-angebote-a-dfce1d89-b147-4631-952a-3ca4ffc24077#ref=rss",
+  "https://www.spiegel.de/panorama/wetter-in-deutschland-am-montag-vorsicht-vor-glatten-strassen-und-schnee-a-044db7e3-ca32-4e87-a8b9-986780ca4ee5#ref=rss",
   "https://www.spiegel.de/politik/deutschland/eu-parlament-erlebt-die-brandmauer-in-bruessel-ein-comeback-a-8c5dfa3d-9070-4924-a891-919d5398f45a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-markus-soeder-will-kalte-progression-ausgleichen-klimakonferenz-zurecht-gescheitert-pressefreiheit-in-der-tuerkei-a-4890e582-898f-4c5b-b4ce-526c57e443b1#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-ferrari-rennleiter-nennt-verhalten-von-hamilton-und-leclerc-inakzeptabel-a-ce098dd7-6822-4daf-a72b-a7032984d304#ref=rss",
