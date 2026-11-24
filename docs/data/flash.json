@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T00:21+01:00",
+ "updatedAt": "2026-11-25T00:51+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-24T23:31:22+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
+    "text": {
+     "tr": "New York'ta bir jüri, Çinli telekom devi Huawei'yi ticari sır hırsızlığından suçlu buldu.",
+     "de": "Ein Geschworenengericht in New York hat den chinesischen Telekommunikationsriesen Huawei des Diebstahls von Geschäftsgeheimnissen schuldig gesprochen."
+    }
+   },
+   {
     "time": "2026-11-24T23:06:43+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "İngiltere Başbakanı Burnham, nükleer bomba denemesi gazilerinin kayıtları için soruşturma başlattı.",
      "de": "Der britische Premier Burnham hat eine Untersuchung zu den Akten von Veteranen britischer Atombombentests eingeleitet."
-    }
-   },
-   {
-    "time": "2026-11-24T22:30:01+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
-    "text": {
-     "tr": "New York yüksek mahkemesi, sosyal medya şirketlerinin Buffalo'daki toplu saldırıdan sorumlu olmadığını kararlaştırdı.",
-     "de": "New Yorks oberstes Gericht hat entschieden, dass Social-Media-Konzerne nicht für den Massenmord in Buffalo haften."
     }
    }
   ]
@@ -795,6 +795,7 @@
   "https://www.faz.net/video/zeit-der-weihnachtsmaerkte-hat-begonnen-201712168.html",
   "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
   "https://www.france24.com/en/americas/20261124-jensen-huang-s-return-has-calmed-markets-but-fears-of-an-ai-bubble-still-run-deep",
+  "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
   "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
   "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
   "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
@@ -1002,6 +1003,7 @@
   "https://www.theguardian.com/uk-news/2026/nov/24/isiah-noel-williams-barnet-footballer-charged-with-rape",
   "https://www.theguardian.com/uk-news/2026/nov/24/man-admits-murdering-soham-killer-ian-huntley-jail",
   "https://www.theguardian.com/uk-news/2026/nov/24/southport-attack-survivors-miss-out-on-school-funding",
+  "https://www.theguardian.com/uk-news/2026/nov/24/thomas-markle-indicted",
   "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
   "https://www.theguardian.com/uk-news/2026/nov/24/under-16s-social-media-ban-disrupt-sites-no-risk-uk-tech-industry",
   "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
