@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T04:18+01:00",
+ "updatedAt": "2026-11-24T04:48+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-24T06:09:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010898/mersin-de-zincir-markette-silahli-saldiri-calisan-kadin-bacaklarindan-vuruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Mersin'in Silifke ilçesindeki bir markette silahlı saldırıya uğrayan kadın çalışan bacaklarından yaralandı.",
+     "de": "Eine Supermarktangestellte wurde bei einem bewaffneten Angriff in Mersin am Bein verletzt."
+    }
+   },
+   {
     "time": "2026-11-24T05:56:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6010897/urfa-da-is-cinayeti-yem-karma-makinesine-dusen-22-yasindaki-gocmen-coban-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Başakşehir'in 23 yaşındaki stoperi Emin Bayram, Çorum FK maçında yaşadığı sakatlık nedeniyle sezonu kapattı.",
      "de": "Başakşehir-Innenverteidiger Emin Bayram fällt wegen einer Verletzung für den Rest der Saison aus."
-    }
-   },
-   {
-    "time": "2026-11-24T01:02:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010895/elektronik-belge-uygulamalarinda-yeni-duzenleme-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Gelir İdaresi Başkanlığı, e-Arşiv Fatura kanallarını genişleterek belirli şartlardaki hekimlerin POS cihazı bulundurma zorunluluğunu kaldırdı.",
-     "de": "Die Steuerverwaltung hat die Kanäle für e-Archiv-Rechnungen erweitert und die POS-Pflicht für Ärzte unter bestimmten Bedingungen abgeschafft."
     }
    }
   ]
@@ -588,7 +588,9 @@
   "https://www.evrensel.net/haber/6010895/elektronik-belge-uygulamalarinda-yeni-duzenleme-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010896/basaksehir-in-stoperi-emin-bayram-sakatligi-nedeniyle-sezonu-kapatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010897/urfa-da-is-cinayeti-yem-karma-makinesine-dusen-22-yasindaki-gocmen-coban-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010898/mersin-de-zincir-markette-silahli-saldiri-calisan-kadin-bacaklarindan-vuruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
+  "https://www.faz.net/aktuell/besser-leben/psychologie/ich-bin-halt-keine-zehn-von-zehn-wie-man-mit-mangelnder-selbstliebe-umgeht-accg-201623271.html",
   "https://www.faz.net/aktuell/besser-leben/stil/bauhaus-und-italienische-avantgarde-zwei-designgalerien-in-der-berliner-mommsenstrasse-201614634.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/50-todestag-andre-malraux-accg-201705805.html",
@@ -863,6 +865,7 @@
   "https://www.tagesschau.de/investigativ/ndr-wdr/satellit-russland-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/satelliten-ausfall-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/taliban-konsulat-bonn-100.html",
+  "https://www.tagesschau.de/kultur/internationaler-emmy-mrf-ard-100.html",
   "https://www.tagesschau.de/ukraine-angriffe-ostsee-libyen-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-wacklig-nach-kursrutsch-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-172.html",
