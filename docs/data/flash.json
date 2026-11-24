@@ -1,8 +1,17 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-24T06:51+01:00",
+ "updatedAt": "2026-11-24T07:21+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-24T07:10:00+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gruene-angriff-nrw-schwerte-100.html",
+    "text": {
+     "tr": "Kuzey Ren-Vestfalya'nın Schwerte kentindeki Yeşiller Partisi toplantısı maskeli bir kişi tarafından basıldı ve 3 kişi yaralandı.",
+     "de": "In Schwerte in Nordrhein-Westfalen hat eine maskierte Person eine Fraktionssitzung der Grünen gestürmt und drei Menschen verletzt."
+    }
+   },
    {
     "time": "2026-11-24T06:35:28+01:00",
     "source": "tagesschau",
@@ -38,18 +47,18 @@
      "tr": "CDU Genel Sekreteri Franziska Hoppermann, koalisyon ortağı SPD'yi emeklilik reformunu geciktirmekle suçladı.",
      "de": "CDU-Generalsekretärin Franziska Hoppermann wirft dem Koalitionspartner SPD vor, die notwendige Rentenreform zu verschleppen."
     }
-   },
-   {
-    "time": "2026-11-24T04:41:02+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
-    "text": {
-     "tr": "Rusya'ya ait bir drone kısa süreliğine Polonya hava sahasına girdi ve bölgede alarm durumuna neden oldu.",
-     "de": "Eine russische Drohne drang kurzzeitig in den polnischen Luftraum ein und löste dort Luftalarm aus."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-24T09:14:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/son-dakika-fon-sorusturmasinda-yeni-gelisme-4-kisi-tutuklandi-2558804",
+    "text": {
+     "tr": "Sermaye piyasası işlemlerine yönelik fon soruşturmasında gözaltına alınan 6 şüpheliden 4'ü tutuklandı.",
+     "de": "Vier von sechs Verdächtigen wurden im Rahmen von Ermittlungen zu Kapitalmarkttransaktionen festgenommen und in Untersuchungshaft geschickt."
+    }
+   },
    {
     "time": "2026-11-24T08:35:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -85,15 +94,6 @@
      "tr": "Eski belediye başkanı Savcı Sayan, Tarfin Tarım'da yaşanan gelişmeler nedeniyle 400 bin çiftçinin haciz riskiyle karşılaşabileceğini iddia etti.",
      "de": "Der ehemalige Bürgermeister Savcı Sayan warnt, dass durch Vorfälle bei Tarfin Tarım bis zu 400.000 Landwirte von Pfändungen bedroht sein könnten."
     }
-   },
-   {
-    "time": "2026-11-24T05:30:05+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/24/nvidiaya-donen-jensen-huang-borsalar-yukseldi-yatirimci-iyimserligi-artti",
-    "text": {
-     "tr": "Jensen Huang'ın Nvidia CEO'luğuna dönmesiyle şirket hisseleri yüzde 30 artış kaydetti.",
-     "de": "Nach der Rückkehr von Jensen Huang als CEO von Nvidia stiegen die Aktien des Chipkonzerns um 30 Prozent."
-    }
    }
   ],
   "world": [
@@ -107,6 +107,33 @@
     }
    },
    {
+    "time": "2026-11-24T06:00:07+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
+    "text": {
+     "tr": "Meta, kullanıcıların alışveriş gibi görevleri yerine getirmesini sağlayan yapay zeka ajanı Muse'u Birleşik Krallık'ta kullanıma sundu.",
+     "de": "Meta hat seinen KI-Assistenten Muse im Vereinigten Königreich eingeführt, um Nutzern bei Aufgaben wie Weihnachtseinkäufen zu helfen."
+    }
+   },
+   {
+    "time": "2026-11-24T05:54:14+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
+    "text": {
+     "tr": "Malezya, cuntanın zulmettiğini kabul etmesine rağmen binlerce mülteciyi Myanmar'a geri göndereceğini açıkladı.",
+     "de": "Malaysia hat angekündigt, trotz der Gewalt durch die Junta in Naypyidaw Tausende Migranten und Flüchtlinge nach Myanmar zurückzubringen."
+    }
+   },
+   {
+    "time": "2026-11-24T05:50:16+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
+    "text": {
+     "tr": "Trablus yönetimi, Ukrayna'nın Libya sularındaki Rus gemilerini vurması nedeniyle Kiev'den açıklama talep etti.",
+     "de": "Die Regierung in Tripolis hat von Kiew eine Erklärung für ukrainische Drohnenangriffe auf zwei russische Schiffe in libyschen Gewässern gefordert."
+    }
+   },
+   {
     "time": "2026-11-24T05:33:07+00:00",
     "source": "BBC News World",
     "url": "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
@@ -114,37 +141,26 @@
      "tr": "Hindistanlı siyasetçi Saurav Das, Delhi Havalimanı'nda pasaportunun işaretlendiği gerekçesiyle İngiltere'ye uçuşunun engellendiğini söyledi.",
      "de": "Der indische Parteiführer Saurav Das erklärte, Einreisebehörden am Flughafen Delhi hätten ihn am Flug nach Großbritannien gehindert."
     }
-   },
-   {
-    "time": "2026-11-24T05:23:38+01:00",
-    "source": "tagesschau Ausland",
-    "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
-    "text": {
-     "tr": "Güney Kore güvenlik makamları, sabah saatlerinde ülkenin hava savunma bölgesine çok sayıda Rus askeri uçağının girdiğini bildirdi.",
-     "de": "Mehrere russische Militärflugzeuge sind nach Angaben südkoreanischer Sicherheitsbehörden in die Luftverteidigungszone des Landes eingedrungen."
-    }
-   },
-   {
-    "time": "2026-11-24T04:36:31+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump'ın Nvidia'yı CEO Jensen Huang'ı yeniden göreve getirmeye ikna ettiğini söylemesi tepkilere yol açtı.",
-     "de": "Donald Trump sieht sich Kritik ausgesetzt, nachdem er erklärt hatte, er habe Nvidia zur Wiedereinstellung von CEO Jensen Huang überzeugt."
-    }
    }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/24/avrupanin-buyuk-otel-sadakat-programlari-puan-mil-ve-ayricaliklar",
+  "https://tr.euronews.com/2026/11/24/cop31-iklim-anlasmasi-olmadan-sona-erdi-bazilari-bunda-umut-goruyor",
   "https://tr.euronews.com/2026/11/24/jensen-huang-nvidiaya-dondu-avrupanin-yapay-zeka-hisseleri-sicradi",
   "https://tr.euronews.com/2026/11/24/kalp-krizi-ve-felc-riski-uyari-isaretleri-30-yil-once-ortaya-cikabiliyor",
+  "https://tr.euronews.com/2026/11/24/kartal-belediyesine-kentsel-donusum-operasyonu-10-supheli-gozaltinda",
+  "https://tr.euronews.com/2026/11/24/nvidiada-jensen-huang-geri-dondu-avrupanin-yapay-zeka-hisseleri-sicradi",
   "https://tr.euronews.com/2026/11/24/nvidiaya-donen-jensen-huang-borsalar-yukseldi-yatirimci-iyimserligi-artti",
   "https://tr.euronews.com/2026/11/24/ukrayna-rusyanin-jet-motorlu-ihasini-yeni-onleme-sistemiyle-dusurdu",
   "https://tr.euronews.com/2026/11/24/visegrad-dortlusu-liderlerinden-abnin-yeni-butce-taslagina-itiraz",
   "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
   "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+  "https://www.cumhuriyet.com.tr/siyaset/son-dakika-fon-sorusturmasinda-yeni-gelisme-4-kisi-tutuklandi-2558804",
+  "https://www.cumhuriyet.com.tr/spor/baris-gokturk-ten-baskanlik-iddialarina-yanit-aziz-yildirim-in-oldugu-hicbir-yerde-2558803",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-24-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2558801",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kartal-belediyesi-ne-operasyon-10-kisi-gozaltina-alindi-2558802",
+  "https://www.dw.com/tr/i̇stanbul-valiliği-sarıyer-de-aranan-hayvan-aslan-değil/a-80016071",
   "https://www.dw.com/tr/i̇stanbul-valiliği-sarıyer-de-aranan-hayvan-aslan-değilmiş/a-80016071",
   "https://www.dw.com/tr/schengen-vizesinde-yeni-adım-altı-kriter-meclise-geliyor/a-80022509",
   "https://www.evrensel.net/haber/6010901/savci-sayan-dan-fon-vurgununda-yeni-iddia-tarfin-tarim-da-400-bin-ciftci-magdur-olabilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -159,23 +175,33 @@
   "https://www.faz.net/aktuell/politik/inland/bundeswehr-geloebnisse-vor-parlamenten-warum-die-linke-falsch-liegt-201709550.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/ueberhoehte-mieten-frankfurter-wohnungsamt-korrigiert-fehlerhafte-daten-accg-201702465.html",
+  "https://www.faz.net/aktuell/rhein-main/wirtschaft/plaene-zu-outlet-im-loop5-in-weiterstadt-accg-201702070.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/beach-wrestling-bei-olympia-rettet-sand-das-ringen-eine-glosse-accg-201698126.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/reiten-das-steckt-hinter-der-millionen-serie-premier-jumping-league-accg-201705339.html",
   "https://www.faz.net/podcasts/wirft-die-berliner-linke-vanessa-emde-aus-der-fraktion-faz-fruehdenker-201710967.html",
+  "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
   "https://www.spiegel.de/ausland/rio-de-janeiro-rivalen-retten-aeltestes-restaurant-nach-kuechenbrand-a-e3e453f2-9f9b-4f93-a703-7186d1ef8c95#ref=rss",
   "https://www.spiegel.de/kultur/kino/nach-einem-daempfer-bricht-der-neue-hunger-games-film-rekorde-warum-ist-die-reihe-gerade-jetzt-wieder-so-erfolgreich-a-4a77d8bd-d3bf-4700-8886-5f88fd637797#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-berliner-linksfraktion-will-vanessa-emde-ausschliessen-irritation-ueber-markus-soeders-vorstoss-zur-kalten-progression-femizid-soll-ins-strafgesetzbuch-a-95f73901-9196-4dde-a781-c80010d12098#ref=rss",
   "https://www.spiegel.de/politik/deutschland/pflege-mehrheit-der-versicherten-fordert-grundlegende-reform-a-60f0353b-75d0-4bf0-89ae-52c51ab6578d#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/schwerte-bei-dortmund-unbekannter-stuermt-offenbar-gruenen-sitzung-mehrere-menschen-im-krankenhaus-a-0f296213-39b0-4fdf-a77a-f03707044024#ref=rss",
   "https://www.spiegel.de/sport/schach-weltmeister-dommaraju-gukesh-erklaert-seine-augen-schliesstechnik-a-2c06f462-01a5-4282-a6dd-c0975d15489a#ref=rss",
   "https://www.spiegel.de/wirtschaft/buerokratie-umfang-der-eu-regeln-hat-sich-binnen-15-jahren-verdoppelt-a-8b59d1a6-3a69-40e5-a3d2-e05b31f42be8#ref=rss",
   "https://www.spiegel.de/wissenschaft/mensch/schadet-e10-dem-motor-ein-experte-klaert-auf-a-e9b7b04d-5947-4f78-917b-a990cd01edcf#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
   "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+  "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/gruene-angriff-nrw-schwerte-100.html",
   "https://www.tagesschau.de/kultur/gta-6-104.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
+  "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
   "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
+  "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
+  "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
   "https://www.theguardian.com/world/2026/nov/24/ebikes-screens-and-failing-manners-pose-challenge-for-dutch-cycling-culture",
+  "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
   "https://www.welt.de/politik/article6b050e4b5842ff528b9e674c/drohungen-im-internet-regelrechte-hass-tsunamis-kloeckner-warnt-vor-digitaler-gewalt-gegen-frauen.html",
-  "https://www.welt.de/politik/deutschland/article6b051db75842ff528b9e67da/koalitions-streit-schweitzer-soll-mehr-mut-zeigen-hoppermann-wirft-spd-verschleppen-von-rentenreform-vor.html"
+  "https://www.welt.de/politik/deutschland/article6b051db75842ff528b9e67da/koalitions-streit-schweitzer-soll-mehr-mut-zeigen-hoppermann-wirft-spd-verschleppen-von-rentenreform-vor.html",
+  "https://www.welt.de/videos/video6b04843266a00c9ca1fe17f2/debatte-um-bayerns-musiala-rummenigge-hat-vollkommen-recht-und-der-normale-arbeitnehmerschutz-gilt-hier-nicht-mehr.html"
  ]
 }
