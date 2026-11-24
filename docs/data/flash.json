@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T01:48+01:00",
+ "updatedAt": "2026-11-24T02:18+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-24T00:55:43+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/kultur/article6b04db4a5842ff528b9e663c/hollywood-steven-spielberg-dreht-zum-ersten-mal-einen-western-mit-hochkaraetiger-besetzung.html",
+    "text": {
+     "tr": "Yönetmen Steven Spielberg, 2028'de vizyona girecek ilk western filmi için Paul Thomas Anderson ile çalışıyor.",
+     "de": "Regisseur Steven Spielberg verfilmt mit Paul Thomas Anderson seinen ersten Western, der 2028 in die Kinos kommen soll."
+    }
+   },
    {
     "time": "2026-11-24T00:19:08+00:00",
     "source": "Die Welt",
@@ -38,18 +47,18 @@
      "tr": "Schwerte'deki Yeşiller Partisi toplantısını basan maskeli bir saldırganın üç kişiyi yaraladığı bildirildi.",
      "de": "Ein maskierter Angreifer stürmte eine Sitzung der Grünen in Schwerte und verletzte Berichten zufolge drei Menschen."
     }
-   },
-   {
-    "time": "2026-11-23T22:09:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/fussball/ann-katrin-berger-nationaltorhueterin-wechselt-vom-us-club-gotham-fc-zu-union-berlin-a-6b31424e-43a2-4929-af19-fbd4940d83b0#ref=rss",
-    "text": {
-     "tr": "Almanya Milli Takımı kalecisi Ann-Katrin Berger, ABD ekibi Gotham FC'den Union Berlin'e transfer oldu.",
-     "de": "Nationaltorhüterin Ann-Katrin Berger wechselt vom US-Klub Gotham FC zum Bundesligisten Union Berlin."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-24T01:53:40+01:00",
+    "source": "tagesschau Ausland",
+    "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+    "text": {
+     "tr": "El Salvador Devlet Başkanı Bukele, BM yetkisi olmadan Haiti'ye gönderdiği binlerce askerle şiddete müdahale etti.",
+     "de": "El Salvadors Präsident Bukele griff mit Tausenden Soldaten ohne UN-Mandat in Haiti ein, um gegen die Gewalt vorzugehen."
+    }
+   },
    {
     "time": "2026-11-24T00:33:33+00:00",
     "source": "FAZ Nachrichten",
@@ -85,18 +94,27 @@
      "tr": "Yeşil Parti lideri Zack Polanski, İngiltere'nin NATO üyeliğini ve nükleer silahların korunmasını destekleyen bir raporu onayladı.",
      "de": "Der britische Grünen-Chef Zack Polanski hat einen Bericht gebilligt, der die Nato-Mitgliedschaft und die Beibehaltung von Atomwaffen befürwortet."
     }
-   },
-   {
-    "time": "2026-11-24T00:01:00+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/environment/2026/nov/24/robert-macfarlane-trust-cop-climate-summit-deliver-change-misplaced",
-    "text": {
-     "tr": "Doğa yazar Robert Macfarlane, 31. BM iklim zirvesinin anlaşmaya varamamasının ardından iklim zirvelerine duyulan güvenin yersiz olduğunu söyledi.",
-     "de": "Der Naturautor Robert Macfarlane bezeichnete das Vertrauen in UN-Klimagipfel nach dem Scheitern der COP31 als verfehlt."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-24T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/akp-de-cumhurbaskanligi-hukumet-sistemi-tartismasi-gevsetilmesi-kacinilmaz-2558726",
+    "text": {
+     "tr": "AKP'de, Cumhurbaşkanlığı Hükümet Sistemi'nin ittifak zorunluluğunu kaldıracak şekilde gevşetilmesi tartışılıyor.",
+     "de": "In der AKP wird über eine Lockerung des Präsidialregierungssystems diskutiert, um den Zwang zu Bündnissen abzuschaffen."
+    }
+   },
+   {
+    "time": "2026-11-24T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/atamalarla-ilgili-onergeler-reddedildi-yasa-teklifleri-bekletiliyor-ogretmenler-meclis-i-bekliyor-2558738",
+    "text": {
+     "tr": "Muhalefetin 100 bin öğretmen atamasına yönelik ek bütçe önergeleri Meclis'te reddedildi.",
+     "de": "Die Anträge der Opposition im Parlament auf ein Zusatzbudget für die Ernennung von 100.000 Lehrkräften wurden abgelehnt."
+    }
+   },
    {
     "time": "2026-11-24T01:43:00+03:00",
     "source": "Evrensel",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Kocaeli'de etkili olan kuvvetli rüzgar ve şiddetli sağanak yağış nedeniyle çok sayıda cadde ve otoparkı su bastı.",
      "de": "Heftige Unwetter und starke Regenfälle haben in der türkischen Provinz Kocaeli zahlreiche Straßen und Parkplätze überflutet."
-    }
-   },
-   {
-    "time": "2026-11-24T00:26:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/vergi-harc-ve-cezalara-ne-kadar-zam-gelecek-resmi-gazete-de-yayimlandi-yeniden-degerleme-orani-belli-oldu-2558797",
-    "text": {
-     "tr": "Türkiye'de 2026 yılı için vergi, harç ve cezaları belirleyen yeniden değerleme oranı yüzde 27,83 olarak Resmi Gazete'de yayımlandı.",
-     "de": "In der Türkei wurde die neue Wiederbewertungsquote für Steuern, Gebühren und Strafen im Amtsblatt mit 27,83 Prozent festgelegt."
-    }
-   },
-   {
-    "time": "2026-11-24T00:20:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/28-kisinin-oldugu-gemi-faciasinda-yeni-gelisme-400-tl-lik-yapistiriciyla-tamir-edildigi-ortaya-cikti-2558796",
-    "text": {
-     "tr": "Kuzey Kıbrıs'ta 28 kişinin öldüğü gemi faciası davasında, geminin seferlerin aksamaması için 400 liralık yapıştırıcıyla tamir edildiği ortaya çıktı.",
-     "de": "Im Prozess zum Schiffsunglück mit 28 Toten in Nordzypern kam heraus, dass das Schiff mit Kleber repariert worden war."
     }
    }
   ]
@@ -329,18 +329,22 @@
   "https://www.cumhuriyet.com.tr/turkiye/45-milyon-tl-yi-asan-para-hareketi-zonguldak-merkezli-7-ilde-dolandiricilik-operasyonu-gozaltilar-var-2558617",
   "https://www.cumhuriyet.com.tr/turkiye/5-yasindaki-cocuga-cinsel-tacizde-bulundu-supheli-yakalanarak-gozaltina-alindi-2558776",
   "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-erzurum-da-deprem-2558739",
+  "https://www.cumhuriyet.com.tr/turkiye/akp-de-cumhurbaskanligi-hukumet-sistemi-tartismasi-gevsetilmesi-kacinilmaz-2558726",
   "https://www.cumhuriyet.com.tr/turkiye/ankara-buyuksehir-belediyesi-nin-2027-butcesi-oy-birligiyle-kabul-edildi-2558792",
   "https://www.cumhuriyet.com.tr/turkiye/ankara-da-vurularak-oldurulmustu-anne-bozayinin-yavrusunu-emzirdigi-goruntuler-ortaya-cikti-2558715",
   "https://www.cumhuriyet.com.tr/turkiye/araci-camura-saplandi-yardim-istemeye-gitti-mehmet-ali-goksu-dan-haber-alinamiyor-2558615",
   "https://www.cumhuriyet.com.tr/turkiye/aslan-oldugu-iddiasiyla-ihbar-yapilan-hayvanin-yeni-goruntusu-ortaya-cikti-2558791",
+  "https://www.cumhuriyet.com.tr/turkiye/atamalarla-ilgili-onergeler-reddedildi-yasa-teklifleri-bekletiliyor-ogretmenler-meclis-i-bekliyor-2558738",
   "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-saganak-asfalt-coktu-3-kamyon-ve-1-kamyonet-cukura-dustu-2558795",
   "https://www.cumhuriyet.com.tr/turkiye/baygaralar-sorusturmasinda-90-supheli-tutuklandi-2558744",
   "https://www.cumhuriyet.com.tr/turkiye/cumhurbaskanligi-kabinesi-toplandi-2558675",
   "https://www.cumhuriyet.com.tr/turkiye/dere-kenarinda-supheli-olum-coplerin-arasinda-cesedi-bulundu-2558619",
   "https://www.cumhuriyet.com.tr/turkiye/diyarbakir-da-yogun-sis-ulasimi-olumsuz-etkiledi-2558525",
+  "https://www.cumhuriyet.com.tr/turkiye/dogalgaz-anlasmalarindaki-hukumler-anlasmanin-suresi-bitse-bile-aciklanmayacakmis-hicbir-zaman-ogrenilemeyecek-2558734",
   "https://www.cumhuriyet.com.tr/turkiye/fatih-te-tramvay-ile-otobus-carpisti-14-kisi-yaralandi-kaza-aninin-goruntusu-ortaya-cikti-2558725",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-4-supheliye-tutuklama-talebi-2558777",
   "https://www.cumhuriyet.com.tr/turkiye/gulistan-doku-sorusturmasinda-tutuklu-polis-hakan-yalcin-in-ifadesi-ortaya-cikti-zarfla-para-trafigi-2558708",
+  "https://www.cumhuriyet.com.tr/turkiye/hizbuttahrir-laik-cumhuriyete-karsi-yeni-bir-propaganda-calismasi-baslatti-laiklige-karsi-seriat-propagandasi-2558724",
   "https://www.cumhuriyet.com.tr/turkiye/istanbul-valiligi-nden-aslan-ihbari-aciklamasi-hayvanin-aslan-veya-diger-buyuk-kedi-turlerinden-biri-olmadigi-degerlendirilmistir-2558767",
   "https://www.cumhuriyet.com.tr/turkiye/izmir-buyuksehir-belediye-meclisi-nde-akp-ye-gecis-protestosu-uc-kisi-fenalasti-2558674",
   "https://www.cumhuriyet.com.tr/turkiye/jandarma-9-bin-uzman-erbas-alimi-basvurulari-ne-zaman-2027-jandarma-uzman-erbas-alimi-sartlari-neler-nasil-yapilir-2558528",
@@ -349,6 +353,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/kotu-koku-harekete-gecirdi-yatalak-hastanin-esinin-cesediyle-3-gun-yasadigi-ortaya-cikti-2558786",
   "https://www.cumhuriyet.com.tr/turkiye/mus-merkezli-tefecilik-operasyonu-34-supheli-yakalandi-2558707",
   "https://www.cumhuriyet.com.tr/turkiye/nevsehir-de-arkadaslar-arasinda-kanli-kavga-bir-kisi-agir-yaralandi-birinin-kulagi-koptu-2558526",
+  "https://www.cumhuriyet.com.tr/turkiye/ogretmenler-gunlerini-umutsuz-karsiliyor-yuzde-99-u-mesleginin-degerini-yitirdigini-dusunuyor-2558731",
   "https://www.cumhuriyet.com.tr/turkiye/ormanlik-alanda-kulubeye-saklandi-operasyonla-yakalandi-2558799",
   "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-da-traktorunu-tamir-ederken-altinda-kalan-kisi-hayatini-kaybetti-2558612",
   "https://www.cumhuriyet.com.tr/turkiye/sariyer-de-kaybolan-aslanin-bir-gorgu-tanigi-daha-konustu-kesinlikle-bir-villada-bakiliyor-2558616",
@@ -356,10 +361,13 @@
   "https://www.cumhuriyet.com.tr/turkiye/sinif-arkadasina-maket-bicagiyla-saldirdi-sah-damarina-1-santimetre-kalmis-2558716",
   "https://www.cumhuriyet.com.tr/turkiye/sir-cinayet-cozuldu-miras-icin-babasini-oldurttugu-ortaya-cikti-2558720",
   "https://www.cumhuriyet.com.tr/turkiye/tiktok-ta-canakkale-savasi-ni-oyuna-cevirdiler-begeni-gonderen-cephane-tasiyor-yorum-yazan-ates-aciyor-2558611",
+  "https://www.cumhuriyet.com.tr/turkiye/trt-de-dis-yapimlara-ne-kadar-para-odendiginin-soylenmemesine-garip-gerekce-aciklanmasi-fayda-saglamazmis-2558736",
+  "https://www.cumhuriyet.com.tr/turkiye/uluslararasi-basin-tarihin-en-kotu-cop-u-olarak-adlandirdi-iktidar-cop31-i-de-elini-yuzune-bulastirdi-2558728",
   "https://www.cumhuriyet.com.tr/turkiye/umit-ozlale-fon-sorusturmasinda-6-nci-dosyayi-acikliyor-unsal-ban-dugumu-malta-daki-alici-hesabi-kime-ait-2558642",
   "https://www.cumhuriyet.com.tr/turkiye/vergi-harc-ve-cezalara-ne-kadar-zam-gelecek-resmi-gazete-de-yayimlandi-yeniden-degerleme-orani-belli-oldu-2558797",
   "https://www.cumhuriyet.com.tr/turkiye/yakalanacagini-anlayinca-kendini-vurdu-hayatini-kaybetti-2558723",
   "https://www.cumhuriyet.com.tr/turkiye/yasa-disi-bahis-operasyonunda-2-5-milyar-liralik-islem-hacmi-18-tutuklama-2558671",
+  "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-komisyon-kararina-gelen-tepkileri-nasil-degerlendiriyor-ilkesel-bir-tutum-2558729",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-tasyapi-nin-sisli-de-yukselen-usulsuz-projesi-onunde-basin-aciklamasi-yapti-kent-suclarina-bir-yenisini-ekleyecekler-2558613",
   "https://www.cumhuriyet.com.tr/tv-rehberi/alti-ustu-istanbul-dizisinin-son-bolumunde-ne-oldu-alti-ustu-istanbul-dizisinin-yeni-bolumu-ne-zaman-2558705",
   "https://www.cumhuriyet.com.tr/tv-rehberi/caylak-filminin-konusu-ne-caylak-filminin-oyunculari-kim-2558750",
@@ -372,6 +380,10 @@
   "https://www.cumhuriyet.com.tr/yasam/gozenekleri-kucultuyor-diye-surulen-o-sikilastirici-tonikler-cildin-nem-dengesini-bozuyor-2558763",
   "https://www.cumhuriyet.com.tr/yasam/grip-asisiyla-ilgili-merak-edilen-10-soru-2558672",
   "https://www.cumhuriyet.com.tr/yasam/istanbul-da-aslan-alarmi-arama-bolgesine-aslan-kostumuyle-geldi-2558679",
+  "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/kapitalizm-bile-oligarsiye-ve-sansure-karsi-2558761",
+  "https://www.cumhuriyet.com.tr/yazarlar/mehmet-sakir-ors/otoriterligi-asmak-2558762",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/46-yildonumunde-ogretmenler-gunu-duran-guldemir-2558759",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/o-dersi-simdi-daha-iyi-anliyorum-cengiz-kuday-2558758",
   "https://www.dw.com/en/after-japan-s-apec-snub-what-s-next-for-its-china-ties/a-80020823",
   "https://www.dw.com/en/german-police-respond-to-multiple-school-bomb-threats/a-80018842",
   "https://www.dw.com/en/nepal-s-new-pm-eyes-closer-ties-with-india-amid-lingering-disputes/a-80021769",
@@ -818,6 +830,7 @@
   "https://www.tagesschau.de/ausland/afrika/angriff-russisches-kriegsschiff-libyen-100.html",
   "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
   "https://www.tagesschau.de/ausland/afrika/russisches-schiff-libyen-100.html",
+  "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
   "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-schneider-100.html",
   "https://www.tagesschau.de/ausland/europa/klimakonferenz-scheitern-verantwortung-100.html",
   "https://www.tagesschau.de/ausland/europa/loewe-istanbul-100.html",
@@ -935,6 +948,7 @@
   "https://www.welt.de/iconist/gesellschaft/plus6b03144225b618a0b5d5c135/russell-brand-sie-waren-klug-und-charismatisch-wie-er-zum-taeter-wurde.html",
   "https://www.welt.de/iconist/gesellschaft/plus6b03144225b618a0b5d5c135/russell-brand-warum-die-comedy-branche-bei-sexismus-wegsah.html",
   "https://www.welt.de/kultur/article6afda873ff9ae12be89e0ed0/blade-runner-2099-bei-prime-video-die-vollendung-der-ki-revolution.html",
+  "https://www.welt.de/kultur/article6b04db4a5842ff528b9e663c/hollywood-steven-spielberg-dreht-zum-ersten-mal-einen-western-mit-hochkaraetiger-besetzung.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-kann-nur-antifeminismus-sein-erklaert-die-bundeszentrale.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-muss-antifeminismus-sein-erklaert-die-bundeszentrale.html",
   "https://www.welt.de/kultur/plus6afc64dfcdc4b5009f0a8f9a/generation-alpha-was-passiert-wenn-meine-tochter-eine-mutter-hat-die-gar-nicht-mehr-sterben-wird.html",
