@@ -1,0 +1,709 @@
+{
+ "date": "2026-11-24",
+ "updatedAt": "2026-11-24T05:15+01:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "key": "9cadb8f6e49b15d6",
+   "overview": "Almanya gündemi bugün iç politikadaki koalisyon tartışmaları, Almanya'nın dış politika ve savunma alanındaki artan sorumlulukları ile uluslararası piyasalardaki hareketlilik ekseninde şekilleniyor. Federal Savunma Bakanı Boris Pistorius'un Ukrayna ile askeri iş birliğini ve insansız hava aracı üretimini derinleştirme mesajları dikkat çekerken, ekonomi kulislerinde OBI ve Toom'un dev birleşme hamlesi yankı uyandırdı. Öte yandan Berlin'de toplanan NATO Parlamenterler Asamblesi transatlantik güvenlik mimarisindeki kritik meydan okumaları ele aldı.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Almanya Ukrayna'da İHA üretimine hazırlanıyor",
+     "summary": "Federal Savunma Bakanı Boris Pistorius, Almanya ve Ukrayna'nın askeri alanda daha yakın çalışacağını ve Ukrayna için ortak insansız hava aracı üretileceğini açıkladı. Pistorius ayrıca, olası Rus saldırı planlarına karşı ihtiyatlı olunması çağrısında bulundu. Savaşın Baltık Denizi'ne sıçramaması gerektiğine dikkat çekti.",
+     "category": "Savunma",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+     "time": "2026-11-24T02:46:30+01:00"
+    },
+    {
+     "title": "Almanya genelinde çok sayıda okula bombalı tehdit mektubu",
+     "summary": "Freiburg, Erfurt ve Hamburg dahil olmak üzere Almanya genelindeki yüzlerce okul aynı içerikli tehdit mektupları aldı. Birçok okul tedbir amaçlı boşaltılırken, polis yetkilileri şu ana kadar somut bir tehlike bulgusuna rastlanmadığını bildirdi. Olayla ilgili geniş çaplı soruşturma başlatıldı.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
+     "time": "2026-11-23T15:13:20+01:00"
+    },
+    {
+     "title": "Yeşiller'den Berlin'deki koalisyon görüşmelerine temkinli yaklaşım",
+     "summary": "Yeşiller Partisi Eş Başkanı Franziska Brantner, Berlin'deki olası bir koalisyon hükümetine şüpheyle yaklaştığını belirtti. Brantner, Sol Parti'den Vanessa Emde'nin ihraç edilmesini talep ederek aksi takdirde bu ortaklığa onay vermeyeceklerini ifade etti. Yerel siyasetteki bu kriz koalisyon ihtimalini zora sokuyor.",
+     "category": "Politika",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b04d3d339a3e8110f0e96b0/berlin-brantner-sieht-kenia-koalition-skeptisch-und-fordert-ausschluss-von-emde-aus-linke-fraktion.html",
+     "time": "2026-11-24T00:19:08+00:00"
+    },
+    {
+     "title": "Bavyera'da Serbest Seçmenler liderliği paylaştırıyor",
+     "summary": "Hubert Aiwanger'in vefatının ardından Serbest Seçmenler partisi liderlik modelini değiştirerek görevleri böldü. Bavyera Ekonomi Bakanlığı'na Tobias Gotthardt getirilirken, parti genel merkezi bundan böyle bir ikili yönetim tarafından idare edilecek. Aiwanger'in ani kaybı parti içinde yeni bir dönemin kapısını araladı.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
+     "time": "2026-11-23T18:47:10+01:00"
+    },
+    {
+     "title": "Federal Adalet Bakanlığı'ndan kadcin cinayetleri için yasal düzenleme adımı",
+     "summary": "Federal Adalet Bakanı Hubig, kadınların ortakları veya eski ortakları tarafından katledilmesi vakalarının gelecekte basit adam öldürme (totschlag) yerine doğrudan cinayet (mord) olarak yargılanması için harekete geçti. Bu değişikliğin yargıda güçlü bir sinyal etkisi yaratması hedefleniyor. Mevcut yasalar bu tür suçlarda her zaman ömür boyu hapis cezasını garanti etmiyordu.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/justiz/femizide-sollen-als-mord-statt-als-totschlag-gelten-a-1844be5a-94c4-4dc9-a684-9cd2e2d32106#ref=rss",
+     "time": "2026-11-23T18:52:00+01:00"
+    },
+    {
+     "title": "Alman yapı market sektöründe dev birleşme: OBI ve Toom güçlerini birleştiriyor",
+     "summary": "Almanya'nın önde gelen yapı market zincirleri OBI ve Toom bir araya gelme kararı aldı. Bu hamleyle ülke genelindeki 600'den fazla şube tek çatı altında toplanacak ve Toom markası piyasadan kalkacak. Birleşmenin gerçekleşmesi için Federal Kartel Dairesi'nin onayı bekleniyor.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
+     "time": "2026-11-23T16:09:32+01:00"
+    },
+    {
+     "title": "Düşük gelirli haneler için enerji tasarrufu danışmanlığı uzatıldı",
+     "summary": "Federal Çevre Bakanlığı destekli elektrik tasarrufu kontrollerinin finansmanı üç yıl daha güvence altına alındı. Bu kapsamda dar gelirli haneler ücretsiz enerji danışmanlığı alabilecek ve çeşitli sübvansiyonlardan faydalanabilecek. Uygulama, hem bütçelere destek olmayı hem de enerji verimliliğini artırmayı amaçlıyor.",
+     "category": "Tüketici",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+     "time": "2026-11-23T21:11:45+01:00"
+    },
+    {
+     "title": "Almanya'da MİT uzmanlarına olan talep yeniden artışta",
+     "summary": "Ekonomik göstergelerdeki toparlanma Almanya iş gücü piyasasına da yansımaya başladı. ARD başkent stüdyosunun elde ettiği rapora göre, matematik, bilişim, doğa bilimleri ve teknoloji (MİT) alanlarındaki nitelikli eleman talebi 2023 yılından bu yana ilk kez yükselişe geçti.",
+     "category": "İstihdam",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mint-fachkraefte-steigende-nachfrage-100.html",
+     "time": "2026-11-23T15:41:00+01:00"
+    },
+    {
+     "title": "AB'den Çinli otom üreticisi BYD'ye model yasağı",
+     "summary": "Avrupa Birliği mahkemesi, Çinli otomobil devi BYD'nin Ti7 model SUV aracının satışını yasakladı. Gerekçe olarak aracın Land Rover Defender modeline fazlasıyla benzemesi gösterildi. Kararın ardından BYD hisseleri düşerken, şirket hukuki yollardan mücadele edeceğini duyurdu.",
+     "category": "Otomotiv",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnellikkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
+     "time": "2026-11-23T19:21:00+01:00"
+    },
+    {
+     "title": "Tüketicilerden 'Kara Cuma' alışverişlerinde dolandırıcılık uyarısı",
+     "summary": "Almanya'da perakende sektörünün rekora hazırlandığı Black Week ve Black Friday döneminde tüketici koruma örgütleri sahte indirimler ve dolandırıcılık tuzaklarına karşı uyarıda bulundu. %70'e varan cazip indirimlerin ardındaki fiyat oyunlarına dikkat çekildi.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
+     "time": "2026-11-23T10:33:43+01:00"
+    },
+    {
+     "title": "Batılı istihbarat birimlerinden uyarı: Rusya nükleer silahlı uydu fırlatabilir",
+     "summary": "Alman medyasının güvenlik kaynaklarına dayandırdığı haberlere göre, Batılı istihbarat örgütleri Rusya'nın yıl sonuna kadar uzaya nükleer başlıklı bir uydu yerleştireceğini tahmin ediyor. Bu durumun küresel uzay güvenliği açısından yeni bir kriz yaratabileceği vurgulanıyor.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Bericht-Geheimdieken-sehen-russischen-Satelliten-mit-Atomwaffe-kurz-vor-Start-11534307.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T12:50:00+01:00"
+    },
+    {
+     "title": "Ghostscript'te kritik 'Upload2Shell' açığı birçok sistemi tehdit ediyor",
+     "summary": "Ghostscript yazılımında keşfedilen ve 'Upload2Shell' adı verilen yeni bir güvenlik açığı, ağ üzerindeki çok sayıda işletim sistemini, programı ve servisi tehlikeye atıyor. Uzmanlar yöneticileri sistemleri acilen güncellemeye çağırıyor.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T16:03:00+01:00"
+    },
+    {
+     "title": "BepiColombo uzay sondası Merkür yörüngesine girdi",
+     "summary": "Avrupa Uzay Ajansı'nın (ESA) Merkür sondası BepiColombo hedeflediği yörüngeye ulaştı ancak motor yanma süresinin planlandan kısa sürdüğü açıklandı. Uzmanlar sondanın durumunu analiz etmek için çalışmalara başladı.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T07:42:00+01:00"
+    },
+    {
+     "title": "Kitap zinciri Hugendubel ve Tolino bulutu siber saldırı nedeniyle kesintide",
+     "summary": "Almanya'nın tanınmış kitap satıcılarından Hugendubel ile birlikte Tolino bulut sistemi ve eBook.de web siteleri erişim sorunları yaşıyor. Şirket altyapısının bir siber saldırıya uğradığı ve platformların bakım moduna alındığı bildirildi.",
+     "category": "İnternet",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T10:49:00+01:00"
+    },
+    {
+     "title": "Signal mesajlaşma uygulamasından yapay zeka asistanlarına karşı koruma",
+     "summary": "Popüler mesajlaşma uygulaması Signal, harici yapay zeka asistanlarının sohbetleri okumasını veya verileri izlemesini engelleyecek yeni bir gizlilik özelliği yayınladı. Şirket kullanıcı mahremiyetini ön planda tutmaya devam ediyor.",
+     "category": "Yazılım",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Messenger-Signal-Sperre-fuer-neugierige-KI-Assistenten-11534436.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T12:13:00+01:00"
+    },
+    {
+     "title": "Şampiyonlar Ligi'nde Alman takımlarının kritik sınavı",
+     "summary": "UEFA Şampiyonlar Ligi lig aşamasında Borussia Dortmund deplasmanda Arsenal ile karşılaşırken, RB Leipzig ise sahasında RC Lens'i ağırlıyor. Alman ekipleri Avrupa'daki iddialarını sürdürmek sahaya galibiyet için çıkıyor.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/championsleague/arsenal-fc-gegen-borussia-dortmund,audiostream-champions-league-die-konferenz-100.html",
+     "time": "2026-11-24T20:45:00+01:00"
+    },
+    {
+     "title": "Bayern Münih kadın futbol takımı erkeklerin rekorunu egale etti",
+     "summary": "TSG Hoffenheim'ı 1-0 mağlup eden Bayern Münih kadın futbol takımı, Bundesliga'da üst üste 53. maçında da yenilmeyerek kulüp tarihinin erkekler rekorunu yakaladı. Karşılaşma aynı zamanda uzun süredir sakat olan oyuncuların sahalara dönüşüne sahne oldu.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/br/br-fc-bayern-frauen-knapper-sieg-bei-oberdorf-comeback-102.html",
+     "time": "2026-11-23T20:51:14+01:00"
+    },
+    {
+     "title": "Alman kayakla atlama takımında tarihin en kötü sezon başlangıcı",
+     "summary": "Yeni başantrenör Andreas Mitter yönetiminde sezona başlayan Alman kayakla atlama takımı büyük bir hayal kırıklığı yaşadı. Uzman Sven Hannawald takımın performansındaki temel eksikliklere dikkat çekerek acil değişim çağrısında bulundu.",
+     "category": "Kış Sporları",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/br/br-skisprung-debakel-sven-hannawald-benennt-die-baustellen-102.html",
+     "time": "2026-11-23T18:35:46+01:00"
+    },
+    {
+     "title": "Union Berlin'de kriz derinleşiyor: Teknik direktörden sert eleştiri",
+     "summary": "Bundesliga'da küme düşme hattında yer alan Union Berlin'de yönetim ve teknik heyet tartışma konusu oldu. Teknik direktör Lustrinelli'nin futbolcularına yönelik sert eleştirileri kulüpteki geleneksel uyum tablosunu sarstı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
+     "time": "2026-11-23T21:39:08+01:00"
+    },
+    {
+     "title": "Opel Formel E'den çekildiğini duyurdu",
+     "summary": "Stellantis grubundaki finansal sorunlar nedeniyle Alman otomobil üreticisi Opel, ilk yarış startı dahi alınamadan Formula E serisinden çekildiğini açıkladı. Karar motor sporları çevrelerinde şaşkınlık yarattı.",
+     "category": "Motor Sporları",
+     "topic": "spor",
+     "importance": 1,
+     "source": "kicker",
+     "url": "https://www.kicker.de/geldprobleme-stellantis-opel-scheidet-aus-formel-e-aus-1274434/artikel#omrss",
+     "time": "2026-11-23T20:30:00+00:00"
+    },
+    {
+     "title": "Alman belgeseline Uluslararası Emmy Ödülü",
+     "summary": "New York'ta düzenlenen Uluslararası Emmy Ödülleri'nde ARD ortak yapımı olan ve bir film hırsısının peşine düşen genç Alman belgesemcilerin çektiği \"Der talentierte Mr. F.\" ödüle layık görüldü. True-crime ve roadmovie öğeleri taşıyan yapım jürinin beğenisini kazandı.",
+     "category": "Televizyon",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/kultur/internationaler-emmy-mrf-ard-100.html",
+     "time": "2026-11-24T04:23:18+01:00"
+    },
+    {
+     "title": "Radyo ve televizyon payı kararı 2027'ye ertelendi",
+     "summary": "Federal Anayasa Mahkemesi'nin radyo ve televizyon katkı payındaki (Rundfunkbeitrag) artışın yapılmamasına ilişkin uzun süredir beklenen kararı bu yıl açıklanmayacak. ARD ve ZDF gibi kamu yayıncıları nihai karar için 2027 yılını beklemek zorunda.",
+     "category": "Medya",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesverfassungsgericht-urteilt-zu-rundfunkbeitrag-erst-2027-201710856.html",
+     "time": "2026-11-23T18:57:07+00:00"
+    },
+    {
+     "title": "Nazi döneminde zulüm gören ailenin arşivi Yehova'nın Şahitleri'ne iade edildi",
+     "summary": "Nazi rejimi döneminde zulme uğrayan Kusserow ailesinin mektup, fotoğraf ve ölüm cezası belgelerinden oluşan aile arşivi uzun yıllar Bundeswehr müzesinde tutulmuştu. Varılan anlaşma sonucunda koleksiyon Yehova'nın Şahitleri cemaatine geri verildi.",
+     "category": "Tarih",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/kultur/zeugen-jehovas-erhalten-familienarchiv-aus-ns-zeit-zurueck-a-b4118e8e-36ab-46ca-9f36-8b2ca86bd98f#ref=rss",
+     "time": "2026-11-23T16:41:00+01:00"
+    },
+    {
+     "title": "Bob Dylan Frankfurt'ta müzikseverlerle buluştu",
+     "summary": "Efsanevi sanatçı Bob Dylan, Frankfurt'ta verdiği konserde hayranlarının karşısına çıktı. Usta müzisyenin güçlü sesi ve performansıyla grubunun uyumlu çalışması eleştirmenlerden tam not aldı.",
+     "category": "Müzik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/bob-dylan-in-frankfurt-201709636.html",
+     "time": "2026-11-23T14:57:08+00:00"
+    },
+    {
+     "title": "Marisa Burger 'Rosenheim Cops' dizisinden ayrılıyor",
+     "summary": "ZDF ekranlarının uzun soluklu ve sevilen dizisi 'Die Rosenheim-Cops'ta 'Stockl' karakterine hayat veren Marisa Burger 25 yılın ardından projeye veda ediyor. Oyuncunun ayrılığı dizi hayranları arasında üzüntü yarattı.",
+     "category": "Televizyon",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/zdf-rosenheim-cops-ohne-frau-stockl-marisa-burger-hoert-auf-201708581.html",
+     "time": "2026-11-23T17:10:00+00:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "de93a35eb08984af",
+   "overview": "Türkiye'nin gündemi bu dönemde uluslararası zirveler, ekonomik gelişmeler ve iç politika dinamikleriyle şekilleniyor. Antalya'da düzenlenen COP31 iklim zirvesinin somut bir anlaşmaya varılamadan sona ermesi çevre politikaları ve finansman tartışmalarını derinleştirirken, ekonomik alanda açıklanan yeniden değerleme oranları ve bütçe görüşmeleri vatandaşın gündemindeki yerini koruyor. Diğer yandan kültür-sanat alanındaki etkinlikler ve spor liglerindeki rekabet hız kesmeden devam ediyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Antalya'daki COP31 iklim zirvesi anlaşmasız sona erdi",
+     "summary": "Antalya'da düzenlenen Birleşmiş Milletler İklim Zirvesi COP31, fosil yakıtlardan çıkış ve iklim finansmanı konularında uzlaşma sağlanamaması nedeniyle başarısızlıkla bitti. Çevre örgütleri gelişmiş ülkelerin sorumluluklarını yerine getirmediğini vurgularken, zirve tarihin en uzun toplantısı olarak kayıtlara geçti.",
+     "category": "Çevre",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/cop31-antalya-da-neden-uzlaşısız-bitti-fosil-yakıt-ve-iklim-finansmanı-tıkanıklığı/a-80022675",
+     "time": "2026-11-23T16:30:00+00:00"
+    },
+    {
+     "title": "Güvenlik kaynakları: PKK Kuzey Irak'ta 14 barınma alanını boşalttı",
+     "summary": "Güvenlik kaynakları, terör örgütü PKK'nın Kuzey Irak'ta 14 barınma alanını daha boşalttığını açıkladı. Bu gelişmenin silahsızlanma sürecinde ilerleme kaydedildiğini gösterdiği belirtildi.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/güvenlik-kaynakları-pkk-kuzey-irak-ta-14-barınma-alanını-boşalttı/a-80021891",
+     "time": "2026-11-23T14:18:00+00:00"
+    },
+    {
+     "title": "Ekrem İmamoğlu'nun dosyası Anayasa Mahkemesi gündeminde",
+     "summary": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun yaptığı başvuruyu 26 Kasım'daki toplantısında ele alacak. Yüksek Mahkeme, tutukluluğun hukuka aykırılığı iddiasını karara bağlayacak.",
+     "category": "Yargı",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/ekrem-i̇mamoğlu-dosyası-aym-gündeminde-tahliye-kararı-çıkar-mı/a-80019289",
+     "time": "2026-11-23T11:21:00+00:00"
+    },
+    {
+     "title": "İstanbul Valiliği: Sarıyer'de aslan bulunduğuna dair somut bulgu yok",
+     "summary": "İstanbul'un Sarıyer ilçesine bağlı Uskumruköy Mahallesi'nde aslan görüldüğü ihbarı üzerine başlatılan arama çalışmalarında somut bir bulguya rastlanmadı. Yetkililer, görüntülerin incelenmesinin ardından ihbar edilen hayvanın büyük kedi türü olmadığını bildirdi.",
+     "category": "Asayiş",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/23/istanbul-valiligi-bolgede-aslan-bulunduguna-dair-somut-bulguya-rastlanmadi",
+     "time": "2026-11-23T21:21:18+01:00"
+    },
+    {
+     "title": "'Bayğaralar' suç örgütüne operasyon: 90 tutuklama",
+     "summary": "Adana merkezli 'Bayğaralar' adı verilen organize suç örgütüne yönelik düzenlenen operasyonlarda gözaltına alınan 105 şüpheliden 90'ı tutuklandı. Tutuklananlar arasında 12 çocuğun da bulunduğu açıklandı.",
+     "category": "Operasyon",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Diken",
+     "url": "https://www.diken.com.tr/baygaralar-operasyonu-12si-cocuk-90-tutuklama/",
+     "time": "2026-11-23T18:25:18+00:00"
+    },
+    {
+     "title": "2026 yılı yeniden değerleme oranı yüzde 27,83 olarak belirlendi",
+     "summary": "Hazine ve Maliye Bakanlığı, 2026 yılı yeniden değerleme oranını yüzde 27,83 olarak belirledi. Resmî Gazete'de yayımlanan bu oran, 2027 yılında vergi, harç ve ceza tutarlarının hesaplanmasında esas alınacak.",
+     "category": "Vergi",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/resmi-gazetede-yayimlandi-2026-yili-yeniden-degerleme-orani-yuzde-2085836",
+     "time": "2026-11-24T00:42:00+03:00"
+    },
+    {
+     "title": "Merkez Bankası rezervlerinde iki haftada 19 milyar dolar düşüş",
+     "summary": "Türkiye Cumhuriyet Merkez Bankası'nın rezervlerinde üst üste ikinci haftada da sert düşüş yaşandı. İki haftalık toplam kaybın 19 milyar doları bulduğu hesaplandı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-rezervlerinde-sert-kayip-iki-haftada-19-milyar-dolar-geriledi-2558669",
+     "time": "2026-11-23T15:57:00+03:00"
+    },
+    {
+     "title": "Eurostat verileri: Türkiye gelir eşitsizliğinde Avrupa'da ilk sırada",
+     "summary": "Avrupa genelinde gelir dağılımındaki eşitsizlik gerilerken Türkiye'de tablo tersine döndü. Eurostat verilerine göre Türkiye, Avrupa ülkeleri arasında gelir adaletsizliğinde ilk sırada yer aldı.",
+     "category": "Enflasyon",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-avrupa-da-gelir-esitsizliginde-ilk-sirada-eurostat-verileri-acikladi-2558606",
+     "time": "2026-11-23T13:14:00+03:00"
+    },
+    {
+     "title": "Fatura ve ödeme sistemlerinde yeni düzenleme",
+     "summary": "Hazine ve Maliye Bakanlığı, elektronik fatura ve ödeme sistemlerinde önemli değişikliklere gitti. Yeni tebliğle e-Arşiv Fatura düzenleme yöntemleri genişletilirken yazar kasalardan doğrudan elektronik belge oluşturulmasının önü açıldı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/resmi-gazetede-yayimlandi-fatura-ve-odeme-sistemlerinde-fatura-2085835",
+     "time": "2026-11-24T00:15:00+03:00"
+    },
+    {
+     "title": "Bakan Işıkhan'dan emekli maaşı açıklaması",
+     "summary": "Çalışma ve Sosyal Güvenlik Bakanı Vedat Işıkhan, emekli aylıklarının hesaplanma sistemine ve aylıklar arasındaki farklılıklara ilişkin değerlendirmelerde bulundu. Düzenleme beklentileri sürerken üç farklı hesaplama sistemine dikkat çekildi.",
+     "category": "İstihdam",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/emekli-maaslarinda-uc-farkli-hesaplama-sistemi-bakan-isikhan-ayrintilari-acikladi-2558584",
+     "time": "2026-11-23T12:22:00+03:00"
+    },
+    {
+     "title": "GTA 6 üzerinden dolandırıcılık tuzağı: Binlerce zararlı tespit edildi",
+     "summary": "Siber güvenlik şirketi Kaspersky, GTA 6'ya yönelik yoğun ilgiyi fırsat bilen dolandırıcıların sahte indirme dosyalarıyla oyuncuları hedef aldığını açıkladı. Dünya genelinde oyunla bağlantılı binlerce zararlı yazılım tespiti yapıldı.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-6-indirmek-isteyenler-dikkat-sahte-dosyalarla-dolandiricilik-tuzagi-2558577",
+     "time": "2026-11-23T12:05:00+03:00"
+    },
+    {
+     "title": "Yapay zeka görüntüleri nedeniyle SpaceX'e dava açıldı",
+     "summary": "ABD'nin Virginia ve Oregon eyaletlerinin başsavcıları, platformlarında rıza dışı cinsel içerikli yapay zeka görüntülerin oluşturulmasına zemin hazırladıkları gerekçesiyle SpaceX'e dava açtı.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/riza-disi-cinsel-icerikli-yapay-zeka-goruntuleri-nedeniyle-spacex-e-dava-2558733",
+     "time": "2026-11-23T20:06:00+03:00"
+    },
+    {
+     "title": "iPhone 20 Pro için titanyum çerçeve iddiası",
+     "summary": "Apple'ın 2027 yılında tanıtabileceği iPhone 20 Pro modelleri hakkında yeni tasarım iddiaları ortaya atıldı. Üretim öncesi örneklerde titanyum çerçevenin denendiği öne sürüldü.",
+     "category": "Donanım",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/iphone-20-pro-hakkinda-yeni-sizinti-aluminyum-yerine-titanyum-gelebilir-2558547",
+     "time": "2026-11-23T11:06:00+03:00"
+    },
+    {
+     "title": "Müze deposundaki taşta 100 milyon yıllık çiçek fosili keşfedildi",
+     "summary": "Araştırmacılar, 130 yıldır ABD'deki bir müzenin deposunda tutulan kaya parçasının içinde yaklaşık 100 milyon yıllık nesli tükenmiş çiçek fosili buldu.",
+     "category": "Bilim",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/130-yildir-depoda-tutulan-tasta-yaklasik-100-milyon-yillik-cicek-fosili-bulundu-2558730",
+     "time": "2026-11-23T19:59:00+03:00"
+    },
+    {
+     "title": "Grand Theft Auto VI konsollar için ilk güncellemesini aldı",
+     "summary": "Piyasaya çıktığı günden beri büyük ilgi gören Grand Theft Auto VI, hem Xbox Series hem de PlayStation 5 platformları için ilk güncellemelerini aldı.",
+     "category": "Yazılım",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-vi-konsollar-icin-ilk-guncellemesini-aldi-2558753",
+     "time": "2026-11-23T21:32:00+03:00"
+    },
+    {
+     "title": "Başakşehir Çorum FK'yi 4-2 mağlup etti",
+     "summary": "Trendyol Süper Lig'in 12. haftasında Başakşehir, evinde konuk ettiği Çorum FK'yi 2-0'dan gelerek 4-2 yendi. Müsabakada hat-trick yapan Bertuğ Yıldırım galibiyette başrol oynadı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/bertug-yildirim-hat-trick-yapti-basaksehir-2-0-dan-geri-dondu-2558772",
+     "time": "2026-11-23T22:33:00+03:00"
+    },
+    {
+     "title": "Başakşehir'e Emin Bayram'dan kötü haber: Sezonu kapattı",
+     "summary": "Başakşehir Teknik Direktörü Nuri Şahin, maçın ardından yaptığı açıklamada sakatlanarak oyundan çıkan Emin Bayram'ın sezonu kapattığını duyurdu.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/nuri-sahin-kotu-haberi-duyurdu-sezonu-kapatti-2558794",
+     "time": "2026-11-24T00:04:00+03:00"
+    },
+    {
+     "title": "Fenerbahçe kritik maçlar öncesi hazırlıklarını sürdürüyor",
+     "summary": "Kocaelispor beraberliğiyle ligde puan kaybeden Fenerbahçe, Süper Lig ve Şampiyonlar Ligi'nde oynayacağı kritik altı karşılaşmaya odaklandı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/super-lig-de-ve-avrupa-da-belirleyici-olacak-maclara-cikacak-f-bahçe-kritik-virajlarda-2558783",
+     "time": "2026-11-24T04:00:00+03:00"
+    },
+    {
+     "title": "A Milli Erkek Basketbol Takımı'nda maç öncesi açıklamalar",
+     "summary": "A Milli Erkek Basketbol Takımı kaptanı Kenan Sipahi ve Başantrenör Ergin Ataman, İtalya ve İzlanda maçları öncesi düzenlenen medya gününde açıklamalarda bulundu.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/kenan-sipahi-milli-forma-oldugu-zaman-yorgunluklar-gidiyor-2558775",
+     "time": "2026-11-23T22:50:00+03:00"
+    },
+    {
+     "title": "Galatasaray'ın rakibi Aston Villa'da eksikler sürüyor",
+     "summary": "UEFA Şampiyonlar Ligi'nde Galatasaray ile karşılaşacak olan İngiliz ekibi Aston Villa'da sakatlıklar nedeniyle 4 futbolcu kadroda yer alamayacak.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-maci-oncesi-aston-villa-da-bir-eksik-daha-2558732",
+     "time": "2026-11-23T20:02:00+03:00"
+    },
+    {
+     "title": "Taş Tepeler'in 34 neolitik eseri Ankara'da sergileniyor",
+     "summary": "Şanlıurfa’daki Göbeklitepe, Karahantepe, Sefertepe ve Sayburç kazılarında ortaya çıkarılan 34 eser, Cumhurbaşkanlığı Millet Kütüphanesi’nde ziyaretçilerle buluştu. Sergide 2026’da keşfedilen büyük boyutlu akbaba başı da yer alıyor.",
+     "category": "Arkeoloji",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/kultur-sanat-haberleri/tas-tepelerden-34-neolitik-eser-ankarada-gorucuye-cikti-2085830",
+     "time": "2026-11-24T00:01:00+03:00"
+    },
+    {
+     "title": "Adıyaman'daki 2 bin yıllık tünelin sırrı çözülüyor",
+     "summary": "Adıyaman'daki Arsameia Antik Kenti'nde bulunan 158 metre uzunluğundaki tünelin sadece su temini için kullanılmadığı anlaşıldı. Yeni araştırmalar, ziyaretçilerin geçitte dini bir deneyim yaşamış olabileceğini gösteriyor.",
+     "category": "Tarih",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
+     "time": "2026-11-23T17:52:37+01:00"
+    },
+    {
+     "title": "Cengiz Aytmatov’un 'Cemile' müzikali Ankara'da sahnelendi",
+     "summary": "Kırgız yazar Cengiz Aytmatov’un eserinden uyarlanan “Cemile” müzikali, Kırgız Cumhuriyeti sanatçıları tarafından Atatürk Kültür Merkezi Opera sahnesinde sanatseverlerle buluştu.",
+     "category": "Sahne",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/kirgiz-cumhuriyeti-sanatcilari-cemile-muzikalini-sahneledi-2558703",
+     "time": "2026-11-23T17:39:00+03:00"
+    },
+    {
+     "title": "BASE 10. yılında 128 genç sanatçıyı İstanbul'da buluşturuyor",
+     "summary": "Türkiye’nin 38 şehrinden 128 yeni mezun sanatçının eserlerini bir araya getirecek BASE, 9-13 Aralık tarihlerinde 10’uncu kez kapılarını açacak. Etkinlikte Yunanistan’dan genç sanatçıların eserleri de yer alacak.",
+     "category": "Sergi",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/23/base-10inci-yilinda-128-genc-sanatciyi-istanbulda-bulusturuyor",
+     "time": "2026-11-23T14:28:28+01:00"
+    },
+    {
+     "title": "Binnur Ersay’ın kişisel sergisi Galataport'ta açıldı",
+     "summary": "Sanatçı Binnur Ersay’ın at figüründen İstanbul’un kültürel belleğine uzanan üç bölümlü kişisel sergisi Galataport'ta sanatseverlerin ziyarete açıldı.",
+     "category": "Sanat",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/23/sanatci-binnur-ersayin-3-bolumlu-kisisel-sergisi-galataportta-acildi",
+     "time": "2026-11-23T14:39:14+01:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "50e1b413f7505b91",
+   "overview": "Uluslararası gelişmeler, jeopolitik krizler ve teknoloji dünyasındaki çalkantılı gelişmelerin gölgesinde şekilleniyor. Ukrayna savaşının Libya ve NATO sınırlarına sıçraması güvenlik endişelerini artırırken, Jensen Huang'ın Nvidia'daki sürpriz geri dönüşü küresel piyasalarda dalgalanmalara neden oldu. İklim zirvesi COP31'in uzlaşmasızlıkla sonuçlanması ve uluslararası insan hakları kararları da günün önemli gündem maddeleri arasında yer aldı.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Ukrayna'dan Libya'da Rus Savaş Gemisine Sürpriz Saldırı",
+     "summary": "Ukrayna güçleri, Libya'nın Bengazi limanında demirli bulunan Rus korveti Merkury'yi deniz dronlarıyla düzenlenen bir saldırıyla batırdı. Ukrayna Devlet Başkanı Volodimir Zelenskiy saldırıyı doğrularken, Libya'nın doğusundaki yetkililer Birleşmiş Milletler'e soruşturma çağrısında bulundu. Bu olay, Ukrayna'daki savaşın Akdeniz'e sıçradığı ilk vaka olarak kaydedildi.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
+     "time": "2026-11-23T09:24:41+01:00"
+    },
+    {
+     "title": "14 Ülke UAD'nin Rohingya Soykırımı Kararını Tanıdı",
+     "summary": "Avrupa, Afrika ve Okyanusya'dan 14 ülke, Uluslararası Adalet Divanı'nın (UAD) Myanmar'ın Rohingya azınlığına karşı soykırım işlediğine dair kararını resmen kabul etti. Birleşik Krallık ayrıca Myanmar ordusundan beş üst düzey yetkiliye yönelik yeni yaptırımlar açıkladı. Karar, uluslararası hukukun uygulanması açısından tarihi bir adım olarak değerlendiriliyor.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+     "time": "2026-11-23T23:10:22+00:00"
+    },
+    {
+     "title": "Berlin'deki NATO Zirvesinde Rusya'ya Karşı Savunma Vurgusu",
+     "summary": "Berlin'de sona eren NATO yıllık toplantısında müttefikler, ittifakın her karış toprağını savunmaya kararlı olduklarını belirtti. NATO Genel Sekreteri Mark Rutte ve Almanya Federal Şansölyesi Friedrich Merz, Rusya'nın uzaya nükleer başlıklı uydu yerleştirme planlarına ve artan ihlallerine karşı sert uyarılarda bulundu. Toplantıda doğu kanadındaki güvenlik tedbirlerinin artırılması ele alındı.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
+     "time": "2026-11-23T17:57:55+01:00"
+    },
+    {
+     "title": "Güney Kore'den Ada Sakinlerine Sığınak Uyarısı",
+     "summary": "Rus askeri uçaklarının Ulleungdo adası üzerindeki hava savunma tanımlama bölgesine yaklaşması üzerine Güney Koreli yetkililer bölge sakinlerine sığınaklara geçme talimatı verdi. Savunma Bakanlığı, olası bir ihlali önlemek amacıyla tedbir amaçlı alarm verildiğini duyurdu. Bölgede askeri hareketlilik yakından takip ediliyor.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-take-shelter-after-russian-military-aircraft-approach",
+     "time": "2026-11-24T04:14:43+00:00"
+    },
+    {
+     "title": "El Salvador Başkanı Bukele'nin Haiti'deki Askeri Müdahalesi Ülkesinde Kutlanıyor",
+     "summary": "Haiti'deki uluslararası misyonların çetelere karşı yetersiz kalmasının ardından El Salvador Devlet Başkanı Nayib Bukele, BM mandası olmaksızın ülkeye binlerce asker gönderdi. Haiti'deki şiddeti bastırmaya yönelik bu tek taraflı operasyon, El Salvador'da halk tarafından büyük bir coşkuyla karşılandı. Uzmanlar ise operasyonun uluslararası hukuk boyutunu tartışmaya açtı.",
+     "category": "Politika",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+     "time": "2026-11-24T01:53:40+01:00"
+    },
+    {
+     "title": "Jensen Huang, ABD Başkanının Müdahalesiyle Nvidia CEO'su Görevine Geri Döndü",
+     "summary": "Nvidia yönetim kurulu, ABD Başkanı Donald Trump'ın doğrudan müdahalesinin ardından Jensen Huang'ı yeniden CEO pozisyonuna getirdi. Çinli bir casusla yaşadığı ilişki skandalı nedeniyle kısa süre önce görevden ayrılan Huang'ın geri dönüşü küresel piyasalarda büyük yankı uyandırdı. Bu gelişmenin ardından çip üreticisinin hisse değeri yaklaşık 1 trilyon dolar artarken, teknoloji hisselerinde de güçlü bir ralli yaşandı.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+     "time": "2026-11-23T22:23:40+00:00"
+    },
+    {
+     "title": "ABD, Nvidia Skandalının Merkezindeki Megaspeed Şirketini Ticaret Listesine Aldı",
+     "summary": "ABD Ticaret Bakanlığı, Singapur merkezli yapay zeka şirketi Megaspeed ve bağlı ortaklıklarını resmi ticaret kara listesine ekledi. Şirketin, Nvidia çip tedarik zincirini ihlal ederek yasaklı bölgelere teknoloji aktarıp aktarmadığına dair yürütülen soruşturmalar devam ediyor. Adım, Washington'un yapay zeka donanımı ihracatındaki denetimlerini sıkılaştırdığının göstergesi olarak değerlendiriliyor.",
+     "category": "Ticaret",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+     "time": "2026-11-24T01:47:15+00:00"
+    },
+    {
+     "title": "Avrupa Komisyonu'ndan Rus Sporcular İçin Yeni Yaptırım Teklifi",
+     "summary": "Avrupa Komisyonu, Rus sporcuların hiçbir Avrupa müsabakasında kendi ulusal bayrakları altında yarışamamasına yönelik yeni bir yaptırım paketi önerdi. Ekonomik ve enerji sektörlerini de kapsayan bu genişletilmiş önlemler, Rusya'nın Ukrayna'daki saldırılarına karşı baskıyı artırmayı amaçlıyor. Teklifin üye ülkeler tarafından değerlendirilmesi bekleniyor.",
+     "category": "Yaptırımlar",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
+     "time": "2026-11-23T18:23:33+01:00"
+    },
+    {
+     "title": "Falkland Adaları'ndaki Petrol Planları Çevrecileri Endişelendiriyor",
+     "summary": "Birleşik Krallık ile Arjantin arasında egemenlik tartışmalarına konu olan Falkland Adaları'ndaki yeni petrol arama planları ekolojistlerin tepkisini çekiyor. Bölgedeki zengin deniz ekosisteminin ve nadir türlerin olası petrol sızıntılarından zarar görebileceği belirtiliyor. Taraflar arasındaki hukuki ve siyasi anlaşmazlıklar ise devam ediyor.",
+     "category": "Enerji",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+     "time": "2026-11-23T06:00:49+00:00"
+    },
+    {
+     "title": "COP31 İklim Zirvesi Fosil Yakıtlar ve İklim Finansmanı Konusunda Uzlaşma Sağlanamadan Sona Erdi",
+     "summary": "Türkiye'de düzenlenen COP31 iklim zirvesi, katılımcı ülkeler arasında fosil yakıtlar ve iklim finansmanı konusunda yaşanan derin anlaşmazlıklar nedeniyle uzlaşma sağlanamadan bitti. 2009 yılından bu yana ilk kez bir iklim zirvesi ortak bir bildiri veya anlaşma çıkaramadan kapandı. Gelişmekte olan ülkeler ve Afrika temsilcileri sonuçtan duydukları hayal kırıklığını dile getirdi.",
+     "category": "İklim",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+     "time": "2026-11-23T15:23:26+00:00"
+    },
+    {
+     "title": "Birden Fazla Eyaletten xAI ve Grok'a Karşı Yasal Girişim",
+     "summary": "Birkaç ABD eyaleti, xAI platformunun yapay zeka aracı Grok'un çocuk istismarı görselleri ve rızasız mahrem görüntüler üretmesini engellemek amacıyla dava açtı. Şirket yetkilileri çıktıların filtrelendiğini savunurken, eyalet başsavcıları sistemin zararlı içerik üretmeye devam ettiğini vurguluyor. Dava, yapay zeka denetimi konusunda yeni bir hukuki cephe açtı.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+     "time": "2026-11-23T21:30:44+00:00"
+    },
+    {
+     "title": "GTA 6'nın Hacklenmesi Davasında Sanık Serbest Bırakıldı",
+     "summary": "Rockstar Games'in kaynak kodlarını sızdıran ve siber saldırılar düzenleyen 21 yaşındaki Arion Kurtaj, kefaletle ve sıkı denetim şartlarıyla serbest bırakıldı. Genç hacker daha önce işlediği suçlar nedeniyle tedavi ve gözetim altında tutuluyordu. Yetkililer sanığı benzer faaliyetlerden uzak durması konusunda uyardı.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
+     "time": "2026-11-23T14:08:50+00:00"
+    },
+    {
+     "title": "FIFA, 2030 Dünya Kupası ABD Medya Hakları İçin İkinci Tur İhalesini Başlattı",
+     "summary": "Uluslararası Futbol Federasyonları Birliği (FIFA), 2030 Dünya Kupası'nın Amerika Birleşik Devletleri'ndeki yayın hakları için Fox ve Netflix arasında ikinci tur müzakerelerine geçti. İlk turda en yüksek teklifi veren platformlar arasında kıyasıya bir rekabet yaşanıyor. Sürecin dijital yayıncılar ile geleneksel kanallar arasındaki dengeyi değiştirmesi bekleniyor.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/23/fifa-world-cup-2030-media-rights-fox-netflix",
+     "time": "2026-11-23T22:28:04+00:00"
+    },
+    {
+     "title": "Genç Tenisçi Taylah Lessue'ye Yönelik Tehditler Polise Taşındı",
+     "summary": "Avustralya'da düzenlenen bir turnuvanın ardından 18 yaşındaki tenisçi Taylah Lessue, sosyal medyada ağır hakaretlere ve ölüm tehditlerine maruz kaldı. Tennis Australia olay kınayarak oyuncuya tam destek verdiğini açıkladı. Polis yetkilileri tehdit mesajlarını gönderen kişilerin tespiti için soruşturma başlattı.",
+     "category": "Tenis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/24/junior-tennis-player-taylah-lessue-vile-death-threats-online-abuse-adelaide-defeat-ntwnfb",
+     "time": "2026-11-24T04:11:54+00:00"
+    },
+    {
+     "title": "Steven Spielberg ve Paul Thomas Anderson Yeni Bir Vestern Projesinde Buluşuyor",
+     "summary": "Oscar ödüllü yönetmen Steven Spielberg, senaryosunu Paul Thomas Anderson'ın kaleme alacağı yeni bir vestern filmi yöneteceğini duyurdu. Proje, Kevin Barry'nin 2024 yılında yayımlanan 'The Heart in Winter' romanının sinema uyarlaması olacak. Filmde Jessie Buckley, Cillian Murphy ve Mark Rylance gibi tanınmış isimlerin rol alması bekleniyor.",
+     "category": "Sinema",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
+     "time": "2026-11-23T18:10:31+00:00"
+    },
+    {
+     "title": "Elizabeth Holmes Belgeseli Küresel Gişede 100 Milyon Doları Aştı",
+     "summary": "Nathan Fielder ve Lance Oppenheim'ın yönettiği, dolandırıcılıktan mahkum edilen Elizabeth Holmes'un hapishane öncesi haftalarını konu alan belgesel sinema filmi dünya genelinde 100 milyon dolar hasılatı geride bıraktı. Yapım, Birleşik Krallık'ta müzik dışı belgeseller arasında tüm zamanların en yüksek açılış hafta sonu rekorunu kırdı.",
+     "category": "Belgesel",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
+     "time": "2026-11-23T11:57:19+00:00"
+    }
+   ]
+  }
+ ]
+}

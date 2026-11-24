@@ -1,0 +1,709 @@
+{
+ "date": "2026-11-24",
+ "updatedAt": "2026-11-24T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "9cadb8f6e49b15d6",
+   "overview": "Das tagesaktuelle Geschehen in Deutschland wird maßgeblich von innenpolitischen Koalitionsdebatten, den wachsenden sicherheitspolitischen Herausforderungen im Zuge des Ukraine-Krieges sowie wichtigen industriellen Veränderungen geprägt. Während Bundesverteidigungsminister Boris Pistorius die Kooperation beim Drohnenbau mit der Ukraine vorantreibt und vor einer Ausweitung des Krieges warnt, sorgt die geplante Fusion der Baumarktriesen OBI und Toom für Bewegung in der deutschen Wirtschaft. Gleichzeitig steht die NATO-Parlamentarierversammlung in Berlin im Zeichen der transatlantischen Verteidigungspolitik.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Deutschland baut künftig ukrainische Drohnen",
+     "summary": "Bundesverteidigungsminister Boris Pistorius hat konkrete Schritte zur engeren militärischen Zusammenarbeit mit der Ukraine angekündigt, zu der auch der gemeinsame Drohnenbau gehört. Angesichts möglicher russischer Angriffspläne mahnte er zur Besonnenheit. Zudem betonte er, dass sich der Krieg keinesfalls auf die Ostsee ausweiten darf.",
+     "category": "Verteidigung",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+     "time": "2026-11-24T02:46:30+01:00"
+    },
+    {
+     "title": "Bombendrohungen an Hunderten Schulen bundesweit",
+     "summary": "Hunderte Schulen im ganzen Land, darunter in Freiburg, Erfurt und Hamburg, haben Drohschreiben erhalten. Mehrere Bildungseinrichtungen wurden vorsorglich evakuiert, während die Polizei mitteilte, dass es bislang keine Hinweise auf eine konkrete Gefahr gibt. Ermittlungen wurden eingeleitet.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
+     "time": "2026-11-23T15:13:20+01:00"
+    },
+    {
+     "title": "Brantner sieht Kenia-Koalition skeptisch und fordert Ausschluss von Emde",
+     "summary": "Grünen-Chefin Franziska Brantner hat sich skeptisch gegenüber einer möglichen Koalition in Berlin geäußert. Sie forderte von der Berliner Linken den Ausschluss der Abgeordneten Vanessa Emde und drohte andernfalls mit einer Absage an das Regierungsbündnis. Diese Personalie belastet die Koalitionsgespräche massiv.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b04d3d339a3e8110f0e96b0/berlin-brantner-sieht-kenia-koalition-skeptisch-und-fordert-ausschluss-von-emde-aus-linke-fraktion.html",
+     "time": "2026-11-24T00:19:08+00:00"
+    },
+    {
+     "title": "Freie Wähler stellen sich nach Aiwanger-Tod breiter auf",
+     "summary": "Nach dem plötzlichen Tod von Hubert Aiwanger verteilt die Partei Freie Wähler ihre Ämter auf mehrere Schultern. Tobias Gotthardt übernimmt das Amt des bayerischen Wirtschaftsministers, während der Landesverband künftig von einer Doppelspitze geführt wird. Damit reagiert die Partei auf den Verlust ihrer bisherigen Integrationsfigur.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
+     "time": "2026-11-23T18:47:10+01:00"
+    },
+    {
+     "title": "Femizide sollen künftig als Mord statt als Totschlag gelten",
+     "summary": "Bundesjustizministerin Hubig setzt sich dafür ein, dass die Tötung von Frauen durch Partner oder Ex-Partner künftig konsequent als Mord und nicht mehr als Totschlag eingestuft wird. Damit soll ein klares juristisches Signal gegen geschlechtsspezifische Gewalt gesetzt werden. Bislang zogen solche Taten nicht durchgängig lebenslange Haftstrafen nach sich.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/panorama/justiz/femizide-sollen-als-mord-statt-als-totschlag-gelten-a-1844be5a-94c4-4dc9-a684-9cd2e2d32106#ref=rss",
+     "time": "2026-11-23T18:52:00+01:00"
+    },
+    {
+     "title": "Baumarktketten OBI und Toom planen Fusion",
+     "summary": "Die Baumarktketten OBI und Toom wollen sich zusammenschließen und ihre mehr als 600 Märkte unter einem gemeinsamen Dach vereinen. Im Zuge dieser Fusion soll die Marke Toom aufgegeben werden. Das Vorhaben muss allerdings noch vom Bundeskartellamt genehmigt werden.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/obi-toom-fusion-100.html",
+     "time": "2026-11-23T16:09:32+01:00"
+    },
+    {
+     "title": "Finanzierung für kostenlose Stromspar-Checks gesichert",
+     "summary": "Die Finanzierung der sogenannten Stromspar-Checks ist für weitere drei Jahre gesichert. Haushalte mit geringem Einkommen können sich dadurch weiterhin kostenlos beraten lassen und finanzielle Zuschüsse erhalten. Das Angebot zielt darauf ab, Energiekosten zu senken und den Umweltschutz im Alltag zu stärken.",
+     "category": "Verbraucher",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
+     "time": "2026-11-23T21:11:45+01:00"
+    },
+    {
+     "title": "Nachfrage nach MINT-Fachkräften in Deutschland zieht wieder an",
+     "summary": "Die verbesserte konjunkturelle Lage schlägt sich zunehmend auf dem deutschen Arbeitsmarkt nieder. Erstmals seit dem Jahr 2023 steigt die Nachfrage nach Arbeitskräften mit MINT-Kompetenzen wieder an. Dies geht aus einem internen Bericht hervor, der dem ARD-Hauptstadtstudio vorliegt.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/arbeitsmarkt/mint-fachkraefte-steigende-nachfrage-100.html",
+     "time": "2026-11-23T15:41:00+01:00"
+    },
+    {
+     "title": "EU-Verkaufsverbot für BYD-SUV wegen Ähnlichkeit zu Land Rover Defender",
+     "summary": "Der chinesische Autobauer BYD hat von der EU ein Verkaufsverbot für sein SUV-Modell Ti7 erhalten, da dieses dem Land Rover Defender zu stark ähnelt. Nach Bekanntgabe des Gerichtsurteils gaben die Aktien des Herstellers nach. BYD kündigte an, juristische Schritte gegen die Entscheidung zu prüfen.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/byd-aktie-faellt-nach-eu-verkaufsverbot-fuer-ti7-suv-wegen-defender-aehnellikkeit-a-d3dce60e-82ac-4c8f-b443-41e969718b32#ref=rss",
+     "time": "2026-11-23T19:21:00+01:00"
+    },
+    {
+     "title": "Verbraucherschützer warnen vor Preisfallen zur Black Week",
+     "summary": "Rund um den Black Friday lockt der Handel mit massiven Rabatten und Rekordumsätzen. Verbraucherschützer mahnen jedoch zur Vorsicht und warnen vor vermeintlichen Schnäppchen, Preisfallen und betrügerischen Online-Maschen. Käufer sollten Angebote genau prüfen.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/blackweek-preisfallen-100.html",
+     "time": "2026-11-23T10:33:43+01:00"
+    },
+    {
+     "title": "Geheimdienste sehen russischen Satelliten mit Atomwaffe vor Start",
+     "summary": "Nach Recherchen mehrerer deutscher Medien gehen westliche Geheimdienste davon aus, dass Russland noch in diesem Jahr einen Satelliten mit einer Atomwaffe ins All befördern will. Ein solcher Schritt würde die internationale Sicherheit im Weltraum massiv gefährden.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Bericht-Geheimdieken-sehen-russischen-Satelliten-mit-Atomwaffe-kurz-vor-Start-11534307.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T12:50:00+01:00"
+    },
+    {
+     "title": "Kritische Sicherheitslücke „Upload2Shell“ in Ghostscript entdeckt",
+     "summary": "Eine neu bekannt gewordene Schwachstelle namens „Upload2Shell“ in der Software Ghostscript gefährdet zahlreiche Betriebssysteme, Programme und Netzwerkdienste. IT-Experten raten Administratoren dringend zu zeitnahen Sicherheitsupdates.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Upload2Shell-Ghostscript-Luecke-betrifft-viele-Systeme-11534768.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T16:03:00+01:00"
+    },
+    {
+     "title": "Merkursonde BepiColombo erreicht Orbit, aber Triebwerksschub zu kurz",
+     "summary": "Die europäische Raumsonde BepiColombo hat ihr Forschungsziel am Merkur erreicht, allerdings feuerten die Triebwerke beim Manöver zu kurz. Die Europäische Weltraumorganisation hat Analysen zur genauen Flugbahn eingeleitet.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Triebwerksschub-zu-kurz-BepiColombo-erreicht-Orbit-um-den-Merkur-11533956.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T07:42:00+01:00"
+    },
+    {
+     "title": "Cyberangriff legt Hugendubel, Tolino-Cloud und eBook.de lahm",
+     "summary": "Die Webseiten von Hugendubel, der Tolino-Cloud und eBook.de sind nach einem mutmaßlichen Cyberangriff stark gestört und befinden sich im Wartungsmodus. Nutzer haben vorübergehend keinen Zugriff auf ihre digitalen Dienste.",
+     "category": "Internet",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Nach-Cyberangriff-Hugendubel-Tolino-Cloud-und-eBook-de-gestoert-11534213.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T10:49:00+01:00"
+    },
+    {
+     "title": "Messenger Signal führt Sperre für neugierige KI-Assistenten ein",
+     "summary": "Der Nachrichtendienst Signal hat eine neue Funktion angekündigt, die das automatische Mitlesen und Auswerten von Nachrichten durch integrierte KI-Assistenten unterbinden soll. Damit wird der Datenschutz für die Nutzer weiter gestärkt.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Messenger-Signal-Sperre-fuer-neugierige-KI-Assistenten-11534436.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-23T12:13:00+01:00"
+    },
+    {
+     "title": "Champions League: Borussia Dortmund in London und RB Leipzig gefordert",
+     "summary": "In der Ligaphase der UEFA Champions League muss Borussia Dortmund auswärts beim FC Arsenal antreten, während RB Leipzig den RC Lens empfängt. Die deutschen Teams wollen in der Königsklasse wichtige Punkte sammeln.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/championsleague/arsenal-fc-gegen-borussia-dortmund,audiostream-champions-league-die-konferenz-100.html",
+     "time": "2026-11-24T20:45:00+01:00"
+    },
+    {
+     "title": "Bayern-Frauen schlagen Hoffenheim und egalisieren historischen Vereinsrekord",
+     "summary": "Durch einen knappen Sieg gegen die TSG Hoffenheim sind die Fußballerinnen des FC Bayern München im 53. Bundesliga-Spiel in Folge ungeschlagen geblieben. Damit haben sie eine historische Bestmarke der Vereinsmänner eingestellt.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/br/br-fc-bayern-frauen-knapper-sieg-bei-oberdorf-comeback-102.html",
+     "time": "2026-11-23T20:51:14+01:00"
+    },
+    {
+     "title": "Historisches Skisprung-Debakel zum Auftakt für DSV-Adler",
+     "summary": "Die deutschen Skispringer haben beim Debüt des neuen Bundestrainers Andreas Mitter einen Fehlstart hingelegt. Experte Sven Hannawald analysierte die tiefgreifenden sportlichen Probleme, die zu diesem schwachen Saisonbeginn geführt haben.",
+     "category": "Wintersport",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/br/br-skisprung-debakel-sven-hannawald-benennt-die-baustellen-102.html",
+     "time": "2026-11-23T18:35:46+01:00"
+    },
+    {
+     "title": "Union Berlin im Tabellenkeller: Kritik von Trainer Lustrinelli",
+     "summary": "Union Berlin steckt tief im Tabellenkeller der Bundesliga fest. Nach harscher Kritik des Trainers an seiner Mannschaft bröckelt die traditionelle Fassade des mannschaftlichen Zusammenhalts beim Hauptstadtklub spürbar.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/rbb/rbb-union-berlin-im-tabellenkeller-fassade-des-zusammenhalts-broeckelt-100.html",
+     "time": "2026-11-23T21:39:08+01:00"
+    },
+    {
+     "title": "Opel zieht sich überraschend aus der Formel E zurück",
+     "summary": "Aufgrund anhaltender finanzieller Schwierigkeiten beim Mutterkonzern Stellantis hat Opel seinen kompletten Rückzug aus der Formel E bekannt gegeben. Der Ausstieg erfolgt noch vor dem ersten offiziellen Saisonrennen.",
+     "category": "Motorsport",
+     "topic": "spor",
+     "importance": 1,
+     "source": "kicker",
+     "url": "https://www.kicker.de/geldprobleme-stellantis-opel-scheidet-aus-formel-e-aus-1274434/artikel#omrss",
+     "time": "2026-11-23T20:30:00+00:00"
+    },
+    {
+     "title": "Deutsche Dokumentarfilmer gewinnen Internationalen Emmy in New York",
+     "summary": "Bei der Verleihung der Internationalen Emmy Awards in New York ist die deutsche ARD-Dokumentation „Der talentierte Mr. F.“ ausgezeichnet worden. Das Filmteam überzeugte die Jury mit einer Mischung aus True Crime und Roadmovie über die Jagd nach einem Film-Dieb.",
+     "category": "Film",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/kultur/internationaler-emmy-mrf-ard-100.html",
+     "time": "2026-11-24T04:23:18+01:00"
+    },
+    {
+     "title": "Bundesverfassungsgericht verschiebt Urteil zum Rundfunkbeitrag auf 2027",
+     "summary": "Das mit Spannung erwartete Urteil des Bundesverfassungsgerichts zur ausgebliebenen Erhöhung des Rundfunkbeitrags wird nicht mehr in diesem Jahr ergehen. Die öffentlich-rechtlichen Sender ARD und ZDF müssen sich demnach bis Anfang 2027 gedulden.",
+     "category": "Medienpolitik",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesverfassungsgericht-urteilt-zu-rundfunkbeitrag-erst-2027-201710856.html",
+     "time": "2026-11-23T18:57:07+00:00"
+    },
+    {
+     "title": "Zeugen Jehovas erhalten historisches NS-Familienarchiv zurück",
+     "summary": "Ein wichtiges Dokumentenarchiv über die Verfolgung der Familie Kusserow während der NS-Zeit ist nach langer Debatte an die Zeugen Jehovas übergeben worden. Die Sammlung, die zuvor im Militärhistorischen Museum lag, dokumentiert das Leid der Glaubensgemeinschaft.",
+     "category": "Zeitgeschichte",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/kultur/zeugen-jehovas-erhalten-familienarchiv-aus-ns-zeit-zurueck-a-b4118e8e-36ab-46ca-9f36-8b2ca86bd98f#ref=rss",
+     "time": "2026-11-23T16:41:00+01:00"
+    },
+    {
+     "title": "Bob Dylan begeistert Publikum bei Konzert in Frankfurt",
+     "summary": "Der legendäre US-Musiker Bob Dylan ist im Rahmen seiner Tournee in Frankfurt aufgetreten. Kritiker lobten die stimmlich überzeugende Darbietung des Künstlers und das perfekt eingespielte Zusammenspiel seiner Band.",
+     "category": "Konzert",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/bob-dylan-in-frankfurt-201709636.html",
+     "time": "2026-11-23T14:57:08+00:00"
+    },
+    {
+     "title": "Marisa Burger verlässt nach 25 Jahren die ZDF-Serie „Die Rosenheim-Cops“",
+     "summary": "Nach einem Vierteljahrhundert in ihrer Paraderolle als Sekretärin Frau Stockl steigt Marisa Burger aus der erfolgreichen ZDF-Serie „Die Rosenheim-Cops“ aus. Ihr Abschied markiert das Ende einer Ära für die beliebte Vorabendserie.",
+     "category": "Serien",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/zdf-rosenheim-cops-ohne-frau-stockl-marisa-burger-hoert-auf-201708581.html",
+     "time": "2026-11-23T17:10:00+00:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "de93a35eb08984af",
+   "overview": "Das Geschehen in der Türkei wird in dieser Phase von internationalen Gipfeltreffen, wirtschaftlichen Entwicklungen und innenpolitischen Dynamiken geprägt. Das Ende des UN-Klimagipfels COP31 in Antalya ohne verbindliche Einigung vertieft die Debatten über Klimapolitik und Finanzierung, während wirtschaftliche Neuordnungen wie die Anpassung der Neubewertungsquote und Haushaltsberatungen die Bürger beschäftigen. Parallel dazu laufen kulturelle Veranstaltungen und der sportliche Wettbewerb in den Ligen auf Hochtouren.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Klimagipfel COP31 in Antalya ohne Einigung zu Ende gegangen",
+     "summary": "Der UN-Klimagipfel COP31 in Antalya ist ohne umfassende Einigung über den Ausstieg aus fossilen Brennstoffen und die Klimafinanzierung zu Ende gegangen. Umweltverbände warfen den Industrieländern vor, ihrer Verantwortung nicht nachzukommen, während das Treffen als längste Verhandlung der Konferenzgeschichte in die Bücher einging.",
+     "category": "Umwelt",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/cop31-antalya-da-neden-uzlaşısız-bitti-fosil-yakıt-ve-iklim-finansmanı-tıkanıklığı/a-80022675",
+     "time": "2026-11-23T16:30:00+00:00"
+    },
+    {
+     "title": "Sicherheitskreise: PKK räumt 14 Unterstände im Nordirak",
+     "summary": "Sicherheitskreisen zufolge hat die PKK im Nordirak 14 weitere Unterstände geräumt. Diese Entwicklung zeige Fortschritte im Prozess der Entwaffnung und Annäherung an gesellschaftliche Integration.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/güvenlik-kaynakları-pkk-kuzey-irak-ta-14-barınma-alanını-boşalttı/a-80021891",
+     "time": "2026-11-23T14:18:00+00:00"
+    },
+    {
+     "title": "Causa Ekrem İmamoğlu steht auf der Agenda des Verfassungsgerichts",
+     "summary": "Das Verfassungsgericht der Türkei wird den Antrag von Ekrem İmamoğlu in seiner Sitzung am 26. November behandeln. Das Gericht entscheidet über die Vorwürfe der Rechtswidrigkeit der Inhaftierung.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/ekrem-i̇mamoğlu-dosyası-aym-gündeminde-tahliye-kararı-çıkar-mı/a-80019289",
+     "time": "2026-11-23T11:21:00+00:00"
+    },
+    {
+     "title": "Gouvernement Istanbul: Keine konkreten Beweise für einen Löwen in Sarıyer",
+     "summary": "Nach einer Sichtungsmeldung im Istanbuler Stadtteil Sarıyer haben die Behörden erklärt, dass es keine konkreten Beweise für die Anwesenheit eines Löwen gibt. Nach Untersuchung der Aufnahmen wurde festgestellt, et es sich bei dem Tier um keine Großkatze handelt.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/23/istanbul-valiligi-bolgede-aslan-bulunduguna-dair-somut-bulguya-rastlanmadi",
+     "time": "2026-11-23T21:21:18+01:00"
+    },
+    {
+     "title": "Großrazzia gegen kriminelle Vereinigung: 90 Festnahmen",
+     "summary": "Bei Operationen gegen die kriminelle Bande 'Bayğaralar' mit Schwerpunkt in Adana wurden 90 von 105 festgenommenen Verdächtigen in Untersuchungshaft geschickt. Unter den Festgenommenen befinden sich Medienberichten zufolge auch 12 Minderjährige.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Diken",
+     "url": "https://www.diken.com.tr/baygaralar-operasyonu-12si-cocuk-90-tutuklama/",
+     "time": "2026-11-23T18:25:18+00:00"
+    },
+    {
+     "title": "Neubewertungsquote für 2026 auf 27,83 Prozent festgelegt",
+     "summary": "Das Ministerium für Schatzamt und Finanzen hat die Neubewertungsquote für das Jahr 2026 auf 27,83 Prozent festgesetzt. Die im Amtsblatt veröffentlichte Quote bildet die Grundlage für die Berechnung von Steuern, Gebühren und Geldstrafen im kommenden Jahr.",
+     "category": "Steuern",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/resmi-gazetede-yayimlandi-2026-yili-yeniden-degerleme-orani-yuzde-2085836",
+     "time": "2026-11-24T00:42:00+03:00"
+    },
+    {
+     "title": "Scharfer Rückgang der Reserven der türkischen Zentralbank",
+     "summary": "Die Währungsreserven der Zentralbank der Republik Türkei haben in zwei aufeinanderfolgenden Wochen drastische Verluste verzeichnet. Berechnungen zufolge beläuft sich der Rückgang innerhalb von zwei Wochen auf insgesamt 19 Milliarden US-Dollar.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/merkez-bankasi-rezervlerinde-sert-kayip-iki-haftada-19-milyar-dolar-geriledi-2558669",
+     "time": "2026-11-23T15:57:00+03:00"
+    },
+    {
+     "title": "Eurostat-Daten: Türkei auf dem ersten Platz bei der Einkommensungleichheit in Europa",
+     "summary": "Während sich die Einkommensverteilung in Europa insgesamt verbessert hat, zeigt sich in der Türkei ein entgegengesetzter Trend. Laut Eurostat-Daten belegt die Türkei den ersten Platz bei der Einkommensungleichheit unter den europäischen Ländern.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/turkiye-avrupa-da-gelir-esitsizliginde-ilk-sirada-eurostat-verileri-acikladi-2558606",
+     "time": "2026-11-23T13:14:00+03:00"
+    },
+    {
+     "title": "Neue Regelungen für Rechnungs- und Zahlungssysteme",
+     "summary": "Das Ministerium für Schatzamt und Finanzen hat wesentliche Änderungen an den elektronischen Rechnungs- und Zahlungssystemen vorgenommen. Mit der Veröffentlichung im Amtsblatt wurden die Methoden für e-Archiv-Rechnungen erweitert.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/resmi-gazetede-yayimlandi-fatura-ve-odeme-sistemlerinde-fatura-2085835",
+     "time": "2026-11-24T00:15:00+03:00"
+    },
+    {
+     "title": "Arbeitsminister Işıkhan äußert sich zu Rentenberechnungen",
+     "summary": "Der Minister für Arbeit und soziale Sicherheit, Vedat Işıkhan, hat sich zu den Berechnungssystemen für Renten und den Unterschieden zwischen den Bezügen geäußert. Während die Erwartungen an Reformen anhalten, wurden drei verschiedene Berechnungsmethoden hervorgehoben.",
+     "category": "Arbeit",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/emekli-maaslarinda-uc-farkli-hesaplama-sistemi-bakan-isikhan-ayrintilari-acikladi-2558584",
+     "time": "2026-11-23T12:22:00+03:00"
+    },
+    {
+     "title": "Betrugsmasche rund um GTA 6: Tausende Schadsoftware-Fälle entdeckt",
+     "summary": "Das Cybersecurity-Unternehmen Kaspersky hat gewarnt, dass Betrüger das große Interesse an GTA 6 ausnutzen, um Spieler mit gefälschten Download-Dateien und verfrühten Zugangsversprechen zu ködern. Weltweit wurden Tausende Fälle von Schadsoftware im Zusammenhang mit dem Spiel registriert.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-6-indirmek-isteyenler-dikkat-sahte-dosyalarla-dolandiricilik-tuzagi-2558577",
+     "time": "2026-11-23T12:05:00+03:00"
+    },
+    {
+     "title": "Klage gegen SpaceX wegen KI-generierter intimer Bildinhalte",
+     "summary": "Die Generalstaatsanwälte der US-Bundesstaaten Virginia und Oregon haben Klage gegen SpaceX eingereicht. Grund dafür ist die angebliche Bereitstellung von Plattformen zur Erstellung und Verbreitung von nicht einvernehmlichen, KI-generierten intimen Bildern.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/riza-disi-cinsel-icerikli-yapay-zeka-goruntuleri-nedeniyle-spacex-e-dava-2558733",
+     "time": "2026-11-23T20:06:00+03:00"
+    },
+    {
+     "title": "Gerüchte über Titanrahmen beim iPhone 20 Pro",
+     "summary": "Zu den im Jahr 2027 erwarteten iPhone 20 Pro Modellen von Apple sind neue Design-Gerüchte aufgetaucht. Laut Berichten wird bei Vorserienmodellen ein Titanrahmen anstelle von Aluminium erprobt.",
+     "category": "Hardware",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/iphone-20-pro-hakkinda-yeni-sizinti-aluminyum-yerine-titanyum-gelebilir-2558547",
+     "time": "2026-11-23T11:06:00+03:00"
+    },
+    {
+     "title": "100 Millionen Jahre altes Blütenfossil in Museumsdepot entdeckt",
+     "summary": "Forscher haben in einem Gesteinsbrocken, der seit 130 Jahren im Depot eines US-Museums aufbewahrt wurde, das Fossil einer rund 100 Millionen Jahre alten, ausgestorbenen Blume entdeckt.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/130-yildir-depoda-tutulan-tasta-yaklasik-100-milyon-yillik-cicek-fosili-bulundu-2558730",
+     "time": "2026-11-23T19:59:00+03:00"
+    },
+    {
+     "title": "Grand Theft Auto VI erhält erstes Konsolen-Update",
+     "summary": "Das mit großer Spannung erwartete Grand Theft Auto VI hat kurz nach seiner Veröffentlichung erste Updates für die Konsolen Xbox Series und PlayStation 5 erhalten.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-vi-konsollar-icin-ilk-guncellemesini-aldi-2558753",
+     "time": "2026-11-23T21:32:00+03:00"
+    },
+    {
+     "title": "Başakşehir besiegt Çorum FK mit 4:2 nach Rückstand",
+     "summary": "Am 12. Spieltag der Süper Lig drehte Başakşehir einen 0:2-Rückstand im Heimspiel gegen Çorum FK und gewann mit 4:2. Stürmer Bertuğ Yıldırım hatte mit einem Hattrick maßgeblichen Anteil am Sieg.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/bertug-yildirim-hat-trick-yapti-basaksehir-2-0-dan-geri-dondu-2558772",
+     "time": "2026-11-23T22:33:00+03:00"
+    },
+    {
+     "title": "Schock für Başakşehir: Saison-Aus für Emin Bayram",
+     "summary": "Nach dem Spiel gab Başakşehir-Trainer Nuri Şahin bekannt, dass sich Emin Bayram eine schwere Verletzung zugezogen hat und für den Rest der Saison ausfallen wird.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/nuri-sahin-kotu-haberi-duyurdu-sezonu-kapatti-2558794",
+     "time": "2026-11-24T00:04:00+03:00"
+    },
+    {
+     "title": "Fenerbahçe vor entscheidenden Wochen in Liga und Europa",
+     "summary": "Nach dem Punktverlust gegen Kocaelispor konzentriert sich Fenerbahçe voll und ganz auf die kommenden sechs richtungsweisenden Partien in der Süper Lig und der UEFA Champions League.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/super-lig-de-ve-avrupa-da-belirleyici-olacak-maclara-cikacak-f-bahçe-kritik-virajlarda-2558783",
+     "time": "2026-11-24T04:00:00+03:00"
+    },
+    {
+     "title": "Türkische Basketball-Nationalmannschaft vor Länderspielen",
+     "summary": "Kapitän Kenan Sipahi und Cheftrainer Ergin Ataman gaben auf einem Medientag vor den anstehenden Partien der türkischen Basketball-Nationalmannschaft gegen Italien und Island Einblicke in die Vorbereitung.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/kenan-sipahi-milli-forma-oldugu-zaman-yorgunluklar-gidiyor-2558775",
+     "time": "2026-11-23T22:50:00+03:00"
+    },
+    {
+     "title": "Personalprobleme bei Galatasaray-Gegner Aston Villa",
+     "summary": "Vor dem UEFA Champions League-Duell gegen Galatasaray muss der englische Vertreter Aston Villa auf vier verletzte Spieler verzichten, die nicht im Kader stehen werden.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-maci-oncesi-aston-villa-da-bir-eksik-daha-2558732",
+     "time": "2026-11-23T20:02:00+03:00"
+    },
+    {
+     "title": "34 neolithische Artefakte aus Taş Tepeler in Ankara ausgestellt",
+     "summary": "34 Fundstücke aus den Ausgrabungen in Göbeklitepe, Karahantepe, Sefertepe und Sayburç in Şanlıurfa wurden in der Nationalbibliothek der Präsidentschaft in Ankara ausgestellt. Darunter befindet sich auch ein im Jahr 2026 entdeckter, monumentaler Geierkopf.",
+     "category": "Archäologie",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/kultur-sanat-haberleri/tas-tepelerden-34-neolitik-eser-ankarada-gorucuye-cikti-2085830",
+     "time": "2026-11-24T00:01:00+03:00"
+    },
+    {
+     "title": "Geheimnis des 2.000 Jahre alten Tunnels in Adıyaman wird gelöst",
+     "summary": "Neueste Forschungen zeigen, dass der 158 Meter lange Stufentunnel in der antiken Stadt Arsameia in Adıyaman nicht nur der Wasserversorgung diente. Besucher erlebten dort offenbar rituelle Erfahrungen im Rahmen des Kommagene-Königreichs.",
+     "category": "Geschichte",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/23/komagene-kralliginin-kutsal-tuzagi-adiyamandaki-2-bin-yillik-tunelin-sirri-cozuluyor",
+     "time": "2026-11-23T17:52:37+01:00"
+    },
+    {
+     "title": "Dschingis Aitmatows Musical „Jamila“ in Ankara aufgeführt",
+     "summary": "Das nach dem Werk des berühmten kirgisischen Autors Dschingis Aitmatow adaptierte Musical „Jamila“ wurde von Künstlern der Kirgisischen Republik auf der Opernbühne des Atatürk-Kulturzentrums aufgeführt.",
+     "category": "Bühne",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/kirgiz-cumhuriyeti-sanatcilari-cemile-muzikalini-sahneledi-2558703",
+     "time": "2026-11-23T17:39:00+03:00"
+    },
+    {
+     "title": "BASE bringt zum 10. Jubiläum 128 junge Künstler nach Istanbul",
+     "summary": "Die Kunstplattform BASE bringt vom 9. bis 13. Dezember zum zehnten Mal Absolventen aus 38 Städten der Türkei zusammen und zeigt die Werke von 128 jungen Kunstschaffenden, darunter auch Gäste aus Griechenland.",
+     "category": "Ausstellung",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/23/base-10inci-yilinda-128-genc-sanatciyi-istanbulda-bulusturuyor",
+     "time": "2026-11-23T14:28:28+01:00"
+    },
+    {
+     "title": "Einzelausstellung der Künstlerin Binnur Ersay in Galataport eröffnet",
+     "summary": "Die dreiteilige Einzelausstellung der Künstlerin Binnur Ersay, die Themen vom Pferdemotiv bis zum kulturellen Gedächtnis Istanbuls umfasst, wurde für Besucher in Galataport eröffnet.",
+     "category": "Kunst",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/23/sanatci-binnur-ersayin-3-bolumlu-kisisel-sergisi-galataportta-acildi",
+     "time": "2026-11-23T14:39:14+01:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "50e1b413f7505b91",
+   "overview": "Das internationale Geschehen wird von geopolitischen Krisen und turbulenten Entwicklungen in der Technologiebranche geprägt. Das Übergreifen des Ukraine-Kriegs auf Libyen und NATO-Gebiet verstärkt die Sicherheitsbedenken, während die überraschende Rückkehr von Jensen Huang zu Nvidia an den globalen Märkten für Aufsehen sorgte. Das Scheitern des Klimagipfels COP31 ohne Einigung sowie wegweisende internationale Justizentscheidungen prägten ebenfalls das Tagesgeschehen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Ukrainischer Drohnenangriff versenkt russisches Kriegsschiff in Libyen",
+     "summary": "Ukrainische Kräfte haben die im libyschen Hafen von Bengasi stationierte russische Korvette Merkury mit Seedrohnen versenkt. Präsident Wolodymyr Selenskyj bestätigte den Angriff, während die Behörden im Osten Libyens eine UN-Untersuchung forderten. Damit dehnt sich der Ukraine-Krieg erstmals auf den Mittelmeerraum aus.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/afrika/russisches-kriegsschiff-zerstoert-100.html",
+     "time": "2026-11-23T09:24:41+01:00"
+    },
+    {
+     "title": "Vierzehn Staaten erkennen IGH-Urteil zu Völkermord an Rohingya an",
+     "summary": "Vierzehn Länder aus Europa, Afrika und Ozeanien haben das historische Urteil des Internationalen Gerichtshofs anerkannt, wonach Myanmar einen Völkermord an der Minderheit der Rohingya verübt hat. Großbritannien kündigte zudem Sanktionen gegen fünf militärische Führungspersönlichkeiten aus Myanmar an. Der Schritt wird als wichtiger Meilenstein für die internationale Justiz gewertet.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
+     "time": "2026-11-23T23:10:22+00:00"
+    },
+    {
+     "title": "NATO-Jahrestagung in Berlin warnt Russland vor Angriffen",
+     "summary": "Zum Abschluss der NATO-Jahrestagung in Berlin haben die Verbündeten ihre Entschlossenheit betont, jedes Gebiet des Bündnisses zu verteidigen. NATO-Generalsekretär Mark Rutte und Bundeskanzler Friedrich Merz äußerten sich besorgt über Berichte zu russischen Plänen für atomar bewaffnete Satelliten. Auf der Tagung wurden verstärkte Schutzmaßnahmen für die Ostflanke erörtert.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/merz-rutte-nato-104.html",
+     "time": "2026-11-23T17:57:55+01:00"
+    },
+    {
+     "title": "Südkorea fordert Inselbewohner nach Annäherung russischer Flugzeuge zum Schutz auf",
+     "summary": "Nachdem sich mehrere russische Militärflugzeuge der südkoreanischen Luftverteidigungszone über der Insel Ulleungdo genähert hatten, wurden die Bewohner angewiesen, Schutzräume aufzusuchen. Das Verteidigungsministerium sprach von einer präventiven Warnung vor einer möglichen Luftraumverletzung. Die militärische Überwachung in der Region wurde verschärft.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/24/south-korea-tells-island-residents-take-shelter-after-russian-military-aircraft-approach",
+     "time": "2026-11-24T04:14:43+00:00"
+    },
+    {
+     "title": "El Salvadors Präsident Bukele für Militäreinsatz in Haiti gefeiert",
+     "summary": "Nachdem internationale Missionen kaum Wirkung gegen die grassierende Bandengewalt in Haiti zeigen konnten, hat El Salvadors Präsident Nayib Bukele mehrere tausend Soldaten ohne UN-Mandat entsandt. Das Vorgehen wird in seiner Heimat als Erfolg gefeiert, wirft jedoch international rechtliche Fragen auf. Die Intervention zielt auf die Zerschlagung krimineller Strukturen ab.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/el-salvador-haiti-100.html",
+     "time": "2026-11-24T01:53:40+01:00"
+    },
+    {
+     "title": "Jensen Huang nach Intervention von US-Präsident wieder Nvidia-Chef",
+     "summary": "Der Verwaltungsrat von Nvidia hat Jensen Huang nach einer direkten Intervention von US-Präsident Donald wieder zum Vorstandschef ernannt. Huang war zuvor im Zuge einer Affäre um eine anbliche Spionin zurückgetreten. Seine überraschende Rückkehr ließ den Börsenwert des Chipkonzerns um fast eine Billion Dollar steigen und trieb die Technologiewerte nach oben.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/technology/2026/nov/23/jensen-huang-reinstated-as-nvidia-chief-executive",
+     "time": "2026-11-23T22:23:40+00:00"
+    },
+    {
+     "title": "USA setzen KI-Unternehmen Megaspeed nach Nvidia-Skandal auf schwarze Liste",
+     "summary": "Das US-Handelsministerium hat das in Singapur ansässige Unternehmen Megaspeed sowie dessen Tochtergesellschaften auf eine Handels-Sanktionsliste gesetzt. Der Schritt erfolgt im Zuge von Ermittlungen, ob die Firma hochentwickelte KI-Chips unzulässigerweise umgeleitet hat. Die Maßnahme unterstreicht die verschärfte US-Kontrolle über den globalen Halbleiterhandel.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
+     "time": "2026-11-24T01:47:15+00:00"
+    },
+    {
+     "title": "EU-Kommission schlägt Ausschluss russischer Flaggen bei Sportevents vor",
+     "summary": "Russische Sportlerinnen und Sportler sollen nach einem Vorschlag der EU-Kommission bei europäischen Wettbewerben nicht mehr unter ihrer Landesflagge antreten dürfen. Das Maßnahmenpaket, das auch Verschärfungen in der Wirtschaft und im Energiesektor vorsieht, soll den Druck auf Moskau erhöhen. Die Mitgliedstaaten beraten nun über das Vorhaben.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
+     "time": "2026-11-23T18:23:33+01:00"
+    },
+    {
+     "title": "Umweltsorge wegen geplanter Ölförderung auf den Falklandinseln",
+     "summary": "Geplante Ölförderprojekte auf den Falklandinseln stoßen bei Umweltschützern auf scharfe Kritik. Während Großbritannien und Argentinien weiter um die Souveränität des Archipels streiten, warnen Experten vor unumkehrbaren Schäden für die artenreiche Meeresfauna. Die Region beherbergt bedeutende Populationen von Meeressäugern und Seevögeln.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/global-development/2026/nov/23/falkland-islands-argentina-sea-lion-oil-environment-sovereignty-wildlife-pollution",
+     "time": "2026-11-23T06:00:49+00:00"
+    },
+    {
+     "title": "Klimagipfel COP31 endet ohne Einigung zu fossilen Brennstoffen",
+     "summary": "Die in der Türkei stattfindende UN-Klimakonferenz COP31 ist ohne einen Konsens zu Ende gegangen. Erstmals seit 2009 konnte sich die Konferenz aufgrund tiefgreifender Differenzen über fossile Energieträger und Klimafinanzierung nicht auf ein Abschlusspaket einigen. Vor allem afrikanische und entwicklungspolitische Staaten reagierten enttäuscht auf das Ergebnis.",
+     "category": "Klima",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
+     "time": "2026-11-23T15:23:26+00:00"
+    },
+    {
+     "title": "US-Bundesstaaten verklagen Plattform wegen Grok-KI-Inhalten",
+     "summary": "Mehrere US-Bundesstaaten haben rechtliche Schritte eingeleitet, um zu verhindern, dass das von xAI entwickelte Tool Grok kinderpornografische und intime Deepfake-Inhalte generiert. Während das Unternehmen beteuert, alle Ausgaben zu überwachen, verweisen die Generalstaatsanwälte auf anhaltende Sicherheitslücken. Der Fall verschärft die Debatte um die Regulierung generativer KI.",
+     "category": "KI-Politik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+     "time": "2026-11-23T21:30:44+00:00"
+    },
+    {
+     "title": "Hacker hinter GTA-6-Angriff unter Auflagen auf freien Fuß gesetzt",
+     "summary": "Der 21-jährige Arion Kurtaj, der sich des Hackerangriffs auf Rockstar Games schuldig gemacht hatte, wurde unter Auflagen aus der Haft entlassen. Der verurteilte Täter stand zuvor wegen diverser Cyberangriffe im Fokus der Justiz. Die Behörden erteilten ihm strenge Auflagen zur Vermeidung weiterer Straftaten.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/cqpv9kr7pxmro",
+     "time": "2026-11-23T14:08:50+00:00"
+    },
+    {
+     "title": "FIFA startet zweite Runde der US-Medienrechte für WM 2030",
+     "summary": "Der Fußball-Weltverband FIFA führt für die TV- und Medienrechte der Weltmeisterschaft 2030 in den USA eine zweite Bieterrunde mit Fox Sports und Netflix durch. Nach starken Angeboten in der ersten Runde strebt der Verband einen harten Wettbewerb an. Dies markiert einen wichtigen Schritt für die künftige Verwertung von Sportereignissen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/23/fifa-world-cup-2030-media-rights-fox-netflix",
+     "time": "2026-11-23T22:28:04+00:00"
+    },
+    {
+     "title": "Polizei ermittelt nach Online-Morddrohungen gegen junge Tennisspielerin",
+     "summary": "Nach einer Niederlage bei einem Turnier in Adelaide ist die 18-jährige australische Tennisspielerin Taylah Lessue Ziel schwerer Online-Belästigungen und Morddrohungen geworden. Tennis Australia sicherte der Nachwuchssportlerin volle Unterstützung zu. Die Polizei hat Ermittlungen zur Identifizierung der Täter aufgenommen.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/24/junior-tennis-player-taylah-lessue-vile-death-threats-online-abuse-adelaide-defeat-ntwnfb",
+     "time": "2026-11-24T04:11:54+00:00"
+    },
+    {
+     "title": "Steven Spielberg verfilmt Western nach Drehbuch von Paul Thomas Anderson",
+     "summary": "Regisseur Steven Spielberg plant ein neues Kinoprojekt: Einen Western nach einem Drehbuch von Paul Thomas Anderson. Die Produktion adaptiert den Roman The Heart in Winter von Kevin Barry aus dem Jahr 2024. Für die Hauptrollen sind hochkarätige Darsteller wie Cillian Murphy und Jessie Buckley im Gespräch.",
+     "category": "Kino",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/film/2026/nov/23/spielberg-western-paul-thomas-anderson-heart-in-winter",
+     "time": "2026-11-23T18:10:31+00:00"
+    },
+    {
+     "title": "Elizabeth-Holmes-Dokumentation knackt 100-Millionen-Dollar-Marke an den Kinokassen",
+     "summary": "Der von Nathan Fielder und Lance Oppenheim inszenierte Dokumentarfilm über die verurteilte Betrügerin Elizabeth Holmes hat weltweit die Marke von 100 Millionen US-Dollar eingespielt. In Großbritannien verzeichnete der Streifen den erfolgreichsten Kinostart für eine nicht-musikalische Dokumentation aller Zeiten.",
+     "category": "Film",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/film/2026/nov/23/you-can-see-everything-global-box-office-uk-release-nathan-fielder-elizabeth-holmes",
+     "time": "2026-11-23T11:57:19+00:00"
+    }
+   ]
+  }
+ ]
+}
