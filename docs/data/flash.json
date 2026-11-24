@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-24T21:38+01:00",
+ "updatedAt": "2026-11-24T22:08+01:00",
  "countries": {
   "de": [
    {
@@ -22,6 +22,15 @@
     }
    },
    {
+    "time": "2026-11-24T20:14:25+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/plus6ad709a151e5094f7a572743/linke-in-berlin-unwuerdig-und-undemokratisch-jetzt-schlagen-emdes-unterstuetzer-alarm.html",
+    "text": {
+     "tr": "Berlin'de Sol Parti, israelfeindliği nedeniyle milletvekili Vanessa Emde'yi gruptan ihraç etti.",
+     "de": "Die Berliner Linke hat die umstrittene Abgeordnete Vanessa Emde wegen israelfeindlicher Äußerungen aus der Fraktion ausgeschlossen."
+    }
+   },
+   {
     "time": "2026-11-24T20:06:34+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
@@ -38,18 +47,27 @@
      "tr": "Okullara yönelik çok sayıda bombalı tehdit e-postasının ardından polis, amacın toplumu huzursuz etmek ve istikrarsızlaştırmak olduğunu belirtti.",
      "de": "Nach zahlreichen Bombendrohungen per E-Mail an Schulen vermutet die Polizei eine gezielte Aktion zur Verunsicherung und Destabilisierung."
     }
-   },
-   {
-    "time": "2026-11-24T18:58:10+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/spaniens-wahlkampf-junge-waehlen-vox-aber-sanchez-kaempft-um-die-generation-201697749.html",
-    "text": {
-     "tr": "İspanya'da siyasetçiler genç seçmenlere ulaşmak amacıyla popüler YouTuber'ların programlarına katılarak röportajlar veriyor.",
-     "de": "Im spanischen Wahlkampf treten Spitzenpolitiker bei YouTubern auf, um junge Wähler zu erreichen, die zuletzt verstärkt nach rechts gerückt sind."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-25T00:06:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/unai-emery-den-galatasaray-maci-sonrasi-hakem-tepkisi-adil-davrandigini-dusunmuyorum-2559125",
+    "text": {
+     "tr": "Aston Villa Teknik Direktörü Unai Emery, Galatasaray maçı sonrasında hakem kararlarına tepki gösterdi.",
+     "de": "Aston-Villa-Trainer Unai Emery hat nach dem Spiel gegen Galatasaray Kritik an der Leistung des Schiedsrichters geübt."
+    }
+   },
+   {
+    "time": "2026-11-24T23:44:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011055/galatasaray-in-aston-villa-macinda-galibiyet-golunu-atan-deniz-gul-un-burnu-kirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Galatasaray'ın Aston Villa maçında galibiyet golünü atan Deniz Gül'ün burnu kırıldı.",
+     "de": "Deniz Gül, der beim Sieg von Galatasaray gegen Aston Villa das entscheidende Tor erzielte, erlitt einen Nasenbruch."
+    }
+   },
    {
     "time": "2026-11-24T23:26:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -76,27 +94,27 @@
      "tr": "İstanbul Avcılar'da yeraltı elektrik kablolarındaki patlamalar ve çıkan yangın nedeniyle dört sokakta elektrik kesintisi yaşandı.",
      "de": "In Istanbul-Avcilar kam es nach Explosionen in unterirdischen Stromkabeln zu einem Brand und Stromausfällen in vier Straßen."
     }
-   },
-   {
-    "time": "2026-11-24T22:35:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/kadinlar-cagri-yapmisti-beyoglu-kaymakamligi-25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu-yuruyusunu-yasakladi-2559098",
-    "text": {
-     "tr": "Beyoğlu Kaymakamlığı, 25 Kasım Kadına Yönelik Şiddete Karşı Mücadele Günü yürüyüşünü yasakladı.",
-     "de": "Das Bezirksamt Beyoğlu hat den Marsch zum Internationalen Tag zur Beseitigung von Gewalt gegen Frauen am 25. November verboten."
-    }
-   },
-   {
-    "time": "2026-11-24T22:27:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011050/bakan-uraloglu-ndan-hgs-aciklamasi-usulsuz-icra-odemeleri-iade-edilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Ulaştırma Bakanı Abdulkadir Uraloğlu, HGS kapsamında usulsüz kesilen icra ödemelerinin iade edileceğini açıkladı.",
-     "de": "Verkehrsminister Abdulkadir Uraloğlu kündigte an, dass unrechtmäßig erhobene Vollstreckungszahlungen im Mautsystem zurückerstattet werden."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-24T20:59:21+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+    "text": {
+     "tr": "New York'taki mahkeme, Huawei şirketini ticari sır hırsızlığından suçlu buldu.",
+     "de": "Ein Gericht in New York hat den Technologiekonzern Huawei des Diebstahls von Geschäftsgeheimnissen schuldig gesprochen."
+    }
+   },
+   {
+    "time": "2026-11-24T20:53:57+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
+    "text": {
+     "tr": "Birleşmiş Milletler, başörtüsüz şarkı söylediği için kamçı cezası alan İranlı şarkıcı Parastoo Ahmadi'yi kınadı.",
+     "de": "Die Vereinten Nationen haben die Bestrafung der iranischen Sängerin Parastoo Ahmadi mit Peitschenhieben scharf verurteilt."
+    }
+   },
    {
     "time": "2026-11-24T20:20:24+00:00",
     "source": "The Guardian World",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Nvidia CEO'su Jensen Huang, şirket çalışanlarından uygunsuz ilişkiler nedeniyle özür diledi.",
      "de": "Nvidia-Chef Jensen Huang hat sich bei den Mitarbeitern für außereheliche Affären und das Fehlverhalten entschuldigt."
-    }
-   },
-   {
-    "time": "2026-11-24T19:27:10+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
-    "text": {
-     "tr": "Kolombiya'nın Villavicencio kentinde patlayan bombalı araç valiilik binası ve çevredeki yapıları tahrip etti.",
-     "de": "Eine Autobombe hat in der kolumbianischen Stadt Villavicencio das Gouverneursgebäude und umliegende Bauten zerstört."
-    }
-   },
-   {
-    "time": "2026-11-24T19:07:26+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/nov/24/cuba-life-expectancy-decline",
-    "text": {
-     "tr": "WHO başkanı, ağır ekonomik krizle boğuşan Küba'da yaşam beklentisinin 1950'den bu yana ilk kez düştüğünü açıkladı.",
-     "de": "Die Lebenserwartung auf Kuba ist infolge einer schweren Wirtschaftskrise laut WHO-Angaben zum ersten Mal seit 1950 gesunken."
     }
    }
   ]
@@ -229,6 +229,7 @@
   "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
   "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
   "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
+  "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
   "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
   "https://www.bbc.co.uk/news/articles/crpdw1qx7jgxo",
   "https://www.bbc.co.uk/news/articles/cwy7r5z8gg65o",
@@ -296,6 +297,7 @@
   "https://www.cumhuriyet.com.tr/gurme/hatay-mutfaginin-sevilen-lezzeti-zahter-salatasi-tarifi-2558981",
   "https://www.cumhuriyet.com.tr/gurme/soguk-kis-gunlerine-sicacik-bir-lezzet-kestane-corbasi-tarifi-2558865",
   "https://www.cumhuriyet.com.tr/gurme/tatli-ve-mayhos-lezzet-bir-arada-visneli-islak-kek-tarifi-2558888",
+  "https://www.cumhuriyet.com.tr/kitap/yarin-gunlerden-cumhuriyet-kitap-sayi-1919-26-kasim-2026-2559094",
   "https://www.cumhuriyet.com.tr/kultur-sanat/abbas-yasar-dan-ankara-da-resim-sergisi-butunsel-ve-baglantisal-kavrayisla-sanat-2558954",
   "https://www.cumhuriyet.com.tr/kultur-sanat/her-motif-bir-medeniyet-2558936",
   "https://www.cumhuriyet.com.tr/kultur-sanat/idso-nun-ogretmen-gunu-konseri-gulden-turali-anisina-2558938",
@@ -309,6 +311,15 @@
   "https://www.cumhuriyet.com.tr/magazin/kizini-kaybeden-atilla-tas-torunlariyla-bulustu-paylasimi-duygulandirdi-2558845",
   "https://www.cumhuriyet.com.tr/magazin/unlu-oyuncu-jessica-alba-eski-esine-yarim-milyon-dolardan-fazla-odeyecek-2558931",
   "https://www.cumhuriyet.com.tr/otomotiv/honda-kis-bakim-kampanyasi-2026-hangi-modellerde-yuzde-30-indirim-var-kampanya-ne-zaman-bitiyor-2558826",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/beylikduzu-belediye-baskanligi-2559101",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/gaziemir-vergi-dairesi-mudurlugu-2559099",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/gungoren-belediye-baskanligi-2559105",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/sultanbeyli-belediye-bsk-2559093",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-adana-7-sulh-hukuk-mahkemesi-hakimligi-2559096",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-bursa-satis-memurlugu-2559102",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-konya-8-sulh-hukuk-mahkemesi-2559097",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kozan-3-asliye-hukuk-mahkemesi-hakimligi-2559095",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-salihli-1-asliye-hukuk-mahkemesi-hakimligi-2559103",
   "https://www.cumhuriyet.com.tr/saglik/pankreas-kanserinde-bu-3-belirtiye-dikkat-uzman-isim-acikladi-2558866",
   "https://www.cumhuriyet.com.tr/saglik/proton-tedavisi-nedir-hangi-kanser-turlerinde-uygulanabilir-uzmani-anlatti-2558932",
   "https://www.cumhuriyet.com.tr/siyaset/akp-de-ikinci-ust-duzey-fon-depremi-hayati-yazici-istifa-sorusuna-ne-yanit-verdi-2559065",
@@ -356,6 +367,7 @@
   "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-shakhtar-donetsk-maci-kamp-kadrosu-belli-oldu-2558891",
   "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-barcelona-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2558898",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-aston-villa-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2558844",
+  "https://www.cumhuriyet.com.tr/spor/galatasaray-da-lemina-ve-torreira-dan-sakatlik-yaniti-2559124",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-in-genclerinden-aston-villa-karsisinda-muthis-geri-donus-2559021",
   "https://www.cumhuriyet.com.tr/spor/hakan-calhanoglu-ndan-inter-e-kotu-haber-2559055",
   "https://www.cumhuriyet.com.tr/spor/jakobs-aston-villa-macinda-oynayacak-mi-ismail-jakobs-sakat-mi-2558842",
@@ -368,6 +380,7 @@
   "https://www.cumhuriyet.com.tr/spor/sallai-aston-villa-macinda-oynayacak-mi-roland-sallai-sakat-mi-2558824",
   "https://www.cumhuriyet.com.tr/spor/senegal-in-afrika-uluslar-kupasi-sampiyonlugu-geri-verildi-2559046",
   "https://www.cumhuriyet.com.tr/spor/trabzonspor-thomas-reis-ile-firtina-gibi-esiyor-2558882",
+  "https://www.cumhuriyet.com.tr/spor/unai-emery-den-galatasaray-maci-sonrasi-hakem-tepkisi-adil-davrandigini-dusunmuyorum-2559125",
   "https://www.cumhuriyet.com.tr/spor/ziraat-bankkart-tan-9-da-9-luk-seri-2559053",
   "https://www.cumhuriyet.com.tr/turkiye/2026-adalet-bakanligi-hakimlik-ve-savcilik-sinav-basvurulari-basladi-mi-hakimlik-ve-savcilik-sinavi-ne-zaman-2558827",
   "https://www.cumhuriyet.com.tr/turkiye/407-internet-sitesine-erisim-engeli-getirildi-2558828",
@@ -618,6 +631,9 @@
   "https://www.evrensel.net/haber/6011050/bakan-uraloglu-ndan-hgs-aciklamasi-usulsuz-icra-odemeleri-iade-edilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011051/11-fon-koordinasyon-kurulu-toplantisinda-son-kisim-odemeler-icin-tarih-verildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011053/polonya-hava-sahasi-ihlali-nedeniyle-rusya-ya-nota-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011054/unlulere-yonelik-operasyon-ozcan-deniz-ve-deniz-cakir-dahil-35-gozalti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011055/galatasaray-in-aston-villa-macinda-galibiyet-golunu-atan-deniz-gul-un-burnu-kirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011056/silvan-da-insan-kemiklerinin-bulundugu-magarada-kesfe-katilan-kurumlardan-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/noma-handbuch-geschmack-muss-es-wirklich-ameisenbutter-sein-accg-201672946.html",
   "https://www.faz.net/aktuell/faz-zur-black-week-besonders-guenstiges-faz-digitalabo-16684955.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/clemens-meyer-zum-100-von-werner-heiduczek-accg-201702181.html",
@@ -669,6 +685,7 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-wollen-frieden-bis-januar-erreichen-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/wohl-mehr-als-700-000-russische-soldaten-in-der-ukraine-gefallen-201711881.html",
+  "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-who-chef-fordert-ende-der-us-treibstoffblockade-gegen-kuba-faz-19444916.html",
   "https://www.faz.net/aktuell/reise/leuchtturm-bengtsaer-uebernachten-auf-finnlands-einsamstem-felsen-accg-201013587.html",
   "https://www.faz.net/aktuell/rhein-main/f-a-z-leser-helfen-1/f-a-z-leser-helfen-guinand-aus-frankfurt-versteigert-uhren-unikat-accg-201694094.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt-signalstoerung-bremst-s-bahnen-aus-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
@@ -746,6 +763,7 @@
   "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
   "https://www.france24.com/en/americas/20261124-jensen-huang-s-return-has-calmed-markets-but-fears-of-an-ai-bubble-still-run-deep",
   "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
+  "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
   "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
   "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
   "https://www.france24.com/en/france/20261124-accused-emptying-coffers-macron-mulls-spending-caps-future-french-governments-golden-rule",
@@ -755,6 +773,7 @@
   "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
   "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
   "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing",
+  "https://www.france24.com/en/russian-nuclear-satellites-plan-foolhardy-expert-says",
   "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
   "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
   "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
@@ -991,6 +1010,7 @@
   "https://www.welt.de/politik/ausland/article6b05ada0d4a4a3142c571486/ukraine-selenskyj-spricht-ueber-druck-der-usa-und-bestaetigt-angriff-auf-frachter-in-ostsee.html",
   "https://www.welt.de/politik/ausland/article6b05ae2e460ead0fdbd8086e/mossad-verhinderte-laut-ex-chef-anschlag-auf-taylor-swift-konzerte.html",
   "https://www.welt.de/politik/ausland/article6b05c803d4a4a3142c572186/frankreich-le-pen-verschaerft-den-ton-und-fordert-ende-von-deutschem-europa.html",
+  "https://www.welt.de/politik/ausland/article6b05da32cd4642ba2eb176fe/selenskyj-in-ungarn-historischer-tag-magyar-kuendigt-neues-kapitel-in-ukraine-politik-an.html",
   "https://www.welt.de/politik/ausland/plus6b0540247ad921347675fe61/angriff-in-libyen-kriegsschauplatz-mittelmeer-die-neue-dimension-von-kiews-kampf-gegen-russland.html",
   "https://www.welt.de/politik/ausland/plus6b0558497ad921347676008d/russlands-drohung-das-waere-die-groesste-gefahr-von-moskaus-atombombe-im-weltall.html",
   "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-maskierter-greift-gruenen-buero-an-raetselhafter-aufkleber-am-tatort.html",
@@ -1012,6 +1032,8 @@
   "https://www.welt.de/politik/deutschland/article6b059707460ead0fdbd80498/umfrage-zustimmung-fuer-merz-sinkt-weiter-mehrheit-der-cdu-csu-anhaenger-unzufrieden.html",
   "https://www.welt.de/politik/deutschland/article6b05b4a4aabf9675c80f3a9a/ukraine-krieg-das-gefaehrdet-unsere-sicherheit-gruenen-politiker-kritisiert-kommunikation-von-merz.html",
   "https://www.welt.de/politik/deutschland/article6b05bc84460ead0fdbd80e7e/interne-abstimmung-vanessa-emde-wird-aus-berliner-linke-fraktion-ausgeschlossen-und-kritisiert-mediale-hetzkampagne.html",
+  "https://www.welt.de/politik/deutschland/article6b05d2c7cd4642ba2eb17698/prostitution-gruene-wollen-anmeldepflicht-fuer-freier-statt-sexkaufverbot.html",
+  "https://www.welt.de/politik/deutschland/plus6ad709a151e5094f7a572743/linke-in-berlin-unwuerdig-und-undemokratisch-jetzt-schlagen-emdes-unterstuetzer-alarm.html",
   "https://www.welt.de/politik/deutschland/plus6b0403005842ff528b9e4b1a/entwicklungshilfe-im-jemen-interne-akten-zeigen-brisante-rolle-des-giz-vorstands-in-betrugsaffaere.html",
   "https://www.welt.de/politik/deutschland/plus6b0422405842ff528b9e56c6/femizide-die-auffaelligen-merkmale-der-maenner-die-frauen-toeten.html",
   "https://www.welt.de/politik/plus6b0558626c27b799309d024f/konkurrenz-fuer-elon-musk-frau-bekommt-in-muenchen-erfolgreich-deutschen-gehirnchip-implantiert.html",
@@ -1022,6 +1044,7 @@
   "https://www.welt.de/sport/formel1/article6b0189ab45d8681e4fca3ce1/rosberg-ueber-hamilton-ausgesprochen-haben-wir-uns-nie.html",
   "https://www.welt.de/sport/fussball/article6b057bf06a4309d5f179c659/bundesliga-tv-ueberraschung-disney-sichert-sich-erstmals-rechte.html",
   "https://www.welt.de/sport/fussball/article6b05d3e581b7ff1e8177a39c/champions-league-arsenal-draengt-gegen-den-bvb-auf-das-zweite-tor.html",
+  "https://www.welt.de/sport/fussball/article6b05d3e581b7ff1e8177a39c/champions-league-arsenal-fuehrt-verdient-gegen-den-bvb.html",
   "https://www.welt.de/sport/fussball/article6b05d3e581b7ff1e8177a39c/champions-league-guirassy-auf-der-bank-bvb-trainer-kovac-verzichtet-bei-arsenal-auf-seinen-topstuermer.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0549c039a3e8110f0e9b16/fc-bayern-musiala-soll-noch-22-millionen-euro-extra-kassiert-haben.html",
   "https://www.welt.de/sport/leichtathletik/article6afa0b7c9849eea0701e3ed3/kugelstosser-als-die-ddr-oesterreich-den-krieg-erklaerte.html",
