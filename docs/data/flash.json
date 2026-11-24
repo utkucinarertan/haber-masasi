@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T02:18+01:00",
+ "updatedAt": "2026-11-24T02:48+01:00",
  "countries": {
   "de": [
    {
@@ -60,6 +60,24 @@
     }
    },
    {
+    "time": "2026-11-24T01:25:20+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
+    "text": {
+     "tr": "Avustralya'da iki kişiyi öldürmekle suçlanan eski polis memuru Beau Lamarre-Condon'ın davasında mahkemeye ifade verdiği bildirildi.",
+     "de": "Im Prozess gegen den des Doppelmords angeklagten ehemaligen Polizisten Beau Lamarre-Condon in Australien sagte dieser im Zeugenstand aus."
+    }
+   },
+   {
+    "time": "2026-11-24T01:14:00+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/wie-trump-gavin-newsom-wegen-der-todesstrafe-attackierte-accg-201710960.html",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, Adalet Bakanlığı'nda yaptığı konuşmada Kaliforniya Valisi Gavin Newsom'u hedef aldı.",
+     "de": "US-Präsident Donald Trump attackierte im Justizministerium den kalifornischen Gouverneur Gavin Newsom."
+    }
+   },
+   {
     "time": "2026-11-24T00:33:33+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/politik/ausland/russische-militaerflugzeuge-dringen-in-suedkoreas-luftverteidigungszone-ein-accg-201711037.html",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya, Avrupa ve ABD ile en kısa sürede dörtlü barış görüşmeleri yapılması çağrısında bulundu.",
      "de": "Der ukrainische Präsident Wolodymyr Selenskyj fordert schnellstmögliche Friedensgespräche mit Russland, Europa und den USA."
-    }
-   },
-   {
-    "time": "2026-11-24T00:29:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6010892/hurmuz-bogazi-nda-iran-in-izin-vermedigi-guzergahi-kullanan-3-petrol-tankerinde-patlama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nda deniz mayınlarına çarpan üç petrol tankerinde patlama meydana geldiğini duyurdu.",
-     "de": "Laut iranischen Revolutionsgarden gerieten in der Straße von Hormus drei Öltanker nach Treffern durch Seeminen in Brand."
-    }
-   },
-   {
-    "time": "2026-11-24T00:01:01+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/politics/2026/nov/24/zack-polanski-backs-report-endorsing-nato-membership-maintaining-nuclear-weapons",
-    "text": {
-     "tr": "Yeşil Parti lideri Zack Polanski, İngiltere'nin NATO üyeliğini ve nükleer silahların korunmasını destekleyen bir raporu onayladı.",
-     "de": "Der britische Grünen-Chef Zack Polanski hat einen Bericht gebilligt, der die Nato-Mitgliedschaft und die Beibehaltung von Atomwaffen befürwortet."
     }
    }
   ],
@@ -650,6 +650,7 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-spd-russischer-atomsatellit-waere-gefaehrlicher-tabubruch-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-demokraten-erringen-im-repraesentantenhaus-groesste-mehrheit-seit-jahrzehnten-faz-19444916.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/nicht-laenger-ein-alpha-podcast-bros-wenden-sich-gegen-trump-201693931.html",
+  "https://www.faz.net/aktuell/politik/usa-unter-trump/wie-trump-gavin-newsom-wegen-der-todesstrafe-attackierte-accg-201710960.html",
   "https://www.faz.net/aktuell/reise/safari-in-botswana-mit-tourismus-aus-der-krise-accg-201119923.html",
   "https://www.faz.net/aktuell/rhein-main/85-festnahmen-bei-suche-nach-wohnungseinbrechern-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/flucht-ueber-russland-und-china-wie-ein-juedisches-ehepaar-aus-nazideutschland-entkam-accg-201699477.html",
@@ -867,6 +868,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/23/difficult-geopolitical-times-albanese-defends-bowen-after-cop31-deal-failure",
   "https://www.theguardian.com/australia-news/2026/nov/23/football-queensland-gate-fee-kids-soccer-outrage",
   "https://www.theguardian.com/australia-news/2026/nov/23/unemployment-to-surpass-5-and-things-will-get-a-bit-harder-treasurer-jim-chalmers-warns",
+  "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/23/anthony-albanese-digital-duty-of-care-labor-greens-coalition-one-nation-angus-taylor-pauline-hanson-penny-wong-ai-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/23/capita-boss-exits-shares-crash-civil-service-pensions-failures",
