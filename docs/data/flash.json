@@ -1,8 +1,26 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T02:48+01:00",
+ "updatedAt": "2026-11-24T03:18+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-24T02:46:30+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
+    "text": {
+     "tr": "Almanya ve Ukrayna askeri iş birliğini derinleştirerek ortak insansız hava aracı üretimine başlayacak.",
+     "de": "Deutschland und die Ukraine vertiefen ihre militärische Zusammenarbeit und werden künftig ukrainische Drohnen bauen."
+    }
+   },
+   {
+    "time": "2026-11-24T01:41:01+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b04e6bd39a3e8110f0e96ce/megaspeed-usa-setzen-firma-in-nvidia-kontroverse-auf-schwarze-liste.html",
+    "text": {
+     "tr": "ABD Ticaret Bakanlığı, Nvidia ile bağlantılı Megaspeed firmasını ticaretin kara listesine dahil etti.",
+     "de": "Die USA haben das mit Nvidia in Verbindung stehende Unternehmen Megaspeed auf die Schwarze Liste gesetzt."
+    }
+   },
    {
     "time": "2026-11-24T00:55:43+00:00",
     "source": "Die Welt",
@@ -29,27 +47,18 @@
      "tr": "Uzun süreli araştırmalar, göçmen çocukların Alman eğitim sisteminde yıllar geçtikten sonra bile yerel sınıf arkadaşlarıyla aralarındaki Almanca dil açığını ortaya koyuyor.",
      "de": "Langzeitstudien offenbaren eine deutliche Kluft bei den Deutschkenntnissen von zugewanderten Kindern im Vergleich zu einheimischen Mitschülern."
     }
-   },
-   {
-    "time": "2026-11-23T22:58:06+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/plus6b0009c0be487c5437746af9/krisen-in-der-welt-deutschland-soll-fuehren-doch-die-deutschen-wollen-nicht.html",
-    "text": {
-     "tr": "Yeni bir araştırmaya göre Almanya'da halkın yaklaşık üçte ikisi dış politikada askeri bir liderlik rolünü reddediyor.",
-     "de": "Fast zwei Drittel der Bürger in Deutschland lehnen laut einer Studie eine militärische Führungsrolle des Landes ab."
-    }
-   },
-   {
-    "time": "2026-11-23T22:20:38+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-mann-soll-sitzung-der-gruenen-in-schwerte-gestuermt-haben-bericht-ueber-drei-verletzte.html",
-    "text": {
-     "tr": "Schwerte'deki Yeşiller Partisi toplantısını basan maskeli bir saldırganın üç kişiyi yaraladığı bildirildi.",
-     "de": "Ein maskierter Angreifer stürmte eine Sitzung der Grünen in Schwerte und verletzte Berichten zufolge drei Menschen."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-24T02:09:11+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
+    "text": {
+     "tr": "ABD, en çok aranan uyuşturucu baronlarından Fausto Isidro Meza Flores'in yakalanması için Meksika üzerinde gözetleme dronu uçurdu.",
+     "de": "Die USA setzten bei der Festnahme eines gesuchten Drogenbosses in Mexiko eine Überwachungsdrohne ein."
+    }
+   },
    {
     "time": "2026-11-24T01:53:40+01:00",
     "source": "tagesschau Ausland",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Rus askeri uçakları, Güney Kore'nin hava savunma sahasına girdi.",
      "de": "Russische Militärflugzeuge sind in die Luftverteidigungszone Südkoreas eingedrungen."
-    }
-   },
-   {
-    "time": "2026-11-24T00:30:11+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
-    "text": {
-     "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya, Avrupa ve ABD ile en kısa sürede dörtlü barış görüşmeleri yapılması çağrısında bulundu.",
-     "de": "Der ukrainische Präsident Wolodymyr Selenskyj fordert schnellstmögliche Friedensgespräche mit Russland, Europa und den USA."
     }
    }
   ],
@@ -727,6 +727,7 @@
   "https://www.france24.com/en/americas/20261123-alice-huang-had-contact-with-china-spy-agency-during-affair-with-nvidia-boss-nyt-reports",
   "https://www.france24.com/en/americas/20261123-nvidia-board-reinstates-disgraced-jensen-huang-as-ceo-president-says",
   "https://www.france24.com/en/americas/20261123-un-chief-antonio-guterres-calls-for-global-ai-safety-framework-within-a-year",
+  "https://www.france24.com/en/americas/20261124-us-flew-surveillance-drone-over-mexico-to-help-capture-top-drug-lord",
   "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
   "https://www.france24.com/en/environment/20261123-let-down-on-all-sides-pacific-island-nations-express-despair-over-cop31-failure",
   "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
@@ -839,6 +840,7 @@
   "https://www.tagesschau.de/ausland/europa/militaeruebung-polen-100.html",
   "https://www.tagesschau.de/ausland/europa/russische-mannschaften-sportler-eu-100.html",
   "https://www.tagesschau.de/ausland/europa/ukraine-angriffe-wohnhaeuser-104.html",
+  "https://www.tagesschau.de/ausland/europa/ukraine-pistorius-104.html",
   "https://www.tagesschau.de/inland/gesellschaft/bombendrohungen-schulen-102.html",
   "https://www.tagesschau.de/inland/gesellschaft/zeugen-jehovas-kusserow-ns-verfolgung-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/aiwanger-nachfolge-freie-waehler-100.html",
@@ -917,6 +919,7 @@
   "https://www.theguardian.com/us-news/2026/nov/23/first-thing-cop31-talks-collapse-no-deal-future-global-climate",
   "https://www.theguardian.com/us-news/2026/nov/23/iowa-lead-bomb-appeals-court",
   "https://www.theguardian.com/us-news/2026/nov/23/jimmy-gomez-congress-investigation-sexual-misconduct",
+  "https://www.theguardian.com/us-news/2026/nov/23/megaspeed-us-trade-blacklist-nvidia",
   "https://www.theguardian.com/us-news/2026/nov/23/nyc-ebike-cost-capped-mamdani",
   "https://www.theguardian.com/us-news/2026/nov/23/sheriff-chad-bianco-security-spending-california-governor-candidate",
   "https://www.theguardian.com/us-news/2026/nov/23/trump-administration-deported-citizen-mexico",
@@ -969,6 +972,7 @@
   "https://www.welt.de/politik/ausland/article6b049f56619e3d0ef1eedca6/nato-ostflanke-nato-verlegt-awacs-flugzeug-nach-polen-und-verstaerkt-luftraumueberwachung.html",
   "https://www.welt.de/politik/ausland/article6b04c8a95842ff528b9e660b/russische-drohne-luftalarm-in-polen-anwohner-sollen-schutzraeume-aufsuchen.html",
   "https://www.welt.de/politik/ausland/article6b04c8a95842ff528b9e660b/ukraine-krieg-luftalarm-in-polen-anwohner-sollen-schutzraeume-aufsuchen.html",
+  "https://www.welt.de/politik/ausland/article6b04e6bd39a3e8110f0e96ce/megaspeed-usa-setzen-firma-in-nvidia-kontroverse-auf-schwarze-liste.html",
   "https://www.welt.de/politik/ausland/plus6ae9c5703ac17eaf0c625dc9/deutsch-russische-beziehungen-wenn-die-deutschen-ueber-russland-sprechen-reden-sie-vor-allem-ueber-sich-selbst.html",
   "https://www.welt.de/politik/ausland/plus6aff01539c68d2fcf0c7d20c/litwinenko-witwe-warnt-vor-putins-methoden-und-fordert-trotzdem-dialog.html",
   "https://www.welt.de/politik/ausland/plus6b03f03566a00c9ca1fdfd68/rekrutierungsmethoden-de-facto-ein-gefaengnis-putins-globales-system-um-drohnen-bauen-zu-lassen.html",
