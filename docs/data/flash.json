@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T03:18+01:00",
+ "updatedAt": "2026-11-24T03:48+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "Almanya ve Ukrayna askeri iş birliğini derinleştirerek ortak insansız hava aracı üretimine başlayacak.",
      "de": "Deutschland und die Ukraine vertiefen ihre militärische Zusammenarbeit und werden künftig ukrainische Drohnen bauen."
+    }
+   },
+   {
+    "time": "2026-11-24T02:37:38+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/kultur/article6b04f21439a3e8110f0e96f4/new-york-deutsche-doku-ueber-gestohlenen-film-mit-emmy-ausgezeichnet.html",
+    "text": {
+     "tr": "Alman yapımı belgesel 'Der talentierte Mr. F', New York'taki Uluslararası Emmy Ödülleri'nde ödüle layık görüldü.",
+     "de": "Die deutsche Dokumentation „Der talentierte Mr. F“ wurde bei den Internationalen Emmys in New York ausgezeichnet."
     }
    },
    {
@@ -38,18 +47,18 @@
      "tr": "Yeşildorlar Partisi Eşbaşkanı Franziska Brantner, Berlin'deki Sol Parti'den Vanessa Emde'nin ihraç edilmesini istedi.",
      "de": "Grünen-Chefin Franziska Brantner fordert den Ausschluss von Vanessa Emde aus der Berliner Linke-Fraktion."
     }
-   },
-   {
-    "time": "2026-11-23T23:00:11+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/plus6b000ac339a3e8110f0e36ed/migration-das-ganze-ausmass-der-deutsch-defizite-zugewanderter-kinder.html",
-    "text": {
-     "tr": "Uzun süreli araştırmalar, göçmen çocukların Alman eğitim sisteminde yıllar geçtikten sonra bile yerel sınıf arkadaşlarıyla aralarındaki Almanca dil açığını ortaya koyuyor.",
-     "de": "Langzeitstudien offenbaren eine deutliche Kluft bei den Deutschkenntnissen von zugewanderten Kindern im Vergleich zu einheimischen Mitschülern."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-24T02:37:36+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
+    "text": {
+     "tr": "Çin'de yabancı bir ülke adına casusluk yapmaktan ve devlet sırlarını sızdırmaktan suçlu bulunan bir yetkili idama mahkum edildi.",
+     "de": "Ein chinesischer Beamter wurde wegen Spionage für ein anderes Land und Verrats von Staatsgeheimnissen zum Tode verurteilt."
+    }
+   },
    {
     "time": "2026-11-24T02:09:11+00:00",
     "source": "France 24",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, Adalet Bakanlığı'nda yaptığı konuşmada Kaliforniya Valisi Gavin Newsom'u hedef aldı.",
      "de": "US-Präsident Donald Trump attackierte im Justizministerium den kalifornischen Gouverneur Gavin Newsom."
-    }
-   },
-   {
-    "time": "2026-11-24T00:33:33+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/russische-militaerflugzeuge-dringen-in-suedkoreas-luftverteidigungszone-ein-accg-201711037.html",
-    "text": {
-     "tr": "Rus askeri uçakları, Güney Kore'nin hava savunma sahasına girdi.",
-     "de": "Russische Militärflugzeuge sind in die Luftverteidigungszone Südkoreas eingedrungen."
     }
    }
   ],
@@ -208,17 +208,22 @@
   "https://tr.euronews.com/video/2026/11/23/rio-copacabana-onur-yuruyusu-dev-gokkusagi-bayragiyla-dansli-kutlama",
   "https://tr.euronews.com/video/2026/11/23/ukraynada-rus-iha-saldirisi-22-saat-sonra-79-yasindaki-kadin-kurtarildi-11-olu",
   "https://tr.euronews.com/video/2026/11/23/zanzibarin-nungwi-sahilinde-otel-yangini-183-turist-sag-kurtuldu",
+  "https://www.bbc.co.uk/news/articles/c3qj57rkd2k1o",
   "https://www.bbc.co.uk/news/articles/c5rmgkv2lk73o",
   "https://www.bbc.co.uk/news/articles/c6vg29g7dlyno",
+  "https://www.bbc.co.uk/news/articles/c6wy4ng1rznxo",
   "https://www.bbc.co.uk/news/articles/c8r4gzzxvxl3o",
   "https://www.bbc.co.uk/news/articles/cky970n83rvjo",
+  "https://www.bbc.co.uk/news/articles/cm3eg502nxw2o",
   "https://www.bbc.co.uk/news/articles/cm75237wlp3lo",
   "https://www.bbc.co.uk/news/articles/cm894p88jzxpo",
   "https://www.bbc.co.uk/news/articles/cmde1dy82lepo",
   "https://www.bbc.co.uk/news/articles/cmvg2qnn95vro",
   "https://www.bbc.co.uk/news/articles/cmze750zg0jeo",
   "https://www.bbc.co.uk/news/articles/cq1j6585l5g6o",
+  "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
   "https://www.bbc.co.uk/news/articles/cqdr15l32d3go",
+  "https://www.bbc.co.uk/news/articles/cqglr0d5jejxo",
   "https://www.bbc.co.uk/news/articles/cqwy06zrd26lo",
   "https://www.bbc.co.uk/news/articles/cr894gjz0j0yo",
   "https://www.bbc.co.uk/news/articles/cr930y92dyx4o",
@@ -228,9 +233,12 @@
   "https://www.bbc.co.uk/news/articles/cwdr155e2d05o",
   "https://www.bbc.co.uk/news/articles/cwx2ervemj4ko",
   "https://www.bbc.co.uk/news/articles/cxyvdmjr893zo",
+  "https://www.bbc.co.uk/news/videos/c51k9vp48d2vo",
   "https://www.bbc.co.uk/news/videos/c6wy93q5wwqvo",
+  "https://www.bbc.co.uk/news/videos/ckedq2edqegzo",
   "https://www.bbc.co.uk/news/videos/cq8r7e35mkzlo",
   "https://www.bbc.co.uk/news/videos/cr1ewge81q4qo",
+  "https://www.bbc.co.uk/news/videos/crd910g5x882o",
   "https://www.bbc.com/turkce/articles/c3rrg7qd9898o",
   "https://www.bbc.com/turkce/articles/c5rmg31g88glo",
   "https://www.bbc.com/turkce/articles/c6174rxvk8pgo",
@@ -781,6 +789,7 @@
   "https://www.spiegel.de/ausland/libyen-ukraine-attackiert-russische-flotte-weit-entfernt-von-der-front-a-28d532ee-b844-4509-9b83-c040fac35c3a#ref=rss",
   "https://www.spiegel.de/ausland/polen-alle-abgestuerzten-objekte-als-russische-marschflugkoerper-identifiziert-a-1a40ce3b-9f31-45f1-a0e8-1657f57dbd22#ref=rss",
   "https://www.spiegel.de/ausland/russland-moskau-soll-laut-medienberichten-atomwaffe-im-weltraum-vorbereiten-a-10573e3d-4a7d-4f77-8b22-6af9dbabf94c#ref=rss",
+  "https://www.spiegel.de/ausland/suedkorea-russische-flugzeuge-loesen-evakuierungswarnung-auf-insel-aus-a-3cbbbe29-0c01-4678-8af4-26f97a9f33db#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-krieg-jetzt-schlagen-seedrohnen-auch-im-mittelmeer-zu-a-ccf1d22e-2027-4a93-bc56-f012286b86b9#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-krieg-spiegel-rechnet-mit-mehr-als-600-000-getoeteten-russischen-soldaten-im-ukrainekrieg-a-87309cd3-0345-4eb0-93aa-5b1330decd1a#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-streitkraefte-haben-laut-wolodymyr-selenskyj-russisches-kriegsschiff-versenkt-a-e3ec5640-1536-4700-9368-521b4ba48587#ref=rss",
@@ -938,6 +947,7 @@
   "https://www.theguardian.com/world/2026/nov/23/students-from-gaza-win-visa-battle-to-study-in-ireland",
   "https://www.theguardian.com/world/2026/nov/23/ukraine-naval-drones-strike-russian-warship-libya",
   "https://www.theguardian.com/world/2026/nov/23/vox-party-spain-far-right-mocked-to-mainstream",
+  "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
   "https://www.theguardian.com/world/live/2026/nov/23/russia-ukraine-war-zelenskyy-libya-benghazi-drone-attack-ship-merkury-un-nato-europe-latest-news-updates",
   "https://www.welt.de/debatte/plus6aff1681c1e8003ef73c4aac/ngos-und-agenturen-verdacht-der-politischen-geldwaesche-wie-linke-und-gruene-lobbys-in-den-wahlkampf-eingreifen.html",
   "https://www.welt.de/debatte/plus6b02f0a239a3e8110f0e6a3c/afd-politiker-krah-das-migrationsproblem-ist-loesbar-im-konsens-ueber-brandmauern-hinweg.html",
@@ -954,6 +964,7 @@
   "https://www.welt.de/iconist/gesellschaft/plus6b03144225b618a0b5d5c135/russell-brand-warum-die-comedy-branche-bei-sexismus-wegsah.html",
   "https://www.welt.de/kultur/article6afda873ff9ae12be89e0ed0/blade-runner-2099-bei-prime-video-die-vollendung-der-ki-revolution.html",
   "https://www.welt.de/kultur/article6b04db4a5842ff528b9e663c/hollywood-steven-spielberg-dreht-zum-ersten-mal-einen-western-mit-hochkaraetiger-besetzung.html",
+  "https://www.welt.de/kultur/article6b04f21439a3e8110f0e96f4/new-york-deutsche-doku-ueber-gestohlenen-film-mit-emmy-ausgezeichnet.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-kann-nur-antifeminismus-sein-erklaert-die-bundeszentrale.html",
   "https://www.welt.de/kultur/plus6afc49f89e0813f450afb344/10-fragen-zum-gendern-69-prozent-gegen-gendersprache-das-muss-antifeminismus-sein-erklaert-die-bundeszentrale.html",
   "https://www.welt.de/kultur/plus6afc64dfcdc4b5009f0a8f9a/generation-alpha-was-passiert-wenn-meine-tochter-eine-mutter-hat-die-gar-nicht-mehr-sterben-wird.html",
