@@ -1,8 +1,17 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T01:18+01:00",
+ "updatedAt": "2026-11-24T01:48+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-24T00:19:08+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b04d3d339a3e8110f0e96b0/berlin-brantner-sieht-kenia-koalition-skeptisch-und-fordert-ausschluss-von-emde-aus-linke-fraktion.html",
+    "text": {
+     "tr": "Yeşildorlar Partisi Eşbaşkanı Franziska Brantner, Berlin'deki Sol Parti'den Vanessa Emde'nin ihraç edilmesini istedi.",
+     "de": "Grünen-Chefin Franziska Brantner fordert den Ausschluss von Vanessa Emde aus der Berliner Linke-Fraktion."
+    }
+   },
    {
     "time": "2026-11-23T23:00:11+00:00",
     "source": "Die Welt",
@@ -38,18 +47,27 @@
      "tr": "Almanya Milli Takımı kalecisi Ann-Katrin Berger, ABD ekibi Gotham FC'den Union Berlin'e transfer oldu.",
      "de": "Nationaltorhüterin Ann-Katrin Berger wechselt vom US-Klub Gotham FC zum Bundesligisten Union Berlin."
     }
-   },
-   {
-    "time": "2026-11-23T21:11:45+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/wirtschaft/verbraucher/stromspar-checks-kostenlose-energieberatung-bundesumweltministerium-100.html",
-    "text": {
-     "tr": "Düşük gelirli hanelere yönelik ücretsiz enerji danışmanlığı ve fon sağlayan tasarruf programı üç yıl uzatıldı.",
-     "de": "Die Finanzierung von kostenlosen Stromspar-Checks für einkommensschwache Haushalte wurde um drei Jahre verlängert."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-24T00:33:33+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/ausland/russische-militaerflugzeuge-dringen-in-suedkoreas-luftverteidigungszone-ein-accg-201711037.html",
+    "text": {
+     "tr": "Rus askeri uçakları, Güney Kore'nin hava savunma sahasına girdi.",
+     "de": "Russische Militärflugzeuge sind in die Luftverteidigungszone Südkoreas eingedrungen."
+    }
+   },
+   {
+    "time": "2026-11-24T00:30:11+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
+    "text": {
+     "tr": "Ukrayna Devlet Başkanı Volodimir Zelenskiy, Rusya, Avrupa ve ABD ile en kısa sürede dörtlü barış görüşmeleri yapılması çağrısında bulundu.",
+     "de": "Der ukrainische Präsident Wolodymyr Selenskyj fordert schnellstmögliche Friedensgespräche mit Russland, Europa und den USA."
+    }
+   },
    {
     "time": "2026-11-24T00:29:00+03:00",
     "source": "Evrensel",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Doğa yazar Robert Macfarlane, 31. BM iklim zirvesinin anlaşmaya varamamasının ardından iklim zirvelerine duyulan güvenin yersiz olduğunu söyledi.",
      "de": "Der Naturautor Robert Macfarlane bezeichnete das Vertrauen in UN-Klimagipfel nach dem Scheitern der COP31 als verfehlt."
-    }
-   },
-   {
-    "time": "2026-11-23T23:19:13+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b04c8a95842ff528b9e660b/ukraine-krieg-luftalarm-in-polen-anwohner-sollen-schutzraeume-aufsuchen.html",
-    "text": {
-     "tr": "Polonya hükümeti, Ukrayna sınırına yakın güneydoğu bölgelerindeki sakinlerden sığınaklara gitmelerini istedi.",
-     "de": "Die polnische Regierung forderte die Bewohner der grenznahen Gebiete im Südosten des Landes auf, Schutzräume aufzusuchen."
-    }
-   },
-   {
-    "time": "2026-11-23T23:10:22+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/asia-pacific/20261123-14-countries-acknowledge-icj-ruling-of-genocide-against-rohingya",
-    "text": {
-     "tr": "14 ülke, Uluslararası Adalet Divanı'nın Myanmar'ın Rohinyalı azınlığa soykırım uyguladığı yönündeki kararını tanıdı.",
-     "de": "14 Staaten haben das historische Urteil des Internationalen Gerichtshofs über den Völkermord an den Rohingya in Myanmar anerkannt."
     }
    }
   ],
@@ -243,6 +243,7 @@
   "https://www.bbc.com/turkce/articles/cn4vk1ng1jdo",
   "https://www.bbc.com/turkce/articles/cqe979y7eq7o",
   "https://www.bbc.com/turkce/articles/cqkgm447g4gro",
+  "https://www.bbc.com/turkce/articles/cqr7gz4r1kvvo",
   "https://www.bbc.com/turkce/articles/cqwy4nnvx323o",
   "https://www.bbc.com/turkce/articles/credq8yj8wz0o",
   "https://www.bbc.com/turkce/articles/cvglre569j3po",
@@ -619,6 +620,7 @@
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-bennett-plaediert-fuer-eine-einheitsregierung-mit-dem-likud-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-plant-offenbar-ueberraschendes-koalitions-manoever-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-saengerin-in-iran-wegen-konzert-74-mal-ausgepeitscht-faz-200583539.html",
+  "https://www.faz.net/aktuell/politik/ausland/russische-militaerflugzeuge-dringen-in-suedkoreas-luftverteidigungszone-ein-accg-201711037.html",
   "https://www.faz.net/aktuell/politik/ausland/russisches-frachtschiff-sparta-ii-warum-finnland-es-nicht-beschlagnahmte-201708325.html",
   "https://www.faz.net/aktuell/politik/ausland/russland-plant-nuklear-bestueckten-satelliten-im-weltraum-accg-201708566.html",
   "https://www.faz.net/aktuell/politik/ausland/wie-autonom-kann-europa-im-all-sein-201651904.html",
@@ -716,6 +718,7 @@
   "https://www.france24.com/en/environment/20261123-let-down-on-all-sides-pacific-island-nations-express-despair-over-cop31-failure",
   "https://www.france24.com/en/europe/20261123-finland-summons-russian-ambassador-after-suspected-airspace-violation",
   "https://www.france24.com/en/europe/20261123-live-russian-strikes-kill-at-least-15-people-in-kyiv-region-ukraine-says",
+  "https://www.france24.com/en/europe/20261124-zelensky-urges-four-way-peace-talks-with-russia-europe-and-us-as-soon-as-possible",
   "https://www.france24.com/en/france-s-socioeconomic-crisis-macron-trying-to-impose-fiscal-discipline-on-his-successor",
   "https://www.france24.com/en/france/20261123-deeply-shocked-gis%C3%A8le-pelicot-sue-publisher-nude-photos-used-book-campaign",
   "https://www.france24.com/en/iran-s-courts-order-us-to-pay-290-billion-in-damages",
@@ -970,6 +973,7 @@
   "https://www.welt.de/politik/deutschland/article6b0483645842ff528b9e6375/schwarz-rot-unionsfraktionschef-frei-gegen-aufweichung-der-rentenplaene-spd-kritisiert-haushaltsverfahren.html",
   "https://www.welt.de/politik/deutschland/article6b04998339a3e8110f0e94e6/ukraine-krieg-krieg-darf-sich-nicht-auf-ostsee-ausweiten-pistorius-mahnt-kiew.html",
   "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-mann-soll-sitzung-der-gruenen-in-schwerte-gestuermt-haben-bericht-ueber-drei-verletzte.html",
+  "https://www.welt.de/politik/deutschland/article6b04d3d339a3e8110f0e96b0/berlin-brantner-sieht-kenia-koalition-skeptisch-und-fordert-ausschluss-von-emde-aus-linke-fraktion.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-bei-der-aufruestung-gebe-es-keine-kontrolle-mehr-sagt-ein-rechnungspruefer.html",
   "https://www.welt.de/politik/deutschland/plus6af7003b27adfb0b7bb2d10a/bundeswehr-und-kosten-deutschlands-gewaltige-aufruestung-und-eine-kontrolle-die-nur-noch-simuliert-wird.html",
   "https://www.welt.de/politik/deutschland/plus6b0009c0be487c5437746af9/krisen-in-der-welt-deutschland-soll-fuehren-doch-die-deutschen-wollen-nicht.html",
