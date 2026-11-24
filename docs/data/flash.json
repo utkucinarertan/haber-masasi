@@ -1,6 +1,6 @@
 {
  "since": "2026-11-23T05:15+01:00",
- "updatedAt": "2026-11-24T03:48+01:00",
+ "updatedAt": "2026-11-24T04:18+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-24T03:16:47+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, Jensen Huang'ın Nvidia'nın CEO'luğuna dönmesini överken, Demokratlar soruşturma çağrısında bulundu.",
+     "de": "US-Präsident Donald Trump hat die Rückkehr von Jensen Huang an die Nvidia-Spitze begrüßt, während Demokraten Untersuchungen ankündigten."
+    }
+   },
+   {
     "time": "2026-11-24T02:37:36+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/world/2026/nov/24/china-official-ma-death-sentence-spying-leaking-national-secrets",
@@ -85,18 +94,18 @@
      "tr": "Avustralya'da iki kişiyi öldürmekle suçlanan eski polis memuru Beau Lamarre-Condon'ın davasında mahkemeye ifade verdiği bildirildi.",
      "de": "Im Prozess gegen den des Doppelmords angeklagten ehemaligen Polizisten Beau Lamarre-Condon in Australien sagte dieser im Zeugenstand aus."
     }
-   },
-   {
-    "time": "2026-11-24T01:14:00+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/usa-unter-trump/wie-trump-gavin-newsom-wegen-der-todesstrafe-attackierte-accg-201710960.html",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, Adalet Bakanlığı'nda yaptığı konuşmada Kaliforniya Valisi Gavin Newsom'u hedef aldı.",
-     "de": "US-Präsident Donald Trump attackierte im Justizministerium den kalifornischen Gouverneur Gavin Newsom."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-24T05:56:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010897/urfa-da-is-cinayeti-yem-karma-makinesine-dusen-22-yasindaki-gocmen-coban-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Şanlıurfa'nın Siverek ilçesindeki bir çiftlikte çalışan 22 yaşındaki göçmen çoban Samiullah Karimi, yem karma makinesine düşerek hayatını kaybetti.",
+     "de": "In Şanlıurfa ist ein 22-jähriger migrantischer Hirte bei der Arbeit tödlich verunglückt, als er in eine Futtermischmaschine stürzte."
+    }
+   },
    {
     "time": "2026-11-24T04:00:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Gelir İdaresi Başkanlığı, e-Arşiv Fatura kanallarını genişleterek belirli şartlardaki hekimlerin POS cihazı bulundurma zorunluluğunu kaldırdı.",
      "de": "Die Steuerverwaltung hat die Kanäle für e-Archiv-Rechnungen erweitert und die POS-Pflicht für Ärzte unter bestimmten Bedingungen abgeschafft."
-    }
-   },
-   {
-    "time": "2026-11-24T00:56:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/kocaeli-de-saganak-etkisini-gosterdi-sokaklar-ve-otoparklar-gole-dondu-2558800",
-    "text": {
-     "tr": "Kocaeli'de etkili olan kuvvetli rüzgar ve şiddetli sağanak yağış nedeniyle çok sayıda cadde ve otoparkı su bastı.",
-     "de": "Heftige Unwetter und starke Regenfälle haben in der türkischen Provinz Kocaeli zahlreiche Straßen und Parkplätze überflutet."
     }
    }
   ]
@@ -587,6 +587,7 @@
   "https://www.evrensel.net/haber/6010894/yeniden-degerleme-orani-2783-olarak-tespit-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010895/elektronik-belge-uygulamalarinda-yeni-duzenleme-resmi-gazete-de?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6010896/basaksehir-in-stoperi-emin-bayram-sakatligi-nedeniyle-sezonu-kapatti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6010897/urfa-da-is-cinayeti-yem-karma-makinesine-dusen-22-yasindaki-gocmen-coban-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/liebe/sind-ansprueche-beim-dating-heute-zu-hoch-wie-eine-matchmakerin-passende-paare-erkennt-accg-201659823.html",
   "https://www.faz.net/aktuell/besser-leben/stil/bauhaus-und-italienische-avantgarde-zwei-designgalerien-in-der-berliner-mommsenstrasse-201614634.html",
   "https://www.faz.net/aktuell/besser-leben/stil/paula-votteler-mode-und-accessoires-aus-muell-und-quarkbechern-201683499.html",
@@ -776,6 +777,7 @@
   "https://www.france24.com/en/video/20261123-ukrainian-drones-sink-russian-warship-at-naval-base-in-libya",
   "https://www.france24.com/en/video/20261123-worst-possible-choice-should-date-of-french-election-be-changed",
   "https://www.france24.com/en/video/20261123-zelensky-says-ukraine-sank-russian-warship-off-libya",
+  "https://www.france24.com/en/video/20261124-jensen-huang-s-surprise-return-to-nvidia-sparks-mixed-reactions-in-washington",
   "https://www.manager-magazin.de/unternehmen/handel/obi-mutter-tengelmann-setzt-verschwinden-von-karl-erivan-haub-zu-geldsorgen-drohen-a-04dd2dfe-19fd-42c0-ae29-8698933c4ef2#ref=rss",
   "https://www.spiegel.de/ausland/china-peking-draengt-minderheitensprachen-aus-schulen-und-kitas-a-473a52f9-b7fc-4401-8145-a1e91247c64e#ref=rss",
   "https://www.spiegel.de/ausland/cop31-china-nennt-scheitern-der-klimakonferenz-enttaeuschend-und-die-energiewende-unumkehrbar-a-20e9350c-2227-4233-926b-373e3c856c95#ref=rss",
@@ -793,6 +795,7 @@
   "https://www.spiegel.de/ausland/ukraine-krieg-jetzt-schlagen-seedrohnen-auch-im-mittelmeer-zu-a-ccf1d22e-2027-4a93-bc56-f012286b86b9#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-krieg-spiegel-rechnet-mit-mehr-als-600-000-getoeteten-russischen-soldaten-im-ukrainekrieg-a-87309cd3-0345-4eb0-93aa-5b1330decd1a#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-streitkraefte-haben-laut-wolodymyr-selenskyj-russisches-kriegsschiff-versenkt-a-e3ec5640-1536-4700-9368-521b4ba48587#ref=rss",
+  "https://www.spiegel.de/ausland/usa-donald-trump-und-gavin-newsom-streiten-ueber-todesstrafe-a-f9799628-f33a-4ec5-b6d7-85587a82a2e4#ref=rss",
   "https://www.spiegel.de/karriere/arbeitsrecht-bei-krankheit-darf-mein-chef-mich-entlassen-wenn-ich-zu-oft-fehle-a-051d86c3-6d2e-44a8-9d39-b556ca8de56c#ref=rss",
   "https://www.spiegel.de/kultur/kino/mahershala-ali-bekommt-trotz-zweier-oscars-nicht-viele-gute-rollenangebote-a-7242eaf2-f802-46b8-93d9-0ce07f315845#ref=rss",
   "https://www.spiegel.de/kultur/kino/robert-eggers-braucht-nach-werwulf-eine-pause-von-horrorfilmen-a-2ac48f51-9339-42da-97e0-c054e76eed1a#ref=rss",
@@ -899,6 +902,7 @@
   "https://www.theguardian.com/money/2026/nov/23/grieving-families-getting-into-debt-and-doing-without-memorials-due-to-benefit-freezes",
   "https://www.theguardian.com/news/2026/nov/23/barbados-minister-speightstown-bristol-deal-slave-trade-reparations",
   "https://www.theguardian.com/news/audio/2026/nov/23/cop31-collapses-why-did-climate-talks-fall-apart-the-latest",
+  "https://www.theguardian.com/news/audio/2026/nov/24/myanmar-found-guilty-genocide-should-israel-be-worried-podcast",
   "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-brexit-deal-eu",
   "https://www.theguardian.com/politics/2026/nov/23/andy-burnham-not-backtracking-creating-closer-links-eu-officials-say",
   "https://www.theguardian.com/politics/2026/nov/23/natural-england-could-be-abolished-quango-cull-louise-haigh",
