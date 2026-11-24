@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-24T20:38+01:00",
+ "updatedAt": "2026-11-24T21:08+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-24T22:54:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/avcilar-da-yeralti-kablolari-alev-alev-yandi-4-sokakta-elektrik-kesildi-2559107",
+    "text": {
+     "tr": "İstanbul Avcılar'da yeraltı elektrik kablolarındaki patlamalar ve çıkan yangın nedeniyle dört sokakta elektrik kesintisi yaşandı.",
+     "de": "In Istanbul-Avcilar kam es nach Explosionen in unterirdischen Stromkabeln zu einem Brand und Stromausfällen in vier Straßen."
+    }
+   },
+   {
     "time": "2026-11-24T22:35:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/siyaset/kadinlar-cagri-yapmisti-beyoglu-kaymakamligi-25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu-yuruyusunu-yasakladi-2559098",
@@ -85,18 +94,36 @@
      "tr": "ABD ordusunda görev yapan bir asker, Çin'e ulusal savunmaya ilişkin gizli bilgileri sattığını itiraf etti.",
      "de": "Ein Soldat der US-Streitkräfte hat gestanden, geheime Informationen zur nationalen Verteidigung an China verkauft zu haben."
     }
-   },
-   {
-    "time": "2026-11-24T21:10:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011040/cumhurbaskani-erdogan-dan-15-bin-ogretmen-alimi-aciklamasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Cumhurbaşkanı Erdoğan, bu hafta içerisinde 15 bin öğretmen adayının alım duyurusu ve branş dağılımının yapılacağını açıkladı.",
-     "de": "Präsident Erdoğan kündigte an, dass in dieser Woche die Zuteilung und Rekrutierung von 15.000 Lehreranwärtern bekannt gegeben wird."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-24T19:52:29+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
+    "text": {
+     "tr": "Spor Tahkim Mahkemesi, Fas'ın itirazını reddederek Senegal'i 2025 Afrika Uluslar Kupası'nın şampiyonu ilan etti.",
+     "de": "Der Internationale Sportgerichtshof hat Senegal nach einer Berufung wieder zum Sieger des Afrika-Cup 2025 erklärt."
+    }
+   },
+   {
+    "time": "2026-11-24T19:41:16+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
+    "text": {
+     "tr": "Nvidia CEO'su Jensen Huang, şirket çalışanlarından uygunsuz ilişkiler nedeniyle özür diledi.",
+     "de": "Nvidia-Chef Jensen Huang hat sich bei den Mitarbeitern für außereheliche Affären und das Fehlverhalten entschuldigt."
+    }
+   },
+   {
+    "time": "2026-11-24T19:27:10+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
+    "text": {
+     "tr": "Kolombiya'nın Villavicencio kentinde patlayan bombalı araç valiilik binası ve çevredeki yapıları tahrip etti.",
+     "de": "Eine Autobombe hat in der kolumbianischen Stadt Villavicencio das Gouverneursgebäude und umliegende Bauten zerstört."
+    }
+   },
    {
     "time": "2026-11-24T19:07:26+00:00",
     "source": "The Guardian World",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "ABD Başkanı Donald Trump, eski avukatı Rudy Giuliani'ye başkanlık özgürlük madalyası takdim etti.",
      "de": "US-Präsident Donald Trump hat seinen ehemaligen Anwalt Rudy Giuliani mit der Freiheitsmedaille des Präsidenten ausgezeichnet."
-    }
-   },
-   {
-    "time": "2026-11-24T18:08:04+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/nov/24/cartagena-colombia-hostages-supermarket",
-    "text": {
-     "tr": "Kolombiya'nın turistik kenti Cartagena'da silahlı kişiler bir süpermarketi basarak onlarca kişiyi rehin aldı.",
-     "de": "In der kolumbianischen Touristenstadt Cartagena haben bewaffnete Männer einen Supermarkt überfallen und Dutzende Menschen als Geiseln genommen."
-    }
-   },
-   {
-    "time": "2026-11-24T17:24:25+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
-    "text": {
-     "tr": "AİHM, üçüncü bir ülkenin göçü baskı aracı olarak kullanması durumunda AB devletlerinin sınırda geri gönderme (pushback) yapabileceğine hükmetti.",
-     "de": "Der EGMR hat geurteilt, dass EU-Staaten Migranten an der Grenze zurückweisen dürfen, wenn ein Drittstaat Migration gezielt als Druckmittel einsetzt."
-    }
-   },
-   {
-    "time": "2026-11-24T15:58:13+01:00",
-    "source": "tagesschau Ausland",
-    "url": "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html",
-    "text": {
-     "tr": "Birleşmiş Milletler raporuna göre, geçen yıl dünya genelinde işlenen 78 bin kadın cinayetinin çoğu partnerler tarafından gerçekleştirildi.",
-     "de": "Einem UN-Bericht zufolge gehen die meisten der weltweit 78.000 Femizide im vergangenen Jahr auf das Konto von Partnern."
     }
    }
   ]
@@ -226,6 +226,7 @@
   "https://www.bbc.co.uk/news/articles/cjqlq2n4np7do",
   "https://www.bbc.co.uk/news/articles/cm5y1ezx2gqyo",
   "https://www.bbc.co.uk/news/articles/cm78270l4z7no",
+  "https://www.bbc.co.uk/news/articles/cmglrz462nn6o",
   "https://www.bbc.co.uk/news/articles/cmqj5qlj5yz9o",
   "https://www.bbc.co.uk/news/articles/cmwy868v3nneo",
   "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
@@ -237,6 +238,7 @@
   "https://www.bbc.com/turkce/articles/c61wr385xervo",
   "https://www.bbc.com/turkce/articles/c9p836157vreo",
   "https://www.bbc.com/turkce/articles/ck1wr3w05qd2o",
+  "https://www.bbc.com/turkce/articles/ck62pgp2vm1qo",
   "https://www.bbc.com/turkce/articles/cm5y1evywyrqo",
   "https://www.bbc.com/turkce/articles/cm792qzv12wjo",
   "https://www.bbc.com/turkce/articles/cmwy0wy2gr84o",
@@ -317,6 +319,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/imamoglu-ndan-ataturk-vurgulu-ogretmenler-gunu-mesaji-fotograflarinin-arasinda-en-cok-bunu-seviyorum-2558892",
   "https://www.cumhuriyet.com.tr/siyaset/kadinlar-cagri-yapmisti-beyoglu-kaymakamligi-25-kasim-kadina-yonelik-siddete-karsi-mucadele-gunu-yuruyusunu-yasakladi-2559098",
   "https://www.cumhuriyet.com.tr/siyaset/kim-olursa-olsun-hesabini-verecek-demislerdi-fon-sorusturmasinin-sembol-ismi-fatma-betul-sayan-kaya-tahliye-edildi-2558949",
+  "https://www.cumhuriyet.com.tr/siyaset/on-birinci-fon-kurulu-toplandi-son-ara-odemeler-icin-tarih-belli-oldu-2559104",
   "https://www.cumhuriyet.com.tr/siyaset/ordu-da-maden-sondajina-tepki-onemli-olan-bu-isin-durdurulmasi-2558929",
   "https://www.cumhuriyet.com.tr/siyaset/ozgur-celik-hikmet-cetin-in-cenaze-programini-acikladi-2559074",
   "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-24-kasim-ogretmenler-gunu-mesaji-bu-sorunlari-cozmek-icin-yetki-istiyoruz-2558860",
@@ -375,6 +378,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/akp-li-savci-sayan-dan-fon-vurgununa-iliskin-yeni-iddia-400-bin-ciftcinin-magdur-olabilir-2558841",
   "https://www.cumhuriyet.com.tr/turkiye/aksaray-da-kontrolden-cikan-yolcu-otobusu-devrildi-cok-sayida-yarali-var-2558966",
   "https://www.cumhuriyet.com.tr/turkiye/aol-ilk-birinci-donem-sinav-giris-belgesi-ne-zaman-ve-nasil-alinir-2026-acik-lise-1-donem-e-sinav-ve-yazili-sinav-tarihleri-ne-zaman-2558946",
+  "https://www.cumhuriyet.com.tr/turkiye/avcilar-da-yeralti-kablolari-alev-alev-yandi-4-sokakta-elektrik-kesildi-2559107",
   "https://www.cumhuriyet.com.tr/turkiye/bakanlik-acikladi-3-gumruk-kapisinda-uyusturucu-operasyonu-390-kilogrami-askin-madde-ele-gecirildi-2558897",
   "https://www.cumhuriyet.com.tr/turkiye/balikesir-de-selin-bilancosu-gun-agarinca-ortaya-cikti-otomobil-agacta-asili-kaldi-2559012",
   "https://www.cumhuriyet.com.tr/turkiye/baris-terkoglu-ve-ahmet-zeki-ucok-un-yargilandigi-davada-savci-tanigin-dinlenmesinden-vazgecilmesini-istedi-2559018",
@@ -430,6 +434,7 @@
   "https://www.cumhuriyet.com.tr/yasam/elleri-catlatan-zorlu-hasat-icin-her-gun-110-kilometre-yol-gidiyorlar-kirmizisi-15-beyazi-20-liradan-satiliyor-2559052",
   "https://www.cumhuriyet.com.tr/yasam/firat-nehri-kiyisinda-yetisiyor-bir-defa-ekiyorsun-10-yil-urun-veriyor-2559075",
   "https://www.cumhuriyet.com.tr/yasam/gunes-sistemi-nin-ucunda-gizemli-kesif-gokbilimciler-dunya-benzeri-ikinci-bir-gizli-gezegenin-izine-rastladi-2558952",
+  "https://www.cumhuriyet.com.tr/yasam/hizan-in-yaylalarinda-hasat-basladi-sogut-dalindan-orulup-camurla-sivaniyor-aylarca-hic-dokunulmuyor-2559100",
   "https://www.cumhuriyet.com.tr/yasam/kansizliga-karsi-kirmizi-etsiz-5-bilimsel-yontem-besinlerdeki-demir-emilimini-artirmanin-yollari-2558834",
   "https://www.cumhuriyet.com.tr/yasam/kesildiginde-turuncu-sut-akitiyor-kilosu-250-liradan-kapisiliyor-2559082",
   "https://www.cumhuriyet.com.tr/yasam/kim-milyoner-olmak-ister-de-1-milyon-tl-lik-cumhurbaskani-sorusu-dogru-yanit-sasirtti-2559051",
@@ -438,6 +443,7 @@
   "https://www.cumhuriyet.com.tr/yasam/sehirden-sadece-56-kilo-cikiyor-ama-kilosu-1-4-milyon-liraya-alici-buluyor-2559058",
   "https://www.cumhuriyet.com.tr/yasam/soguk-havalar-bakim-rutininizi-degistiriyor-kis-aylarinda-en-cok-ihmal-edilen-7-bakim-adimi-2559017",
   "https://www.cumhuriyet.com.tr/yasam/spotify-neden-acilmiyor-spotify-coktu-mu-2558961",
+  "https://www.cumhuriyet.com.tr/yasam/turkiye-de-en-cok-tuketilen-baliklardan-uzmanlar-civa-tehlikesine-karsi-uyardi-2559106",
   "https://www.cumhuriyet.com.tr/yasam/unlu-yonetmen-alev-nursat-akakar-hayatini-kaybetti-2558943",
   "https://www.cumhuriyet.com.tr/yasam/will-smith-in-42-milyon-dolarlik-malikanesinde-ikinci-kez-yangin-cikti-2558890",
   "https://www.cumhuriyet.com.tr/yasam/yapay-zeka-caginda-egitim-ve-meslek-uyarisi-cocuklar-simdi-hangi-alanlara-yonelmeli-2558869",
@@ -604,6 +610,7 @@
   "https://www.evrensel.net/haber/6011046/saadet-partisi-nden-galatasaray-a-filistin-destegi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011047/ulastirma-butcesinde-garanti-odemeleri-osmangazi-koprusu-ndeki-zamlar-ve-hgs-vurgunu-tartismasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011048/abd-ordusunda-gorev-yapan-bir-asker-cin-e-gizli-bilgileri-sattigini-itiraf-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011049/simal-canibinde-mechul-bir-aslan-kuzey-ormanlarinda-arsiz-bir-talan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011049/simal-cnibinde-mechul-bir-aslan-kuzey-ormanlarinda-arsiz-bir-talan?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011050/bakan-uraloglu-ndan-hgs-aciklamasi-usulsuz-icra-odemeleri-iade-edilecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/noma-handbuch-geschmack-muss-es-wirklich-ameisenbutter-sein-accg-201672946.html",
@@ -682,6 +689,8 @@
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/jost-wiebelhaus-wie-der-frankfurter-laufshop-chef-die-krawallnacht-verarbeitete-201713208.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/plaene-zu-outlet-im-loop5-in-weiterstadt-accg-201702070.html",
   "https://www.faz.net/aktuell/sport/fussball/cas-urteil-senegal-statt-marokko-sieger-bei-afrika-cup-2026-201713620.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/bayern-coach-kompany-will-keinen-druck-auf-musiala-und-diaz-ausueben-201714394.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/kein-guter-abend-fuer-goretzka-in-der-champions-league-201305464.html",
   "https://www.faz.net/aktuell/sport/fussball/tv-rechtevergabe-wer-zeigt-die-fussball-wm-der-frauen-accg-201711730.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/beach-wrestling-bei-olympia-rettet-sand-das-ringen-eine-glosse-accg-201698126.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/dommaraju-gukesh-und-javokhir-sindarov-starten-mit-remis-in-schach-wm-201714309.html",
@@ -702,6 +711,7 @@
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/prym-group-und-the-coatinc-company-so-alt-wie-die-mona-lisa-accg-201694256.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/so-alt-wie-die-mona-lisa-das-sind-die-aeltesten-familienunternehmen-in-deutschland-accg-201694256.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/spannende-reise-durch-turbulente-zeiten-die-schoenheit-der-anleihemaerkte-accg-201702432.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/waldumbau-in-deutschland-wer-zahlt-die-milliarden-201711743.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wer-medikamente-aus-europa-will-muss-die-standortbedingungen-verbessern-201712702.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/wie-die-eu-die-produktion-kritischer-medikamente-staerken-will-accg-201702419.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/abb-uebernimmt-ziehl-abegg-ausverkauf-im-ventilatoren-valley-accg-201708899.html",
@@ -729,6 +739,7 @@
   "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
   "https://www.france24.com/en/americas/20261124-jensen-huang-s-return-has-calmed-markets-but-fears-of-an-ai-bubble-still-run-deep",
   "https://www.france24.com/en/asia-pacific/20261124-china-to-launch-first-space-mission-with-a-foreign-astronaut",
+  "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
   "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
   "https://www.france24.com/en/france/20261124-accused-emptying-coffers-macron-mulls-spending-caps-future-french-governments-golden-rule",
   "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
@@ -736,6 +747,9 @@
   "https://www.france24.com/en/middle-east/20261124-israeli-strikes-on-gaza-kill-senior-hamas-security-official-and-six-other-people-medics-say",
   "https://www.france24.com/en/middle-east/20261124-yemen-army-houthi-attack-aden",
   "https://www.france24.com/en/russia-s-war-on-ukraine-both-sides-are-prepared-to-operate-outside-of-the-conflict-zone",
+  "https://www.france24.com/en/russian-losses-on-ukrainian-front-top-700-000-including-missing",
+  "https://www.france24.com/en/senegal-afcon-ruling-good-in-the-books-of-sports-law-expert-says",
+  "https://www.france24.com/en/senegal-regain-afcon-title-on-appeal-at-morocco-s-expense",
   "https://www.france24.com/en/sport/20261124-sports-court-verdict-senegal-appeal-africa-cup-of-nations-title-tuesday",
   "https://www.france24.com/en/tv-shows/arts24/20261124-simple-minds-at-50-still-alive-and-kicking",
   "https://www.france24.com/en/tv-shows/business/20261124-nvidia-s-position-as-cornerstone-of-ai-trade-confirmed-by-market-reaction-to-huang-s-return",
@@ -874,11 +888,13 @@
   "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-huang-rueckkehr-trump-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/volkswagen-tarifrunde-emden-auftakt-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/vw-werk-zwickau-zukunft-100.html",
+  "https://www.theguardian.com/artanddesign/2026/nov/24/alia-syed-wins-10000-jarman-award-for-depth-and-maturity-of-her-experimental-films",
   "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
   "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
   "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+  "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
   "https://www.theguardian.com/business/2026/nov/24/uk-eu-made-in-europe-trade-cars-tariffs",
   "https://www.theguardian.com/business/2026/nov/25/chinese-police-wechat-group-hungrypanda-delivery-rider-alleged-murder-melbourne-ntwnfb",
@@ -896,9 +912,11 @@
   "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
   "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
   "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
+  "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
   "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
   "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
   "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
+  "https://www.theguardian.com/technology/2026/nov/24/jensen-huang-nvidia-apologizes-staff",
   "https://www.theguardian.com/technology/2026/nov/24/kate-bush-grace-jones-australian-artists-copyright-law-ai",
   "https://www.theguardian.com/technology/2026/nov/24/meta-launches-muse-uk-ai-agent-do-christmas-shopping",
   "https://www.theguardian.com/technology/2026/nov/24/nvidia-jensen-huang-congress",
@@ -917,6 +935,7 @@
   "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
   "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
   "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
+  "https://www.theguardian.com/us-news/2026/nov/24/us-army-iowa-detonation",
   "https://www.theguardian.com/us-news/live/2026/nov/24/donald-trump-nvidia-jensen-huang-republicans-democrats-china-latest-news-updates",
   "https://www.theguardian.com/weather/2026/nov/24/california-coast-flooding-thanksgiving-travel",
   "https://www.theguardian.com/world/2026/nov/23/this-is-india-pitt-rivers-museum-oxford-human-remains-repatriation",
@@ -959,6 +978,7 @@
   "https://www.welt.de/politik/ausland/article6b0583526a4309d5f179c77f/ukraine-krieg-wir-verstehen-nicht-welchen-mehrwert-die-teilnahme-der-europaeer-bringen-koennte-spottet-peskow.html",
   "https://www.welt.de/politik/ausland/article6b05ada0d4a4a3142c571486/ukraine-selenskyj-spricht-ueber-druck-der-usa-und-bestaetigt-angriff-auf-frachter-in-ostsee.html",
   "https://www.welt.de/politik/ausland/article6b05ae2e460ead0fdbd8086e/mossad-verhinderte-laut-ex-chef-anschlag-auf-taylor-swift-konzerte.html",
+  "https://www.welt.de/politik/ausland/article6b05c803d4a4a3142c572186/frankreich-le-pen-verschaerft-den-ton-und-fordert-ende-von-deutschem-europa.html",
   "https://www.welt.de/politik/ausland/plus6b0540247ad921347675fe61/angriff-in-libyen-kriegsschauplatz-mittelmeer-die-neue-dimension-von-kiews-kampf-gegen-russland.html",
   "https://www.welt.de/politik/ausland/plus6b0558497ad921347676008d/russlands-drohung-das-waere-die-groesste-gefahr-von-moskaus-atombombe-im-weltall.html",
   "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-maskierter-greift-gruenen-buero-an-raetselhafter-aufkleber-am-tatort.html",
@@ -988,6 +1008,7 @@
   "https://www.welt.de/sport/article6b05408139a3e8110f0e99f4/ingrid-kraemer-gulbin-gleichzeitig-sportlerin-des-jahres-in-ost-und-west-trauer-um-olympiasiegerin.html",
   "https://www.welt.de/sport/formel1/article6b0189ab45d8681e4fca3ce1/rosberg-ueber-hamilton-ausgesprochen-haben-wir-uns-nie.html",
   "https://www.welt.de/sport/fussball/article6b057bf06a4309d5f179c659/bundesliga-tv-ueberraschung-disney-sichert-sich-erstmals-rechte.html",
+  "https://www.welt.de/sport/fussball/article6b05d3e581b7ff1e8177a39c/champions-league-guirassy-auf-der-bank-bvb-trainer-kovac-verzichtet-bei-arsenal-auf-seinen-topstuermer.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0549c039a3e8110f0e9b16/fc-bayern-musiala-soll-noch-22-millionen-euro-extra-kassiert-haben.html",
   "https://www.welt.de/sport/leichtathletik/article6afa0b7c9849eea0701e3ed3/kugelstosser-als-die-ddr-oesterreich-den-krieg-erklaerte.html",
   "https://www.welt.de/sport/leichtathletik/article6afa0b7c9849eea0701e3ed3/kugelstosser-als-die-ddr-rolf-oesterreich-den-krieg-erklaerte.html",
