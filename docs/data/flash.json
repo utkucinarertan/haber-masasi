@@ -1,6 +1,90 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-24T05:21+01:00",
- "countries": {},
- "seen": []
+ "updatedAt": "2026-11-24T05:51+01:00",
+ "countries": {
+  "de": [
+   {
+    "time": "2026-11-24T05:43:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/pflege-mehrheit-der-versicherten-fordert-grundlegende-reform-a-60f0353b-75d0-4bf0-89ae-52c51ab6578d#ref=rss",
+    "text": {
+     "tr": "Almanya'da TK tarafından yapılan bir araştırmaya göre sigortalıların çoğunluğu bakım sigortasında temel bir reform talep ediyor.",
+     "de": "Laut einer TK-Umfrage fordert die Mehrheit der Versicherten in Deutschland eine grundlegende Reform der Pflegeversicherung."
+    }
+   },
+   {
+    "time": "2026-11-24T04:41:02+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
+    "text": {
+     "tr": "Rusya'ya ait bir drone kısa süreliğine Polonya hava sahasına girdi ve bölgede alarm durumuna neden oldu.",
+     "de": "Eine russische Drohne drang kurzzeitig in den polnischen Luftraum ein und löste dort Luftalarm aus."
+    }
+   },
+   {
+    "time": "2026-11-24T04:21:07+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b050e4b5842ff528b9e674c/drohungen-im-internet-regelrechte-hass-tsunamis-kloeckner-warnt-vor-digitaler-gewalt-gegen-frauen.html",
+    "text": {
+     "tr": "Federal Meclis Başkanı Julia Klöckner, internetteki kadınlara yönelik dijital şiddete karşı uyarılarda bulundu.",
+     "de": "Bundestagspräsidentin Julia Klöckner hat vor digitaler Gewalt gegen Frauen im Internet gewarnt."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-24T07:18:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6010901/savci-sayan-dan-fon-vurgununda-yeni-iddia-tarfin-tarim-da-400-bin-ciftci-magdur-olabilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Eski belediye başkanı Savcı Sayan, Tarfin Tarım'da yaşanan gelişmeler nedeniyle 400 bin çiftçinin haciz riskiyle karşılaşabileceğini iddia etti.",
+     "de": "Der ehemalige Bürgermeister Savcı Sayan warnt, dass durch Vorfälle bei Tarfin Tarım bis zu 400.000 Landwirte von Pfändungen bedroht sein könnten."
+    }
+   },
+   {
+    "time": "2026-11-24T05:30:05+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/24/nvidiaya-donen-jensen-huang-borsalar-yukseldi-yatirimci-iyimserligi-artti",
+    "text": {
+     "tr": "Jensen Huang'ın Nvidia CEO'luğuna dönmesiyle şirket hisseleri yüzde 30 artış kaydetti.",
+     "de": "Nach der Rückkehr von Jensen Huang als CEO von Nvidia stiegen die Aktien des Chipkonzerns um 30 Prozent."
+    }
+   }
+  ],
+  "world": [
+   {
+    "time": "2026-11-24T05:23:38+01:00",
+    "source": "tagesschau Ausland",
+    "url": "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+    "text": {
+     "tr": "Güney Kore güvenlik makamları, sabah saatlerinde ülkenin hava savunma bölgesine çok sayıda Rus askeri uçağının girdiğini bildirdi.",
+     "de": "Mehrere russische Militärflugzeuge sind nach Angaben südkoreanischer Sicherheitsbehörden in die Luftverteidigungszone des Landes eingedrungen."
+    }
+   },
+   {
+    "time": "2026-11-24T04:36:31+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump'ın Nvidia'yı CEO Jensen Huang'ı yeniden göreve getirmeye ikna ettiğini söylemesi tepkilere yol açtı.",
+     "de": "Donald Trump sieht sich Kritik ausgesetzt, nachdem er erklärt hatte, er habe Nvidia zur Wiedereinstellung von CEO Jensen Huang überzeugt."
+    }
+   }
+  ]
+ },
+ "seen": [
+  "https://tr.euronews.com/2026/11/24/nvidiaya-donen-jensen-huang-borsalar-yukseldi-yatirimci-iyimserligi-artti",
+  "https://tr.euronews.com/2026/11/24/ukrayna-rusyanin-jet-motorlu-ihasini-yeni-onleme-sistemiyle-dusurdu",
+  "https://www.bbc.co.uk/news/articles/cq5y1k8ez407o",
+  "https://www.evrensel.net/haber/6010901/savci-sayan-dan-fon-vurgununda-yeni-iddia-tarfin-tarim-da-400-bin-ciftci-magdur-olabilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/deutsche-true-crime-doku-gewinnt-internationalen-emmy-accg-201711195.html",
+  "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/viel-weniger-autos-in-deutschland-gestohlen-accg-201711196.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
+  "https://www.spiegel.de/politik/deutschland/news-berliner-linksfraktion-will-vanessa-emde-ausschliessen-irritation-ueber-markus-soeders-vorstoss-zur-kalten-progression-femizid-soll-ins-strafgesetzbuch-a-95f73901-9196-4dde-a781-c80010d12098#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/pflege-mehrheit-der-versicherten-fordert-grundlegende-reform-a-60f0353b-75d0-4bf0-89ae-52c51ab6578d#ref=rss",
+  "https://www.spiegel.de/sport/schach-weltmeister-dommaraju-gukesh-erklaert-seine-augen-schliesstechnik-a-2c06f462-01a5-4282-a6dd-c0975d15489a#ref=rss",
+  "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
+  "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
+  "https://www.welt.de/politik/article6b050e4b5842ff528b9e674c/drohungen-im-internet-regelrechte-hass-tsunamis-kloeckner-warnt-vor-digitaler-gewalt-gegen-frauen.html"
+ ]
 }
