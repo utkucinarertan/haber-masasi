@@ -1,8 +1,17 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T01:21+01:00",
+ "updatedAt": "2026-11-25T01:51+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-25T00:37:33+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b062bddcd4642ba2eb179fd/begegnungsorte-wir-duerfen-nicht-einfach-zuschauen-gruene-fordern-sofortprogramm-zur-rettung-von-dorfkneipen.html",
+    "text": {
+     "tr": "Yeşiller partisi, köy pub'larının kapanmasını önlemek ve buluşma noktalarını desteklemek amacıyla on milyon euroluk acil bir program talep etti.",
+     "de": "Die Grünen fordern ein zehn Millionen Euro schweres Sofortprogramm, um das Sterben von Dorfkneipen zu verhindern."
+    }
+   },
    {
     "time": "2026-11-24T23:43:00+01:00",
     "source": "Der Spiegel",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Linken Partisi lideri Luigi Pantisano, şiddet uygulayan erkeklerin kurbanlar tarafından konut sözleşmelerinin devralınabilmesi için yasal değişiklik talep etti.",
      "de": "Linken-Chef Luigi Pantisano fordert eine Gesetzesänderung, damit Opfer von Partnerschaftsgewalt Mietverträge von Tätern übernehmen können."
-    }
-   },
-   {
-    "time": "2026-11-24T23:01:24+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b05bf4caabf9675c80f42f6/schwarz-rote-plaene-reichinnek-haelt-hoehere-rentenabschlaege-fuer-verfassungswidrig.html",
-    "text": {
-     "tr": "Linken Grup Başkanı Heidi Reichinnek, koalisyonun erken emeklilik kesintilerini artırma planlarının yaşlılık yoksulluğuna yol açacağını ve anayasaya aykırı olduğunu belirtti.",
-     "de": "Linken-Fraktionschefin Heidi Reichinnek hält die Pläne der Koalition für höhere Rentenabschläge bei vorzeitigem Eintritt für verfassungswidrig."
     }
    }
   ],
@@ -98,6 +98,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-25T01:33:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss",
+    "text": {
+     "tr": "ABD dış istihbarat teşkilatı CIA'in hackerlar tarafından hedef alındığı bildirilirken, ilk bulgular Çin'e işaret ediyor.",
+     "de": "Der US-Geheimdienst CIA wurde offenbar Ziel eines Hackerangriffs, wobei erste Indizien auf China deuten."
+    }
+   },
+   {
     "time": "2026-11-25T01:06:58+01:00",
     "source": "tagesschau Ausland",
     "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Fort Hood askeri üssündeki saldırının üç kural dışı kurtulanına, fail Nidal Hasan'ın askeri idamını izleme izni verilmedi.",
      "de": "Drei Überlebenden des Fort-Hood-Angriffs wurde untersagt, der Hinrichtung des Täters Nidal Hasan durch ein militärisches Firing Squad beizuwohnen."
-    }
-   },
-   {
-    "time": "2026-11-24T22:39:44+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
-    "text": {
-     "tr": "Avustralya'da eski polis memuru Beau Lamarre-Condon'ın çifte cinayet davasında jüri karar için toplandı.",
-     "de": "In Australien hat die Jury im Doppelmordprozess gegen den ehemaligen Polizisten Beau Lamarre-Condon die Beratungen aufgenommen."
     }
    }
   ]
@@ -861,6 +861,7 @@
   "https://www.spiegel.de/ausland/rio-de-janeiro-rivalen-retten-aeltestes-restaurant-nach-kuechenbrand-a-e3e453f2-9f9b-4f93-a703-7186d1ef8c95#ref=rss",
   "https://www.spiegel.de/ausland/spanien-ada-colau-baut-auf-momentum-fuer-linkes-buendnis-vor-der-wahl-a-04387a07-2b9e-4eb4-b348-b19d67fe7a17#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-zwei-tote-und-dutzende-verletzte-nach-russischem-luftangriff-auf-saporischschja-a-9a03cb06-c651-4db0-9f30-21fcd38438f4#ref=rss",
+  "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss",
   "https://www.spiegel.de/ausland/usa-nach-den-midterms-koennen-die-demokraten-ihre-staerke-nutzen-a-3a54f8f3-93f5-40c6-bcdd-487b6d6ea2ac#ref=rss",
   "https://www.spiegel.de/ausland/wladimir-putin-wirft-bekannten-regisseur-alexander-sokurow-aus-menschenrechtsrat-a-9da133f1-a8d8-4095-bcd9-c6df0c82dd1a#ref=rss",
   "https://www.spiegel.de/kultur/katholische-kirche-papst-franziskus-beschreibt-den-teufel-in-seinen-visionen-a-f4ff8de8-c018-46ad-8cfc-28e46d11e579#ref=rss",
@@ -967,6 +968,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/24/beau-lamarre-condon-trial-barrister-closing-statement-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/24/campaigners-urge-albanese-government-to-reject-climate-bomb-coalmine-expansion-after-cop31",
   "https://www.theguardian.com/australia-news/2026/nov/24/georgina-long-melanoma-anthony-thomas-2026-prime-ministers-prizes-for-science",
+  "https://www.theguardian.com/australia-news/2026/nov/24/nine-datacentre-projects-awaiting-approval-victoria-election",
   "https://www.theguardian.com/australia-news/2026/nov/24/sports-whistleblowers-protected-proposed-laws-australian-cricket-ball-tampering-sandpapergate-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/25/beau-lamarre-condon-trial-jury-considers-verdict-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/24/labor-penny-wong-us-china-anthony-albanese-final-sitting-week-ntwnfb",
@@ -1062,6 +1064,7 @@
   "https://www.welt.de/kultur/plus6b053c6a5842ff528b9e69a7/krebserkrankung-warum-dieter-nuhr-schnell-wieder-gesund-werden-muss.html",
   "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6b0530e339a3e8110f0e98d8/16-stromverteuerung-wenn-die-systemklasse-die-systemfrage-gegen-das-volk-stellt.html",
   "https://www.welt.de/politik/article6b050e4b5842ff528b9e674c/drohungen-im-internet-regelrechte-hass-tsunamis-kloeckner-warnt-vor-digitaler-gewalt-gegen-frauen.html",
+  "https://www.welt.de/politik/article6b062bddcd4642ba2eb179fd/begegnungsorte-wir-duerfen-nicht-einfach-zuschauen-gruene-fordern-sofortprogramm-zur-rettung-von-dorfkneipen.html",
   "https://www.welt.de/politik/ausland/article6af6baeb9849eea0701e12a3/israels-top-juristin-wir-hoerten-auch-leute-sagen-vergewaltigung-ist-widerstand-das-ist-entsetzlich.html",
   "https://www.welt.de/politik/ausland/article6af6baeb9849eea0701e12a3/israels-top-juristin-wir-wissen-nur-dass-israels-regierung-versagt-hat.html",
   "https://www.welt.de/politik/ausland/article6b052a3599fb9d43ec3c454e/kamikaze-drohnen-fuer-bundeswehr-bundestagsgutachten-aeussert-erhebliche-bedenken-bei-einsatz.html",
@@ -1117,6 +1120,8 @@
   "https://www.welt.de/sport/leichtathletik/plus6afa0b7c9849eea0701e3ed3/kugelstosser-als-die-ddr-oesterreich-den-krieg-erklaerte.html",
   "https://www.welt.de/vermischtes/article6b0562646c27b799309d03dd/gewalt-gegen-frauen-fast-jeden-tag-wird-in-deutschland-eine-frau-oder-ein-maedchen-getoetet.html",
   "https://www.welt.de/vermischtes/article6b0567fa7ad92134767602e6/rostock-digitaler-led-baum-statt-echter-tanne-sorgt-fuer-empoerung-auf-weihnachtsmarkt.html",
+  "https://www.welt.de/vermischtes/article6b061e0ccd4642ba2eb179b1/beruehmter-schriftsteller-er-hat-sich-nie-sicher-gefuehlt-kehlmann-hat-heute-verstaendnis-fuer-angst-seines-vaters.html",
+  "https://www.welt.de/vermischtes/article6b061e2acd4642ba2eb179b9/musikvideo-des-jahres-youtube-zeichnet-viralen-song-gut-genug-doppelt-aus.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b058b0e460ead0fdbd8022e/soest-dreieinhalb-jahre-haft-im-prozess-um-horrorhaus-neue-videos-belasten-hauptangeklagten.html",
   "https://www.welt.de/videos/video6b04843266a00c9ca1fe17f2/debatte-um-bayerns-musiala-rummenigge-hat-vollkommen-recht-und-der-normale-arbeitnehmerschutz-gilt-hier-nicht-mehr.html",
   "https://www.welt.de/wirtschaft/article6b056fb439a3e8110f0ea14f/transformation-digitalminister-karsten-wildberger-rudert-bei-ki-steuer-zurueck.html",
