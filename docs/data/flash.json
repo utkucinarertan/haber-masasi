@@ -1,8 +1,44 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T22:19+01:00",
+ "updatedAt": "2026-11-25T22:49+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-25T22:14:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/regierungsbildung-in-berlin-franziska-giffey-sieht-mit-ausschluss-von-vanessa-emde-keine-loesung-mit-linken-a-19e6423b-d6dd-4769-a1c5-e9eabe7a0350#ref=rss",
+    "text": {
+     "tr": "Franziska Giffey, Vanessa Emde'nin Sol Parti grubundan ihraç edilmesinin Kızıl-Kırmızı-Yeşil koalisyon için yeterli bir çözüm olmadığını belirtti.",
+     "de": "Franziska Giffey sieht den Ausschluss von Vanessa Emde aus der Linke-Fraktion nicht als ausreichenden Schritt für eine rot-rot-grüne Koalition in Berlin."
+    }
+   },
+   {
+    "time": "2026-11-25T21:45:20+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
+    "text": {
+     "tr": "Ekonomi konseyi üyesi Monika Schnitzer, artan yeni borçlanma nedeniyle 2040 yılına kadar yüzde 100 borç oranı konusunda uyarıda bulundu.",
+     "de": "Wirtschaftsweise Monika Schnitzer warnt vor einer steigenden Neuverschuldung und einer Schuldenquote von 100 Prozent bis 2040 in Deutschland."
+    }
+   },
+   {
+    "time": "2026-11-25T21:33:29+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/schach/article6b072d69c75e09cb88d16150/schach-wm-naechstes-unentschieden-gukesh-bleibt-im-rennen.html",
+    "text": {
+     "tr": "Cenevre'deki Satranç Dünya Şampiyonası'nda unvan sahibi Dommaraju Gukesh ile Javokhir Sindarov arasındaki ikinci gün de berabere bitti.",
+     "de": "Bei der Schach-Weltmeisterschaft in Genf endete auch das zweite Duell zwischen Titelverteidiger Dommaraju Gukesh und Javokhir Sindarov unentschieden."
+    }
+   },
+   {
+    "time": "2026-11-25T21:31:00+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b074882c75e09cb88d162b0/mecklenburg-vorpommern-justizminister-loescht-offenbar-antifa-reel-cdu-und-afd-verlangen-aufklaerung.html",
+    "text": {
+     "tr": "Mecklenburg-Vorpommern Adalet Bakanı'nın Antifa destekli bir paylaşımı silmesinin ardından CDU ve AfD açıklama talep etti.",
+     "de": "Nachdem der Justizminister von Mecklenburg-Vorpommern offenbar ein Antifa-Reel gelöscht hat, fordern CDU und AfD Aufklärung."
+    }
+   },
    {
     "time": "2026-11-25T20:59:50+00:00",
     "source": "FAZ Nachrichten",
@@ -11,45 +47,45 @@
      "tr": "Almanya'da özel sektör yatırımlarının zayıflaması 2022'den bu yana ülkeye 125 milyar eurodan fazla ekonomik kayıp yaşattı.",
      "de": "Die Schwäche der privaten Investitionen hat Deutschland seit 2022 mehr als 125 Milliarden Euro an Wirtschaftsleistung gekostet."
     }
-   },
-   {
-    "time": "2026-11-25T20:51:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c#ref=rss",
-    "text": {
-     "tr": "Microsoft, küresel bir BT kesintisinin ardından en yüksek kriz seviyesi olan kod kırmızı ilan etti.",
-     "de": "Microsoft hat nach einer globalen IT-Störung die höchste Krisenstufe mit einem Code Red ausgerufen."
-    }
-   },
-   {
-    "time": "2026-11-25T20:50:08+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
-    "text": {
-     "tr": "İsrailli hakimler, Başbakan Binyamin Netanyahu hakkındaki son yolsuzluk suçlamasının düşürülmesini tavsiye etti.",
-     "de": "Israelische Richter haben empfohlen, den letzten Bestechungsvorwurf gegen Premierminister Benjamin Netanjahu fallen zu lassen."
-    }
-   },
-   {
-    "time": "2026-11-25T20:14:28+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
-    "text": {
-     "tr": "Uzman komisyonu, şiddet ve sömürüye karşı projenin yeniden düzenlenmesi kapsamında fahişelik için daha katı kurallar talep etti.",
-     "de": "Eine Expertenkommission fordert schärfere Regeln für die Prostitution, um den Schutz vor Gewalt und Ausbeutung zu erhöhen."
-    }
-   },
-   {
-    "time": "2026-11-25T20:14:08+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
-    "text": {
-     "tr": "Birlik partileri, SPD'ye 'Saygı Emekliliği' adında yeni bir uzlaşı teklifi sunarak düşük gelirli çalışanların erken emeklilik hakkını korumayı önerdi.",
-     "de": "Die Union bietet der SPD im Streit um die Rente mit 63 eine „Respekt-Rente“ als Kompromiss an, um Frühverrentung für Geringverdiener zu sichern."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T00:36:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yavuzyilmaz-bunun-adi-garantili-soygundur-diyerek-acikladi-avrasya-tuneli-icin-hazine-den-775-milyon-lira-odendi-2559500",
+    "text": {
+     "tr": "YENİ Parti Genel Başkan Yardımcısı Deniz Yavuzyılmaz, Avrasya Tüneli için Hazine'den şirkete 775 milyon lira ödendiğini açıkladı.",
+     "de": "Der stellvertretende Vorsitzende der YENİ-Partei, Deniz Yavuzyılmaz, erklärte, dass für den Eurasien-Tunnel 775 Millionen Lira aus der Staatskasse gezahlt wurden."
+    }
+   },
+   {
+    "time": "2026-11-26T00:27:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-valisi-gul-den-sokakta-kalan-yurttaslar-icin-cagri-112-ye-bildirin-2559499",
+    "text": {
+     "tr": "İstanbul Valisi Gül, hava sıcaklığının düşmesi nedeniyle sokakta kalan yurttaşların 112'ye bildirilmesi çağrısında bulundu.",
+     "de": "Der Istanbuler Gouverneur Gül rief dazu auf, obdachlose Menschen angesichts sinkender Temperaturen dem Notruf 112 zu melden."
+    }
+   },
+   {
+    "time": "2026-11-26T00:25:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/alkollu-surucunun-kullandigi-otomobil-takla-atti-ehliyetine-6-ay-el-konuldu-2559497",
+    "text": {
+     "tr": "Çorum'da takla atan alkollü sürücünün ehliyetine 6 ay süreyle el konuldu.",
+     "de": "In Çorum wurde einem betrunkenen Autofahrer nach einem Unfall der Führerschein für sechs Monate entzogen."
+    }
+   },
+   {
+    "time": "2026-11-26T00:20:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011212/tumtis-ten-29-kasim-cagrisi-ortak-sorunlarimiz-etrafinda-mucadeleyi-buyutmek-zorundayiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "TÜMTİS İstanbul Şube Başkanı Ersin Türkmen, 29 Kasım'da Kartal'da düzenlenecek mitinge katılım çağrısı yaptı.",
+     "de": "TÜMTİS-Istanbul-Chef Ersin Türkmen rief zur Teilnahme an einer für den 29. November in Kartal geplanten Kundgebung auf."
+    }
+   },
    {
     "time": "2026-11-26T00:12:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -57,42 +93,6 @@
     "text": {
      "tr": "Manisa'da kendilerini savcı ve polis olarak tanıtarak bir kadını 3,5 milyon TL dolandıran şüpheli Bursa'da yakalandı.",
      "de": "Ein Tatverdächtiger, der eine Frau in Manisa um 3,5 Millionen Lira betrogen hatte, wurde in Bursa gefasst."
-    }
-   },
-   {
-    "time": "2026-11-25T23:39:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/akp-nin-calisma-saatlerinin-yeniden-duzenlenmesine-iliskin-grup-onerisi-kabul-edildi-2559490",
-    "text": {
-     "tr": "TBMM Genel Kurulu'nda kabul edilen önergeyle, aralık ayındaki bazı birleşimlerde çalışmalar gece yarısına kadar sürecek.",
-     "de": "Das türkische Parlament hat eine Verlängerung der Sitzungszeiten an mehreren Tagen im Dezember bis Mitternacht beschlossen."
-    }
-   },
-   {
-    "time": "2026-11-25T23:20:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/iyi-partili-belediye-baskani-korgan-partisinden-istifa-etti-2559487",
-    "text": {
-     "tr": "Ordu'nun Korgan Belediye Başkanı Sait Korgan, İYİ Parti'den istifa ederek görevine bağımsız devam edeceğini duyurdu.",
-     "de": "Der Bürgermeister von Korgan, Sait Korgan, ist aus der İYİ-Partei ausgetreten und führt sein Amt als Unabhängiger fort."
-    }
-   },
-   {
-    "time": "2026-11-25T23:14:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/dunya/misir-da-petrol-urunleri-tasiyan-tankerde-yangin-cikti-30-kisi-oldu-15-kisi-yaralandi-2559486",
-    "text": {
-     "tr": "Mısır'ın Gize vilayetinde petrol ürünleri taşıyan tankerde çıkan yangında 30 kişi hayatını kaybetti, 15 kişi yaralandı.",
-     "de": "Bei einem Brand eines Tankwagens mit Erdölprodukten in der ägyptischen Provinz Gize starben 30 Menschen und 15 wurden verletzt."
-    }
-   },
-   {
-    "time": "2026-11-25T23:11:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011222/altinbas-ailesinin-kontrolundeki-sumer-varlik-a-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Altınbaş Holding'e bağlı Sümer Varlık Yönetim AŞ'ye Tasarruf Mevduatı Sigorta Fonu kayyım olarak atandı.",
-     "de": "Der türkische Einlagensicherungsfonds TMSF hat die Verwaltung des zum Altınbaş-Konzern gehörenden Unternehmens Sümer Varlık übernommen."
     }
    }
   ],
@@ -104,6 +104,24 @@
     "text": {
      "tr": "ABD Dışişleri Bakanlığı, Ukrayna'ya 622 milyon dolarlık F-16 bakım ve destek ekipmanı satışını onayladı.",
      "de": "Das US-Außenministerium hat den Verkauf von F-16-Wartungs- und Unterstützungsausrüstung im Wert von 622 Millionen Dollar an die Ukraine genehmigt."
+    }
+   },
+   {
+    "time": "2026-11-25T21:25:14+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
+    "text": {
+     "tr": "Mısır'ın başkenti Kahire'deki çevreyolunda bir akaryakıt tankerinin devrilmesi sonucu en az 30 kişi hayatını kaybetti.",
+     "de": "Bei einem Tanklastwagenunfall auf einer Ringstraße in der ägyptischen Hauptstadt Kairo sind mindestens 30 Menschen getötet worden."
+    }
+   },
+   {
+    "time": "2026-11-25T21:08:45+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
+    "text": {
+     "tr": "New York'taki geleneksel Macy's Şükran Günü geçidi, olumsuz hava koşulları ve şiddetli rüzgar nedeniyle cumartesi gününe ertelendi.",
+     "de": "Die traditionelle Macy's-Thanksgiving-Parade in New York wurde wegen starker Winde und widriger Wetterbedingungen auf Samstag verschoben."
     }
    },
    {
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Hera uzay aracı, dört yıl önce kasten çarpan sondanın Dimorphos asteroidinde oluşturduğu kraterin yakın plan fotoğraflarını çekti.",
      "de": "Die Raumsonde Hera hat Nahaufnahmen des Einschlagkraters auf dem Asteroiden Dimorphos zur Erde gefunkt."
-    }
-   },
-   {
-    "time": "2026-11-25T20:34:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/us-zoelle-welche-folgen-donald-trumps-neue-strafmassnahmen-fuer-die-eu-haben-a-e8098dd8-1e2e-4161-bd76-0310a466a835#ref=rss",
-    "text": {
-     "tr": "ABD Başkanı Donald Trump, aralarında Avrupa Birliği'nin de bulunduğu ticaret ortaklarına yönelik yeni cezai gümrük vergileri açıkladı.",
-     "de": "US-Präsident Donald Trump kündigt neue Strafzölle gegen Handelspartner wie die EU an."
-    }
-   },
-   {
-    "time": "2026-11-25T20:32:56+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
-    "text": {
-     "tr": "Avustralyalı Liberal senatör Leah Blyth, One Nation partisene katıldığını açıkladı.",
-     "de": "Die australische Liberale Senatorin Leah Blyth hat ihren Übertritt zur Partei One Nation bekannt gegeben."
     }
    }
   ]
@@ -238,6 +238,7 @@
   "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
   "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
   "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+  "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
   "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo",
   "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
   "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
@@ -359,6 +360,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-sozcusu-salih-uzun-dan-dikkat-ceken-aciklama-bambaska-sartlarda-bir-secime-hazirlanacagiz-seferberlik-donemine-giriyoruz-2559381",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-emir-demirtas-in-sozlerinin-muhatabi-yeni-parti-degil-2559325",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-murat-emir-den-fatma-betul-sayan-kaya-sorusu-o-siyasi-buyugun-adini-vermesin-diye-mi-tahliye-edildi-2559239",
+  "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yavuzyilmaz-bunun-adi-garantili-soygundur-diyerek-acikladi-avrasya-tuneli-icin-hazine-den-775-milyon-lira-odendi-2559500",
   "https://www.cumhuriyet.com.tr/siyaset/yozgat-valisi-ali-arslantas-kimdir-ali-arslantas-daha-once-hangi-gorevlerde-bulundu-2559185",
   "https://www.cumhuriyet.com.tr/spor/arda-guler-den-mac-sonu-alex-de-souza-aciklamasi-2559209",
   "https://www.cumhuriyet.com.tr/spor/barcelona-sabah-fk-deplasmaninda-farkli-kazandi-2559484",
@@ -404,6 +406,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/ahmet-suheyl-ucer-kimdir-tokat-valisi-ahmet-suheyl-ucer-kac-yasinda-nereli-ahmet-suheyl-ucer-hangi-gorevlerde-bulundu-2559191",
   "https://www.cumhuriyet.com.tr/turkiye/akom-istanbul-haftalik-hava-durumu-raporunu-yayimladi-sicakliklar-yukselecek-yagmur-ne-zaman-gelecek-2559175",
   "https://www.cumhuriyet.com.tr/turkiye/akom-istanbul-icin-tarih-verdi-kar-ne-zaman-gelecek-2559349",
+  "https://www.cumhuriyet.com.tr/turkiye/alkollu-surucunun-kullandigi-otomobil-takla-atti-ehliyetine-6-ay-el-konuldu-2559497",
   "https://www.cumhuriyet.com.tr/turkiye/aralik-ayi-kira-artis-orani-ne-zaman-aciklanacak-kira-artisi-hesaplama-nasil-yapilir-2559488",
   "https://www.cumhuriyet.com.tr/turkiye/bakanlik-mufettislerinden-italyan-lisesi-raporu-13-ogretmenin-isten-cikarilmasinda-sendikal-neden-tespiti-ozel-italyan-lisesi-ne-201-bin-lira-ceza-kesilmesini-onerdi-2559372",
   "https://www.cumhuriyet.com.tr/turkiye/bursa-da-uyusturucu-operasyonu-122-gozalti-2559240",
@@ -426,6 +429,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/istanbul-barosu-ndan-25-kasim-aciklamasi-274-kadin-supheli-sekilde-yasamini-yitirdi-2559326",
   "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-bugun-hangi-yollar-kapali-25-kasim-2026-istanbul-da-yollar-ne-zaman-acilacak-2559260",
   "https://www.cumhuriyet.com.tr/turkiye/istanbul-da-elektrikler-ne-zaman-gelecek-25-kasim-bedas-planli-kesinti-listesi-2559268",
+  "https://www.cumhuriyet.com.tr/turkiye/istanbul-valisi-gul-den-sokakta-kalan-yurttaslar-icin-cagri-112-ye-bildirin-2559499",
   "https://www.cumhuriyet.com.tr/turkiye/iyi-partili-poyraz-dan-fon-sorusturmasinda-hidayet-turkoglu-na-cagri-aciklama-yapmazsa-cumhurbaskani-da-uzulur-2559316",
   "https://www.cumhuriyet.com.tr/turkiye/izmir-de-baba-ve-ogul-cinayetinde-yeni-gelisme-esi-ve-2-kisi-tutuklandi-2559324",
   "https://www.cumhuriyet.com.tr/turkiye/kadinlar-erkek-siddetine-karsi-sokaklara-iniyor-iste-il-il-25-kasim-eylemleri-2559246",
@@ -633,6 +637,7 @@
   "https://www.evrensel.net/haber/6011171/murat-emir-izleme-komisyonu-na-yeni-parti-olarak-uye-vermeyecegiz-katilmayacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011172/varto-da-jes-e-karsi-direnis-206-nci-gununde-sirketin-sondaj-yapamamasinin-tek-nedeni-direnis?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011173/tum-emeklilerin-sendikasi-aydin-subesinden-dayanisma-kahvaltisi-insanca-yasayacak-ucret-alana-kadar-mucadele-edecegiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011174/ispanya-da-franco-nun-mirascilari-iktidara-donebilir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011175/izbb-moduler-tuvalet-iscileri-direnislerinin-100-uncu-gununde-guvenceli-calisma-hakkimizi-istiyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011176/tum-emeklilerin-sendikasi-aydin-subesi-nden-dayanisma-kahvaltisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011177/9-isci-can-vermisti-ilic-teki-altin-madeni-yeniden-uretime-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -658,6 +663,7 @@
   "https://www.evrensel.net/haber/6011195/tez-koop-is-li-kadinlar-katledilen-hicbir-kadini-unutturmayacagiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011196/kepez-belediyesi-ne-operasyon-gozaltina-alinan-24-kisi-adliyeye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011197/besiktas-in-bulundugu-ucak-batum-a-inemedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011198/cevre-bakanligi-butcesi-bin-liranin-sadece-biri-dogayi-korumak-icin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011199/besiktas-kafilesini-tasiyan-ucak-olumsuz-hava-kosullari-nedeniyle-batum-a-inemedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011200/istanbul-da-trafik-yogunlugu-yuzde-85-e-ulasti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011201/aysegul-dogan-dan-ocalan-in-yegeninin-imrali-ya-tasindigi-iddiasina-yanit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -671,6 +677,8 @@
   "https://www.evrensel.net/haber/6011208/25-kasim-da-kadinlar-siddete-karsi-ankara-sokaklarindaydi-yasamimiz-emegimiz-gelecegimiz-kusatiliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011209/poyraz-dan-hidayet-turkoglu-na-bu-kez-fotografli-fon-cagrisi-zeki-cevik-ahlakli-oldugunu-dusunuyorum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011210/abd-yonetimi-ab-ve-cin-in-de-aralarinda-oldugu-14-ekonomi-icin-yeni-gumruk-vergileri-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011211/is-guvenligi-uzmani-deniz-ipek-habas-ta-olum-riski-biliniyordu-uretim-durdurulmadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011212/tumtis-ten-29-kasim-cagrisi-ortak-sorunlarimiz-etrafinda-mucadeleyi-buyutmek-zorundayiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011213/adana-da-kadinlar-siddete-cezasizliga-ve-somuruye-karsi-yurudu-bir-kisi-daha-eksilmemek-icin-birbirimize-tutunuyoruz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011214/katalan-lider-carles-puigdemont-dokuz-yil-sonra-ispanya-ya-donuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011215/fon-vurgunu-sorusturmasi-iktidar-kurmaylari-yarin-ortak-basin-toplantisi-duzenleyecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -683,8 +691,11 @@
   "https://www.evrensel.net/haber/6011220/diyarbakir-da-kadinlar-siddete-ve-cezasizliga-karsi-yurudu-baris-ve-ozgurluge-kadinlar-sahip-cikacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011221/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011222/altinbas-ailesinin-kontrolundeki-sumer-varlik-a-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011223/14-yasindaki-mahmut-un-hayatini-kaybetmesine-sebep-olmustu-ismailaga-nin-kacak-otoparki-hala-isliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011224/diego-armando-maradona-olum-yil-donumunde-napoli-de-anildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011225/misir-da-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011226/abd-nin-new-jersey-eyaletinde-firtina-oncesi-olaganustu-hal-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011227/iyi-partili-korgan-belediye-baskani-partisinden-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
@@ -927,6 +938,7 @@
   "https://www.spiegel.de/politik/deutschland/kommission-empfiehlt-kriminalisierung-von-freiern-wenn-prostituierte-nicht-angemeldet-sind-a-766dc637-4c74-499b-bfce-6739ea704d18#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-rechtsterroristische-teenager-migranten-auf-el-hierro-a-8c1d423a-7204-4b8f-9043-b60b3894da3d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-generaldebatte-im-bundestag-mehr-anzeigen-wegen-gewalt-gegen-frauen-tarifverhandlungen-in-der-metallindustrie-a-40c31068-2413-4166-8289-438c4c3739f7#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/regierungsbildung-in-berlin-franziska-giffey-sieht-mit-ausschluss-von-vanessa-emde-keine-loesung-mit-linken-a-19e6423b-d6dd-4769-a1c5-e9eabe7a0350#ref=rss",
   "https://www.spiegel.de/politik/deutschland/russland-putin-kann-keinen-krieg-fuehren-wie-stalin-soenke-neitzel-und-hanna-notte-im-spiegel-talk-a-2bd42a0d-8b31-42fe-adea-9592b8ef2507#ref=rss",
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
   "https://www.spiegel.de/politik/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss",
@@ -1039,6 +1051,7 @@
   "https://www.theguardian.com/us-news/2026/nov/25/heavy-rain-high-winds-thanksgiving-east-coast",
   "https://www.theguardian.com/us-news/2026/nov/25/iowa-controlled-blast-lead-azide",
   "https://www.theguardian.com/us-news/2026/nov/25/kilmar-abrego-garcia-spain",
+  "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
   "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
   "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
   "https://www.theguardian.com/us-news/2026/nov/25/native-americans-national-day-of-mourning-thanksgiving",
@@ -1078,6 +1091,7 @@
   "https://www.welt.de/politik/article6b070bdfc75e09cb88d15f21/streit-um-entlastungen-merz-laesst-arbeitende-menschen-im-stich-spd-verschaerft-kritik-im-steuerstreit.html",
   "https://www.welt.de/politik/article6b071a32bb5effe8198cd747/nato-chef-auf-die-probe-gestellt-mark-rutte-lobt-trumps-umgang-mit-putin.html",
   "https://www.welt.de/politik/article6b071e5cbb5effe8198cd777/respekt-rente-jetzt-macht-die-union-der-spd-ein-neues-angebot-im-reformstreit.html",
+  "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
   "https://www.welt.de/politik/ausland/article6b067391cd4642ba2eb17bd2/ukraine-krieg-lukaschenko-macht-selenskyj-ungewoehnliches-angebot-ukrainischer-praesident-reagiert.html",
   "https://www.welt.de/politik/ausland/article6b068f2bcd4642ba2eb17dd2/russlands-schattenkrieg-weil-er-weiss-das-halte-ich-nicht-ewig-durch-ex-botschafter-sieht-kalkuel-bei-putin.html",
   "https://www.welt.de/politik/ausland/article6b06a505366061b7ba3e4ba4/israel-terrorunterstuetzer-und-die-frage-nach-den-grenzen-der-demokratie.html",
@@ -1104,6 +1118,7 @@
   "https://www.welt.de/politik/deutschland/article6b06c4e2366061b7ba3e50ef/nrw-herr-merz-warum-schaffen-sie-deutschland-ab-malermeister-schreibt-brandbrief.html",
   "https://www.welt.de/politik/deutschland/article6b06c4ecd4a4a3142c572fe6/bundestag-linke-abgeordnete-blockieren-veranstaltung-mit-ex-mossad-chef.html",
   "https://www.welt.de/politik/deutschland/article6b06e40e5b0e340c047ac94c/johann-wadephul-schwer-nachvollziehbar-aussenminister-kritisiert-etat-fuers-auswaertige-amt.html",
+  "https://www.welt.de/politik/deutschland/article6b074882c75e09cb88d162b0/mecklenburg-vorpommern-justizminister-loescht-offenbar-antifa-reel-cdu-und-afd-verlangen-aufklaerung.html",
   "https://www.welt.de/politik/deutschland/plus6afeb7914d1895cf2a8f0bf3/neuer-nationalpark-in-nrw-hintertrieben-und-sabotiert-wenn-die-cdu-ein-schwarz-gruenes-leitprojekt-verhindert.html",
   "https://www.welt.de/politik/deutschland/plus6b03ffcc66a00c9ca1fdfea7/generaldebatte-im-bundestag-der-verwandelte-kanzler.html",
   "https://www.welt.de/politik/deutschland/plus6b0438b25842ff528b9e5a50/prostitution-die-leute-wissen-nicht-was-bei-uns-in-deutschland-laeuft.html",
@@ -1118,6 +1133,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b069b5d366061b7ba3e4a94/fc-bayern-die-akte-jamal-musiala-autounfall-alarmierte-die-bayern-bosse.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b06ac8a366061b7ba3e4cd1/fussball-fc-bayern-veroeffentlicht-statement-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/champions-league/article6b0730d6c75e09cb88d16185/champions-league-ticker-osc-lille-fc-bayern-muenchen-live.html",
+  "https://www.welt.de/sport/schach/article6b072d69c75e09cb88d16150/schach-wm-naechstes-unentschieden-gukesh-bleibt-im-rennen.html",
   "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
   "https://www.welt.de/vermischtes/article6b067339cd4642ba2eb17bc4/microsoft-ruft-nach-weltweitem-outlook-ausfall-intern-code-red-aus.html",
   "https://www.welt.de/vermischtes/article6b067e1574631c0a83dc5df0/francesco-schettino-costa-concordia-kapitaen-kommt-aus-dem-gefaengnis-und-arbeitet-wieder-in-tourismusbranche.html",
