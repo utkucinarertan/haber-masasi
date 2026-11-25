@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T04:21+01:00",
+ "updatedAt": "2026-11-25T04:51+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-25T06:08:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011063/yagmur-firtina-ve-kar-alarmi-meteoroloji-20-ili-sari-kodla-uyardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Meteoroloji, beklenen kuvvetli yağmur, fırtına ve kar yağışı nedeniyle 20 ili sarı kodla uyardı.",
+     "de": "Meteorologie warnt wegen erwartetem Starkregen, Sturm und Schneefall in 20 Provinzen mit Gelbcode."
+    }
+   },
+   {
     "time": "2026-11-25T05:59:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011062/yalova-da-atv-ucuruma-yuvarlandi-surucu-6-saat-sonra-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Fenerbahçe, EuroLeague'in 14. haftasında deplasmanda Barcelona'yı 83-77 mağlup etti.",
      "de": "Fenerbahçe hat in der 14. Runde der EuroLeague auswärts gegen Barcelona mit 83:77 gewonnen."
-    }
-   },
-   {
-    "time": "2026-11-25T01:03:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/arda-guler-iki-asistle-geceye-damga-vurdu-real-madrid-psv-karsisinda-gol-oldu-yagdi-2559139",
-    "text": {
-     "tr": "Real Madrid, UEFA Şampiyonlar Ligi'nde PSV'yi 5-1 yenerken Arda Güler iki asistle maça damga vurdu.",
-     "de": "Real Madrid besiegte PSV in der Champions League mit 5:1, wobei Arda Güler zwei Vorlagen beisteuerte."
     }
    }
   ],
@@ -675,6 +675,7 @@
   "https://www.evrensel.net/haber/6011060/euroleague-de-14-hafta-fenerbahce-barcelona-yi-deplasmanda-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011061/bursa-da-isci-servisi-kazasi-8-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011062/yalova-da-atv-ucuruma-yuvarlandi-surucu-6-saat-sonra-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011063/yagmur-firtina-ve-kar-alarmi-meteoroloji-20-ili-sari-kodla-uyardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/noma-handbuch-geschmack-muss-es-wirklich-ameisenbutter-sein-accg-201672946.html",
   "https://www.faz.net/aktuell/faz-zur-black-week-besonders-guenstiges-faz-digitalabo-16684955.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/clemens-meyer-zum-100-von-werner-heiduczek-accg-201702181.html",
@@ -787,6 +788,7 @@
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/abb-uebernimmt-ziehl-abegg-ausverkauf-im-ventilatoren-valley-accg-201708899.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/basf-sucht-nach-evonik-scheitern-weiter-nach-uebernahmezielen-201712927.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/billigflieger-chef-von-ryanair-rechnet-mit-dem-ber-ab-201714183.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-huawei-weist-us-urteil-wegen-industriespionage-zurueck-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-trump-verdiente-nach-huangs-rueckkehr-mehrere-millionen-dollar-mit-nvidia-aktien-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-us-senator-cramer-huang-koennte-einen-babysitter-gebrauchen-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-wadephul-schockiert-ueber-eingriff-von-donald-trump-bei-nvidia-faz-200452404.html",
@@ -796,6 +798,7 @@
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-kehrt-zu-nvidia-zurueck-die-chronologie-des-dramas-201712827.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/jensen-huang-und-nvidias-verhaltenskodex-ein-regelwerk-im-widerspruch-accg-201710984.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/khaled-helioui-warnt-deutsche-start-ups-unterschaetzen-spionagegefahr-accg-201700128.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/ki-beim-einkaufen-warum-deutschland-so-weit-hinterherhinkt-accg-201714762.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/kleinlaut-und-kaempferisch-nvidia-chef-jensen-huang-entschuldigt-sich-bei-mitarbeitern-201714458.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/kosmetik-deutsche-shampoos-und-cremes-gefragt-aber-umstritten-accg-201708403.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/rekord-39-millionen-gta-vi-gamer-auf-der-playstation-201714267.html",
