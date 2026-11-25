@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T06:27+01:00",
+ "updatedAt": "2026-11-25T06:57+01:00",
  "countries": {
   "de": [
    {
@@ -15,12 +15,30 @@
   ],
   "tr": [
    {
+    "time": "2026-11-25T08:50:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-25-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559168",
+    "text": {
+     "tr": "Meteoroloji, 20 il için sarı kodlu uyarı yayımlarken Doğu Karadeniz'de kuvvetli yağış ve yüksek kesimlerde kar bekleniyor.",
+     "de": "Der türkische Wetterdienst hat für 20 Provinzen eine gelbe Warnung herausgegeben; im östlichen Schwarzmeergebiet werden starker Regen und Schnee erwartet."
+    }
+   },
+   {
     "time": "2026-11-25T08:00:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011068/arac-muayenesinde-kredi-karti-komisyonu-kaldiriliyor-yeni-sistem-icin-tarih-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
      "tr": "Ulaştırma Bakanı Uraloğlu, araç muayene istasyonlarında kredi kartı komisyonunun Ağustos 2027'de kaldırılacağını açıkladı.",
      "de": "Verkehrsminister Uraloğlu erklärte, dass die Kreditkartengebühren bei Hauptuntersuchungen für Fahrzeuge im August 2027 abgeschafft werden."
+    }
+   },
+   {
+    "time": "2026-11-25T07:54:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011069/galatasaray-fenerbahce-ve-besiktas-pfdk-ye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Türkiye Futbol Federasyonu, taraftarların çirkin ve kötü tezahüratları nedeniyle Galatasaray, Fenerbahçe ve Beşiktaş'ı PFDK'ye sevk etti.",
+     "de": "Der türkische Fußballverband hat Galatasaray, Fenerbahçe und Beşiktaş wegen Fangesängen an die Disziplinarkommission PFDK verwiesen."
     }
    },
    {
@@ -44,12 +62,39 @@
   ],
   "world": [
    {
+    "time": "2026-11-25T08:30:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011070/petrol-fiyatlari-yeniden-geriledi-brent-petrol-90-dolar-sinirinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Brent petrolün varil fiyatı yüzde 1,31 düşüşle 90,09 dolara gerilerken, küresel arz fazlası beklentisi fiyatları aşağı çekti.",
+     "de": "Die Brent-Ölpreise sind um 1,31 Prozent auf 90,09 US-Dollar gesunken, angetrieben von Erwartungen an ein weltweites Überangebot."
+    }
+   },
+   {
+    "time": "2026-11-25T06:41:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/chen-jining-chinas-antikorruptionsbehoerde-ermittelt-gegen-shanghais-kp-chef-a-e43b07b9-34da-4daf-8b2e-f1a9c96e6e35#ref=rss",
+    "text": {
+     "tr": "Çin'in Antikorroupsiyon Kurumu, Şanghay Komünist Parti Sekreteri Chen Jining hakkında parti disiplinini ağır şekilde ihlal ettiği gerekçesiyle soruşturma başlatıldığını açıkladı.",
+     "de": "Chinas Antikorruptionsbehörde ermittelt gegen den KP-Chef von Shanghai, Chen Jining, wegen schwerer Verstöße gegen die Parteidisziplin."
+    }
+   },
+   {
     "time": "2026-11-25T06:18:30+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
     "text": {
      "tr": "İsrail'de hükümet kurma çalışmaları kapsamında Gadi Eisenkot, Binyamin Netanyahu'nun Likud Partisi ile görüşmelerini sürdürüyor.",
      "de": "In Israel führt Gadi Eisenkot im Rahmen der Regierungsbildung Gespräche mit der Likud-Partei von Benjamin Netanjahu."
+    }
+   },
+   {
+    "time": "2026-11-25T05:40:18+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/wissenschaft/article6b054e5439a3e8110f0e9bc7/meer-forscher-raetseln-ueber-gewaltigen-vulkanausbruch-an-einem-der-tiefsten-punkte-der-erde.html",
+    "text": {
+     "tr": "Deniz jeologları, okyanusun en derin noktalarından biri olan Mariana Çukuru'nda şiddetli bir volkanik patlamanın izlerini keşfetti.",
+     "de": "Meeresgeologen haben am Marianengraben Spuren eines gewaltigen Vulkanausbruchs in extremer Meerestiefe entdeckt."
     }
    },
    {
@@ -60,33 +105,6 @@
      "tr": "Hırvatistan'da psikiyatri hastanesinde 32 yaşındaki bir hastanın sağlık görevlileri tarafından yastıkla boğularak öldürülmesi tepki çekti.",
      "de": "In Kroatien sorgte der Tod eines 32-jährigen psychiatrischen Patienten für Empörung, nachdem Sanitäter ihn mit einem Kissen erstickt hatten."
     }
-   },
-   {
-    "time": "2026-11-25T05:00:06+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
-    "text": {
-     "tr": "Yemen'deki Husilerin geçici başkent Aden yakınlarında ilerlemesi üzerine sivil toplum kuruluşları ve halk tahliye hazırlığı yapıyor.",
-     "de": "Angesichts des Vormarschs der Huthi-Milizen auf die provisorische Hauptstadt Aden bereiten sich Bewohner und NGOs auf Evakuierungen vor."
-    }
-   },
-   {
-    "time": "2026-11-25T04:57:31+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/geiselnahme-in-cartagena-20-menschen-in-supermarkt-verschanzt-accg-201714842.html",
-    "text": {
-     "tr": "Kolombiya'nın Cartagena kentinde bir süpermarkete sığınan silahlı saldırganlar 20 kişiyi rehin aldı.",
-     "de": "In Cartagena, Kolumbien, haben sich bewaffnete Angreifer nach einem Überfall in einem Supermarkt verschanzt und 20 Menschen als Geiseln genommen."
-    }
-   },
-   {
-    "time": "2026-11-25T04:49:55+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
-    "text": {
-     "tr": "Kilmar Abrego Garcia, ABD'den İspanya'ya giderek Donald Trump'ın göçmenlik politikasıyla ilgili sınır dışı tartışmasını sonlandırıyor.",
-     "de": "Kilmar Abrego Garcia verlässt die USA in Richtung Spanien und beendet damit einen Abschiebestreit."
-    }
    }
   ]
  },
@@ -94,16 +112,23 @@
   "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
   "https://tr.euronews.com/2026/11/25/yazin-dusuk-d-vitamini-duzeyi-kirik-ve-olum-riskini-kistan-daha-iyi-gosteriyor",
   "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+  "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-25-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559168",
+  "https://www.dw.com/tr/elektronik-kelepçe-takılıyor-kadınlar-neden-hâlâ-risk-altında/a-80029953",
   "https://www.evrensel.net/haber/6011066/kolombiya-da-rehine-krizi-supermarkette-alikonulan-30-kisiden-10-u-serbest-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011068/arac-muayenesinde-kredi-karti-komisyonu-kaldiriliyor-yeni-sistem-icin-tarih-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011069/galatasaray-fenerbahce-ve-besiktas-pfdk-ye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011070/petrol-fiyatlari-yeniden-geriledi-brent-petrol-90-dolar-sinirinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/replikanten-an-der-macht-blade-runner-2099-bei-prime-video-201710485.html",
+  "https://www.faz.net/aktuell/feuilleton/reise/neuseeland-traumziel-mit-rissen-im-paradies-accg-200981270.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/geiselnahme-in-cartagena-20-menschen-in-supermarkt-verschanzt-accg-201714842.html",
   "https://www.faz.net/aktuell/politik/ausland/nordkorea-weist-schweizer-gesandten-sylvain-astier-aus-accg-201714860.html",
   "https://www.faz.net/aktuell/politik/ukraine/drohnenangriffe-in-der-ostsee-ist-die-admiral-grigorowitsch-vor-fehmarn-sicher-accg-201711918.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/so-geht-frankfurt-kuenftig-gegen-muellsuender-vor-accg-201711971.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/darmstadt-wie-das-housing-first-projekt-fuer-obdachlose-funktioniert-accg-201712976.html",
+  "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/gelingt-der-durchbruch-im-tarifkonflikt-der-metall-und-elektroindustrie-f-a-z-fruehdenker-201714512.html",
+  "https://www.spiegel.de/ausland/chen-jining-chinas-antikorruptionsbehoerde-ermittelt-gegen-shanghais-kp-chef-a-e43b07b9-34da-4daf-8b2e-f1a9c96e6e35#ref=rss",
   "https://www.spiegel.de/ausland/gefaehrliche-bromance-warum-die-rueckkehr-von-nvidia-chef-huang-fuer-trump-zum-problem-werden-koennte-a-2668e5ab-9cf5-4605-9f80-cdf0838c0964#ref=rss",
   "https://www.spiegel.de/karriere/wechseljahre-mehr-als-jede-zweite-frau-in-der-lebensmitte-fuehlt-sich-gesundheitlich-nicht-gut-a-a17595d8-9a63-40b1-8f18-591de5af99da#ref=rss",
   "https://www.spiegel.de/kultur/der-fc-st-pauli-sucht-eine-neue-stadionhymne-warum-sind-alle-fuenf-vorschlaege-so-stumpf-a-d0864ca0-2d96-4c98-9b61-b08f0d7b7b10#ref=rss",
@@ -111,11 +136,20 @@
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
   "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
   "https://www.tagesschau.de/kultur/paradies-spaeti-100.html",
+  "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
   "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
   "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
   "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+  "https://www.welt.de/debatte/plus6aff1882c1e8003ef73c4ae8/gefuehl-von-sicherheit-was-wir-von-japan-lernen-koennen.html",
+  "https://www.welt.de/finanzen/plus6b05b914cd4642ba2eb16a7c/trade-republic-wette-mit-dieser-aktie-profitieren-sie-vom-hype-um-das-altersvorsorgedepot.html",
+  "https://www.welt.de/geschichte/article6af45d65e22aeb948141fd04/schmutziges-rom-sie-wurde-versteigert-alle-teile-ihres-koerpers-wurden-begutachtet-und-begrapscht.html",
+  "https://www.welt.de/iconist/gesellschaft/article6af474f1e22aeb948142005a/so-geht-gastgeben-menschen-die-nicht-gern-einladen-sind-haeufig-die-besten-gaeste.html",
+  "https://www.welt.de/iconist/gesellschaft/plus6b0403f5172877701c06f253/gen-alpha-auf-reisen-vielen-jugendlichen-faellt-es-schon-schwer-nur-irgendwo-anzurufen.html",
+  "https://www.welt.de/kultur/plus6b001a04b237b5b41c9a2379/singlefrau-was-eine-samstagnacht-mit-meinem-besten-vorsatz-macht.html",
   "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
-  "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html"
+  "https://www.welt.de/wirtschaft/plus6b0176d745d8681e4fca3b75/biontech-der-raetselhafte-abgang-der-biontech-gruender.html",
+  "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
+  "https://www.welt.de/wissenschaft/article6b054e5439a3e8110f0e9bc7/meer-forscher-raetseln-ueber-gewaltigen-vulkanausbruch-an-einem-der-tiefsten-punkte-der-erde.html"
  ]
 }
