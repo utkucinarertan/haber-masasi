@@ -1,8 +1,17 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T00:19+01:00",
+ "updatedAt": "2026-11-26T00:49+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T00:13:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-verliert-nach-fuehrung-in-lille-a-705d3778-1c49-4f83-b5b8-030c9b4b06c2#ref=rss",
+    "text": {
+     "tr": "Bayern Münih, Şampiyonlar Ligi'nde deplasmanda Lille'e öne geçmesine rağmen mağlup oldu.",
+     "de": "Der FC Bayern München hat in der Champions League nach einer Führung auswärts gegen Lille verloren."
+    }
+   },
    {
     "time": "2026-11-25T22:59:51+00:00",
     "source": "Die Welt",
@@ -38,18 +47,18 @@
      "tr": "Franziska Giffey, Vanessa Emde'nin Sol Parti grubundan ihraç edilmesinin Kızıl-Kırmızı-Yeşil koalisyon için yeterli bir çözüm olmadığını belirtti.",
      "de": "Franziska Giffey sieht den Ausschluss von Vanessa Emde aus der Linke-Fraktion nicht als ausreichenden Schritt für eine rot-rot-grüne Koalition in Berlin."
     }
-   },
-   {
-    "time": "2026-11-25T22:06:26+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
-    "text": {
-     "tr": "VfB Stuttgart, Şampiyonlar Ligi'nde deplasmanda Inter'e 2-0 mağlup oldu.",
-     "de": "Der VfB Stuttgart verlor in der Champions League auswärts mit 0:2 gegen Inter Mailand."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T02:14:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011233/haseke-de-isid-saldirisi-2-olu-5-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Haseke'deki İç Güvenlik Güçleri Merkezine düzenlenen IŞİD saldırısında 2 güvenlik görevlisi hayatını kaybetti, 5 kişi yaralandı.",
+     "de": "Bei einem IS-Angriff auf das Zentrum der Sicherheitskräfte in Haseke wurden zwei Sicherheitskräfte getötet und fünf Personen verletzt."
+    }
+   },
    {
     "time": "2026-11-26T01:46:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -85,18 +94,27 @@
      "tr": "Roma, deplasmanda PSG ile 2-2 berabere kalarak rakibinin Şampiyonlar Ligi'ndeki galibiyet serisine son verdi.",
      "de": "Roma trennte sich auswärts 2:2 von Paris Saint-Germain und beendete damit die Siegesserie des Gegners in der Champions League."
     }
-   },
-   {
-    "time": "2026-11-26T01:30:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011231/fon-vurgunu-listesini-aciklayin-ekrem-imamoglu-saadet-partisinin-imza-kampanyasina-katildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İBB Başkanı Ekrem İmamoğlu, Saadet Partisinin fon vurgununda adı geçenlerin listesinin açıklanması için başlattığı imza kampanyasına katıldı.",
-     "de": "Ekrem İmamoğlu hat sich der Unterschriftenkampagne der Saadet-Partei angeschlossen, die eine Liste der Beteiligten am Fonds-Skandal fordert."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-25T23:37:18+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
+    "text": {
+     "tr": "Duran Duran grubunun gitaristi Andy Taylor, uzun süren kanser mücadelesinin ardından 65 yaşında hayatını kaybetti.",
+     "de": "Duran-Duran-Gitarrist Andy Taylor ist nach einem langen Kampf gegen Prostatakrebs im Alter von 65 Jahren gestorben."
+    }
+   },
+   {
+    "time": "2026-11-25T23:06:06+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+    "text": {
+     "tr": "Gazze'de İsrail saldırısında öldürülen Filistinli gazeteci Mariam Dagga, Rory Peck ödülüne layık görüldü.",
+     "de": "Die in Gaza durch einen israelischen Angriff getötete palästinensische Journalistin Mariam Dagga wurde posthum mit dem Rory-Peck-Preis ausgezeichnet."
+    }
+   },
    {
     "time": "2026-11-25T22:54:00+03:00",
     "source": "Evrensel",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Fransa'da Marine Le Pen'in partisine gizli bilgi sızdırdığı şüphesiyle Loiret valisi görevden alındı, Paris savcı yardımcısı soruşturma altına alındı.",
      "de": "In Frankreich wurde der Präfekt des Départements Loiret im Zuge von Le-Pen-Parteileaks entlassen und ein Pariser Staatsanwalt untersucht."
-    }
-   },
-   {
-    "time": "2026-11-25T22:26:40+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
-    "text": {
-     "tr": "İsrail meclisi, Başbakan Binyamin Netanyahu'nun karşı çıkmasına rağmen 7 Ekim saldırılarındaki güvenlik açıklarına ilişkin soruşturma komisyonu kurulması yönünde ilk adımı attı.",
-     "de": "Israelische Abgeordnete brachten trotz Netanyahus Widerstand eine Untersuchungskommission zu den Sicherheitsversäumnissen vom 7. Oktober auf den Weg."
-    }
-   },
-   {
-    "time": "2026-11-25T22:13:28+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
-    "text": {
-     "tr": "ABD, aralarında Avrupa Birliği ve Çin'in de bulunduğu 14 ekonomi için yeni gümrük vergileri planladığını açıkladı.",
-     "de": "Die USA haben vorgeschlagene Zölle gegen 14 Volkswirtschaften, darunter die EU und China, vorgestellt."
     }
    }
   ]
@@ -712,6 +712,7 @@
   "https://www.evrensel.net/haber/6011230/sampiyonlar-ligi-nde-5-haftanin-panoramasi-galatasaray-ve-fenerbahce-seriye-bagladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011231/fon-vurgunu-listesini-aciklayin-ekrem-imamoglu-saadet-partisinin-imza-kampanyasina-katildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011232/12punto-nun-instagram-hesabina-erisim-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011233/haseke-de-isid-saldirisi-2-olu-5-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
@@ -883,6 +884,7 @@
   "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
   "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
   "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
+  "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
   "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
   "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
   "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
@@ -969,6 +971,7 @@
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
   "https://www.spiegel.de/politik/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-spielte-waehrend-rennwochenende-in-las-vegas-stundenlang-gta-6-a-37719fbe-2f93-4793-b436-2854627e4915#ref=rss",
+  "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-verliert-nach-fuehrung-in-lille-a-705d3778-1c49-4f83-b5b8-030c9b4b06c2#ref=rss",
   "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b#ref=rss",
   "https://www.spiegel.de/sport/fussball/copa-america-usa-richten-naechstes-sportevent-aus-a-508c3034-a8d7-499e-a4f0-4225b5f6560f#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-ein-friedensgipfel-miserable-stimmung-beim-fc-bayern-muenchen-und-ein-verdacht-rund-um-einen-autounfall-a-a9866857-1d84-4da9-9e70-1a21093582a8#ref=rss",
@@ -1057,6 +1060,7 @@
   "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
   "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
   "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
+  "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
   "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
   "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
   "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
