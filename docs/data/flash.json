@@ -1,8 +1,17 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T21:49+01:00",
+ "updatedAt": "2026-11-25T22:19+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-25T20:59:50+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
+    "text": {
+     "tr": "Almanya'da özel sektör yatırımlarının zayıflaması 2022'den bu yana ülkeye 125 milyar eurodan fazla ekonomik kayıp yaşattı.",
+     "de": "Die Schwäche der privaten Investitionen hat Deutschland seit 2022 mehr als 125 Milliarden Euro an Wirtschaftsleistung gekostet."
+    }
+   },
    {
     "time": "2026-11-25T20:51:00+01:00",
     "source": "Der Spiegel",
@@ -38,18 +47,18 @@
      "tr": "Birlik partileri, SPD'ye 'Saygı Emekliliği' adında yeni bir uzlaşı teklifi sunarak düşük gelirli çalışanların erken emeklilik hakkını korumayı önerdi.",
      "de": "Die Union bietet der SPD im Streit um die Rente mit 63 eine „Respekt-Rente“ als Kompromiss an, um Frühverrentung für Geringverdiener zu sichern."
     }
-   },
-   {
-    "time": "2026-11-25T19:11:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/kultur/veruschka-zum-tod-von-vera-graefin-von-lehndorff-ihre-freiheit-ihre-verzweiflung-ihr-mut-ihr-eigensinn-a-c541bda0-8a1f-45dd-a274-6759b589e1fa#ref=rss",
-    "text": {
-     "tr": "1960'lı yılların ünlü modeli ve sanatçısı Vera Gräfin von Lehndorff, bilinen adıyla Veruschka, hayatını kaybetti.",
-     "de": "Das bekannte deutsche Model der Sechzigerjahre und Künstlerin Vera Gräfin von Lehndorff, genannt Veruschka, ist gestorben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T00:12:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/manisa-da-3-5-milyon-tl-lik-vurgun-yapti-bursa-da-yakalandi-2559496",
+    "text": {
+     "tr": "Manisa'da kendilerini savcı ve polis olarak tanıtarak bir kadını 3,5 milyon TL dolandıran şüpheli Bursa'da yakalandı.",
+     "de": "Ein Tatverdächtiger, der eine Frau in Manisa um 3,5 Millionen Lira betrogen hatte, wurde in Bursa gefasst."
+    }
+   },
    {
     "time": "2026-11-25T23:39:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Altınbaş Holding'e bağlı Sümer Varlık Yönetim AŞ'ye Tasarruf Mevduatı Sigorta Fonu kayyım olarak atandı.",
      "de": "Der türkische Einlagensicherungsfonds TMSF hat die Verwaltung des zum Altınbaş-Konzern gehörenden Unternehmens Sümer Varlık übernommen."
-    }
-   },
-   {
-    "time": "2026-11-25T22:33:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/fon-krizinde-kritik-hamle-saat-ve-tarih-verildi-yilmaz-gurlek-ve-simsek-basinin-karsisina-cikacak-2559468",
-    "text": {
-     "tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek fon meselesine ilişkin ortak basın toplantısı düzenleyecek.",
-     "de": "Vizepräsident Cevdet Yılmaz, Justizminister Akın Gürlek und Finanzminister Mehmet Şimşek halten eine gemeinsame Pressekonferenz ab."
     }
    }
   ],
@@ -307,6 +307,11 @@
   "https://www.cumhuriyet.com.tr/gurme/saray-mutfagindan-sofralara-gelen-nefis-lezzet-masterchef-kelem-borani-tarifi-2559250",
   "https://www.cumhuriyet.com.tr/gurme/turk-mutfaginin-dunyaya-armagan-lezzeti-manti-tarifi-2559355",
   "https://www.cumhuriyet.com.tr/is-dunyasi/turkiye-de-kripto-varliklara-yonelik-yillik-yeni-yatirim-tahmini-5-93-milyar-dolar-2559423",
+  "https://www.cumhuriyet.com.tr/kitap/81-yunus-nadi-juri-ozel-odulu-vural-vahit-suicmez-2559424",
+  "https://www.cumhuriyet.com.tr/kitap/81-yunus-nadi-karikatur-odulu-ahmet-aykanat-2559434",
+  "https://www.cumhuriyet.com.tr/kitap/81-yunus-nadi-roman-odulu-tarik-tufan-gece-acan-cicekler-2559428",
+  "https://www.cumhuriyet.com.tr/kitap/81-yunus-nadi-sosyal-bilimler-arastirmasi-odulu-ali-engin-oba-2559432",
+  "https://www.cumhuriyet.com.tr/kitap/yunus-nadi-oyku-odulu-fusun-aymergen-baska-bir-dunya-degil-2559430",
   "https://www.cumhuriyet.com.tr/kultur-sanat/emin-ozdemir-odulu-2027-de-gazeteci-kitaplarina-verilecek-2559232",
   "https://www.cumhuriyet.com.tr/kultur-sanat/usta-yonetmen-temel-gursu-yesilcam-yillarini-anlatti-ferdi-tayfur-dan-turkan-soray-a-unutulmaz-anilar-2559320",
   "https://www.cumhuriyet.com.tr/magazin/2026-kainat-guzeli-belli-oldu-miss-universe-yarismasini-jennifer-barreto-kazandi-2559228",
@@ -316,6 +321,12 @@
   "https://www.cumhuriyet.com.tr/magazin/meghan-markle-in-babasi-thomas-markle-a-agir-suclama-40-yil-hapis-cezasiyla-karsi-karsiya-2559396",
   "https://www.cumhuriyet.com.tr/otomotiv/1934-ten-bugune-ayakta-skoda-nin-efsane-modellerine-ev-sahipligi-yapan-fabrika-5-milyona-ulasti-2559400",
   "https://www.cumhuriyet.com.tr/otomotiv/avrupa-birligi-hibrit-arac-ithalatina-sinir-getirdi-turkiye-ve-diger-ulkelerin-kotalari-aciklandi-2559242",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-datca-sulh-hukuk-mahkemesi-satis-memurlugu-2559110",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-istanbul-16-sulh-hukuk-mahkemesi-2559113",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kahramankazan-1-asliye-hukuk-mahkemesi-2559112",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-kucukcekmece-icra-dairesi-2559108",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-reyhanli-5-asliye-ceza-mahkemesi-hakimligi-2559109",
+  "https://www.cumhuriyet.com.tr/resmi-ilanlar/t-c-tekman-asliye-hukuk-mahkemesi-hakimligi-2559111",
   "https://www.cumhuriyet.com.tr/siyaset/25-kasim-yasaklarina-karsin-kadinlar-taksim-de-toplanmaya-basladi-susmuyoruz-korkmuyoruz-itaat-etmiyoruz-2559414",
   "https://www.cumhuriyet.com.tr/siyaset/akp-de-secim-tarihi-icin-dikkat-ceken-hesap-dogalgaz-faturasi-bile-masada-2559186",
   "https://www.cumhuriyet.com.tr/siyaset/akp-li-ismin-hanim-ve-kari-sozlerine-meclis-te-sert-tepki-bu-konusma-nereye-gidiyor-2559407",
@@ -422,6 +433,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/kayyim-atanan-sozcu-tv-de-ana-haber-koltuguna-serap-belovacikli-gecti-2559187",
   "https://www.cumhuriyet.com.tr/turkiye/koruma-kararlari-kadinlari-korumaya-yetmiyor-2559262",
   "https://www.cumhuriyet.com.tr/turkiye/magaradan-kafatasi-ve-kemikler-cikmisti-diyarbakir-daki-esrarengiz-olaya-sorusturma-2559310",
+  "https://www.cumhuriyet.com.tr/turkiye/manisa-da-3-5-milyon-tl-lik-vurgun-yapti-bursa-da-yakalandi-2559496",
   "https://www.cumhuriyet.com.tr/turkiye/mardin-de-operasyon-durdurulan-tir-da-80-gocmen-yakalandi-2559317",
   "https://www.cumhuriyet.com.tr/turkiye/meb-ags-15-bin-ogretmen-atamasi-basvurulari-ne-zaman-basliyor-meb-ags-ogretmen-atamasi-brans-dagilimi-aciklandi-mi-2559289",
   "https://www.cumhuriyet.com.tr/turkiye/mercedes-benz-she-s-mentoring-programi-tamamlandi-3-projeye-1-8-milyon-tl-destek-2559398",
@@ -665,16 +677,20 @@
   "https://www.evrensel.net/haber/6011216/tip-genel-baskani-erkan-bas-tum-iscileri-buyuk-isci-mitingi-ne-davet-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011217/aym-ekrem-imamoglu-nun-tutukluluguna-iliskin-basvuruyu-26-kasim-da-gorusecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011218/sampiyonlar-ligi-nde-5-hafta-shakhtar-donetsk-fenerbahce-macinda-ilk-11-ler-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011218/sampiyonlar-ligi-nde-5-hafta-shakhtar-donetsk-fenerbahce-macinda-ilk-yari-0-0-sona-erdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011218/sampiyonlar-ligi-nde-5-hafta-shakhtar-donetsk-fenerbahce-macinda-ilk-yari-oynaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011219/irak-savunma-bakanligi-kerkuk-dahil-tum-vilayetlerde-birlik-konuslandirmaya-haziriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011220/diyarbakir-da-kadinlar-siddete-ve-cezasizliga-karsi-yurudu-baris-ve-ozgurluge-kadinlar-sahip-cikacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011221/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011222/altinbas-ailesinin-kontrolundeki-sumer-varlik-a-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011224/diego-armando-maradona-olum-yil-donumunde-napoli-de-anildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011225/misir-da-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/finanznot-was-wird-aus-der-british-library-201711652.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/literatur/sarah-wipauers-wien-roman-fehlende-gespenster-201686977.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/mara-gold-ueber-penelope-medea-und-frauen-im-antiken-mythos-201708543.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-martina-knief-vom-frauenfussball-erzaehlt-accg-201603252.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/dresden-frankfurt-dance-company-sachsen-steigt-aus-der-finanzierung-aus-201715643.html",
   "https://www.faz.net/aktuell/feuilleton/debatten/frankfurt-sollte-den-tanz-wieder-am-opernhaus-etablieren-201715643.html",
@@ -712,6 +728,7 @@
   "https://www.faz.net/aktuell/karriere-hochschule/hoersaal/no-gos-in-der-studienberatung-kinder-sollen-nicht-die-berufstraeume-ihrer-eltern-erfuellen-accg-201647257.html",
   "https://www.faz.net/aktuell/politik/ausland/enthuellung-ueber-russen-eintritt-in-die-eu-mit-paessen-aus-serbien-accg-201715488.html",
   "https://www.faz.net/aktuell/politik/ausland/finnlands-trinkwasser-wie-sicher-ist-helsinki-bei-hybriden-angriffen-accg-201676239.html",
+  "https://www.faz.net/aktuell/politik/ausland/gescheiterte-klimakonferenz-der-frust-der-inselstaaten-201712087.html",
   "https://www.faz.net/aktuell/politik/ausland/kanaren-2100-migranten-an-einem-einzigen-tag-201716081.html",
   "https://www.faz.net/aktuell/politik/ausland/le-pen-prangert-deutsche-dominanz-in-der-eu-an-accg-201714505.html",
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-iran-meldet-wieder-explosionen-an-oeltankern-faz-200583539.html",
@@ -740,6 +757,7 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-polen-will-flugverbotszone-an-grenze-zur-ukraine-einrichten-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraines-angriff-im-mittelmeer-italien-kritisiert-kiew-201715756.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-rutte-verteidigt-trumps-umgang-mit-putin-faz-19444916.html",
+  "https://www.faz.net/aktuell/reise/basel-ist-der-ort-fuer-die-erste-kulturreise-mit-kindern-201678847.html",
   "https://www.faz.net/aktuell/rhein-main/auto-verletzt-zehn-jahre-alten-radfahrer-in-alsbach-haehnlein-schwer-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/alzheimer-vor-125-jahren-begann-die-forschung-in-frankfurt-accg-201702833.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/ausschreitungen-nach-spiel-der-sge-gegen-vfb-insgesamt-82-fans-verurteilt-201715771.html",
@@ -777,6 +795,7 @@
   "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-tipps-zum-fc-liverpool-von-bundestrainer-juergen-klopp-accg-201714968.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/jamal-musiala-fc-bayern-muenchen-spricht-mit-beratern-ueber-erkrankung-accg-201714969.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/manchester-city-in-champions-league-erling-haaland-raetselt-nach-2-2-accg-201715860.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/aaron-rodgers-verlaesst-pittsburgh-steelers-in-nfl-201717955.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/handball-bundesliga-andreas-wolff-verlaesst-thw-kiel-201717742.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/jongleur-stanislav-vysotskyi-der-mann-der-mit-den-fuessen-jongliert-accg-201644119.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/schach-wm-wieder-remis-zwischen-gukesh-und-sindarow-201717783.html",
@@ -797,6 +816,7 @@
   "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wenn-humanoide-zur-gefahr-fuer-kollegen-werden-accg-201712647.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/quantensprung-in-bruessel-it-in-der-eu-soll-durch-quantum-act-sicherer-werden-accg-201713976.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/verstaatlichung-der-bahn-in-grossbritannien-puenktlichkeit-sinkt-verluste-steigen-201715722.html",
+  "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/airbnb-in-deutschland-wachstum-kommt-vom-land-201714527.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/bayer-zieht-kerendia-vom-deutschen-markt-von-wegen-fairer-preis-fuer-medikamente-201713007.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/buchbranche-protest-gegen-portoerhoehung-201713557.html",
@@ -809,6 +829,7 @@
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-chips-fuer-china-wie-malaysia-zum-schlupfloch-wurde-201712558.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/oesterreich-lockt-hightech-investoren-ohne-ueppige-praemien-201687290.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/pforzheimer-bergwerk-kaefersteige-flussspat-fuer-europas-energiewende-201715929.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/private-investitionen-schwaecheln-warum-staatsschulden-allein-nicht-reichen-201716738.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/samsung-springt-bei-ams-osram-fuer-apple-ein-accg-201715759.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/satelliteninternet-hier-startet-die-starlink-konkurrenz-von-amazon-201714333.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/spacex-darf-eine-million-satelliten-fuer-ki-rechenzentren-ins-all-bringen-201717821.html",
@@ -898,6 +919,7 @@
   "https://www.spiegel.de/panorama/justiz/podcast-im-verhoer-korrupte-justiz-4-der-16-tonnen-koks-deal-spiegel-tv-a-4e2d7884-b993-4573-84b7-4bfa08d06b82#ref=rss",
   "https://www.spiegel.de/panorama/justiz/reformplan-von-ministerin-stefanie-hubig-das-neue-mordmerkmal-betrifft-nicht-nur-typische-femizide-a-abd6fac6-522c-495d-8e05-3ecfc06b3e42#ref=rss",
   "https://www.spiegel.de/panorama/justiz/terror-18-bundesanwaltschaft-geht-gegen-mutmassliche-rechtsterroristen-vor-a-0f1adf41-8cf7-4306-934d-6d8d9186fa43#ref=rss",
+  "https://www.spiegel.de/panorama/leute/frida-gold-frontfrau-alina-sueggeler-stellte-sich-bei-hirnblutung-auf-sterben-ein-a-392f7f4f-60bf-4ea2-8bb4-201cec0b3ad3#ref=rss",
   "https://www.spiegel.de/panorama/leute/veruschka-ist-tot-a-a133b1cf-3383-441a-9a91-ba0a4d967919#ref=rss",
   "https://www.spiegel.de/panorama/wiggensbach-im-allgaeu-das-wasser-kommt-jetzt-per-milchtransporter-a-616c65f0-b14f-48d1-bebe-8387d9f2f284#ref=rss",
   "https://www.spiegel.de/politik/deutschland/bundestag-so-laeuft-die-generaldebatte-zum-haushalt-live-a-e9f39663-47e8-4835-a192-24bcfe73cc6e#ref=rss",
@@ -934,6 +956,7 @@
   "https://www.spiegel.de/wissenschaft/raumfahrt-in-china-mission-shenzhou-24-startet-mit-premiere-a-af1aeadb-6dd0-49d3-aebc-728d3e3756e7#ref=rss",
   "https://www.spiegel.de/wissenschaft/sexualitaet-warum-junge-menschen-heute-seltener-sex-haben-a-68c5d946-d6f5-4229-8909-b71b7d6cdea6#ref=rss",
   "https://www.spiegel.de/wissenschaft/weltall/asteroid-dimorphos-spektakulaere-fotos-zeigen-dart-einschlagkrater-a-7e837a7b-49a8-438b-82e4-fb67fe31c74f#ref=rss",
+  "https://www.tagesschau.de/ausland/afrika/aegypten-brand-gizeh-tote-100.html",
   "https://www.tagesschau.de/ausland/amerika/brasilien-gewalt-gegen-frauen-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-abschiebepolitik-trump-garcia-100.html",
   "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
