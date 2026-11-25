@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T21:19+01:00",
+ "updatedAt": "2026-11-25T21:49+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,24 @@
   ],
   "tr": [
    {
+    "time": "2026-11-25T23:39:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/akp-nin-calisma-saatlerinin-yeniden-duzenlenmesine-iliskin-grup-onerisi-kabul-edildi-2559490",
+    "text": {
+     "tr": "TBMM Genel Kurulu'nda kabul edilen önergeyle, aralık ayındaki bazı birleşimlerde çalışmalar gece yarısına kadar sürecek.",
+     "de": "Das türkische Parlament hat eine Verlängerung der Sitzungszeiten an mehreren Tagen im Dezember bis Mitternacht beschlossen."
+    }
+   },
+   {
+    "time": "2026-11-25T23:20:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/iyi-partili-belediye-baskani-korgan-partisinden-istifa-etti-2559487",
+    "text": {
+     "tr": "Ordu'nun Korgan Belediye Başkanı Sait Korgan, İYİ Parti'den istifa ederek görevine bağımsız devam edeceğini duyurdu.",
+     "de": "Der Bürgermeister von Korgan, Sait Korgan, ist aus der İYİ-Partei ausgetreten und führt sein Amt als Unabhängiger fort."
+    }
+   },
+   {
     "time": "2026-11-25T23:14:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/dunya/misir-da-petrol-urunleri-tasiyan-tankerde-yangin-cikti-30-kisi-oldu-15-kisi-yaralandi-2559486",
@@ -60,39 +78,21 @@
     }
    },
    {
+    "time": "2026-11-25T23:11:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011222/altinbas-ailesinin-kontrolundeki-sumer-varlik-a-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Altınbaş Holding'e bağlı Sümer Varlık Yönetim AŞ'ye Tasarruf Mevduatı Sigorta Fonu kayyım olarak atandı.",
+     "de": "Der türkische Einlagensicherungsfonds TMSF hat die Verwaltung des zum Altınbaş-Konzern gehörenden Unternehmens Sümer Varlık übernommen."
+    }
+   },
+   {
     "time": "2026-11-25T22:33:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/siyaset/fon-krizinde-kritik-hamle-saat-ve-tarih-verildi-yilmaz-gurlek-ve-simsek-basinin-karsisina-cikacak-2559468",
     "text": {
      "tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek fon meselesine ilişkin ortak basın toplantısı düzenleyecek.",
      "de": "Vizepräsident Cevdet Yılmaz, Justizminister Akın Gürlek und Finanzminister Mehmet Şimşek halten eine gemeinsame Pressekonferenz ab."
-    }
-   },
-   {
-    "time": "2026-11-25T22:22:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011217/aym-ekrem-imamoglu-nun-tutukluluguna-iliskin-basvuruyu-26-kasim-da-gorusecek?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Anayasa Mahkemesi, 600'ü aşkın gündür cezaevinde bulunan Ekrem İmamoğlu'nun tutukluluğuna ilişkin bireysel başvurusunu 26 Kasım'da görüşecek.",
-     "de": "Das Verfassungsgericht berät über die Inhaftierung des seit über 600 Tagen inhaftierten Ekrem İmamoğlu."
-    }
-   },
-   {
-    "time": "2026-11-25T21:45:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011214/katalan-lider-carles-puigdemont-dokuz-yil-sonra-ispanya-ya-donuyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Katalonya'nın eski lideri Carles Puigdemont, 2017 bağımsızlık referandumunun ardından dokuz yıl sonra 12 Aralık'ta İspanya'ya döneceğini açıkladı.",
-     "de": "Der katalanische Ex-Präsident Carles Puigdemont kündigte an, am 12. Dezember nach neun Jahren im belgischen Exil nach Spanien zurückzukehren."
-    }
-   },
-   {
-    "time": "2026-11-25T21:25:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/ankara-daki-25-kasim-yuruyusune-dem-parti-ve-yeni-partili-isimler-katildi-2559454",
-    "text": {
-     "tr": "Ankara'da Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü kapsamında düzenlenen yürüyüşe muhalefet partilerinden siyasetçiler katıldı.",
-     "de": "In Ankara demonstrierten am Internationalen Tag gegen Gewalt an Frauen zahlreiche Bürger und Oppositionspolitikerinnen."
     }
    }
   ],
@@ -134,12 +134,12 @@
     }
    },
    {
-    "time": "2026-11-25T20:29:01+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/25/avrupa-parlamentosunda-koalisyon-krizi-sosyalistler-ve-liberaller-epp-ile-gorusmeleri-durd",
+    "time": "2026-11-25T20:32:56+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
     "text": {
-     "tr": "Avrupa Parlamentosu'ndaki sosyalist ve liberal gruplar, EPP ile görev süresinin ikinci yarısına yönelik koalisyon görüşmelerini durdurdu.",
-     "de": "Sozialisten und Liberalen im Europäischen Parlament haben die Koalitionsgespräche mit der EVP ausgesetzt."
+     "tr": "Avustralyalı Liberal senatör Leah Blyth, One Nation partisene katıldığını açıkladı.",
+     "de": "Die australische Liberale Senatorin Leah Blyth hat ihren Übertritt zur Partei One Nation bekannt gegeben."
     }
    }
   ]
@@ -172,6 +172,7 @@
   "https://tr.euronews.com/2026/11/25/craiova-2027de-avrupanin-en-iyi-noel-pazari-secildi-riga-ve-sofya-takipte",
   "https://tr.euronews.com/2026/11/25/danistay-imamoglunun-diploma-davasinda-temyiz-basvurusunu-reddetti",
   "https://tr.euronews.com/2026/11/25/dohada-unfinished-beginnings-sergisi-savas-magduru-cocuklar-icin-20-bin-bos-biberon",
+  "https://tr.euronews.com/2026/11/25/erdogan-hafteri-ankarada-agirladi-iliskilerde-neler-degisiyor",
   "https://tr.euronews.com/2026/11/25/esanin-hera-misyonu-dartin-carptigi-dimorphosta-tam-bir-kaos-goruntulendi",
   "https://tr.euronews.com/2026/11/25/eski-fransa-cumhurbaskani-sarkozyye-yeni-dava-esi-carla-bruni-de-yargilanacak",
   "https://tr.euronews.com/2026/11/25/eurostarda-habersiz-grev-paris-londra-seferlerinin-cogu-iptal-edildi",
@@ -318,6 +319,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/25-kasim-yasaklarina-karsin-kadinlar-taksim-de-toplanmaya-basladi-susmuyoruz-korkmuyoruz-itaat-etmiyoruz-2559414",
   "https://www.cumhuriyet.com.tr/siyaset/akp-de-secim-tarihi-icin-dikkat-ceken-hesap-dogalgaz-faturasi-bile-masada-2559186",
   "https://www.cumhuriyet.com.tr/siyaset/akp-li-ismin-hanim-ve-kari-sozlerine-meclis-te-sert-tepki-bu-konusma-nereye-gidiyor-2559407",
+  "https://www.cumhuriyet.com.tr/siyaset/akp-nin-calisma-saatlerinin-yeniden-duzenlenmesine-iliskin-grup-onerisi-kabul-edildi-2559490",
   "https://www.cumhuriyet.com.tr/siyaset/amasya-valisi-sezer-isiktas-kimdir-nereli-ve-kac-yasinda-dr-sezer-isiktas-in-gorev-gecmisi-2559230",
   "https://www.cumhuriyet.com.tr/siyaset/ankara-daki-25-kasim-yuruyusune-dem-parti-ve-yeni-partili-isimler-katildi-2559454",
   "https://www.cumhuriyet.com.tr/siyaset/butlan-chp-sinin-izleme-komisyonu-uyesi-belli-oldu-2559441",
@@ -331,6 +333,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/fon-vurgununun-suphelisi-akp-li-samil-tayyar-sessizligine-devam-ediyor-biraz-vakti-var-2559183",
   "https://www.cumhuriyet.com.tr/siyaset/hgs-gecislerindeki-sureclere-iliskin-iddialara-yonelik-arastirmasi-onergesi-akp-ve-mhp-oylariyla-reddedildi-2559483",
   "https://www.cumhuriyet.com.tr/siyaset/istanbul-barosu-25-kasim-yasaklarina-iliskin-dava-acildigini-duyurdu-2559415",
+  "https://www.cumhuriyet.com.tr/siyaset/iyi-partili-belediye-baskani-korgan-partisinden-istifa-etti-2559487",
   "https://www.cumhuriyet.com.tr/siyaset/izmir-de-su-tarifesine-indirim-yeni-parti-den-ek-indirim-talebi-2559443",
   "https://www.cumhuriyet.com.tr/siyaset/kepez-belediyesi-ne-yonelik-operasyonda-yeni-gelisme-24-kisi-adliyede-2559451",
   "https://www.cumhuriyet.com.tr/siyaset/mansur-yavas-tan-imamoglu-nun-diplomasinin-iptal-edilmesine-ilk-tepki-2559306",
@@ -390,6 +393,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/ahmet-suheyl-ucer-kimdir-tokat-valisi-ahmet-suheyl-ucer-kac-yasinda-nereli-ahmet-suheyl-ucer-hangi-gorevlerde-bulundu-2559191",
   "https://www.cumhuriyet.com.tr/turkiye/akom-istanbul-haftalik-hava-durumu-raporunu-yayimladi-sicakliklar-yukselecek-yagmur-ne-zaman-gelecek-2559175",
   "https://www.cumhuriyet.com.tr/turkiye/akom-istanbul-icin-tarih-verdi-kar-ne-zaman-gelecek-2559349",
+  "https://www.cumhuriyet.com.tr/turkiye/aralik-ayi-kira-artis-orani-ne-zaman-aciklanacak-kira-artisi-hesaplama-nasil-yapilir-2559488",
   "https://www.cumhuriyet.com.tr/turkiye/bakanlik-mufettislerinden-italyan-lisesi-raporu-13-ogretmenin-isten-cikarilmasinda-sendikal-neden-tespiti-ozel-italyan-lisesi-ne-201-bin-lira-ceza-kesilmesini-onerdi-2559372",
   "https://www.cumhuriyet.com.tr/turkiye/bursa-da-uyusturucu-operasyonu-122-gozalti-2559240",
   "https://www.cumhuriyet.com.tr/turkiye/dem-parti-imrali-heyeti-adalet-bakani-akin-gurlek-ile-gorustu-2559263",
@@ -435,6 +439,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/ramazan-bal-kimdir-karabuk-valisi-ramazan-bal-kac-yasinda-nereli-ramazan-bal-hangi-gorevlerde-bulundu-2559226",
   "https://www.cumhuriyet.com.tr/turkiye/rekabet-kurumu-55-uzman-yardimcisi-alimi-ne-zaman-rekabet-kurumu-55-uzman-yardimcisi-alimi-sartlari-neler-2559438",
   "https://www.cumhuriyet.com.tr/turkiye/rize-de-heyelan-o-yol-ulasima-kapandi-2559409",
+  "https://www.cumhuriyet.com.tr/turkiye/sait-korgan-kimdir-korgan-belediye-baskani-sait-korgan-neden-istifa-etti-2559489",
   "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-da-operasyon-otomobilin-motor-bolumunde-6-silah-ele-gecirildi-1-tutuklama-2559234",
   "https://www.cumhuriyet.com.tr/turkiye/santaj-cetesine-operasyon-ormana-cagirip-silah-zoruyla-tehdit-etmisler-5-kisi-yakalandi-2559456",
   "https://www.cumhuriyet.com.tr/turkiye/seddar-yavuz-kimdir-mugla-valisi-seddar-yavuz-kac-yasinda-nereli-seddar-yavuz-hangi-gorevlerde-bulundu-2559235",
@@ -664,6 +669,7 @@
   "https://www.evrensel.net/haber/6011219/irak-savunma-bakanligi-kerkuk-dahil-tum-vilayetlerde-birlik-konuslandirmaya-haziriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011220/diyarbakir-da-kadinlar-siddete-ve-cezasizliga-karsi-yurudu-baris-ve-ozgurluge-kadinlar-sahip-cikacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011221/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011222/altinbas-ailesinin-kontrolundeki-sumer-varlik-a-kayyim-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
@@ -697,6 +703,7 @@
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/polizist-erschiesst-pudel-in-hotel-in-berlin-accg-201715919.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/thomas-markle-in-los-angeles-formal-angeklagt-accg-201714671.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/zwei-maenner-nach-einbruch-bei-william-und-catherine-angeklagt-201716872.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/auma-obama-ueber-kenia-schmuck-und-ihre-staerken-201704770.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/jennifer-barreto-ist-miss-universe-2026-accg-201715704.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/macy-s-thanksgiving-day-parade-droht-das-aus-fuer-die-riesenballons-201717852.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/merz-trifft-auf-heino-ehrung-des-saengers-im-kanzler-tipi-accg-201715427.html",
@@ -711,6 +718,7 @@
   "https://www.faz.net/aktuell/politik/ausland/marschflugkoerper-in-polen-russland-leugnet-urheberschaft-accg-201715509.html",
   "https://www.faz.net/aktuell/politik/ausland/neuer-strache-prozess-und-wieder-steht-ibiza-vor-gericht-201716829.html",
   "https://www.faz.net/aktuell/politik/ausland/nordkorea-weist-schweizer-gesandten-sylvain-astier-aus-accg-201714860.html",
+  "https://www.faz.net/aktuell/politik/ausland/peter-magyar-in-der-ukraine-ein-neustart-mit-selenskyj-201716621.html",
   "https://www.faz.net/aktuell/politik/ausland/rohingya-aktivistin-lucky-karim-als-zeugin-des-genozids-accg-201714719.html",
   "https://www.faz.net/aktuell/politik/ausland/salomonen-wollen-umstrittenen-pakt-mit-china-aufkuendigen-accg-201712507.html",
   "https://www.faz.net/aktuell/politik/inland/chatgruppe-terror-18-polizei-nimmt-drei-jugendliche-fest-accg-201715698.html",
@@ -720,6 +728,7 @@
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-banaszak-rot-gruen-rot-ist-wesentlich-wahrscheinlicher-geworden-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-generaldebatte-im-bundestag-begonnen-chrupalla-wirft-merz-ausgabesucht-vor-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-generaldebatte-im-bundestag-begonnen-merz-verteidigt-haushalt-faz-110093143.html",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-unionspolitiker-schlagen-kompromiss-im-rentenstreit-vor-faz-110093143.html",
   "https://www.faz.net/aktuell/politik/inland/mickie-krause-angela-merkel-matthias-maurer-wer-zur-bundesversammlung-faehrt-201709533.html",
   "https://www.faz.net/aktuell/politik/inland/polizeireform-so-baut-manuel-hagel-die-polizei-um-201714923.html",
   "https://www.faz.net/aktuell/politik/inland/rechtsextremistische-gruppe-terror-18-zerschlagen-accg-201715698.html",
@@ -740,6 +749,7 @@
   "https://www.faz.net/aktuell/rhein-main/frankfurt/vor-125-jahren-wie-alois-alzheimer-seinen-namen-an-eine-krankheit-abgab-accg-201702833.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/barbara-klemms-china-fotografien-sind-in-frankfurt-zu-sehen-accg-201697931.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/endlich-frost-warum-kalte-wintertage-ploetzlich-kostbar-wirken-201711629.html",
+  "https://www.faz.net/aktuell/rhein-main/kultur/komoedie-frankfurt-alle-unter-einer-tanne-ist-ein-grosser-spass-201688460.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/lolita-und-young-and-beautiful-abend-zu-sexuellem-missbrauch-in-darmstadt-201706061.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/metropolitan-museum-und-alte-oper-festival-in-frankfurt-geplant-accg-201713374.html",
   "https://www.faz.net/aktuell/rhein-main/newsletter-hauptwache/frankfurter-buehnen-neubauplaene-mit-unsicherer-finanzierung-201717835.html",
@@ -820,17 +830,23 @@
   "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
   "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
   "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
+  "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
   "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
   "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
   "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
   "https://www.france24.com/en/france/20261125-french-milei-presidential-candidate-david-lisnard-aims-reshape-france-right-wing",
+  "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
   "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
   "https://www.france24.com/en/moldova-launches-national-preparedness-campaign-after-drone-incursions",
+  "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
   "https://www.france24.com/en/tv-shows/arts24/20261125-paper-tiger-scarlett-johansson-and-adam-driver-shine-in-russian-mob-thriller",
   "https://www.france24.com/en/tv-shows/perspective/20261125-producer-and-guitarist-ginton-on-jazz-remixing-big-hits-and-collaborating-on-a-track-for-drake",
   "https://www.france24.com/en/tv-shows/press-review/20261125-violence-against-women-its-many-forms-and-the-paths-to-justice",
   "https://www.france24.com/en/tv-shows/sports/20261125-2025-afcon-cas-gives-title-to-senegal-as-morocco-vows-to-challenge-verdict",
   "https://www.france24.com/en/tv-shows/t%C3%AAte-%C3%A0-t%C3%AAte/20261125-we-need-to-stop-the-war-in-iran-us-congresswoman-pramila-jayapal",
+  "https://www.france24.com/en/tv-shows/the-debate/20261125-campaign-rules-for-influencers-french-regulator-targets-content-creators",
+  "https://www.france24.com/en/tv-shows/truth-or-fake/20261125-did-gta-6-really-recreate-charlie-kirk-s-assassination",
+  "https://www.france24.com/en/us-unveils-proposed-tariffs-on-major-partners-including-eu-and-china",
   "https://www.france24.com/en/video/20261125-a-symbol-of-hope-pakistan-celebrates-as-astronaut-enters-orbit",
   "https://www.france24.com/en/video/20261125-california-braces-for-flooding-threat-from-huge-tides-el-nino",
   "https://www.france24.com/en/video/20261125-colombia-security-forces-rescue-hostages-in-supermarket-siege",
@@ -889,6 +905,7 @@
   "https://www.spiegel.de/politik/deutschland/kommission-empfiehlt-kriminalisierung-von-freiern-wenn-prostituierte-nicht-angemeldet-sind-a-766dc637-4c74-499b-bfce-6739ea704d18#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-des-tages-jamal-musiala-rechtsterroristische-teenager-migranten-auf-el-hierro-a-8c1d423a-7204-4b8f-9043-b60b3894da3d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-generaldebatte-im-bundestag-mehr-anzeigen-wegen-gewalt-gegen-frauen-tarifverhandlungen-in-der-metallindustrie-a-40c31068-2413-4166-8289-438c4c3739f7#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/russland-putin-kann-keinen-krieg-fuehren-wie-stalin-soenke-neitzel-und-hanna-notte-im-spiegel-talk-a-2bd42a0d-8b31-42fe-adea-9592b8ef2507#ref=rss",
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
   "https://www.spiegel.de/politik/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-spielte-waehrend-rennwochenende-in-las-vegas-stundenlang-gta-6-a-37719fbe-2f93-4793-b436-2854627e4915#ref=rss",
@@ -961,6 +978,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
   "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+  "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
@@ -972,6 +990,7 @@
   "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
   "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
   "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
+  "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
   "https://www.theguardian.com/football/2026/nov/25/raheem-sterling-avoids-jail-reckless-driving-nitrous-oxide-sentence",
   "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
   "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
@@ -986,6 +1005,7 @@
   "https://www.theguardian.com/uk-news/2026/nov/25/amazon-motors-into-uk-car-market",
   "https://www.theguardian.com/uk-news/2026/nov/25/eu-nationals-will-pay-higher-tuition-fees-than-uk-students-burnham-indicates",
   "https://www.theguardian.com/uk-news/2026/nov/25/sri-lanka-asylum-seeker-convicted-sexual-assault-uk-kills-himself-eswatini",
+  "https://www.theguardian.com/uk-news/2026/nov/25/thomas-markle-transfer-charges-california",
   "https://www.theguardian.com/uk-news/2026/nov/25/three-year-old-thiago-wall-choking-death-middleton-nursery",
   "https://www.theguardian.com/uk-news/2026/nov/25/two-charged-burglary-trespass-prince-princess-wales-home-norfolk",
   "https://www.theguardian.com/uk-news/2026/nov/25/woman-did-not-believe-husband-drugged-her-for-rape-by-strangers-manchester-trial",
@@ -999,6 +1019,7 @@
   "https://www.theguardian.com/us-news/2026/nov/25/midterms-democrats-gun-control-violence-prevention-movement",
   "https://www.theguardian.com/us-news/2026/nov/25/mississippi-plane-crash-gulf-mexico",
   "https://www.theguardian.com/us-news/2026/nov/25/native-americans-national-day-of-mourning-thanksgiving",
+  "https://www.theguardian.com/us-news/2026/nov/25/oregon-man-dog-escape-waves-king-tides",
   "https://www.theguardian.com/us-news/2026/nov/25/spacex-datacenter-satellites-approval",
   "https://www.theguardian.com/us-news/2026/nov/25/thanksgiving-food-costs-prices",
   "https://www.theguardian.com/us-news/2026/nov/25/trump-open-to-pardoning-jensen-huang-nvidia",
