@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T05:57+01:00",
+ "updatedAt": "2026-11-25T06:27+01:00",
  "countries": {
   "de": [
    {
@@ -15,6 +15,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-25T08:00:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011068/arac-muayenesinde-kredi-karti-komisyonu-kaldiriliyor-yeni-sistem-icin-tarih-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Ulaştırma Bakanı Uraloğlu, araç muayene istasyonlarında kredi kartı komisyonunun Ağustos 2027'de kaldırılacağını açıkladı.",
+     "de": "Verkehrsminister Uraloğlu erklärte, dass die Kreditkartengebühren bei Hauptuntersuchungen für Fahrzeuge im August 2027 abgeschafft werden."
+    }
+   },
+   {
     "time": "2026-11-25T07:42:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -22,9 +31,54 @@
      "tr": "İstanbul Üsküdar'da park halindeyken freni boşalan kiremit yüklü bir tır evin bahçesine girdi, ölen ya da yaralanan olmadı.",
      "de": "In Istanbul-Üsküdar rollte ein mit Dachziegeln beladener Lkw in den Garten eines Hauses, verletzt wurde niemand."
     }
+   },
+   {
+    "time": "2026-11-25T06:14:08+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
+    "text": {
+     "tr": "İstanbul'daki uyuşturucu operasyonunda aralarında Özcan Deniz ve Burcu Özberk'in de bulunduğu 23 kişi gözaltına alındı.",
+     "de": "Bei einer Drogenrazzia in Istanbul wurden 23 Personen festgenommen, darunter die Sängerin Özcan Deniz und die Schauspielerin Burcu Özberk."
+    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-25T06:18:30+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+    "text": {
+     "tr": "İsrail'de hükümet kurma çalışmaları kapsamında Gadi Eisenkot, Binyamin Netanyahu'nun Likud Partisi ile görüşmelerini sürdürüyor.",
+     "de": "In Israel führt Gadi Eisenkot im Rahmen der Regierungsbildung Gespräche mit der Likud-Partei von Benjamin Netanjahu."
+    }
+   },
+   {
+    "time": "2026-11-25T05:21:53+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
+    "text": {
+     "tr": "Hırvatistan'da psikiyatri hastanesinde 32 yaşındaki bir hastanın sağlık görevlileri tarafından yastıkla boğularak öldürülmesi tepki çekti.",
+     "de": "In Kroatien sorgte der Tod eines 32-jährigen psychiatrischen Patienten für Empörung, nachdem Sanitäter ihn mit einem Kissen erstickt hatten."
+    }
+   },
+   {
+    "time": "2026-11-25T05:00:06+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+    "text": {
+     "tr": "Yemen'deki Husilerin geçici başkent Aden yakınlarında ilerlemesi üzerine sivil toplum kuruluşları ve halk tahliye hazırlığı yapıyor.",
+     "de": "Angesichts des Vormarschs der Huthi-Milizen auf die provisorische Hauptstadt Aden bereiten sich Bewohner und NGOs auf Evakuierungen vor."
+    }
+   },
+   {
+    "time": "2026-11-25T04:57:31+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/geiselnahme-in-cartagena-20-menschen-in-supermarkt-verschanzt-accg-201714842.html",
+    "text": {
+     "tr": "Kolombiya'nın Cartagena kentinde bir süpermarkete sığınan silahlı saldırganlar 20 kişiyi rehin aldı.",
+     "de": "In Cartagena, Kolumbien, haben sich bewaffnete Angreifer nach einem Überfall in einem Supermarkt verschanzt und 20 Menschen als Geiseln genommen."
+    }
+   },
    {
     "time": "2026-11-25T04:49:55+00:00",
     "source": "BBC News World",
@@ -37,16 +91,31 @@
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
+  "https://tr.euronews.com/2026/11/25/yazin-dusuk-d-vitamini-duzeyi-kirik-ve-olum-riskini-kistan-daha-iyi-gosteriyor",
   "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
   "https://www.evrensel.net/haber/6011066/kolombiya-da-rehine-krizi-supermarkette-alikonulan-30-kisiden-10-u-serbest-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011068/arac-muayenesinde-kredi-karti-komisyonu-kaldiriliyor-yeni-sistem-icin-tarih-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/replikanten-an-der-macht-blade-runner-2099-bei-prime-video-201710485.html",
+  "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/geiselnahme-in-cartagena-20-menschen-in-supermarkt-verschanzt-accg-201714842.html",
   "https://www.faz.net/aktuell/politik/ausland/nordkorea-weist-schweizer-gesandten-sylvain-astier-aus-accg-201714860.html",
+  "https://www.faz.net/aktuell/politik/ukraine/drohnenangriffe-in-der-ostsee-ist-die-admiral-grigorowitsch-vor-fehmarn-sicher-accg-201711918.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/so-geht-frankfurt-kuenftig-gegen-muellsuender-vor-accg-201711971.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/darmstadt-wie-das-housing-first-projekt-fuer-obdachlose-funktioniert-accg-201712976.html",
+  "https://www.spiegel.de/ausland/gefaehrliche-bromance-warum-die-rueckkehr-von-nvidia-chef-huang-fuer-trump-zum-problem-werden-koennte-a-2668e5ab-9cf5-4605-9f80-cdf0838c0964#ref=rss",
   "https://www.spiegel.de/karriere/wechseljahre-mehr-als-jede-zweite-frau-in-der-lebensmitte-fuehlt-sich-gesundheitlich-nicht-gut-a-a17595d8-9a63-40b1-8f18-591de5af99da#ref=rss",
   "https://www.spiegel.de/kultur/der-fc-st-pauli-sucht-eine-neue-stadionhymne-warum-sind-alle-fuenf-vorschlaege-so-stumpf-a-d0864ca0-2d96-4c98-9b61-b08f0d7b7b10#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-generaldebatte-im-bundestag-mehr-anzeigen-wegen-gewalt-gegen-frauen-tarifverhandlungen-in-der-metallindustrie-a-40c31068-2413-4166-8289-438c4c3739f7#ref=rss",
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
+  "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+  "https://www.tagesschau.de/kultur/paradies-spaeti-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
-  "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb"
+  "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+  "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
+  "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+  "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
+  "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html"
  ]
 }
