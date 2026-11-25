@@ -1,8 +1,26 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T23:19+01:00",
+ "updatedAt": "2026-11-25T23:49+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-25T22:38:24+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/fussball/champions-league/article6b075b21d4a4a3142c573e32/champions-league-undav-bei-stuttgarts-niederlage-in-mailand-ueberraschend-auf-der-bank.html",
+    "text": {
+     "tr": "VfB Stuttgart'ın Inter'e karşı oynadığı Şampiyonlar Ligi maçında forvet Deniz Undav'ın yedek kulübesinde başlaması sürpriz yarattı.",
+     "de": "Torjäger Deniz Undav saß bei der Champions-League-Niederlage des VfB Stuttgart gegen Inter Mailand überraschend auf der Bank."
+    }
+   },
+   {
+    "time": "2026-11-25T22:21:44+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-und-karim-adeyemi-treffen-fuer-liverpool-und-barcelona-in-champions-league-201305470.html",
+    "text": {
+     "tr": "Florian Wirtz ve Karim Adeyemi Şampiyonlar Ligi'nde gol atarken, Manchester United galibiyet hasretini sürdürdü.",
+     "de": "Florian Wirtz und Karim Adeyemi trafen in der Champions League, während Manchester United weiter sieglos blieb."
+    }
+   },
    {
     "time": "2026-11-25T22:14:00+01:00",
     "source": "Der Spiegel",
@@ -29,27 +47,45 @@
      "tr": "Bayern Münih, deplasmanda OSC Lille'e 2-0 yenilerek bu sezonki ilk mağlubiyetini aldı.",
      "de": "Der FC Bayern München kassierte beim OSC Lille mit einer 0:2-Niederlage seine erste Pleite in dieser Saison."
     }
-   },
-   {
-    "time": "2026-11-25T21:45:20+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
-    "text": {
-     "tr": "Ekonomi konseyi üyesi Monika Schnitzer, artan yeni borçlanma nedeniyle 2040 yılına kadar yüzde 100 borç oranı konusunda uyarıda bulundu.",
-     "de": "Wirtschaftsweise Monika Schnitzer warnt vor einer steigenden Neuverschuldung und einer Schuldenquote von 100 Prozent bis 2040 in Deutschland."
-    }
-   },
-   {
-    "time": "2026-11-25T21:33:29+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/schach/article6b072d69c75e09cb88d16150/schach-wm-naechstes-unentschieden-gukesh-bleibt-im-rennen.html",
-    "text": {
-     "tr": "Cenevre'deki Satranç Dünya Şampiyonası'nda unvan sahibi Dommaraju Gukesh ile Javokhir Sindarov arasındaki ikinci gün de berabere bitti.",
-     "de": "Bei der Schach-Weltmeisterschaft in Genf endete auch das zweite Duell zwischen Titelverteidiger Dommaraju Gukesh und Javokhir Sindarov unentschieden."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T01:46:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/lille-den-bayern-munih-e-celme-fransa-da-muthis-geri-donus-2559508",
+    "text": {
+     "tr": "Lille, Şampiyonlar Ligi'nin 5. haftasında konuk ettiği Bayern Münih'i 2-1 mağlup etti.",
+     "de": "Lille besiegte Bayern München am fünften Spieltag der Champions League im eigenen Stadion mit 2:1."
+    }
+   },
+   {
+    "time": "2026-11-26T01:39:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/arda-turan-dan-maglubiyet-sozleri-bu-cehennemi-yasayacagiz-2559507",
+    "text": {
+     "tr": "Shakhtar Donetsk Teknik Direktörü Arda Turan, Fenerbahçe'ye 1-0 yenildikleri maçın ardından açıklamalarda bulundu.",
+     "de": "Shakhtar-Donetsk-Trainer Arda Turan äußerte sich nach der 0:1-Niederlage gegen Fenerbahçe."
+    }
+   },
+   {
+    "time": "2026-11-26T01:30:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/psg-nin-sampiyonlar-ligi-ndeki-serisini-roma-bitirdi-2559506",
+    "text": {
+     "tr": "Roma, deplasmanda PSG ile 2-2 berabere kalarak rakibinin Şampiyonlar Ligi'ndeki galibiyet serisine son verdi.",
+     "de": "Roma trennte sich auswärts 2:2 von Paris Saint-Germain und beendete damit die Siegesserie des Gegners in der Champions League."
+    }
+   },
+   {
+    "time": "2026-11-26T01:23:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/sporting-ile-manchester-united-lizbon-da-yenisemedi-2559505",
+    "text": {
+     "tr": "Sporting ile Manchester United, Lizbon'daki Şampiyonlar Ligi karşılaşmasında 2-2 berabere kaldı.",
+     "de": "Sporting und Manchester United trennten sich in Lissabon in der Champions League mit 2:2."
+    }
+   },
    {
     "time": "2026-11-26T01:11:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -57,42 +93,6 @@
     "text": {
      "tr": "Liverpool, UEFA Şampiyonlar Ligi'nde Club Brugge'ü deplasmanda 3-0 mağlup etti.",
      "de": "Liverpool besiegte Club Brugge in der Champions League auswärts mit 3:0."
-    }
-   },
-   {
-    "time": "2026-11-26T00:52:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/mehdi-olarak-tanitti-sifa-vaadiyle-dolandirdi-ailesiyle-birlikte-tutuklandi-2559502",
-    "text": {
-     "tr": "İzmir'de kendisini 'Mehdi' olarak tanıtıp bir aileyi 3 milyon TL dolandıran şüpheli ile 3 aile bireyi tutuklandı.",
-     "de": "In Izmir wurden ein Verdächtiger, der sich als Mahdi ausgab und eine Familie um 3 Millionen Lira betrog, sowie drei Angehörige festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-26T00:49:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501",
-    "text": {
-     "tr": "Anadolu Efes, EuroLeague'in 14. haftasında deplasmanda Baskonia'ya 86-81 yenildi.",
-     "de": "Anadolu Efes verlor am 14. Spieltag der EuroLeague auswärts mit 86:81 gegen Baskonia."
-    }
-   },
-   {
-    "time": "2026-11-26T00:46:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011229/tbmm-de-hgs-onergesi-akp-ve-mhp-oylariyla-reddedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "TBMM, Hızlı Geçiş Sistemi'ndeki sorunların araştırılmasına ilişkin önergeyi AKP ve MHP oylarıyla reddetti.",
-     "de": "Das türkische Parlament lehnte einen Antrag zur Untersuchung von Problemen im Mautsystem HGS mit den Stimmen von AKP und MHP ab."
-    }
-   },
-   {
-    "time": "2026-11-26T00:36:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yavuzyilmaz-bunun-adi-garantili-soygundur-diyerek-acikladi-avrasya-tuneli-icin-hazine-den-775-milyon-lira-odendi-2559500",
-    "text": {
-     "tr": "YENİ Parti Genel Başkan Yardımcısı Deniz Yavuzyılmaz, Avrasya Tüneli için Hazine'den şirkete 775 milyon lira ödendiğini açıkladı.",
-     "de": "Der stellvertretende Vorsitzende der YENİ-Partei, Deniz Yavuzyılmaz, erklärte, dass für den Eurasien-Tunnel 775 Millionen Lira aus der Staatskasse gezahlt wurden."
     }
    }
   ],
@@ -107,39 +107,39 @@
     }
    },
    {
+    "time": "2026-11-25T22:28:58+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
+    "text": {
+     "tr": "Fransa'da Marine Le Pen'in partisine gizli bilgi sızdırdığı şüphesiyle Loiret valisi görevden alındı, Paris savcı yardımcısı soruşturma altına alındı.",
+     "de": "In Frankreich wurde der Präfekt des Départements Loiret im Zuge von Le-Pen-Parteileaks entlassen und ein Pariser Staatsanwalt untersucht."
+    }
+   },
+   {
+    "time": "2026-11-25T22:26:40+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
+    "text": {
+     "tr": "İsrail meclisi, Başbakan Binyamin Netanyahu'nun karşı çıkmasına rağmen 7 Ekim saldırılarındaki güvenlik açıklarına ilişkin soruşturma komisyonu kurulması yönünde ilk adımı attı.",
+     "de": "Israelische Abgeordnete brachten trotz Netanyahus Widerstand eine Untersuchungskommission zu den Sicherheitsversäumnissen vom 7. Oktober auf den Weg."
+    }
+   },
+   {
+    "time": "2026-11-25T22:13:28+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
+    "text": {
+     "tr": "ABD, aralarında Avrupa Birliği ve Çin'in de bulunduğu 14 ekonomi için yeni gümrük vergileri planladığını açıkladı.",
+     "de": "Die USA haben vorgeschlagene Zölle gegen 14 Volkswirtschaften, darunter die EU und China, vorgestellt."
+    }
+   },
+   {
     "time": "2026-11-25T21:41:34+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
     "text": {
      "tr": "Duran Duran grubunun gitaristi Andy Taylor 65 yaşında hayatını kaybetti.",
      "de": "Andy Taylor, der Gitarrist der Band Duran Duran, ist im Alter von 65 Jahren gestorben."
-    }
-   },
-   {
-    "time": "2026-11-25T21:25:14+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
-    "text": {
-     "tr": "Mısır'ın başkenti Kahire'deki çevreyolunda bir akaryakıt tankerinin devrilmesi sonucu en az 30 kişi hayatını kaybetti.",
-     "de": "Bei einem Tanklastwagenunfall auf einer Ringstraße in der ägyptischen Hauptstadt Kairo sind mindestens 30 Menschen getötet worden."
-    }
-   },
-   {
-    "time": "2026-11-25T21:08:45+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/25/macys-thanksgiving-day-parade-postponed-weather",
-    "text": {
-     "tr": "New York'taki geleneksel Macy's Şükran Günü geçidi, olumsuz hava koşulları ve şiddetli rüzgar nedeniyle cumartesi gününe ertelendi.",
-     "de": "Die traditionelle Macy's-Thanksgiving-Parade in New York wurde wegen starker Winde und widriger Wetterbedingungen auf Samstag verschoben."
-    }
-   },
-   {
-    "time": "2026-11-25T20:40:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/chen-jining-xi-jinping-laesst-gegen-shanghais-parteichef-ermitteln-die-angst-schmiert-seine-machtmaschine-a-064febf6-98c7-4f63-9a15-3ef355c12df9#ref=rss",
-    "text": {
-     "tr": "Çin Devlet Başkanı Şi Cinping, bilinmeyen nedenlerle Şanghay Parti Sekreteri Çen Cining hakkında soruşturma başlattı.",
-     "de": "Staatschef Xi Jinping lässt Ermittlungen gegen Shanghais Parteisekretär Chen Jining einleiten."
     }
    }
   ]
@@ -364,6 +364,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/yozgat-valisi-ali-arslantas-kimdir-ali-arslantas-daha-once-hangi-gorevlerde-bulundu-2559185",
   "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501",
   "https://www.cumhuriyet.com.tr/spor/arda-guler-den-mac-sonu-alex-de-souza-aciklamasi-2559209",
+  "https://www.cumhuriyet.com.tr/spor/arda-turan-dan-maglubiyet-sozleri-bu-cehennemi-yasayacagiz-2559507",
   "https://www.cumhuriyet.com.tr/spor/barcelona-sabah-fk-deplasmaninda-farkli-kazandi-2559484",
   "https://www.cumhuriyet.com.tr/spor/besiktas-a-hava-muhalefeti-engeli-gurcistan-a-inis-yapamadi-2559395",
   "https://www.cumhuriyet.com.tr/spor/besiktas-boa-dan-cekya-ekibine-48-sayilik-fark-2559467",
@@ -387,10 +388,13 @@
   "https://www.cumhuriyet.com.tr/spor/hapoel-beer-sheva-teknik-direktoru-ran-kozuch-besiktas-cok-kaliteli-bir-takim-2559413",
   "https://www.cumhuriyet.com.tr/spor/inter-kendi-evinde-stuttgart-a-gecit-vermedi-2559504",
   "https://www.cumhuriyet.com.tr/spor/iste-filenin-efeleri-nin-milletler-ligi-ndeki-rakipleri-2559370",
+  "https://www.cumhuriyet.com.tr/spor/lille-den-bayern-munih-e-celme-fransa-da-muthis-geri-donus-2559508",
   "https://www.cumhuriyet.com.tr/spor/liverpool-club-brugge-deplasmaninda-uc-puani-3-golle-aldi-2559503",
   "https://www.cumhuriyet.com.tr/spor/okan-buruk-a-kirmizi-kart-cikarmisti-galatasaray-dan-ali-sansalan-hamlesi-2559309",
+  "https://www.cumhuriyet.com.tr/spor/psg-nin-sampiyonlar-ligi-ndeki-serisini-roma-bitirdi-2559506",
   "https://www.cumhuriyet.com.tr/spor/shakhtar-donetsk-kadro-degeri-ne-kadar-shakhtar-donetsk-transfermarkt-degeri-kac-milyon-euro-2559425",
   "https://www.cumhuriyet.com.tr/spor/spor-yazarlari-galatasaray-aston-villa-macini-degerlendirdi-galatasaray-in-hak-ettigi-odulun-simgesi-oldu-2559184",
+  "https://www.cumhuriyet.com.tr/spor/sporting-ile-manchester-united-lizbon-da-yenisemedi-2559505",
   "https://www.cumhuriyet.com.tr/spor/thomas-reis-konferans-ligi-hedefini-acikladi-2559445",
   "https://www.cumhuriyet.com.tr/spor/trabzonspor-un-cska-sofya-maci-kamp-kadrosu-belli-oldu-2559298",
   "https://www.cumhuriyet.com.tr/spor/tumer-metin-den-dikkat-ceken-besiktas-galatasaray-derbisi-tahmini-2559314",
@@ -702,6 +706,7 @@
   "https://www.evrensel.net/haber/6011227/iyi-partili-korgan-belediye-baskani-partisinden-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011228/izmir-de-sifa-vaadiyle-dolandiricilik-ve-cinsel-saldiri-iddialarina-iliskin-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011229/tbmm-de-hgs-onergesi-akp-ve-mhp-oylariyla-reddedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011230/sampiyonlar-ligi-nde-5-haftanin-panoramasi-galatasaray-ve-fenerbahce-seriye-bagladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
@@ -812,6 +817,7 @@
   "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-erste-untersuchung-von-jamal-musiala-am-22-april-2025-accg-201714969.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-tipps-zum-fc-liverpool-von-bundestrainer-juergen-klopp-accg-201714968.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-und-karim-adeyemi-treffen-fuer-liverpool-und-barcelona-in-champions-league-201305470.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/jamal-musiala-fc-bayern-muenchen-spricht-mit-beratern-ueber-erkrankung-accg-201714969.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/manchester-city-in-champions-league-erling-haaland-raetselt-nach-2-2-accg-201715860.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
@@ -871,15 +877,21 @@
   "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
   "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
   "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
+  "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
   "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
   "https://www.france24.com/en/europe/20261125-factory-blast-turkey-izmir",
   "https://www.france24.com/en/europe/20261125-kremlin-declines-comment-reports-700-000-russian-soldiers-killed-ukraine-war",
   "https://www.france24.com/en/europe/20261125-surprise-eurostar-strike-cancels-london-paris-and-brussels-trains",
   "https://www.france24.com/en/france/20261125-french-milei-presidential-candidate-david-lisnard-aims-reshape-france-right-wing",
   "https://www.france24.com/en/in-boost-for-netanyahu-judges-question-corruption-trial-charges",
+  "https://www.france24.com/en/israeli-lawmakers-advance-october-7-inquiry-opposed-by-netanyahu",
+  "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
   "https://www.france24.com/en/middle-east/20261125-israeli-mps-advance-bill-for-inquiry-into-security-failings-that-led-to-october-7-hamas-attack",
   "https://www.france24.com/en/moldova-launches-national-preparedness-campaign-after-drone-incursions",
+  "https://www.france24.com/en/new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
   "https://www.france24.com/en/poland-says-will-create-no-fly-zone-at-ukraine-border-after-repeated-airspace-violations",
+  "https://www.france24.com/en/sport/20261125-psg-s-perfect-champions-league-record-ends-as-roma-snatch-2-2-draw-with-late-penalty",
+  "https://www.france24.com/en/tv-shows/a-propos/20261125-new-us-tariffs-trump-lashing-out-really-indiscriminately-expert-says",
   "https://www.france24.com/en/tv-shows/arts24/20261125-paper-tiger-scarlett-johansson-and-adam-driver-shine-in-russian-mob-thriller",
   "https://www.france24.com/en/tv-shows/perspective/20261125-producer-and-guitarist-ginton-on-jazz-remixing-big-hits-and-collaborating-on-a-track-for-drake",
   "https://www.france24.com/en/tv-shows/press-review/20261125-violence-against-women-its-many-forms-and-the-paths-to-justice",
@@ -1080,6 +1092,7 @@
   "https://www.theguardian.com/world/2026/nov/25/indian-cockroach-movement-leader-asks-court-for-permission-to-fly-to-uk",
   "https://www.theguardian.com/world/2026/nov/25/labour-committed-ban-conversion-practices-despite-proposed-law-scrapped",
   "https://www.theguardian.com/world/2026/nov/25/lululemon-founder-comments-canada-womens-leadership-conference",
+  "https://www.theguardian.com/world/2026/nov/25/people-killed-fuel-tanker-crash-ignites-large-fire-cairo-highway",
   "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
   "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
   "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
@@ -1146,6 +1159,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b06ac8a366061b7ba3e4cd1/fussball-fc-bayern-veroeffentlicht-statement-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/champions-league/article6b0730d6c75e09cb88d16185/champions-league-ticker-osc-lille-fc-bayern-muenchen-live.html",
   "https://www.welt.de/sport/fussball/champions-league/article6b0730d6c75e09cb88d16185/pavlovic-patzer-besiegelt-niederlage-in-lille-dezimierte-bayern-vor-schweren-wochen.html",
+  "https://www.welt.de/sport/fussball/champions-league/article6b075b21d4a4a3142c573e32/champions-league-undav-bei-stuttgarts-niederlage-in-mailand-ueberraschend-auf-der-bank.html",
   "https://www.welt.de/sport/schach/article6b072d69c75e09cb88d16150/schach-wm-naechstes-unentschieden-gukesh-bleibt-im-rennen.html",
   "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
   "https://www.welt.de/vermischtes/article6b067339cd4642ba2eb17bc4/microsoft-ruft-nach-weltweitem-outlook-ausfall-intern-code-red-aus.html",
