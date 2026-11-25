@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T03:51+01:00",
+ "updatedAt": "2026-11-25T04:21+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,24 @@
   ],
   "tr": [
    {
+    "time": "2026-11-25T05:59:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011062/yalova-da-atv-ucuruma-yuvarlandi-surucu-6-saat-sonra-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Yalova'nın Termal ilçesinde uçuruma yuvarlanan ATV'nin sürücüsü, 6 saat süren çalışmalar sonucu yaralı olarak kurtarıldı.",
+     "de": "In Yalova wurde der Fahrer eines Quad-Bikes nach einem Sturz in eine Schlucht nach sechsstündiger Rettungsaktion verletzt geborgen."
+    }
+   },
+   {
+    "time": "2026-11-25T05:52:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011061/bursa-da-isci-servisi-kazasi-8-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Bursa'nın Nilüfer ilçesinde işçi servisi ile hafif ticari aracın çarpışması sonucu 8 kişi yaralandı.",
+     "de": "Bei einem Zusammenstoß zwischen einem Pendlerbus und einem Kleinwagen in Bursa wurden acht Personen verletzt."
+    }
+   },
+   {
     "time": "2026-11-25T04:00:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/turkiye/sehir-hastanelerinde-gorevde-yukselmede-liyakat-krizi-akademisyen-kriteri-saglasa-da-ilerleyemiyor-2559146",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Real Madrid, UEFA Şampiyonlar Ligi'nde PSV'yi 5-1 yenerken Arda Güler iki asistle maça damga vurdu.",
      "de": "Real Madrid besiegte PSV in der Champions League mit 5:1, wobei Arda Güler zwei Vorlagen beisteuerte."
-    }
-   },
-   {
-    "time": "2026-11-25T00:56:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/turkiye-ile-rusya-arasinda-gumruk-isbirligi-icin-mutabakat-zapti-imzalandi-2559137",
-    "text": {
-     "tr": "Türkiye ile Rusya arasında Ankara'daki toplantının ardından gümrük işbirliği mutabakat zaptı imzalandı.",
-     "de": "Die Türkei und Russland unterzeichneten nach einem Treffen in Ankara eine Absichtserklärung zur Zollzusammenarbeit."
-    }
-   },
-   {
-    "time": "2026-11-25T00:33:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/amasya-da-otomobil-evin-bahcesine-savruldu-5-yarali-2559131",
-    "text": {
-     "tr": "Amasya'da kontrolden çıkarak bir evin bahçesine savrulan otomobildeki 5 kişi yaralandı.",
-     "de": "In Amasya stürzte ein außer Kontrolle geratenes Auto in den Garten eines Hauses, wodurch fünf Menschen verletzt wurden."
     }
    }
   ],
@@ -673,6 +673,8 @@
   "https://www.evrensel.net/haber/6011058/polis-akademisi-baskani-prof-dr-murat-balci-gorevden-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011059/sampiyonlar-ligi-nde-5-hafta-gunun-sonuclari-bugunun-programi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011060/euroleague-de-14-hafta-fenerbahce-barcelona-yi-deplasmanda-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011061/bursa-da-isci-servisi-kazasi-8-kisi-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011062/yalova-da-atv-ucuruma-yuvarlandi-surucu-6-saat-sonra-kurtarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/noma-handbuch-geschmack-muss-es-wirklich-ameisenbutter-sein-accg-201672946.html",
   "https://www.faz.net/aktuell/faz-zur-black-week-besonders-guenstiges-faz-digitalabo-16684955.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/autoren/clemens-meyer-zum-100-von-werner-heiduczek-accg-201702181.html",
@@ -1009,6 +1011,7 @@
   "https://www.theguardian.com/media/2026/nov/24/channel-4-unilever-tv-influencer-marketing",
   "https://www.theguardian.com/media/2026/nov/24/lord-lebedev-cuts-price-london-mansion-cost",
   "https://www.theguardian.com/music/2026/nov/24/beatles-attraction-savile-row-live-music-ban-westminster-council",
+  "https://www.theguardian.com/news/audio/2026/nov/25/the-russian-armys-secret-death-toll-podcast",
   "https://www.theguardian.com/politics/2026/nov/24/andy-burnham-influencers-no-10-reception-max-balegde-tiktok-explicit-lyrics",
   "https://www.theguardian.com/politics/2026/nov/24/nigel-farage-rules-out-reform-uk-deal-restore-britain",
   "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
