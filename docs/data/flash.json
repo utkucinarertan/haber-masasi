@@ -1,8 +1,17 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T06:57+01:00",
+ "updatedAt": "2026-11-25T07:28+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-25T06:00:03+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/plus6b04875566a00c9ca1fe1810/trans-operationen-steigen-um-94-prozent-streit-um-kostenuebernahme-der-krankenkassen.html",
+    "text": {
+     "tr": "Almanya'da cinsiyet değiştirme operasyonlarının yüzde 94 oranında artması, sağlık sigortası masraflarının karşılanması konusunda siyasi tartışmalara yol açtı.",
+     "de": "In Deutschland steigt die Zahl der Trans-Operationen um 94 Prozent, was eine politische Debatte über die Kostenübernahme der Krankenkassen auslöst."
+    }
+   },
    {
     "time": "2026-11-25T05:23:00+01:00",
     "source": "Der Spiegel",
@@ -15,12 +24,30 @@
   ],
   "tr": [
    {
+    "time": "2026-11-25T09:17:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-barcelona-ya-gecit-vermedi-2559172",
+    "text": {
+     "tr": "EuroLeague'in 14. haftasında Fenerbahçe Tarfin, deplasmanda Barcelona'yı 83-77 mağlup etti.",
+     "de": "Fenerbahçe Tarfin schlug Barcelona in der 14. Runde der EuroLeague auswärts mit 83 zu 77."
+    }
+   },
+   {
     "time": "2026-11-25T08:50:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-25-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559168",
     "text": {
      "tr": "Meteoroloji, 20 il için sarı kodlu uyarı yayımlarken Doğu Karadeniz'de kuvvetli yağış ve yüksek kesimlerde kar bekleniyor.",
      "de": "Der türkische Wetterdienst hat für 20 Provinzen eine gelbe Warnung herausgegeben; im östlichen Schwarzmeergebiet werden starker Regen und Schnee erwartet."
+    }
+   },
+   {
+    "time": "2026-11-25T08:45:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011071/iran-hurmuz-bogazi-nda-2-petrol-tankeri-alev-aldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İran Devrim Muhafızları, Hürmüz Boğazı'nda izinsiz seyreden iki petrol tankerinin mayına çarparak alev aldığını duyurdu.",
+     "de": "Nach Angaben der iranischen Revolutionsgarden fingen zwei Öltanker in der Straße von Hormus nach dem Zusammenstoß mit Seeminen Feuer."
     }
    },
    {
@@ -40,24 +67,6 @@
      "tr": "Türkiye Futbol Federasyonu, taraftarların çirkin ve kötü tezahüratları nedeniyle Galatasaray, Fenerbahçe ve Beşiktaş'ı PFDK'ye sevk etti.",
      "de": "Der türkische Fußballverband hat Galatasaray, Fenerbahçe und Beşiktaş wegen Fangesängen an die Disziplinarkommission PFDK verwiesen."
     }
-   },
-   {
-    "time": "2026-11-25T07:42:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "İstanbul Üsküdar'da park halindeyken freni boşalan kiremit yüklü bir tır evin bahçesine girdi, ölen ya da yaralanan olmadı.",
-     "de": "In Istanbul-Üsküdar rollte ein mit Dachziegeln beladener Lkw in den Garten eines Hauses, verletzt wurde niemand."
-    }
-   },
-   {
-    "time": "2026-11-25T06:14:08+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
-    "text": {
-     "tr": "İstanbul'daki uyuşturucu operasyonunda aralarında Özcan Deniz ve Burcu Özberk'in de bulunduğu 23 kişi gözaltına alındı.",
-     "de": "Bei einer Drogenrazzia in Istanbul wurden 23 Personen festgenommen, darunter die Sängerin Özcan Deniz und die Schauspielerin Burcu Özberk."
-    }
    }
   ],
   "world": [
@@ -68,6 +77,15 @@
     "text": {
      "tr": "Brent petrolün varil fiyatı yüzde 1,31 düşüşle 90,09 dolara gerilerken, küresel arz fazlası beklentisi fiyatları aşağı çekti.",
      "de": "Die Brent-Ölpreise sind um 1,31 Prozent auf 90,09 US-Dollar gesunken, angetrieben von Erwartungen an ein weltweites Überangebot."
+    }
+   },
+   {
+    "time": "2026-11-25T07:14:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wissenschaft/raumfahrt-in-china-mission-shenzhou-24-startet-mit-premiere-a-af1aeadb-6dd0-49d3-aebc-728d3e3756e7#ref=rss",
+    "text": {
+     "tr": "Çin'in Shenzhou 24 uzay misyonu, uzay istasyonuna ilk kez Pakistanlı bir astronot göndererek bir ilke imza attı.",
+     "de": "Chinas Raumfahrtmission Shenzhou 24 schickt erstmals einen pakistanischen Raumfahrer zur Raumstation."
     }
    },
    {
@@ -96,49 +114,63 @@
      "tr": "Deniz jeologları, okyanusun en derin noktalarından biri olan Mariana Çukuru'nda şiddetli bir volkanik patlamanın izlerini keşfetti.",
      "de": "Meeresgeologen haben am Marianengraben Spuren eines gewaltigen Vulkanausbruchs in extremer Meerestiefe entdeckt."
     }
-   },
-   {
-    "time": "2026-11-25T05:21:53+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
-    "text": {
-     "tr": "Hırvatistan'da psikiyatri hastanesinde 32 yaşındaki bir hastanın sağlık görevlileri tarafından yastıkla boğularak öldürülmesi tepki çekti.",
-     "de": "In Kroatien sorgte der Tod eines 32-jährigen psychiatrischen Patienten für Empörung, nachdem Sanitäter ihn mit einem Kissen erstickt hatten."
-    }
    }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/25/pakistanli-astronot-cinin-uzay-istasyonuna-giden-ilk-yabanci-oldu",
+  "https://tr.euronews.com/2026/11/25/tui-musement-verileri-noel-ve-yilbasi-tatilinde-avrupanin-en-cok-aranan-sehri-londra",
   "https://tr.euronews.com/2026/11/25/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-burcu-ozberk-dahil-23-kisi-gozaltinda",
   "https://tr.euronews.com/2026/11/25/yazin-dusuk-d-vitamini-duzeyi-kirik-ve-olum-riskini-kistan-daha-iyi-gosteriyor",
   "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+  "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+  "https://www.cumhuriyet.com.tr/magazin/ilker-aksum-dan-dizi-sektorundeki-ucret-indirimi-tartismasina-tepki-asil-problem-sureler-2559176",
+  "https://www.cumhuriyet.com.tr/siyaset/sol-parti-den-fatma-betul-sayan-kaya-nin-tahliyesine-tepki-misafirligi-sona-erdi-2559170",
+  "https://www.cumhuriyet.com.tr/siyaset/tbmm-baskani-numan-kurtulmus-tan-ozgur-ozel-e-izleme-komisyonu-cagrisi-2559171",
+  "https://www.cumhuriyet.com.tr/spor/fenerbahce-shakhtar-donetsk-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2559169",
+  "https://www.cumhuriyet.com.tr/spor/fenerbahce-tarfin-barcelona-ya-gecit-vermedi-2559172",
+  "https://www.cumhuriyet.com.tr/turkiye/akom-istanbul-haftalik-hava-durumu-raporunu-yayimladi-sicakliklar-yukselecek-yagmur-ne-zaman-gelecek-2559175",
+  "https://www.cumhuriyet.com.tr/turkiye/erdogan-imzalamisti-icisleri-bakani-ciftci-den-yeni-atanan-valilere-tebrik-mesaji-2559174",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-25-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559168",
+  "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-25-kasim-2026-nerede-ne-zaman-deprem-oldu-2559173",
   "https://www.dw.com/tr/elektronik-kelepçe-takılıyor-kadınlar-neden-hâlâ-risk-altında/a-80029953",
   "https://www.evrensel.net/haber/6011066/kolombiya-da-rehine-krizi-supermarkette-alikonulan-30-kisiden-10-u-serbest-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011068/arac-muayenesinde-kredi-karti-komisyonu-kaldiriliyor-yeni-sistem-icin-tarih-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011069/galatasaray-fenerbahce-ve-besiktas-pfdk-ye-sevk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011070/petrol-fiyatlari-yeniden-geriledi-brent-petrol-90-dolar-sinirinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011071/iran-hurmuz-bogazi-nda-2-petrol-tankeri-alev-aldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/wie-martina-knief-vom-frauenfussball-erzaehlt-accg-201603252.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/replikanten-an-der-macht-blade-runner-2099-bei-prime-video-201710485.html",
   "https://www.faz.net/aktuell/feuilleton/reise/neuseeland-traumziel-mit-rissen-im-paradies-accg-200981270.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/geiselnahme-in-cartagena-20-menschen-in-supermarkt-verschanzt-accg-201714842.html",
   "https://www.faz.net/aktuell/politik/ausland/nordkorea-weist-schweizer-gesandten-sylvain-astier-aus-accg-201714860.html",
+  "https://www.faz.net/aktuell/politik/ukraine/an-russlands-700-000-kriegstoten-traegt-putin-die-schuld-201712906.html",
   "https://www.faz.net/aktuell/politik/ukraine/drohnenangriffe-in-der-ostsee-ist-die-admiral-grigorowitsch-vor-fehmarn-sicher-accg-201711918.html",
+  "https://www.faz.net/aktuell/rhein-main/auto-verletzt-zehn-jahre-alten-radfahrer-in-alsbach-haehnlein-schwer-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/so-geht-frankfurt-kuenftig-gegen-muellsuender-vor-accg-201711971.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/darmstadt-wie-das-housing-first-projekt-fuer-obdachlose-funktioniert-accg-201712976.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/jamal-musiala-fc-bayern-muenchen-spricht-mit-beratern-ueber-erkrankung-accg-201714969.html",
+  "https://www.faz.net/aktuell/wirtschaft/kuenstliche-intelligenz/wenn-humanoide-zur-gefahr-fuer-kollegen-werden-accg-201712647.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/gelingt-der-durchbruch-im-tarifkonflikt-der-metall-und-elektroindustrie-f-a-z-fruehdenker-201714512.html",
+  "https://www.faz.net/premium/meine-finanzen/vermoegensaufbau/ki-im-fonds-was-anleger-wirklich-wissen-sollten-accg-201708320.html",
   "https://www.spiegel.de/ausland/chen-jining-chinas-antikorruptionsbehoerde-ermittelt-gegen-shanghais-kp-chef-a-e43b07b9-34da-4daf-8b2e-f1a9c96e6e35#ref=rss",
   "https://www.spiegel.de/ausland/gefaehrliche-bromance-warum-die-rueckkehr-von-nvidia-chef-huang-fuer-trump-zum-problem-werden-koennte-a-2668e5ab-9cf5-4605-9f80-cdf0838c0964#ref=rss",
   "https://www.spiegel.de/karriere/wechseljahre-mehr-als-jede-zweite-frau-in-der-lebensmitte-fuehlt-sich-gesundheitlich-nicht-gut-a-a17595d8-9a63-40b1-8f18-591de5af99da#ref=rss",
   "https://www.spiegel.de/kultur/der-fc-st-pauli-sucht-eine-neue-stadionhymne-warum-sind-alle-fuenf-vorschlaege-so-stumpf-a-d0864ca0-2d96-4c98-9b61-b08f0d7b7b10#ref=rss",
+  "https://www.spiegel.de/mobilitaet/auto/fiat-tris-im-test-aller-guten-dinge-sind-drei-a-d3188bd4-b243-4b52-879c-9910262b418d#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-generaldebatte-im-bundestag-mehr-anzeigen-wegen-gewalt-gegen-frauen-tarifverhandlungen-in-der-metallindustrie-a-40c31068-2413-4166-8289-438c4c3739f7#ref=rss",
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
+  "https://www.spiegel.de/start/tokio-hotel-gegen-die-stadt-leipzig-warum-die-reaktion-der-kaulitz-brueder-schlechter-stil-ist-a-974fc90f-6c0c-4d68-9af5-12ec3eaa8eb3#ref=rss",
+  "https://www.spiegel.de/wissenschaft/raumfahrt-in-china-mission-shenzhou-24-startet-mit-premiere-a-af1aeadb-6dd0-49d3-aebc-728d3e3756e7#ref=rss",
   "https://www.tagesschau.de/ausland/asien/israel-eisenkot-netanjahu-100.html",
+  "https://www.tagesschau.de/inland/gesellschaft/podcast-11km-abschiebezentren-100.html",
   "https://www.tagesschau.de/kultur/paradies-spaeti-100.html",
   "https://www.tagesschau.de/wirtschaft/konjunktur/wirtschaftswachstum-branchen-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
   "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
+  "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
   "https://www.theguardian.com/world/2026/nov/25/charts-europe-big-year-of-elections-eu-far-right",
   "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
   "https://www.welt.de/debatte/plus6aff1882c1e8003ef73c4ae8/gefuehl-von-sicherheit-was-wir-von-japan-lernen-koennen.html",
@@ -147,7 +179,10 @@
   "https://www.welt.de/iconist/gesellschaft/article6af474f1e22aeb948142005a/so-geht-gastgeben-menschen-die-nicht-gern-einladen-sind-haeufig-die-besten-gaeste.html",
   "https://www.welt.de/iconist/gesellschaft/plus6b0403f5172877701c06f253/gen-alpha-auf-reisen-vielen-jugendlichen-faellt-es-schon-schwer-nur-irgendwo-anzurufen.html",
   "https://www.welt.de/kultur/plus6b001a04b237b5b41c9a2379/singlefrau-was-eine-samstagnacht-mit-meinem-besten-vorsatz-macht.html",
+  "https://www.welt.de/politik/ausland/article6b067391cd4642ba2eb17bd2/ukraine-krieg-lukaschenko-macht-selenskyj-ungewoehnliches-angebot-ukrainischer-praesident-reagiert.html",
+  "https://www.welt.de/politik/deutschland/plus6b04875566a00c9ca1fe1810/trans-operationen-steigen-um-94-prozent-streit-um-kostenuebernahme-der-krankenkassen.html",
   "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
+  "https://www.welt.de/vermischtes/article6b067339cd4642ba2eb17bc4/microsoft-ruft-nach-weltweitem-outlook-ausfall-intern-code-red-aus.html",
   "https://www.welt.de/wirtschaft/plus6b0176d745d8681e4fca3b75/biontech-der-raetselhafte-abgang-der-biontech-gruender.html",
   "https://www.welt.de/wirtschaft/plus6b0581ef6a4309d5f179c748/russische-weltraumwaffe-putins-atombombe-im-all-und-das-98-prozent-szenario.html",
   "https://www.welt.de/wissenschaft/article6b054e5439a3e8110f0e9bc7/meer-forscher-raetseln-ueber-gewaltigen-vulkanausbruch-an-einem-der-tiefsten-punkte-der-erde.html"
