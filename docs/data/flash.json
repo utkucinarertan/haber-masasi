@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T22:49+01:00",
+ "updatedAt": "2026-11-25T23:19+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,24 @@
     "text": {
      "tr": "Franziska Giffey, Vanessa Emde'nin Sol Parti grubundan ihraç edilmesinin Kızıl-Kırmızı-Yeşil koalisyon için yeterli bir çözüm olmadığını belirtti.",
      "de": "Franziska Giffey sieht den Ausschluss von Vanessa Emde aus der Linke-Fraktion nicht als ausreichenden Schritt für eine rot-rot-grüne Koalition in Berlin."
+    }
+   },
+   {
+    "time": "2026-11-25T22:06:26+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
+    "text": {
+     "tr": "VfB Stuttgart, Şampiyonlar Ligi'nde deplasmanda Inter'e 2-0 mağlup oldu.",
+     "de": "Der VfB Stuttgart verlor in der Champions League auswärts mit 0:2 gegen Inter Mailand."
+    }
+   },
+   {
+    "time": "2026-11-25T21:58:37+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html",
+    "text": {
+     "tr": "Bayern Münih, deplasmanda OSC Lille'e 2-0 yenilerek bu sezonki ilk mağlubiyetini aldı.",
+     "de": "Der FC Bayern München kassierte beim OSC Lille mit einer 0:2-Niederlage seine erste Pleite in dieser Saison."
     }
    },
    {
@@ -29,27 +47,45 @@
      "tr": "Cenevre'deki Satranç Dünya Şampiyonası'nda unvan sahibi Dommaraju Gukesh ile Javokhir Sindarov arasındaki ikinci gün de berabere bitti.",
      "de": "Bei der Schach-Weltmeisterschaft in Genf endete auch das zweite Duell zwischen Titelverteidiger Dommaraju Gukesh und Javokhir Sindarov unentschieden."
     }
-   },
-   {
-    "time": "2026-11-25T21:31:00+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b074882c75e09cb88d162b0/mecklenburg-vorpommern-justizminister-loescht-offenbar-antifa-reel-cdu-und-afd-verlangen-aufklaerung.html",
-    "text": {
-     "tr": "Mecklenburg-Vorpommern Adalet Bakanı'nın Antifa destekli bir paylaşımı silmesinin ardından CDU ve AfD açıklama talep etti.",
-     "de": "Nachdem der Justizminister von Mecklenburg-Vorpommern offenbar ein Antifa-Reel gelöscht hat, fordern CDU und AfD Aufklärung."
-    }
-   },
-   {
-    "time": "2026-11-25T20:59:50+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/private-investitionen-schwaecheln-125-milliarden-euro-verlust-fuer-deutschland-201716175.html",
-    "text": {
-     "tr": "Almanya'da özel sektör yatırımlarının zayıflaması 2022'den bu yana ülkeye 125 milyar eurodan fazla ekonomik kayıp yaşattı.",
-     "de": "Die Schwäche der privaten Investitionen hat Deutschland seit 2022 mehr als 125 Milliarden Euro an Wirtschaftsleistung gekostet."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T01:11:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/liverpool-club-brugge-deplasmaninda-uc-puani-3-golle-aldi-2559503",
+    "text": {
+     "tr": "Liverpool, UEFA Şampiyonlar Ligi'nde Club Brugge'ü deplasmanda 3-0 mağlup etti.",
+     "de": "Liverpool besiegte Club Brugge in der Champions League auswärts mit 3:0."
+    }
+   },
+   {
+    "time": "2026-11-26T00:52:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/mehdi-olarak-tanitti-sifa-vaadiyle-dolandirdi-ailesiyle-birlikte-tutuklandi-2559502",
+    "text": {
+     "tr": "İzmir'de kendisini 'Mehdi' olarak tanıtıp bir aileyi 3 milyon TL dolandıran şüpheli ile 3 aile bireyi tutuklandı.",
+     "de": "In Izmir wurden ein Verdächtiger, der sich als Mahdi ausgab und eine Familie um 3 Millionen Lira betrog, sowie drei Angehörige festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-26T00:49:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501",
+    "text": {
+     "tr": "Anadolu Efes, EuroLeague'in 14. haftasında deplasmanda Baskonia'ya 86-81 yenildi.",
+     "de": "Anadolu Efes verlor am 14. Spieltag der EuroLeague auswärts mit 86:81 gegen Baskonia."
+    }
+   },
+   {
+    "time": "2026-11-26T00:46:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011229/tbmm-de-hgs-onergesi-akp-ve-mhp-oylariyla-reddedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "TBMM, Hızlı Geçiş Sistemi'ndeki sorunların araştırılmasına ilişkin önergeyi AKP ve MHP oylarıyla reddetti.",
+     "de": "Das türkische Parlament lehnte einen Antrag zur Untersuchung von Problemen im Mautsystem HGS mit den Stimmen von AKP und MHP ab."
+    }
+   },
    {
     "time": "2026-11-26T00:36:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -57,42 +93,6 @@
     "text": {
      "tr": "YENİ Parti Genel Başkan Yardımcısı Deniz Yavuzyılmaz, Avrasya Tüneli için Hazine'den şirkete 775 milyon lira ödendiğini açıkladı.",
      "de": "Der stellvertretende Vorsitzende der YENİ-Partei, Deniz Yavuzyılmaz, erklärte, dass für den Eurasien-Tunnel 775 Millionen Lira aus der Staatskasse gezahlt wurden."
-    }
-   },
-   {
-    "time": "2026-11-26T00:27:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/istanbul-valisi-gul-den-sokakta-kalan-yurttaslar-icin-cagri-112-ye-bildirin-2559499",
-    "text": {
-     "tr": "İstanbul Valisi Gül, hava sıcaklığının düşmesi nedeniyle sokakta kalan yurttaşların 112'ye bildirilmesi çağrısında bulundu.",
-     "de": "Der Istanbuler Gouverneur Gül rief dazu auf, obdachlose Menschen angesichts sinkender Temperaturen dem Notruf 112 zu melden."
-    }
-   },
-   {
-    "time": "2026-11-26T00:25:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/alkollu-surucunun-kullandigi-otomobil-takla-atti-ehliyetine-6-ay-el-konuldu-2559497",
-    "text": {
-     "tr": "Çorum'da takla atan alkollü sürücünün ehliyetine 6 ay süreyle el konuldu.",
-     "de": "In Çorum wurde einem betrunkenen Autofahrer nach einem Unfall der Führerschein für sechs Monate entzogen."
-    }
-   },
-   {
-    "time": "2026-11-26T00:20:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011212/tumtis-ten-29-kasim-cagrisi-ortak-sorunlarimiz-etrafinda-mucadeleyi-buyutmek-zorundayiz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "TÜMTİS İstanbul Şube Başkanı Ersin Türkmen, 29 Kasım'da Kartal'da düzenlenecek mitinge katılım çağrısı yaptı.",
-     "de": "TÜMTİS-Istanbul-Chef Ersin Türkmen rief zur Teilnahme an einer für den 29. November in Kartal geplanten Kundgebung auf."
-    }
-   },
-   {
-    "time": "2026-11-26T00:12:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/manisa-da-3-5-milyon-tl-lik-vurgun-yapti-bursa-da-yakalandi-2559496",
-    "text": {
-     "tr": "Manisa'da kendilerini savcı ve polis olarak tanıtarak bir kadını 3,5 milyon TL dolandıran şüpheli Bursa'da yakalandı.",
-     "de": "Ein Tatverdächtiger, der eine Frau in Manisa um 3,5 Millionen Lira betrogen hatte, wurde in Bursa gefasst."
     }
    }
   ],
@@ -104,6 +104,15 @@
     "text": {
      "tr": "ABD Dışişleri Bakanlığı, Ukrayna'ya 622 milyon dolarlık F-16 bakım ve destek ekipmanı satışını onayladı.",
      "de": "Das US-Außenministerium hat den Verkauf von F-16-Wartungs- und Unterstützungsausrüstung im Wert von 622 Millionen Dollar an die Ukraine genehmigt."
+    }
+   },
+   {
+    "time": "2026-11-25T21:41:34+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
+    "text": {
+     "tr": "Duran Duran grubunun gitaristi Andy Taylor 65 yaşında hayatını kaybetti.",
+     "de": "Andy Taylor, der Gitarrist der Band Duran Duran, ist im Alter von 65 Jahren gestorben."
     }
    },
    {
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Çin Devlet Başkanı Şi Cinping, bilinmeyen nedenlerle Şanghay Parti Sekreteri Çen Cining hakkında soruşturma başlattı.",
      "de": "Staatschef Xi Jinping lässt Ermittlungen gegen Shanghais Parteisekretär Chen Jining einleiten."
-    }
-   },
-   {
-    "time": "2026-11-25T20:37:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wissenschaft/weltall/asteroid-dimorphos-spektakulaere-fotos-zeigen-dart-einschlagkrater-a-7e837a7b-49a8-438b-82e4-fb67fe31c74f#ref=rss",
-    "text": {
-     "tr": "Hera uzay aracı, dört yıl önce kasten çarpan sondanın Dimorphos asteroidinde oluşturduğu kraterin yakın plan fotoğraflarını çekti.",
-     "de": "Die Raumsonde Hera hat Nahaufnahmen des Einschlagkraters auf dem Asteroiden Dimorphos zur Erde gefunkt."
     }
    }
   ]
@@ -362,6 +362,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-murat-emir-den-fatma-betul-sayan-kaya-sorusu-o-siyasi-buyugun-adini-vermesin-diye-mi-tahliye-edildi-2559239",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yavuzyilmaz-bunun-adi-garantili-soygundur-diyerek-acikladi-avrasya-tuneli-icin-hazine-den-775-milyon-lira-odendi-2559500",
   "https://www.cumhuriyet.com.tr/siyaset/yozgat-valisi-ali-arslantas-kimdir-ali-arslantas-daha-once-hangi-gorevlerde-bulundu-2559185",
+  "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501",
   "https://www.cumhuriyet.com.tr/spor/arda-guler-den-mac-sonu-alex-de-souza-aciklamasi-2559209",
   "https://www.cumhuriyet.com.tr/spor/barcelona-sabah-fk-deplasmaninda-farkli-kazandi-2559484",
   "https://www.cumhuriyet.com.tr/spor/besiktas-a-hava-muhalefeti-engeli-gurcistan-a-inis-yapamadi-2559395",
@@ -384,7 +385,9 @@
   "https://www.cumhuriyet.com.tr/spor/galatasaray-icin-dikkat-ceken-sampiyonlar-ligi-tahmini-play-off-taki-muhtemel-rakibini-duyurdular-2559273",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-in-aston-villa-zaferi-avrupa-basininda-gundem-oldu-deniz-gul-bir-savasci-gibi-geri-dondu-2559241",
   "https://www.cumhuriyet.com.tr/spor/hapoel-beer-sheva-teknik-direktoru-ran-kozuch-besiktas-cok-kaliteli-bir-takim-2559413",
+  "https://www.cumhuriyet.com.tr/spor/inter-kendi-evinde-stuttgart-a-gecit-vermedi-2559504",
   "https://www.cumhuriyet.com.tr/spor/iste-filenin-efeleri-nin-milletler-ligi-ndeki-rakipleri-2559370",
+  "https://www.cumhuriyet.com.tr/spor/liverpool-club-brugge-deplasmaninda-uc-puani-3-golle-aldi-2559503",
   "https://www.cumhuriyet.com.tr/spor/okan-buruk-a-kirmizi-kart-cikarmisti-galatasaray-dan-ali-sansalan-hamlesi-2559309",
   "https://www.cumhuriyet.com.tr/spor/shakhtar-donetsk-kadro-degeri-ne-kadar-shakhtar-donetsk-transfermarkt-degeri-kac-milyon-euro-2559425",
   "https://www.cumhuriyet.com.tr/spor/spor-yazarlari-galatasaray-aston-villa-macini-degerlendirdi-galatasaray-in-hak-ettigi-odulun-simgesi-oldu-2559184",
@@ -440,6 +443,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/manisa-da-3-5-milyon-tl-lik-vurgun-yapti-bursa-da-yakalandi-2559496",
   "https://www.cumhuriyet.com.tr/turkiye/mardin-de-operasyon-durdurulan-tir-da-80-gocmen-yakalandi-2559317",
   "https://www.cumhuriyet.com.tr/turkiye/meb-ags-15-bin-ogretmen-atamasi-basvurulari-ne-zaman-basliyor-meb-ags-ogretmen-atamasi-brans-dagilimi-aciklandi-mi-2559289",
+  "https://www.cumhuriyet.com.tr/turkiye/mehdi-olarak-tanitti-sifa-vaadiyle-dolandirdi-ailesiyle-birlikte-tutuklandi-2559502",
   "https://www.cumhuriyet.com.tr/turkiye/mercedes-benz-she-s-mentoring-programi-tamamlandi-3-projeye-1-8-milyon-tl-destek-2559398",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-25-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559168",
   "https://www.cumhuriyet.com.tr/turkiye/nazan-moroglu-ndan-25-kasim-mesaji-aile-ici-siddet-kadinin-sorunu-degil-toplumun-sorunudur-2559272",
@@ -696,6 +700,8 @@
   "https://www.evrensel.net/haber/6011225/misir-da-yakit-tankerinde-cikan-yanginda-30-kisi-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011226/abd-nin-new-jersey-eyaletinde-firtina-oncesi-olaganustu-hal-karari?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011227/iyi-partili-korgan-belediye-baskani-partisinden-istifa-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011228/izmir-de-sifa-vaadiyle-dolandiricilik-ve-cinsel-saldiri-iddialarina-iliskin-4-kisi-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011229/tbmm-de-hgs-onergesi-akp-ve-mhp-oylariyla-reddedildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
@@ -732,6 +738,7 @@
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/zwei-maenner-nach-einbruch-bei-william-und-catherine-angeklagt-201716872.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/auma-obama-ueber-kenia-schmuck-und-ihre-staerken-201704770.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/jennifer-barreto-ist-miss-universe-2026-accg-201715704.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/macy-s-thanksgiving-day-parade-deswegen-wurde-sie-auf-samstag-verschoben-201717852.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/macy-s-thanksgiving-day-parade-droht-das-aus-fuer-die-riesenballons-201717852.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/merz-trifft-auf-heino-ehrung-des-saengers-im-kanzler-tipi-accg-201715427.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/wie-makellos-ist-taylor-swift-201715645.html",
@@ -803,9 +810,11 @@
   "https://www.faz.net/aktuell/sport/fussball/champions-league/champions-league-was-borussia-dortmund-gegen-den-fc-arsenal-bewiesen-hat-accg-201715125.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-bei-osc-lille-welchem-teenager-vertraut-vincent-kompany-in-der-champions-league-accg-201709918.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-erste-untersuchung-von-jamal-musiala-am-22-april-2025-accg-201714969.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-tipps-zum-fc-liverpool-von-bundestrainer-juergen-klopp-accg-201714968.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/jamal-musiala-fc-bayern-muenchen-spricht-mit-beratern-ueber-erkrankung-accg-201714969.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/manchester-city-in-champions-league-erling-haaland-raetselt-nach-2-2-accg-201715860.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/aaron-rodgers-verlaesst-pittsburgh-steelers-in-nfl-201717955.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/handball-bundesliga-andreas-wolff-verlaesst-thw-kiel-201717742.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/jongleur-stanislav-vysotskyi-der-mann-der-mit-den-fuessen-jongliert-accg-201644119.html",
@@ -943,6 +952,7 @@
   "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
   "https://www.spiegel.de/politik/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-3cfcd68d-7b6c-47e5-bc21-a78860df3b49#ref=rss",
   "https://www.spiegel.de/sport/formel1/formel-1-max-verstappen-spielte-waehrend-rennwochenende-in-las-vegas-stundenlang-gta-6-a-37719fbe-2f93-4793-b436-2854627e4915#ref=rss",
+  "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b#ref=rss",
   "https://www.spiegel.de/sport/fussball/copa-america-usa-richten-naechstes-sportevent-aus-a-508c3034-a8d7-499e-a4f0-4225b5f6560f#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-ein-friedensgipfel-miserable-stimmung-beim-fc-bayern-muenchen-und-ein-verdacht-rund-um-einen-autounfall-a-a9866857-1d84-4da9-9e70-1a21093582a8#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-datiert-erste-untersuchungen-wegen-absencen-a-0c6d72c9-b690-49f8-95c3-d5264414fc4b#ref=rss",
@@ -1030,6 +1040,7 @@
   "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
   "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
   "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
+  "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
   "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
   "https://www.theguardian.com/news/audio/2026/nov/25/does-the-rise-and-fall-of-raheem-sterling-show-football-is-broken-the-latest",
   "https://www.theguardian.com/politics/live/2026/nov/25/andy-burnham-kemi-badenoch-pmqs-energy-bills-tiktok-welfare-benefits-timms-reform-brexit-devolution-latest-news-updates",
@@ -1129,10 +1140,12 @@
   "https://www.welt.de/reise/article6afed9389c68d2fcf0c7cc77/algerien-dieses-raetselhafte-land-laesst-reisende-staunen.html",
   "https://www.welt.de/sport/formel1/article6b06a045c75e09cb88d14fc1/formel-1-ich-kratzte-lack-vom-helm-sparte-80-gramm-rosberg-ueber-irren-titelkampf.html",
   "https://www.welt.de/sport/formel1/article6b06a8fb366061b7ba3e4c4a/gta-vi-verstappen-gesteht-vor-rennen-in-las-vegas-insgesamt-40-stunden-gespielt-zu-haben.html",
+  "https://www.welt.de/sport/fussball/article6b0735fec75e09cb88d161c7/julian-draxler-die-erste-million-auf-dem-konto-habe-ich-mit-18-geknackt.html",
   "https://www.welt.de/sport/fussball/bundesliga/borussia-dortmund/article6b06802fd4a4a3142c572780/borussia-dortmund-nach-arsenal-remis-ist-eine-grosse-geschichte-die-neuen-bvb-massstaebe.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b069b5d366061b7ba3e4a94/fc-bayern-die-akte-jamal-musiala-autounfall-alarmierte-die-bayern-bosse.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b06ac8a366061b7ba3e4cd1/fussball-fc-bayern-veroeffentlicht-statement-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/champions-league/article6b0730d6c75e09cb88d16185/champions-league-ticker-osc-lille-fc-bayern-muenchen-live.html",
+  "https://www.welt.de/sport/fussball/champions-league/article6b0730d6c75e09cb88d16185/pavlovic-patzer-besiegelt-niederlage-in-lille-dezimierte-bayern-vor-schweren-wochen.html",
   "https://www.welt.de/sport/schach/article6b072d69c75e09cb88d16150/schach-wm-naechstes-unentschieden-gukesh-bleibt-im-rennen.html",
   "https://www.welt.de/vermischtes/article6b064b7bcd4642ba2eb17a9b/missstaende-im-gesundheitswesen-tod-von-psychiatriepatient-erschuettert-kroatien.html",
   "https://www.welt.de/vermischtes/article6b067339cd4642ba2eb17bc4/microsoft-ruft-nach-weltweitem-outlook-ausfall-intern-code-red-aus.html",
@@ -1140,6 +1153,7 @@
   "https://www.welt.de/vermischtes/article6b06f47c5b0e340c047acbc1/erstes-deutsches-supermodel-veruschka-graefin-von-lehndorff-stirbt-mit-87-jahren.html",
   "https://www.welt.de/vermischtes/article6b0704acd4a4a3142c5738c0/fall-ulmen-fernandes-spiegel-depubliziert-artikel-wegen-einstweiliger-verfuegung.html",
   "https://www.welt.de/vermischtes/article6b071512c75e09cb88d15fe6/schweinfurt-13-jaehrige-offenbar-ueber-monate-sexuell-missbraucht-polizei-nimmt-sechs-verdaechtige-fest.html",
+  "https://www.welt.de/vermischtes/article6b075763d4a4a3142c573df0/nach-krebserkrankung-duran-duran-gitarrist-andy-taylor-stirbt-mit-65-jahren.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b07106410bfe646193e972d/zwei-mitarbeiter-von-compact-magazin-in-berlin-bei-youtube-gala-angegriffen-polizei-ermittelt.html",
   "https://www.welt.de/videos/video6b06cadacd4642ba2eb1858c/linke-ohne-emde-ein-biotop-aus-israel-hassern-islamisten-und-clanfamilien-das-kann-man-nicht-schoenreden.html",
   "https://www.welt.de/wirtschaft/article6b067e88cd4642ba2eb17c7d/ukraine-krieg-kein-business-as-usual-neues-eu-sanktionspaket-koennte-gerhard-schroeder-treffen.html",
