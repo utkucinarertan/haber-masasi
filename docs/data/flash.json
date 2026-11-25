@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T02:21+01:00",
+ "updatedAt": "2026-11-25T02:51+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-25T01:37:31+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b063883cd4642ba2eb17a34/usa-trump-plant-neue-zoelle-gegen-china-und-eu.html",
+    "text": {
+     "tr": "ABD Başkanı Trump, daha önce mahkeme tarafından engellenen ithalat vergilerinin yerini alacak şekilde Çin ve AB'ye karşı yeni gümrük vergileri planlıyor.",
+     "de": "US-Präsident Trump plant neue Zölle gegen China und die EU, um zuvor gerichtlich gekippte Einfuhrabgaben zu ersetzen."
+    }
+   },
+   {
     "time": "2026-11-25T01:33:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/ausland/usa-hacker-sollen-offenbar-cia-geheimdienst-angegriffen-haben-a-2f3378e4-e6a9-4b83-b4f6-c2ee97ab9cbf#ref=rss",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Artan yakıt masrafları ve elektrik indirimlerinin sona ermesiyle Avustralya'da yıllık enflasyon ekim ayında yüzde 4,9'a yükseldi.",
      "de": "In Australien ist die Inflation im Oktober infolge steigender Kraftstoffkosten und wegfallender Stromrabatte auf 4,9 Prozent gestiegen."
-    }
-   },
-   {
-    "time": "2026-11-25T00:01:01+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
-    "text": {
-     "tr": "İngiltere hükümeti, bıçak satışları için dünyanın ilk lisanslama sistemini hayata geçireceğini açıkladı.",
-     "de": "Die britische Regierung kündigt weltweit das erste Lizenzsystem für den Verkauf von Messern an."
     }
    }
   ]
@@ -727,6 +727,7 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-nato-verlegt-awacs-flugzeug-nach-polen-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-selenskyj-usa-wollen-frieden-bis-januar-erreichen-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/wohl-mehr-als-700-000-russische-soldaten-in-der-ukraine-gefallen-201711881.html",
+  "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-hackerangriff-auf-us-geheimdienst-cia-laut-medien-faz-19444916.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-who-chef-fordert-ende-der-us-treibstoffblockade-gegen-kuba-faz-19444916.html",
   "https://www.faz.net/aktuell/reise/leuchtturm-bengtsaer-uebernachten-auf-finnlands-einsamstem-felsen-accg-201013587.html",
   "https://www.faz.net/aktuell/rhein-main/f-a-z-leser-helfen-1/f-a-z-leser-helfen-guinand-aus-frankfurt-versteigert-uhren-unikat-accg-201694094.html",
@@ -812,6 +813,7 @@
   "https://www.france24.com/en/asia-pacific/20261124-un-condemns-iran-flogging-singer-parastoo-ahmadi",
   "https://www.france24.com/en/car-bomb-destroys-buildings-in-central-colombian-city",
   "https://www.france24.com/en/europe/20261124-live-tripoli-demands-explanation-from-kyiv-for-striking-russian-ships-in-libyan-waters",
+  "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
   "https://www.france24.com/en/france/20261124-accused-emptying-coffers-macron-mulls-spending-caps-future-french-governments-golden-rule",
   "https://www.france24.com/en/france/20261124-death-of-nahel-french-police-officer-who-shot-dead-a-teenage-boy-to-stand-trial-for-murder",
   "https://www.france24.com/en/france/20261124-france-ex-president-nicolas-sarkozy-wife-carla-stand-trial-over-alleged-witness-tampering",
@@ -899,6 +901,7 @@
   "https://www.spiegel.de/panorama/justiz/vergewaltigungsprozess-gegen-marvin-s-in-berlin-es-ist-eigentlich-kein-leben-mehr-das-ich-fuehre-a-593e95bd-5231-4c6c-b6a8-35223e945353#ref=rss",
   "https://www.spiegel.de/panorama/kalifornien-wappnet-sich-fuer-rekord-hochwasser-a-dafc00dc-f0e8-4784-9916-fc466d33c8dc#ref=rss",
   "https://www.spiegel.de/panorama/leute/cathy-hummels-gericht-verurteilt-influencerin-wegen-unfallflucht-a-d38821cf-9a87-45cb-90b9-01897c154c7b#ref=rss",
+  "https://www.spiegel.de/panorama/leute/gta-6-vice-city-radio-laesst-sylvie-vartans-danse-ta-vie-auf-spotify-boomen-a-df773e4a-0e19-46c5-948f-2f794664763d#ref=rss",
   "https://www.spiegel.de/panorama/leute/prinz-william-und-herzogin-kate-offenbar-einbruch-in-anwesen-der-britischen-royals-a-ac407b5f-d2fe-400d-a72a-44ad9b7856b4#ref=rss",
   "https://www.spiegel.de/panorama/warum-heino-fuer-den-kanzler-eigentlich-ein-gruener-ist-a-84f3c67c-48c5-4a4c-bec3-64df374f4215#ref=rss",
   "https://www.spiegel.de/panorama/weihnachten-rostock-streitet-ueber-den-digitalen-beamer-weihnachtsbaum-a-f542888e-f824-4e65-8602-06a08afe0b7f#ref=rss",
@@ -949,6 +952,7 @@
   "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
   "https://www.tagesschau.de/ausland/europa/landminen-monitor-102.html",
   "https://www.tagesschau.de/ausland/europa/loewe-istanbul-102.html",
+  "https://www.tagesschau.de/ausland/europa/ukraine-russland-bruecken-krieg-100.html",
   "https://www.tagesschau.de/ausland/europa/un-bericht-femizide-unodc-100.html",
   "https://www.tagesschau.de/ausland/landminen-monitor-102.html",
   "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
@@ -1059,6 +1063,7 @@
   "https://www.theguardian.com/world/2026/nov/24/malaysia-to-send-thousands-of-migrants-back-to-myanmar",
   "https://www.theguardian.com/world/2026/nov/24/russian-fighters-killed-in-mali-africa-leaked-data",
   "https://www.theguardian.com/world/2026/nov/24/spain-election-ada-colau-broad-front-far-right",
+  "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-chen-jining-xi-jinping-purge",
   "https://www.theguardian.com/world/live/2026/nov/24/russia-ukraine-poland-drone-patriots-latest-news-updates",
   "https://www.welt.de/debatte/plus6b04166139a3e8110f0e8285/reform-des-mord-paragrafen-justizministerin-hubig-aendert-was-funktioniert-und-laesst-liegen-was-klemmt.html",
   "https://www.welt.de/debatte/plus6b04632866a00c9ca1fe150f/eu-parlament-warum-die-union-bei-diesem-brandmauer-deal-nur-verliert.html",
@@ -1091,6 +1096,7 @@
   "https://www.welt.de/politik/ausland/article6b05ae2e460ead0fdbd8086e/mossad-verhinderte-laut-ex-chef-anschlag-auf-taylor-swift-konzerte.html",
   "https://www.welt.de/politik/ausland/article6b05c803d4a4a3142c572186/frankreich-le-pen-verschaerft-den-ton-und-fordert-ende-von-deutschem-europa.html",
   "https://www.welt.de/politik/ausland/article6b05da32cd4642ba2eb176fe/selenskyj-in-ungarn-historischer-tag-magyar-kuendigt-neues-kapitel-in-ukraine-politik-an.html",
+  "https://www.welt.de/politik/ausland/article6b063883cd4642ba2eb17a34/usa-trump-plant-neue-zoelle-gegen-china-und-eu.html",
   "https://www.welt.de/politik/ausland/plus6b0540247ad921347675fe61/angriff-in-libyen-kriegsschauplatz-mittelmeer-die-neue-dimension-von-kiews-kampf-gegen-russland.html",
   "https://www.welt.de/politik/ausland/plus6b0558497ad921347676008d/russlands-drohung-das-waere-die-groesste-gefahr-von-moskaus-atombombe-im-weltall.html",
   "https://www.welt.de/politik/deutschland/article6b04ba8539a3e8110f0e9653/nrw-maskierter-greift-gruenen-buero-an-raetselhafter-aufkleber-am-tatort.html",
