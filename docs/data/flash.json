@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T03:21+01:00",
+ "updatedAt": "2026-11-25T03:51+01:00",
  "countries": {
   "de": [
    {
@@ -107,6 +107,15 @@
     }
    },
    {
+    "time": "2026-11-25T02:17:25+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
+    "text": {
+     "tr": "Mississippi açiklarinda dusen ve alti kisinin bulundugu kucuk ucagin enkazini arama calismalari baslatildi.",
+     "de": "Rettungskraefte suchen nach dem Absturz eines Kleinflugzeugs vor der Kueste von Mississippi nach sechs Menschen."
+    }
+   },
+   {
     "time": "2026-11-25T01:54:12+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/wissen/weltraum/shenzhou-24-muhammad-zeeshan-fliegt-als-erster-auslaender-zur-tiangong-accg-201714673.html",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "ABD yargısı, Meghan Markle'ın babası hakkında istismar materyali bulundurması nedeniyle Los Angeles'ta resmi iddianame hazırladı.",
      "de": "Die US-Justiz hat in Los Angeles Anklage gegen den Vater von Herzogin Meghan wegen mutmaßlichen Besitzes von Missbrauchsmaterial erhoben."
-    }
-   },
-   {
-    "time": "2026-11-25T01:37:31+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b063883cd4642ba2eb17a34/usa-trump-plant-neue-zoelle-gegen-china-und-eu.html",
-    "text": {
-     "tr": "ABD Başkanı Trump, daha önce mahkeme tarafından engellenen ithalat vergilerinin yerini alacak şekilde Çin ve AB'ye karşı yeni gümrük vergileri planlıyor.",
-     "de": "US-Präsident Trump plant neue Zölle gegen China und die EU, um zuvor gerichtlich gekippte Einfuhrabgaben zu ersetzen."
     }
    }
   ]
@@ -1037,6 +1037,7 @@
   "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
   "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
   "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
+  "https://www.theguardian.com/us-news/2026/nov/24/al-gore-newspaper-tennessee",
   "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
   "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
   "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton",
@@ -1048,6 +1049,7 @@
   "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
   "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
   "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
+  "https://www.theguardian.com/us-news/2026/nov/24/mississippi-plane-crash",
   "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
   "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
   "https://www.theguardian.com/us-news/2026/nov/24/trump-giuliani-presidential-medal-of-freedom",
