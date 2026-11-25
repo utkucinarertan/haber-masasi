@@ -1,6 +1,52 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-25T05:26+01:00",
- "countries": {},
- "seen": []
+ "updatedAt": "2026-11-25T05:57+01:00",
+ "countries": {
+  "de": [
+   {
+    "time": "2026-11-25T05:23:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/news-generaldebatte-im-bundestag-mehr-anzeigen-wegen-gewalt-gegen-frauen-tarifverhandlungen-in-der-metallindustrie-a-40c31068-2413-4166-8289-438c4c3739f7#ref=rss",
+    "text": {
+     "tr": "Almanya Federal Meclisi'nde genel bütçe görüşmeleri yapılırken, metal endüstrisinde toplu iş sözleşmesi müzakereleri sürüyor.",
+     "de": "Im Bundestag findet die Generaldebatte statt, während in der Metallindustrie Tarifverhandlungen geführt werden."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-25T07:42:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İstanbul Üsküdar'da park halindeyken freni boşalan kiremit yüklü bir tır evin bahçesine girdi, ölen ya da yaralanan olmadı.",
+     "de": "In Istanbul-Üsküdar rollte ein mit Dachziegeln beladener Lkw in den Garten eines Hauses, verletzt wurde niemand."
+    }
+   }
+  ],
+  "world": [
+   {
+    "time": "2026-11-25T04:49:55+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+    "text": {
+     "tr": "Kilmar Abrego Garcia, ABD'den İspanya'ya giderek Donald Trump'ın göçmenlik politikasıyla ilgili sınır dışı tartışmasını sonlandırıyor.",
+     "de": "Kilmar Abrego Garcia verlässt die USA in Richtung Spanien und beendet damit einen Abschiebestreit."
+    }
+   }
+  ]
+ },
+ "seen": [
+  "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
+  "https://www.evrensel.net/haber/6011066/kolombiya-da-rehine-krizi-supermarkette-alikonulan-30-kisiden-10-u-serbest-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011067/uskudar-da-freni-bosalan-kiremit-yuklu-tir-evin-bahcesine-girdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
+  "https://www.faz.net/aktuell/politik/ausland/nordkorea-weist-schweizer-gesandten-sylvain-astier-aus-accg-201714860.html",
+  "https://www.spiegel.de/karriere/wechseljahre-mehr-als-jede-zweite-frau-in-der-lebensmitte-fuehlt-sich-gesundheitlich-nicht-gut-a-a17595d8-9a63-40b1-8f18-591de5af99da#ref=rss",
+  "https://www.spiegel.de/kultur/der-fc-st-pauli-sucht-eine-neue-stadionhymne-warum-sind-alle-fuenf-vorschlaege-so-stumpf-a-d0864ca0-2d96-4c98-9b61-b08f0d7b7b10#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/news-generaldebatte-im-bundestag-mehr-anzeigen-wegen-gewalt-gegen-frauen-tarifverhandlungen-in-der-metallindustrie-a-40c31068-2413-4166-8289-438c4c3739f7#ref=rss",
+  "https://www.spiegel.de/politik/klimapolitik-neun-fakten-die-fuer-den-kampf-gegen-die-erderwaermung-sprechen-a-3980c19c-dc59-409a-98e4-99b618c9d751#ref=rss",
+  "https://www.theguardian.com/australia-news/2026/nov/25/breakaway-clubs-miss-football-queensland-registration-gate-fee-dispute",
+  "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb"
+ ]
 }
