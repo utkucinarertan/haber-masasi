@@ -1,6 +1,6 @@
 {
  "since": "2026-11-24T05:15+01:00",
- "updatedAt": "2026-11-25T00:51+01:00",
+ "updatedAt": "2026-11-25T01:21+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,24 @@
   ],
   "world": [
    {
+    "time": "2026-11-25T01:06:58+01:00",
+    "source": "tagesschau Ausland",
+    "url": "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
+    "text": {
+     "tr": "WHO, Küba'da yaşam beklentisinin ilk kez düştüğünü ve bebek ölüm oranının iki katından fazla arttığını açıkladı.",
+     "de": "Laut WHO ist die Lebenserwartung in Kuba erstmals gesunken, während sich die Säuglingssterblichkeit mehr als verdoppelt hat."
+    }
+   },
+   {
+    "time": "2026-11-25T00:01:01+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
+    "text": {
+     "tr": "İngiltere hükümeti, bıçak satışları için dünyanın ilk lisanslama sistemini hayata geçireceğini açıkladı.",
+     "de": "Die britische Regierung kündigt weltweit das erste Lizenzsystem für den Verkauf von Messern an."
+    }
+   },
+   {
     "time": "2026-11-24T23:31:22+00:00",
     "source": "France 24",
     "url": "https://www.france24.com/en/americas/20261124-new-york-jury-convicts-huawei-of-stealing-trade-secrets",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Avustralya'da eski polis memuru Beau Lamarre-Condon'ın çifte cinayet davasında jüri karar için toplandı.",
      "de": "In Australien hat die Jury im Doppelmordprozess gegen den ehemaligen Polizisten Beau Lamarre-Condon die Beratungen aufgenommen."
-    }
-   },
-   {
-    "time": "2026-11-24T22:30:58+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-non-disclosure-agreements-staggered-age-consent",
-    "text": {
-     "tr": "İngiltere Başbakanı Andy Burnham, gizlilik anlaşmalarının yasaklanması için adımlar atılacağını duyurdu.",
-     "de": "Der britische Premierminister Andy Burnham hat angekündigt, das Verbot von Geheimhaltungsvereinbarungen auszuweiten."
-    }
-   },
-   {
-    "time": "2026-11-24T22:30:57+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/24/burnham-inquiry-nuclear-bomb-test-veterans",
-    "text": {
-     "tr": "İngiltere Başbakanı Burnham, nükleer bomba denemesi gazilerinin kayıtları için soruşturma başlattı.",
-     "de": "Der britische Premier Burnham hat eine Untersuchung zu den Akten von Veteranen britischer Atombombentests eingeleitet."
     }
    }
   ]
@@ -929,6 +929,7 @@
   "https://www.spiegel.de/wissenschaft/weltall/astronomie-weltraumteleskop-euklid-entdeckt-quasar-aus-der-fruehzeit-des-universums-a-09e0d709-52a2-45e3-959a-ee94b64ba3f9#ref=rss",
   "https://www.tagesschau.de/ausland/afrika/steinmeier-deutsch-afrikanischer-wirtschaftsgipfel-100.html",
   "https://www.tagesschau.de/ausland/amerika/kolumbien-zehn-jahre-friedensvertrag-100.html",
+  "https://www.tagesschau.de/ausland/amerika/kuba-lebenserwartungen-who-100.html",
   "https://www.tagesschau.de/ausland/asien/suedkorea-russland-100.html",
   "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
   "https://www.tagesschau.de/ausland/europa/emgr-urteil-pushbacks-100.html",
@@ -977,6 +978,7 @@
   "https://www.theguardian.com/culture/2026/nov/24/chicken-shop-date-youtube-amelia-dimoldenberg",
   "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
   "https://www.theguardian.com/environment/2026/nov/24/summer-heat-deaths-record-high-england",
+  "https://www.theguardian.com/environment/2026/nov/25/coastal-areas-england-at-risk-erosion-11m-funding-drones-ea",
   "https://www.theguardian.com/law/2026/nov/24/justice-system-failing-victims-at-every-point-uk-ministers-told",
   "https://www.theguardian.com/lifeandstyle/2026/nov/24/thanksgiving-grandmother-text-lifetime",
   "https://www.theguardian.com/media/2026/nov/24/bbc-preschool-shows-cbeebies-hub-netflix",
@@ -988,6 +990,7 @@
   "https://www.theguardian.com/politics/live/2026/nov/24/pip-review-stephen-timms-andy-burnham-disability-welfare-brexit-latest-news-updates",
   "https://www.theguardian.com/society/2026/nov/24/cuts-uk-disability-benefit-risk-worsening-youth-destitution-research-warns",
   "https://www.theguardian.com/society/2026/nov/24/nhs-trusts-to-be-investigated-over-repeated-failures-to-admit-treatment-errors",
+  "https://www.theguardian.com/society/2026/nov/25/england-has-largest-frailty-gap-out-of-31-countries-study-finds",
   "https://www.theguardian.com/sport/live/2026/nov/24/chess-world-championship-gukesh-sindarov-game-1-updates",
   "https://www.theguardian.com/technology/2026/nov/24/china-media-jensen-huang-nvidia-ceo",
   "https://www.theguardian.com/technology/2026/nov/24/donald-trump-nvidia-stock-jensen-huang-stock-market",
@@ -1006,6 +1009,9 @@
   "https://www.theguardian.com/uk-news/2026/nov/24/thomas-markle-indicted",
   "https://www.theguardian.com/uk-news/2026/nov/24/two-arrested-after-suspected-burglary-prince-princess-of-wales-sandringham",
   "https://www.theguardian.com/uk-news/2026/nov/24/under-16s-social-media-ban-disrupt-sites-no-risk-uk-tech-industry",
+  "https://www.theguardian.com/uk-news/2026/nov/25/latest-review-of-met-police-culture-finds-little-has-changed-since-last-one",
+  "https://www.theguardian.com/uk-news/2026/nov/25/metropolitan-police-institutionally-racist-misogynist-fairfield-report",
+  "https://www.theguardian.com/uk-news/2026/nov/25/uk-knife-sales-licensing-scheme",
   "https://www.theguardian.com/us-news/2026/nov/24/climate-scientists-lawmakers-baaja",
   "https://www.theguardian.com/us-news/2026/nov/24/democrat-victoria-broderick-election-win-tennesee-midterms",
   "https://www.theguardian.com/us-news/2026/nov/24/democrats-senate-juliana-stratton",
@@ -1014,6 +1020,7 @@
   "https://www.theguardian.com/us-news/2026/nov/24/fort-hood-shooting-survivors-execution",
   "https://www.theguardian.com/us-news/2026/nov/24/georgia-tech-football-couple-arguing-espn",
   "https://www.theguardian.com/us-news/2026/nov/24/iowa-illinois-missouri-hazardous-bomb-explosion-blast-prep-thanksgiving",
+  "https://www.theguardian.com/us-news/2026/nov/24/kilmar-abrego-garcia-leaves-us",
   "https://www.theguardian.com/us-news/2026/nov/24/mamdani-nvidia-stock-market-ai",
   "https://www.theguardian.com/us-news/2026/nov/24/social-media-not-liable-2022-buffalo-mass-shooting",
   "https://www.theguardian.com/us-news/2026/nov/24/thanksgiving-travel-storms-weather",
