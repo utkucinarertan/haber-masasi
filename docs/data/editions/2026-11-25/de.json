@@ -1,0 +1,799 @@
+{
+ "date": "2026-11-25",
+ "updatedAt": "2026-11-25T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "7a64a3d049f88afc",
+   "overview": "Im Zentrum des deutschen Geschehens stehen heute außenpolitische Debatten, konjunkturelle Signale und innenpolitische Kontroversen. Bundespräsident Steinmeier wirbt in Ghana für ein stärkeres Engagement in Afrika, während Umfragen eine wachsende Zurückhaltung der Bevölkerung bei außenpolitischen Einsätzen zeigen. Konjunkturell hellt sich das ifo-Geschäftsklima zwar auf, doch Sorgen um die Autoindustrie und drohende US-Zölle belasten die Aussichten.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Abschiebeflug nach Kabul von Taliban gestoppt",
+     "summary": "Ein geplanter Abschiebeflug von Deutschland nach Kabul wurde von afghanischer Seite kurzfristig abgesagt. Offenbar wollen die Taliban Druck ausüben, um die Entsendung weiterer Konsularbeamter nach Deutschland durchzusetzen. Die Vorgänge werfen Fragen zum Umgang mit den De-facto-Machthabern auf.",
+     "category": "Innenpolitik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/afghanistan-taliban-abschiebeflug-gestoppt-100.html",
+     "time": "2026-11-24T16:15:31+01:00"
+    },
+    {
+     "title": "Berliner Linke schließt Abgeordnete Emde aus Fraktion aus",
+     "summary": "Wochenlange Debatten in Berlin haben zu einem Konsequenz geführt: Die Linke hat die umstrittene Abgeordnete Vanessa Emde wegen ihrer Positionen zu Israel aus ihrer Fraktion ausgeschlossen. Der Schritt sorgt bei potenziellen Koalitionspartnern für Erleichterung, ruft aber heftigen Widerspruch von Anhängern Emdes hervor.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/emde-ausschluss-berlin-linke-100.html",
+     "time": "2026-11-24T19:47:32+01:00"
+    },
+    {
+     "title": "BKA-Lagebild: Erneuter Anstieg bei häuslicher Gewalt gegen Frauen",
+     "summary": "Laut den aktuellen Lagebildern des Bundeskriminalamtes wurden im vergangenen Jahr rund 198.000 Frauen und Mädchen Opfer von häuslicher Gewalt. Die Behörden bewerten den erneuten Anstieg als zutiefst schockierend. Besonders stark wachsen dabei auch die Fallzahlen im Bereich der digitalen Gewalt.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/gewalt-gegen-frauen-lagebericht-100.html",
+     "time": "2026-11-24T14:31:58+01:00"
+    },
+    {
+     "title": "Polizei vermutet Destabilisierung hinter Drohmails gegen Schulen",
+     "summary": "Die per E-Mail verschickten Bombendrohungen haben zahlreiche Schulen in Deutschland in Aufruhr versetzt. Die Polizei geht von einer gezielten Aktion aus, deren Ziel die Verunsicherung und Destabilisierung der Gesellschaft ist. Die Ermittlungen zu den Hintermännern laufen auf Hochtouren.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/drohmails-schulen-gdp-destabilisierung-100.html",
+     "time": "2026-11-24T19:39:01+01:00"
+    },
+    {
+     "title": "Bundeshaushalt 2027: Klingbeil verteidigt Rekordetat im Bundestag",
+     "summary": "Mit dem Beginn der Haushaltsberatungen im Bundestag hat Finanzminister Klingbeil den geplanten Rekordetat verteidigt. Er verwies auf notwendige Spielräume für wichtige Zukunftsinvestitionen. Aus Reihen der Opposition kommt derweil scharfe Kritik an den Plänen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundeshaushalt-2027-klingbeil-100.html",
+     "time": "2026-11-24T14:10:35+01:00"
+    },
+    {
+     "title": "ifo-Index steigt im November auf höchsten Stand seit Frühjahr 2023",
+     "summary": "Die deutsche Wirtschaft verzeichnet einen anhaltenden Aufschwung. Das ifo-Geschäftsklima hat sich im November den siebten Monat in Folge verbessert und den höchsten Stand seit dem Frühjahr 2023 erreicht. Ökonomen sprechen von klaren Fortschritten bei der konjunkturellen Erholung.",
+     "category": "Konjunktur",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/konjunktur/ifo-geschaeftsklima-110.html",
+     "time": "2026-11-24T11:28:45+01:00"
+    },
+    {
+     "title": "VW und Mercedes: In der Automobilindustrie wackelt die 35-Stunden-Woche",
+     "summary": "Angesichts des anhaltenden Stellenabbaus greifen deutsche Autokonzerne massiv in die Strukturen ein. Im Tarifstreit mit der IG Metall steht nun auch das etablierte Modell der 35-Stunden-Woche auf dem Prüfstand. Beschäftigte müssen sich auf verschärfte Bedingungen einstellen.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/vw-und-mercedes-preschen-vor-in-der-autoindustrie-wackelt-die-35-stundenwoche-a-8bd3a926-6d68-4968-9616-377e9688f170#ref=rss",
+     "time": "2026-11-24T12:02:00+01:00"
+    },
+    {
+     "title": "DAX fällt zurück und Tech-Aktien geraten unter Druck",
+     "summary": "Nach den jüngsten Kursgewinnen machen sich an den Aktienmärkten wieder Zweifel breit. Neben dem taumelnden Chipgiganten Nvidia verzeichnen auch der DAX und weitere Technologiewerte spürbare Verluste. Marktbeobachter warnen vor anhaltender Volatilität.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/finanzen/marktbericht-dax-dow-nvidia-geldanlage-102.html",
+     "time": "2026-11-24T18:36:29+01:00"
+    },
+    {
+     "title": "Ungewisse Zukunft für das VW-Vorzeigewerk in Zwickau",
+     "summary": "Einst stand das Werk in Zwickau symbolisch für die Zukunft der Elektromobilität in Deutschland, heute blickt die gesamte Region mit Sorge auf den Standort. Angesichts sinkender Auslastung und struktureller Probleme ist die Zukunft des Werks völlig offen.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/vw-werk-zwickau-zukunft-100.html",
+     "time": "2026-11-24T12:49:57+01:00"
+    },
+    {
+     "title": "Bilanz des Spendenrats: Spendenvolumen steigt trotz sinkender Spenderzahl",
+     "summary": "Die Deutschen spenden laut der aktuellen Bilanz des Spendenrats insgesamt wieder mehr Geld. Gleichzeitig geht jedoch die Gesamtzahl der Spender zurück. Auffällig ist, dass bestimmte Altersgruppen überdurchschnittlich viel beitragen.",
+     "category": "Gesellschaft",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/spendenrat-bilanz-100.html",
+     "time": "2026-11-24T16:42:18+01:00"
+    },
+    {
+     "title": "Verbraucherschützer gehen rechtlich gegen KI-Brillen vor",
+     "summary": "Deutsche Verbraucherschützer haben juristische Schritte gegen die KI-Brillen von Meta und Ray-Ban eingeleitet. Kritisiert wird vor allem, dass unbemerkt Fotos und Videos von Dritten aufgenommen werden können. Auch den Nutzern drohen in diesem Zusammenhang erhebliche rechtliche Konsequenzen.",
+     "category": "Datenschutz",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/smart-glasses-klage-verbraucherschutz-100.html",
+     "time": "2026-11-24T20:06:34+01:00"
+    },
+    {
+     "title": "KI-Boom verteuert Laptops und Spielkonsolen massiv",
+     "summary": "Die Preise für Computer, Konsolen und andere Elektronikartikel sind im Vergleich zum Vorjahr stark gestiegen. Insbesondere Laptops kosten durch den anhaltenden Bedarf an spezialisierten Komponenten fast 15 Prozent mehr. Der Boom künstlicher Intelligenz schlägt direkt auf den Hardwaremarkt durch.",
+     "category": "Tech-Markt",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/gadgets/laptops-und-spielkonsolen-wegen-ki-deutlich-teurer-a-44b96b25-c4b4-441d-a592-c9e4bc6cf5d1#ref=rss",
+     "time": "2026-11-24T10:56:00+01:00"
+    },
+    {
+     "title": "Studie zeigt: Menschen können KI-generierte Politik-Posts kaum erkennen",
+     "summary": "Eine neue Untersuchung belegt, dass Nutzer nur sehr begrenzt in der Lage sind, zwischen menschlich verfassten und KI-generierten politischen Social-Media-Beiträgen zu unterscheiden. Dies wirft neue Fragen im Hinblick auf Desinformation und digitale Meinungsbildung auf.",
+     "category": "KI & Gesellschaft",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/us-studie-menschen-koennen-kaum-erkennen-wann-politische-posts-ki-generiert-sind-a-333f030c-79cc-48f9-8a72-f18e44d535ad#ref=rss",
+     "time": "2026-11-24T15:39:00+01:00"
+    },
+    {
+     "title": "Anthropic und OpenAI legen fast zeitgleich Beweise für VP ≠ VNP vor",
+     "summary": "Kürzlich nach dem Riemann-Beweis haben Anthropic und OpenAI nun fast zeitgleich mathematische Lösungsansätze für ein jahrzehntealtes Problem der theoretischen Informatik vorgelegt. Die Einreichungen zu VP versus VNP unterstreichen das wissenschaftliche Wettrennen der führenden KI-Labore.",
+     "category": "Forschung",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Mathe-Wettlauf-Anthropic-und-OpenAI-mit-fast-zeitgleichen-Beweisen-fuer-VP-VNP-11536640.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-24T16:35:00+01:00"
+    },
+    {
+     "title": "Verhandlungen über autonome Waffensysteme: Russland blockiert Einigung",
+     "summary": "Bei den Vereinten Nationen dauern die Verhandlungen über international verbindliche Regeln für den Umgang mit autonomen Waffensystemen an. Während 163 Staaten eine Regulierung oder ein Verbot befürworten, blockiert Russland bislang umfassende Vereinbarungen.",
+     "category": "Sicherheitspolitik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Streit-um-Killer-Roboter-Zivilgesellschaft-fordert-eine-Koalition-der-Willigen-11535604.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-24T09:18:00+01:00"
+    },
+    {
+     "title": "BVB erkämpft Remis beim FC Arsenal in der Champions League",
+     "summary": "Borussia Dortmund hat in der Champions League beim Premier-League-Spitzenreiter FC Arsenal einen wichtigen Punkt geholt. Dank eines Treffers von Maximilian Beier und einer geschlossenen kämpferischen Leistung trotzte das Team von Trainer Niko Kovač dem Favoriten ein Unentschieden ab.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/fussball/champions-league-dortmund-punktet-fc-arsenal-maximilian-beier-trifft-a-e5d9487d-3b7e-4256-a911-c5e89b58c0cf#ref=rss",
+     "time": "2026-11-24T23:43:00+01:00"
+    },
+    {
+     "title": "RB Leipzig hält dem Druck stand und schlägt RC Lens mit 3:1",
+     "summary": "Mit einem harten, aber verdienten 3:1-Erfolg gegen RC Lens hat sich RB Leipzig in der Champions League Luft verschafft. Die Sachsen starteten druckvoll, mussten nach einer Aufholjagd der Gäste aber bis in die Nachspielzeit zittern, ehe der Sieg feststand.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/championsleague/rb-leipzig-haelt-dem-druck-gegen-rc-lens-stand,spielbericht-leipzig-lens-100.html",
+     "time": "2026-11-24T23:48:33+01:00"
+    },
+    {
+     "title": "Eisbären Berlin deklassieren Schlusslicht Löwen Frankfurt",
+     "summary": "Die Eisbären Berlin haben ihre Tabellenführung in der Deutschen Eishockey Liga mit einem Kantersieg gegen die Löwen Frankfurt untermauert. Der amtierende Spitzenreiter feierte dabei im dritten Spiel innerhalb weniger Tage seinen höchsten Saisonsieg.",
+     "category": "Eishockey",
+     "topic": "spor",
+     "importance": 2,
+     "source": "kicker",
+     "url": "https://www.kicker.de/drei-punkte-fuer-ronning-und-wissmann-eisbaeren-deklassieren-schlusslicht-frankfurt-1274745/video#omrss",
+     "time": "2026-11-24T22:28:11+00:00"
+    },
+    {
+     "title": "VfL Gummersbach feiert klaren Sieg in der European League",
+     "summary": "Der VfL Gummersbach hat in der European League einen deutlichen Erfolg gegen Logrono eingefahren. Dank einer Leistungssteigerung in der zweiten Hälfte setzte sich der Bundesligist klar durch und bleibt auf Playoff-Kurs.",
+     "category": "Handball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-vfl-gummersbach-feiert-dritten-sieg-der-gruppenphase-100.html",
+     "time": "2026-11-24T23:08:42+01:00"
+    },
+    {
+     "title": "Bayern-Basketballer geben Führung aus der Hand und unterliegen Tel Aviv",
+     "summary": "Die Basketballer des FC Bayern München haben in der EuroLeague eine schmerzhafte 79:87-Niederlage gegen Maccabi Tel Aviv hinnehmen müssen. Nach einer lange Zeit stabilen Leistung brach das Team im Schlussviertel ein und gab den Sieg noch aus der Hand.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "kicker",
+     "url": "https://www.kicker.de/bayern-gegen-m-tel-aviv-2026-euroleague-5250061/spielbericht#omrss",
+     "time": "2026-11-24T21:00:54+00:00"
+    },
+    {
+     "title": "70 Jahre Deutscher Presserat: Julia Klöckner warnt vor „Wettbewerb der Empörung“",
+     "summary": "Beim Festakt zum 70-jährigen Bestehen des Deutschen Presserats hat Bundestagspräsidentin Julia Klöckner ihre Sorge über den Zustand der öffentlichen Debatte geäußert. Sie warnte die Medien eindringlich vor einem ausufernden „Wettbewerb der Empörung“.",
+     "category": "Medienpolitik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/kloeckner-warnt-vor-wettbewerb-der-empoerung-201713544.html",
+     "time": "2026-11-24T21:31:52+00:00"
+    },
+    {
+     "title": "International Emmy Awards: Deutsche True-Crime-Doku ausgezeichnet",
+     "summary": "Bei der Verleihung der International Emmys in New York konnte sich auch eine deutsche Produktion freuen. Die True-Crime-Dokumentation über die Jagd nach einem Filmdiebstahl wurde mit einem Preis ausgezeichnet.",
+     "category": "Film & Fernsehen",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/tv/emmy-awards-deutsche-true-crime-doku-der-talentierte-mr-f-ausgezeichnet-a-894a796c-9310-4203-9d53-07af1166a0eb#ref=rss",
+     "time": "2026-11-24T05:11:00+01:00"
+    },
+    {
+     "title": "Schlesinger-Prozess: Unternehmensberater stützt RBB-Bonuspraxis",
+     "summary": "Im Prozess gegen die ehemalige RBB-Intendantin Patricia Schlesinger hat ein als Zeuge geladener Unternehmensberater die damalige Vorgehensweise verteidigt. Demnach sei man beim Rundfunk Berlin-Brandenburg über das eingeführte Bonussystem seinerzeit sehr angetan gewesen.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/berater-in-schlesinger-prozess-rbb-boni-waren-rechtens-201713487.html",
+     "time": "2026-11-24T15:41:56+00:00"
+    },
+    {
+     "title": "Nele Pollatscheks neues Buch: Wege zum positiven Blick auf die Welt",
+     "summary": "In ihrem Buch „Wie ich so glücklich wurde“ widmet sich die Autorin Nele Pollatschek den Vorzügen einer optimistischen Grundhaltung. Dabei reflektiert sie humorvoll und kritisch über die Frage, ob eine positive Weltsicht tatsächlich glücklicher macht.",
+     "category": "Literatur",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/kultur/literatur/wie-ich-so-gluescklich-wurde-so-beschreibt-nele-pollatschek-ihr-weg-zum-glueck-a-18c5c4a0-fd4c-439a-897e-a541efd3298e#ref=rss",
+     "time": "2026-11-24T20:21:00+01:00"
+    },
+    {
+     "title": "YouTube zeichnet viralen Song „Gut genug“ doppelt aus",
+     "summary": "Der gemeinsame Song von Kitschkrieg, Blumengarten und Shirin David hat weltweit Millionen erreicht. Nun wurden die Künstler von YouTube für das Musikvideo des Jahres ausgezeichnet, das über 73 Millionen Mal aufgerufen wurde.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/vermischtes/article6b061e2acd4642ba2eb179b9/musikvideo-des-jahres-youtube-zeichnet-viralen-song-gut-genug-doppelt-aus.html",
+     "time": "2026-11-24T23:56:26+00:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "e60c9b788da253d5",
+   "overview": "Die türkische Presselandschaft berichtet heute vor allem über militärische Verluste, umfassende behördliche Umstrukturierungen sowie internationale Sponsorenerfolge. Der Absturz eines Militärhelikopters in Eskişehir mit fünf Todesfällen erschütterte das Land, während ein neues Dekret zahlreiche Gouverneursposten neu besetzte. Im Sport sorgten unterdessen der Champions-League-Sieg von Galatasaray und die Glanzleistung von Arda Güler bei Real Madrid für Schlagzeilen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Militärhelikopter in Eskişehir abgestürzt: Fünf Soldaten getötet",
+     "summary": "Ein Hubschrauber des Typs AS-532 der türkischen Luftstreitkräfte ist bei einem Trainingsflug in Eskişehir abgestürzt. Bei dem Unglück kamen fünf Soldaten ums Leben. Das Verteidigungsministerium sprach sein Beileid aus.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cm792qzv12wjo",
+     "time": "2026-11-24T21:47:21+00:00"
+    },
+    {
+     "title": "Im Amtsblatt veröffentlicht: Gouverneure in 41 Provinzen ausgewechselt",
+     "summary": "Per Dekret von Staatspräsident Recep Tayyip Erdoğan wurden die Gouverneure in 41 Provinzen neu ernannt, während 14 Amtsinhaber in die Zentrale versetzt wurden. Unter anderem gab es Wechsel in Großstädten wie Izmir, Gaziantep und Hatay.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/son-dakika-valiler-kararnamesi-yayimlandi-2086069",
+     "time": "2026-11-25T00:02:00+03:00"
+    },
+    {
+     "title": "Früherer CHP-Vorsitzender Hikmet Çetin mit 89 Jahren gestorben",
+     "summary": "Der ehemalige Parlamentspräsident, Außenminister und CHP-Vorsitzende Hikmet Çetin ist im Alter von 89 Jahren in einem Istanbuler Krankenhaus verstorben. Çetin war während seiner politischen Laufbahn unter anderem auch als erster ziviler NATO-Beauftragter in Afghanistan tätig.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/tbmm-eski-başkanı-ve-chp-eski-genel-başkanı-hikmet-çetin-89-yaşında-hayatını-kaybetti/a-80036626",
+     "time": "2026-11-24T15:41:00+00:00"
+    },
+    {
+     "title": "Frühere Ministerin Fatma Betül Sayan Kaya unter Hausarrest freigelassen",
+     "summary": "Die im Zuge von Finanzermittlungen inhaftierte ehemalige Ministerin für Familie und Soziales, Fatma Betül Sayan Kaya, ist unter Auflagen des Hausarrests aus der Haft entlassen worden. Sie war Anfang November nach einer erneuten Anhörung in Untersuchungshaft genommen worden.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Agos",
+     "url": "https://www.agos.com.tr/tr/haber/eski-bakan-fatma-betul-sayan-kaya-ev-hapsi-sartiyla-tahliye-edildi-42605",
+     "time": "2026-11-24T13:30:00+03:00"
+    },
+    {
+     "title": "Libyscher Machthaber Khalifa Haftar zu Besuch in der Türkei",
+     "summary": "Berichten der Nachrichtenagentur Reuters zufolge ist der ostlibysche Machthaber Khalifa Haftar in Ankara eingetroffen. Der Besuch fällt in eine Phase kurz vor einer geplanten Reise von Staatspräsident Erdoğan nach Tripolis.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/24/reuters-libyanin-dogusunu-kontrol-eden-hafter-turkiyede",
+     "time": "2026-11-24T17:33:02+01:00"
+    },
+    {
+     "title": "EU verhängt vorläufige Quoten für Hybridautos: Auch Türkei betroffen",
+     "summary": "Die Europäische Union wird ab dem 1. Dezember vorläufige Importquoten für Hybridfahrzeuge aus mehreren Ländern einführen, darunter auch die Zollunion-Partnerin Türkei sowie China, die USA und Japan.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/24/abden-hibrit-otomobillere-gecici-kota-turkiye-de-kapsamda",
+     "time": "2026-11-24T19:14:29+01:00"
+    },
+    {
+     "title": "Kraftstoffpreise vor dem Wechsel: Erst Preissenkung, dann Steuererhöhung erwartet",
+     "summary": "Aufgrund sinkender internationaler Produktpreise wird zunächst mit einem Preisrückgang bei Benzin und Diesel gerechnet. Zum 1. Dezember steht jedoch eine inflationsbedingte Aktualisierung der Verbrauchssteuer an, die an den Zapfsäulen zu Preiserhöhungen führen dürfte.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/benzin-ve-motorine-indirim-ne-zaman-gelecek-1-aralik-akaryakit-otv-2086070",
+     "time": "2026-11-25T00:03:02+03:00"
+    },
+    {
+     "title": "Obergrenze für Kfz-Steuerbefreiung von Menschen mit Behinderungen für 2027 im Blick",
+     "summary": "Gemäß der Neubewertungsrate wird die Obergrenze für die Steuerbefreiung beim Autokauf für Menschen mit Behinderungen im Jahr 2027 voraussichtlich auf 3.673.706 Türkische Lira steigen. Die Regelung soll zum Jahresbeginn in Kraft treten.",
+     "category": "Steuern",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/2027-engelli-arac-limiti-ne-kadar-okdu-yeni-otv-muafiyeti-ust-siniri-ve-sartlari-2558993",
+     "time": "2026-11-24T15:50:00+03:00"
+    },
+    {
+     "title": "Im Amtsblatt veröffentlicht: Papierbon-Praxis abgeschafft",
+     "summary": "Mit einer im Amtsblatt veröffentlichten Neuregelung wurde die klassische Papierbon-Praxis im Rahmen elektronischer Belegverfahren abgeschafft. Für Unternehmen und den Handel gelten damit aktualisierte Vorgaben.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/resmi-gazete-de-yayimlandi-kagit-fis-uygulamasi-kaldirildi-2558979",
+     "time": "2026-11-24T15:34:00+03:00"
+    },
+    {
+     "title": "Commerzbank veröffentlicht Prognosen für USD/TRY und Edelmetalle für 2027",
+     "summary": "Die Commerzbank rechnet damit, dass der Druck auf die Türkische Lira auch im Jahr 2027 anhalten wird, und hat eine entsprechende Prognose für den Dollar-Kurs vorgelegt. Zudem äußerte sich das Geldhaus zu den Aussichten für Gold und Silber.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/commerzbank-tan-dolar-tl-tahmini-2027-de-ne-kadar-olacak-2558958",
+     "time": "2026-11-24T14:43:00+03:00"
+    },
+    {
+     "title": "Europäische Union nimmt Türkei in Hybridauto-Quoten auf",
+     "summary": "Zur Schutzmaßnahme für heimische Hersteller hat die Europäische Union die Zollunion-Partnerin Türkei in die neuen Importquoten für Hybridfahrzeuge einbezogen, die auch für China und andere Staaten gelten.",
+     "category": "Automotive",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/avrupa-birligi-turkiye-hibrit-otomobil-kotasi-getirdi-h229402.html",
+     "time": "2026-11-24T18:35:06+03:00"
+    },
+    {
+     "title": "GTA 6 nach Veröffentlichung mit Beschwerden konfrontiert",
+     "summary": "Nach dem lang erwarteten Verkaufsstart des Videospiels GTA 6 gingen bei Verbraucherportalen zahlreiche Beschwerden ein. Spieler, die hohe Summen gezahlt hatten, beklagten Lieferprobleme, Kontosicherheit und Schwierigkeiten bei Rückerstattungen.",
+     "category": "Digitale Welt",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-6-piyasaya-cikti-sikayetler-pes-pese-geldi-binlerce-lira-odeyen-oyuncular-magdur-2558881",
+     "time": "2026-11-24T11:21:00+03:00"
+    },
+    {
+     "title": "Amazon übernimmt KI-Optimierungstechnologie von Decart",
+     "summary": "Der US-Technologieriese Amazon hat sich mit dem KI-Start-up Decart AI auf eine Übernahme geeinigt. Im Zuge der Vereinbarung wechseln die Gründer und Ingenieursteams in die Künstliche-Intelligenz-Forschung von Amazon.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/amazon-decart-in-yapay-zeka-optimisasyon-teknolojisini-satin-aliyor-2559090",
+     "time": "2026-11-24T22:13:00+03:00"
+    },
+    {
+     "title": "Studie: Kurze Spaziergänge über den Tag verteilt regulieren Blutzucker besser",
+     "summary": "Aktuellen Forschungsergebnissen zufolge sind über den Tag verteilte, kurze Spaziergänge effektiver bei der Blutzuckerregulierung als eine gleich lange Trainingseinheit am Stück.",
+     "category": "Gesundheit",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gun-icinde-yapilan-kisa-yuruyusler-kan-sekerinin-duzenlenmesinde-etkili-2559085",
+     "time": "2026-11-24T22:02:00+03:00"
+    },
+    {
+     "title": "Euclid-Teleskop entdeckt Milliarden Jahre alten Quasar",
+     "summary": "Das Weltraumteleskop Euclid der Europäischen Weltraumorganisation ESA hat einen Quasar entdeckt, der rund 13,1 Milliarden Jahre nach dem Urknall existierte. Die Entdeckung liefert wichtige Daten über das frühe Universum.",
+     "category": "Weltraum",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Diken",
+     "url": "https://www.diken.com.tr/rekor-euclid-teleskobu-131-milyar-yillik-kuasar-buldu/?utm_source=rss&utm_medium=rss&utm_campaign=rekor-euclid-teleskobu-131-milyar-yillik-kuasar-buldu",
+     "time": "2026-11-25T03:58:39+00:00"
+    },
+    {
+     "title": "Arda Güler glänzt mit Vorlagen in der Champions League: Real Madrid siegt",
+     "summary": "In der UEFA Champions League hat Real Madrid PSV Eindhoven mit 5:1 geschlagen. Der türkische Nationalspieler Arda Güler stand in der Startelf und trug mit zwei sehenswerten Torvorlagen maßgeblich zum Erfolg bei.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/spor-haberleri/arda-gulerden-sampiyonlar-liginde-asist-sov-real-madrid-psvyi-5-golle-2086075",
+     "time": "2026-11-25T02:10:52+03:00"
+    },
+    {
+     "title": "Galatasaray gelingt Champions-League-Premieren nach 25 Jahren",
+     "summary": "Durch den 1:0-Sieg gegen Aston Villa in der Ligaphase der UEFA Champions League hat Galatasaray zum ersten Mal seit Februar 2001 zwei Europapokalspiele in Folge ohne Gegentor gewonnen.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/galatasaray-dan-sampiyonlar-ligi-nde-25-yil-sonra-bir-ilk-2559122",
+     "time": "2026-11-24T23:47:00+03:00"
+    },
+    {
+     "title": "Fenerbahçe Medicana und Eczacıbaşı starten mit klaren Siegen in Europa",
+     "summary": "Zum Auftakt der Gruppenphase in der CEV Champions League der Frauen bezwangen Fenerbahçe Medicana den Gegner Vasas Obuda und Eczacıbaşı Peron İstanbul das Team Tent Obrenovac jeweils mit 3:0 Sätzen.",
+     "category": "Volleyball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-medicana-sampiyonlar-ligi-ne-galibiyetle-basladi-2559088",
+     "time": "2026-11-24T22:12:00+03:00"
+    },
+    {
+     "title": "Operation nach Aston-Villa-Tor: Denails Gül fällt aus",
+     "summary": "Nach seinem Treffer im Spiel gegen Aston Villa wurde bekannt gegeben, dass Deniz Gül operiert werden muss. Der Stürmer wird damit für das anstehende Derby gegen Beşiktaş ausfallen.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/besiktas-maci-oncesi-ameliyat-karari-deniz-gul-un-son-durumu-belli-oldu-2559128",
+     "time": "2026-11-25T00:17:00+03:00"
+    },
+    {
+     "title": "Unai Emery kritisiert Schiedsrichter nach Niederlage gegen Galatasaray",
+     "summary": "Aston-Villa-Cheftrainer Unai Emery hat nach der 0:1-Niederlage gegen Galatasaray Schiedsrichterentscheidungen kritisiert. Er äußerte die Ansicht, dass die Unparteiischen nicht fair agiert hätten.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/unai-emery-den-galatasaray-maci-sonrasi-hakem-tepkisi-adil-davrandigini-dusunmuyorum-2559125",
+     "time": "2026-11-25T00:06:00+03:00"
+    },
+    {
+     "title": "Türkische Serie 'Leyla: Hayat... Aşk... Adalet...' gewinnt International Emmy",
+     "summary": "Die von Ay Yapım produzierte Serie 'Leyla: Hayat... Aşk... Adalet...' wurde bei den 54. International Emmy Awards in der Kategorie 'Telenovela' ausgezeichnet. Das Produktionsteam nahm den Preis in New York entgegen.",
+     "category": "Fernsehen",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/24/leyla-hayat-ask-adalet-dizisi-uluslararasi-emmy-odulu-kazandi",
+     "time": "2026-11-24T12:11:48+01:00"
+    },
+    {
+     "title": "Aus Anatolien entwendete historische Artefakte kehren aus den USA zurück",
+     "summary": "Rund 100 historische Kulturgüter, darunter bronzene Statuen aus römischer Zeit aus der antiken Stadt Bubon, wurden aus den USA an die Türkei übergeben. Analysen und historische Aufzeichnungen spielten dabei eine entscheidende Rolle.",
+     "category": "Archäologie",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/24/anadoludan-kacirilan-100-tarihi-eser-abdden-turkiyeye-dondu",
+     "time": "2026-11-24T09:31:21+01:00"
+    },
+    {
+     "title": "Rapper Macklemore veröffentlicht Song zur Unterstützung von Palästina",
+     "summary": "Der US-amerikanische Rapper Macklemore hat seinen neuen Song 'Where's Our Love' veröffentlicht, der sich mit den Angriffen auf den Gazastreifen auseinandersetzt. Der Künstler kündigte an, alle Einnahmen an Familien vor Ort zu spenden.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/macklemore-dan-filistin-e-destek-icin-yeni-sarki-tum-gelirini-gazze-ye-bagislayacak-2559009",
+     "time": "2026-11-24T16:12:00+03:00"
+    },
+    {
+     "title": "Istanbuler Staatsorchester gibt Konzert zum Tag der Lehrer",
+     "summary": "Das Istanbuler Staatssinfonieorchester veranstaltet zu Ehren des Tags der Lehrer ein Gedenkkonzert im Atatürk Kulturzentrum für die frühere Konzertmeisterin Gülden Turalı, geleitet von Dirigent Rengim Gökmen.",
+     "category": "Konzert",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/idso-nun-ogretmen-gunu-konseri-gulden-turali-anisina-2558938",
+     "time": "2026-11-24T13:40:00+03:00"
+    },
+    {
+     "title": "Ausstellung 'Jedes Motiv eine Zivilisationsgeschichte' eröffnet",
+     "summary": "Eine Ausstellung, die das kulturelle Erbe der Hethiter mit Kunst verbindet, präsentiert in Istanbul rund 100 handgefertigte Werke von Frauen.",
+     "category": "Ausstellung",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/her-motif-bir-medeniyet-2558936",
+     "time": "2026-11-24T13:34:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "f8cb6fa54d76819e",
+   "overview": "Das Weltgeschehen wird von den Plänen der USA für neue Zölle im Welthandel und den politischen Nachwirkungen der Führungskrise beim Chipriesen Nvidia bestimmt. Während der Krieg in der Ukraine und sich ausweitende Konflikte die internationale Diplomatie belasten, sorgen wirtschaftliche Unsicherheiten und Inflationsdruck weltweit für Sorge. In Kultur und Sport stehen derweil Rekorde von Großproduktionen und spannende internationale Turniere im Mittelpunkt.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Amnesty fordert IStGH-Völkermordermittlung zu Israels Auswirkungen auf Geburten in Gaza",
+     "summary": "Amnesty International fordert den Internationalen Strafgerichtshof auf zu untersuchen, ob israelische Behörden in Gaza einen Völkermord begangen haben. Die Organisation verweist auf Maßnahmen, die Geburten verhindert und die reproduktive Gesundheit von Frauen schwer geschädigt haben. Es gebe ernsthafte Bedenken bezüglich einer möglichen Absicht, auch wenn noch kein definitives Urteil gefällt werden könne.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/middle-east/20261125-amnesty-calls-for-icc-genocide-probe-over-israel-s-impact-on-births-in-gaza",
+     "time": "2026-11-25T04:01:48+00:00"
+    },
+    {
+     "title": "Kolumbiens Präsident reist zum Schauplatz einer Geiselnahme in einem Supermarkt",
+     "summary": "Kolumbiens Präsident ist am Ort einer stundenlangen Geiselnahme in einer touristischen Stadt eingetroffen. Bewaffnete halten in einem Supermarkt in Cartagena mindestens 20 Menschen fest, während Sicherheitskräfte die Operation leiten. Die Wagenkolonne des Präsidenten traf am Dienstag vor Ort ein.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/25/cartagena-colombia-hostages-supermarket",
+     "time": "2026-11-25T03:57:11+00:00"
+    },
+    {
+     "title": "China leitet Untersuchung gegen Shanghaier Parteichef Chen Jining ein",
+     "summary": "Chinas staatliche Nachrichtenagentur hat unerwartet eine Untersuchung gegen den Parteichef von Shanghai, Chen Jining, angekündigt. Chen ist Mitglied des Politbüros und damit der vierte hochrangige Spitzenfunktionär, gegen den seit 2025 ermittelt wird. Der Schritt gilt als Teil einer anhaltenden Säuberungswelle in der Parteiführung.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/25/china-investigates-politburo-star-chen-jining-xi-jinping-purge",
+     "time": "2026-11-25T01:31:46+00:00"
+    },
+    {
+     "title": "Ukraine fordert 115 Milliarden Euro an Auslandshilfe für das Jahr 2027",
+     "summary": "Der ukrainische Präsident Wolodymyr Selenskyj hat erklärt, dass die Ukraine im kommenden Jahr 115 Milliarden Euro an externer Finanzierung benötigt. Damit sollen die Wirtschaft und der Kriegseinsatz aufrechtzuerhalten werden. Kiew habe bereits Zusagen über rund 90 Milliarden Euro von der Europäischen Union erhalten.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/europe/20261125-ukraine-seeks-%E2%82%AC115-billion-in-foreign-aid-for-2027-zelensky-says",
+     "time": "2026-11-25T01:19:31+00:00"
+    },
+    {
+     "title": "EGMR-Urteil: Pushbacks an der Grenze zu Belarus teilweise zulässig",
+     "summary": "Der Europäische Gerichtshof für Menschenrechte hat entschieden, dass EU-Staaten Migranten an der Grenze abweisen dürfen, wenn ein Drittstaat Migration gezielt als Druckmittel einsetzt. Dies gilt, sofern die Betroffenen nicht besonders schutzbedürftig sind. Dennoch müssen die Grundrechte der Menschen gewahrt bleiben.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/egmr-pushbacks-belarus-100.html",
+     "time": "2026-11-24T17:24:25+01:00"
+    },
+    {
+     "title": "US-Medienberichte: Trump plant offenbar neue Zölle - auch gegen die EU",
+     "summary": "Die US-Regierung bereitet offenbar neue Zölle gegenüber China, der EU und weiteren Ländern vor. Der Schritt erfolgt, nachdem vorherige Zölle vom Supreme Court als illegal eingestuft wurden. Damit droht ein neuer Handelskonflikt zwischen den Verbündeten.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-122.html",
+     "time": "2026-11-25T05:08:29+01:00"
+    },
+    {
+     "title": "Australiens Inflation steigt auf 4,9 Prozent: Ein sehr ernsthafter Moment",
+     "summary": "Die Inflationsrate in Australien ist im Jahr bis Oktober auf 4,9 Prozent gestiegen, nach 4,3 Prozent im September. Damit liegt sie fast doppelt so hoch wie das offizielle Ziel der Reserve Bank von 2,5 Prozent. Finanzminister Jim Chalmers sprach angesichts der Lebenshaltungskrise von einem sehr ernsthaften Moment für die Wirtschaft.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/business/2026/nov/25/inflation-rate-australia-october-figures",
+     "time": "2026-11-25T03:55:50+00:00"
+    },
+    {
+     "title": "Tech-Abverkauf nach Jensen Huangs Nvidia-Rückkehr: Euphorie weicht Vorsicht",
+     "summary": "Technologieaktien führten am Dienstag einen Marktrückgang an, da die Euphorie über die rasche Rückkehr von Jensen Huang zu Nvidia nachließ. Anleger bereiten sich auf anhaltende Volatilität im wichtigen KI-Sektor vor. Die Governance-Risiken rund um die Personalie sorgen für Verunsicherung an den Börsen.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/24/nvidia-stock-falls-jensen-huang",
+     "time": "2026-11-24T22:05:21+00:00"
+    },
+    {
+     "title": "EU verhängt im kommenden Monat Obergrenze für chinesische Hybrid-E-Autos",
+     "summary": "Die Europäische Kommission hat angekündigt, im nächsten Monat befristete Einfuhrquoten für chinesische Hybridfahrzeuge in den Block zu verhängen. Die Quoten gelten auch für Autos aus Japan, der Türkei, Südkorea und Großbritannien. Hauptzweck der Maßnahme ist es jedoch, die Importe aus China zu begrenzen.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/24/eu-cap-chinese-hybrid-ev-imports-tariff-uk",
+     "time": "2026-11-24T10:59:40+00:00"
+    },
+    {
+     "title": "Anzahl der US-Schulbusfahrer sinkt wegen niedriger Löhne und schlechter Bedingungen",
+     "summary": "Die Zahl der Schulbusfahrer in den USA ist im vergangenen Jahr um fünf Prozent zurückgegangen, wie ein neuer Bericht zeigt. Grund dafür sind anhaltend niedrige Löhne, schlechte Arbeitsbedingungen und gekürzte Schulbudgets. Im Vergleich zu 2019 ist die Gesamtzahl um 15 Prozent gesunken.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/education/2026/nov/24/school-bus-driver-decline-budget",
+     "time": "2026-11-24T11:00:45+00:00"
+    },
+    {
+     "title": "Huawei in New York wegen Diebstahls von Geschäftsgeheimnissen verurteilt",
+     "summary": "Nach einem monatelangen Prozess in New York hat eine Geschworenenjury den chinesischen Telekommunikationsriesen Huawei des Diebstahls von Geschäftsgeheimnissen schuldig gesprochen. Vom Vorwurf der Bildung einer kriminellen Vereinigung wurde das Unternehmen jedoch freigesprochen. Das Urteil ist ein weiterer Meilenstein in den US-Bemühungen, die Operationen des Konzerns einzuschränken.",
+     "category": "Cyberkriminalität",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
+     "time": "2026-11-25T02:59:27+00:00"
+    },
+    {
+     "title": "Technische Probleme legen Hälfte von NDCs gealterter Mars-Flotte lahm",
+     "summary": "Die Hälfte von NDCs alternder Raumschiff-Flotte auf dem Mars ist durch technische Probleme ausgefallen. Der Rover Perseverance hat Schwierigkeiten bei der Datenübertragung zur Erde, während der Orbiter Odyssey schnell seine schwindenden Treibstoffreserven aufbraucht. Dies schränkt die Forschungsmissionen erheblich ein.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/half-of-nasas-aging-mars-fleet-knocked-offline-by-technical-issues/",
+     "time": "2026-11-24T22:50:11+00:00"
+    },
+    {
+     "title": "Tidal bannt vollständig KI-generierte Musik: 27 Millionen Titel werden gelöscht",
+     "summary": "Die Musikstreaming-Plattform Tidal hat angekündigt, ab dem 9. Dezember vollständig KI-generierte Musik zu verbannen. Obwohl KI-Songs rund 6,3 Prozent des Katalogs ausmachen, wird dieser Anteil auf null reduziert. Damit reagiert das Unternehmen auf Urheberrechts- und Qualitätsdebatten.",
+     "category": "KI",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/ai/2026/11/tidal-will-ban-fully-ai-generated-music-on-december-9/",
+     "time": "2026-11-24T17:34:34+00:00"
+    },
+    {
+     "title": "Amazon-Drohne stürzt nach Lieferung auf Garage: FAA leitet Untersuchung ein",
+     "summary": "Nachdem eine Amazon-Lieferdrohne ein Kabel touchiert und auf eine Garage gestürzt ist, hat die US-Luftfahrtbehörde FAA eine Untersuchung eingeleitet. Der Unfall passierte während der Zustellung von Shampoo. Amazon betonte, im Jahr 2026 Hunderttausende erfolgreiche Lieferungen durchgeführt zu haben.",
+     "category": "Gadgets",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/gadgets/2026/11/faa-opens-probe-after-amazon-delivery-drone-clips-cable-crashes-into-garage/",
+     "time": "2026-11-24T18:47:57+00:00"
+    },
+    {
+     "title": "Kalshi stoppt nach verlorenen Gerichtsverfahren den Handel in Utah",
+     "summary": "Die Prognosemarkt-Plattform Kalshi hat nach verlorenen juristischen Auseinandersetzungen den Handel im US-Bundesstaat Utah eingestellt. Die Entscheidung wurde von Kritikern begrüßt, die zuvor die aggressive Werbung und Bedenken hinsichtlich Insiderhandels auf der Plattform kritisiert hatten.",
+     "category": "Regulierung",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/kalshi-files-to-halt-trading-out-of-utah",
+     "time": "2026-11-24T18:03:58+00:00"
+    },
+    {
+     "title": "Champions League: Real Madrid schlägt PSV mit 5:1, Manchester City Remis gegen Napoli",
+     "summary": "Real Madrid hat seine Siegesserie in der Champions League mit einem 5:1-Comeback-Sieg gegen PSV Eindhoven ausgebaut. Jude Bellingham erzielte ein spektakuläres Tor, während Kylian Mbappé doppelt traf. Manchester City kam indes gegen Napoli nur zu einem 2:2-Unentschieden, und Arsenal spielte 1:1 gegen Borussia Dortmund.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/sport/20261124-champions-league-real-madrid-thrash-psv-5-1-in-comeback-win-as-manchester-city-held-by-napoli",
+     "time": "2026-11-24T22:59:39+00:00"
+    },
+    {
+     "title": "Schach-Weltmeisterschaft: Auftaktpartie zwischen Gukesh und Sindarov endet remis",
+     "summary": "Der indische Schachstar Gukesh Dommaraju und Javokhir Sindarov haben die erste Partie ihres Weltmeisterschaftskampfes nach 38 Zügen remis beendet. Gukesh musste dabei eine kritische Zeitnotphase überstehen. In der zweiten Partie wird Sindarov mit den weißen Steinen spielen.",
+     "category": "Schach",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/24/gukesh-sindarov-world-chess-championship-2026-game-1-draw",
+     "time": "2026-11-24T20:04:00+00:00"
+    },
+    {
+     "title": "Matildas-Torhüterin Teagan Micah überwindet neurologische Störung nach Kopfverletzung",
+     "summary": "Die australische Torhüterin Teagan Micah stand nach einer Gehirnerschütterung im März vor dem Karriereende. Bei der 29essigjährigen wurde eine autonome Dysfunktion diagnostiziert, die sie jedoch mit Hilfe internationaler Spezialisten überwand. Mittlerweile steht sie wieder auf dem Platz.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/matildas-goalkeeper-teagan-micah-neurological-disorder-head-trauma",
+     "time": "2026-11-25T03:46:28+00:00"
+    },
+    {
+     "title": "Weltranglistenzweiter Jannik Sinner nach Knie-Operation im Reha-Modus",
+     "summary": "Der italienische Tennisspieler Jannik Sinner hat sich kurz vor Beginn der Australian Open im Januar einem kleineren Eingriff am Knie unterzogen. Der Weltranglistenzweite erklärte, er vermisse es, auf dem Platz zu stehen. Die Reha soll planmäßig verlaufen.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/tennis/articles/cxlylr3p4q8mo",
+     "time": "2026-11-24T18:00:06+00:00"
+    },
+    {
+     "title": "Irlands Interims-Kapitän Dan Sheehan nach Sperre für Testspiel gegen Australien out",
+     "summary": "Der irische Interims-Kapitän Dan Sheehan wurde nach einer gefährlichen Aktion im Spiel gegen Südafrika für zwei Spiele gesperrt. Damit verpasst er das bevorstehende Testspiel gegen Australien am Freitagabend. Die Mannschaft muss ohne ihren Führungsspieler auskommen.",
+     "category": "Rugby",
+     "topic": "spor",
+     "importance": 1,
+     "source": "BBC Sport",
+     "url": "https://www.bbc.co.uk/sport/rugby-union/articles/c32l5kp7evkxo",
+     "time": "2026-11-24T17:32:43+00:00"
+    },
+    {
+     "title": "Polizei untersucht möglichen Zusammenhang zwischen Konzertevakuierung und Raubtaten",
+     "summary": "Die britische Polizei untersucht einen möglichen Zusammenhang zwischen der Evakuierung der Konzerthalle Co-op Live und gemeldeten Raubüberfällen. Die Halle musste während einer Veranstaltung geräumt werden. Die Ermittlungen zu den Vorfällen dauern an.",
+     "category": "Kulturpolitik",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cqrmgvnzwrm3o",
+     "time": "2026-11-24T22:01:30+00:00"
+    },
+    {
+     "title": "Robert Pattinson wird offiziell als neuer James Bond besetzt",
+     "summary": "Nach Jahren der Spekulationen steht fest: Robert Pattinson übernimmt die Rolle des James Bond in einem neuen, von Denis Villeneuve inszenierten Film. Ein genauer Kinostart steht noch aus, ein Release im Herbst 2028 gilt jedoch als wahrscheinlich.",
+     "category": "Film",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/film/2026/nov/24/who-next-bond-girl-robert-pattinson",
+     "time": "2026-11-24T10:00:13+00:00"
+    },
+    {
+     "title": "Grand Theft Auto VI bricht alle Streaming- und Verkaufsrekorde",
+     "summary": "Grand Theft Auto VI ist in der vergangenen Woche als der größte Videospiel-Launch aller Zeiten gestartet. Spieler und Content-Creator haben bereits hunderte Millionen Stunden an Videomaterial produziert. Aktuellen Schätzungen zufolge spielen mindestens 30 Millionen Menschen den Titel.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/games/2026/nov/24/gta-vi-streaming-numbers-charts",
+     "time": "2026-11-24T13:00:46+00:00"
+    },
+    {
+     "title": "BBC und Netflix starten gemeinsamen CBeebies-Hub auf der Streaming-Plattform",
+     "summary": "In einer limitierten Testphase bringen BBC und Netflix erstmals einen eigenen CBeebies-Hub auf den Streaming-Dienst. Das Angebot umfasst 24 ausgewählte Kinderprogramme. Damit weiten die beiden Medienhäuser ihre Zusammenarbeit aus.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/c9zr585dxkgzo",
+     "time": "2026-11-24T13:05:09+00:00"
+    },
+    {
+     "title": "Pop-Duo Bros kündigt erste Tournee seit einem Jahrzehnt an",
+     "summary": "Das britische Pop-Duo Bros kehrt für eine Konzertreihe auf die Bühne zurück. Im Jahr 2027 ist eine Tour mit zehn Stationen geplant, darunter ein Auftritt in der Wembley Arena. Es ist die erste gemeinsame Tournee der Zwillinge seit zehn Jahren.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cklylrldzqm4o",
+     "time": "2026-11-24T12:31:16+00:00"
+    }
+   ]
+  }
+ ]
+}
