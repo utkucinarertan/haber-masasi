@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T06:23+01:00",
+ "updatedAt": "2026-11-26T06:53+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T06:49:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
+    "text": {
+     "tr": "Kuzey Kore lideri Kim Jong Un, ülkesinin 60'tan fazla olan nükleer savaş başlığı cephaneliğinin ve taktik nükleer silahların kullanımının artırılmasını istedi.",
+     "de": "Nordkoreas Machthaber Kim Jong Un fordert einen Ausbau des Arsenals von mindestens 60 Atomsprengköpfen und einen breiteren Einsatz taktischer Atomwaffen."
+    }
+   },
    {
     "time": "2026-11-26T06:00:30+01:00",
     "source": "tagesschau",
@@ -33,12 +42,39 @@
   ],
   "tr": [
    {
+    "time": "2026-11-26T08:50:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-feto-operasyonu-kesinlesmis-cezasi-bulunan-3-firari-yakalandi-2559514",
+    "text": {
+     "tr": "Ankara'da düzenlenen FETÖ operasyonunda, hakkında kesinleşmiş 18 yıl hapis cezası bulunan 3 firari yakalandı.",
+     "de": "Bei einer FETÖ-Operation in Ankara wurden drei flüchtige Verdächtige mit rechtskräftigen Haftstrafen von bis zu 18 Jahren festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-26T08:41:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-20-dakikalik-kovalamaca-kar-maskeli-3-supheli-yakalandi-kalasnikof-ele-gecirildi-2559513",
+    "text": {
+     "tr": "İstanbul Arnavutköy'de polisle yaşanan 20 dakikalık kovalamaca sonucunda kar maskeli 3 şüpheli gözaltına alındı ve bir AK-47 piyade tüfeği ele geçirildi.",
+     "de": "Nach einer 20-minütigen Verfolgungsjagd in Istanbul-Arnavutköy wurden drei maskierte Verdächtige festgenommen und ein Sturmgewehr sichergestellt."
+    }
+   },
+   {
     "time": "2026-11-26T07:48:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011238/motorine-432-tl-indirim-geldi-yeni-pompa-fiyatlari-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
      "tr": "Türkiye'de motorinin litre satış fiyatına bugünden itibaren geçerli olmak üzere 4 lira 32 kuruş indirim yapıldı.",
      "de": "In der Türkei ist der Dieselpreis mit Wirkung ab heute um 4,32 Lira pro Liter gesenkt worden."
+    }
+   },
+   {
+    "time": "2026-11-26T06:46:47+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/26/25-kasimda-binlerce-kisi-kadina-yonelik-siddeti-protesto-etti",
+    "text": {
+     "tr": "İstanbul, Ankara ve Diyarbakır başta olmak üzere birçok kentte binlerce kişi Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü'nde protestolar düzenledi.",
+     "de": "Tausende Menschen protestierten in Istanbul, Ankara und anderen Städten anlässlich des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen."
     }
    },
    {
@@ -82,14 +118,29 @@
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/26/25-kasimda-binlerce-kisi-kadina-yonelik-siddeti-protesto-etti",
+  "https://tr.euronews.com/2026/11/26/bulgaristan-aciklarinda-batan-geminin-yuku-karaya-vurdu-konteynerden-noel-susleri-cikti",
   "https://tr.euronews.com/2026/11/26/kahirede-yakit-yuklu-kamyonun-devrilmesinin-ardindan-yangin-cikti-en-az-30-olu",
   "https://tr.euronews.com/2026/11/26/kuresel-piyasalar-toparlandi-teknoloji-sirketleri-yukseldi-gumruk-endisesi-azaldi",
+  "https://tr.euronews.com/2026/11/26/yunanistanin-borclanma-maliyeti-dustu-italya-ve-fransanin-altina-indi",
+  "https://www.cumhuriyet.com.tr/turkiye/ankara-da-feto-operasyonu-kesinlesmis-cezasi-bulunan-3-firari-yakalandi-2559514",
+  "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-20-dakikalik-kovalamaca-kar-maskeli-3-supheli-yakalandi-kalasnikof-ele-gecirildi-2559513",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-26-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559512",
+  "https://www.dw.com/tr/haymana-da-ne-oldu-kavi-çiftinin-öldüğü-operasyonda-silah-bilmecesi/a-80050025",
   "https://www.evrensel.net/haber/6011238/motorine-432-tl-indirim-geldi-yeni-pompa-fiyatlari-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011239/italya-da-katolik-kilisesinde-20-yilda-385-cocuk-cinsel-istismara-maruz-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/wie-deutsche-kultur-auf-die-afd-reagieren-sollte-accg-201713925.html",
   "https://www.faz.net/aktuell/finanzen/immobilienkredit-wie-ein-eigentuemer-bei-der-anschlussfinanzierung-fast-50-000-euro-sparte-accg-201602175.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/analyse-des-frankfurter-wohnungsamts-streit-um-ueberhoehte-mieten-accg-201714073.html",
+  "https://www.faz.net/aktuell/rhein-main/wirtschaft/konsumflaute-hessischer-handel-hofft-auf-weihnachtsgeschaeft-accg-201716088.html",
+  "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmich-zu-fall-jamal-musiala-attacke-auf-fc-bayern-muenchen-bosse-accg-201718387.html",
+  "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-2028-bis-2034-wie-ein-beichtstuhl-den-streit-um-das-eu-budget-loesen-soll-accg-201714385.html",
+  "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/reha-vor-rente-ist-fuer-me-cfs-patienten-oft-das-falsche-wo-bleibt-der-kurswechsel-accg-201709443.html",
+  "https://www.faz.net/podcasts/der-geschichtspodcast/juden-im-visier-die-allianz-von-linksextremen-und-palaestinensischen-terroristen-seit-den-70ern-201716020.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/missbrauchsprozess-muss-das-erzbistum-koeln-haften-faz-201717994.html",
+  "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
+  "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
+  "https://www.spiegel.de/ausland/ukraine-jared-kushner-berichtet-von-versprechen-wladimir-putins-keine-atomwaffen-einzusetzen-a-dc80f8fa-0f0b-4253-92d4-62657dd2d7ba#ref=rss",
   "https://www.spiegel.de/kultur/tv/kroemers-letzte-stunde-gibt-es-doch-noch-humor-im-zdf-a-b1176aca-e2f7-47c3-89be-fea27d7e7e59#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-eu-haushaltsverhandlungen-cdu-kompromissvorschlag-zur-rente-mit-63-mutmassliche-spionin-vor-gericht-a-2e2df0fa-dd57-4004-a900-871447abe2f6#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
@@ -100,6 +151,7 @@
   "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
   "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
-  "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html"
+  "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html",
+  "https://www.welt.de/vermischtes/article6b07a675c75e09cb88d16570/maischberger-was-sie-in-ihrer-partei-mittlerweile-aufgenommen-haben-das-sind-rassisten-und-antisemiten.html"
  ]
 }
