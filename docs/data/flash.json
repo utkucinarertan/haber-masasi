@@ -1,8 +1,17 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T00:49+01:00",
+ "updatedAt": "2026-11-26T01:19+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T00:56:55+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
+    "text": {
+     "tr": "İngiliz New-Wave grubu Duran Duran'ın gitaristi Andy Taylor 65 yaşında hayatını kaybetti.",
+     "de": "Der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, Andy Taylor, ist im Alter von 65 Jahren gestorben."
+    }
+   },
    {
     "time": "2026-11-26T00:13:00+01:00",
     "source": "Der Spiegel",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Florian Wirtz ve Karim Adeyemi Şampiyonlar Ligi'nde gol atarken, Manchester United galibiyet hasretini sürdürdü.",
      "de": "Florian Wirtz und Karim Adeyemi trafen in der Champions League, während Manchester United weiter sieglos blieb."
-    }
-   },
-   {
-    "time": "2026-11-25T22:14:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/regierungsbildung-in-berlin-franziska-giffey-sieht-mit-ausschluss-von-vanessa-emde-keine-loesung-mit-linken-a-19e6423b-d6dd-4769-a1c5-e9eabe7a0350#ref=rss",
-    "text": {
-     "tr": "Franziska Giffey, Vanessa Emde'nin Sol Parti grubundan ihraç edilmesinin Kızıl-Kırmızı-Yeşil koalisyon için yeterli bir çözüm olmadığını belirtti.",
-     "de": "Franziska Giffey sieht den Ausschluss von Vanessa Emde aus der Linke-Fraktion nicht als ausreichenden Schritt für eine rot-rot-grüne Koalition in Berlin."
     }
    }
   ],
@@ -253,6 +253,7 @@
   "https://www.bbc.com/turkce/articles/cq9vwr742gd3o",
   "https://www.bbc.com/turkce/articles/cqlymzd4l1r5o",
   "https://www.bbc.com/turkce/articles/cqrlg0z9zywwo",
+  "https://www.bbc.com/turkce/articles/cw05360g5p0ro",
   "https://www.bbc.com/turkce/articles/cw7vp739ee9do",
   "https://www.cumhuriyet.com.tr/anketler/emekli-zamminda-hangi-formul-uygulanmali-2559294",
   "https://www.cumhuriyet.com.tr/astroloji/26-kasim-persembe-burc-yorumlari-bugun-sizi-neler-bekliyor-2559342",
@@ -1022,6 +1023,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
   "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
+  "https://www.tagesschau.de/kultur/andy-taylor-gestorben-100.html",
   "https://www.tagesschau.de/kultur/paradies-spaeti-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-nikkei-dax-nasdaq-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/samsung-einstieg-osram-100.html",
