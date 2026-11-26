@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T00:07+01:00",
+ "updatedAt": "2026-11-27T00:37+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-27T01:52:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011395/habas-patronunu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Habaş tesislerinde 19 işçinin hayatını kaybettiği olayla ilgili soruşturmada suçun işçilere yüklenmeye çalışıldığı iddia edildi.",
+     "de": "Nach dem Unfall in den Habaş-Anlagen mit 19 Toten wird versucht, die Schuld auf die Arbeiter zu schieben."
+    }
+   },
+   {
     "time": "2026-11-27T01:48:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/siyaset/resmi-gazete-de-yayimlandi-sahap-kavcioglu-istifa-etmisti-yerine-gelen-isim-belli-oldu-2559800",
@@ -85,15 +94,6 @@
      "tr": "TFF Başkanı İbrahim Hacıosmanoğlu, Beşiktaş'ın Hapoel Beer-Şeva maçının İstanbul'da oynanmamasının güvenlik değil devlet politikası olduğunu açıkladı.",
      "de": "TFF-Präsident Hacıosmanoğlu begründete die Verlegung des Beşiktaş-Spiels gegen Hapoel Be’er Scheva mit staatlicher Politik statt Sicherheitsbedenken."
     }
-   },
-   {
-    "time": "2026-11-27T01:02:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/motosikletle-gelip-kursun-yagdirdilar-2-cocuk-yaralandi-2559789",
-    "text": {
-     "tr": "İstanbul Bağcılar'da motosikletli şüphelilerin açtığı ateş sonucu iki çocuk yaralandı.",
-     "de": "Bei Schüssen von Verdächtigen auf einem Motorrad in Istanbul-Bagcilar wurden zwei Kinder verletzt."
-    }
    }
   ],
   "world": [
@@ -104,6 +104,15 @@
     "text": {
      "tr": "AB liderleri, Christine Lagarde'ın yerine Avrupa Merkez Bankası başkanlığına İspanyol ekonomist Pablo Hernández de Cos'un getirilmesi konusunda anlaştı.",
      "de": "EU-Staaten haben sich darauf geeinigt, den spanischen Ökonomen Pablo Hernández de Cos als Nachfolger von Christine Lagarde an die Spitze der EZB zu berufen."
+    }
+   },
+   {
+    "time": "2026-11-26T23:03:16+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
+    "text": {
+     "tr": "Hong Kong'da yedi apartmanda 168 kişinin ölümüne yol açan büyük yangının üzerinden bir yıl geçti.",
+     "de": "In Hongkong wird an den vor einem Jahr ausgebrochenen schweren Brand in sieben Wohnblöcken mit 168 Toten erinnert."
     }
    },
    {
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Eski ABD Dışişleri Bakan Yardımcısı ve Time dergisi muhabiri Strobe Talbott 80 yaşında hayatını kaybetti.",
      "de": "Der ehemalige US-Vizeaußenminister und Time-Journalist Strobe Talbott ist im Alter von 80 Jahren gestorben."
-    }
-   },
-   {
-    "time": "2026-11-26T21:33:36+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
-    "text": {
-     "tr": "Avustralya'da yetkililer, güney ve orta kesimlerin bu yaz yüksek oranda çalı yangını riski ve aşırı sıcak dalgalarıyla karşı karşıya olduğunu bildirdi.",
-     "de": "Behörden zufolge droht großen Teilen Süd- und Zentralaustraliens in diesem Sommer ein stark erhöhtes Buschfeuerrisiko sowie Hitzewellen."
     }
    }
   ]
@@ -237,6 +237,7 @@
   "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
   "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o",
   "https://www.bbc.co.uk/news/videos/c52e8ndplvemo",
+  "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
   "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o",
   "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o",
   "https://www.bbc.co.uk/news/videos/cq808d704m22o",
@@ -690,6 +691,8 @@
   "https://www.evrensel.net/haber/6011392/tff-baskani-haciosmanoglu-besiktas-in-neden-istanbul-da-oynamadigini-acikladi-gerekce-guvenlik-degil-devlet-politikasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011393/2027-dunya-kupasi-avrupa-elemeleri-turkiye-italya-ya-86-72-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011394/habas-ta-patronu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011395/habas-patronunu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011396/bddk-baskanligina-atanan-yusuf-kenan-bagir-kimdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
