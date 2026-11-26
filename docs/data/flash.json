@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T02:49+01:00",
+ "updatedAt": "2026-11-26T03:19+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-26T02:58:55+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
+    "text": {
+     "tr": "Amerikalı yetkililer, SpaceX'in yapay zeka veri merkezleri için uzaya bir milyon uydu göndermesine onay verdi.",
+     "de": "US-Behörden haben SpaceX die Genehmigung erteilt, eine Million Satelliten für KI-Rechenzentren ins All zu schicken."
+    }
+   },
+   {
     "time": "2026-11-26T01:30:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/ausland/usa-armee-sprengt-vier-tonnen-bleiazid-in-ohio-munitionsfabrik-a-92c629a4-f160-4c70-b3a7-4697289811ba#ref=rss",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "İngiltere hükümeti, mağdurların korku veya psikolojik baskı kanıtlama zorunluluğunu kaldıran yeni bir takip suçu yasalaştırıyor.",
      "de": "Die britische Regierung schafft einen neuen Stalking-Straftatbestand, bei dem Opfer künftig keine persönliche Verängstigung mehr nachweisen müssen."
-    }
-   },
-   {
-    "time": "2026-11-25T23:57:03+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
-    "text": {
-     "tr": "New York'taki geleneksel Macy's Şükran Günü geçit töreni, fırtına nedeniyle tarihinde ilk kez ertelendi.",
-     "de": "Wegen eines Sturms wurde die New Yorker Macy's-Thanksgiving-Parade erstmals in ihrer Geschichte verschoben."
     }
    }
   ]
@@ -1060,6 +1060,7 @@
   "https://www.tagesschau.de/wirtschaft/technologie/nvidia-rueckkehr-huang-boersen-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/flixtrain-deutsche-bahn-ticketverkauf-100.html",
   "https://www.tagesschau.de/wirtschaft/unternehmen/nvidia-offene-fragen-100.html",
+  "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/euro-dollar-ki-etf-sparer-100.html",
   "https://www.tagesschau.de/wirtschaft/verbraucher/ezb-zahlungsverhalten-bargeld-kartenzahlung-100.html",
@@ -1169,6 +1170,7 @@
   "https://www.welt.de/politik/ausland/article6b06bd17cd4642ba2eb183c8/daenemark-staatsanwaeltin-ist-stolz-erste-anklaegerin-mit-kopftuch-zu-sein-daenemark-reagiert-mit-verbot.html",
   "https://www.welt.de/politik/ausland/article6b06e5805b0e340c047ac985/handelskonflikt-bis-zu-20-prozent-usa-planen-neue-zoelle-gegen-eu-und-weitere-handelspartner.html",
   "https://www.welt.de/politik/ausland/article6b06ed917fa00ffe65bf3286/nach-luftraumverletzungen-polen-richtet-flugverbotszone-an-grenze-zur-ukraine-ein.html",
+  "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-meth-im-millionenwert-von-nigerianischen-behoerden-beschlagnahmt.html",
   "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-nigerianische-behoerden-beschlagnahmen-meth-im-millionenwert.html",
   "https://www.welt.de/politik/ausland/plus6afda75a97d08a88fa8a3c99/litauens-aussenminister-deutschland-ist-verwundbarer-als-litauen.html",
   "https://www.welt.de/politik/ausland/plus6afda75a97d08a88fa8a3c99/litauens-aussenminister-was-uns-in-europa-fehlt-ist-eine-kollektive-antwort-auf-russlands-aktionen.html",
