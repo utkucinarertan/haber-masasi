@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T04:19+01:00",
+ "updatedAt": "2026-11-26T04:49+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,24 @@
   ],
   "world": [
    {
+    "time": "2026-11-26T06:13:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011234/kaliforniya-kiyilarinda-gelgit-ve-dev-dalgalar-evler-ve-sokaklar-sular-altinda-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Kaliforniya kıyılarında aşırı gelgit ve fırtına nedeniyle evler ile sokaklar sular altında kaldı, iskelenin bir bölümü çöktü.",
+     "de": "In Kalifornien wurden infolge von Flut und Sturm Häuser und Straßen überschwemmt, ein Teil eines Piers stürzte ein."
+    }
+   },
+   {
+    "time": "2026-11-26T03:34:50+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b0789bfc75e09cb88d164dc/gipfeltreffen-eu-macht-westbalkan-staaten-hoffnung-auf-aufnahme.html",
+    "text": {
+     "tr": "AB Konseyi Başkanı António Costa, Batı Balkan ülkelerinin AB'ye katılımının gerçek bir şans olduğunu belirtti.",
+     "de": "EU-Ratspräsident António Costa betonte, dass der EU-Beitritt der Westbalkan-Staaten eine reale Chance sei."
+    }
+   },
+   {
     "time": "2026-11-26T02:58:55+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/spacex-eine-million-satelliten-100.html",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Kahire'de bir otoyolda devrilen yakıt tankerinin alev alması sonucu en az 31 kişi hayatını kaybetti, 15 kişi yaralandı.",
      "de": "Bei einem Tanklasterunfall auf einer vielbefahrenen Autobahn in Kairo sind mindestens 31 Menschen ums Leben gekommen und 15 weitere verletzt worden."
-    }
-   },
-   {
-    "time": "2026-11-26T01:19:04+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-nigerianische-behoerden-beschlagnahmen-meth-im-millionenwert.html",
-    "text": {
-     "tr": "Nijeryalı yetkililer, 226,8 milyon dolar değerinde metamfetamin ele geçirdi ve beş Meksika vatandaşını gözaltına aldı.",
-     "de": "Nigerianische Behörden haben Methamphetamin im Wert von 226,8 Millionen US-Dollar beschlagnahmt und fünf mexikanische Staatsbürger festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-26T00:01:40+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
-    "text": {
-     "tr": "İngiltere hükümeti, mağdurların korku veya psikolojik baskı kanıtlama zorunluluğunu kaldıran yeni bir takip suçu yasalaştırıyor.",
-     "de": "Die britische Regierung schafft einen neuen Stalking-Straftatbestand, bei dem Opfer künftig keine persönliche Verängstigung mehr nachweisen müssen."
     }
    }
   ]
@@ -738,6 +738,7 @@
   "https://www.evrensel.net/haber/6011231/fon-vurgunu-listesini-aciklayin-ekrem-imamoglu-saadet-partisinin-imza-kampanyasina-katildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011232/12punto-nun-instagram-hesabina-erisim-engeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011233/haseke-de-isid-saldirisi-2-olu-5-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011234/kaliforniya-kiyilarinda-gelgit-ve-dev-dalgalar-evler-ve-sokaklar-sular-altinda-kaldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/familie/me-time-fuer-eltern-hat-der-hauptverdiener-mehr-anspruch-auf-freizeit-accg-201688360.html",
   "https://www.faz.net/aktuell/besser-leben/stil/veruschka-ist-tot-das-erste-grosse-deutsche-supermodel-stirbt-mit-87-201717182.html",
   "https://www.faz.net/aktuell/besser-leben/stil/warum-sind-maenner-bei-gta-6-fuersorglicher-als-im-echten-leben-accg-201713096.html",
@@ -758,6 +759,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/wegen-moeglicher-afd-blockade-aenderung-beim-medienstaatsvertrag-accg-201715765.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/nancy-faeser-dementiert-viel-kritisiertes-zitat-201715769.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/serien/replikanten-an-der-macht-blade-runner-2099-bei-prime-video-201710485.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/maischberger-in-der-tv-kritik-warum-man-sich-manchmal-einfach-nur-eine-pause-wuenscht-accg-201718133.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/oper/beglueckend-kosky-inszeniert-ariadne-auf-naxos-in-wien-accg-201712429.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/tanz/der-taenzer-peter-wright-wird-100-accg-201712832.html",
   "https://www.faz.net/aktuell/feuilleton/reise/neuseeland-traumziel-mit-rissen-im-paradies-accg-200981270.html",
@@ -1077,6 +1079,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/25/ivf-elective-abortion-assisted-dying-calvary-catholic-ownership-private-hospitals-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/25/labor-greens-deal-discretionary-trust-changes-jet-fuel-subsidies-scrapped-for-private-jet-owners",
   "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
+  "https://www.theguardian.com/australia-news/2026/nov/26/australia-projected-to-miss-2035-emissions-targets-climate-policies",
   "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
   "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
@@ -1178,6 +1181,8 @@
   "https://www.welt.de/politik/ausland/article6b06ed917fa00ffe65bf3286/nach-luftraumverletzungen-polen-richtet-flugverbotszone-an-grenze-zur-ukraine-ein.html",
   "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-meth-im-millionenwert-von-nigerianischen-behoerden-beschlagnahmt.html",
   "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-nigerianische-behoerden-beschlagnahmen-meth-im-millionenwert.html",
+  "https://www.welt.de/politik/ausland/article6b0789bfc75e09cb88d164dc/gipfeltreffen-eu-macht-westbalkan-staaten-hoffnung-auf-aufnahme.html",
+  "https://www.welt.de/politik/ausland/article6b079ab4d4a4a3142c573f4d/raumfahrtunternehmen-spacex-darf-1-million-satelliten-fuer-ki-rechenzentren-ins-all-schicken.html",
   "https://www.welt.de/politik/ausland/plus6afda75a97d08a88fa8a3c99/litauens-aussenminister-deutschland-ist-verwundbarer-als-litauen.html",
   "https://www.welt.de/politik/ausland/plus6afda75a97d08a88fa8a3c99/litauens-aussenminister-was-uns-in-europa-fehlt-ist-eine-kollektive-antwort-auf-russlands-aktionen.html",
   "https://www.welt.de/politik/ausland/plus6b03302539a3e8110f0e6f71/russische-exklave-kaliningrad-zustand-der-paranoia-und-ein-problem-das-putin-nicht-loesen-kann.html",
