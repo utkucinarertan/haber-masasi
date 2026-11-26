@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T22:07+01:00",
+ "updatedAt": "2026-11-26T22:37+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T22:28:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
+    "text": {
+     "tr": "Şansölye Merz, AB liderlerinin gelecekteki bütçe görüşmelerini Perşembe günü erken saatlerde sonlandıracağını duyurdu.",
+     "de": "Bundeskanzler Merz kündigte an, dass die EU-Staats- und Regierungschefs ihre Haushaltsberatungen bereits am Donnerstag beenden werden."
+    }
+   },
    {
     "time": "2026-11-26T21:47:00+01:00",
     "source": "Der Spiegel",
@@ -38,61 +47,52 @@
      "tr": "Bae'li Şeyh'in kızı Hoor Al Qasimi, 2028 yılındaki Venedik Sanat Bienali'nin sanatsal yönetmenliğine getirildi.",
      "de": "Hoor Al Qasimi übernimmt im Jahr 2028 die künstlerische Leitung der Kunstbiennale in Venedig."
     }
-   },
-   {
-    "time": "2026-11-26T20:25:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/panorama/justiz/prozess-gegen-ilona-w-in-berlin-eine-spionin-vor-der-kammergericht-a-05d733d6-9f42-491b-8d2b-89ad25612567#ref=rss",
-    "text": {
-     "tr": "Almanya'da Berlin'de Rus istihbaratı için casusluk yaptığı iddia edilen Alman-Ukrayna asıllı Ilona W. mahkeme karşısına çıktı.",
-     "de": "In Berlin hat der Prozess gegen die Deutsch-Ukrainerin Ilona W. wegen mutmaßlicher Spionage für den russischen Geheimdienst begonnen."
-    }
    }
   ],
   "tr": [
    {
-    "time": "2026-11-26T23:51:00+03:00",
+    "time": "2026-11-27T00:30:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-ttk-ya-ait-madende-is-kazasi-2-madenci-yaralandi-2559778",
+    "text": {
+     "tr": "Zonguldak'ta TTK'ya ait madende meydana gelen iş kazasında 2 madenci yaralandı.",
+     "de": "Bei einem Arbeitsunfall in einem Bergwerk der staatlichen Kohlebehörde TTK in Zonguldak wurden zwei Bergleute verletzt."
+    }
+   },
+   {
+    "time": "2026-11-27T00:26:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/bicaklanan-17-yasindaki-genc-oldu-saldirgan-suc-aletiyle-yakalandi-2559775",
+    "text": {
+     "tr": "Muğla'nın Milas ilçesinde bıçaklanan 17 yaşındaki genç hayatını kaybederken, saldırgan suç aletiyle yakalandı.",
+     "de": "Ein 17-Jähriger wurde in Milas in der Provinz Muğla erstochen; der Angreifer wurde mit der Tatwaffe gefasst."
+    }
+   },
+   {
+    "time": "2026-11-27T00:19:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/ehliyetsiz-surucunun-carptigi-kadin-oldu-17-yasindaki-surucu-gozaltina-alindi-2559772",
+    "text": {
+     "tr": "İstanbul'da ehliyetsiz sürücünün çarptığı 52 yaşındaki Arzu Duran hayatını kaybetti, 17 yaşındaki sürücü gözaltına alındı.",
+     "de": "In Istanbul starb die 52-jährige Arzu Duran nach dem Zusammenstoß mit einem Auto, das von einem 17-jährigen Führerscheinlosen gelenkt wurde."
+    }
+   },
+   {
+    "time": "2026-11-27T00:15:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-italya-deplasmaninda-kayip-2559768",
+    "text": {
+     "tr": "A Milli Futbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri'nde deplasmanda İtalya'ya 86-72 kaybetti.",
+     "de": "Die türkische Basketball-Nationalmannschaft verlor in der Qualifikation zur Weltmeisterschaft 2027 auswärts mit 86:72 gegen Italien."
+    }
+   },
+   {
+    "time": "2026-11-27T00:10:00+03:00",
     "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011389/tip-li-sera-kadigil-den-bakan-kurum-a-cop31-tepkisi-2009-dan-beri-ilk-kez-bir-zirvede-karar-almayi-beceremediniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "url": "https://www.evrensel.net/haber/6011355/piyasalarda-faiz-indirimi-senaryosu-rafa-kalkti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
-     "tr": "TİP Milletvekili Sera Kadıgil ile Bakan Murat Kurum arasında COP31'deki kararsızlık nedeniyle komisyonda tartışma çıktı.",
-     "de": "Im parlamentarischen Ausschuss kam es zu einem Streit zwischen der Abgeordneten Sera Kadıgil und Minister Murat Kurum wegen des Klimagipfels COP31."
-    }
-   },
-   {
-    "time": "2026-11-26T23:27:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-surucunun-cansiz-bedeni-1-5-saat-suren-calisma-sonucunda-cikartildi-2559743",
-    "text": {
-     "tr": "Denizli'nin Pamukkale ilçesinde devrilen tırın sürücüsü hayatını kaybetti, cenazesi çalışmayla çıkarıldı.",
-     "de": "In Denizli kam der Fahrer eines umgestürzten Lastwagens ums Leben, seine Leiche wurde nach Bergungsarbeiten geborgen."
-    }
-   },
-   {
-    "time": "2026-11-26T22:57:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/marsilya-3-puani-tek-golle-aldi-2559738",
-    "text": {
-     "tr": "UEFA Avrupa Ligi'nde Marsilya, sahasında Levski Sofya'yı 1-0 mağlup etti.",
-     "de": "In der UEFA Europa League besiegte Olympique Marseille Levski Sofia im eigenen Stadion mit 1:0."
-    }
-   },
-   {
-    "time": "2026-11-26T22:48:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/milan-dan-avrupa-ligi-nde-olympiakos-u-devirdi-2559736",
-    "text": {
-     "tr": "UEFA Avrupa Ligi'nde Milan, deplasmanda Olympiakos'u 4-2 yendi.",
-     "de": "In der UEFA Europa League gewann Milan auswärts gegen Olympiakos Piräus mit 4:2."
-    }
-   },
-   {
-    "time": "2026-11-26T22:44:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/ekonomi/tcmb-den-iki-yeni-hamle-repo-ihaleleri-durduruldu-zorunlu-karsilik-orani-degisti-2559734",
-    "text": {
-     "tr": "Türkiye Cumhuriyet Merkez Bankası, bir hafta vadeli repo ihalelerini durdurdu ve zorunlu karşılık oranlarında değişikliğe gitti.",
-     "de": "Die Zentralbank der Republik Türkei hat einwöchige Repogeschäfte ausgesetzt und die Mindestreserveanforderungen geändert."
+     "tr": "Fon vurgununun ardından para piyasalarında faiz indirimi senaryosu rafa kalktı ve gösterge faiz yüzde 37.30'a yükseldi.",
+     "de": "Nach einem Fondsbetrugsskandal wurden Zinssenkungsszenarien verworfen, und der türkische Referenzzinssatz stieg auf 37,30 Prozent."
     }
    }
   ],
@@ -107,6 +107,15 @@
     }
    },
    {
+    "time": "2026-11-26T21:33:36+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
+    "text": {
+     "tr": "Avustralya'da yetkililer, güney ve orta kesimlerin bu yaz yüksek oranda çalı yangını riski ve aşırı sıcak dalgalarıyla karşı karşıya olduğunu bildirdi.",
+     "de": "Behörden zufolge droht großen Teilen Süd- und Zentralaustraliens in diesem Sommer ein stark erhöhtes Buschfeuerrisiko sowie Hitzewellen."
+    }
+   },
+   {
     "time": "2026-11-26T20:57:24+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/sport/mehr-sport/schach-wm-gukesh-dommaraju-und-sindarow-trennen-sich-erneut-remis-201721580.html",
@@ -116,30 +125,21 @@
     }
    },
    {
+    "time": "2026-11-26T20:35:23+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+    "text": {
+     "tr": "Gazze'de İsrail'in düzenlediği saldırılarda 10 Filistinli hayatını kaybetti.",
+     "de": "Bei israelischen Luftangriffen und Schüssen im Gazastreifen wurden zehn Palästinenser getötet."
+    }
+   },
+   {
     "time": "2026-11-26T20:15:04+01:00",
     "source": "Euronews Türkçe",
     "url": "https://tr.euronews.com/2026/11/26/irak-iside-katilan-8-fransiz-vatandasi-omur-boyu-hapse-mahkum-edildi",
     "text": {
      "tr": "Irak'ta mahkeme, IŞİD'e katılan 8 Fransız vatandaşını ömür boyu hapse mahkûm etti.",
      "de": "Ein Gericht im Irak hat acht französische Staatsbürger wegen ihrer Mitgliedschaft in der Terrormiliz IS zu lebenslangen Haftstrafen verurteilt."
-    }
-   },
-   {
-    "time": "2026-11-26T19:58:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/koalitionsverhandlungen-in-israel-beendet-gadi-eisenkot-die-aera-benjamin-netanyahu-a-d8187cb5-6b65-4517-b69d-c99eb7f00b1b#ref=rss",
-    "text": {
-     "tr": "İsrail'deki koalisyon müzakerelerinde Gadi Eisenkot'un Benjamin Netanyahu dönemini sonlandırabileceği belirtiliyor.",
-     "de": "Gadi Eisenkot könnte bei den Koalitionsverhandlungen in Israel die Ära von Benjamin Netanyahu beenden."
-    }
-   },
-   {
-    "time": "2026-11-26T19:54:05+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
-    "text": {
-     "tr": "İngiltere'nin Nottingham kentinde uzun süreli partnerini uyku ilacıyla uyuşturup cinsel saldırıda bulunan bir adam 12 yıl hapis cezasına çarptırıldı.",
-     "de": "Ein Mann aus Nottingham wurde zu 12 Jahren Haft verurteilt, nachdem er seine langjährige Partnerin mit Tabletten betäubt und sexuell missbraucht hatte."
     }
    }
   ]
@@ -345,6 +345,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/sol-parti-den-dikkat-ceken-surec-cikisi-hakli-elestiriler-muhaliflere-baskiya-donustu-2559685",
   "https://www.cumhuriyet.com.tr/siyaset/son-dakika-imamoglu-ndan-hikmet-cetin-in-cenazesi-icin-bakanliga-basvuru-2559699",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-murat-emir-den-fon-krizi-aciklamasi-erisah-arican-i-kim-koruyor-2559682",
+  "https://www.cumhuriyet.com.tr/spor/12-dev-adam-italya-deplasmaninda-kayip-2559768",
   "https://www.cumhuriyet.com.tr/spor/akan-catilar-eski-bir-hayvan-pazari-ve-nba-in-arena-devrimi-2559704",
   "https://www.cumhuriyet.com.tr/spor/alperen-sengun-triple-double-yapti-rockets-suns-i-maglup-etti-2559563",
   "https://www.cumhuriyet.com.tr/spor/amedspor-da-mbaye-diagne-ile-yollar-resmen-ayrildi-2559693",
@@ -369,14 +370,18 @@
   "https://www.cumhuriyet.com.tr/spor/galatasaray-ile-como-arasinda-isbirligi-baskanlar-bir-araya-geldi-2559707",
   "https://www.cumhuriyet.com.tr/spor/genclerbirligi-nin-transfer-yasagi-kaldirildi-2559667",
   "https://www.cumhuriyet.com.tr/spor/hakem-morten-krogh-kim-nereli-besiktas-hapoel-beer-sheva-macinin-hakemleri-kim-2559737",
+  "https://www.cumhuriyet.com.tr/spor/hastaneye-goturulmustu-vincenzo-italiano-dan-emirhan-topcu-aciklamasi-2559771",
   "https://www.cumhuriyet.com.tr/spor/italya-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2559569",
   "https://www.cumhuriyet.com.tr/spor/lionel-messi-nin-okul-karnesi-ortaya-cikti-iste-en-basarili-oldugu-ders-2559698",
   "https://www.cumhuriyet.com.tr/spor/marsilya-3-puani-tek-golle-aldi-2559738",
   "https://www.cumhuriyet.com.tr/spor/mhk-baskani-anthony-taylor-degerlendirdi-galatasaray-in-golu-iptal-edilmeliydi-2559662",
   "https://www.cumhuriyet.com.tr/spor/milan-dan-avrupa-ligi-nde-olympiakos-u-devirdi-2559736",
   "https://www.cumhuriyet.com.tr/spor/oguzhan-cakir-kimdir-besiktas-galatasaray-derbisinin-hakemi-oguzhan-cakir-kac-yasinda-nereli-2559598",
+  "https://www.cumhuriyet.com.tr/spor/orkun-kokcu-den-hapoel-beer-sheva-maci-sozleri-bizim-icin-milli-mesele-oldu-2559776",
   "https://www.cumhuriyet.com.tr/spor/osimhen-besiktas-macinda-oynayacak-mi-victor-osimhen-in-saglik-durumu-nasil-2559570",
+  "https://www.cumhuriyet.com.tr/spor/ouattara-dan-mac-sonu-dikkat-ceken-hareket-filistin-bayragini-uefa-yazisinin-uzerine-koydu-2559762",
   "https://www.cumhuriyet.com.tr/spor/real-madrid-paylasti-arda-guler-e-40-milyonluk-hediye-2559642",
+  "https://www.cumhuriyet.com.tr/spor/salih-ozcan-dan-hapoel-beer-sheva-aciklamasi-bu-mac-bizim-icin-milli-mesele-oldu-2559765",
   "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-nde-5-hafta-tamamlandi-2559565",
   "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-nde-cifte-zafer-uefa-ulke-puaninda-son-durum-2559518",
   "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-nde-sarhos-hakem-iddiasi-ersin-destanoglu-cilgina-dondu-2559549",
@@ -398,11 +403,13 @@
   "https://www.cumhuriyet.com.tr/turkiye/aym-den-taraftarlari-ilgilendiren-kritik-karar-iki-kanun-hukmu-iptal-edildi-2559587",
   "https://www.cumhuriyet.com.tr/turkiye/bakan-yumakli-ciftci-sayisinin-azalmasina-sebebi-buldu-modernitenin-getirmis-oldugu-yansimalar-2559618",
   "https://www.cumhuriyet.com.tr/turkiye/besiktas-ta-supheli-olum-otomobilde-silahla-vurulmus-halde-bulundu-2559561",
+  "https://www.cumhuriyet.com.tr/turkiye/bicaklanan-17-yasindaki-genc-oldu-saldirgan-suc-aletiyle-yakalandi-2559775",
   "https://www.cumhuriyet.com.tr/turkiye/burdur-da-iki-otomobil-kafa-kafaya-carpisti-1-olu-2-si-agir-6-yarali-2559538",
   "https://www.cumhuriyet.com.tr/turkiye/bursa-da-kadin-cinayeti-bosanma-asamasindaki-esini-okul-onunde-oldurup-intihar-etti-2559636",
   "https://www.cumhuriyet.com.tr/turkiye/cesedi-havlupana-asili-halde-bulunmustu-kizim-intihar-etmedi-2559700",
   "https://www.cumhuriyet.com.tr/turkiye/corum-da-kadin-cinayeti-esini-olduren-erkek-intihar-etti-2559599",
   "https://www.cumhuriyet.com.tr/turkiye/devlet-hastanesinde-bicak-parasi-ve-usulsuz-ameliyat-iddiasi-bakanlik-sorusturma-baslatti-2559529",
+  "https://www.cumhuriyet.com.tr/turkiye/ehliyetsiz-surucunun-carptigi-kadin-oldu-17-yasindaki-surucu-gozaltina-alindi-2559772",
   "https://www.cumhuriyet.com.tr/turkiye/eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-2559516",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-halkin-mutfagi-hizmete-basladi-3-kap-sicak-yemek-50-tl-2559696",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-deki-nadir-toprak-elementleri-konusunda-disisleri-nden-dikkat-ceken-yanit-imza-yok-calismalar-suruyor-2559624",
@@ -448,6 +455,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-milletvekili-namik-tan-in-oglu-aras-tan-gozaltina-alindi-2559580",
   "https://www.cumhuriyet.com.tr/turkiye/yok-ten-kayit-hakkini-kullanamayan-ogrencilere-af-2559687",
   "https://www.cumhuriyet.com.tr/turkiye/ysk-baskani-serdar-mutta-dan-elektronik-oy-aciklamasi-2559607",
+  "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-ttk-ya-ait-madende-is-kazasi-2-madenci-yaralandi-2559778",
   "https://www.cumhuriyet.com.tr/tv-rehberi/avengers-doomsday-ne-zaman-cikacak-avengers-doomsday-konusu-ne-oyunculari-kimler-2559665",
   "https://www.cumhuriyet.com.tr/tv-rehberi/gunesin-dogdugu-yer-dizisinin-yeni-bolumu-ne-zaman-gunesin-dogdugu-yer-dizisinin-son-bolumunde-ne-oldu-2559715",
   "https://www.cumhuriyet.com.tr/tv-rehberi/ingiliz-anahtari-recep-usta-filminin-konusu-ne-ingiliz-anahtari-recep-usta-filminin-oyunculari-kim-2559721",
@@ -615,11 +623,13 @@
   "https://www.evrensel.net/haber/6011345/a-milli-kadin-voleybol-takimi-nin-2027-vnl-deki-rakipleri-belli-oldu-3-etapta-12-mac-oynanacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011346/umit-ozlale-den-serap-belovacikli-aciklamasi-gazeteciler-kayyimlarin-insafina-terk-edildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011347/yeni-partili-emir-fon-vurgununda-suc-orgutunun-tepesinde-kim-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011348/sanat-egitimi-bodrum-kata-sikistirilamaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011349/kemal-turkler-biyografisi-bir-donemin-mucadele-tarihi-adaletin-is-yuzu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011351/957-hakim-ve-savcinin-yeri-degistirildi-atamalar-odul-ceza-yontemine-donustu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011352/gazeteciler-de-kartal-da-dolu-haber-bos-cuzdanla-yapilmaz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011353/cevre-ve-sehircilik-bakanligi-arsa-satisina-cikiyor-ihale-kapsamindaki-iller-ve-fiyatlar-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011354/muhsin-ertugrul-okumalari-nda-yeni-oyun-ates-atesi-soker?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011355/piyasalarda-faiz-indirimi-senaryosu-rafa-kalkti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011357/basmane-cukuru-nun-mulkiyetine-iliskin-dava-1-nisan-a-ertelendi-2-aralik-taki-ihaleyi-yapmak-istiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011358/colani-ilham-ahmed-i-parlamenter-olarak-atadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011359/sampiyonlar-ligi-nde-como-1907-firtinasi-dorduncu-ligden-devler-ligi-ne-uzanan-7-yillik-yolculuk?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -646,6 +656,8 @@
   "https://www.evrensel.net/haber/6011376/batum-daki-mac-oncesi-filistin-bayragi-acan-besiktas-taraftarlarina-mudahale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/gurcistan-polisinden-besiktas-taraftarina-filistin-mudahalesi-besiktas-hapoel-beer-seva-yi-2-1-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/gurcistan-polisinden-besiktas-taraftarina-filistin-mudahalesi-besiktas-in-israil-takimiyla-oynadigi-mac-yeniden-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011377/topragimiz-bize-yasaklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011378/cinlayanlar-in-13-oykusu-13-sanatcinin-yorumuyla-dekk-te?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011379/ocalan-dan-ozel-e-komisyona-katilmama-karari-cozumsuzluk-isteyenlerin-elini-guclendirir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011380/dem-parti-den-ikby-aciklamasi-sorunlar-anayasal-cercevede-cozulmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011381/super-lig-kuluplerinden-besiktas-hapoel-beer-seva-macindaki-olaylarin-ardindan-uefa-ya-tepki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -817,12 +829,17 @@
   "https://www.france24.com/en/europe/20261126-how-far-right-vox-winning-over-young-voters-ahead-spain-snap-election",
   "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
   "https://www.france24.com/en/europe/20261126-spanish-economist-de-cos-succeed-lagarde-head-ecb",
+  "https://www.france24.com/en/france-s-bardella-faces-new-allegations-of-antisemitic-comments",
   "https://www.france24.com/en/france/20261126-french-actor-g%C3%A9rard-depardieu-to-face-trial-for-rape-his-lawyer-says",
   "https://www.france24.com/en/france/20261126-french-woman-trial-is-group-propaganda-tells-court-she-ashamed",
+  "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide",
   "https://www.france24.com/en/france/20261126-le-pen-top-ally-bardella-faces-renewed-scrutiny-over-alleged-antisemitic-comments",
   "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
+  "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
+  "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
   "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
   "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
+  "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
   "https://www.france24.com/en/tv-shows/arts24/20261126-lost-homes-stolen-freedom-national-book-award-winners-on-exile-and-imprisonment",
   "https://www.france24.com/en/tv-shows/entre-nous/20261126-sacr%C3%A9-sel-france-s-love-of-salt",
   "https://www.france24.com/en/tv-shows/entre-nous/20261126-seasons-eatings-celebrating-thanksgiving-in-france",
@@ -832,6 +849,7 @@
   "https://www.france24.com/en/tv-shows/press-review/20261126-french-media-publish-fresh-claims-of-far-right-leader-bardella-s-anti-semitic-torrent",
   "https://www.france24.com/en/tv-shows/sports/20261126-injury-hit-psg-drop-first-points-of-champions-league-campaign-against-roma",
   "https://www.france24.com/en/tv-shows/spotlight/20261126-it-s-really-outrageous-women-face-violence-in-the-streets-and-what-we-see-online-is-even-worse",
+  "https://www.france24.com/en/tv-shows/the-debate/20261126-sanchez-s-big-gamble-will-spain-swing-from-socialists-to-hard-right",
   "https://www.france24.com/en/video/20261126-%C3%A9milie-k%C3%B6nig-the-muse-of-the-islamic-state-group-goes-on-trial-in-france",
   "https://www.france24.com/en/video/20261126-alleged-islamic-state-group-propagandist-emily-konig-on-trial-in-france",
   "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
@@ -840,6 +858,7 @@
   "https://www.france24.com/en/video/20261126-fighting-in-eastern-congo-forces-ebola-workers-to-evacuate-disrupts-outbreak-response",
   "https://www.france24.com/en/video/20261126-france-senior-officials-investigated-over-suspected-leaks-to-far-right-national-rally",
   "https://www.france24.com/en/video/20261126-french-far-right-leader-bardella-faces-fresh-anti-semitism-accusations-in-media-reports",
+  "https://www.france24.com/en/video/20261126-french-far-right-leader-jordan-bardella-faces-fresh-allegations-of-anti-semitism",
   "https://www.france24.com/en/video/20261126-in-california-exceptional-tides-and-nearly-9m-high-waves-batter-the-coast",
   "https://www.france24.com/en/video/20261126-king-tide-waves-batter-california-coast-soaking-san-francisco",
   "https://www.france24.com/en/video/20261126-madagascar-s-near-total-abortion-ban-puts-women-s-lives-at-risk",
@@ -889,6 +908,7 @@
   "https://www.spiegel.de/politik/deutschland/bundestag-julia-kloeckner-prueft-sanktionen-nach-blockade-von-david-barnea-a-c51e85d0-19f5-4fc9-8e09-1e10a697679e#ref=rss",
   "https://www.spiegel.de/politik/deutschland/cdu-abgeordnete-will-haushalt-nicht-zustimmen-a-219d710b-ca88-42da-9283-c2bfe45e18c9#ref=rss",
   "https://www.spiegel.de/politik/deutschland/deutsche-firma-soll-aermelkanal-schleuser-beliefern-haben-a-dd3ecb91-159e-42f5-873e-08c18361ac37#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
   "https://www.spiegel.de/politik/deutschland/friedrich-merz-opposition-moniert-reise-mit-privatflugzeug-zu-cdu-termin-a-0acf7991-c6fe-49e5-b0ad-7cad2035c484#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ministerpraesidenten-michael-kretschmer-und-mario-voigt-fordern-respekt-rente-a-dccc33fa-a318-413f-8b7d-365ce2859f2a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-des-tages-anschlagplaene-auf-synagoge-in-koeln-die-grosse-macht-der-techmilliardaere-diskussion-ueber-neue-vorschlaege-zur-rentenreform-a-71d88c8d-ac74-4b6f-a29e-3e1a5fd96dfb#ref=rss",
@@ -978,6 +998,7 @@
   "https://www.theguardian.com/environment/2026/nov/26/burnham-urged-to-act-extinction-windemere-arctic-char-paul-whitehouse",
   "https://www.theguardian.com/environment/2026/nov/26/ghana-waste-tip-faulty-electrical-goods-uk-supermarkets-returns",
   "https://www.theguardian.com/environment/2026/nov/26/ministers-fail-to-make-case-for-heathrow-third-runway-mps-report-says",
+  "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
   "https://www.theguardian.com/film/2026/nov/26/amanda-seyfried-you-can-see-everything-elizabeth-holmes-the-dropout",
   "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
   "https://www.theguardian.com/media/2026/nov/26/antisemitism-adviser-to-launch-inquiry-into-hostile-work-environment-at-bbc",
