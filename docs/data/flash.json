@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T23:37+01:00",
+ "updatedAt": "2026-11-27T00:07+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "Bavyera eyaletinde etkili olan yoğun kar yağışı trafikte aksamalara ve çok sayıda kazaya yol açtı.",
      "de": "Starker Schneefall hat in Bayern zu zahlreichen Verkehrsunfällen und Verkehrsbehinderungen geführt."
+    }
+   },
+   {
+    "time": "2026-11-26T22:33:00+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/europa-league-marco-rose-und-afc-bournemouth-weiter-auf-rekordkurs-201210539.html",
+    "text": {
+     "tr": "Bournemouth'un Alman teknik direktörü Marco Rose, Celta Vigo galibiyetiyle takımını Avrupa Ligi'nde zirveye taşıdı.",
+     "de": "Trainer Marco Rose hat den AFC Bournemouth nach dem Sieg gegen Celta Vigo an die Spitze der Europa-League-Tabelle geführt."
     }
    },
    {
@@ -38,18 +47,36 @@
      "tr": "Şükran Günü'nde ABD'nin doğu kıyısını vuran şiddetli fırtına yaklaşık 770.000 aboneyi elektriksiz bırakırken, New York'taki geleneksel geçit töreni ertelendi.",
      "de": "Ein heftiger Sturm hat an der US-Ostküste rund 770.000 Kunden von der Energieversorgung abgeschnitten und zur Verschiebung der Parade in New York geführt."
     }
-   },
-   {
-    "time": "2026-11-26T21:42:26+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
-    "text": {
-     "tr": "AB liderleri uzun vadeli bütçe müzakerelerini erken sonlandırırken, Şansölye Merz yıl sonuna kadar uzlaşı sağlanabileceğine inanıyor.",
-     "de": "Die EU-Staaten haben ihre Verhandlungen über den nächsten Haushalt vorzeitig abgebrochen, während Bundeskanzler Merz auf eine Einigung bis Jahresende hofft."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-27T01:48:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/resmi-gazete-de-yayimlandi-sahap-kavcioglu-istifa-etmisti-yerine-gelen-isim-belli-oldu-2559800",
+    "text": {
+     "tr": "Şahap Kavcıoğlu'nun istifasının ardından BDDK Başkanlığına Yusuf Kenan Bağır atandı.",
+     "de": "Yusuf Kenan Bağır wurde zum neuen Chef der Bankenaufsicht BDDK ernannt, nachdem Şahap Kavcıoğlu zurückgetreten war."
+    }
+   },
+   {
+    "time": "2026-11-27T01:46:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/thomas-reis-tan-cska-sofya-galibiyeti-aciklamasi-bizim-icin-kolay-degildi-ama-2559799",
+    "text": {
+     "tr": "Trabzonspor Teknik Direktörü Thomas Reis, CSKA Sofya karşısında aldıkları 2-1'lik galibiyetin kolay olmadığını söyledi.",
+     "de": "Trabzonspor-Trainer Thomas Reis äußerte sich nach dem 2:1-Sieg gegen ZSKA Sofia zum schwer erkämpften Erfolg."
+    }
+   },
+   {
+    "time": "2026-11-27T01:31:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011393/2027-dunya-kupasi-avrupa-elemeleri-turkiye-italya-ya-86-72-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Avrupa Elemeleri'nde konuk olduğu İtalya'ya 86-72 yenildi.",
+     "de": "Die türkische Basketball-Nationalmannschaft der Männer verlor in der WM-Qualifikation 2027 auswärts gegen Italien mit 86:72."
+    }
+   },
    {
     "time": "2026-11-27T01:05:00+03:00",
     "source": "Evrensel",
@@ -67,33 +94,6 @@
      "tr": "İstanbul Bağcılar'da motosikletli şüphelilerin açtığı ateş sonucu iki çocuk yaralandı.",
      "de": "Bei Schüssen von Verdächtigen auf einem Motorrad in Istanbul-Bagcilar wurden zwei Kinder verletzt."
     }
-   },
-   {
-    "time": "2026-11-27T00:41:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011391/tcmb-den-iki-yeni-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-faizi-artirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Türkiye Cumhuriyet Merkez Bankası, bir hafta vadeli repo ihalelerine geçici olarak ara verildiğini açıkladı.",
-     "de": "Die türkische Zentralbank hat angekündigt, einwöchige Repositories vorübergehend auszusetzen."
-    }
-   },
-   {
-    "time": "2026-11-27T00:38:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/kktc-deki-gemi-faciasinda-ikinci-kaptan-konustu-kaptan-tahliye-emri-vermeden-basmakinist-ile-birlikte-gemiden-kacti-2559783",
-    "text": {
-     "tr": "KKTC'de 28 kişinin hayatını kaybettiği gemi faciasının davasında konuşan ikinci kaptan, kaptanın tahliye emri vermeden kaçtığını söyledi.",
-     "de": "Im Prozess zum Schiffsunglück in Nordzypern mit 28 Toten erklärte der zweite Kapitän, der Kapitän sei geflohen, ohne Evakuierungsbefehl zu erteilen."
-    }
-   },
-   {
-    "time": "2026-11-27T00:30:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/zonguldak-ta-ttk-ya-ait-madende-is-kazasi-2-madenci-yaralandi-2559778",
-    "text": {
-     "tr": "Zonguldak'ta TTK'ya ait madende meydana gelen iş kazasında 2 madenci yaralandı.",
-     "de": "Bei einem Arbeitsunfall in einem Bergwerk der staatlichen Kohlebehörde TTK in Zonguldak wurden zwei Bergleute verletzt."
-    }
    }
   ],
   "world": [
@@ -107,39 +107,39 @@
     }
    },
    {
+    "time": "2026-11-26T23:01:40+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
+    "text": {
+     "tr": "Meteoroloji yetkilileri, İngiltere'nin kuzeyi ve İskoçya'da önümüzdeki günlerde kar yağışı ve buzlanma bekliyor.",
+     "de": "Meteorologen sagen für die kommenden Tage Schneefälle und Glatteis im Norden Englands und in Schottland voraus."
+    }
+   },
+   {
+    "time": "2026-11-26T22:49:27+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+    "text": {
+     "tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD'nin Orta Doğu'ya odaklanıp Rusya'ya yeterince baskı yapmadığını belirtti.",
+     "de": "Der ukrainische Präsident Selenskyj kritisierte in einem Interview, die USA konzentrierten sich zu stark auf den Nahen Osten."
+    }
+   },
+   {
+    "time": "2026-11-26T22:36:55+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
+    "text": {
+     "tr": "Eski ABD Dışişleri Bakan Yardımcısı ve Time dergisi muhabiri Strobe Talbott 80 yaşında hayatını kaybetti.",
+     "de": "Der ehemalige US-Vizeaußenminister und Time-Journalist Strobe Talbott ist im Alter von 80 Jahren gestorben."
+    }
+   },
+   {
     "time": "2026-11-26T21:33:36+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/environment/2026/nov/27/southern-and-central-australia-face-summer-of-heightened-bushfire-risk-and-heatwaves",
     "text": {
      "tr": "Avustralya'da yetkililer, güney ve orta kesimlerin bu yaz yüksek oranda çalı yangını riski ve aşırı sıcak dalgalarıyla karşı karşıya olduğunu bildirdi.",
      "de": "Behörden zufolge droht großen Teilen Süd- und Zentralaustraliens in diesem Sommer ein stark erhöhtes Buschfeuerrisiko sowie Hitzewellen."
-    }
-   },
-   {
-    "time": "2026-11-26T20:57:24+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/mehr-sport/schach-wm-gukesh-dommaraju-und-sindarow-trennen-sich-erneut-remis-201721580.html",
-    "text": {
-     "tr": "Dünya Satranç Şampiyonası'nda unvan sahibi Gukesh Dommaraju ile Jawochir Sindarow arasındaki üçüncü parti de berabere bitti.",
-     "de": "Bei der Schach-WM endete auch die dritte Partie zwischen Titelverteidiger Gukesh Dommaraju und Jawochir Sindarow unentschieden."
-    }
-   },
-   {
-    "time": "2026-11-26T20:35:23+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
-    "text": {
-     "tr": "Gazze'de İsrail'in düzenlediği saldırılarda 10 Filistinli hayatını kaybetti.",
-     "de": "Bei israelischen Luftangriffen und Schüssen im Gazastreifen wurden zehn Palästinenser getötet."
-    }
-   },
-   {
-    "time": "2026-11-26T20:15:04+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/26/irak-iside-katilan-8-fransiz-vatandasi-omur-boyu-hapse-mahkum-edildi",
-    "text": {
-     "tr": "Irak'ta mahkeme, IŞİD'e katılan 8 Fransız vatandaşını ömür boyu hapse mahkûm etti.",
-     "de": "Ein Gericht im Irak hat acht französische Staatsbürger wegen ihrer Mitgliedschaft in der Terrormiliz IS zu lebenslangen Haftstrafen verurteilt."
     }
    }
   ]
@@ -218,6 +218,7 @@
   "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
   "https://www.bbc.co.uk/news/articles/c3gre90l0g45o",
   "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo",
+  "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
   "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
   "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
   "https://www.bbc.co.uk/news/articles/c9m2jke85xzxo",
@@ -236,6 +237,7 @@
   "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
   "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o",
   "https://www.bbc.co.uk/news/videos/c52e8ndplvemo",
+  "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o",
   "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o",
   "https://www.bbc.co.uk/news/videos/cq808d704m22o",
   "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
@@ -341,6 +343,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/mgk-toplantisi-sona-erdi-9-maddelik-bildiri-yayimlandi-2559688",
   "https://www.cumhuriyet.com.tr/siyaset/mugla-buyuksehir-belediye-baskani-ahmet-aras-tan-akp-ye-gececegi-iddialarina-yanit-2559661",
   "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-yargitay-atamasina-sert-tepki-ataturk-un-partisine-kayyim-atayani-atadilar-2559613",
+  "https://www.cumhuriyet.com.tr/siyaset/resmi-gazete-de-yayimlandi-sahap-kavcioglu-istifa-etmisti-yerine-gelen-isim-belli-oldu-2559800",
   "https://www.cumhuriyet.com.tr/siyaset/rusya-dan-turkiye-ye-330-milyon-dolarlik-petrokimya-yatirimi-basbakan-yardimcisi-tesisin-acilisina-katildi-2559725",
   "https://www.cumhuriyet.com.tr/siyaset/sera-kadigil-den-bakan-kurum-a-cop31-tepkisi-2009-yilindan-beri-ilk-defa-bir-cop-zirvesinde-karar-almayi-beceremediniz-2559747",
   "https://www.cumhuriyet.com.tr/siyaset/siyasilerden-besiktas-a-destek-uefa-ya-tepki-aciklamalari-acik-bir-ilkesizlik-ve-cifte-standart-2559730",
@@ -393,6 +396,7 @@
   "https://www.cumhuriyet.com.tr/spor/super-lig-ekibinden-flas-karar-4-isim-kadro-disi-birakildi-2559610",
   "https://www.cumhuriyet.com.tr/spor/tff-baskani-macin-neden-batum-da-oynandigini-acikladi-israil-takimlarini-turkiye-ye-biz-istemiyoruz-2559791",
   "https://www.cumhuriyet.com.tr/spor/tff-den-gurcistan-daki-olaylara-tepki-en-guclu-sekilde-kiniyoruz-2559727",
+  "https://www.cumhuriyet.com.tr/spor/thomas-reis-tan-cska-sofya-galibiyeti-aciklamasi-bizim-icin-kolay-degildi-ama-2559799",
   "https://www.cumhuriyet.com.tr/spor/triple-double-nedir-basketbolda-triple-double-ne-demek-2559564",
   "https://www.cumhuriyet.com.tr/spor/uefa-duyurmustu-besiktas-in-israil-takimiyla-neden-gurcistan-da-oynadigi-belli-oldu-2559749",
   "https://www.cumhuriyet.com.tr/spor/uefa-nin-kararlarina-tepki-fenerbahce-galatasaray-ve-trabzonspor-dan-besiktas-a-destek-2559722",
@@ -662,6 +666,7 @@
   "https://www.evrensel.net/haber/6011376/batum-daki-mac-oncesi-filistin-bayragi-acan-besiktas-taraftarlarina-mudahale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/gurcistan-polisinden-besiktas-taraftarina-filistin-mudahalesi-besiktas-hapoel-beer-seva-yi-2-1-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/gurcistan-polisinden-besiktas-taraftarina-filistin-mudahalesi-besiktas-in-israil-takimiyla-oynadigi-mac-yeniden-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011377/kervanpinar-da-tel-orgulerin-ardinda-1-ay-topragimiz-bize-yasaklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011377/topragimiz-bize-yasaklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011378/cinlayanlar-in-13-oykusu-13-sanatcinin-yorumuyla-dekk-te?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011379/ocalan-dan-ozel-e-komisyona-katilmama-karari-cozumsuzluk-isteyenlerin-elini-guclendirir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -683,6 +688,8 @@
   "https://www.evrensel.net/haber/6011390/siyasi-partilerden-batum-da-besiktas-taraftarlarina-saldiriya-tepki-saray-iktidari-ve-tff-de-sorumludur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011391/tcmb-den-iki-yeni-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-faizi-artirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011392/tff-baskani-haciosmanoglu-besiktas-in-neden-istanbul-da-oynamadigini-acikladi-gerekce-guvenlik-degil-devlet-politikasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011393/2027-dunya-kupasi-avrupa-elemeleri-turkiye-italya-ya-86-72-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011394/habas-ta-patronu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -777,6 +784,7 @@
   "https://www.faz.net/aktuell/sport/fussball/christian-ilzer-und-hoffenheim-besiegen-seinen-herzensklub-sturm-graz-201210536.html",
   "https://www.faz.net/aktuell/sport/fussball/dreesen-antwortet-auf-kimmichs-kritik-im-fall-musiala-201721093.html",
   "https://www.faz.net/aktuell/sport/fussball/europa-league-bayer-leverkusen-siegt-souveraen-bei-dinamo-zagreb-201210527.html",
+  "https://www.faz.net/aktuell/sport/fussball/europa-league-marco-rose-und-afc-bournemouth-weiter-auf-rekordkurs-201210539.html",
   "https://www.faz.net/aktuell/sport/fussball/europa-league-sc-freiburg-siegt-gegen-enschede-dank-beste-in-der-nachspielzeit-201305712.html",
   "https://www.faz.net/aktuell/sport/fussball/laura-freigang-16-monate-sperre-bedeuten-fussball-wm-2027-aus-accg-201719985.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/aaron-rodgers-das-traurige-ende-einer-grossen-karriere-kommentar-201719068.html",
@@ -1035,6 +1043,7 @@
   "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
   "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
   "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
+  "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
   "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
   "https://www.theguardian.com/uk-news/2026/nov/26/man-drugged-wife-rape-strangers-stockport-guilt-shame",
   "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
@@ -1049,6 +1058,7 @@
   "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
   "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
   "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+  "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
   "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
   "https://www.theguardian.com/us-news/2026/nov/27/california-father-dies-helping-son-mountain-hike",
   "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
