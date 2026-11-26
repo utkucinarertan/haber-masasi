@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T02:19+01:00",
+ "updatedAt": "2026-11-26T02:49+01:00",
  "countries": {
   "de": [
    {
@@ -107,6 +107,24 @@
     }
    },
    {
+    "time": "2026-11-26T01:25:54+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+    "text": {
+     "tr": "Kahire'de bir otoyolda devrilen yakıt tankerinin alev alması sonucu en az 31 kişi hayatını kaybetti, 15 kişi yaralandı.",
+     "de": "Bei einem Tanklasterunfall auf einer vielbefahrenen Autobahn in Kairo sind mindestens 31 Menschen ums Leben gekommen und 15 weitere verletzt worden."
+    }
+   },
+   {
+    "time": "2026-11-26T01:19:04+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-nigerianische-behoerden-beschlagnahmen-meth-im-millionenwert.html",
+    "text": {
+     "tr": "Nijeryalı yetkililer, 226,8 milyon dolar değerinde metamfetamin ele geçirdi ve beş Meksika vatandaşını gözaltına aldı.",
+     "de": "Nigerianische Behörden haben Methamphetamin im Wert von 226,8 Millionen US-Dollar beschlagnahmt und fünf mexikanische Staatsbürger festgenommen."
+    }
+   },
+   {
     "time": "2026-11-26T00:01:40+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "New York'taki geleneksel Macy's Şükran Günü geçit töreni, fırtına nedeniyle tarihinde ilk kez ertelendi.",
      "de": "Wegen eines Sturms wurde die New Yorker Macy's-Thanksgiving-Parade erstmals in ihrer Geschichte verschoben."
-    }
-   },
-   {
-    "time": "2026-11-25T23:37:18+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
-    "text": {
-     "tr": "Duran Duran grubunun gitaristi Andy Taylor, uzun süren kanser mücadelesinin ardından 65 yaşında hayatını kaybetti.",
-     "de": "Duran-Duran-Gitarrist Andy Taylor ist nach einem langen Kampf gegen Prostatakrebs im Alter von 65 Jahren gestorben."
-    }
-   },
-   {
-    "time": "2026-11-25T23:06:06+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
-    "text": {
-     "tr": "Gazze'de İsrail saldırısında öldürülen Filistinli gazeteci Mariam Dagga, Rory Peck ödülüne layık görüldü.",
-     "de": "Die in Gaza durch einen israelischen Angriff getötete palästinensische Journalistin Mariam Dagga wurde posthum mit dem Rory-Peck-Preis ausgezeichnet."
     }
    }
   ]
@@ -903,6 +903,7 @@
   "https://www.faz.net/premium/einspruch/exklusiv/streit-von-fc-bayern-muenchen-mit-jamal-musiala-kann-ihm-der-verein-kuendigen-accg-201710824.html",
   "https://www.faz.net/premium/meine-finanzen/vermoegensaufbau/ki-im-fonds-was-anleger-wirklich-wissen-sollten-accg-201708320.html",
   "https://www.faz.net/video/us-gericht-spricht-huawei-wegen-betrugs-schuldig-201715966.html",
+  "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
   "https://www.france24.com/en/americas/20261124-hostages-supermarket-colombia-cartagena-flights",
   "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
   "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
@@ -1168,6 +1169,7 @@
   "https://www.welt.de/politik/ausland/article6b06bd17cd4642ba2eb183c8/daenemark-staatsanwaeltin-ist-stolz-erste-anklaegerin-mit-kopftuch-zu-sein-daenemark-reagiert-mit-verbot.html",
   "https://www.welt.de/politik/ausland/article6b06e5805b0e340c047ac985/handelskonflikt-bis-zu-20-prozent-usa-planen-neue-zoelle-gegen-eu-und-weitere-handelspartner.html",
   "https://www.welt.de/politik/ausland/article6b06ed917fa00ffe65bf3286/nach-luftraumverletzungen-polen-richtet-flugverbotszone-an-grenze-zur-ukraine-ein.html",
+  "https://www.welt.de/politik/ausland/article6b07769dd4a4a3142c573edf/drogenhandel-nigerianische-behoerden-beschlagnahmen-meth-im-millionenwert.html",
   "https://www.welt.de/politik/ausland/plus6afda75a97d08a88fa8a3c99/litauens-aussenminister-deutschland-ist-verwundbarer-als-litauen.html",
   "https://www.welt.de/politik/ausland/plus6afda75a97d08a88fa8a3c99/litauens-aussenminister-was-uns-in-europa-fehlt-ist-eine-kollektive-antwort-auf-russlands-aktionen.html",
   "https://www.welt.de/politik/ausland/plus6b03302539a3e8110f0e6f71/russische-exklave-kaliningrad-zustand-der-paranoia-und-ein-problem-das-putin-nicht-loesen-kann.html",
