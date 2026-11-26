@@ -1,8 +1,26 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T20:37+01:00",
+ "updatedAt": "2026-11-26T21:07+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T20:55:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/wirtschaft/unternehmen/grosskonzerne-laufen-sturm-gegen-steigende-transportkosten-auf-der-schiene-a-3d67f09d-ff17-44f3-92af-c541a159d151#ref=rss",
+    "text": {
+     "tr": "BASF, Bayer ve Salzgitter gibi büyük Alman şirketleri, artan demiryolu ulaşım maliyetlerine karşı ulaştırma bakanına mektup göndererek reform talep etti.",
+     "de": "Großkonzerne wie BASF, Bayer und Salzgitter fordern in einem Brief an den Verkehrsminister Reformen gegen steigende Transportkosten auf der Schiene."
+    }
+   },
+   {
+    "time": "2026-11-26T20:42:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/biennale-von-venedig-hoor-al-qasimi-kuratiert-ausstellung-2028-a-e1a599a5-fa53-450f-b594-bd53476bace9#ref=rss",
+    "text": {
+     "tr": "Bae'li Şeyh'in kızı Hoor Al Qasimi, 2028 yılındaki Venedik Sanat Bienali'nin sanatsal yönetmenliğine getirildi.",
+     "de": "Hoor Al Qasimi übernimmt im Jahr 2028 die künstlerische Leitung der Kunstbiennale in Venedig."
+    }
+   },
    {
     "time": "2026-11-26T20:25:00+01:00",
     "source": "Der Spiegel",
@@ -22,77 +40,59 @@
     }
    },
    {
-    "time": "2026-11-26T18:59:05+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/afrika/senegal-uebung-bundeswehr-100.html",
-    "text": {
-     "tr": "Alman ordusu, Senegal'de yaklaşık 1.000 askerin katılımıyla Afrika'daki tarihin en büyük tatbikatını gerçekleştiriyor.",
-     "de": "Die Bundeswehr übt mit rund 1.000 Soldaten im Senegal bei ihrer bislang größten Afrika-Manöver."
-    }
-   },
-   {
-    "time": "2026-11-26T18:46:27+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/gesellschaft/menschen/deutsche-marine-erstmals-uebernimmt-eine-frau-das-kommando-201721419.html",
-    "text": {
-     "tr": "Lydia Knaak, Alman deniz üssünün komutanlığına getirilen ilk kadın oldu.",
-     "de": "Lydia Knaak übernimmt als erste Frau das Kommando über einen deutschen Marinestützpunkt."
-    }
-   },
-   {
-    "time": "2026-11-26T18:19:08+00:00",
+    "time": "2026-11-26T19:20:09+00:00",
     "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b0872e909772de37185056c/wetter-sollte-keiner-unterwegs-sein-ploetzlicher-wintereinbruch-sorgt-fuer-chaos-a93-zeitweise-gesperrt.html",
+    "url": "https://www.welt.de/politik/deutschland/article6b0882750df5a2a9b7288922/berlin-cdu-fehlen-bei-geheim-wahl-ploetzlich-stimmen-afd-gewinnt-zusaetzlichen-platz-in-bundesversammlung.html",
     "text": {
-     "tr": "Bavyera'nın güneyinde ve Avusturya'da ani kış fırtınası ve buzlanma kaosa yol açarken, A93 otoyolu geçici olarak kapatıldı.",
-     "de": "Ein plötzlicher Wintereinbruch sorgt im Süden Bayerns und in Österreich für Chaos, Glätte und eine zeitweise Sperrung der A93."
+     "tr": "Berlin parlamentosundaki gizli delegelik seçimlerinde CDU'nun oyları eksik çıkınca, AfD federal mecliste ek bir koltuk kazandı.",
+     "de": "Bei einer geheimen Abstimmung im Berliner Landesparlament fehlen der CDU Stimmen, wodurch die AfD einen zusätzlichen Platz in der Bundesversammlung gewinnt."
     }
    }
   ],
   "tr": [
    {
-    "time": "2026-11-26T22:21:00+03:00",
+    "time": "2026-11-26T22:57:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/marsilya-3-puani-tek-golle-aldi-2559738",
+    "text": {
+     "tr": "UEFA Avrupa Ligi'nde Marsilya, sahasında Levski Sofya'yı 1-0 mağlup etti.",
+     "de": "In der UEFA Europa League besiegte Olympique Marseille Levski Sofia im eigenen Stadion mit 1:0."
+    }
+   },
+   {
+    "time": "2026-11-26T22:48:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/milan-dan-avrupa-ligi-nde-olympiakos-u-devirdi-2559736",
+    "text": {
+     "tr": "UEFA Avrupa Ligi'nde Milan, deplasmanda Olympiakos'u 4-2 yendi.",
+     "de": "In der UEFA Europa League gewann Milan auswärts gegen Olympiakos Piräus mit 4:2."
+    }
+   },
+   {
+    "time": "2026-11-26T22:44:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/tcmb-den-iki-yeni-hamle-repo-ihaleleri-durduruldu-zorunlu-karsilik-orani-degisti-2559734",
+    "text": {
+     "tr": "Türkiye Cumhuriyet Merkez Bankası, bir hafta vadeli repo ihalelerini durdurdu ve zorunlu karşılık oranlarında değişikliğe gitti.",
+     "de": "Die Zentralbank der Republik Türkei hat einwöchige Repogeschäfte ausgesetzt und die Mindestreserveanforderungen geändert."
+    }
+   },
+   {
+    "time": "2026-11-26T22:38:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/besiktas-macinda-yasananlarin-ardindan-bakan-fidan-gurcu-mevkidasi-ile-gorustu-2559733",
+    "text": {
+     "tr": "Dışişleri Bakanı Hakan Fidan, Beşiktaş maçında Gürcü polisinin şiddetine maruz kalan Türk vatandaşları için Gürcü mevkidaşıyla görüştü.",
+     "de": "Außenminister Hakan Fidan telefonierte mit seiner georgischen Amtskollegin über die Lage der türkischen Staatsbürger beim Beşiktaş-Spiel in Batumi."
+    }
+   },
+   {
+    "time": "2026-11-26T22:32:00+03:00",
     "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011384/savcilik-aralarinda-cansu-taskin-in-da-bulundugu-uc-suphelinin-tutuklanmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "url": "https://www.evrensel.net/haber/6011386/zonguldak-ta-maden-ocagindaki-is-kazasinda-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
     "text": {
-     "tr": "İstanbul'da yürütülen uyuşturucu soruşturmasında Cansu Taşkın'ın da aralarında bulunduğu 3 şüpheli tutuklanma talebiyle hakimliğe sevk edildi.",
-     "de": "Im Rahmen einer Drogenermittlung gegen Prominente in Istanbul hat die Staatsanwaltschaft Untersuchungshaft für drei Verdächtige beantragt."
-    }
-   },
-   {
-    "time": "2026-11-26T22:05:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/rusya-dan-turkiye-ye-330-milyon-dolarlik-petrokimya-yatirimi-basbakan-yardimcisi-tesisin-acilisina-katildi-2559725",
-    "text": {
-     "tr": "Rusya Başbakan Yardımcısı Aleksandr Novak, Kocaeli'de Tatneft'in 330 milyon dolarlık petrokimya tesisinin açılışına katıldı.",
-     "de": "Der russische Vize-Premierminister Alexander Nowak nahm an der Eröffnung einer petrochemischen Anlage von Tatneft in Kocaeli im Wert von 330 Millionen Dollar teil."
-    }
-   },
-   {
-    "time": "2026-11-26T21:39:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/fatma-betul-sayan-kaya-18-gun-tutuklulugun-ardindan-tahliye-edildi-murat-calik-tahliye-basvurusu-yaptigi-acikladi-2559723",
-    "text": {
-     "tr": "Eski AKP Genel Başkan Yardımcısı Fatma Betül Sayan Kaya, fon soruşturmasında 18 gün tutukluluğun ardından tahliye edildi.",
-     "de": "Die ehemalige AKP-Vizevorsitzende Fatma Betül Sayan Kaya wurde nach 18 Tagen Untersuchungshaft in einer Fonds-Ermittlung freigelassen."
-    }
-   },
-   {
-    "time": "2026-11-26T21:20:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-macinda-tribunler-karisti-karsilasma-durduruldu-2559720",
-    "text": {
-     "tr": "Beşiktaş ile Hapoel Beer Sheva maçının 25. dakikasında Gürcü polisinin taraftara müdahalesi nedeniyle karşılaşma durduruldu.",
-     "de": "Das Spiel zwischen Beşiktaş und Hapoel Beer Sheva wurde in der 25. Minute nach einem Polizeieinsatz gegen türkische Fans unterbrochen."
-    }
-   },
-   {
-    "time": "2026-11-26T20:52:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/new-york-ta-yapay-zeka-sohbet-robotunu-destekleyen-oyuncaklara-yasak-2559717",
-    "text": {
-     "tr": "New York eyaleti, yapay zeka destekli sohbet robotlarıyla çalışan oyuncakların üretim ve satışını 5 yıl süreyle yasakladı.",
-     "de": "Der US-Bundesstaat New York hat die Produktion und den Verkauf von spielzeugbasierten KI-Chatbots für fünf Jahre verboten."
+     "tr": "Zonguldak'taki bir maden ocağında meydana gelen iş kazasında 2 işçi yaralandı.",
+     "de": "Bei einem Arbeitsunfall in einem Bergwerk in Zonguldak wurden zwei Arbeiter verletzt."
     }
    }
   ],
@@ -116,30 +116,30 @@
     }
    },
    {
+    "time": "2026-11-26T19:54:05+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
+    "text": {
+     "tr": "İngiltere'nin Nottingham kentinde uzun süreli partnerini uyku ilacıyla uyuşturup cinsel saldırıda bulunan bir adam 12 yıl hapis cezasına çarptırıldı.",
+     "de": "Ein Mann aus Nottingham wurde zu 12 Jahren Haft verurteilt, nachdem er seine langjährige Partnerin mit Tabletten betäubt und sexuell missbraucht hatte."
+    }
+   },
+   {
+    "time": "2026-11-26T19:41:37+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump, ara seçimler öncesinde açıklanan ekonomik verilerin sahte olduğunu iddia ederek soruşturma talep etti.",
+     "de": "US-Präsident Donald Trump hat ohne Beweise behauptet, vor den Zwischenwahlen veröffentlichte Wirtschaftsdaten seien gefälscht, und eine Untersuchung gefordert."
+    }
+   },
+   {
     "time": "2026-11-26T19:16:35+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
     "text": {
      "tr": "ABD Senatosu'ndan geçen yeni enerji ruhsatlandırma tasarısı, temiz su korumalarını tehlikeye attığı gerekçesiyle eleştiriliyor.",
      "de": "Ein vom US-Senat verabschiedetes Gesetz zur Beschleunigung von Energieprojekten bedroht nach Ansicht von Umweltschützern wichtige Schutzstandards für sauberes Wasser."
-    }
-   },
-   {
-    "time": "2026-11-26T18:48:41+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
-    "text": {
-     "tr": "Sınır Tanımayan Gazeteciler, çoğulculuk kuralına uymadığı gerekçesiyle Fransız CNews kanalının askıya alınmasını istedi.",
-     "de": "Reporter ohne Grenzen forderte die Aussetzung des französischen Fernsehsenders CNews wegen Verstößen gegen den Pluralismus."
-    }
-   },
-   {
-    "time": "2026-11-26T18:45:44+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/football/2026/nov/26/fifa-cyberattack-hack-personal-information",
-    "text": {
-     "tr": "FIFA, geçirdiği siber saldırı sonucunda bazı kişisel ve iş verilerinin ele geçirildiğini doğruladı.",
-     "de": "Die FIFA bestätigte, dass bei einem Cyberangriff persönliche und geschäftliche Daten abgegriffen wurden."
     }
    }
   ]
@@ -195,6 +195,7 @@
   "https://tr.euronews.com/2026/11/26/rio-de-janeiroda-corcovado-ustunde-bulut-selalesi-goruntu-gercek-yapay-zeka-yok",
   "https://tr.euronews.com/2026/11/26/rio-de-janeiroda-cristo-redentor-bulut-selalesi-goruntusu-yapay-zeka-degil",
   "https://tr.euronews.com/2026/11/26/rio-de-janeirodaki-cristo-redentorda-bulut-selalesi-yapay-zeka-degil",
+  "https://tr.euronews.com/2026/11/26/rusyadan-ukraynaya-balistik-fuze-ve-iha-saldirisi-en-az-3-olu",
   "https://tr.euronews.com/2026/11/26/seyahat-tutkunlarina-noel-2026-hediye-rehberi-valizden-gunes-paneline",
   "https://tr.euronews.com/2026/11/26/temu-abdeki-ticari-uygulamalarini-degistirmeyi-kabul-etti-komisyona-gore",
   "https://tr.euronews.com/2026/11/26/trump-robert-pattinsonin-yeni-james-bond-rolune-sans-diledi-siyasetine-bakti",
@@ -231,6 +232,7 @@
   "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
   "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o",
   "https://www.bbc.co.uk/news/videos/c52e8ndplvemo",
+  "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o",
   "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
   "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo",
   "https://www.bbc.com/turkce/articles/c63rg9vy987qo",
@@ -285,6 +287,7 @@
   "https://www.cumhuriyet.com.tr/ekonomi/motorine-indirim-geldi-benzin-motorin-ve-lpg-fiyatlari-ne-kadar-oldu-kac-tl-26-kasim-2026-persembe-istanbul-ankara-izmir-guncel-akaryakit-fiyatlari-2559520",
   "https://www.cumhuriyet.com.tr/ekonomi/sehircilik-bakanligi-arsa-satisina-hazirlaniyor-ihale-kapsamindaki-iller-ve-fiyatlar-belli-oldu-2559559",
   "https://www.cumhuriyet.com.tr/ekonomi/tcmb-den-altin-karari-yurtici-uretimden-alimlara-ara-verildi-2559578",
+  "https://www.cumhuriyet.com.tr/ekonomi/tcmb-den-iki-yeni-hamle-repo-ihaleleri-durduruldu-zorunlu-karsilik-orani-degisti-2559734",
   "https://www.cumhuriyet.com.tr/ekonomi/turkiye-cumhuriyet-merkez-bankasi-altin-alimlarina-ara-verdi-alinan-karar-ne-anlama-geliyor-2559578",
   "https://www.cumhuriyet.com.tr/ekonomi/visa-dan-a-ticaret-donemine-isik-tutan-arastirma-raporu-turkiye-alisveriste-yapay-zekaya-hazir-2559632",
   "https://www.cumhuriyet.com.tr/gurme/altin-sarisi-ve-citir-citir-iste-nefis-tavuk-sinitzel-tarifi-2559666",
@@ -317,6 +320,7 @@
   "https://www.cumhuriyet.com.tr/otomotiv/ab-kurallari-oncesi-kritik-hamle-byd-fransa-da-uretim-tesisi-almak-icin-gorusmelere-basladi-2559681",
   "https://www.cumhuriyet.com.tr/otomotiv/tesla-nin-avrupa-daki-otonom-surus-planina-erteleme-kritik-ab-oylamasi-15-aralik-a-kaldi-2559678",
   "https://www.cumhuriyet.com.tr/siyaset/bahceli-dem-parti-imrali-heyetini-tbmm-de-kabul-edecek-2559537",
+  "https://www.cumhuriyet.com.tr/siyaset/besiktas-macinda-yasananlarin-ardindan-bakan-fidan-gurcu-mevkidasi-ile-gorustu-2559733",
   "https://www.cumhuriyet.com.tr/siyaset/butce-gorusmelerinde-dikkat-ceken-diyalog-chp-li-gursel-erol-bakan-murat-kurum-u-ovdu-akp-muhalefete-ornek-alin-dedi-2559673",
   "https://www.cumhuriyet.com.tr/siyaset/datca-da-yeni-partili-meclis-uyesi-bekir-cumen-hayatini-kaybetti-2559694",
   "https://www.cumhuriyet.com.tr/siyaset/fatma-betul-sayan-kaya-18-gun-tutuklulugun-ardindan-tahliye-edildi-murat-calik-tahliye-basvurusu-yaptigi-acikladi-2559723",
@@ -339,6 +343,7 @@
   "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-maci-oncesi-olay-filistin-bayragi-acan-taraftara-polis-mudahalesi-2559711",
   "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-macinda-tribunler-karisti-karsilasma-durduruldu-2559720",
   "https://www.cumhuriyet.com.tr/spor/besiktas-tan-hapoel-beer-sheva-macindaki-olaylar-hakkinda-aciklama-2559732",
+  "https://www.cumhuriyet.com.tr/spor/besiktasli-emirhan-topcu-oyuna-devam-edemedi-hastaneye-goturuldu-2559735",
   "https://www.cumhuriyet.com.tr/spor/brezilyali-kaleci-alisson-becker-liverpool-tarihine-gecti-2559703",
   "https://www.cumhuriyet.com.tr/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-26-kasim-persembe-gunu-mac-programi-2559556",
   "https://www.cumhuriyet.com.tr/spor/canli-anlatim-besiktas-hapoel-beer-sheva-2026-2027-sezonu-uefa-avrupa-ligi-lig-etabi-5-haftasi-2559697",
@@ -350,9 +355,12 @@
   "https://www.cumhuriyet.com.tr/spor/fifa-ya-siber-saldiri-buyuk-capta-veri-ihlali-2559686",
   "https://www.cumhuriyet.com.tr/spor/galatasaray-ile-como-arasinda-isbirligi-baskanlar-bir-araya-geldi-2559707",
   "https://www.cumhuriyet.com.tr/spor/genclerbirligi-nin-transfer-yasagi-kaldirildi-2559667",
+  "https://www.cumhuriyet.com.tr/spor/hakem-morten-krogh-kim-nereli-besiktas-hapoel-beer-sheva-macinin-hakemleri-kim-2559737",
   "https://www.cumhuriyet.com.tr/spor/italya-turkiye-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2559569",
   "https://www.cumhuriyet.com.tr/spor/lionel-messi-nin-okul-karnesi-ortaya-cikti-iste-en-basarili-oldugu-ders-2559698",
+  "https://www.cumhuriyet.com.tr/spor/marsilya-3-puani-tek-golle-aldi-2559738",
   "https://www.cumhuriyet.com.tr/spor/mhk-baskani-anthony-taylor-degerlendirdi-galatasaray-in-golu-iptal-edilmeliydi-2559662",
+  "https://www.cumhuriyet.com.tr/spor/milan-dan-avrupa-ligi-nde-olympiakos-u-devirdi-2559736",
   "https://www.cumhuriyet.com.tr/spor/oguzhan-cakir-kimdir-besiktas-galatasaray-derbisinin-hakemi-oguzhan-cakir-kac-yasinda-nereli-2559598",
   "https://www.cumhuriyet.com.tr/spor/osimhen-besiktas-macinda-oynayacak-mi-victor-osimhen-in-saglik-durumu-nasil-2559570",
   "https://www.cumhuriyet.com.tr/spor/real-madrid-paylasti-arda-guler-e-40-milyonluk-hediye-2559642",
@@ -624,6 +632,9 @@
   "https://www.evrensel.net/haber/6011381/trabzonspor-dan-besiktas-macindaki-olaylarin-ardindan-uefa-ya-tepki?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011383/besiktas-hapoel-beer-seva-maci-neden-batum-da-oynaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011384/savcilik-aralarinda-cansu-taskin-in-da-bulundugu-uc-suphelinin-tutuklanmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-11-ler-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011386/zonguldak-ta-maden-ocagindaki-is-kazasinda-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011387/besiktas-tan-hapoel-beer-seva-macindaki-polis-siddetine-dair-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -809,6 +820,7 @@
   "https://www.france24.com/en/we-are-not-fighting-culture-we-fight-to-end-fgm-it-s-a-human-rights-violation-of-women-and-girls",
   "https://www.manager-magazin.de/unternehmen/banken/commerzbank-mit-diesen-personalplaenen-greift-der-unicredit-boss-nach-der-macht-a-14aba68c-8f62-4113-ae09-91141287e537#ref=rss",
   "https://www.manager-magazin.de/unternehmen/mobilitaet/porsche-wie-radikal-ceo-michael-leiters-vorstand-und-management-umbaut-a-2d8bb68a-0d5d-493e-87f0-17c35a6b90e5#ref=rss",
+  "https://www.spiegel.de/ausland/biennale-von-venedig-hoor-al-qasimi-kuratiert-ausstellung-2028-a-e1a599a5-fa53-450f-b594-bd53476bace9#ref=rss",
   "https://www.spiegel.de/ausland/iran-thinktank-iiss-warnt-vor-neuen-zielen-in-europa-a-790a5150-a7a3-4209-85ad-6e21e8e05e53#ref=rss",
   "https://www.spiegel.de/ausland/israel-richter-empfehlen-fast-alle-anklagepunkte-gegen-benjamin-netanyahu-fallen-zu-lassen-a-dc70405a-edcb-4b93-a749-7142539a56da#ref=rss",
   "https://www.spiegel.de/ausland/italien-suizid-von-italiens-ehemaligem-polizeichef-gianni-de-gennaro-wirft-fragen-auf-a-4438294c-29f6-402f-ab44-fe4c7d820ded#ref=rss",
@@ -875,6 +887,7 @@
   "https://www.spiegel.de/wirtschaft/rente-mit-63-ueberblick-ueber-vorteile-und-fallstricke-der-reformideen-a-ca75ebf2-bd7a-435d-b02d-3380bc6d8792#ref=rss",
   "https://www.spiegel.de/wirtschaft/soziales/kretschmer-kritisiert-35-stunden-woche-als-riesigen-irrweg-a-d4577e94-5f05-401a-b644-bdec48855699#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/cohere-bundesregierung-prueft-hoehere-beteiligung-an-kanadischem-ki-anbieter-a-b9034824-995b-4e64-8a60-61151d35136d#ref=rss",
+  "https://www.spiegel.de/wirtschaft/unternehmen/grosskonzerne-laufen-sturm-gegen-steigende-transportkosten-auf-der-schiene-a-3d67f09d-ff17-44f3-92af-c541a159d151#ref=rss",
   "https://www.spiegel.de/wirtschaft/unternehmen/unicredit-ist-bei-commerzbank-am-ziel-und-will-schnell-personal-austauschen-a-ca320f98-a8ad-4687-a3e5-e6930ac6ff09#ref=rss",
   "https://www.spiegel.de/wissenschaft/aegypten-archaeologen-finden-3400-jahre-alten-fluch-papyrus-in-luxor-a-d67309b3-b060-42bd-aab1-2ebd4099a2b8#ref=rss",
   "https://www.spiegel.de/wissenschaft/medizin/ebola-zahl-der-bestaetigten-faelle-im-kongo-steigt-auf-ueber-12-000-a-8f653ddc-cb17-407b-bdb8-322251b30bc4#ref=rss",
@@ -950,8 +963,10 @@
   "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
   "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
   "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
+  "https://www.theguardian.com/uk-news/2026/nov/26/how-much-sharp-fall-uk-immigration-labour-policies",
   "https://www.theguardian.com/uk-news/2026/nov/26/man-drugged-wife-rape-strangers-stockport-guilt-shame",
   "https://www.theguardian.com/uk-news/2026/nov/26/net-migration-to-uk-falls-to-lowest-level-since-1997-excluding-pandemic",
+  "https://www.theguardian.com/uk-news/2026/nov/26/nottingham-man-jailed-for-12-years-for-drugging-and-sexually-assaulting-partner",
   "https://www.theguardian.com/uk-news/2026/nov/26/public-service-broadcaster-services-top-of-tv-app-menus-ofcom",
   "https://www.theguardian.com/uk-news/2026/nov/26/tube-drivers-strike-will-cause-severe-disruption-to-network-on-thursday-and-friday",
   "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
@@ -962,6 +977,7 @@
   "https://www.theguardian.com/us-news/2026/nov/26/louisiana-spacex-exxonmobil-land-deal-lawsuit",
   "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
   "https://www.theguardian.com/us-news/2026/nov/26/storm-thanksgiving-parade-cancellations-severe-weather",
+  "https://www.theguardian.com/us-news/2026/nov/26/trump-fake-economic-figures-midterms",
   "https://www.theguardian.com/us-news/2026/nov/27/california-father-dies-helping-son-mountain-hike",
   "https://www.theguardian.com/world/2026/nov/26/eu-leaders-braced-for-clashes-over-ukraine-aid-at-budget-talks",
   "https://www.theguardian.com/world/2026/nov/26/gaza-ministry-schoolchildren-killed-this-month-israel-strikes",
@@ -1022,6 +1038,7 @@
   "https://www.welt.de/politik/deutschland/article6b08450c1c4d5a00bfba033f/zdf-sendung-keine-talkshow-total-problematisch-wenn-es-so-stimmt-publizistin-reagiert-auf-koran-umfrage-unter-jugendlichen.html",
   "https://www.welt.de/politik/deutschland/article6b084a2d1c4d5a00bfba0400/coesfelder-liste-klare-verfahrensvorgaben-nrw-zieht-aus-abschiebe-skandal-erste-konsequenzen.html",
   "https://www.welt.de/politik/deutschland/article6b086efd09772de371850540/sachsen-anhalt-fuer-mich-sind-das-selten-daemliche-vorschlaege-cdu-politiker-holt-zum-rundumschlag-aus.html",
+  "https://www.welt.de/politik/deutschland/article6b0882750df5a2a9b7288922/berlin-cdu-fehlen-bei-geheim-wahl-ploetzlich-stimmen-afd-gewinnt-zusaetzlichen-platz-in-bundesversammlung.html",
   "https://www.welt.de/politik/deutschland/article6b0882750df5a2a9b7288922/geheime-wahl-berliner-cdu-fehlen-ploetzlich-stimmen-afd-gewinnt-zusaetzlichen-platz-in-bundesversammlung.html",
   "https://www.welt.de/politik/deutschland/plus6b05a7cdd4a4a3142c5713cd/verteidigung-und-aufruestung-es-ist-keine-friedenspolitik-putin-einfach-gewaehren-zu-lassen.html",
   "https://www.welt.de/politik/deutschland/plus6b07e3f70ba62538f716df4a/koalitionskrise-das-grosse-renten-drama.html",
