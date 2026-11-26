@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T19:07+01:00",
+ "updatedAt": "2026-11-26T19:37+01:00",
  "countries": {
   "de": [
    {
@@ -13,12 +13,30 @@
     }
    },
    {
+    "time": "2026-11-26T18:19:08+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/vermischtes/article6b0872e909772de37185056c/wetter-sollte-keiner-unterwegs-sein-ploetzlicher-wintereinbruch-sorgt-fuer-chaos-a93-zeitweise-gesperrt.html",
+    "text": {
+     "tr": "Bavyera'nın güneyinde ve Avusturya'da ani kış fırtınası ve buzlanma kaosa yol açarken, A93 otoyolu geçici olarak kapatıldı.",
+     "de": "Ein plötzlicher Wintereinbruch sorgt im Süden Bayerns und in Österreich für Chaos, Glätte und eine zeitweise Sperrung der A93."
+    }
+   },
+   {
     "time": "2026-11-26T18:16:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/wirtschaft/eu-gipfel-agrarsubventionen-treiben-merz-macron-und-meloni-auseinander-a-ceae53ab-e73d-40f0-8b3e-f93864547653#ref=rss",
     "text": {
      "tr": "AB zirvesinde Şansölye Friedrich Merz, Fransa Cumhurbaşkanı Emmanuel Macron ve İtalya Başbakanı Giorgia Meloni tarım sübvansiyonları nedeniyle anlaşmazlık yaşıyor.",
      "de": "Beim EU-Gipfel driften Kanzler Friedrich Merz, Frankreichs Präsident Emmanuel Macron und Italiens Ministerpräsidentin Giorgia Meloni wegen der Agrarsubventionen weiter auseinander."
+    }
+   },
+   {
+    "time": "2026-11-26T18:14:20+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimer-und-proell-stellen-plan-fuer-europaeisches-tiktok-vor-201718951.html",
+    "text": {
+     "tr": "Kültür Devlet Bakanı Weimer, TikTok'un Avrupa'daki operasyonlarının ortak girişim olarak devredilmesi planına destek olduğunu belirtti.",
+     "de": "Kulturstaatsminister Weimer sieht viel Unterstützung für seinen Plan, TikTok zur Übertragung des Europageschäfts in ein Joint Venture zu zwingen."
     }
    },
    {
@@ -29,27 +47,18 @@
      "tr": "Alman millî futbolcu Laura Freigang, üç doping testini kaçırdığı için 16 ay men cezası aldı ve Dünya Kupası'nı kaçıracak.",
      "de": "Die deutsche Nationalspielerin Laura Freigang wurde nach drei verpassten Dopingtests für 16 Monate gesperrt und verpasst die WM."
     }
-   },
-   {
-    "time": "2026-11-26T17:56:13+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/politik/ausland/italien-gesichtsverschleierung-an-schulen-kuenftig-verboten-201721357.html",
-    "text": {
-     "tr": "İtalya'da okullarda yüz örtmek yeni bir yasayla yasaklandı ve İtalyanca bilmeyen çocuklar için üst sınır getirildi.",
-     "de": "Italien verbietet künftig per Gesetz die Gesichtsverschleierung an Schulen und führt eine Obergrenze für nicht-italienischsprachige Kinder ein."
-    }
-   },
-   {
-    "time": "2026-11-26T17:09:55+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/wintersport/justus-strelow-holt-silber-beim-weltcup-auftakt-in-kontiolahti-201721264.html",
-    "text": {
-     "tr": "Alman biatloncu Justus Strelow, Kontiolahti'deki Dünya Kupası sezon açılış yarışında gümüş madalya kazandı.",
-     "de": "Biathlet Justus Strelow stürmte beim Weltcup-Auftakt in Kontiolahti überraschend auf das Podium und gewann Silber."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T21:20:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-macinda-tribunler-karisti-karsilasma-durduruldu-2559720",
+    "text": {
+     "tr": "Beşiktaş ile Hapoel Beer Sheva maçının 25. dakikasında Gürcü polisinin taraftara müdahalesi nedeniyle karşılaşma durduruldu.",
+     "de": "Das Spiel zwischen Beşiktaş und Hapoel Beer Sheva wurde in der 25. Minute nach einem Polizeieinsatz gegen türkische Fans unterbrochen."
+    }
+   },
    {
     "time": "2026-11-26T20:52:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -78,21 +87,12 @@
     }
    },
    {
-    "time": "2026-11-26T19:17:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011374/cevdet-yilmaz-akin-gurlek-ve-mehmet-simsek-fon-vurgunu-sorusturmalarina-iliskin-aciklama-yapiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "time": "2026-11-26T19:29:13+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/26/istanbulda-kiralik-sosyal-konutlara-yerlesim-aralik-ayinda-10-bin-tlden-baslayacak",
     "text": {
-     "tr": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, 7 portföy yönetim şirketindeki 131 fonun tasfiyesine karar verildiğini ve bu fonlarda 455 bin 758 yatırımcı bulunduğunu açıkladı.",
-     "de": "Vizepräsident Cevdet Yılmaz gab die Auflösung von 131 Fonds in sieben Vermögensverwaltungsgesellschaften mit rund 455.758 Anlegern bekannt."
-    }
-   },
-   {
-    "time": "2026-11-26T19:17:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011374/adalet-bakani-gurlek-fon-vurgununa-iliskin-iddianamenin-yazim-asamasina-gelindigini-acikladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Adalet Bakanı Akın Gürlek, fon vurgunu soruşturmalarında iddianamenin yazım aşamasına gelindiğini açıkladı.",
-     "de": "Justizminister Akın Gürlek gab bekannt, dass die Anklageschrift im Fall des Fondsbetrugs kurz vor der Fertigstellung steht."
+     "tr": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, İstanbul'da kiralık sosyal konutlara yerleşimin aralık ayında 10 bin TL'den başlayacağını açıkladı.",
+     "de": "Minister Murat Kurum gab bekannt, dass die Vermietung sozialer Mietwohnungen in Istanbul im Dezember ab 10.000 Türkischer Lira beginnt."
     }
    }
   ],
@@ -176,6 +176,7 @@
   "https://tr.euronews.com/2026/11/26/ingilterede-genclerin-cinsel-yasami-degisiyor-daha-az-seks-daha-cok-cevrimici",
   "https://tr.euronews.com/2026/11/26/ingiltereli-indirim-zinciri-poundland-iflas-idaresine-girdi-11-bin-is-tehlikede",
   "https://tr.euronews.com/2026/11/26/ispanyada-genel-secim-oncesi-binlerce-kisi-kadina-yonelik-siddeti-protesto-etti",
+  "https://tr.euronews.com/2026/11/26/istanbulda-kiralik-sosyal-konutlara-yerlesim-aralik-ayinda-10-bin-tlden-baslayacak",
   "https://tr.euronews.com/2026/11/26/kahirede-yakit-yuklu-kamyonun-devrilmesinin-ardindan-yangin-cikti-en-az-30-olu",
   "https://tr.euronews.com/2026/11/26/kiyamet-senaryolari-ve-panik-alimlari-uzmanlar-gida-israfi-riskine-uyariyor",
   "https://tr.euronews.com/2026/11/26/kongonun-dogusunda-ebola-vakalari-12-bini-asti-catismalar-salginla-mucadeleyi-engelliyor",
@@ -185,6 +186,8 @@
   "https://tr.euronews.com/2026/11/26/madrid-lizbon-ve-barselona-2027de-avrupada-emlak-yatirimcilarinin-en-cok-aranan-10-kenti-a",
   "https://tr.euronews.com/2026/11/26/merkez-bankasi-yurt-icinde-cevherden-uretilen-altin-alimina-ara-verdi",
   "https://tr.euronews.com/2026/11/26/mgk-toplantisi-sona-erdi-9-maddelik-bildiri-yayimlandi",
+  "https://tr.euronews.com/2026/11/26/nato-polonya-hava-sahasini-izlemek-icin-awacs-erken-uyari-ucagi-konuslandiriyor",
+  "https://tr.euronews.com/2026/11/26/netanyahunun-yolsuzluk-davasi-hakimlerden-kritik-suclamalarin-dusurulmesi-cagrisi",
   "https://tr.euronews.com/2026/11/26/norse-atlantic-persembe-ucuslarini-iptal-etti-iflas-basvurusu-gundemde",
   "https://tr.euronews.com/2026/11/26/reddit-chief-operating-officer-jen-wong-yapay-zeka-internetin-tat-katmani-insanlara-muhtac",
   "https://tr.euronews.com/2026/11/26/rio-de-janeiroda-corcovado-ustunde-bulut-selalesi-goruntu-gercek-yapay-zeka-yok",
@@ -235,6 +238,7 @@
   "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o",
   "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo",
   "https://www.bbc.com/turkce/articles/ckn902gn0d8eo",
+  "https://www.bbc.com/turkce/articles/cmrlgzxy0rp6o",
   "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo",
   "https://www.bbc.com/turkce/articles/cq39gdkr8knzo",
   "https://www.bbc.com/turkce/articles/cqp8364dklm4o",
@@ -324,6 +328,7 @@
   "https://www.cumhuriyet.com.tr/spor/besiktas-galatasaray-derbisinin-hakemi-belli-oldu-2559594",
   "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2559523",
   "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-maci-oncesi-olay-filistin-bayragi-acan-taraftara-polis-mudahalesi-2559711",
+  "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-macinda-tribunler-karisti-karsilasma-durduruldu-2559720",
   "https://www.cumhuriyet.com.tr/spor/brezilyali-kaleci-alisson-becker-liverpool-tarihine-gecti-2559703",
   "https://www.cumhuriyet.com.tr/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-26-kasim-persembe-gunu-mac-programi-2559556",
   "https://www.cumhuriyet.com.tr/spor/canli-anlatim-besiktas-hapoel-beer-sheva-2026-2027-sezonu-uefa-avrupa-ligi-lig-etabi-5-haftasi-2559697",
@@ -407,6 +412,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/ysk-baskani-serdar-mutta-dan-elektronik-oy-aciklamasi-2559607",
   "https://www.cumhuriyet.com.tr/tv-rehberi/avengers-doomsday-ne-zaman-cikacak-avengers-doomsday-konusu-ne-oyunculari-kimler-2559665",
   "https://www.cumhuriyet.com.tr/tv-rehberi/gunesin-dogdugu-yer-dizisinin-yeni-bolumu-ne-zaman-gunesin-dogdugu-yer-dizisinin-son-bolumunde-ne-oldu-2559715",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/ingiliz-anahtari-recep-usta-filminin-konusu-ne-ingiliz-anahtari-recep-usta-filminin-oyunculari-kim-2559721",
   "https://www.cumhuriyet.com.tr/tv-rehberi/mike-tyson-tuzlu-kahve-de-ne-zaman-oynayacak-mike-tyson-tuzlu-kahve-de-kacinci-bolumde-oynayacak-2559528",
   "https://www.cumhuriyet.com.tr/tv-rehberi/muhtemel-ask-dizisinin-yeni-bolumu-ne-zaman-muhtemel-ask-dizisinin-son-bolumunde-ne-oldu-2559705",
   "https://www.cumhuriyet.com.tr/tv-rehberi/sevdigim-sensin-dizisinin-yeni-bolumu-ne-zaman-sevdigim-sensin-dizisinin-son-bolumunde-ne-oldu-2559706",
@@ -596,6 +602,8 @@
   "https://www.evrensel.net/haber/6011374/yilmaz-gurlek-ve-simsek-fon-vurgununa-iliskin-konustu-138-kisi-tutuklu-iddianame-hazirlaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011375/amedspor-mbaye-diagne-ile-yollarini-ayirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/batum-daki-mac-oncesi-filistin-bayragi-acan-besiktas-taraftarlarina-mudahale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011379/ocalan-dan-ozel-e-komisyona-katilmama-karari-cozumsuzluk-isteyenlerin-elini-guclendirir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011380/dem-parti-den-ikby-aciklamasi-sorunlar-anayasal-cercevede-cozulmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -607,6 +615,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ulmen-erwirkt-einstweilige-verfuegung-gegen-spiegel-accg-201718936.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/untersuchung-zu-antisemitismus-kommt-201719622.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/vrm-beendet-druckauftrag-fuer-nius-wochenzeitung-201720215.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimer-und-proell-stellen-plan-fuer-europaeisches-tiktok-vor-201718951.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/simon-abkarian-wird-neuer-chef-des-theatre-du-soleil-201720213.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/wie-deutsche-kultur-auf-die-afd-reagieren-sollte-accg-201713925.html",
   "https://www.faz.net/aktuell/finanzen/andrea-orcel-will-aufsichtsratschef-der-commerzbank-werden-anstelle-von-jens-weidmann-accg-201718811.html",
@@ -673,6 +682,7 @@
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/powerlahn-in-giessen-hessens-erstes-flusskraftwerk-liefert-mehr-waerme-als-erwartet-accg-201716227.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/ruesselsheim-baby-stirbt-nach-bergung-aus-gewaesser-mutter-unter-mordverdacht-201721352.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/sexueller-missbrauch-prozess-gegen-lehrer-vor-landgericht-hanau-accg-201719694.html",
+  "https://www.faz.net/aktuell/rhein-main/weniger-erstsemester-an-hochschulen-in-hessen-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/konsumflaute-hessischer-handel-hofft-auf-weihnachtsgeschaeft-accg-201716088.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/schaeffler-schliesst-standort-schwalbach-ende-einer-aera-accg-201681246.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/weniger-hessenfonds-foerderung-fuer-unternehmensnachfolge-201719486.html",
@@ -807,6 +817,7 @@
   "https://www.spiegel.de/politik/deutschland/ministerpraesidenten-michael-kretschmer-und-mario-voigt-fordern-respekt-rente-a-dccc33fa-a318-413f-8b7d-365ce2859f2a#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-des-tages-anschlagplaene-auf-synagoge-in-koeln-die-grosse-macht-der-techmilliardaere-diskussion-ueber-neue-vorschlaege-zur-rentenreform-a-71d88c8d-ac74-4b6f-a29e-3e1a5fd96dfb#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-eu-haushaltsverhandlungen-cdu-kompromissvorschlag-zur-rente-mit-63-mutmassliche-spionin-vor-gericht-a-2e2df0fa-dd57-4004-a900-871447abe2f6#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/prostitution-warum-ein-sexkaufverbot-den-frauen-nicht-helfen-wuerde-a-7b908479-c243-4dcd-a745-727def1b568f#ref=rss",
   "https://www.spiegel.de/politik/deutschland/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-f1ebd904-9dea-48e9-8bef-b4a99a17b1ea#ref=rss",
   "https://www.spiegel.de/politik/deutschland/rentenstreit-die-spd-muss-sich-fragen-ob-sie-diese-koalition-ueberhaupt-noch-will-kommentar-a-2b52ea0b-7f74-45a3-bce0-500abba12907#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ukrainehilfe-der-kanzler-muss-endlich-klartext-reden-a-10475eeb-5899-4756-ad1d-df3e4f1add56#ref=rss",
@@ -897,6 +908,7 @@
   "https://www.theguardian.com/politics/live/2026/nov/26/uk-eu-food-deal-farage-penalty-compensation-reform-net-migration-latest-news-updates",
   "https://www.theguardian.com/society/2026/nov/26/childrens-hospitals-close-beds-to-comply-with-nhs-cost-cutting-targets",
   "https://www.theguardian.com/society/2026/nov/26/neets-uk-young-people-education-employment-training-andy-burnham",
+  "https://www.theguardian.com/society/2026/nov/26/nhs-hospitals-england-flu-spike-masks",
   "https://www.theguardian.com/society/2026/nov/26/uk-watchdog-calls-for-shake-up-of-private-dentistry-market",
   "https://www.theguardian.com/uk-news/2026/nov/26/anthony-williams-guilty-attempted-murder-lner-train",
   "https://www.theguardian.com/uk-news/2026/nov/26/man-drugged-wife-rape-strangers-stockport-guilt-shame",
@@ -967,6 +979,7 @@
   "https://www.welt.de/politik/deutschland/article6b08283c1d0c4f9ebad70ee3/berlin-nach-ausschluss-aus-der-linken-fraktion-vanessa-emde-erscheint-nicht-zur-plenarsitzung.html",
   "https://www.welt.de/politik/deutschland/article6b083ead78855274ac4ab74b/csu-chef-die-afd-hat-gerade-ihren-peak-erreicht-in-deutschland-wie-in-bayern-sagt-soeder.html",
   "https://www.welt.de/politik/deutschland/article6b084a2d1c4d5a00bfba0400/coesfelder-liste-klare-verfahrensvorgaben-nrw-zieht-aus-abschiebe-skandal-erste-konsequenzen.html",
+  "https://www.welt.de/politik/deutschland/article6b086efd09772de371850540/sachsen-anhalt-fuer-mich-sind-das-selten-daemliche-vorschlaege-cdu-politiker-holt-zum-rundumschlag-aus.html",
   "https://www.welt.de/politik/deutschland/plus6b05a7cdd4a4a3142c5713cd/verteidigung-und-aufruestung-es-ist-keine-friedenspolitik-putin-einfach-gewaehren-zu-lassen.html",
   "https://www.welt.de/politik/deutschland/plus6b07e3f70ba62538f716df4a/koalitionskrise-das-grosse-renten-drama.html",
   "https://www.welt.de/politik/deutschland/plus6b0804700307d967a6b52bac/schlesinger-prozess-neue-rbb-dokumente-bringen-ex-verwaltungsraete-in-erklaerungsnot.html",
@@ -985,6 +998,7 @@
   "https://www.welt.de/vermischtes/article6b081cef1d0c4f9ebad70c63/koeln-frau-erhaelt-550-000-euro-gericht-verhaengt-rekord-schmerzensgeld-gegen-erzbistum-koeln.html",
   "https://www.welt.de/vermischtes/article6b082e3d78855274ac4ab49a/nordrhein-westfalen-voll-verschleiert-zum-elterngespraech-schule-darf-mutter-mit-niqab-nicht-aussperren.html",
   "https://www.welt.de/vermischtes/article6b083f7a049b92145ab3f909/gerard-depardieu-soll-erstmals-wegen-vergewaltigung-vor-gericht.html",
+  "https://www.welt.de/vermischtes/article6b0872e909772de37185056c/wetter-sollte-keiner-unterwegs-sein-ploetzlicher-wintereinbruch-sorgt-fuer-chaos-a93-zeitweise-gesperrt.html",
   "https://www.welt.de/videos/video6b07cd9eeb921eaaa2fbe375/haushalts-debatte-mittlerweile-begreift-auch-der-letzte-im-land-dass-irgendwas-nicht-stimmen-kann.html",
   "https://www.welt.de/videos/video6b084f5e78855274ac4aba28/ukraine-politik-kushner-ist-kein-diplomat-er-ist-ein-schwiegersohn-und-mehr-nicht.html",
   "https://www.welt.de/wirtschaft/article6b07cc1bc75e09cb88d1667a/dgb-fordert-einmalige-vermoegensabgabe-fuer-allerreichste.html",
