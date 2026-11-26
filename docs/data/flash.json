@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T07:23+01:00",
+ "updatedAt": "2026-11-26T07:53+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T07:25:31+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
+    "text": {
+     "tr": "Aile Bakanı Prien, küçük çocukların ilk üç yaşlarında ekrandan uzak büyümelerini savundu.",
+     "de": "Familienministerin Prien hat sich dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme aufwachsen."
+    }
+   },
    {
     "time": "2026-11-26T07:08:00+01:00",
     "source": "Der Spiegel",
@@ -38,18 +47,36 @@
      "tr": "Kuzey Kore lideri Kim Jong Un, ülkesinin 60'tan fazla olan nükleer savaş başlığı cephaneliğinin ve taktik nükleer silahların kullanımının artırılmasını istedi.",
      "de": "Nordkoreas Machthaber Kim Jong Un fordert einen Ausbau des Arsenals von mindestens 60 Atomsprengköpfen und einen breiteren Einsatz taktischer Atomwaffen."
     }
-   },
-   {
-    "time": "2026-11-26T06:00:30+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
-    "text": {
-     "tr": "Alman bir şirket yöneticisinin, Manş Denizi'ndeki insan kaçakçılarına bot ve motor tedarik ettiği iddia edildi.",
-     "de": "Ein deutscher Firmenchef soll Schleuserbanden mit Booten und Motoren für Fahrten über den Ärmelkanal beliefert haben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T09:48:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/milli-guvenlik-kurulu-bugun-toplanacak-iste-kritik-gundem-maddeleri-2559535",
+    "text": {
+     "tr": "Milli Güvenlik Kurulu, Cumhurbaşkanı Recep Tayyip Erdoğan başkanlığında bölgesel güvenlik gündemiyle toplanıyor.",
+     "de": "Der Nationale Sicherheitsrat in der Türkei tagt unter dem Vorsitz von Präsident Recep Tayyip Erdoğan zu regionalen Sicherheitsfragen."
+    }
+   },
+   {
+    "time": "2026-11-26T09:37:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/kepez-belediyesi-ne-yonelik-operasyonda-yeni-gelisme-21-kisi-tutuklandi-2559533",
+    "text": {
+     "tr": "Antalya'nın Kepez Belediyesine yönelik rüşvet operasyonunda gözaltına alınan 24 kişiden 21'i tutuklandı.",
+     "de": "Bei einer Bestechungsrazzia gegen die Gemeinde Kepez in Antalya wurden 21 von 24 Festgenommenen inhaftiert."
+    }
+   },
+   {
+    "time": "2026-11-26T09:35:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/akom-tarih-verdi-istanbul-a-sibirya-soguklari-geliyor-2559531",
+    "text": {
+     "tr": "İstanbul'da sıcaklıklar pazar gününden itibaren Sibirya kökenli soğuk hava dalgasıyla birlikte düşecek.",
+     "de": "In Istanbul sinken die Temperaturen ab Sonntag drastisch durch eine Kältewelle sibirischen Ursprungs."
+    }
+   },
    {
     "time": "2026-11-26T09:15:00+03:00",
     "source": "Evrensel",
@@ -67,36 +94,36 @@
      "tr": "Hazine ve Maliye Bakanı Mehmet Şimşek, eski BDDK Başkanı Şahap Kavcıoğlu hakkında soruşturma izni verdi.",
      "de": "Finanzminister Mehmet Şimşek hat die Erholung von Ermittlungen gegen den ehemaligen BDDK-Präsidenten Şahap Kavcıoğlu genehmigt."
     }
-   },
-   {
-    "time": "2026-11-26T08:50:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-feto-operasyonu-kesinlesmis-cezasi-bulunan-3-firari-yakalandi-2559514",
-    "text": {
-     "tr": "Ankara'da düzenlenen FETÖ operasyonunda, hakkında kesinleşmiş 18 yıl hapis cezası bulunan 3 firari yakalandı.",
-     "de": "Bei einer FETÖ-Operation in Ankara wurden drei flüchtige Verdächtige mit rechtskräftigen Haftstrafen von bis zu 18 Jahren festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-26T08:41:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-20-dakikalik-kovalamaca-kar-maskeli-3-supheli-yakalandi-kalasnikof-ele-gecirildi-2559513",
-    "text": {
-     "tr": "İstanbul Arnavutköy'de polisle yaşanan 20 dakikalık kovalamaca sonucunda kar maskeli 3 şüpheli gözaltına alındı ve bir AK-47 piyade tüfeği ele geçirildi.",
-     "de": "Nach einer 20-minütigen Verfolgungsjagd in Istanbul-Arnavutköy wurden drei maskierte Verdächtige festgenommen und ein Sturmgewehr sichergestellt."
-    }
-   },
-   {
-    "time": "2026-11-26T08:30:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011242/avrasya-tuneli-nde-garanti-sayisi-tutmadi-odeme-surdu-hazine-den-sirkete-775-milyon-lira-aktarildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Yeniden Refah Partisi Milletvekili Deniz Yavuzyılmaz, Avrasya Tüneli için 2026'nın ilk 10 ayında Hazine'den şirkete 775 milyon lira aktarıldığını açıkladı.",
-     "de": "Laut Angaben der Opposition wurden in den ersten zehn Monaten des Jahres 277 Millionen Lira aus der Staatskasse an die Betreiberfirma des Eurasientunnels gezahlt."
-    }
    }
   ],
   "world": [
+   {
+    "time": "2026-11-26T06:36:54+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b07cbcad4a4a3142c574148/israel-richter-wollen-anklagepunkte-gegen-netanjahu-im-korruptionsprozess-fallen-lassen.html",
+    "text": {
+     "tr": "İsrail'deki hakimler, yolsuzluk davasında Başbakan Binyamin Netanyahu hakkındaki rüşvet suçlamalarının düşürülmesini istiyor.",
+     "de": "Richter wollen im Korruptionsprozess gegen Israels Ministerpräsident Netanjahu Anklagepunkte wegen Bestechung fallen lassen."
+    }
+   },
+   {
+    "time": "2026-11-26T06:32:05+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b07cd0cd4a4a3142c574154/russland-soll-ukraine-krieg-nicht-ausweiten-fordern-trump-und-rutte.html",
+    "text": {
+     "tr": "ABD Başkanı Donald Trump ve NATO Genel Sekreteri Mark Rutte, Rusya'dan Ukrayna savaşını genişletmemesini istedi.",
+     "de": "US-Präsident Donald Trump und Nato-Generalsekretär Mark Rutte fordern Russland auf, den Ukraine-Krieg nicht auszuweiten."
+    }
+   },
+   {
+    "time": "2026-11-26T06:28:48+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
+    "text": {
+     "tr": "Irak mahkemesi, DEAŞ üyeliğiyle suçlanan 20 Fransız vatandaşı hakkında kararını açıklayacak.",
+     "de": "Ein irakischer Gerichtshof will Urteile gegen 20 französische Staatsbürger wegen Mitgliedschaft in der Terrormiliz IS sprechen."
+    }
+   },
    {
     "time": "2026-11-26T06:10:56+00:00",
     "source": "The Guardian World",
@@ -114,24 +141,6 @@
      "tr": "Mısır'ın başkenti Kahire'de yakıt tankerinin devrilmesiyle çıkan yangında en az 30 kişi hayatını kaybetti.",
      "de": "Beim Brand eines umgestürzten Tanklasters in der ägyptischen Hauptstadt Kairo sind mindestens 30 Menschen ums Leben gekommen."
     }
-   },
-   {
-    "time": "2026-11-26T05:41:15+01:00",
-    "source": "tagesschau Ausland",
-    "url": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
-    "text": {
-     "tr": "ABD'de Şükran Günü yaklaşırken Kaliforniya'da seller ve Doğu Yakası'nda şiddetli fırtınalar seyahat planlarını tehdit ediyor.",
-     "de": "Schwere Stürme und Überschwemmungen in den USA gefährden pünktlich zu Thanksgiving die Reisepläne vieler Menschen."
-    }
-   },
-   {
-    "time": "2026-11-26T05:00:46+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
-    "text": {
-     "tr": "Birleşik Krallık, Ukrayna'nın savaşta zarar gören enerji sistemini desteklemek için bir rüzgâr santraline 9,5 milyon sterlin yatıracak.",
-     "de": "Großbritannien investiert 9,5 Millionen Pfund in einen Windpark zur Stützung des ukrainischen Energiesystems."
-    }
    }
   ]
  },
@@ -143,18 +152,33 @@
   "https://tr.euronews.com/2026/11/26/kiyamet-senaryolari-ve-panik-alimlari-uzmanlar-gida-israfi-riskine-uyariyor",
   "https://tr.euronews.com/2026/11/26/kuresel-piyasalar-toparlandi-teknoloji-sirketleri-yukseldi-gumruk-endisesi-azaldi",
   "https://tr.euronews.com/2026/11/26/yunanistanin-borclanma-maliyeti-dustu-italya-ve-fransanin-altina-indi",
+  "https://www.bbc.com/turkce/articles/ck1wre80j7ggo",
+  "https://www.bbc.com/turkce/articles/cqp8364dklm4o",
+  "https://www.cumhuriyet.com.tr/egitim/2026-ales-3-ne-zaman-hangi-gun-yapilacak-ales-3-saat-kacta-baslayacak-kac-dakika-suruyor-2559527",
+  "https://www.cumhuriyet.com.tr/ekonomi/motorin-fiyatlarina-indirim-geldi-akaryakitta-gozler-simdi-benzinde-2559526",
   "https://www.cumhuriyet.com.tr/ekonomi/motorine-indirim-geldi-benzin-motorin-ve-lpg-fiyatlari-ne-kadar-oldu-kac-tl-26-kasim-2026-persembe-istanbul-ankara-izmir-guncel-akaryakit-fiyatlari-2559520",
+  "https://www.cumhuriyet.com.tr/gurme/kahvalti-sofralarina-lezzet-katacak-enfes-mantarli-omlet-tarifi-2559532",
+  "https://www.cumhuriyet.com.tr/gurme/orta-asya-mutfak-kulturunun-efsanesi-ozbek-mantisi-2559534",
+  "https://www.cumhuriyet.com.tr/spor/besiktas-hapoel-beer-sheva-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2559523",
+  "https://www.cumhuriyet.com.tr/spor/cska-sofya-trabzonspor-maci-ne-zaman-saat-kacta-hangi-kanalda-sifresiz-mi-2559530",
   "https://www.cumhuriyet.com.tr/spor/sampiyonlar-ligi-nde-cifte-zafer-uefa-ulke-puaninda-son-durum-2559518",
+  "https://www.cumhuriyet.com.tr/turkiye/akom-tarih-verdi-istanbul-a-sibirya-soguklari-geliyor-2559531",
   "https://www.cumhuriyet.com.tr/turkiye/ankara-da-feto-operasyonu-kesinlesmis-cezasi-bulunan-3-firari-yakalandi-2559514",
   "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-20-dakikalik-kovalamaca-kar-maskeli-3-supheli-yakalandi-kalasnikof-ele-gecirildi-2559513",
+  "https://www.cumhuriyet.com.tr/turkiye/devlet-hastanesinde-bicak-parasi-ve-usulsuz-ameliyat-iddiasi-bakanlik-sorusturma-baslatti-2559529",
   "https://www.cumhuriyet.com.tr/turkiye/eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-2559516",
   "https://www.cumhuriyet.com.tr/turkiye/iski-acikladi-26-kasim-2026-istanbul-baraj-doluluk-oranlari-yuzde-kac-oldu-barajlarda-son-durum-2559519",
+  "https://www.cumhuriyet.com.tr/turkiye/kepez-belediyesi-ne-yonelik-operasyonda-yeni-gelisme-21-kisi-tutuklandi-2559533",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-26-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559512",
+  "https://www.cumhuriyet.com.tr/turkiye/milli-guvenlik-kurulu-bugun-toplanacak-iste-kritik-gundem-maddeleri-2559535",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-26-kasim-2026-nerede-ne-zaman-deprem-oldu-2559515",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/mike-tyson-tuzlu-kahve-de-ne-zaman-oynayacak-mike-tyson-tuzlu-kahve-de-kacinci-bolumde-oynayacak-2559528",
   "https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-26-kasim-persembe-bugun-hangi-kanalda-ne-var-2559517",
+  "https://www.cumhuriyet.com.tr/yasam/asil-gok-kimdir-derya-ulug-un-esi-asil-gok-kac-yasinda-nereli-asil-gok-un-meslegi-ne-2559525",
   "https://www.dw.com/en/can-rassvet-russia-s-starlink-change-the-course-of-the-war-in-ukraine/a-80052579",
   "https://www.dw.com/en/how-chinese-companies-circumvent-chips-sanctions-in-southeast-asia/a-80041002",
   "https://www.dw.com/tr/haymana-da-ne-oldu-kavi-çiftinin-öldüğü-operasyonda-silah-bilmecesi/a-80050025",
+  "https://www.dw.com/tr/şahap-kavcıoğlu-hakkında-soruşturma-izni-verildi/a-80056438",
   "https://www.evrensel.net/haber/6011238/motorine-432-tl-indirim-geldi-yeni-pompa-fiyatlari-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011239/italya-da-katolik-kilisesinde-20-yilda-385-cocuk-cinsel-istismara-maruz-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011240/ukmto-dubai-aciklarinda-bir-tankerin-yakininda-patlama-meydana-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -164,16 +188,28 @@
   "https://www.evrensel.net/haber/6011244/abd-ukrayna-ya-622-milyon-dolarlik-f-16-destegini-onayladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011245/abd-de-bir-ucak-pistten-cikti-ucuslar-durduruldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011246/abd-de-1-milyon-dolarlik-piyango-odulunu-kazanan-gocmen-ice-tarafindan-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011247/kepez-belediyesi-ne-yonelik-operasyon-gozaltina-alinan-24-kisiden-21-i-tutuklandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011248/yilin-son-mgk-toplantisi-bugun-yapilacak-gundemde-hangi-basliklar-var?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011249/israil-ordusunun-gazze-ye-saldirilarinda-5-filistinli-daha-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011250/kesk-heyeti-gebze-de-guclu-bir-tepki-umutsuzlari-da-surece-katacaktir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/wie-deutsche-kultur-auf-die-afd-reagieren-sollte-accg-201713925.html",
   "https://www.faz.net/aktuell/finanzen/immobilienkredit-wie-ein-eigentuemer-bei-der-anschlussfinanzierung-fast-50-000-euro-sparte-accg-201602175.html",
+  "https://www.faz.net/aktuell/politik/inland/spionage-prozess-russland-geht-mit-allen-mitteln-vor-accg-201716605.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/analyse-des-frankfurter-wohnungsamts-streit-um-ueberhoehte-mieten-accg-201714073.html",
+  "https://www.faz.net/aktuell/rhein-main/mann-in-schoeneck-von-herabfallenden-metallteilen-toedlich-verletzt-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/konsumflaute-hessischer-handel-hofft-auf-weihnachtsgeschaeft-accg-201716088.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmich-zu-fall-jamal-musiala-attacke-auf-fc-bayern-muenchen-bosse-accg-201718387.html",
+  "https://www.faz.net/aktuell/sport/mehr-sport/tim-puetz-beim-davis-cup-tennis-abschied-mit-grossem-titel-auftrag-accg-201716106.html",
   "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-2028-bis-2034-wie-ein-beichtstuhl-den-streit-um-das-eu-budget-loesen-soll-accg-201714385.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/elektroautos-nun-interessieren-sich-auch-aeltere-kaeufer-fuer-e-autos-accg-201714653.html",
   "https://www.faz.net/aktuell/wissen/medizin-ernaehrung/reha-vor-rente-ist-fuer-me-cfs-patienten-oft-das-falsche-wo-bleibt-der-kurswechsel-accg-201709443.html",
   "https://www.faz.net/podcasts/der-geschichtspodcast/juden-im-visier-die-allianz-von-linksextremen-und-palaestinensischen-terroristen-seit-den-70ern-201716020.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/missbrauchsprozess-muss-das-erzbistum-koeln-haften-faz-201717994.html",
+  "https://www.faz.net/premium/weltwirtschaft/klima-ressourcen/saudi-arabien-warum-riad-auf-oekostrom-und-oel-gleichzeitig-setzt-accg-201715832.html",
+  "https://www.faz.net/premium/weltwirtschaft/sicherheit/ukrainische-drohnenangriffe-auf-schiffe-voelkerrecht-und-steigende-frachtraten-accg-201715849.html",
+  "https://www.faz.net/premium/weltwirtschaft/weltwissen/ghana-warum-das-land-fuer-deutsche-unternehmen-so-interessant-ist-accg-201709684.html",
   "https://www.france24.com/en/europe/20261126-live-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
+  "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
   "https://www.france24.com/en/tv-shows/spotlight/20261126-it-s-really-outrageous-women-face-violence-in-the-streets-and-what-we-see-online-is-even-worse",
   "https://www.spiegel.de/ausland/israel-richter-empfehlen-fast-alle-anklagepunkte-gegen-benjamin-netanyahu-fallen-zu-lassen-a-dc70405a-edcb-4b93-a749-7142539a56da#ref=rss",
   "https://www.spiegel.de/ausland/kilmar-abrego-garcia-verlaesst-nach-rechtsstreit-freiwillig-die-usa-donald-trump-feiert-das-a-40ef0733-21a6-4e91-89f0-81d9af656f7b#ref=rss",
@@ -186,19 +222,25 @@
   "https://www.spiegel.de/politik/deutschland/news-eu-haushaltsverhandlungen-cdu-kompromissvorschlag-zur-rente-mit-63-mutmassliche-spionin-vor-gericht-a-2e2df0fa-dd57-4004-a900-871447abe2f6#ref=rss",
   "https://www.spiegel.de/wirtschaft/soziales/kretschmer-kritisiert-35-stunden-woche-als-riesigen-irrweg-a-d4577e94-5f05-401a-b644-bdec48855699#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
+  "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
   "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
   "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
+  "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
   "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
   "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
   "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
   "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
   "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
+  "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
   "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
   "https://www.welt.de/geschichte/article6afd56fd4e6cd4bac15ceb59/sowjetisch-finnischer-winterkrieg-einige-hatte-man-aufgeschichtet-wie-muellhaufen-und-nur-barmherziger-schnee-deckte-sie-zu.html",
+  "https://www.welt.de/politik/ausland/article6b07cbcad4a4a3142c574148/israel-richter-wollen-anklagepunkte-gegen-netanjahu-im-korruptionsprozess-fallen-lassen.html",
+  "https://www.welt.de/politik/ausland/article6b07cd0cd4a4a3142c574154/russland-soll-ukraine-krieg-nicht-ausweiten-fordern-trump-und-rutte.html",
   "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html",
   "https://www.welt.de/politik/deutschland/article6b07c8e9d4a4a3142c574115/bundestag-das-hat-es-noch-nie-gegeben-kloeckner-prueft-sanktionen-nach-linken-sitzblockade.html",
   "https://www.welt.de/vermischtes/article6b07a675c75e09cb88d16570/maischberger-was-sie-in-ihrer-partei-mittlerweile-aufgenommen-haben-das-sind-rassisten-und-antisemiten.html",
+  "https://www.welt.de/wirtschaft/article6b07cc1bc75e09cb88d1667a/dgb-fordert-einmalige-vermoegensabgabe-fuer-allerreichste.html",
   "https://www.welt.de/wirtschaft/plus6b06ea997fa00ffe65bf319c/boersengang-fluch-des-gewinners-das-sind-die-5-lehren-des-anthropic-ipos.html",
   "https://www.welt.de/wissenschaft/article6b06acdfd4a4a3142c572bc3/aegypten-archaeologen-bergen-einzigartiges-papyrus-mit-fluechen-aus-antiker-muelldeponie.html"
  ]
