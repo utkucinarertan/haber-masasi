@@ -1,8 +1,26 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T05:53+01:00",
+ "updatedAt": "2026-11-26T06:23+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T06:00:30+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
+    "text": {
+     "tr": "Alman bir şirket yöneticisinin, Manş Denizi'ndeki insan kaçakçılarına bot ve motor tedarik ettiği iddia edildi.",
+     "de": "Ein deutscher Firmenchef soll Schleuserbanden mit Booten und Motoren für Fahrten über den Ärmelkanal beliefert haben."
+    }
+   },
+   {
+    "time": "2026-11-26T06:00:09+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
+    "text": {
+     "tr": "Almanya, teslimat kuryelerini korumaya yönelik Avrupa Birliği direktifini yasa tasarısı hazırlanamadığı için süresinde uygulamayı başaramadı.",
+     "de": "Deutschland verfehlt mangels eines Gesetzentwurfs die EU-Frist zur Umsetzung besserer Schutzregeln für Lieferfahrer."
+    }
+   },
    {
     "time": "2026-11-26T05:25:00+01:00",
     "source": "Der Spiegel",
@@ -15,6 +33,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-26T07:48:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011238/motorine-432-tl-indirim-geldi-yeni-pompa-fiyatlari-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Türkiye'de motorinin litre satış fiyatına bugünden itibaren geçerli olmak üzere 4 lira 32 kuruş indirim yapıldı.",
+     "de": "In der Türkei ist der Dieselpreis mit Wirkung ab heute um 4,32 Lira pro Liter gesenkt worden."
+    }
+   },
+   {
     "time": "2026-11-26T05:29:19+01:00",
     "source": "Euronews Türkçe",
     "url": "https://tr.euronews.com/2026/11/26/kuresel-piyasalar-toparlandi-teknoloji-sirketleri-yukseldi-gumruk-endisesi-azaldi",
@@ -26,6 +53,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-26T06:07:16+01:00",
+    "source": "Euronews Türkçe",
+    "url": "https://tr.euronews.com/2026/11/26/kahirede-yakit-yuklu-kamyonun-devrilmesinin-ardindan-yangin-cikti-en-az-30-olu",
+    "text": {
+     "tr": "Mısır'ın başkenti Kahire'de yakıt tankerinin devrilmesiyle çıkan yangında en az 30 kişi hayatını kaybetti.",
+     "de": "Beim Brand eines umgestürzten Tanklasters in der ägyptischen Hauptstadt Kairo sind mindestens 30 Menschen ums Leben gekommen."
+    }
+   },
+   {
     "time": "2026-11-26T05:41:15+01:00",
     "source": "tagesschau Ausland",
     "url": "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
@@ -33,17 +69,37 @@
      "tr": "ABD'de Şükran Günü yaklaşırken Kaliforniya'da seller ve Doğu Yakası'nda şiddetli fırtınalar seyahat planlarını tehdit ediyor.",
      "de": "Schwere Stürme und Überschwemmungen in den USA gefährden pünktlich zu Thanksgiving die Reisepläne vieler Menschen."
     }
+   },
+   {
+    "time": "2026-11-26T05:00:46+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+    "text": {
+     "tr": "Birleşik Krallık, Ukrayna'nın savaşta zarar gören enerji sistemini desteklemek için bir rüzgâr santraline 9,5 milyon sterlin yatıracak.",
+     "de": "Großbritannien investiert 9,5 Millionen Pfund in einen Windpark zur Stützung des ukrainischen Energiesystems."
+    }
    }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/26/kahirede-yakit-yuklu-kamyonun-devrilmesinin-ardindan-yangin-cikti-en-az-30-olu",
   "https://tr.euronews.com/2026/11/26/kuresel-piyasalar-toparlandi-teknoloji-sirketleri-yukseldi-gumruk-endisesi-azaldi",
+  "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-26-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559512",
+  "https://www.evrensel.net/haber/6011238/motorine-432-tl-indirim-geldi-yeni-pompa-fiyatlari-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011239/italya-da-katolik-kilisesinde-20-yilda-385-cocuk-cinsel-istismara-maruz-birakildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/finanzen/immobilienkredit-wie-ein-eigentuemer-bei-der-anschlussfinanzierung-fast-50-000-euro-sparte-accg-201602175.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/analyse-des-frankfurter-wohnungsamts-streit-um-ueberhoehte-mieten-accg-201714073.html",
+  "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/missbrauchsprozess-muss-das-erzbistum-koeln-haften-faz-201717994.html",
+  "https://www.spiegel.de/kultur/tv/kroemers-letzte-stunde-gibt-es-doch-noch-humor-im-zdf-a-b1176aca-e2f7-47c3-89be-fea27d7e7e59#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-eu-haushaltsverhandlungen-cdu-kompromissvorschlag-zur-rente-mit-63-mutmassliche-spionin-vor-gericht-a-2e2df0fa-dd57-4004-a900-871447abe2f6#ref=rss",
   "https://www.tagesschau.de/ausland/amerika/sturm-usa-152.html",
+  "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
+  "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
   "https://www.theguardian.com/australia-news/2026/nov/25/large-bushfire-threatens-homes-and-properties-on-remote-island-off-tasmania",
   "https://www.theguardian.com/australia-news/2026/nov/26/liberal-nationals-victoria-election-policy-costings-revealed-sewage-land-energy",
   "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+  "https://www.theguardian.com/business/2026/nov/26/uk-to-invest-95m-in-ukraine-windfarm-war-hit-energy-system",
+  "https://www.theguardian.com/world/2026/nov/26/japanese-journalist-yuki-imai-detained-in-russia-wife-pleads-his-release",
   "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html"
  ]
 }
