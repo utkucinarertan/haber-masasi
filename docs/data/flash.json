@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T23:07+01:00",
+ "updatedAt": "2026-11-26T23:37+01:00",
  "countries": {
   "de": [
    {
@@ -22,6 +22,15 @@
     }
    },
    {
+    "time": "2026-11-26T22:21:09+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/sport/fussball/article6b08aeff09772de371850a3f/europapokal-freiburg-gewinnt-in-der-nachspielzeit-hoffenheim-dreht-partie.html",
+    "text": {
+     "tr": "SC Freiburg, TSG Hoffenheim ve Bayer Leverkusen Avrupa kupalarında oynadıkları karşılaşmaları kazandı.",
+     "de": "Im Europapokal haben der SC Freiburg, die TSG Hoffenheim und Bayer Leverkusen ihre Spiele gewonnen."
+    }
+   },
+   {
     "time": "2026-11-26T21:47:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d#ref=rss",
@@ -38,18 +47,18 @@
      "tr": "AB liderleri uzun vadeli bütçe müzakerelerini erken sonlandırırken, Şansölye Merz yıl sonuna kadar uzlaşı sağlanabileceğine inanıyor.",
      "de": "Die EU-Staaten haben ihre Verhandlungen über den nächsten Haushalt vorzeitig abgebrochen, während Bundeskanzler Merz auf eine Einigung bis Jahresende hofft."
     }
-   },
-   {
-    "time": "2026-11-26T21:02:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
-    "text": {
-     "tr": "Birlik partileri, SPD'yi şaşırtarak emeklilik tartışmalarında yeni bir uzlaşı teklifi sundu.",
-     "de": "Die Union hat die SPD mit einem überraschenden Kompromissvorschlag in der Rentendebatte überrumpelt."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-27T01:05:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011392/tff-baskani-haciosmanoglu-besiktas-in-neden-istanbul-da-oynamadigini-acikladi-gerekce-guvenlik-degil-devlet-politikasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "TFF Başkanı İbrahim Hacıosmanoğlu, Beşiktaş'ın Hapoel Beer-Şeva maçının İstanbul'da oynanmamasının güvenlik değil devlet politikası olduğunu açıkladı.",
+     "de": "TFF-Präsident Hacıosmanoğlu begründete die Verlegung des Beşiktaş-Spiels gegen Hapoel Be’er Scheva mit staatlicher Politik statt Sicherheitsbedenken."
+    }
+   },
    {
     "time": "2026-11-27T01:02:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Zonguldak'ta TTK'ya ait madende meydana gelen iş kazasında 2 madenci yaralandı.",
      "de": "Bei einem Arbeitsunfall in einem Bergwerk der staatlichen Kohlebehörde TTK in Zonguldak wurden zwei Bergleute verletzt."
-    }
-   },
-   {
-    "time": "2026-11-27T00:26:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/bicaklanan-17-yasindaki-genc-oldu-saldirgan-suc-aletiyle-yakalandi-2559775",
-    "text": {
-     "tr": "Muğla'nın Milas ilçesinde bıçaklanan 17 yaşındaki genç hayatını kaybederken, saldırgan suç aletiyle yakalandı.",
-     "de": "Ein 17-Jähriger wurde in Milas in der Provinz Muğla erstochen; der Angreifer wurde mit der Tatwaffe gefasst."
     }
    }
   ],
@@ -203,6 +203,7 @@
   "https://tr.euronews.com/2026/11/26/unicredit-commerzbank-devralmasi-polonya-son-onayi-verdi-surec-ilerliyor",
   "https://tr.euronews.com/2026/11/26/yunanistanin-borclanma-maliyeti-dustu-italya-ve-fransanin-altina-indi",
   "https://tr.euronews.com/2026/11/26/zambiyaya-jenerik-hiv-onleme-ignesi-sevkiyati-daha-ucuz-lenacapavir",
+  "https://tr.euronews.com/video/2026/11/26/almanyada-noel-pazarlari-acildi-guvenlik-onlemleri-artirildi",
   "https://tr.euronews.com/video/2026/11/26/bangkoktaki-petrol-rafinerisinde-siddetli-patlama-alevler-ve-yogun-duman-gokyuzune-yukseld",
   "https://tr.euronews.com/video/2026/11/26/brukselde-ciftci-eylemi-ab-tarim-subvansiyonlarindaki-olasi-yuzde-20-kesinti-protesto-edil",
   "https://tr.euronews.com/video/2026/11/26/dimorphos-asteroidi-nasanin-carptigi-bolgede-stadyum-buyuklugunde-krater",
@@ -463,6 +464,7 @@
   "https://www.cumhuriyet.com.tr/tv-rehberi/avengers-doomsday-ne-zaman-cikacak-avengers-doomsday-konusu-ne-oyunculari-kimler-2559665",
   "https://www.cumhuriyet.com.tr/tv-rehberi/gunesin-dogdugu-yer-dizisinin-yeni-bolumu-ne-zaman-gunesin-dogdugu-yer-dizisinin-son-bolumunde-ne-oldu-2559715",
   "https://www.cumhuriyet.com.tr/tv-rehberi/ingiliz-anahtari-recep-usta-filminin-konusu-ne-ingiliz-anahtari-recep-usta-filminin-oyunculari-kim-2559721",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazlik-oyunu-kim-kazandi-26-kasim-persembe-masterchef-eleme-adayi-kim-oldu-2559797",
   "https://www.cumhuriyet.com.tr/tv-rehberi/mike-tyson-tuzlu-kahve-de-ne-zaman-oynayacak-mike-tyson-tuzlu-kahve-de-kacinci-bolumde-oynayacak-2559528",
   "https://www.cumhuriyet.com.tr/tv-rehberi/muhtemel-ask-dizisinin-yeni-bolumu-ne-zaman-muhtemel-ask-dizisinin-son-bolumunde-ne-oldu-2559705",
   "https://www.cumhuriyet.com.tr/tv-rehberi/sevdigim-sensin-dizisinin-yeni-bolumu-ne-zaman-sevdigim-sensin-dizisinin-son-bolumunde-ne-oldu-2559706",
@@ -673,12 +675,14 @@
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-11-ler-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-yari-oynaniyor-0-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-yari-oynaniyor-1-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011385/uefa-konferans-ligi-nde-4-hafta-trabzonspor-cska-sofya-yi-2-1-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011386/zonguldak-ta-maden-ocagindaki-is-kazasinda-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011387/besiktas-tan-hapoel-beer-seva-macindaki-polis-siddetine-dair-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011388/avrupa-merkez-bankasi-baskanligi-icin-pablo-hernndez-de-cos-ta-uzlasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011389/tip-li-sera-kadigil-den-bakan-kurum-a-cop31-tepkisi-2009-dan-beri-ilk-kez-bir-zirvede-karar-almayi-beceremediniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011390/siyasi-partilerden-batum-da-besiktas-taraftarlarina-saldiriya-tepki-saray-iktidari-ve-tff-de-sorumludur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011391/tcmb-den-iki-yeni-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-faizi-artirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011392/tff-baskani-haciosmanoglu-besiktas-in-neden-istanbul-da-oynamadigini-acikladi-gerekce-guvenlik-degil-devlet-politikasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -770,8 +774,10 @@
   "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-begeistert-fc-liverpool-in-champions-league-in-bruegge-accg-201719181.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmich-zu-fall-jamal-musiala-attacke-auf-fc-bayern-muenchen-bosse-accg-201718387.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmichs-kritik-an-fc-bayern-bossen-im-fall-jamal-musiala-accg-201718387.html",
+  "https://www.faz.net/aktuell/sport/fussball/christian-ilzer-und-hoffenheim-besiegen-seinen-herzensklub-sturm-graz-201210536.html",
   "https://www.faz.net/aktuell/sport/fussball/dreesen-antwortet-auf-kimmichs-kritik-im-fall-musiala-201721093.html",
   "https://www.faz.net/aktuell/sport/fussball/europa-league-bayer-leverkusen-siegt-souveraen-bei-dinamo-zagreb-201210527.html",
+  "https://www.faz.net/aktuell/sport/fussball/europa-league-sc-freiburg-siegt-gegen-enschede-dank-beste-in-der-nachspielzeit-201305712.html",
   "https://www.faz.net/aktuell/sport/fussball/laura-freigang-16-monate-sperre-bedeuten-fussball-wm-2027-aus-accg-201719985.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/aaron-rodgers-das-traurige-ende-einer-grossen-karriere-kommentar-201719068.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/basketball-star-lebron-james-stellt-nba-rekord-mit-fast-42-jahren-auf-accg-201718607.html",
@@ -1114,6 +1120,7 @@
   "https://www.welt.de/politik/deutschland/plus6b0823217af5dee5d20acc6a/krise-der-koalition-erste-cdu-abgeordnete-sagt-nein-zum-haushalt.html",
   "https://www.welt.de/politik/deutschland/video6b081e5f7af5dee5d20acb9e/respekt-rente-mit-63-spd-politiker-bernd-ruetzel-lehnt-unions-kompromiss-ab.html",
   "https://www.welt.de/politik/deutschland/video6b0821977af5dee5d20acc25/schwarz-rot-das-muesste-man-ausnutzerrente-nennen-spd-mann-bernd-ruetzel-gegen-unionsplan.html",
+  "https://www.welt.de/sport/fussball/article6b08aeff09772de371850a3f/europapokal-freiburg-gewinnt-in-der-nachspielzeit-hoffenheim-dreht-partie.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b07d7020ba62538f716de45/fc-bayern-joshua-kimmichs-heftige-kritik-an-den-bossen-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b07e821d4a4a3142c5743b7/fc-bayern-krise-in-muenchen-bei-bayern-geht-es-laengst-nicht-mehr-nur-um-punkte.html",
   "https://www.welt.de/sport/fussball/champions-league/article6b07f0447af5dee5d20ac444/fc-liverpool-war-genau-die-art-von-tor-die-der-klub-erwartete-wirtz-wandel-nimmt-fahrt-auf.html",
