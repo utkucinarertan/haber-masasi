@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T01:49+01:00",
+ "updatedAt": "2026-11-26T02:19+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "İngiliz New-Wave grubu Duran Duran'ın gitaristi Andy Taylor 65 yaşında hayatını kaybetti.",
      "de": "Der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, Andy Taylor, ist im Alter von 65 Jahren gestorben."
+    }
+   },
+   {
+    "time": "2026-11-26T00:46:33+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b077766c75e09cb88d1649a/verschaerfung-der-schulregeln-nrw-verbietet-gesichtsschleier-im-unterricht.html",
+    "text": {
+     "tr": "Kuzey Ren-Vestfalya eyalet meclisi, derslerde iletişimi zorlaştırdığı gerekçesiyle öğrencilere yüz örtme yasağı getirdi.",
+     "de": "Der Landtag von Nordrhein-Westfalen hat ein Verbot von Gesichtsschleiern für Schüler im Unterricht beschlossen, um die Kommunikation zu erleichtern."
     }
    },
    {
@@ -38,18 +47,27 @@
      "tr": "Almanya'da SPD'nin sol kanadı, partinin gelecekteki yönelimi ve olası kırmızı-yeşil-kırmızı koalisyon için örgütlenmeye başladı.",
      "de": "Der SPD-Linke formiert sich für eine Neuausrichtung der Partei und setzt auf das Gegenmodell Rot-Grün-Rot."
     }
-   },
-   {
-    "time": "2026-11-25T22:38:24+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/fussball/champions-league/article6b075b21d4a4a3142c573e32/champions-league-undav-bei-stuttgarts-niederlage-in-mailand-ueberraschend-auf-der-bank.html",
-    "text": {
-     "tr": "VfB Stuttgart'ın Inter'e karşı oynadığı Şampiyonlar Ligi maçında forvet Deniz Undav'ın yedek kulübesinde başlaması sürpriz yarattı.",
-     "de": "Torjäger Deniz Undav saß bei der Champions-League-Niederlage des VfB Stuttgart gegen Inter Mailand überraschend auf der Bank."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-lideri-ozel-yeni-yonetim-kadrosunu-acikladi-farkli-tabanlara-ulasacak-bir-kadro-2559429",
+    "text": {
+     "tr": "YENİ Parti Genel Başkanı Özgür Özel, partisinin yeni Merkez Yönetim Kurulu ve Parti Meclisi üyelerini açıkladı.",
+     "de": "Der Vorsitzende der YENİ-Partei, Özgür Özel, hat die neuen Mitglieder des Parteivorstands und des Parteirates vorgestellt."
+    }
+   },
+   {
+    "time": "2026-11-26T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/uluslararasi-suc-ve-ceza-film-festivali-16-inci-kez-sinemaseverlerle-bulusuyor-kadinlar-anlatilan-degil-anlatan-olmali-2559433",
+    "text": {
+     "tr": "16. Uluslararası Suç ve Ceza Film Festivali, 'Kadınlar anlatılan değil anlatan olmalı' temasıyla kapılarını açtı.",
+     "de": "Das 16. Internationale Filmfestival für Verbrechen und Strafe hat unter dem Motto begonnen, dass Frauen die Erzählenden und nicht die Erzählten sein müssen."
+    }
+   },
    {
     "time": "2026-11-26T02:14:00+03:00",
     "source": "Evrensel",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Haber sitesi 12punto’nun Instagram hesabı Türkiye’den erişime engellendi.",
      "de": "Das Instagram-Konto der Nachrichtenwebsite 12punto wurde in der Türkei gesperrt."
-    }
-   },
-   {
-    "time": "2026-11-26T01:39:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/arda-turan-dan-maglubiyet-sozleri-bu-cehennemi-yasayacagiz-2559507",
-    "text": {
-     "tr": "Shakhtar Donetsk Teknik Direktörü Arda Turan, Fenerbahçe'ye 1-0 yenildikleri maçın ardından açıklamalarda bulundu.",
-     "de": "Shakhtar-Donetsk-Trainer Arda Turan äußerte sich nach der 0:1-Niederlage gegen Fenerbahçe."
-    }
-   },
-   {
-    "time": "2026-11-26T01:30:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/psg-nin-sampiyonlar-ligi-ndeki-serisini-roma-bitirdi-2559506",
-    "text": {
-     "tr": "Roma, deplasmanda PSG ile 2-2 berabere kalarak rakibinin Şampiyonlar Ligi'ndeki galibiyet serisine son verdi.",
-     "de": "Roma trennte sich auswärts 2:2 von Paris Saint-Germain und beendete damit die Siegesserie des Gegners in der Champions League."
     }
    }
   ],
@@ -230,6 +230,7 @@
   "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
   "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
   "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
+  "https://www.bbc.co.uk/news/articles/ckn806qq760po",
   "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
   "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
   "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
@@ -279,6 +280,8 @@
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/iddia-anthropic-ve-openai-aslinda-cok-daha-gelismis-yapay-zeka-sistemlerine-sahip-2559444",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/tidal-yapay-zekayla-uretilen-sarkilari-platformdan-kaldiracak-2559446",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-meme-kanserini-erken-teshis-edebilir-mi-2559450",
+  "https://www.cumhuriyet.com.tr/cizerler/cizgilik-26-kasim-2026-2559482",
+  "https://www.cumhuriyet.com.tr/cizerler/kim-kime-dum-duma-26-kasim-2026-2559481",
   "https://www.cumhuriyet.com.tr/cumhuriyet-in-egesi/mustafa-necati-ogretmenler-gunu-nde-dogdugu-sokakta-anildi-cumhuriyetin-kazanimlarina-ve-devrimlerine-daha-siki-sarilacagiz-2559238",
   "https://www.cumhuriyet.com.tr/dunya/abd-de-5-ton-patlayici-infilak-ettirilecek-halk-evlerinden-cikmamalari-konusunda-uyarildi-2559379",
   "https://www.cumhuriyet.com.tr/dunya/alman-kamu-yayincisi-zdf-den-daltonlar-belgeseli-adimiz-kanla-yazildi-kanla-silinecek-2559296",
@@ -429,6 +432,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/akom-istanbul-icin-tarih-verdi-kar-ne-zaman-gelecek-2559349",
   "https://www.cumhuriyet.com.tr/turkiye/alkollu-surucunun-kullandigi-otomobil-takla-atti-ehliyetine-6-ay-el-konuldu-2559497",
   "https://www.cumhuriyet.com.tr/turkiye/aralik-ayi-kira-artis-orani-ne-zaman-aciklanacak-kira-artisi-hesaplama-nasil-yapilir-2559488",
+  "https://www.cumhuriyet.com.tr/turkiye/bakan-uraloglu-kamuya-getirdigi-yuk-nedeniyle-elestirilen-koi-projelerini-ovdu-sira-sirketlere-yapilan-garanti-odemelerine-gelince-gecistirdi-bunu-konusabilirim-ama-2559426",
   "https://www.cumhuriyet.com.tr/turkiye/bakanlik-mufettislerinden-italyan-lisesi-raporu-13-ogretmenin-isten-cikarilmasinda-sendikal-neden-tespiti-ozel-italyan-lisesi-ne-201-bin-lira-ceza-kesilmesini-onerdi-2559372",
   "https://www.cumhuriyet.com.tr/turkiye/bursa-da-uyusturucu-operasyonu-122-gozalti-2559240",
   "https://www.cumhuriyet.com.tr/turkiye/dem-parti-imrali-heyeti-adalet-bakani-akin-gurlek-ile-gorustu-2559263",
@@ -463,6 +467,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/meb-ags-15-bin-ogretmen-atamasi-basvurulari-ne-zaman-basliyor-meb-ags-ogretmen-atamasi-brans-dagilimi-aciklandi-mi-2559289",
   "https://www.cumhuriyet.com.tr/turkiye/mehdi-olarak-tanitti-sifa-vaadiyle-dolandirdi-ailesiyle-birlikte-tutuklandi-2559502",
   "https://www.cumhuriyet.com.tr/turkiye/mercedes-benz-she-s-mentoring-programi-tamamlandi-3-projeye-1-8-milyon-tl-destek-2559398",
+  "https://www.cumhuriyet.com.tr/turkiye/meric-velidedeoglu-nun-birinci-olum-yildonumu-kumpaslara-karsi-durdu-2559491",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-25-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559168",
   "https://www.cumhuriyet.com.tr/turkiye/nazan-moroglu-ndan-25-kasim-mesaji-aile-ici-siddet-kadinin-sorunu-degil-toplumun-sorunudur-2559272",
   "https://www.cumhuriyet.com.tr/turkiye/ogretmene-adliye-onunde-saldiri-ogrenci-velisi-tarafindan-bicaklandi-2559367",
@@ -490,12 +495,18 @@
   "https://www.cumhuriyet.com.tr/turkiye/sozcu-gazetesinden-kayyim-sonrasi-zam-karari-mecbur-kaldik-2559315",
   "https://www.cumhuriyet.com.tr/turkiye/sozcu-gazetesinden-kayyum-sonrasi-zam-karari-mecbur-kaldik-2559315",
   "https://www.cumhuriyet.com.tr/turkiye/toki-1-071-konut-icin-kura-tarihi-belli-oldu-mu-istanbul-toki-kiralik-konut-kurasi-ne-zaman-2559323",
+  "https://www.cumhuriyet.com.tr/turkiye/ttk-ya-yeni-isci-alinmayinca-kurum-careyi-yer-altindaki-calisma-alanlarini-kisitlamakta-buldu-koskoca-kurumu-ne-hale-getirdiler-2559427",
+  "https://www.cumhuriyet.com.tr/turkiye/tugberk-imamoglu-batigindaki-sekiz-naas-konusunda-uraloglu-ndan-yeni-mesaj-tum-imkanlar-seferber-edilsin-2559431",
+  "https://www.cumhuriyet.com.tr/turkiye/uluslararasi-suc-ve-ceza-film-festivali-16-inci-kez-sinemaseverlerle-bulusuyor-kadinlar-anlatilan-degil-anlatan-olmali-2559433",
   "https://www.cumhuriyet.com.tr/turkiye/unlulere-uyusturucu-operasyonu-ozcan-deniz-ve-deniz-cakir-da-aralarinda-24-supheli-adliyeye-sevk-edildi-2559327",
   "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-operasyonu-daha-1-saatini-doldurmadan-yasadisi-bahis-sitelerine-dustu-2559249",
   "https://www.cumhuriyet.com.tr/turkiye/van-da-aile-sagligi-merkezinde-doktor-ve-hemsireye-saldiri-2-tutuklama-2559311",
+  "https://www.cumhuriyet.com.tr/turkiye/var-yalan-soyluyor-2559436",
   "https://www.cumhuriyet.com.tr/turkiye/veteriner-hekimlerde-buyuk-kongre-ve-secim-takvimi-belli-oldu-2559287",
   "https://www.cumhuriyet.com.tr/turkiye/yanan-evde-cesetleri-bulunmustu-butuner-ciftinin-olumunde-kritik-gelisme-yeni-rapor-duzenlenecek-2559401",
   "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-den-fatma-betul-sayan-kaya-nin-tahliyesine-gondermeli-video-menfaat-ortakliginiz-belli-2559304",
+  "https://www.cumhuriyet.com.tr/turkiye/yeni-parti-lideri-ozel-yeni-yonetim-kadrosunu-acikladi-farkli-tabanlara-ulasacak-bir-kadro-2559429",
+  "https://www.cumhuriyet.com.tr/turkiye/yeni-partili-yalaz-fon-magdurlariyla-bir-araya-geldi-fon-meselesi-tum-turkiye-nin-sorunudur-2559418",
   "https://www.cumhuriyet.com.tr/turkiye/yusuf-alperen-ayar-kimdir-kilis-valisi-yusuf-alperen-ayar-kac-yasinda-nereli-yusuf-alperen-ayar-hangi-gorevlerde-bulundu-2559236",
   "https://www.cumhuriyet.com.tr/tv-rehberi/sevdan-bir-ates-dizisinin-son-bolumunde-ne-oldu-sevdan-bir-ates-dizisinin-yeni-bolumu-ne-zaman-2559264",
   "https://www.cumhuriyet.com.tr/tv-rehberi/yedikleri-otun-ardindan-zehirlendiler-1-kisi-hayatini-kaybetti-1-kisi-yogun-bakimda-2559307",
@@ -519,6 +530,8 @@
   "https://www.cumhuriyet.com.tr/yasam/youtube-coktu-mu-25-kasim-carsamba-youtube-neden-acilmiyor-2559469",
   "https://www.cumhuriyet.com.tr/yasam/yuksek-kan-yaglarina-karsi-yeni-tedavi-umudu-aylik-enjeksiyon-trigliserit-seviyesini-yuzde-46-dusurdu-2559369",
   "https://www.cumhuriyet.com.tr/yasam/zayiflama-ve-diyabet-ilaclarinda-yeni-bulgu-ozempic-benzeri-ilaclar-sperm-kalitesini-ve-testosteronu-artirdi-2559350",
+  "https://www.cumhuriyet.com.tr/yazarlar/bedri-baykam/yeni-parti-en-dogru-karari-verdi-2559472",
+  "https://www.cumhuriyet.com.tr/yazarlar/emre-kongar/dolandiriciliga-ovgu-2559461",
   "https://www.cumhuriyet.com.tr/yazarlar/nergis-simsek/2027-ocak-doneminde-emekli-ayliklarinda-yapilacak-artisa-iliskin-cevabi-beklenen-sorular-2559308",
   "https://www.cumhuriyet.com.tr/yerel-gundem/anamur-belediyesi-nden-oz-kaynaklarla-13-yeni-arac-2559410",
   "https://www.cumhuriyet.com.tr/yerel-gundem/forsa-psm-de-25-kasim-paneli-ibb-nin-kadin-hizmet-merkezleri-nden-yararlananlar-2-milyonu-asti-2559375",
@@ -894,6 +907,7 @@
   "https://www.france24.com/en/americas/20261125-cyberattack-exposes-unclassified-information-from-cia-system-us-media-reports",
   "https://www.france24.com/en/americas/20261125-trump-announces-new-tariffs-eu-china-despite-us-midterms-defeat",
   "https://www.france24.com/en/americas/20261125-us-army-detonates-lead-explosives-iowa-despite-community-backlash",
+  "https://www.france24.com/en/americas/20261126-powerful-us-storm-forces-historic-postponement-of-thanksgiving-day-parade-in-new-york",
   "https://www.france24.com/en/cape-town-court-shuts-down-ramaphosa-s-farmgate-scandal",
   "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
   "https://www.france24.com/en/eu-says-strongly-rejects-premise-of-new-us-tariffs",
@@ -1144,6 +1158,7 @@
   "https://www.welt.de/politik/article6b071a32bb5effe8198cd747/nato-chef-auf-die-probe-gestellt-mark-rutte-lobt-trumps-umgang-mit-putin.html",
   "https://www.welt.de/politik/article6b071e5cbb5effe8198cd777/respekt-rente-jetzt-macht-die-union-der-spd-ein-neues-angebot-im-reformstreit.html",
   "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
+  "https://www.welt.de/politik/article6b077766c75e09cb88d1649a/verschaerfung-der-schulregeln-nrw-verbietet-gesichtsschleier-im-unterricht.html",
   "https://www.welt.de/politik/article6b0777a9c75e09cb88d164a3/erziehung-prien-fordert-1000-bildschirmfreie-tage-fuer-kleinkinder.html",
   "https://www.welt.de/politik/ausland/article6b067391cd4642ba2eb17bd2/ukraine-krieg-lukaschenko-macht-selenskyj-ungewoehnliches-angebot-ukrainischer-praesident-reagiert.html",
   "https://www.welt.de/politik/ausland/article6b068f2bcd4642ba2eb17dd2/russlands-schattenkrieg-weil-er-weiss-das-halte-ich-nicht-ewig-durch-ex-botschafter-sieht-kalkuel-bei-putin.html",
