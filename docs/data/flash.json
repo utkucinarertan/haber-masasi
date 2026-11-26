@@ -1,6 +1,6 @@
 {
  "since": "2026-11-25T05:15+01:00",
- "updatedAt": "2026-11-26T01:19+01:00",
+ "updatedAt": "2026-11-26T01:49+01:00",
  "countries": {
   "de": [
    {
@@ -10,6 +10,15 @@
     "text": {
      "tr": "İngiliz New-Wave grubu Duran Duran'ın gitaristi Andy Taylor 65 yaşında hayatını kaybetti.",
      "de": "Der ursprüngliche Gitarrist der englischen New-Wave-Band Duran Duran, Andy Taylor, ist im Alter von 65 Jahren gestorben."
+    }
+   },
+   {
+    "time": "2026-11-26T00:23:46+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b0777a9c75e09cb88d164a3/erziehung-prien-fordert-1000-bildschirmfreie-tage-fuer-kleinkinder.html",
+    "text": {
+     "tr": "Almanya Aile Bakanı Karin Prien, bebeklerin ilk 1000 günlerini ekransız geçirmeleri gerektiğini savundu.",
+     "de": "Bundesfamilienministerin Karin Prien fordert, dass Kleinkinder in ihren ersten 1000 Lebenstagen ohne Bildschirme aufwachsen."
     }
    },
    {
@@ -37,15 +46,6 @@
     "text": {
      "tr": "VfB Stuttgart'ın Inter'e karşı oynadığı Şampiyonlar Ligi maçında forvet Deniz Undav'ın yedek kulübesinde başlaması sürpriz yarattı.",
      "de": "Torjäger Deniz Undav saß bei der Champions-League-Niederlage des VfB Stuttgart gegen Inter Mailand überraschend auf der Bank."
-    }
-   },
-   {
-    "time": "2026-11-25T22:21:44+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-und-karim-adeyemi-treffen-fuer-liverpool-und-barcelona-in-champions-league-201305470.html",
-    "text": {
-     "tr": "Florian Wirtz ve Karim Adeyemi Şampiyonlar Ligi'nde gol atarken, Manchester United galibiyet hasretini sürdürdü.",
-     "de": "Florian Wirtz und Karim Adeyemi trafen in der Champions League, während Manchester United weiter sieglos blieb."
     }
    }
   ],
@@ -98,6 +98,33 @@
   ],
   "world": [
    {
+    "time": "2026-11-26T01:30:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/usa-armee-sprengt-vier-tonnen-bleiazid-in-ohio-munitionsfabrik-a-92c629a4-f160-4c70-b3a7-4697289811ba#ref=rss",
+    "text": {
+     "tr": "ABD ordusu, Ohio'daki bir mühimmat fabrikasında patlama tehlikesi bulunan dört ton kurşun azürü kontrollü biçimde imha etti.",
+     "de": "Die US-Armee hat in einer Munitionsfabrik in Ohio vier Tonnen hochexplosives Bleiazid kontrolliert gesprengt."
+    }
+   },
+   {
+    "time": "2026-11-26T00:01:40+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
+    "text": {
+     "tr": "İngiltere hükümeti, mağdurların korku veya psikolojik baskı kanıtlama zorunluluğunu kaldıran yeni bir takip suçu yasalaştırıyor.",
+     "de": "Die britische Regierung schafft einen neuen Stalking-Straftatbestand, bei dem Opfer künftig keine persönliche Verängstigung mehr nachweisen müssen."
+    }
+   },
+   {
+    "time": "2026-11-25T23:57:03+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+    "text": {
+     "tr": "New York'taki geleneksel Macy's Şükran Günü geçit töreni, fırtına nedeniyle tarihinde ilk kez ertelendi.",
+     "de": "Wegen eines Sturms wurde die New Yorker Macy's-Thanksgiving-Parade erstmals in ihrer Geschichte verschoben."
+    }
+   },
+   {
     "time": "2026-11-25T23:37:18+00:00",
     "source": "France 24",
     "url": "https://www.france24.com/en/culture/20261125-duran-duran-guitarist-andy-taylor-dies-aged-65",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Gazze'de İsrail saldırısında öldürülen Filistinli gazeteci Mariam Dagga, Rory Peck ödülüne layık görüldü.",
      "de": "Die in Gaza durch einen israelischen Angriff getötete palästinensische Journalistin Mariam Dagga wurde posthum mit dem Rory-Peck-Preis ausgezeichnet."
-    }
-   },
-   {
-    "time": "2026-11-25T22:54:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011221/abd-ukrayna-ya-622-milyon-dolarlik-f-16-bakim-ve-destek-ekipmani-satisini-onayladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "ABD Dışişleri Bakanlığı, Ukrayna'ya 622 milyon dolarlık F-16 bakım ve destek ekipmanı satışını onayladı.",
-     "de": "Das US-Außenministerium hat den Verkauf von F-16-Wartungs- und Unterstützungsausrüstung im Wert von 622 Millionen Dollar an die Ukraine genehmigt."
-    }
-   },
-   {
-    "time": "2026-11-25T22:44:39+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
-    "text": {
-     "tr": "Brad Pitt ve Angelina Jolie, Fransız şarap bağı Château Miraval hakkındaki uzun süredir devam eden yasal anlaşmazlığı mahkeme dışında çözdü.",
-     "de": "Brad Pitt und Angelina Jolie haben ihren jahrelangen Rechtsstreit um das französische Weingut Château Miraval außergerichtlich beigelegt."
-    }
-   },
-   {
-    "time": "2026-11-25T22:28:58+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
-    "text": {
-     "tr": "Fransa'da Marine Le Pen'in partisine gizli bilgi sızdırdığı şüphesiyle Loiret valisi görevden alındı, Paris savcı yardımcısı soruşturma altına alındı.",
-     "de": "In Frankreich wurde der Präfekt des Départements Loiret im Zuge von Le-Pen-Parteileaks entlassen und ein Pariser Staatsanwalt untersucht."
     }
    }
   ]
@@ -226,27 +226,37 @@
   "https://tr.euronews.com/video/2026/11/25/yunanistanda-grev-atina-ve-selanikte-14-bin-kisi-yasam-pahaliligina-karsi-yurudu",
   "https://www.bbc.co.uk/news/articles/c6808pyy5dl9o",
   "https://www.bbc.co.uk/news/articles/c6d917jn5gq7o",
+  "https://www.bbc.co.uk/news/articles/c6wy4ejnyvdyo",
   "https://www.bbc.co.uk/news/articles/c6z74l1017zpo",
   "https://www.bbc.co.uk/news/articles/c893r9ke5p97o",
   "https://www.bbc.co.uk/news/articles/ck9q8xp5r5pgo",
   "https://www.bbc.co.uk/news/articles/ckp80mjr9emyo",
   "https://www.bbc.co.uk/news/articles/ckx283y8wwwgo",
   "https://www.bbc.co.uk/news/articles/cmd718zydz9qo",
+  "https://www.bbc.co.uk/news/articles/cmvg2989wv74o",
   "https://www.bbc.co.uk/news/articles/cmx27g533zwyo",
+  "https://www.bbc.co.uk/news/articles/cmx2x4e0n5jro",
   "https://www.bbc.co.uk/news/articles/cmy49ngydqzpo",
   "https://www.bbc.co.uk/news/articles/cq0l34e4kkr5o",
   "https://www.bbc.co.uk/news/articles/cq0md8g14zryo",
   "https://www.bbc.co.uk/news/articles/cq4gn6gj3z37o",
+  "https://www.bbc.co.uk/news/articles/cq772vedgepro",
   "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+  "https://www.bbc.co.uk/news/articles/cqx2wrkyrdn8o",
   "https://www.bbc.co.uk/news/articles/cqy7rn30v314o",
   "https://www.bbc.co.uk/news/articles/cw62p8z9edjlo",
   "https://www.bbc.co.uk/news/articles/cw8dv112r5gmo",
+  "https://www.bbc.co.uk/news/articles/cwe89jyz4012o",
   "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
+  "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
   "https://www.bbc.co.uk/news/articles/cxj05mv723r2o",
+  "https://www.bbc.co.uk/news/videos/cwe9kxpgz2kpo",
   "https://www.bbc.com/turkce/articles/c338535pvm2o",
+  "https://www.bbc.com/turkce/articles/c3grexk47dx9o",
   "https://www.bbc.com/turkce/articles/c63rg9vy987qo",
   "https://www.bbc.com/turkce/articles/c6dj1xey8e81o",
   "https://www.bbc.com/turkce/articles/c6lykxd4knmeo",
+  "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o",
   "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo",
   "https://www.bbc.com/turkce/articles/cmrlg02zkp6xo",
   "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo",
@@ -938,6 +948,7 @@
   "https://www.spiegel.de/ausland/polen-plant-flugverbotszone-an-grenze-zur-ukraine-a-48f2a001-0790-4c83-9d83-5ef4c91a389d#ref=rss",
   "https://www.spiegel.de/ausland/serbien-behoerden-nehmen-dragan-vucicevic-chef-des-vucic-propagandakanals-informer-fest-a-983478ac-ecee-48d1-88f0-5d499820b996#ref=rss",
   "https://www.spiegel.de/ausland/spanien-rekordzahl-von-migranten-auf-el-hierro-angekommen-a-8f070602-7629-40f4-a5a9-0485e86804e4#ref=rss",
+  "https://www.spiegel.de/ausland/usa-armee-sprengt-vier-tonnen-bleiazid-in-ohio-munitionsfabrik-a-92c629a4-f160-4c70-b3a7-4697289811ba#ref=rss",
   "https://www.spiegel.de/ausland/usa-demokratische-sozialisten-im-kongress-wie-gross-ist-ihr-einfluss-a-a97efff4-1f9d-4d5c-8b88-da6315285120#ref=rss",
   "https://www.spiegel.de/familie/gewalt-gegen-frauen-und-der-umgang-in-der-familie-was-wenn-die-tochter-nicht-nach-hause-kommt-a-de7a782a-9e7d-4319-9af7-fc6ce7f958f2#ref=rss",
   "https://www.spiegel.de/karriere/wechseljahre-mehr-als-jede-zweite-frau-in-der-lebensmitte-fuehlt-sich-gesundheitlich-nicht-gut-a-a17595d8-9a63-40b1-8f18-591de5af99da#ref=rss",
@@ -975,6 +986,7 @@
   "https://www.spiegel.de/sport/fussball/champions-league-fc-bayern-muenchen-verliert-nach-fuehrung-in-lille-a-705d3778-1c49-4f83-b5b8-030c9b4b06c2#ref=rss",
   "https://www.spiegel.de/sport/fussball/champions-league-florian-wirtz-trifft-schon-wieder-stuttgart-scheitert-in-mailand-a-507c132a-6d1c-40e1-a50c-de57c0ecaa4b#ref=rss",
   "https://www.spiegel.de/sport/fussball/copa-america-usa-richten-naechstes-sportevent-aus-a-508c3034-a8d7-499e-a4f0-4225b5f6560f#ref=rss",
+  "https://www.spiegel.de/sport/fussball/fall-jamal-musiala-joshua-kimmich-verurteilt-verhalten-der-bayern-granden-a-fd40db87-e493-4377-bbad-97559bc54972#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-ein-friedensgipfel-miserable-stimmung-beim-fc-bayern-muenchen-und-ein-verdacht-rund-um-einen-autounfall-a-a9866857-1d84-4da9-9e70-1a21093582a8#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-fc-bayern-datiert-erste-untersuchungen-wegen-absencen-a-0c6d72c9-b690-49f8-95c3-d5264414fc4b#ref=rss",
   "https://www.spiegel.de/sport/schach/schach-wm-weltmeister-gukesh-will-cool-spielen-aber-gegner-sindarov-reagiert-gelangweilt-a-cd612bce-9980-4525-8120-f35a495fb055#ref=rss",
@@ -1048,6 +1060,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/26/liberal-senator-leah-blyth-defection-to-one-nation-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/25/treasurer-jim-chalmers-myefo-inflation-figures-coalition-one-nation-ntwnfb",
   "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
+  "https://www.theguardian.com/books/2026/nov/26/patrick-radden-keefes-london-falling-named-waterstones-book-of-the-year",
   "https://www.theguardian.com/business/2026/nov/25/china-battery-projects-uk-funding-security-warnings",
   "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
   "https://www.theguardian.com/business/2026/nov/25/m-and-g-boss-urges-uk-stem-firms-leaving-lse-compass-exit",
@@ -1056,6 +1069,7 @@
   "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
   "https://www.theguardian.com/business/nils-pratley-on-finance/2026/nov/25/energy-bills-gas-prices-electricity-costs",
   "https://www.theguardian.com/education/2026/nov/25/house-democrats-harvard-boycott-strike",
+  "https://www.theguardian.com/education/2026/nov/26/children-overcrowded-homes-gcse-results-study",
   "https://www.theguardian.com/environment/2026/nov/25/swiss-tourist-killed-british-americans-injured-elephants-cameroon",
   "https://www.theguardian.com/environment/2026/nov/25/turkey-salmonella-butterball",
   "https://www.theguardian.com/film/2026/nov/25/brad-pitt-angelina-jolie-settle-french-winery-lawsuit",
@@ -1063,6 +1077,7 @@
   "https://www.theguardian.com/law/2026/nov/25/hillsborough-law-families-funding-deaths-legal-aid",
   "https://www.theguardian.com/media/2026/nov/25/ai-helps-resurrect-voice-john-motson-football-video-game-fc27",
   "https://www.theguardian.com/media/2026/nov/25/palestinian-journalist-killed-by-israel-in-gaza-wins-rory-peck-prize",
+  "https://www.theguardian.com/media/2026/nov/26/social-media-making-it-harder-for-uk-parents-to-raise-families-survey-finds",
   "https://www.theguardian.com/money/2026/nov/25/energy-bills-in-great-britain-to-rise-ofgem-price-cap",
   "https://www.theguardian.com/music/2026/nov/25/andy-taylor-duran-duran-guitarist-dead",
   "https://www.theguardian.com/music/2026/nov/25/beatles-attraction-savile-row-approved-ban-rooftop-gigs",
@@ -1108,6 +1123,7 @@
   "https://www.theguardian.com/world/2026/nov/25/this-is-europe-brussels-eu-uk-summit",
   "https://www.theguardian.com/world/2026/nov/25/un-sacked-palestinian-staff-on-back-of-unproven-israel-allegations",
   "https://www.theguardian.com/world/2026/nov/25/yemen-houthis-advance-aden",
+  "https://www.theguardian.com/world/2026/nov/26/ministers-create-new-stalking-offence-scrap-need-for-proof-victims-fear-distress",
   "https://www.theguardian.com/world/live/2026/nov/25/ukraine-russia-energy-strikes-mark-rutte-donald-trump-friedrich-merz-germany-latest-news-updates",
   "https://www.welt.de/debatte/plus6af4622050175c81de7a19df/religion-im-westen-warum-der-islam-so-aggressiv-auf-kritik-reagiert.html",
   "https://www.welt.de/debatte/plus6aff1882c1e8003ef73c4ae8/gefuehl-von-sicherheit-was-wir-von-japan-lernen-koennen.html",
@@ -1128,6 +1144,7 @@
   "https://www.welt.de/politik/article6b071a32bb5effe8198cd747/nato-chef-auf-die-probe-gestellt-mark-rutte-lobt-trumps-umgang-mit-putin.html",
   "https://www.welt.de/politik/article6b071e5cbb5effe8198cd777/respekt-rente-jetzt-macht-die-union-der-spd-ein-neues-angebot-im-reformstreit.html",
   "https://www.welt.de/politik/article6b073236d4a4a3142c573c2e/bundeshaushalt-kuhhandel-statt-sparpolitik-wirtschaftsweise-warnt-vor-100-prozent-schuldenquote-bis-2040.html",
+  "https://www.welt.de/politik/article6b0777a9c75e09cb88d164a3/erziehung-prien-fordert-1000-bildschirmfreie-tage-fuer-kleinkinder.html",
   "https://www.welt.de/politik/ausland/article6b067391cd4642ba2eb17bd2/ukraine-krieg-lukaschenko-macht-selenskyj-ungewoehnliches-angebot-ukrainischer-praesident-reagiert.html",
   "https://www.welt.de/politik/ausland/article6b068f2bcd4642ba2eb17dd2/russlands-schattenkrieg-weil-er-weiss-das-halte-ich-nicht-ewig-durch-ex-botschafter-sieht-kalkuel-bei-putin.html",
   "https://www.welt.de/politik/ausland/article6b06a505366061b7ba3e4ba4/israel-terrorunterstuetzer-und-die-frage-nach-den-grenzen-der-demokratie.html",
