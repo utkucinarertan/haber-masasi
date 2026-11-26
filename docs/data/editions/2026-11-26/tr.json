@@ -1,0 +1,749 @@
+{
+ "date": "2026-11-26",
+ "updatedAt": "2026-11-26T05:55+01:00",
+ "lang": "tr",
+ "countries": [
+  {
+   "code": "de",
+   "key": "25142781d56803e6",
+   "overview": "Almanya'da siyasetin merkezinde federal bütçe, Ukrayna yardımları ve koalisyon içi tartışmalar yer alırken, Federal Meclis'te kadına yönelik şiddete karşı anma düzenlendi. Ekonomide ABD'nin yeni gümrük tarifeleri ve enflasyon baskıları gündemi meşgul ederken, savunma alanında milyarlarca avroluk ödeneklerin harcanamaması eleştiriliyor. Spor sahnesinde ise Şampiyonlar Ligi'ndeki Alman takımlarının yenilgileri ve kulüp içi gerilimler öne çıkıyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Bundestag'da Bütçe ve Ukrayna Yardımı Tartışması",
+     "summary": "Federal Meclis'teki bütçe görüşmelerinde Ukrayna'ya yapılacak yaklaşık 12 milyar avroluk yardım sert tartışmalara yol açtı. Muhalefet bu fonları vergi mükelleflerinin paralarının kötüye kullanımı olarak nitelendirirken, Federal Şansölye Friedrich Merz bunu \"özgürlüğümüzün savunulması\" olarak savundu.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+     "time": "2026-11-25T19:10:19+01:00"
+    },
+    {
+     "title": "Fuhşiyat için Daha Sıkı Kurallar Önerildi",
+     "summary": "Şiddet ve sömürüye karşı korumayı artırmayı amaçlayan bir uzman komisyonu, fahişeliğin yeniden düzenlenmesi yönünde daha katı kurallar tavsiye etti. Siyah-kırmızı koalisyon insan ticareti ve zorla fuhuşla daha etkili bir şekilde mücadele etmeyi hedefliyor.",
+     "category": "İç Politika",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
+     "time": "2026-11-25T20:14:28+01:00"
+    },
+    {
+     "title": "Almanya'da Aşırı Sağcı \"Terör 18\" Operasyonu",
+     "summary": "Federal Başsavcılık, aralarında reşit olmayan çocukların da bulunduğu aşırı sağcı \"Terror 18\" grubunun üyelerine karşı operasyon düzenledi. Zanlıların bir mülteci yurduna yönelik ağır eylemler planladığı şüpheleniliyor.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
+     "time": "2026-11-25T14:15:59+01:00"
+    },
+    {
+     "title": "Federal Meclis'te Femisid Kurbanları İçin Saygı Duruşu",
+     "summary": "Kadına Yönelik Şiddete Karşı Uluslararası Mücadele Günü vesilesiyle Federal Meclis milletvekilleri kadın cinayeti kurbanları için saygı duruşunda bulundu. Federal Şansölye Friedrich Merz kadınları daha iyi koruma sözü verdi.",
+     "category": "Toplum",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/alman-meclisinde-kadın-cinayeti-kurbanları-için-saygı-duruşu-merz-den-koruma-sözü/a-80054700",
+     "time": "2026-11-25T18:58:00+00:00"
+    },
+    {
+     "title": "\"63 yaşında emeklilik\" tartışmasında Birlik partilerinden uzlaşma önerisi",
+     "summary": "\"63 yaşında emeklilik\" konusundaki anlaşmazlıkta Birlik partileri milletvekilleri SPD'ye doğru bir adım atarak \"Saygı Emekliliği\" modelini önerdi. Düşük gelirli kesimler için cezasız erken emeklilik imkanının korunması öngörülüyor.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
+     "time": "2026-11-25T21:40:23+01:00"
+    },
+    {
+     "title": "ABD'den Avrupa Birliği Dahil Yeni Gümrük Vergileri",
+     "summary": "Amerika Birleşik Devletleri, Avrupa Birliği ve diğer ticaret ortaklarına karşı yeni ek gümrük vergileri uygulama kararı aldı. İlgili AB ürünlerine yüzde 15 oranında gümrük vergisi uygulanması öngörülüyor.",
+     "category": "Dış Ticaret",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+     "time": "2026-11-25T16:18:25+01:00"
+    },
+    {
+     "title": "Pistorius'un Bakanlığı 14 Milyar Avroyu Kullanmadı",
+     "summary": "Federal Savunma Bakanlığı, Bundeswehr'in modernize edilmesi için ayrılan 108 milyar avroluk dev bütçeden 14 milyar avroyu aşkın bir miktarı harcamadı. Bu durum Federal Savunma Bakanı Boris Pistorius için ciddi bir sorun teşkil ediyor.",
+     "category": "Bütçe",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-ministerium-ruft-14-milliarder-euro-aus-mega-budget-nicht-ab-a-e72550cb-0c72-4624-acb3-0c120f407461#ref=rss",
+     "time": "2026-11-26T05:08:00+01:00"
+    },
+    {
+     "title": "İndirim Marketleri Tereyağı Fiyatını Bir Avronun Altına Düşürdü",
+     "summary": "Lidl ve Aldi gibi indirim marketleri, satın alma maliyetlerinin düşmesini gerekçe göstererek bir paket tereyağının fiyatını bir avronun altına indirdi. Çiftçiler Birliği bu indirimi süt üreticilerine yönelik bir darbe olarak nitelendirdi.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
+     "time": "2026-11-25T15:01:31+01:00"
+    },
+    {
+     "title": "AB, Enerji Krizi Nedeniyle Devlet Yardımı Kurallarındaki Esnekliği Uzattı",
+     "summary": "Avrupa Birliği, enerji kriziyle mücadele kapsamında Almanya ve diğer üye ülkelerin şirketleri ve çiftçileri desteklemesine olanak tanıyan devlet yardımı kurallarındaki esnekliği Haziran 2027'ye kadar uzattı.",
+     "category": "Avrupa",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/eu-verlaengert-lockerung-bei-staatshilfen-wegen-energiekrise-a-2a42cfb1-d7a5-4d1b-8873-cdb7f9feaa4f#ref=rss",
+     "time": "2026-11-25T17:08:00+01:00"
+    },
+    {
+     "title": "Deutsche Bahn Komisyon Ücretleri Davasında Kısmi Başarı Elde Etti",
+     "summary": "Federal Kartel Dairesi'nin Deutsche Bahn'ın rakip bilet platformlarına komisyon ödemesi gerektiği yönündeki kararına karşı açılan davada Düsseldorf'taki mahkeme şirketi haklı buldu.",
+     "category": "Şirketler",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-streit-ueber-provisionen-bahn-erzielt-teilerfolg-vor-gericht-a-695a6d76-519f-43df-b9b2-887a0a2739d0#ref=rss",
+     "time": "2026-11-25T16:54:00+01:00"
+    },
+    {
+     "title": "Küresel BT Kesintisi Nedeniyle Microsoft'ta En Yüksek Kriz Seviyesi",
+     "summary": "Dünya genelinde yaşanan büyük bir bilgi işlem kesintisi Microsoft'ta alarm zillerinin çalmasına neden oldu. Şirket yönetimi bunun üzerine en yüksek kriz seviyesini ilan ederek acil durum süreçlerini gözden geçirme kararı aldı.",
+     "category": "Yazılım",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c#ref=rss",
+     "time": "2026-11-25T20:51:00+01:00"
+    },
+    {
+     "title": "Deichmann'ın Çevrim İçi Mağazasına Siber Saldırı",
+     "summary": "Ayakkabı perakendecisi Deichmann'ın çevrim içi mağazasına yönelik bir siber saldırı gerçekleştirildiği ve müşterilerin kişisel verilerine yetkisiz erişim sağlandığı bildirildi. Şirket etkilenen müşterileri bilgilendireceğini açıkladı.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Deichmann-Online-Shop-geknackt-unbefugter-Datenzugriff-11537484.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-25T11:56:00+01:00"
+    },
+    {
+     "title": "Hera Uzay Sondası Dimorphos Asteroidindeki Krateri Görüntüledi",
+     "summary": "Avrupa Uzay Ajansı'nın Hera sondası, dört yıl önce bir NASA sondasının kasıtlı olarak çarptığı Dimorphos asteroidinin yakın plan fotoğraflarını Dünya'ya gönderdi. Elde edilen veriler Dünya'yı uzaydan gelebilecek tehlikelere karşı korumayı amaçlıyor.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wissenschaft/weltall/asteroid-dimorphos-spektakulaere-fotos-zeigen-dart-einschlagkrater-a-7e837a7b-49a8-438b-82e4-fb67fe31c74f#ref=rss",
+     "time": "2026-11-25T20:37:00+01:00"
+    },
+    {
+     "title": "Joshua Kimmich'ten Bayern Yöneticilerine Sert Tepki",
+     "summary": "Bayern Münih kaptanı Joshua Kimmich, kulüp yöneticilerinin sakatlığı süren Jamal Musiala hakkındaki kamuoyuna yönelik açıklamalarını ağır bir dille eleştirdi. Kimmich, kulüp liderlerinin tutumunun kabul edilemez olduğunu belirtti.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/fussball/fall-jamal-musiala-joshua-kimmich-verurteilt-verhalten-der-bayern-granden-a-fd40db87-e493-4377-bbad-97559bc54972#ref=rss",
+     "time": "2026-11-26T01:22:00+01:00"
+    },
+    {
+     "title": "Bayern Münih Lille'de Sezonun İlk Yenilgisini Aldı",
+     "summary": "Şampiyonlar Ligi'nde mücadele eden Almanya rekor şampiyonu Bayern Münih, deplasmanda OSC Lille'e mağlup olarak bu sezonki ilk yenilgisini aldı. İkinci yarıda yenilen iki hızlı gol maçın kaderini belirledi.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html",
+     "time": "2026-11-25T21:58:37+00:00"
+    },
+    {
+     "title": "VfB Stuttgart Inter Mailand Deplasmanında Mağlup Oldu",
+     "summary": "VfB Stuttgart, Şampiyonlar Ligi'nde Inter Mailand karşısında sahadan 2-0'lık mağlubiyetle ayrıldı. Karşılaşmada etkili bir oyun sergileyen Stuttgart ekibi, pozisyonları değerlendiremeyerek puansız döndü.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
+     "time": "2026-11-25T22:06:26+00:00"
+    },
+    {
+     "title": "Andreas Wolff THW Kiel'den Ayrılıyor",
+     "summary": "Hentbol milli kalecisi Andreas Wolff, THW Kiel ile olan sözleşmesini uzatmayarak kulüpten ayrılacağını duyurdu. Tecrübeli kalecinin Bundesliga rakibi VfL Gummersbach'a transfer olacağı bildirildi.",
+     "category": "Hentbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/ndr/thw-kiel-594.html",
+     "time": "2026-11-25T18:37:56+01:00"
+    },
+    {
+     "title": "Duran Duran'ın Eski Gitaristi Andy Taylor Hayatını Kaybetti",
+     "summary": "1980'lerin en başarılı pop ve yeni dalga gruplarından Duran Duran'ın gitaristi Andy Taylor, prostat kanseri nedeniyle 65 yaşında yaşamını yitirdi. Taylor, grubun karakteristik gitar riff'leriyle müzik dünyasında iz bırakmıştı.",
+     "category": "Müzik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/gesellschaft/menschen/andy-taylor-gestorben-duran-duran-gitarrist-erlag-prostatakrebs-accg-201718193.html",
+     "time": "2026-11-26T03:11:15+00:00"
+    },
+    {
+     "title": "\"Gut genug\" Parçasına YouTube'dan Yılın Müzik Videosu Ödülü",
+     "summary": "Yaz aylarında küresel çapta viral olan Almanca şarkı \"Gut genug\"un müzik videosu YouTube tarafından yılın videosu seçildi. Rapçi Bonez MC ise yılın sanatçısı ödülüne layık görüldü.",
+     "category": "Medya",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/musik/yotutube-gut-genug-zum-video-des-gekuert-a-2eb7beb9-6a6c-4681-adff-aa2e0df4ca14#ref=rss",
+     "time": "2026-11-25T14:22:00+01:00"
+    },
+    {
+     "title": "ARD Belgeseli \"Der talentierte Mr. F.\" Emmy Ödülü Kazandı",
+     "summary": "Bir dolandırıcılık vakasını konu alan ARD yapımı \"Der talentierte Mr. F.\" başlıklı belgesel uluslararası alanda prestijli bir Emmy Ödülü'ne layık görüldü. Yapımcılar ödül sürecinin zorluklarını ve arka planını paylaştı.",
+     "category": "Televizyon",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/tv/emmy-fuer-ard-dokumentation-der-talentierte-mr-f-am-ende-haben-wir-das-geld-hart-erbettelt-a-11734e62-3184-4d79-ba93-4df809ef47b3#ref=rss",
+     "time": "2026-11-25T19:37:00+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "c9c5fc2a8cb6a4a0",
+   "overview": "Türkiye, iç politika, yargı süreçleri ve dış diplomasi ekseninde yoğun bir gündemle hareket ediyor. Ankara'daki üst düzey temaslar ve ekonomik gelişmeler yakından takip edilirken, spor alanında ise Şampiyonlar Ligi'ndeki Türk temsilcilerinin başarılı sonuçları öne çıkıyor. Bütçe, vergi düzenlemeleri ve sosyal politikalar ülkenin ana tartışma başlıklarını oluşturuyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Fon Krizine İlişkin Ortak Basın Toplantısı Düzenlenecek",
+     "summary": "Cumhurbaşkanı Yardımcısı Cevdet Yılmaz, Adalet Bakanı Akın Gürlek ve Hazine ve Maliye Bakanı Mehmet Şimşek'in katılımıyla fon meselesine ilişkin ortak basın toplantısı gerçekleştirilecek. Cumhurbaşkanlığı Külliyesi'nde düzenlenecek buluşmada süreçteki son durum paylaşılacak ve sorular yanıtlanacak.",
+     "category": "Siyaset",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/fon-krizinde-kritik-hamle-yilmaz-gurlek-ve-simsek-basinin-karsisina-2086292",
+     "time": "2026-11-26T07:24:50+03:00"
+    },
+    {
+     "title": "Anayasa Mahkemesi Ekrem İmamoğlu'nun Başvurusunu Değerlendirecek",
+     "summary": "Anayasa Mahkemesi, Ekrem İmamoğlu'nun tutukluluğunun sona ermesi için yapılan bireysel başvuruyu ele alacak. Kurulun lehte oy vermesi durumunda serbest bırakılması gündeme gelebilir, ancak siyasetçi hakkında devam eden başka bir dava kapsamında da tedbir bulunuyor.",
+     "category": "Yargı",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo",
+     "time": "2026-11-25T18:45:33+00:00"
+    },
+    {
+     "title": "Cumhurbaşkanı Erdoğan, Halife Hafter'i Ankara'da Kabul Etti",
+     "summary": "Libya Ulusal Ordusu Genel Komutanı Halife Hafter ve heyeti Ankara'da temaslarda bulundu. Ziyaret, Türkiye'nin Libya'nın hem doğusu hem de batısıyla ilişkilerini geliştirme hamlesi olarak değerlendiriliyor.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/25/erdogan-hafteri-ankarada-agirladi-iliskilerde-neler-degisiyor",
+     "time": "2026-11-25T21:37:27+01:00"
+    },
+    {
+     "title": "Gaziosmanpaşa'daki Yangında İkinci Acı Haber",
+     "summary": "İstanbul Gaziosmanpaşa'da açık unutulan ısıtıcıdan kaynaklanan yangında yaralanan 6 yaşındaki Defne Özyurt hastanede yaşamını yitirdi. Olayda kuzeni Ömer Ege Özyurt da hayatını kaybetmişti, daire sakini ise tutuklandı.",
+     "category": "Asayiş",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/gaziosmanpasadaki-yanginda-ikinci-aci-haber-2086298",
+     "time": "2026-11-26T07:54:59+03:00"
+    },
+    {
+     "title": "İstanbul Merkezli Uyuşturucu Operasyonunda 35 Gözaltı Kararı",
+     "summary": "İstanbul Cumhuriyet Başsavcılığı tarafından yürütülen soruşturma kapsamında ünlü isimlerin de aralarında bulunduğu 35 kişi hakkında gözaltı kararı çıkarıldı. Operasyonda çok sayıda şüpheli emniyete götürüldü.",
+     "category": "Asayiş",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Agos",
+     "url": "https://www.agos.com.tr/tr/haber/35-kisi-hakkinda-gozalti-karari-42608",
+     "time": "2026-11-25T09:48:00+03:00"
+    },
+    {
+     "title": "Bebek Ürünleri İthalatına Ek Vergi Getirildi",
+     "summary": "Ticaret Bakanlığı, Çin ve Tayland menşeli plastik bebek beslenme ve bakım ürünlerine uygulanan dampinge karşı önlemlerin beş yıl süreyle süreceğini açıkladı. Resmî Gazete'de yayımlanan kararla Çin menşeli ürünlerde yüzde 12, Tayland menşeli ürünlerde ise yüzde 26 ek vergi uygulanacak.",
+     "category": "Ticaret",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/bebek-urunleri-ithalatinda-yuzde-26ya-varan-ek-vergi-onlem-bes-yil-2086296",
+     "time": "2026-11-26T07:35:00+03:00"
+    },
+    {
+     "title": "İstanbul Sanayi Odası'ndan Uzun Vadeli Kredi Çağrısı",
+     "summary": "İstanbul Sanayi Odası yönetimi, yatırım kredilerinin uzun vadeli verilmesi ve işletme sermayesine erişimin kolaylaştırılması gerektiğini belirtti. Sanayiciler, rekabet gücünün korunması için finansmana erişim sorunlarının çözülmesini talep ediyor.",
+     "category": "Sanayi",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/sanayici-fiyat-istikrari-programinin-magduru-olmak-isterdigini-acikladi-iso-dan-rekabet-uyarisi-2559492",
+     "time": "2026-11-26T04:00:00+03:00"
+    },
+    {
+     "title": "Altın Fiyatlarında Sert Düşüş Yaşandı",
+     "summary": "Piyasalardaki satış baskısının yeniden hız kazanmasıyla birlikte ons altın sert bir düşüş yaşayarak son 15 ayın en düşük seviyelerine geriledi. Gelişmeler yatırımcılarca yakından izleniyor.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlarinda-sert-dusus-15-ayin-en-dusuk-seviyesine-geriledi-2559351",
+     "time": "2026-11-25T15:45:00+03:00"
+    },
+    {
+     "title": "Yeniden Değerleme Oranı ve Harç Beklentileri",
+     "summary": "Hazine ve Maliye Bakanlığı Gelir İdaresi Başkanlığı tarafından hazırlanan tebliğ ile yeniden değerleme oranı belirlendi. Bu gelişme, 2027 yılı içerisinde pasaport ve diğer harçlara yapılacak zam oranlarının hesaplanmasında baz oluşturacak.",
+     "category": "Maliye",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/pasaport-harci-ne-kadar-2027-pasaport-harcina-zam-mi-gelecek-2559285",
+     "time": "2026-11-25T12:38:00+03:00"
+    },
+    {
+     "title": "Kayseri'deki Ekolojik Pazar Rekor Ciroya Ulaştı",
+     "summary": "Türkiye'de yalnızca beş noktada bulunan Kayseri'deki Yüzde 100 Ekolojik Pazar, 2026 yılında 201 tonu aşkın satış ve 11,8 milyon TL ciro elde etti. Sertifikalı üretim yapılan pazarda üreticiler satış rekoru kırdı.",
+     "category": "Tarım",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/turkiyede-sadece-5-noktada-var-kayseride-30-ciftcinin-tezgahinda-118-2086293",
+     "time": "2026-11-26T07:27:00+03:00"
+    },
+    {
+     "title": "Elektrikli Otomobiller İçin Yeni Hızlı Şarj Teknolojisi Geliştirildi",
+     "summary": "Bilim insanları, elektrikli araç bataryalarının yalnızca 4 dakikada tam doluma ulaşmasını sağlayacak yeni bir malzeme geliştirdi. Buluşun batarya teknolojilerinde devrim yaratması bekleniyor.",
+     "category": "Donanım",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/elektrikli-otomobil-4-dakikada-sarj-yeni-batarya-grafit-h229454.html",
+     "time": "2026-11-25T17:51:54+03:00"
+    },
+    {
+     "title": "ChatGPT Health Özelliği Android Kullanıcılarına Sunuldu",
+     "summary": "OpenAI, sağlık verilerini yorumlayabilen ChatGPT Health özelliğini Android Health Connect desteğiyle genişletti. Kullanıcılar akıllı saat ve fitness verilerini sohbet diliyle analiz edebilecek.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/chatgpt-health-android-geldi-h229444.html",
+     "time": "2026-11-25T15:00:35+03:00"
+    },
+    {
+     "title": "Microsoft'tan Büyük Outlook Kesintisi Sonrası 'Kırmızı Alarm'",
+     "summary": "Milyonlarca kullanıcıyı etkileyen geniş çaplı Outlook kesintisinin ardından Microsoft şirket içinde kırmızı alarm ilan etti. Arızanın giderilmesi için teknik ekipler çalışmalarını sürdürüyor.",
+     "category": "Yazılım",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/microsoft-sirket-icinde-kirmizi-alarm-ilan-etti-h229447.html",
+     "time": "2026-11-25T16:05:17+03:00"
+    },
+    {
+     "title": "İngiltere'de Yapay Zeka Destekli Meme Kanseri Araştırması Başlıyor",
+     "summary": "İngiltere, yapay zekanın meme kanseri taramalarında erken teşhise nasıl katkı sağlayabileceğini incelemek amacıyla geniş kapsamlı bir araştırma başlatıyor. Proje, sağlık alanında yapay zeka kullanımını artırmayı hedefliyor.",
+     "category": "Sağlık",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-meme-kanserini-erken-teshis-edebilir-mi-2559450",
+     "time": "2026-11-25T20:58:00+03:00"
+    },
+    {
+     "title": "Akıllı Telefon Üreticileri 2027 Hedeflerini Düşürüyor",
+     "summary": "Artan bellek maliyetleri nedeniyle pek çok akıllı telefon üreticisi 2027 yılı sevkiyat hedeflerini aşağı yönlü revize ediyor. Sektördeki bazı markalar ise mevcut hedeflerini korumaya çalışıyor.",
+     "category": "Sektör",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/akilli-telefon-ureticileri-2027-uretim-hedeflerini-dusuruyor-h229444.html",
+     "time": "2026-11-25T16:19:29+03:00"
+    },
+    {
+     "title": "Fenerbahçe, Londra'da Shakhtar Donetsk'i Mağlup Etti",
+     "summary": "Fenerbahçe, UEFA Şampiyonlar Ligi beşinci hafta maçında Shakhtar Donetsk'i Londra'da 56. dakikada Vedat Muriqi'nin attığı golle 1-0 yendi. Sarı-lacivertliler bu galibiyetle puanını yükseltti.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cw7vp739ee9do",
+     "time": "2026-11-26T00:05:51+00:00"
+    },
+    {
+     "title": "Berke Özer'in Formalı Lille, Bayern Münih'i Yendi",
+     "summary": "Milli kaleci Berke Özer'in formasını giydiği Lille, Şampiyonlar Ligi'nde sahasında konuk ettiği Bayern Münih'i 2-1 mağlup etti. Fransız ekibi sahadan müthiş bir geri dönüşle galibiyetle ayrıldı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/lille-den-bayern-munih-e-celme-fransa-da-muthis-geri-donus-2559508",
+     "time": "2026-11-26T01:46:00+03:00"
+    },
+    {
+     "title": "Anadolu Efes İspanya Depreminde Kaybetti",
+     "summary": "Anadolu Efes, THY EuroLeague'in 14. hafta mücadelesinde deplasmanda Baskonia'ya 86-81 mağlup oldu. Lacivert-beyazlılar İspanya deplasmanından mağlubiyetle döndü.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501",
+     "time": "2026-11-26T00:49:00+03:00"
+    },
+    {
+     "title": "Atletico Madrid Sahasında Viking'i Geçti",
+     "summary": "Atletico Madrid, UEFA Şampiyonlar Ligi'nin 5. haftasında konuk ettiği Viking'i 2-0 mağlup etti. İspanyol ekibi karşılaşmada rahat bir galibiyet elde etti.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-rakibi-atletico-madrid-viking-karsisinda-zorlanmadi-2559511",
+     "time": "2026-11-26T02:10:00+03:00"
+    },
+    {
+     "title": "Inter Stuttgart'ı Evinde Mağlup Etti",
+     "summary": "Inter, Şampiyonlar Ligi'nde oynadığı 5. hafta maçında kendi sahasında Stuttgart'ı 2-0 yendi. İtalyan temsilcisi hanesine üç puan yazdırdı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/inter-kendi-evinde-stuttgart-a-gecit-vermedi-2559504",
+     "time": "2026-11-26T01:17:00+03:00"
+    },
+    {
+     "title": "'Hayat Ağacı' Sergisi AKM'de Ziyaretçilerle Buluşuyor",
+     "summary": "Küratörlüğünü Emre Sefer'in üstlendiği 'Hayat Ağacı' sergisi Atatürk Kültür Merkezi Galeri'de kapılarını açıyor. Dokuz sanatçının resim, heykel ve yeni medya eserleri kadim sembolü çağdaş sanatla yeniden yorumluyor.",
+     "category": "Sergi",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/25/hayat-agaci-sergisi-akmde-9-sanatcinin-yorumuyla-aciliyor",
+     "time": "2026-11-25T09:18:11+01:00"
+    },
+    {
+     "title": "Muhsin Ertuğrul Okumaları Yeni Başvuruları Bekliyor",
+     "summary": "İstanbul Şehir Tiyatroları bünyesindeki genç oyun yazarlarını buluşturan Muhsin Ertuğrul Okumaları için yeni dönem başvuruları başladı. Genç yazarlar metinlerini 4 Ocak'a kadar iletebilecek.",
+     "category": "Tiyatro",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/muhsin-ertugrul-okumalari-yeni-metinleri-bekliyor-2559388",
+     "time": "2026-11-25T17:19:00+03:00"
+    },
+    {
+     "title": "Dil Derneği Emin Özdemir Ödülü İçin Koşullar Açıklandı",
+     "summary": "Dilci ve yazar Emin Özdemir adına düzenlenen ödülün 2027 yılındaki alanının gazeteci kitapları olacağı duyuruldu. Eserler için son başvuru tarihi 5 Temmuz 2027 olarak belirlendi.",
+     "category": "Edebiyat",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/emin-ozdemir-odulu-2027-de-gazeteci-kitaplarina-verilecek-2559232",
+     "time": "2026-11-25T10:47:00+03:00"
+    },
+    {
+     "title": "Sakıp Sabancı Müzesi'nde Yoko Ono Buluşmaları",
+     "summary": "Sakıp Sabancı Müzesi, 'Yoko Ono: İçses ve İçyapı' sergisi kapsamında sanatçının üretimini farklı açılardan ele alan bir konuşma programı düzenliyor.",
+     "category": "Müze",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ssm-de-yoko-ono-sergisi-kapsaminda-bulusmalar-2559389",
+     "time": "2026-11-25T17:21:00+03:00"
+    },
+    {
+     "title": "James Bond Filmiyle Ünlüleşen Citroen 2CV Rahmi M. Koç Müzesi'nde",
+     "summary": "James Bond'un 1981 yapımı filminde yer alarak sinema tarihine geçen özel versiyon Citroen 2CV, Rahmi M. Koç Müzesi'nin koleksiyonunda ziyaretçilerini ağırlıyor.",
+     "category": "Koleksiyon",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/25/james-bondla-sinema-tarihine-gecen-citroen-2cv-rahmi-m-koc-muzesinde",
+     "time": "2026-11-25T09:36:12+01:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "2d8ccbe078ec5517",
+   "overview": "Bugünün küresel haber gündemi, ABD'nin açıkladığı yeni gümrük tarifelerinin uluslararası ticarette yarattığı gerilimler ve bu hamleye Çin ile Avrupa Birliği'nden gelen sert tepkilerle şekilleniyor. Öte yandan Kahire'de meydana gelen büyük otoban kazası ve patlama ile ABD'de Şükran Günü'nü vuran şiddetli hava koşulları toplumsal hayatı ve seyahatleri olumsuz etkiledi. Ekonomi alanında ise artan enflasyon baskıları ve yapay zeka sektörüne yönelik kaygılar küresel piyasalarda dalgalanmalara yol açıyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "ABD'den AB ve Çin'i de Kapsayan Yeni Gümrük Vergileri",
+     "summary": "ABD yönetimi, aralarında Avrupa Birliği ve Çin'in de bulunduğu 14 ticaret ortağına yönelik yeni ek gümrük vergileri açıkladı. Buna göre betroffene AB ürünleri için yüzde 15, Çin malları için ise yüzde 20 oranında ek vergi uygulanması öngörülüyor. Pekin yönetimi bu adımı siyasi manipülasyon olarak nitelendirirken, Brezilya da tehditlere boyun eğmeyeceğini duyurdu.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+     "time": "2026-11-25T16:18:25+01:00"
+    },
+    {
+     "title": "Kahire'de Yakıt Tankeri Devrildi: En Az 31 Ölü",
+     "summary": "Mısır'ın başkenti Kahire çevresindeki çevre yolunda bir yakıt tankerinin devrilmesi sonucu büyük bir yangın çıktı. Olayda en az 31 kişi hayatını kaybetti, çok sayıda kişi yaralandı ve çevredeki araçlar tamamen yandı. Mısırlı yetkililer faciale ilgili inceleme başlattı.",
+     "category": "Güvenlik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+     "time": "2026-11-26T01:25:54+00:00"
+    },
+    {
+     "title": "Şiddetli Fırtına Nedeniyle New York'taki Geleneksel Şükran Günü Geçit Töreni Ertelendi",
+     "summary": "ABD'nin kuzeydoğusunu etkisi altına alması beklenen şiddetli fırtına ve şiddetli rüzgarlar nedeniyle New York'taki geleneksel Şükran Günü Geçit Töreni tarihinde ilk kez ertelendi. Yetkililer, halkı ve dev balonları korumak amacıyla etkinliğin cumartesi gününe alındığını duyurdu. Batı yakasında ise olumsuz hava koşulları seyahat planlarını aksatıyor.",
+     "category": "Afet",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+     "time": "2026-11-26T04:04:14+00:00"
+    },
+    {
+     "title": "Fransa'da Siyasi Sızıntı Soruşturması: Vali Görevden Alındı",
+     "summary": "Fransa'da aşırı sağcı Ulusal Birlik partisinin sızıntı iddialarıyla ilgili soruşturmada iki üst düzey kamu görevlisi hedef alındı. Loiret Valisi Hugues Moutouh, gizli bilgileri sızdırdığı şüphesiyle görevinden uzaklaştırıldı. Ayrıca bir Paris savcı yardımcısı hakkında da soruşturma başlatıldı.",
+     "category": "Adalet",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
+     "time": "2026-11-25T22:28:58+00:00"
+    },
+    {
+     "title": "İsrail Başbakanı Netanyahu Hakkındaki Son Rüşvet Suçlaması Düşebilir",
+     "summary": "İsrail Başbakanı Binyamin Netanyahu yıllardır yolsuzluk, dolandırıcılık ve rüşvet suçlamalarıyla yargılanıyordu. Mahkeme heyeti, son kalan rüşvet suçlamasının düşürülmesini tavsiye etti. Netanyahu bu gelişmeyi davanın başarısızlığının kanıtı olarak değerlendirdi.",
+     "category": "Hukuk",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+     "time": "2026-11-25T20:50:08+01:00"
+    },
+    {
+     "title": "ABD'de Enflasyon Son Ayların En Yüksek Seviyesine Ulaştı",
+     "summary": "ABD'de tüketici fiyatları son bir yılda yüzde 3,8 oranında artarak mayıs ayından bu yana en yüksek seviyesine ulaştı. Yükselen enerji fiyatlarının tetiklediği enflasyon verisi, Merkez Bankası'nın kritik faiz toplantısı öncesinde açıklandı. Bu gelişme, teknoloji hisselerindeki sert düşüşlerle birlikte borsalarda satış dalgasını derinleştirdi.",
+     "category": "Enflasyon",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+     "time": "2026-11-25T15:46:15+00:00"
+    },
+    {
+     "title": "İngiliz İndirimli Alışveriş Zinciri Poundland Iflas Etti",
+     "summary": "İngiltere'nin tanınmış indirimli ürün zinciri Poundland, sahiplerinin bir alıcı bulamaması sonrasında iflas erteleme sürecine girdi. Yaşanan çöküş, şirkette çalışan yaklaşık 11 bin kişinin işini tehlikeye attı. Perakende sektöründeki bu gelişme ülkede geniş yankı uyandırdı.",
+     "category": "Perakende",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+     "time": "2026-11-25T21:31:10+00:00"
+    },
+    {
+     "title": "İngiltere Merkez Bankası: Gıda Enflasyonu Gelecek Yıl Yüzde 5'i Bulabilir",
+     "summary": "İngiltere Merkez Bankası, artan maliyet baskıları ve enerji tavan fiyatlarındaki artışlar nedeniyle gıda enflasyonunun gelecek yıl yüzde 5'e ulaşabileceği uyarısında bulundu. Yetkililer, jeopolitik gerilimlerin ve tedarik zinciri maliyetlerinin enflasyonist baskıları canlı tuttuğunu belirtti. Bu durum hanehalkı bütçeleri üzerindeki yükü artıracak.",
+     "category": "Piyasalar",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+     "time": "2026-11-25T19:25:57+00:00"
+    },
+    {
+     "title": "Avrupa Komisyonu'ndan Çiftçilere ve Sanayiye Devlet Yardımı Onayı",
+     "summary": "Avrupa Komisyonu, devam eden enerji krizi nedeniyle çiftçiler, sanayi kuruluşları ve diğer şirketler için devlet yardımı kurallarının esnetilmesine devam edileceğini açıkladı. Buna göre söz konusu devlet yardımları en az 2027 yılı haziran sonuna kadar sürecek. Karar, krizden etkilenen sektörlere nefes aldırmayı amaçlıyor.",
+     "category": "Sanayi",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
+     "time": "2026-11-25T17:29:03+01:00"
+    },
+    {
+     "title": "AB Liderleri Brüksel'deki Zirvede Bütçe İçin Toplandı",
+     "summary": "Avrupa Birliği üyesi 27 ülkenin devlet ve hükümet başkanları, uzun vadeli AB bütçesini görüşmek üzere Brüksel'de bir araya geldi. Zirvede bütçe açıklarının kapatılması için dijital vergi gibi olası yeni gelir kaynakları da masaya yatırıldı. Müzakerelerin zorlu geçmesi bekleniyor.",
+     "category": "Bütçe",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+     "time": "2026-11-26T05:00:53+01:00"
+    },
+    {
+     "title": "ABD'den SpaceX'e Yörüngedekİ Veri Merkezleri İçin Uydu Onayı",
+     "summary": "ABD Federal İletişim Komisyonu, Elon Musk'ın şirketi SpaceX'e yörüngede veri merkezleri kurmak amacıyla bir milyon adede kadar uydu fırlatma yetkisi verdi. 2040 yılına kadar geçerli olan bu onay, teknoloji firmalarının yapay zeka hesaplama altyapısını uzaya taşıma yarışında şirkete büyük bir avantaj sağlıyor.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers",
+     "time": "2026-11-26T03:02:37+00:00"
+    },
+    {
+     "title": "Huawei, ABD Ticari Sırlarını Çalmaktan Suçlu Bulundu",
+     "summary": "New York'ta aylardır süren dava sonucunda bir jüri, Çinli teknoloji devi Huawei'yi T-Mobile ve Cisco'ya ait ticari sırları çalmaktan suçlu buldu. ABD Adalet Bakanlığı, şirketin ABD sırlarını çalarken gizlenmek için yeterince çaba sarf etmediğini belirtti. Huawei haksız kazanç ve yaptırım ihlalleri nedeniyle cezalarla karşı karşıya.",
+     "category": "Yasal",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+     "time": "2026-11-25T16:33:45+00:00"
+    },
+    {
+     "title": "Avrupa Uzay Ajansı'nın Hera Uzay Aracı Asteroid Çarpışma Bölgesini İnceledi",
+     "summary": "Avrupa'nın Hera uzay aracı, DART misyonunun asteroit saptırma deneyi gerçekleştirdiği kozmik enkaz bölgesine ulaştı. Bilim insanları çarpışma sonucunda oluşan kaos ortamını inceleyerek asteroidin yapısını anlamaya çalışıyor. Araştırmacılar uydunun bıraktığı izin beklenenden çok daha büyük bir karmaşaya işaret ettiğini belirtti.",
+     "category": "Uzay",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+     "time": "2026-11-25T22:36:45+00:00"
+    },
+    {
+     "title": "Fransa'dan İran Kaynaklı Siber Saldırı Suçlaması",
+     "summary": "Fransa yetkilileri, İranlı siber korsan gruplarını süpermarketlerin soğutma sistemlerini sabote etmekle suçladı. Yüzlerce cihazın hedef alındığı saldırıların yeni bir kaos yaratma amacı taşıdığı belirtildi. Uzmanlar siber saldırıların kritik altyapılara yönelik tehdit boyutunu artırdığına dikkat çekiyor.",
+     "category": "Siber Güvenlik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/11/a-familiar-faulty-iran-hacking-group-has-found-a-new-way-to-cause-chaos/",
+     "time": "2026-11-25T14:29:43+00:00"
+    },
+    {
+     "title": "ABD Ordusu Iowa'da Kurşun Azid Patlaması Gerçekleştirdi",
+     "summary": "ABD Ordusu, Iowa eyaletinde binlerce pound kurşun azid patlayıcısının kontrollü imhasını tamamladı. Yerel halkın sağlık riskleri ve zehirli duman bulutları endişesine rağmen ordudan yapılan açıklamada operasyonun büyük bir başarıyla sonuçlandığı ifade edildi. Bölgedeki ilk ölçümler olumlu sonuçlar verdi.",
+     "category": "Güvenlik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+     "time": "2026-11-25T15:35:17+00:00"
+    },
+    {
+     "title": "Manchester United, Sporting Deplasmanında Galibiyeti Son Dakikalarda Kaçırdı",
+     "summary": "Şampiyonlar Ligi'nde Manchester United, deplasmanda Sporting ile 2-2 berabere kaldı. Maçın son dakikalarında kaleci Senne Lammens'in büyük hatası skoru belirlerken, teknik direktör Mauricio Pochettino hakem kararlarına tepki gösterdi. Bu sonuçla İngiliz ekibi galibiyeti son anda ellerinden kaçırdı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+     "time": "2026-11-25T22:05:49+00:00"
+    },
+    {
+     "title": "Liverpool, Club Brugge Deplasmanından Net Skorla Döndü",
+     "summary": "Şampiyonlar Ligi mücadelesinde Liverpool, deplasmanda Club Brugge'ü Alexander Isak'ın iki golü ve Florian Wirtz'in katkısıyla 3-0 mağlup etti. Kırmızı-beyazlılar, önceki yenilginin ardından grupta üst tur için güçlü bir performans sergiledi. Isak bu sezonki gol sayısını 10'a çıkardı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+     "time": "2026-11-25T22:04:10+00:00"
+    },
+    {
+     "title": "Pittsburgh Steelers, Aaron Rodgers ile Yollarını Ayırdı",
+     "summary": "NFL takımlarından Pittsburgh Steelers, tecrübeli oyun kurucu Aaron Rodgers'ı kadro dışı bırakmasının ardından serbest bıraktı. Rodgers, bir radyo programında baş antrenör Mike McCarthy'nin takım toplantıları sırasında uyuduğunu iddia etmişti. Bu iddiaların ardından kulüp yıldız oyuncuyla yollarını ayırdı.",
+     "category": "Amerikan Futbolu",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/aaron-rodgers-steelers-mike-mccarthy-nfl",
+     "time": "2026-11-25T22:25:29+00:00"
+    },
+    {
+     "title": "Bayern Münih, Lille Deplasmanında Şok Bir Yenilgi Aldı",
+     "summary": "Şampiyonlar Ligi'nde Bayern Münih, deplasmanda Lille'e 2-1 mağlup olarak sezonun ilk yenilgisini aldı. Dayot Upamecano'nun golüyle öne geçen Alman devi, sonradan yediği goller ve Aleksandar Pavlovic'in kendi kalesine attığı talihsiz golle sahadan puansız ayrıldı. Öte yandan PSG de Roma ile 2-2 berabere kaldı.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+     "time": "2026-11-25T22:38:19+00:00"
+    },
+    {
+     "title": "David Warner'dan Yeni Top Hilesi İddialarına Sert Tepki",
+     "summary": "Avustralyalı eski kriketçi David Warner, medyanın eldiven bantlarına yapıştırıcı ve kum sürerek top hilesi yaptığı yönündeki iddialarına karşı çıktı. Warner, bu tür iddiaların doğrulanabilir somut kanıtlara dayanması gerektiğini belirterek spekülasyonların sürdürülmesini eleştirdi.",
+     "category": "Kriket",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/26/david-warner-calls-for-evidence-new-sandpapergate-claims-superglue-grit",
+     "time": "2026-11-26T04:33:35+00:00"
+    },
+    {
+     "title": "Duran Duran'ın Gitaristi Andy Taylor 65 Yaşında Hayatını Kaybetti",
+     "summary": "1980'li yıllara damga vuran İngiliz pop-rock grubu Duran Duran'ın gitaristi Andy Taylor, uzun süredir mücadele ettiği prostat kanseri nedeniyle 65 yaşında yaşamını yitirdi. Gruba küresel çapta ün kazandıran hit parçaların yazımında pay sahibi olan müzisyenin ölümü sanat dünyasında büyük üzüntü yarattı.",
+     "category": "Müzik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-guitarist-andy-taylor-dead",
+     "time": "2026-11-25T21:41:34+00:00"
+    },
+    {
+     "title": "BBC, Donald Trump'ın 10 Milyarlık Tazminat Davasına Karşı Temyize Gitti",
+     "summary": "BBC, ABD Başkanı Donald Trump'ın Panorama programında 2021 yılında yaptığı bir konuşmanın kurgulanış biçimi nedeniyle açtığı 10 milyar dolarlık tazminat davasına karşı hukuki mücadele başlattı. Kurum, davanın ilerlemesine izin veren karara itiraz ederek temyiz başvurusunda bulundu.",
+     "category": "Medya",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo",
+     "time": "2026-11-25T18:27:53+00:00"
+    },
+    {
+     "title": "Nijeryalı Sinema Oyuncusu Pete Edochie 79 Yaşında Hayatını Kaybetti",
+     "summary": "Nijerya sinemasının (Nollywood) önde gelen isimlerinden usta oyuncu Pete Edochie, 79 yaşında yaşamını yitirdi. Sanatçı, Chinua Achebe'nin romanından uyarlanan televizyon dizisindeki rolleriyle 1980'li yıllardan bu yana büyük bir üne sahip olmuştu.",
+     "category": "Sinema",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+     "time": "2026-11-25T12:24:12+00:00"
+    },
+    {
+     "title": "Gordon Ramsay, Yeniden Başlayacak Top Gear Programını Sunacak",
+     "summary": "İngiliz ünlü şef Gordon Ramsay, kaza sonrası ara verilen ve yeniden çekimlerine başlanacak olan popüler otomobil programı Top Gear'ın sunuculuğunu üstlenecek. Ramsay, gelecek yıl çekimlerine başlanacak programda henüz isimleri açıklanmayan diğer sunucularla birlikte direksiyon başına geçecek.",
+     "category": "Televizyon",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o",
+     "time": "2026-11-25T17:48:28+00:00"
+    },
+    {
+     "title": "I'm A Celebrity Programındaki Tartışma Regülatöre Şikayet Edildi",
+     "summary": "İngiltere'de yayınlanan reality şov programı 'I'm A Celebrity' katılımcılarından Mariella Frostrup'un AJ Odudu'ya yönelik 'agresif' ifadeleri izleyicilerin tepkisini çekti. Yayın düzenleyici kurumu Ofcom'a yüzlerce şikayet iletildi.",
+     "category": "Televizyon",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o",
+     "time": "2026-11-25T11:57:31+00:00"
+    }
+   ]
+  }
+ ]
+}

@@ -1,0 +1,749 @@
+{
+ "date": "2026-11-26",
+ "updatedAt": "2026-11-26T05:55+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "25142781d56803e6",
+   "overview": "Im Zentrum der deutschen Politik stehen der Bundeshaushalt, die Ukraine-Hilfen und Koalitionsdebatten, während im Bundestag an die Opfer von Gewalt gegen Frauen erinnert wurde. Die Wirtschaft wird durch neue US-Zölle und Preisdruck belastet, zudem steht die mangelnde Mittelverwendung im Verteidigungshaushalt in der Kritik. Im Sport sorgen die Niederlagen deutscher Mannschaften in der Champions League sowie interne Vereinskonflikte für Schlagzeilen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Haushaltsdebatte und Ukraine-Hilfen im Bundestag",
+     "summary": "Bei den Haushaltsberatungen im Bundestag haben die geplanten Ukraine-Hilfen in Höhe von rund zwölf Milliarden Euro zu scharfen Auseinandersetzungen geführt. Während die Opposition die Mittel als Steuergeldverschwendung kritisierte, verteidigte Bundeskanzler Friedrich Merz sie als Verteidigung »unserer Freiheit«.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/bundestag-generaldebatte-ukraine-hilfe-100.html",
+     "time": "2026-11-25T19:10:19+01:00"
+    },
+    {
+     "title": "Expertenkommission fordert schärfere Regeln für Prostitution",
+     "summary": "Eine Expertenkommission hat strengere Regeln zur Neuregelung der Prostitution empfohlen, um den Schutz vor Gewalt und Ausbeutung zu erhöhen. Die Koalition strebt damit eine effektivere Bekämpfung von Zwangsprostitution und Menschenhandel an.",
+     "category": "Innenpolitik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/neue-regeln-fuer-prostituition-empfehlungen-100.html",
+     "time": "2026-11-25T20:14:28+01:00"
+    },
+    {
+     "title": "Razzia gegen rechtsextremistische Gruppe »Terror 18«",
+     "summary": "Die Bundesanwaltschaft ist gegen mutmaßliche Mitglieder der rechtsextremistischen Gruppe »Terror 18« vorgegangen, zu denen auch Minderjährige gehören. Den Verdächtigen wird zur Last gelegt, schwerste Straftaten wie einen Anschlag auf eine Flüchtlingsunterkunft geplant zu haben.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/terror-18-rechtsextremistische-gruppe-100.html",
+     "time": "2026-11-25T14:15:59+01:00"
+    },
+    {
+     "title": "Schweigeminute im Bundestag für Opfer von Femiziden",
+     "summary": "Anlässlich des Internationalen Tages zur Beseitigung von Gewalt gegen Frauen hielten die Abgeordneten des Bundestags eine Schweigeminute für die Opfer von Femiziden ab. Bundeskanzler Friedrich Merz kündigte dabei einen besseren Schutz für Frauen an.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/alman-meclisinde-kadın-cinayeti-kurbanları-için-saygı-duruşu-merz-den-koruma-sözü/a-80054700",
+     "time": "2026-11-25T18:58:00+00:00"
+    },
+    {
+     "title": "Unionsabgeordnete schlagen Kompromiss bei »Rente mit 63« vor",
+     "summary": "Im Streit um die »Rente mit 63« gehen Unionsabgeordnete mit dem Vorschlag einer »Respekt-Rente« auf die SPD zu. Für Geringverdiener soll die abschlagsfreie Frühverrentung demnach weiterhin möglich bleiben.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/rente-kompromiss-koalition-100.html",
+     "time": "2026-11-25T21:40:23+01:00"
+    },
+    {
+     "title": "USA kündigen neue Sonderzölle gegen die EU an",
+     "summary": "Die Vereinigten Staaten haben neue Sonderzölle gegen die Europäische Union und weitere Handelspartner angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen.",
+     "category": "Aussenhandel",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+     "time": "2026-11-25T16:18:25+01:00"
+    },
+    {
+     "title": "Verteidigungsministerium ruft Milliarden aus Sondervermögen nicht ab",
+     "summary": "Das Bundesministerium der Verteidigung hat mehr als ein Zehntel des 108 Milliarden Euro schweren Budgets zur Modernisierung der Bundeswehr nicht ausgegeben. Für Verteidigungsminister Boris Pistorius stellt dies ein erhebliches Problem dar.",
+     "category": "Haushalt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/politik/deutschland/boris-pistorius-ministerium-ruft-14-milliarder-euro-aus-mega-budget-nicht-ab-a-e72550cb-0c72-4624-acb3-0c120f407461#ref=rss",
+     "time": "2026-11-26T05:08:00+01:00"
+    },
+    {
+     "title": "Discounter senken Butterpreis unter einen Euro",
+     "summary": "Die Discounter Lidl und Aldi haben den Preis für ein Stück Butter wegen gesunkener Einkaufspreise unter einen Euro gesenkt. Der Bauernverband kritisierte diesen Schritt als Schlag ins Gesicht für die Milchbauern.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/butter-preis-preiskampf-discounter-bauern-100.html",
+     "time": "2026-11-25T15:01:31+01:00"
+    },
+    {
+     "title": "EU verlängert Lockerung von Staatshilfen wegen Energiekrise",
+     "summary": "Angesichts der anhaltenden Energiekrise hat die Europäische Kommission die gelockerten Regeln für staatliche Beihilfen bis Juni 2027 verlängert. Damit dürfen Deutschland und andere EU-Staaten Unternehmen und Landwirte weiterhin gezielt entlasten.",
+     "category": "Europa",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/eu-verlaengert-lockerung-bei-staatshilfen-wegen-energiekrise-a-2a42cfb1-d7a5-4d1b-8873-cdb7f9feaa4f#ref=rss",
+     "time": "2026-11-25T17:08:00+01:00"
+    },
+    {
+     "title": "Deutsche Bahn erzielt Teilerfolg im Streit um Ticket-Provisionen",
+     "summary": "Im Streit um Provisionszahlungen an konkurrierende Ticketplattformen hat die Deutsche Bahn vor einem Düsseldorfer Gericht einen Teilerfolg erzielt. Das Gericht bewertete die Sachlage anders als zuvor das Bundeskartellamt.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/deutsche-bahn-streit-ueber-provisionen-bahn-erzielt-teilerfolg-vor-gericht-a-695a6d76-519f-43df-b9b2-887a0a2739d0#ref=rss",
+     "time": "2026-11-25T16:54:00+01:00"
+    },
+    {
+     "title": "Microsoft ruft nach globaler IT-Störung interne Höchststufe aus",
+     "summary": "Ein weltweiter IT-Ausfall hat bei Microsoft intern die höchste Alarmstufe ausgelöst. Der Konzern reagiert darauf mit einer Überarbeitung seiner Notfallabläufe, um künftig schneller reagieren zu können.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/microsoft-konzern-reagiert-mit-code-red-auf-globale-it-stoerung-a-fc06304f-0754-4c93-a44b-c931f775a79c#ref=rss",
+     "time": "2026-11-25T20:51:00+01:00"
+    },
+    {
+     "title": "Cyberangriff auf Deichmann-Onlineshop mit Datenzugriff",
+     "summary": "Der Schuhhändler Deichmann ist Ziel eines Hackerangriffs geworden, bei dem unbefugt auf Kundendaten zugegriffen wurde. Das Unternehmen kündigte an, die betroffenen Kundinnen und Kunden per E-Mail zu informieren.",
+     "category": "Cybersicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Deichmann-Online-Shop-geknackt-unbefugter-Datenzugriff-11537484.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-25T11:56:00+01:00"
+    },
+    {
+     "title": "Raumsonde Hera liefert Nahaufnahmen von Asteroidenkrater",
+     "summary": "Die Raumsonde »Hera« hat detaillierte Aufnahmen des Einschlagkraters auf dem Asteroiden Dimorphos zur Erde gefunkt. Die Mission soll Erkenntnisse darüber liefern, wie die Erde vor Bedrohungen aus dem All geschützt werden kann.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/wissenschaft/weltall/asteroid-dimorphos-spektakulaere-fotos-zeigen-dart-einschlagkrater-a-7e837a7b-49a8-438b-82e4-fb67fe31c74f#ref=rss",
+     "time": "2026-11-25T20:37:00+01:00"
+    },
+    {
+     "title": "Joshua Kimmich kritisiert Bayern-Bosse wegen Causa Musiala",
+     "summary": "Bayern-Kapitän Joshua Kimmich hat das Verhalten der Vereinsspitze im Umgang mit dem erkrankten Jamal Musiala scharf verurteilt. Die Äußerungen der Bayern-Granden seien ein absolutes No-Go.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/fussball/fall-jamal-musiala-joshua-kimmich-verurteilt-verhalten-der-bayern-granden-a-fd40db87-e493-4377-bbad-97559bc54972#ref=rss",
+     "time": "2026-11-26T01:22:00+01:00"
+    },
+    {
+     "title": "FC Bayern kassiert in Lille erste Saisonniederlage",
+     "summary": "Der deutsche Rekordmeister hat in der Champions League auswärts beim OSC Lille seine erste Niederlage der laufenden Saison hinnehmen müssen. Zwei schnelle Gegentore in der zweiten Halbzeit gaben dabei den Ausschlag.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/fc-bayern-muenchen-verliert-in-champions-league-bei-osc-lille-201305467.html",
+     "time": "2026-11-25T21:58:37+00:00"
+    },
+    {
+     "title": "VfB Stuttgart unterliegt bei Inter Mailand",
+     "summary": "Der VfB Stuttgart hat in der Champions League eine 0:2-Niederlage bei Inter Mailand hinnehmen müssen. Trotz einer ordentlichen Leistung und engagierten Beginn blieben die Schwaben am Ende ohne Torerfolg.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/sport/fussball/champions-league/vfb-stuttgart-verliert-in-champions-league-bei-inter-mailand-201305466.html",
+     "time": "2026-11-25T22:06:26+00:00"
+    },
+    {
+     "title": "Andreas Wolff verlässt den THW Kiel",
+     "summary": "Handball-Nationaltorhüter Andreas Wolff wird seinen im Sommer 2028 auslaufenden Vertrag beim THW Kiel nicht verlängern. Medienberichten zufolge zieht es den Torwart zum Ligakonkurrenten VfL Gummersbach.",
+     "category": "Handball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/ndr/thw-kiel-594.html",
+     "time": "2026-11-25T18:37:56+01:00"
+    },
+    {
+     "title": "Duran-Duran-Gitarrist Andy Taylor mit 65 Jahren gestorben",
+     "summary": "Andy Taylor, der frühere Gitarrist der britischen Pop- und New-Wave-Band Duran Duran, ist im Alter von 65 Jahren an den Folgen von Prostatakrebs gestorben. Er prägte maßgeblich den Sound der Band in den achtziger Jahren.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/gesellschaft/menschen/andy-taylor-gestorben-duran-duran-gitarrist-erlag-prostatakrebs-accg-201718193.html",
+     "time": "2026-11-26T03:11:15+00:00"
+    },
+    {
+     "title": "YouTube kürt »Gut genug« zum Musikvideo des Jahres",
+     "summary": "Obwohl es sich um einen deutschsprachigen Titel handelt, ging das Lied »Gut genug« im Sommer weltweit viral und wurde nun von YouTube als Musikvideo des Jahres ausgezeichnet. Zum Künstler des Jahres wurde Rapper Bonez MC gekürt.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/musik/yotutube-gut-genug-zum-video-des-gekuert-a-2eb7beb9-6a6c-4681-adff-aa2e0df4ca14#ref=rss",
+     "time": "2026-11-25T14:22:00+01:00"
+    },
+    {
+     "title": "ARD-Dokumentation »Der talentierte Mr. F.« gewinnt Emmy",
+     "summary": "Die ARD-Dokumentation »Der talentierte Mr. F.« über einen Betrugsfall ist mit einem international renommierten Emmy Award ausgezeichnet worden. Die Macher sprachen im Anschluss über die schwierige Finanzierung des Projekts.",
+     "category": "Fernsehen",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/tv/emmy-fuer-ard-dokumentation-der-talentierte-mr-f-am-ende-haben-wir-das-geld-hart-erbettelt-a-11734e62-3184-4d79-ba93-4df809ef47b3#ref=rss",
+     "time": "2026-11-25T19:37:00+01:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "c9c5fc2a8cb6a4a0",
+   "overview": "Türkiye bewegt sich in einem dichten Spannungsfeld aus Innenpolitik, Justizprozessen und Außendiplomatie. Während hochrangige Kontakte in Ankara und wirtschaftliche Entwicklungen aufmerksam verfolgt werden, stechen im Sportbereich die erfolgreichen Ergebnisse der türkischen Vertreter in der Champions League hervor. Budgetfragen, Steuerregelungen und Sozialpolitiken bilden die zentralen Diskussionspunkte des Landes.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Gemeinsame Pressekonferenz zur Fondskrise angekündigt",
+     "summary": "Unter Teilnahme von Vizepräsident Cevdet Yılmaz, Justizminister Akın Gürlek und Finanz- und Wirtschaftsminister Mehmet Şimşek findet eine gemeinsame Pressekonferenz zur Fondsangelegenheit statt. Bei dem Treffen im Präsidialkomplex wird der aktuelle Stand des Prozesses geteilt und Fragen beantwortet.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/fon-krizinde-kritik-hamle-yilmaz-gurlek-ve-simsek-basinin-karsisina-2086292",
+     "time": "2026-11-26T07:24:50+03:00"
+    },
+    {
+     "title": "Verfassungsgericht prüft Antrag von Ekrem İmamoğlu",
+     "summary": "Das Verfassungsgericht wird den Individualantrag zur Beendigung der Inhaftierung von Ekrem İmamoğlu prüfen. Eine positive Mehrheit könnte seine Freilassung auf die Tagesordnung bringen, allerdings besteht im Rahmen eines anderen laufenden Verfahrens weiterhin eine Haftmaßnahme.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo",
+     "time": "2026-11-25T18:45:33+00:00"
+    },
+    {
+     "title": "Präsident Erdoğan empfängt Chalifa Haftar in Ankara",
+     "summary": "Der Oberbefehlshaber der libyschen Nationalarmee, Chalifa Haftar, und seine Delegation führten Gespräche in Ankara. Der Besuch wird als Schritt der Türkei gewertet, ihre Beziehungen sowohl zum Osten als auch zum Westen Libyens auszubauen.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Euronews Türkçe",
+     "url": "https://tr.euronews.com/2026/11/25/erdogan-hafteri-ankarada-agirladi-iliskilerde-neler-degisiyor",
+     "time": "2026-11-25T21:37:27+01:00"
+    },
+    {
+     "title": "Zweite Todesnachricht nach Brand in Gaziosmanpaşa",
+     "summary": "Die sechsjährige Defne Özyurt ist im Krankenhaus gestorben, nachdem sie bei einem Brand in Istanbul-Gaziosmanpaşa verletzt worden war. Bei dem Vorfall, der durch eine vergessenes Heizgerät ausgelöst wurde, war bereits ihr Cousin ums Leben gekommen.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/gaziosmanpasadaki-yanginda-ikinci-aci-haber-2086298",
+     "time": "2026-11-26T07:54:59+03:00"
+    },
+    {
+     "title": "35 Festnahmeanordnungen bei Drogenoperation in Istanbul",
+     "summary": "Im Rahmen einer von der Istanbuler Staatsanwaltschaft geleiteten Ermittlung wurden Festnahmeanordnungen gegen 35 Personen, darunter auch prominente Namen, erlassen. Zahlreiche Verdächtige wurden in Gewahrsam genommen.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Agos",
+     "url": "https://www.agos.com.tr/tr/haber/35-kisi-hakkinda-gozalti-karari-42608",
+     "time": "2026-11-25T09:48:00+03:00"
+    },
+    {
+     "title": "Zusatzsteuern auf Importe von Babyprodukten eingeführt",
+     "summary": "Das Handelsministerium hat bekannt gegeben, dass Antidumpingmaßnahmen auf aus China und Thailand stammende Plastik-Babynahrungs- und Pflegeprodukte für weitere fünf Jahre fortgeführt werden. Nach Angaben im Amtsblatt wird eine Zusatzsteuer von 12 Prozent für chinesische und 26 Prozent für thailändische Produkte erhoben.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/bebek-urunleri-ithalatinda-yuzde-26ya-varan-ek-vergi-onlem-bes-yil-2086296",
+     "time": "2026-11-26T07:35:00+03:00"
+    },
+    {
+     "title": "Industriekammer Istanbul fordert langfristige Kredite",
+     "summary": "Die Führung der Industriehändlerkammer Istanbul erklärte, dass Investitionskredite langfristig vergeben und der Zugang zu Betriebskapital erleichtert werden müsse. Die Industriellen fordern die Lösung von Finanzierungsproblemen zur Wahrung der Wettbewerbsfähigkeit.",
+     "category": "Industrie",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/sanayici-fiyat-istikrari-programinin-magduru-olmak-isterdigini-acikladi-iso-dan-rekabet-uyarisi-2559492",
+     "time": "2026-11-26T04:00:00+03:00"
+    },
+    {
+     "title": "Sharfer Rückgang der Goldpreise verzeichnet",
+     "summary": "Mit dem erneuten Einsetzen des Verkaufsdrucks an den Märkten verzeichnete der Goldpreis einen starken Rückgang und fiel auf den niedrigsten Stand der letzten 15 Monate. Die Entwicklungen werden von Anlegern genau beobachtet.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/altin-fiyatlarinda-sert-dusus-15-ayin-en-dusuk-seviyesine-geriledi-2559351",
+     "time": "2026-11-25T15:45:00+03:00"
+    },
+    {
+     "title": "Neubewertungsrate und Gebührenerwartungen festgelegt",
+     "summary": "Mit einem vom Finanzministerium vorbereiteten Kommuniqué wurde die Neubewertungsrate festgelegt. Diese Entwicklung bildet die Grundlage für die Berechnung der Erhöhungen bei Pass- und anderen Gebühren im Jahr 2027.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/pasaport-harci-ne-kadar-2027-pasaport-harcina-zam-mi-gelecek-2559285",
+     "time": "2026-11-25T12:38:00+03:00"
+    },
+    {
+     "title": "Ökologischer Markt in Kayseri erzielt Rekordumsatz",
+     "summary": "Der zu 100 Prozent ökologische Markt in Kayseri, der zu den bundesweit nur fünf solchen Zentren gehört, erzielte im Jahr 2026 einen Umsatz von 11,8 Millionen TL bei über 201 Tonnen Verkäufen. Die Produzenten brachen auf dem zertifizierten Markt Verkaufsrekorde.",
+     "category": "Landwirtschaft",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/turkiyede-sadece-5-noktada-var-kayseride-30-ciftcinin-tezgahinda-118-2086293",
+     "time": "2026-11-26T07:27:00+03:00"
+    },
+    {
+     "title": "Neue Schnellladetechnologie für Elektroautos entwickelt",
+     "summary": "Wissenschaftler haben ein neues Material entwickelt, mit dem Batterien von Elektrofahrzeugen in nur vier Minuten vollständig aufgeladen werden können. Es wird erwartet, dass die Erfindung die Batterietechnologie revolutioniert.",
+     "category": "Hardware",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/elektrikli-otomobil-4-dakikada-sarj-yeni-batarya-grafit-h229454.html",
+     "time": "2026-11-25T17:51:54+03:00"
+    },
+    {
+     "title": "ChatGPT Health-Funktion für Android-Nutzer eingeführt",
+     "summary": "OpenAI hat die Funktion ChatGPT Health, die Gesundheitsdaten interpretieren kann, mit Android Health Connect-Unterstützung erweitert. Nutzer können Smartwatch- und Fitnessdaten in Dialogform analysieren.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/chatgpt-health-android-geldi-h229444.html",
+     "time": "2026-11-25T15:00:35+03:00"
+    },
+    {
+     "title": "Microsoft ruft nach großem Outlook-Ausfall „Roten Alarm“ aus",
+     "summary": "Nach einem großflächigen Outlook-Ausfall, der Millionen von Nutzern betraf, hat Microsoft intern den roten Alarm ausgerufen. Technische Teams arbeiten weiterhin an der Behebung der Störung.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/microsoft-sirket-icinde-kirmizi-alarm-ilan-etti-h229447.html",
+     "time": "2026-11-25T16:05:17+03:00"
+    },
+    {
+     "title": "Großbritannien startet KI-gestützte Brustkrebsforschung",
+     "summary": "Großbritannien startet eine umfassende Untersuchung, um herauszufinden, wie künstliche Intelligenz zur Früherkennung beim Brustkrebsscreening beitragen kann. Das Projekt zielt darauf ab, den Einsatz von KI im Gesundheitswesen zu verstärken.",
+     "category": "Gesundheit",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/yapay-zeka-meme-kanserini-erken-teshis-edebilir-mi-2559450",
+     "time": "2026-11-25T20:58:00+03:00"
+    },
+    {
+     "title": "Smartphone-Hersteller senken Ziele für 2027",
+     "summary": "Aufgrund steigender Speicherkosten revidieren viele Smartphone-Hersteller ihre Auslieferungsziele für das Jahr 2027 nach unten. Einige Marken der Branche versuchen jedoch, ihre bisherigen Ziele beizubehalten.",
+     "category": "Industrie",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/akilli-telefon-ureticileri-2027-uretim-hedeflerini-dusuruyor-h229444.html",
+     "time": "2026-11-25T16:19:29+03:00"
+    },
+    {
+     "title": "Fenerbahçe besiegt Shakhtar Donetsk in London",
+     "summary": "Fenerbahçe schlug Shakhtar Donetsk am fünften Spieltag der UEFA Champions League in London durch ein Tor von Vedat Muriqi in der 56. Minute mit 1:0. Die Gelb-Marineblauen erhöhten damit ihr Punktekonto.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cw7vp739ee9do",
+     "time": "2026-11-26T00:05:51+00:00"
+    },
+    {
+     "title": "Lille mit Berke Özer schlägt Bayern München",
+     "summary": "Lille, der Verein des Nationaltorhüters Berke Özer, besiegte Bayern München in der Champions League im heimischen Stadion mit 2:1. Das französische Team ging nach einer fantastischen Aufholjagd als Sieger vom Platz.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/lille-den-bayern-munih-e-celme-fransa-da-muthis-geri-donus-2559508",
+     "time": "2026-11-26T01:46:00+03:00"
+    },
+    {
+     "title": "Anadolu Efes verliert Auswärtsspiel in Spanien",
+     "summary": "Anadolu Efes unterlag Baskonia am 14. Spieltag der Turkish Airlines EuroLeague auswärts mit 86:81. Die Blau-Weißen kehrten mit einer Niederlage aus Spanien zurück.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/anadolu-efes-ispanya-da-kayip-2559501",
+     "time": "2026-11-26T00:49:00+03:00"
+    },
+    {
+     "title": "Atletico Madrid schlägt Viking im Heimspiel",
+     "summary": "Atletico Madrid bezwang Viking am 5. Spieltag der UEFA Champions League zu Hause mit 2:0. Das spanische Team holte einen ungefährdeten Sieg in der Begegnung.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/fenerbahce-nin-rakibi-atletico-madrid-viking-karsisinda-zorlanmadi-2559511",
+     "time": "2026-11-26T02:10:00+03:00"
+    },
+    {
+     "title": "Inter besiegt Stuttgart im heimischen Stadion",
+     "summary": "Inter schlug Stuttgart am 5. Spieltag der Champions League zu Hause mit 2:0. Der italienische Vertreter holte drei Punkte.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/inter-kendi-evinde-stuttgart-a-gecit-vermedi-2559504",
+     "time": "2026-11-26T01:17:00+03:00"
+    },
+    {
+     "title": "Ausstellung „Baum des Lebens“ im AKM eröffnet",
+     "summary": "Die von Emre Sefer kuratierte Ausstellung „Baum des Lebens“ öffnet ihre Türen in der Galerie des Atatürk-Kulturzentrums (AKM). Werke von neun Künstlern aus den Bereichen Malerei, Skulptur und neue Medien interpretieren das alte Symbol durch zeitgenössische Kunst neu.",
+     "category": "Ausstellung",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/25/hayat-agaci-sergisi-akmde-9-sanatcinin-yorumuyla-aciliyor",
+     "time": "2026-11-25T09:18:11+01:00"
+    },
+    {
+     "title": "Muhsin-Ertuğrul-Lesungen nehmen neue Texte entgegen",
+     "summary": "Die Bewerbungen für die neue Saison der Muhsin-Ertuğrul-Lesungen, die junge Dramatiker bei den Stadttheatern Istanbul zusammenbringen, haben begonnen. Junge Autoren können ihre Texte bis zum 4. Januar einreichen.",
+     "category": "Theater",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/muhsin-ertugrul-okumalari-yeni-metinleri-bekliyor-2559388",
+     "time": "2026-11-25T17:19:00+03:00"
+    },
+    {
+     "title": "Bedingungen für den Emin-Özdemir-Preis der Sprachvereinigung bekannt gegeben",
+     "summary": "Es wurde bekannt gegeben, dass der Preis zu Ehren des Linguisten und Autors Emin Özdemir im Jahr 2027 für Journalistenbücher vergeben wird. Als Einsendeschluss für die Werke wurde der 5. Juli 2027 festgelegt.",
+     "category": "Literatur",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/emin-ozdemir-odulu-2027-de-gazeteci-kitaplarina-verilecek-2559232",
+     "time": "2026-11-25T10:47:00+03:00"
+    },
+    {
+     "title": "Yoko-Ono-Treffen im Sakıp-Sabancı-Museum",
+     "summary": "Das Sakıp-Sabancı-Museum organisiert im Rahmen der Ausstellung „Yoko Ono: Inner Voice and Structure“ ein Gesprächsprogramm, das das Schaffen der Künstlerin aus verschiedenen Blickwinkeln beleuchtet.",
+     "category": "Museum",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/ssm-de-yoko-ono-sergisi-kapsaminda-bulusmalar-2559389",
+     "time": "2026-11-25T17:21:00+03:00"
+    },
+    {
+     "title": "Durch James-Bond-Film berühmt gewordener Citroen 2CV im Rahmi-M.-Koç-Museum",
+     "summary": "Eine Sonderversion des Citroen 2CV, die durch den James-Bond-Film von 1981 Kinogeschichte schrieb, empfängt Besucher in der Sammlung des Rahmi-M.-Koç-Museums.",
+     "category": "Sammlung",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/25/james-bondla-sinema-tarihine-gecen-citroen-2cv-rahmi-m-koc-muzesinde",
+     "time": "2026-11-25T09:36:12+01:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "2d8ccbe078ec5517",
+   "overview": "Das aktuelle weltpolitische Geschehen wird maßgeblich von den neuen US-Zollankündigungen gegenüber China und der Europäischen Union sowie den umgehend folgenden internationalen Protesten bestimmt. Zugleich sorgen Naturkatastrophen und schwere Unfälle – wie der verheerende Tanklasterbrand in Kairo und extreme Wetterbedingungen zum US-amerikanischen Thanksgiving-Fest – für erhebliche Beeinträchtigungen. Wirtschaftlich belasten Inflationssorgen und Unsicherheiten im Technologiesektor die globalen Märkte spürbar.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "USA kündigen neue Sonderzölle gegen EU und China an",
+     "summary": "Die Vereinigten Staaten haben neue Sonderzölle gegen 14 Handelspartner, darunter die Europäische Union und China, angekündigt. Für betroffene EU-Produkte ist ein Zollsatz von 15 Prozent vorgesehen, während auf chinesische Waren eine Abgabe von 20 Prozent fällig werden soll. Peking kritisierte die Maßnahmen scharf als politische Manipulation, und auch andere betroffene Staaten wiesen die Drohungen zurück.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/amerika/usa-zoelle-124.html",
+     "time": "2026-11-25T16:18:25+01:00"
+    },
+    {
+     "title": "Mindestens 31 Tote bei Tanklaster-Unglück in Kairo",
+     "summary": "Auf einer stark befahrenen Autobahn im ägyptischen Großraum Kairo ist ein mit Treibstoff beladener Lkw umgestürzt und hat einen verheerenden Großbrand ausgelöst. Nach Angaben der Behörden starben mindestens 31 Menschen, zahlreiche weitere wurden verletzt. Mehrere Fahrzeuge und Motorräder brannten völlig aus.",
+     "category": "Unglück",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/africa/20261126-at-least-31-killed-in-cairo-fire-after-fuel-truck-overturns-on-busy-highway",
+     "time": "2026-11-26T01:25:54+00:00"
+    },
+    {
+     "title": "Schwerer Sturm zwingt zu historischer Verschiebung der Thanksgiving-Parade in New York",
+     "summary": "Wegen eines angekündigten schweren Sturms mit heftigen Winden und starkem Regen im Nordosten der USA wurde die traditionsreiche Thanksgiving-Parade in New York erstmals in ihrer Geschichte verschoben. Die Behörden verlegten die Veranstaltung auf Samstag, da die Wetterbedingungen ein Sicherheitsrisiko für die riesigen Ballons und die Zuschauer darstellten.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cwkgr38l2g9yo",
+     "time": "2026-11-26T04:04:14+00:00"
+    },
+    {
+     "title": "Mutmaßliche Geheimnisverrat-Affäre in Frankreich: Präfekt entlassen",
+     "summary": "In Frankreich sind zwei leitende Beamte in den Fokus von Ermittlungen zu mutmaßlichen Informationslecks an die rechtsextreme Partei Rassemblement National geraten. Der Präfekt des Départements Loiret, Hugues Moutouh, wurde nach entsprechenden Verdachtsfällen von seinem Posten entbunden. Zudem wurde gegen einen stellvertretenden Staatsanwalt in Paris ermittelt.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/le-pen-party-leaks-prefect-dismissed-paris-deputy-prosecutor-placed-under-investigation",
+     "time": "2026-11-25T22:28:58+00:00"
+    },
+    {
+     "title": "Letzter Bestechungsvorwurf gegen Israels Premier Netanjahu könnte fallen gelassen werden",
+     "summary": "Der israelische Ministerpräsident Benjamin Netanjahu muss sich seit Jahren wegen Betrugs und Korruption vor Gericht verantworten. Nun haben Richter empfohlen, den letzten verbliebenen Anklagepunkt der Bestechlichkeit fallenzulassen. Netanjahu sah das Verfahren daraufhin als gescheitert an.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/asien/israel-netanjahu-korruptionsvorwuerfe-100.html",
+     "time": "2026-11-25T20:50:08+01:00"
+    },
+    {
+     "title": "US-Inflation erreicht höchsten Stand seit Mai nach starkem Preisanstieg",
+     "summary": "In den Vereinigten Staaten sind die Verbraucherpreise im Jahresvergleich um 3,8 Prozent gestiegen, womit die Inflation den höchsten Stand seit Mai erreicht hat. Der Anstieg wird maßgeblich auf drastisch gestiegene Energiekosten zurückgeführt. Die neuen Daten belasten vor einer entscheidenden Sitzung der US-Notenbank die Aktienmärkte erheblich.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/25/consumer-prices-september-october-energy-inflation",
+     "time": "2026-11-25T15:46:15+00:00"
+    },
+    {
+     "title": "Großbritanniens Discounter-Kette Poundland kollabiert – 11.000 Jobs bedroht",
+     "summary": "Die britische Discount-Kette Poundland hat Insolvenz angemeldet, nachdem es den Eigentümern nicht gelungen war, einen neuen Investor zu finden. Von der Pleite sind rund 11.000 Arbeitsplätze unmittelbar bedroht. Der Zusammenbruch verstärkt die Sorgen im angeschlagenen britischen Einzelhandel.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/cm3vgdn037z4o",
+     "time": "2026-11-25T21:31:10+00:00"
+    },
+    {
+     "title": "Britische Notenbank warnt: Nahrungsmittelinflation könnte auf fünf Prozent steigen",
+     "summary": "Die Bank of England hat vor einem möglichen Anstieg der Lebensmittelinflation in Grossbritannien auf bis zu fünf Prozent im kommenden Jahr gewarnt. Als Gründe nannte die Notenbank steigende Energiekosten und anhaltende globale Kostendrücke. Dies könnte die Verbraucher in einer ohnehin angespannten Lage weiter belasten.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/business/2026/nov/25/uk-food-inflation-sharp-rise-next-year-mounting-cost-pressures-bank-of-england",
+     "time": "2026-11-25T19:25:57+00:00"
+    },
+    {
+     "title": "EU-Kommission verlängert staatliche Beihilfen für Landwirte und Industrie",
+     "summary": "Wegen der anhaltenden Energiekrise können Landwirte, die Industrie und andere Unternehmen in der Europäischen Union weiterhin mit staatlichen Zuschüssen rechnen. Die EU-Kommission teilte mit, dass die gelockerten Regeln für staatliche Beihilfen mindestens bis Ende Juni 2027 in Kraft bleiben. Damit soll betroffenen Branchen in schwierigen Zeiten geholfen werden.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-staatshilfen-landwirte-industrie-100.html",
+     "time": "2026-11-25T17:29:03+01:00"
+    },
+    {
+     "title": "EU-Gipfel in Brüssel: Staats- und Regierungschefs beraten über langfristigen Haushalt",
+     "summary": "Bei einem Sondergipfel in Brüssel beraten die Staats- und Regierungschefs der 27 EU-Mitgliedstaaten über den langfristigen EU-Haushalt. Im Zentrum der Gespräche stehen dabei auch mögliche neue Einnahmequellen, wie etwa die Einführung einer europaweiten Digitalsteuer zur Finanzierung gemeinsamer Aufgaben.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-digitalsteuer-100.html",
+     "time": "2026-11-26T05:00:53+01:00"
+    },
+    {
+     "title": "USA genehmigen SpaceX Start von bis zu einer Million Satelliten für Orbit-Rechenzentren",
+     "summary": "Die US-amerikanische Kommunikationsbehörde FCC hat SpaceX die Genehmigung erteilt, bis zu eine Million Satelliten für den Bau von Rechenzentren im Erdorbit zu starten. Die bis 2040 gültige Lizenz verschafft dem Unternehmen von Elon Musk eine führende Position in dem Bestreben von Tech-Konzernen, IT-Infrastruktur in den Weltraum zu verlagern.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/technology/20261126-us-authorizes-spacex-to-launch-up-to-one-million-satellites-for-orbital-data-centers",
+     "time": "2026-11-26T03:02:37+00:00"
+    },
+    {
+     "title": "Huawei von US-Jury des Diebstahls von Geschäftsgeheimnissen schuldig gesprochen",
+     "summary": "Nach einem mehrmonatigen Prozess in New York hat eine US-Jury den chinesischen Technologiekonzern Huawei verurteilt, Geschäftsgeheimnisse von Unternehmen wie T-Mobile und Cisco gestohlen zu haben. Laut Justizministerium ging es bei den Diebstählen von US-Geheimnissen auch um die Umgehung von Iran-Sanktionen, weshalb dem Unternehmen nun hohe Strafen drohen.",
+     "category": "Sicherheit",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/jury-convicts-huawei-of-stealing-us-trade-secrets-evading-iran-sanctions/",
+     "time": "2026-11-25T16:33:45+00:00"
+    },
+    {
+     "title": "Europäische Raumsonde erforscht chaotische Trümmer nach Asteroiden-Einschlag",
+     "summary": "Die europäische Raumsonde Hera hat den Ort erreicht, an dem die DART-Mission zuvor einen Asteroiden gerammt hatte, um dessen Bahn zu verändern. Wissenschaftler erhoffen sich von den Daten Aufschluss über die genaue Beschaffenheit und das Ausmaß der Verwüstung nach dem kosmischen Zusammenstoß, der ein weitreichendes Trümmerfeld hinterließ.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+     "time": "2026-11-25T22:36:45+00:00"
+    },
+    {
+     "title": "Frankreich macht iranische Hackergruppe für Sabotage an Supermarkt-Gefriertruhen verantwortlich",
+     "summary": "Die französischen Behörden werfen einer bekannten iranischen Hackereinheit vor, Hunderte von Kühlgeräten und Gefriertruhen in Supermärkten sabotiert zu haben. Der Vorfall unterstreicht die zunehmenden Bedrohungen durch staatlich gesteuerte Cyberangriffe, die gezielt auf zivile Infrastrukturen und Handelsbetriebe abzielen, um Chaos zu stiften.",
+     "category": "Cybercrime",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/security/2026/11/a-familiar-faulty-iran-hacking-group-has-found-a-new-way-to-cause-chaos/",
+     "time": "2026-11-25T14:29:43+00:00"
+    },
+    {
+     "title": "US-Armee sprengt Tonnen von Bleiazid in Iowa trotz Gesundheitsbedenken",
+     "summary": "Die US-Armee hat in Iowa Tausende Pfund des hochexplosiven Stoffes Bleiazid in einer kontrollierten Explosion entsorgt. Zuvor hatten Anwohner massive Sorgen wegen möglicher giftiger Rauchwolken und gesundheitlicher Risiken geäußert. Militärvertreter erklärten die Detonation im Nachhinein jedoch für erfolgreich und verwiesen auf unbedenkliche erste Messwerte.",
+     "category": "Umwelt",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/health/2026/11/army-detonates-tons-of-lead-azide-as-local-residents-brace-for-toxic-plume/",
+     "time": "2026-11-25T15:35:17+00:00"
+    },
+    {
+     "title": "Manchester United verspielt Sieg gegen Sporting Lissabon in dramatischer Schlussphase",
+     "summary": "In der UEFA Champions League hat Manchester United bei Sporting Lissabon eine 2:1-Führung aus der Hand gegeben und sich am Ende mit einem 2:2 begnügen müssen. Ein folgenschwerer Patzer von Torhüter Senne Lammens in den Schlussminuten kostete die Gäste den Sieg. Trainer Mauricio Pochettino kritisierte zudem strittige Schiedsrichterentscheidungen während der Partie.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/sporting-lisbon-manchester-united-champions-league-match-report",
+     "time": "2026-11-25T22:05:49+00:00"
+    },
+    {
+     "title": "Liverpool besiegt Club Brügge dank starker Offensivleistung klar mit 3:0",
+     "summary": "Mit einer souveränen Auswärtsleistung hat der FC Liverpool in der Champions League Club Brügge mit 3:0 geschlagen. Maßgeblich für den Erfolg waren zwei Treffer von Stürmer Alexander Isak sowie ein Tor von Florian Wirtz. Die Gäste rehabilitierten sich damit eindrucksvoll von ihrer vorherigen Niederlage im europäischen Wettbewerb.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/club-brugge-liverpool-champions-league-match-report",
+     "time": "2026-11-25T22:04:10+00:00"
+    },
+    {
+     "title": "Pittsburgh Steelers entlassen Quarterback Aaron Rodgers nach heftiger Kritik",
+     "summary": "Die Pittsburgh Steelers haben sich von ihrem Star-Quarterback Aaron Rodgers getrennt, nachdem dieser den Cheftrainer Mike McCarthy öffentlich beschuldigt hatte, während Mannschaftssitzungen geschlafen zu haben. Die Entlassung erfolgte nur Stunden nach diesen überraschenden Äußerungen des Spielers, der zuvor bereits aus dem Team verbannt worden war.",
+     "category": "NFL",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/aaron-rodgers-steelers-mike-mccarthy-nfl",
+     "time": "2026-11-25T22:25:29+00:00"
+    },
+    {
+     "title": "Bayern München kassiert erste Saisonniederlage bei Lille in der Champions League",
+     "summary": "Bayern München hat in der Champions League eine überraschende 1:2-Niederlage bei OSC Lille hinnehmen müssen und damit die erste Pleite der Saison kassiert. Nach der Führung durch Dayot Upamecano wendete Lille das Blatt unter anderem durch ein kurioses Eigentor von Aleksandar Pavlovic. Paris Saint-Germain kam indes gegen die AS Rom ebenfalls nur zu einem Unentschieden.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/25/champions-league-barcelona-psg-roma-lille-bayern-munich-villarreal",
+     "time": "2026-11-25T22:38:19+00:00"
+    },
+    {
+     "title": "David Warner fordert Belege für neue Manipulationsvorwürfe im Kricket",
+     "summary": "Der ehemalige australische Kricketnationalspieler David Warner hat Medienberichte über angebliche neue Betrugsvorwürfe scharf kritisiert. Warner forderte glaubwürdige Beweise für unbestätigte Spekulationen, wonach er in früheren Spielen unerlaubte Substanzen zur Manipulation des Balls verwendet haben soll.",
+     "category": "Kricket",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/26/david-warner-calls-for-evidence-new-sandpapergate-claims-superglue-grit",
+     "time": "2026-11-26T04:33:35+00:00"
+    },
+    {
+     "title": "Duran-Duran-Gitarrist Andy Taylor mit 65 Jahren gestorben",
+     "summary": "Andy Taylor, der legendäre Gitarrist der britischen Pop-Band Duran Duran, ist im Alter von 65 Jahren nach einem langjährigen Kampf gegen Prostatakrebs gestorben. Mit seinen prägnanten Riffs hatte er in den 1980er Jahren maßgeblich zum weltweiten Erfolg der Band beigetragen. Familie und Bandkollegen trauern um den Musiker.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "Guardian Culture",
+     "url": "https://www.theguardian.com/music/2026/nov/25/andy-taylor-guitarist-andy-taylor-dead",
+     "time": "2026-11-25T21:41:34+00:00"
+    },
+    {
+     "title": "BBC geht in Berufung gegen zehn Milliarden Dollar schwere Klage von Donald Trump",
+     "summary": "Die britische Rundfunkanstalt BBC hat Berufung gegen die Entscheidung eingelegt, eine zehn Milliarden Dollar schwere Verleumdungsklage von Donald Trump zuzulassen. Hintergrund des Rechtsstreits ist die redaktionelle Bearbeitung einer Rede des US-Präsidenten aus dem Jahr 2021 in einem Beitrag des Magazins Panorama.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cwdd1zn9npdpo",
+     "time": "2026-11-25T18:27:53+00:00"
+    },
+    {
+     "title": "Nollywood-Legende Pete Edochie mit 79 Jahren gestorben",
+     "summary": "Der bekannte nigerianische Schauspieler Pete Edochie ist im Alter von 79 Jahren gestorben. Er erlangte ab den späten 1980er Jahren durch seine Rollen in Verfilmungen klassischer afrikanischer Literatur grosse Bekanntheit und galt als eine der prägendsten Figuren der nigerianischen Filmindustrie Nollywood.",
+     "category": "Film",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cqwy0rr4rr4yo",
+     "time": "2026-11-25T12:24:12+00:00"
+    },
+    {
+     "title": "Gordon Ramsay übernimmt Moderation bei Neuauflage von Top Gear",
+     "summary": "Der britische Starkoch Gordon Ramsay wird nach der Pause infolge schwerer Unfälle die Moderation der neu aufgelegten Autosendung Top Gear übernehmen. Die Dreharbeiten mit Ramsay und noch nicht benannten Co-Moderatoren sollen im kommenden Jahr beginnen.",
+     "category": "Fernsehen",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/cjr4gw100d52o",
+     "time": "2026-11-25T17:48:28+00:00"
+    },
+    {
+     "title": "Hunderter Beschwerden bei Medienaufsicht nach Streit in britischer Reality-Show",
+     "summary": "Wegen eines heftigen Wortgefechts in der Reality-Sendung 'I'm A Celebrity' sind bei der britischen Medienaufsicht Ofcom mehr als 800 Beschwerden eingegangen. Auslöser war eine verbale Auseinandersetzung zwischen Teilnehmern, bei der umstrittene Äußerungen gefallen waren.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/c6ly5v11q194o",
+     "time": "2026-11-25T11:57:31+00:00"
+    }
+   ]
+  }
+ ]
+}
