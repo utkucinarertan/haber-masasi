@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T21:07+01:00",
+ "updatedAt": "2026-11-26T21:37+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T21:02:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
+    "text": {
+     "tr": "Birlik partileri, SPD'yi şaşırtarak emeklilik tartışmalarında yeni bir uzlaşı teklifi sundu.",
+     "de": "Die Union hat die SPD mit einem überraschenden Kompromissvorschlag in der Rentendebatte überrumpelt."
+    }
+   },
    {
     "time": "2026-11-26T20:55:00+01:00",
     "source": "Der Spiegel",
@@ -31,25 +40,25 @@
     }
    },
    {
-    "time": "2026-11-26T20:14:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/netzwelt/sap-wird-opfer-von-hackerangriff-a-6648b5ce-5d74-48dc-86ea-9469705bb91d#ref=rss",
-    "text": {
-     "tr": "Alman yazılım devi SAP, muhtemelen yapay zeka destekli saldırganlar tarafından hedef alındığı bir siber saldırıyla karşı karşıya kaldı.",
-     "de": "Der deutsche Softwarekonzern SAP ist Opfer eines Hackerangriffs geworden, bei dem möglicherweise auch KI-Systeme zum Einsatz kamen."
-    }
-   },
-   {
-    "time": "2026-11-26T19:20:09+00:00",
+    "time": "2026-11-26T20:21:41+00:00",
     "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/article6b0882750df5a2a9b7288922/berlin-cdu-fehlen-bei-geheim-wahl-ploetzlich-stimmen-afd-gewinnt-zusaetzlichen-platz-in-bundesversammlung.html",
+    "url": "https://www.welt.de/politik/deutschland/article6b08826e0df5a2a9b728891a/sachsen-anhalt-neuanfang-im-land-linke-will-neuwahlen-in-sachsen-anhalt.html",
     "text": {
-     "tr": "Berlin parlamentosundaki gizli delegelik seçimlerinde CDU'nun oyları eksik çıkınca, AfD federal mecliste ek bir koltuk kazandı.",
-     "de": "Bei einer geheimen Abstimmung im Berliner Landesparlament fehlen der CDU Stimmen, wodurch die AfD einen zusätzlichen Platz in der Bundesversammlung gewinnt."
+     "tr": "Sol parti, Saksonya-Anhalt eyaletinde erken seçim yapılmasını ve demokratik bir başlangıç talep etti.",
+     "de": "Die Linke plädiert in Sachsen-Anhalt für Neuwahlen und einen demokratischen Neuanfang im Land."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-26T23:27:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-surucunun-cansiz-bedeni-1-5-saat-suren-calisma-sonucunda-cikartildi-2559743",
+    "text": {
+     "tr": "Denizli'nin Pamukkale ilçesinde devrilen tırın sürücüsü hayatını kaybetti, cenazesi çalışmayla çıkarıldı.",
+     "de": "In Denizli kam der Fahrer eines umgestürzten Lastwagens ums Leben, seine Leiche wurde nach Bergungsarbeiten geborgen."
+    }
+   },
    {
     "time": "2026-11-26T22:57:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Dışişleri Bakanı Hakan Fidan, Beşiktaş maçında Gürcü polisinin şiddetine maruz kalan Türk vatandaşları için Gürcü mevkidaşıyla görüştü.",
      "de": "Außenminister Hakan Fidan telefonierte mit seiner georgischen Amtskollegin über die Lage der türkischen Staatsbürger beim Beşiktaş-Spiel in Batumi."
-    }
-   },
-   {
-    "time": "2026-11-26T22:32:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011386/zonguldak-ta-maden-ocagindaki-is-kazasinda-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Zonguldak'taki bir maden ocağında meydana gelen iş kazasında 2 işçi yaralandı.",
-     "de": "Bei einem Arbeitsunfall in einem Bergwerk in Zonguldak wurden zwei Arbeiter verletzt."
     }
    }
   ],
@@ -134,12 +134,12 @@
     }
    },
    {
-    "time": "2026-11-26T19:16:35+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/26/senate-permitting-bill-clean-water",
+    "time": "2026-11-26T19:26:16+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/videos/cq808d704m22o",
     "text": {
-     "tr": "ABD Senatosu'ndan geçen yeni enerji ruhsatlandırma tasarısı, temiz su korumalarını tehlikeye attığı gerekçesiyle eleştiriliyor.",
-     "de": "Ein vom US-Senat verabschiedetes Gesetz zur Beschleunigung von Energieprojekten bedroht nach Ansicht von Umweltschützern wichtige Schutzstandards für sauberes Wasser."
+     "tr": "Şükran Günü hafta sonu başlarında ABD'yi vuran şiddetli fırtınalar yüzbinlerce kişiyi etkiledi.",
+     "de": "Heftige Stürme haben zu Beginn des Thanksgiving-Wochenendes Hunderttausende Menschen in den USA beeinträchtigt."
     }
    }
   ]
@@ -169,6 +169,7 @@
   "https://tr.euronews.com/2026/11/26/fifa-siber-saldiriya-ugradi-hackerlar-12-gbtan-fazla-veri-caldiklarini-one-surdu",
   "https://tr.euronews.com/2026/11/26/ft-turkiye-abnin-made-in-europe-planina-dahil-edilmiyor",
   "https://tr.euronews.com/2026/11/26/gazzede-menenjit-salgini-272-yeni-vaka-kaydedildi",
+  "https://tr.euronews.com/2026/11/26/gokbilimcilerden-spacexin-1-milyon-uydu-planina-tepki-riskli-asteroitleri-goremeyebiliriz",
   "https://tr.euronews.com/2026/11/26/grand-theft-auto-vi-seyahati-degistiriyor-oyun-temali-oteller-revacta",
   "https://tr.euronews.com/2026/11/26/guangzhouda-elektrikli-ucan-taksiler-pekinde-dijital-hangarlar-cinin-yeni-hava-ulasim",
   "https://tr.euronews.com/2026/11/26/hamilelikte-adhd-ilaclari-genis-calisma-cocuklarda-norogelisimsel-bozukluk-riskinde-artis",
@@ -203,6 +204,7 @@
   "https://tr.euronews.com/2026/11/26/yunanistanin-borclanma-maliyeti-dustu-italya-ve-fransanin-altina-indi",
   "https://tr.euronews.com/2026/11/26/zambiyaya-jenerik-hiv-onleme-ignesi-sevkiyati-daha-ucuz-lenacapavir",
   "https://tr.euronews.com/video/2026/11/26/bangkoktaki-petrol-rafinerisinde-siddetli-patlama-alevler-ve-yogun-duman-gokyuzune-yukseld",
+  "https://tr.euronews.com/video/2026/11/26/brukselde-ciftci-eylemi-ab-tarim-subvansiyonlarindaki-olasi-yuzde-20-kesinti-protesto-edil",
   "https://tr.euronews.com/video/2026/11/26/dimorphos-asteroidi-nasanin-carptigi-bolgede-stadyum-buyuklugunde-krater",
   "https://tr.euronews.com/video/2026/11/26/gizada-yakit-tankeri-kazasi-ve-yangini-kahire-cevre-yolunda-31-olu-21-yarali",
   "https://tr.euronews.com/video/2026/11/26/hong-kongdaki-wang-fuk-court-yangini-168-kurban-bir-yil-sonra-anildi",
@@ -233,6 +235,7 @@
   "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o",
   "https://www.bbc.co.uk/news/videos/c52e8ndplvemo",
   "https://www.bbc.co.uk/news/videos/cmvg23djw8v9o",
+  "https://www.bbc.co.uk/news/videos/cq808d704m22o",
   "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
   "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo",
   "https://www.bbc.com/turkce/articles/c63rg9vy987qo",
@@ -392,6 +395,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-halkin-mutfagi-hizmete-basladi-3-kap-sicak-yemek-50-tl-2559696",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-deki-nadir-toprak-elementleri-konusunda-disisleri-nden-dikkat-ceken-yanit-imza-yok-calismalar-suruyor-2559624",
   "https://www.cumhuriyet.com.tr/turkiye/evinde-olu-bulunmustu-masterchef-sampiyonu-eren-kasikci-nin-otopsi-raporu-cikti-2559615",
+  "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-surucunun-cansiz-bedeni-1-5-saat-suren-calisma-sonucunda-cikartildi-2559743",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-kemal-akkaya-adliyeye-sevk-edildi-2559625",
   "https://www.cumhuriyet.com.tr/turkiye/fon-soygununun-golgesinde-valiler-kararnamesi-tartismali-isimler-merkeze-cekildi-2559560",
   "https://www.cumhuriyet.com.tr/turkiye/gazeteci-ercan-kucuk-nato-haberi-nedeniyle-hakim-karsisina-cikti-dava-ertelendi-2559660",
@@ -470,6 +474,7 @@
   "https://www.dw.com/en/russia-ukraine-war-extends-to-the-baltic-and-the-mediterranean/a-80054604",
   "https://www.dw.com/en/saudi-pop-music-is-thriving-but-for-the-right-reasons/a-80036013",
   "https://www.dw.com/tr/ab-bütçesine-almanya-dan-itiraz-merz-ne-istiyor/a-80060941",
+  "https://www.dw.com/tr/adalet-bakanı-gürlek-fon-soruşturmalarında-638-şüpheliden-138-i-tutuklu/a-80069441",
   "https://www.dw.com/tr/almanya-da-göçmenlerin-yoksulluk-riski-göç-geçmişi-olmayanlara-göre-iki-kattan-fazla/a-80063990",
   "https://www.dw.com/tr/ankara-da-erken-seçim-senaryoları-sandık-ne-zaman-gelecek/a-80060987",
   "https://www.dw.com/tr/ankarada-erken-seçim-senaryoları-sandık-ne-zaman-gelecek/a-80060987",
@@ -623,8 +628,10 @@
   "https://www.evrensel.net/haber/6011374/cevdet-yilmaz-akin-gurlek-ve-mehmet-simsek-fon-vurgunu-sorusturmalarina-iliskin-aciklama-yapiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011374/saray-da-fon-vurgunu-toplantisi-yilmaz-gurlek-ve-simsek-kameralar-karsisina-gecti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011374/yilmaz-gurlek-ve-simsek-fon-vurgununa-iliskin-konustu-138-kisi-tutuklu-iddianame-hazirlaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011374/yilmaz-gurlek-ve-simsek-fon-vurgununa-iliskin-konustu-iddianame-ciktigi-zaman-isimleri-duyacaksiniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011375/amedspor-mbaye-diagne-ile-yollarini-ayirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/batum-daki-mac-oncesi-filistin-bayragi-acan-besiktas-taraftarlarina-mudahale?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011376/gurcistan-polisinden-besiktas-taraftarina-filistin-mudahalesi-besiktas-hapoel-beer-seva-yi-2-1-yendi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011376/gurcistan-polisinden-besiktas-taraftarina-filistin-mudahalesi-besiktas-in-israil-takimiyla-oynadigi-mac-yeniden-basladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011379/ocalan-dan-ozel-e-komisyona-katilmama-karari-cozumsuzluk-isteyenlerin-elini-guclendirir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011380/dem-parti-den-ikby-aciklamasi-sorunlar-anayasal-cercevede-cozulmeli?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -633,6 +640,7 @@
   "https://www.evrensel.net/haber/6011383/besiktas-hapoel-beer-seva-maci-neden-batum-da-oynaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011384/savcilik-aralarinda-cansu-taskin-in-da-bulundugu-uc-suphelinin-tutuklanmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-11-ler-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-yari-oynaniyor-0-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011386/zonguldak-ta-maden-ocagindaki-is-kazasinda-2-isci-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011387/besiktas-tan-hapoel-beer-seva-macindaki-polis-siddetine-dair-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
@@ -671,6 +679,7 @@
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/tanker-vor-ibiza-gesunken-neun-millionen-liter-treibstoffe-an-bord-accg-201718918.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/tankschiff-vor-ibiza-gesunken-behoerden-fuerchten-umweltkatastrophe-accg-201718918.html",
+  "https://www.faz.net/aktuell/gesellschaft/warnowbruecke-in-rostock-buergerschaft-stimmt-fuer-den-bau-201721510.html",
   "https://www.faz.net/aktuell/karriere-hochschule/anthropics-moralische-verfassung-fuer-ki-agenten-accg-201701353.html",
   "https://www.faz.net/aktuell/politik/ausland/berichte-ueber-antisemitische-aeusserungen-jordan-bardellas-201719432.html",
   "https://www.faz.net/aktuell/politik/ausland/die-tuerkei-baut-ihre-vormachtstellung-in-libyen-aus-accg-201696217.html",
@@ -725,6 +734,7 @@
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmich-zu-fall-jamal-musiala-attacke-auf-fc-bayern-muenchen-bosse-accg-201718387.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmichs-kritik-an-fc-bayern-bossen-im-fall-jamal-musiala-accg-201718387.html",
   "https://www.faz.net/aktuell/sport/fussball/dreesen-antwortet-auf-kimmichs-kritik-im-fall-musiala-201721093.html",
+  "https://www.faz.net/aktuell/sport/fussball/europa-league-bayer-leverkusen-siegt-souveraen-bei-dinamo-zagreb-201210527.html",
   "https://www.faz.net/aktuell/sport/fussball/laura-freigang-16-monate-sperre-bedeuten-fussball-wm-2027-aus-accg-201719985.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/aaron-rodgers-das-traurige-ende-einer-grossen-karriere-kommentar-201719068.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/basketball-star-lebron-james-stellt-nba-rekord-mit-fast-42-jahren-auf-accg-201718607.html",
@@ -865,10 +875,12 @@
   "https://www.spiegel.de/politik/deutschland/news-eu-haushaltsverhandlungen-cdu-kompromissvorschlag-zur-rente-mit-63-mutmassliche-spionin-vor-gericht-a-2e2df0fa-dd57-4004-a900-871447abe2f6#ref=rss",
   "https://www.spiegel.de/politik/deutschland/prostitution-warum-ein-sexkaufverbot-den-frauen-nicht-helfen-wuerde-a-7b908479-c243-4dcd-a745-727def1b568f#ref=rss",
   "https://www.spiegel.de/politik/deutschland/rente-mit-63-union-bietet-spd-kompromiss-fuer-geringverdiener-an-a-f1ebd904-9dea-48e9-8bef-b4a99a17b1ea#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
   "https://www.spiegel.de/politik/deutschland/rentenstreit-die-spd-muss-sich-fragen-ob-sie-diese-koalition-ueberhaupt-noch-will-kommentar-a-2b52ea0b-7f74-45a3-bce0-500abba12907#ref=rss",
   "https://www.spiegel.de/politik/deutschland/ukrainehilfe-der-kanzler-muss-endlich-klartext-reden-a-10475eeb-5899-4756-ad1d-df3e4f1add56#ref=rss",
   "https://www.spiegel.de/reise/europa/skipasspreise-in-den-alpen-bis-zu-112-euro-fuer-einen-pistentag-a-eec6e524-6ef8-49a6-ab30-6fa0374cebb1#ref=rss",
   "https://www.spiegel.de/sport/american-football/nfl-aaron-rodgers-rechnet-mit-trainer-mike-mccarthy-ab-und-wird-entlassen-a-8e49e02e-c80b-4609-af2b-df2f0c303cca#ref=rss",
+  "https://www.spiegel.de/sport/fussball/europa-league-gazakrieg-schwere-ausschreitungen-bei-besiktas-gegen-hapoel-beer-sheva-a-0f1e8425-c88a-4e90-a2f0-d787f15297c3#ref=rss",
   "https://www.spiegel.de/sport/fussball/europa-league-unwetter-zwingt-besiktas-flieger-zur-notlandung-a-f963c468-7c20-425f-a9c5-f8a108938edd#ref=rss",
   "https://www.spiegel.de/sport/fussball/fc-st-pauli-neue-stadionhymne-wird-der-song-wo-die-elbe-fliesst-a-8e399ac6-116b-4f7d-b328-7e32c349db71#ref=rss",
   "https://www.spiegel.de/sport/fussball/joshua-kimmich-warum-seine-verteidigung-jamal-musiala-beim-fc-bayern-staerkt-a-ec140eb5-af56-4df5-ad0c-f51f4004dd9e#ref=rss",
@@ -1038,6 +1050,7 @@
   "https://www.welt.de/politik/deutschland/article6b08450c1c4d5a00bfba033f/zdf-sendung-keine-talkshow-total-problematisch-wenn-es-so-stimmt-publizistin-reagiert-auf-koran-umfrage-unter-jugendlichen.html",
   "https://www.welt.de/politik/deutschland/article6b084a2d1c4d5a00bfba0400/coesfelder-liste-klare-verfahrensvorgaben-nrw-zieht-aus-abschiebe-skandal-erste-konsequenzen.html",
   "https://www.welt.de/politik/deutschland/article6b086efd09772de371850540/sachsen-anhalt-fuer-mich-sind-das-selten-daemliche-vorschlaege-cdu-politiker-holt-zum-rundumschlag-aus.html",
+  "https://www.welt.de/politik/deutschland/article6b08826e0df5a2a9b728891a/sachsen-anhalt-neuanfang-im-land-linke-will-neuwahlen-in-sachsen-anhalt.html",
   "https://www.welt.de/politik/deutschland/article6b0882750df5a2a9b7288922/berlin-cdu-fehlen-bei-geheim-wahl-ploetzlich-stimmen-afd-gewinnt-zusaetzlichen-platz-in-bundesversammlung.html",
   "https://www.welt.de/politik/deutschland/article6b0882750df5a2a9b7288922/geheime-wahl-berliner-cdu-fehlen-ploetzlich-stimmen-afd-gewinnt-zusaetzlichen-platz-in-bundesversammlung.html",
   "https://www.welt.de/politik/deutschland/plus6b05a7cdd4a4a3142c5713cd/verteidigung-und-aufruestung-es-ist-keine-friedenspolitik-putin-einfach-gewaehren-zu-lassen.html",
@@ -1049,6 +1062,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b07d7020ba62538f716de45/fc-bayern-joshua-kimmichs-heftige-kritik-an-den-bossen-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b07e821d4a4a3142c5743b7/fc-bayern-krise-in-muenchen-bei-bayern-geht-es-laengst-nicht-mehr-nur-um-punkte.html",
   "https://www.welt.de/sport/fussball/champions-league/article6b07f0447af5dee5d20ac444/fc-liverpool-war-genau-die-art-von-tor-die-der-klub-erwartete-wirtz-wandel-nimmt-fahrt-auf.html",
+  "https://www.welt.de/sport/fussball/europa-league/article6b0886a40df5a2a9b728895f/europa-league-heftige-krawalle-besiktas-spiel-gegen-israel-klub-endet-im-skandal.html",
   "https://www.welt.de/vermischtes/article6b071512c75e09cb88d15fe6/schweinfurt-verdacht-auf-vergewaltigung-einer-13-jaehrigen-sechs-jugendliche-auf-freiem-fuss.html",
   "https://www.welt.de/vermischtes/article6b071512c75e09cb88d15fe6/schweinfurt-vier-syrische-jugendliche-sollen-maedchen-vergewaltigt-haben-alle-auf-freiem-fuss.html",
   "https://www.welt.de/vermischtes/article6b07a675c75e09cb88d16570/maischberger-was-sie-in-ihrer-partei-mittlerweile-aufgenommen-haben-das-sind-rassisten-und-antisemiten.html",
