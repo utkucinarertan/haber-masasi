@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-26T22:37+01:00",
+ "updatedAt": "2026-11-26T23:07+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-26T22:54:39+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
+    "text": {
+     "tr": "Bavyera eyaletinde etkili olan yoğun kar yağışı trafikte aksamalara ve çok sayıda kazaya yol açtı.",
+     "de": "Starker Schneefall hat in Bayern zu zahlreichen Verkehrsunfällen und Verkehrsbehinderungen geführt."
+    }
+   },
    {
     "time": "2026-11-26T22:28:00+01:00",
     "source": "Der Spiegel",
@@ -22,6 +31,15 @@
     }
    },
    {
+    "time": "2026-11-26T21:42:26+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
+    "text": {
+     "tr": "AB liderleri uzun vadeli bütçe müzakerelerini erken sonlandırırken, Şansölye Merz yıl sonuna kadar uzlaşı sağlanabileceğine inanıyor.",
+     "de": "Die EU-Staaten haben ihre Verhandlungen über den nächsten Haushalt vorzeitig abgebrochen, während Bundeskanzler Merz auf eine Einigung bis Jahresende hofft."
+    }
+   },
+   {
     "time": "2026-11-26T21:02:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/politik/deutschland/rente-union-ueberrumpelt-spd-mit-ueberraschendem-kompromissvorschlag-a-da8cd897-8042-462c-a892-98fbe6dce2ea#ref=rss",
@@ -29,27 +47,36 @@
      "tr": "Birlik partileri, SPD'yi şaşırtarak emeklilik tartışmalarında yeni bir uzlaşı teklifi sundu.",
      "de": "Die Union hat die SPD mit einem überraschenden Kompromissvorschlag in der Rentendebatte überrumpelt."
     }
-   },
-   {
-    "time": "2026-11-26T20:55:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/wirtschaft/unternehmen/grosskonzerne-laufen-sturm-gegen-steigende-transportkosten-auf-der-schiene-a-3d67f09d-ff17-44f3-92af-c541a159d151#ref=rss",
-    "text": {
-     "tr": "BASF, Bayer ve Salzgitter gibi büyük Alman şirketleri, artan demiryolu ulaşım maliyetlerine karşı ulaştırma bakanına mektup göndererek reform talep etti.",
-     "de": "Großkonzerne wie BASF, Bayer und Salzgitter fordern in einem Brief an den Verkehrsminister Reformen gegen steigende Transportkosten auf der Schiene."
-    }
-   },
-   {
-    "time": "2026-11-26T20:42:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/biennale-von-venedig-hoor-al-qasimi-kuratiert-ausstellung-2028-a-e1a599a5-fa53-450f-b594-bd53476bace9#ref=rss",
-    "text": {
-     "tr": "Bae'li Şeyh'in kızı Hoor Al Qasimi, 2028 yılındaki Venedik Sanat Bienali'nin sanatsal yönetmenliğine getirildi.",
-     "de": "Hoor Al Qasimi übernimmt im Jahr 2028 die künstlerische Leitung der Kunstbiennale in Venedig."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-27T01:02:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/motosikletle-gelip-kursun-yagdirdilar-2-cocuk-yaralandi-2559789",
+    "text": {
+     "tr": "İstanbul Bağcılar'da motosikletli şüphelilerin açtığı ateş sonucu iki çocuk yaralandı.",
+     "de": "Bei Schüssen von Verdächtigen auf einem Motorrad in Istanbul-Bagcilar wurden zwei Kinder verletzt."
+    }
+   },
+   {
+    "time": "2026-11-27T00:41:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011391/tcmb-den-iki-yeni-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-faizi-artirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Türkiye Cumhuriyet Merkez Bankası, bir hafta vadeli repo ihalelerine geçici olarak ara verildiğini açıkladı.",
+     "de": "Die türkische Zentralbank hat angekündigt, einwöchige Repositories vorübergehend auszusetzen."
+    }
+   },
+   {
+    "time": "2026-11-27T00:38:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/kktc-deki-gemi-faciasinda-ikinci-kaptan-konustu-kaptan-tahliye-emri-vermeden-basmakinist-ile-birlikte-gemiden-kacti-2559783",
+    "text": {
+     "tr": "KKTC'de 28 kişinin hayatını kaybettiği gemi faciasının davasında konuşan ikinci kaptan, kaptanın tahliye emri vermeden kaçtığını söyledi.",
+     "de": "Im Prozess zum Schiffsunglück in Nordzypern mit 28 Toten erklärte der zweite Kapitän, der Kapitän sei geflohen, ohne Evakuierungsbefehl zu erteilen."
+    }
+   },
    {
     "time": "2026-11-27T00:30:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -66,33 +93,6 @@
     "text": {
      "tr": "Muğla'nın Milas ilçesinde bıçaklanan 17 yaşındaki genç hayatını kaybederken, saldırgan suç aletiyle yakalandı.",
      "de": "Ein 17-Jähriger wurde in Milas in der Provinz Muğla erstochen; der Angreifer wurde mit der Tatwaffe gefasst."
-    }
-   },
-   {
-    "time": "2026-11-27T00:19:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/ehliyetsiz-surucunun-carptigi-kadin-oldu-17-yasindaki-surucu-gozaltina-alindi-2559772",
-    "text": {
-     "tr": "İstanbul'da ehliyetsiz sürücünün çarptığı 52 yaşındaki Arzu Duran hayatını kaybetti, 17 yaşındaki sürücü gözaltına alındı.",
-     "de": "In Istanbul starb die 52-jährige Arzu Duran nach dem Zusammenstoß mit einem Auto, das von einem 17-jährigen Führerscheinlosen gelenkt wurde."
-    }
-   },
-   {
-    "time": "2026-11-27T00:15:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-italya-deplasmaninda-kayip-2559768",
-    "text": {
-     "tr": "A Milli Futbol Takımı, FIBA 2027 Dünya Kupası Avrupa Elemeleri'nde deplasmanda İtalya'ya 86-72 kaybetti.",
-     "de": "Die türkische Basketball-Nationalmannschaft verlor in der Qualifikation zur Weltmeisterschaft 2027 auswärts mit 86:72 gegen Italien."
-    }
-   },
-   {
-    "time": "2026-11-27T00:10:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011355/piyasalarda-faiz-indirimi-senaryosu-rafa-kalkti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "Fon vurgununun ardından para piyasalarında faiz indirimi senaryosu rafa kalktı ve gösterge faiz yüzde 37.30'a yükseldi.",
-     "de": "Nach einem Fondsbetrugsskandal wurden Zinssenkungsszenarien verworfen, und der türkische Referenzzinssatz stieg auf 37,30 Prozent."
     }
    }
   ],
@@ -336,6 +336,7 @@
   "https://www.cumhuriyet.com.tr/siyaset/datca-da-yeni-partili-meclis-uyesi-bekir-cumen-hayatini-kaybetti-2559694",
   "https://www.cumhuriyet.com.tr/siyaset/fatma-betul-sayan-kaya-18-gun-tutuklulugun-ardindan-tahliye-edildi-murat-calik-tahliye-basvurusu-yaptigi-acikladi-2559723",
   "https://www.cumhuriyet.com.tr/siyaset/fon-krizinde-kritik-toplanti-yilmaz-gurlek-ve-simsek-ten-ortak-aciklama-hic-kimseyi-tohmet-altinda-birakmadan-2559702",
+  "https://www.cumhuriyet.com.tr/siyaset/gurcistan-polisinden-sert-mudahale-besiktasli-taraftarlar-yasananlari-anlatti-bir-anda-ustumuze-cullandilar-tek-yaptigimiz-filistin-bayragi-acmakti-2559787",
   "https://www.cumhuriyet.com.tr/siyaset/mgk-toplantisi-sona-erdi-9-maddelik-bildiri-yayimlandi-2559688",
   "https://www.cumhuriyet.com.tr/siyaset/mugla-buyuksehir-belediye-baskani-ahmet-aras-tan-akp-ye-gececegi-iddialarina-yanit-2559661",
   "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-den-yargitay-atamasina-sert-tepki-ataturk-un-partisine-kayyim-atayani-atadilar-2559613",
@@ -389,6 +390,7 @@
   "https://www.cumhuriyet.com.tr/spor/serdal-adali-dan-hapoel-beer-sheva-maci-aciklamasi-2-yarali-taraftarimiz-var-2559756",
   "https://www.cumhuriyet.com.tr/spor/spor-yazarlari-shakhtar-donetsk-fenerbahce-macini-degerlendirdi-bu-fenerbahce-kante-siz-olmaz-2559536",
   "https://www.cumhuriyet.com.tr/spor/super-lig-ekibinden-flas-karar-4-isim-kadro-disi-birakildi-2559610",
+  "https://www.cumhuriyet.com.tr/spor/tff-baskani-macin-neden-batum-da-oynandigini-acikladi-israil-takimlarini-turkiye-ye-biz-istemiyoruz-2559791",
   "https://www.cumhuriyet.com.tr/spor/tff-den-gurcistan-daki-olaylara-tepki-en-guclu-sekilde-kiniyoruz-2559727",
   "https://www.cumhuriyet.com.tr/spor/triple-double-nedir-basketbolda-triple-double-ne-demek-2559564",
   "https://www.cumhuriyet.com.tr/spor/uefa-duyurmustu-besiktas-in-israil-takimiyla-neden-gurcistan-da-oynadigi-belli-oldu-2559749",
@@ -430,12 +432,14 @@
   "https://www.cumhuriyet.com.tr/turkiye/kendilerini-jandarma-olarak-tanitip-dolandiricilik-yaptilar-7-tutuklama-2559604",
   "https://www.cumhuriyet.com.tr/turkiye/kepez-belediyesi-ne-yonelik-operasyonda-yeni-gelisme-21-kisi-tutuklandi-2559533",
   "https://www.cumhuriyet.com.tr/turkiye/kilis-valisi-olarak-atanan-eski-akp-genclik-kollari-baskani-yusuf-alperen-ayar-meclis-gundeminde-bu-halkin-cocuklari-niye-okuyor-2559552",
+  "https://www.cumhuriyet.com.tr/turkiye/kktc-deki-gemi-faciasinda-ikinci-kaptan-konustu-kaptan-tahliye-emri-vermeden-basmakinist-ile-birlikte-gemiden-kacti-2559783",
   "https://www.cumhuriyet.com.tr/turkiye/klikler-birbirlerine-operasyon-cekiyorlar-demisti-aydin-unal-dan-dikkat-ceken-fon-vurgunu-aciklamasi-sozun-bittigi-yerdeyiz-2559603",
   "https://www.cumhuriyet.com.tr/turkiye/komsulari-isiklarin-yanmadigini-fark-etti-evinde-olu-bulundu-2559724",
   "https://www.cumhuriyet.com.tr/turkiye/lgs-kapsamindaki-merkezi-sinava-yonelik-ornek-sorular-yayimlandi-2559611",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-26-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559512",
   "https://www.cumhuriyet.com.tr/turkiye/milli-guvenlik-kurulu-bugun-toplanacak-iste-kritik-gundem-maddeleri-2559535",
   "https://www.cumhuriyet.com.tr/turkiye/mit-ten-siber-casusluk-operasyonu-kritik-kurumlarin-wi-fi-aglarini-hedef-alan-2-kisi-tutuklandi-2559572",
+  "https://www.cumhuriyet.com.tr/turkiye/motosikletle-gelip-kursun-yagdirdilar-2-cocuk-yaralandi-2559789",
   "https://www.cumhuriyet.com.tr/turkiye/msb-den-malatya-ve-eskisehir-deki-helikopter-kazalarina-iliskin-aciklama-incelemeler-titizlikle-suruyor-2559586",
   "https://www.cumhuriyet.com.tr/turkiye/namik-tan-kimdir-yeni-parti-milletvekili-namik-tan-in-oglu-kim-neden-gozaltina-alindi-2559590",
   "https://www.cumhuriyet.com.tr/turkiye/sakarya-da-20-kopek-olu-bulundu-valilikten-aciklama-geldi-2559606",
@@ -665,6 +669,7 @@
   "https://www.evrensel.net/haber/6011383/besiktas-hapoel-beer-seva-maci-neden-batum-da-oynandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011383/besiktas-hapoel-beer-seva-maci-neden-batum-da-oynaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011384/savcilik-aralarinda-cansu-taskin-in-da-bulundugu-uc-suphelinin-tutuklanmasini-istedi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ikinci-yari-oynaniyor-1-1?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-11-ler-belli-oldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-yari-oynaniyor-0-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011385/cska-sofya-trabzonspor-macinda-ilk-yari-oynaniyor-1-0?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -672,6 +677,8 @@
   "https://www.evrensel.net/haber/6011387/besiktas-tan-hapoel-beer-seva-macindaki-polis-siddetine-dair-aciklama?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011388/avrupa-merkez-bankasi-baskanligi-icin-pablo-hernndez-de-cos-ta-uzlasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011389/tip-li-sera-kadigil-den-bakan-kurum-a-cop31-tepkisi-2009-dan-beri-ilk-kez-bir-zirvede-karar-almayi-beceremediniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011390/siyasi-partilerden-batum-da-besiktas-taraftarlarina-saldiriya-tepki-saray-iktidari-ve-tff-de-sorumludur?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011391/tcmb-den-iki-yeni-karar-repo-ihalelerine-ara-verildi-zorunlu-karsilik-faizi-artirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -782,6 +789,7 @@
   "https://www.faz.net/aktuell/technik-motor/motor/electra-el-2-erstmals-landet-ein-flugzeug-auf-einem-helipad-in-manhattan-accg-201672485.html",
   "https://www.faz.net/aktuell/technik-motor/motor/neuer-bmw-7er-grosse-modellpflege-und-v8-comeback-accg-201676091.html",
   "https://www.faz.net/aktuell/wirtschaft/eu-haushalt-2028-bis-2034-wie-ein-beichtstuhl-den-streit-um-das-eu-budget-loesen-soll-accg-201714385.html",
+  "https://www.faz.net/aktuell/wirtschaft/eu-haushaltsgipfel-abgebrochen-merz-bleibt-zuversichtlich-201721642.html",
   "https://www.faz.net/aktuell/wirtschaft/hans-werner-sinn-ueber-merz-und-trump-die-fetten-jahre-sind-vorbei-accg-201716573.html",
   "https://www.faz.net/aktuell/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-auf-4-3-prozent-mehr-gehalt-201720943.html",
   "https://www.faz.net/aktuell/wirtschaft/immobilien-wohnen/energie-heizung/gericht-vermieter-darf-heizkosten-nicht-immer-umlegen-accg-201636902.html",
@@ -834,11 +842,14 @@
   "https://www.france24.com/en/france/20261126-french-woman-trial-is-group-propaganda-tells-court-she-ashamed",
   "https://www.france24.com/en/france/20261126-iranian-monarchists-disrupt-paris-event-highlighting-bitter-diaspora-divide",
   "https://www.france24.com/en/france/20261126-le-pen-top-ally-bardella-faces-renewed-scrutiny-over-alleged-antisemitic-comments",
+  "https://www.france24.com/en/france/20261126-marie-antoinette-s-porcelain-nipple-bowl-fetches-record-3-1-million-at-paris-auction",
   "https://www.france24.com/en/france/20261126-reporters-without-borders-demands-suspension-controversial-french-tv-channel-cnews",
   "https://www.france24.com/en/hamas-weighs-response-after-israel-kills-10-people-in-gaza",
   "https://www.france24.com/en/le-pen-slams-push-for-eu-budget-deal-before-french-election",
   "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
   "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
+  "https://www.france24.com/en/nigeria-faces-rising-election-violence-in-run-up-to-vote",
+  "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president",
   "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
   "https://www.france24.com/en/tv-shows/arts24/20261126-lost-homes-stolen-freedom-national-book-award-winners-on-exile-and-imprisonment",
   "https://www.france24.com/en/tv-shows/entre-nous/20261126-sacr%C3%A9-sel-france-s-love-of-salt",
@@ -966,6 +977,7 @@
   "https://www.tagesschau.de/investigativ/ndr-wdr/schleuser-aermelkanal-deutschland-100.html",
   "https://www.tagesschau.de/investigativ/rbb/lieferdienste-subunternehmer-100.html",
   "https://www.tagesschau.de/kommentar/respekt-rente-kommentar-schwarte-100.html",
+  "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
   "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/dax-erholung-chancen-risiken-100.html",
   "https://www.tagesschau.de/wirtschaft/finanzen/marktberichte/marktbericht-dax-dow-geldanlage-174.html",
@@ -1067,6 +1079,7 @@
   "https://www.welt.de/politik/ausland/article6b0806131d0c4f9ebad70650/norwegen-verschickt-sms-an-millionen-buerger-kontrolle-von-religionsgemeinschaften.html",
   "https://www.welt.de/politik/ausland/article6b08094f0307d967a6b52cbe/bei-treffen-mit-bsw-in-moskau-putin-vertrauter-karaganow-warnt-letztlich-wird-das-in-einem-atomkrieg-enden.html",
   "https://www.welt.de/politik/ausland/article6b08677d78855274ac4abcbb/bruessel-lichtjahre-von-einigung-entfernt-eu-gipfel-zum-billionen-streit-droht-vorzeitiges-ende.html",
+  "https://www.welt.de/politik/ausland/article6b08a3511c642858307a5521/bruessel-merz-verkuendet-vorzeitigen-abbruch-des-eu-gipfels-vorstellungen-liegen-weit-auseinander.html",
   "https://www.welt.de/politik/ausland/plus6af1302180d3a1c6aa66dc07/der-maga-fluegel-ist-eher-die-boomer-afd-als-deutscher-beim-nachwuchs-der-trump-partei.html",
   "https://www.welt.de/politik/ausland/plus6af1302180d3a1c6aa66dc07/nachwuchs-der-trump-partei-was-hier-passiert-kommt-drei-bis-fuenf-jahre-spaeter-auch-in-deutschland-an.html",
   "https://www.welt.de/politik/ausland/plus6b058a82460ead0fdbd8021b/staatsverschuldung-die-kamikaze-aktion-die-frankreichs-finanzkrise-noch-verhindern-soll.html",
@@ -1115,6 +1128,7 @@
   "https://www.welt.de/vermischtes/article6b082e3d78855274ac4ab49a/nordrhein-westfalen-voll-verschleiert-zum-elterngespraech-schule-darf-mutter-mit-niqab-nicht-aussperren.html",
   "https://www.welt.de/vermischtes/article6b083f7a049b92145ab3f909/gerard-depardieu-soll-erstmals-wegen-vergewaltigung-vor-gericht.html",
   "https://www.welt.de/vermischtes/article6b0872e909772de37185056c/wetter-sollte-keiner-unterwegs-sein-ploetzlicher-wintereinbruch-sorgt-fuer-chaos-a93-zeitweise-gesperrt.html",
+  "https://www.welt.de/vermischtes/article6b08a26e1c4d5a00bfba0b15/hamburg-stundenlang-sucht-die-polizei-nach-leichenteilen-am-ende-ist-es-eine-puppe.html",
   "https://www.welt.de/videos/video6b07cd9eeb921eaaa2fbe375/haushalts-debatte-mittlerweile-begreift-auch-der-letzte-im-land-dass-irgendwas-nicht-stimmen-kann.html",
   "https://www.welt.de/videos/video6b084f5e78855274ac4aba28/ukraine-politik-kushner-ist-kein-diplomat-er-ist-ein-schwiegersohn-und-mehr-nicht.html",
   "https://www.welt.de/wirtschaft/article6b07cc1bc75e09cb88d1667a/dgb-fordert-einmalige-vermoegensabgabe-fuer-allerreichste.html",
