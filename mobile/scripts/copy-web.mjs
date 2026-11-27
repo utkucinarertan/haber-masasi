@@ -13,7 +13,7 @@ import { fileURLToPath } from "node:url";
 const here = dirname(fileURLToPath(import.meta.url));
 const src = join(here, "..", "..", "docs");
 const out = join(here, "..", "www");
-let base = process.env.HABER_DATA_BASE || "https://utkucinarertan.github.io/haber-masasi/";
+let base = process.env.HABER_DATA_BASE || "https://www.newsbyfocus.com/";
 if (!base.endsWith("/")) base += "/";
 
 const SKIP = new Set(["data", "admin.html", "sw.js"]);

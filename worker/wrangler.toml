@@ -4,7 +4,7 @@ compatibility_date = "2026-11-01"
 
 [vars]
 # uygulamanın yayınladığı veri klasörü (konu havuzu: pool/<ülke>.json)
-DATA_BASE = "https://utkucinarertan.github.io/haber-masasi/data/"
+DATA_BASE = "https://www.newsbyfocus.com/data/"
 
 # Kendi konularının özetleri ve konu kaydı. Kurulumda `npx wrangler kv namespace create TOPICS`
 # komutunun verdiği id buraya yazılır.
