@@ -1,8 +1,26 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-27T05:51+01:00",
+ "updatedAt": "2026-11-27T06:21+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-27T05:15:26+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+    "text": {
+     "tr": "ABD'de Şükran Günü'nde etkili olan şiddetli fırtınalar sele yol açarken, yaklaşık bir milyon hanede elektrik kesintisi yaşandı.",
+     "de": "Ein schwerer Sturm hat zu Überschwemmungen und Flugausfällen in den USA geführt und fast eine Million Haushalte vom Stromnetz getrennt."
+    }
+   },
+   {
+    "time": "2026-11-27T04:56:32+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+    "text": {
+     "tr": "Avustralya'da Brisbane Yüksek Mahkemesi jürisi, eşini çim biçme makinesi kazası süsü vererek öldüren eski pilot Robert John Crawford'ı suçlu buldu.",
+     "de": "Ein Gericht in Brisbane hat einen ehemaligen australischen Piloten wegen des Mordes an seiner Frau verurteilt, nachdem er den Tod als Unfall getarnt hatte."
+    }
+   },
    {
     "time": "2026-11-27T04:40:59+00:00",
     "source": "Die Welt",
@@ -12,9 +30,65 @@
      "de": "US-Präsident Trump hat erklärt, er würde einen Besuch des russischen Präsidenten Putin beim G20-Gipfel in Florida begrüßen."
     }
    }
+  ],
+  "de": [
+   {
+    "time": "2026-11-27T06:09:05+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+    "text": {
+     "tr": "Yeni Zelanda'da yapılan parlamento seçimlerinde Başbakan Luxon liderliğindeki sağ koalisyon çoğunluğunu kaybetti.",
+     "de": "Bei der Parlamentswahl in Neuseeland hat die rechtsgerichtete Regierungskoalition unter Premierminister Luxon ihre Mehrheit verloren."
+    }
+   },
+   {
+    "time": "2026-11-27T05:44:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36#ref=rss",
+    "text": {
+     "tr": "Almanya Federal Meclisi Bundestag, 2027 yılına ait tartışmalı bütçe tasarısı için oylama yapıyor.",
+     "de": "Der Bundestag stimmt über den umstrittenen Haushalt für das Jahr 2027 ab."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-27T07:59:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-izmir-de-4-1-buyuklugunde-deprem-2559806",
+    "text": {
+     "tr": "Afet ve Acil Durum Yönetimi Başkanlığı (AFAD), İzmir'in Seferihisar ilçesinde 4.1 büyüklüğünde deprem meydana geldiğini açıkladı.",
+     "de": "Die türkische Katastrophenschutzbehörde AFAD hat ein Erdbeben der Stärke 4,1 im Kreis Seferihisar in Izmir gemeldet."
+    }
+   },
+   {
+    "time": "2026-11-27T07:42:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011402/ab-liderleri-yeni-butce-pazarliginda-uzlasamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Avrupa Birliği liderleri, 2028-2034 yıllarını kapsayan yaklaşık 2 trilyon euroluk yeni bütçe müzakerelerinde uzlaşma sağlayamadı.",
+     "de": "Die EU-Staats- und Regierungschefs konnten sich bei den Verhandlungen über den neuen Haushaltsplan für die Jahre 2028 bis 2034 nicht einigen."
+    }
+   }
   ]
  },
  "seen": [
+  "https://tr.euronews.com/2026/11/27/abdde-sukran-gunu-sel-ve-siddetli-ruzgar-ulasimi-olumsuz-etkiledi",
+  "https://tr.euronews.com/2026/11/27/liderler-kirmizi-cizgilerinden-vazgecmedi-ab-zirvesi-sonucsuz-kaldi",
+  "https://tr.euronews.com/2026/11/27/pablo-hernandez-de-cos-avrupa-merkez-bankasinin-ilk-ispanyol-baskani-ve-uzlasi-teknokrati",
+  "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
+  "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-izmir-de-4-1-buyuklugunde-deprem-2559806",
+  "https://www.evrensel.net/haber/6011402/ab-liderleri-yeni-butce-pazarliginda-uzlasamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/besser-leben/psychologie/wie-kinder-besser-lernen-haette-auch-ich-gut-in-mathe-sein-koennen-accg-201692367.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/mehr-als-8000-baeume-als-ausgleich-fuer-nordmainische-s-bahn-accg-201719635.html",
+  "https://www.spiegel.de/ausland/oesterreich-fiaker-vor-dem-aus-wien-streitet-ueber-pferdekutschen-a-0b2962d3-7a87-4271-8421-3a8e81234c70#ref=rss",
+  "https://www.spiegel.de/panorama/justiz/gen-z-regelt-demonstrationen-wer-randalierte-nach-den-friedlichen-protesten-a-9543e0e3-9d28-4e89-9498-e9257dd10ba2#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36#ref=rss",
+  "https://www.spiegel.de/sport/wintersport/nordische-kombiniererin-nathalie-armbruster-so-plant-sie-nach-dem-olympia-aus-ihrer-sportart-a-7108b12e-1d96-4d36-9977-868c27834c81#ref=rss",
+  "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
+  "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+  "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
   "https://www.welt.de/politik/ausland/article6b08dd3809772de371850af7/florida-haette-ihn-gerne-dabei-trump-wuerde-putin-besuch-bei-g20-gipfel-begruessen.html"
  ]
 }
