@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T04:37+01:00",
+ "updatedAt": "2026-11-27T05:07+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-27T06:39:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011399/hsk-den-yargitaya-5-yeni-uye-secim-karari-resmi-gazete-de-yayimlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "HSK tarafından Yargıtay üyeliğine seçilen 5 yeni isme ilişkin karar Resmi Gazete'de yayımlandı.",
+     "de": "Die Entscheidung über die Wahl von fünf neuen Mitgliedern an den Kassationshof durch den HSK wurde im Amtsblatt veröffentlicht."
+    }
+   },
+   {
     "time": "2026-11-27T06:15:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011398/ege-denizi-nde-sarsinti-izmir-aciklarinda-4-1-buyuklugunde-deprem-meydana-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Habaş tesislerinde 19 işçinin hayatını kaybettiği olayla ilgili soruşturmada suçun işçilere yüklenmeye çalışıldığı iddia edildi.",
      "de": "Nach dem Unfall in den Habaş-Anlagen mit 19 Toten wird versucht, die Schuld auf die Arbeiter zu schieben."
-    }
-   },
-   {
-    "time": "2026-11-27T01:48:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/siyaset/resmi-gazete-de-yayimlandi-sahap-kavcioglu-istifa-etmisti-yerine-gelen-isim-belli-oldu-2559800",
-    "text": {
-     "tr": "Şahap Kavcıoğlu'nun istifasının ardından BDDK Başkanlığına Yusuf Kenan Bağır atandı.",
-     "de": "Yusuf Kenan Bağır wurde zum neuen Chef der Bankenaufsicht BDDK ernannt, nachdem Şahap Kavcıoğlu zurückgetreten war."
     }
    }
   ],
@@ -714,6 +714,8 @@
   "https://www.evrensel.net/haber/6011396/bddk-baskanligina-atanan-yusuf-kenan-bagir-kimdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011397/duzce-de-patpat-ucuruma-yuvarlandi-1-olu-1-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011398/ege-denizi-nde-sarsinti-izmir-aciklarinda-4-1-buyuklugunde-deprem-meydana-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011398/ege-denizi-nde-sarsinti-izmir-aciklarinda-4-1-buyuklugunde-deprem?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011399/hsk-den-yargitaya-5-yeni-uye-secim-karari-resmi-gazete-de-yayimlandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -997,6 +999,7 @@
   "https://www.spiegel.de/wirtschaft/amazon-ver-di-ruft-am-black-friday-an-elf-standorten-zum-streik-auf-a-244aa9b2-39a8-4bad-97f2-a1d3c44bc4dd#ref=rss",
   "https://www.spiegel.de/wirtschaft/eu-gipfel-agrarsubventionen-treiben-merz-macron-und-meloni-auseinander-a-ceae53ab-e73d-40f0-8b3e-f93864547653#ref=rss",
   "https://www.spiegel.de/wirtschaft/eu-gipfel-merz-pocht-auf-einsparungen-aber-an-die-landwirte-traut-sich-niemand-ran-a-b27412c3-5ed6-4552-b25b-378180c243a9#ref=rss",
+  "https://www.spiegel.de/wirtschaft/eu-gipfel-wie-der-milliarden-streit-ueber-das-budget-im-chaos-versank-a-2a5848d7-950e-4ab5-8faa-f2ea66bc9d62#ref=rss",
   "https://www.spiegel.de/wirtschaft/ezb-spanier-pablo-hernandez-de-cos-soll-nachfolger-von-christine-lagarde-werden-a-9cbee37b-5d10-4e23-8cd8-6bb207ea6809#ref=rss",
   "https://www.spiegel.de/wirtschaft/ig-metall-und-arbeitgeber-einigen-sich-in-tarifstreit-a-152b7f28-1470-44a8-9958-c6fe9db5d584#ref=rss",
   "https://www.spiegel.de/wirtschaft/jensen-huang-was-genau-hat-der-nvidia-chef-falsch-gemacht-a-557707a4-35ac-4f45-aeda-32058f3e1b9b#ref=rss",
@@ -1115,6 +1118,7 @@
   "https://www.theguardian.com/world/2026/nov/26/thursday-briefing-why-young-people-are-having-less-sex-than-ever",
   "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
   "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
+  "https://www.theguardian.com/world/2026/nov/27/heatwaves-floods-fires-and-rain-weekend-of-extreme-weather-expected-across-australia",
   "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
   "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
   "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
