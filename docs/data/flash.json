@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T03:37+01:00",
+ "updatedAt": "2026-11-27T04:07+01:00",
  "countries": {
   "de": [
    {
@@ -98,6 +98,33 @@
   ],
   "world": [
    {
+    "time": "2026-11-27T03:48:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/neuseeland-konservatives-buendnis-verpasst-mehrheit-um-einen-sitz-a-9783f65d-4955-4ef5-8905-feecd02e7340#ref=rss",
+    "text": {
+     "tr": "Yeni Zelanda'da muhafazak&#231;ı koalisyon, oylamada salt çoğunluğu bir koltuk farkla ka&#231;ırdı.",
+     "de": "Das konservative B&#252;ndnis in Neuseeland hat die absolute Mehrheit um einen einzigen Sitz verpasst."
+    }
+   },
+   {
+    "time": "2026-11-27T03:01:14+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b08ef8146039c5f0be5ba27/unwetter-schwerer-sturm-in-mehreren-us-staaten-an-thanksgiving-hunderttausende-ohne-strom.html",
+    "text": {
+     "tr": "ABD'de Thanksgiving kutlamaları sırasında etkili olan şiddetli fırtına nedeniyle 900 bin hane elektriksiz kaldı.",
+     "de": "Ein schwerer Sturm an Thanksgiving in den USA hat dazu gef&#252;hrt, dass 900.000 Haushalte ohne Strom sind."
+    }
+   },
+   {
+    "time": "2026-11-27T02:56:49+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/plus6b08cb1e1c4d5a00bfba0c2b/eu-haushalt-das-bringt-alles-nichts-der-sondergipfel-endet-mit-einem-eklat.html",
+    "text": {
+     "tr": "Brüksel'deki AB bütçe konulu olağanüstü zirve, uzlaşma sağlanamaması üzerine beklenmedik bir şekilde sona erdi.",
+     "de": "Der EU-Sondergipfel zum Haushalt in Br&#252;ssel ist nach einem Eklat und ohne Einigung abrupt abgebrochen worden."
+    }
+   },
+   {
     "time": "2026-11-27T02:39:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/ausland/libyen-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-a-6534c9d8-90ef-4e6b-9845-63a0937c11d4#ref=rss",
@@ -113,33 +140,6 @@
     "text": {
      "tr": "Yeni Zelanda'da genel seçimlerin kesin sonuçlarına göre iktidar koalisyonu parlamentoda çoğunluğu sağlayamadı.",
      "de": "Die endgültigen Ergebnisse der Parlamentswahl in Neuseeland zeigen, dass die regierende Koalition keine Mehrheit hat."
-    }
-   },
-   {
-    "time": "2026-11-27T00:10:55+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
-    "text": {
-     "tr": "Avustralya Ulaşım Güvenliği Bürosu, Sidney Havalimanı'nda iki uçağın neredeyse çarpışmasıyla ilgili inceleme başlattı.",
-     "de": "Die australische Verkehrssicherheitsbehörde untersucht Beinahe-Kollision von zwei Flugzeugen am Flughafen Sydney."
-    }
-   },
-   {
-    "time": "2026-11-26T23:49:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011388/avrupa-merkez-bankasi-baskanligi-icin-pablo-hernndez-de-cos-ta-uzlasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "AB liderleri, Christine Lagarde'ın yerine Avrupa Merkez Bankası başkanlığına İspanyol ekonomist Pablo Hernández de Cos'un getirilmesi konusunda anlaştı.",
-     "de": "EU-Staaten haben sich darauf geeinigt, den spanischen Ökonomen Pablo Hernández de Cos als Nachfolger von Christine Lagarde an die Spitze der EZB zu berufen."
-    }
-   },
-   {
-    "time": "2026-11-26T23:03:16+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
-    "text": {
-     "tr": "Hong Kong'da yedi apartmanda 168 kişinin ölümüne yol açan büyük yangının üzerinden bir yıl geçti.",
-     "de": "In Hongkong wird an den vor einem Jahr ausgebrochenen schweren Brand in sieben Wohnblöcken mit 168 Toten erinnert."
     }
    }
   ]
@@ -777,6 +777,7 @@
   "https://www.faz.net/aktuell/politik/inland/spionage-prozess-russland-geht-mit-allen-mitteln-vor-accg-201716605.html",
   "https://www.faz.net/aktuell/politik/inland/zwei-iraker-in-koeln-und-heidelberg-festgenommen-accg-201719222.html",
   "https://www.faz.net/aktuell/politik/ukraine/friedrich-merz-kaempft-fuer-ukraine-hilfe-drei-eu-staaten-stellen-sich-quer-201719241.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-treffen-von-trump-und-rutte-abweichende-versionen-der-gemeinsamen-erklaerung-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-wadephul-ukrainekrieg-darf-sich-nicht-ausweiten-faz-110683325.html",
   "https://www.faz.net/aktuell/politik/usa-unter-trump/liveticker-usa-unter-trump-gericht-stoppt-staatlichen-druck-auf-sender-abc-faz-19444916.html",
@@ -842,6 +843,7 @@
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/bsh-in-bretten-streit-um-sozialplan-gefaehrdet-werkverkauf-201719092.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-bloomberg-sap-erwaegt-wegen-ki-abbau-von-10-000-stellen-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-nvidia-stoppt-offenbar-export-in-vier-suedostasiatische-laender-faz-200452404.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-sap-haben-verdaechtige-aktivitaeten-identifiziert-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/dertour-fuehrt-flexible-stornooption-fuer-pauschalreisen-ein-201719832.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/digitalminister-wildberger-versteht-hype-um-gta-6-sieht-gewalt-jedoch-kritisch-accg-201719130.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/dm-darf-in-seinen-filialen-augenscreening-anbieten-201720515.html",
@@ -932,6 +934,7 @@
   "https://www.spiegel.de/ausland/koalitionsverhandlungen-in-israel-beendet-gadi-eisenkot-die-aera-benjamin-netanyahu-a-d8187cb5-6b65-4517-b69d-c99eb7f00b1b#ref=rss",
   "https://www.spiegel.de/ausland/libyen-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-a-6534c9d8-90ef-4e6b-9845-63a0937c11d4#ref=rss",
   "https://www.spiegel.de/ausland/midterms-donald-trump-verbreitet-verschwoerungsmythen-zu-wirtschaftsdaten-a-845c55c6-f6c8-4c14-8ede-28c240404469#ref=rss",
+  "https://www.spiegel.de/ausland/neuseeland-konservatives-buendnis-verpasst-mehrheit-um-einen-sitz-a-9783f65d-4955-4ef5-8905-feecd02e7340#ref=rss",
   "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
   "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-jared-kushner-berichtet-von-versprechen-wladimir-putins-keine-atomwaffen-einzusetzen-a-dc80f8fa-0f0b-4253-92d4-62657dd2d7ba#ref=rss",
@@ -1138,12 +1141,14 @@
   "https://www.welt.de/politik/ausland/article6b08094f0307d967a6b52cbe/bei-treffen-mit-bsw-in-moskau-putin-vertrauter-karaganow-warnt-letztlich-wird-das-in-einem-atomkrieg-enden.html",
   "https://www.welt.de/politik/ausland/article6b08677d78855274ac4abcbb/bruessel-lichtjahre-von-einigung-entfernt-eu-gipfel-zum-billionen-streit-droht-vorzeitiges-ende.html",
   "https://www.welt.de/politik/ausland/article6b08a3511c642858307a5521/bruessel-merz-verkuendet-vorzeitigen-abbruch-des-eu-gipfels-vorstellungen-liegen-weit-auseinander.html",
+  "https://www.welt.de/politik/ausland/article6b08ef8146039c5f0be5ba27/unwetter-schwerer-sturm-in-mehreren-us-staaten-an-thanksgiving-hunderttausende-ohne-strom.html",
   "https://www.welt.de/politik/ausland/plus6af1302180d3a1c6aa66dc07/der-maga-fluegel-ist-eher-die-boomer-afd-als-deutscher-beim-nachwuchs-der-trump-partei.html",
   "https://www.welt.de/politik/ausland/plus6af1302180d3a1c6aa66dc07/nachwuchs-der-trump-partei-was-hier-passiert-kommt-drei-bis-fuenf-jahre-spaeter-auch-in-deutschland-an.html",
   "https://www.welt.de/politik/ausland/plus6b058a82460ead0fdbd8021b/staatsverschuldung-die-kamikaze-aktion-die-frankreichs-finanzkrise-noch-verhindern-soll.html",
   "https://www.welt.de/politik/ausland/plus6b06d144cd4642ba2eb18655/luftraumverletzungen-russlands-provokationen-an-der-ostflanke-und-die-grosse-ratlosigkeit-der-nato-staaten.html",
   "https://www.welt.de/politik/ausland/plus6b06e4e05b0e340c047ac96d/sondergipfel-dann-wird-es-keine-einigung-geben-showdown-im-streit-um-den-eu-haushalt.html",
   "https://www.welt.de/politik/ausland/plus6b082a061d0c4f9ebad70f3d/kushner-interview-das-naive-russlandbild-der-trump-regierung.html",
+  "https://www.welt.de/politik/ausland/plus6b08cb1e1c4d5a00bfba0c2b/eu-haushalt-das-bringt-alles-nichts-der-sondergipfel-endet-mit-einem-eklat.html",
   "https://www.welt.de/politik/deutschland/article6aff20a3c1e8003ef73c4bdf/eu-abschiebezentrum-halbstarke-scheinloesung-nouripour-bezweifelt-rechtmaessigkeit-des-ruanda-modells.html",
   "https://www.welt.de/politik/deutschland/article6b071e5cbb5effe8198cd777/rente-die-spd-kann-so-nicht-weitermachen-cdu-kritisiert-ablehnung-der-respekt-rente.html",
   "https://www.welt.de/politik/deutschland/article6b07c8e9d4a4a3142c574115/bundestag-das-hat-es-noch-nie-gegeben-kloeckner-prueft-sanktionen-nach-linken-sitzblockade.html",
