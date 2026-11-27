@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T01:07+01:00",
+ "updatedAt": "2026-11-27T01:37+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-27T01:05:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/midterms-donald-trump-verbreitet-verschwoerungsmythen-zu-wirtschaftsdaten-a-845c55c6-f6c8-4c14-8ede-28c240404469#ref=rss",
+    "text": {
+     "tr": "Donald Trump, ABD'deki Şükran Günü'nde ekonomi verileri hakkında komplo teorileri yaydı.",
+     "de": "Donald Trump verbreitet zum Erntedankfest Verschwörungsmythen über US-Wirtschaftsdaten."
+    }
+   },
    {
     "time": "2026-11-26T22:54:39+01:00",
     "source": "tagesschau",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "SC Freiburg, TSG Hoffenheim ve Bayer Leverkusen Avrupa kupalarında oynadıkları karşılaşmaları kazandı.",
      "de": "Im Europapokal haben der SC Freiburg, die TSG Hoffenheim und Bayer Leverkusen ihre Spiele gewonnen."
-    }
-   },
-   {
-    "time": "2026-11-26T21:47:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d#ref=rss",
-    "text": {
-     "tr": "Şükran Günü'nde ABD'nin doğu kıyısını vuran şiddetli fırtına yaklaşık 770.000 aboneyi elektriksiz bırakırken, New York'taki geleneksel geçit töreni ertelendi.",
-     "de": "Ein heftiger Sturm hat an der US-Ostküste rund 770.000 Kunden von der Energieversorgung abgeschnitten und zur Verschiebung der Parade in New York geführt."
     }
    }
   ],
@@ -98,6 +98,15 @@
   ],
   "world": [
    {
+    "time": "2026-11-27T00:10:55+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+    "text": {
+     "tr": "Avustralya Ulaşım Güvenliği Bürosu, Sidney Havalimanı'nda iki uçağın neredeyse çarpışmasıyla ilgili inceleme başlattı.",
+     "de": "Die australische Verkehrssicherheitsbehörde untersucht Beinahe-Kollision von zwei Flugzeugen am Flughafen Sydney."
+    }
+   },
+   {
     "time": "2026-11-26T23:49:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011388/avrupa-merkez-bankasi-baskanligi-icin-pablo-hernndez-de-cos-ta-uzlasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -131,15 +140,6 @@
     "text": {
      "tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD'nin Orta Doğu'ya odaklanıp Rusya'ya yeterince baskı yapmadığını belirtti.",
      "de": "Der ukrainische Präsident Selenskyj kritisierte in einem Interview, die USA konzentrierten sich zu stark auf den Nahen Osten."
-    }
-   },
-   {
-    "time": "2026-11-26T22:36:55+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/us-news/2026/nov/26/strobe-talbott-time-secretary-of-state-dead",
-    "text": {
-     "tr": "Eski ABD Dışişleri Bakan Yardımcısı ve Time dergisi muhabiri Strobe Talbott 80 yaşında hayatını kaybetti.",
-     "de": "Der ehemalige US-Vizeaußenminister und Time-Journalist Strobe Talbott ist im Alter von 80 Jahren gestorben."
     }
    }
   ]
@@ -243,6 +243,7 @@
   "https://www.bbc.co.uk/news/videos/cq808d704m22o",
   "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
   "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo",
+  "https://www.bbc.com/turkce/articles/c5742lzd1m20o",
   "https://www.bbc.com/turkce/articles/c63rg9vy987qo",
   "https://www.bbc.com/turkce/articles/c69q8yv2n1rno",
   "https://www.bbc.com/turkce/articles/c6y0xy47q4wpo",
@@ -256,6 +257,7 @@
   "https://www.bbc.com/turkce/articles/cqp8364dklm4o",
   "https://www.bbc.com/turkce/articles/cqrmg478l99yo",
   "https://www.bbc.com/turkce/articles/cr3wgnqpeq60o",
+  "https://www.bbc.com/turkce/articles/crjwj6nlx3peo",
   "https://www.bbc.com/turkce/articles/cvde1371y6z3o",
   "https://www.bbc.com/turkce/articles/cwdd82qpd89mo",
   "https://www.cumhuriyet.com.tr/astroloji/27-kasim-cuma-burc-yorumlari-bugun-sizi-neler-bekliyor-2559653",
@@ -725,6 +727,7 @@
   "https://www.faz.net/aktuell/gesellschaft/menschen/macy-s-thanksgiving-day-parade-wegen-sturm-verschoben-201717852.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/veruschka-ist-tot-esther-perbandt-erinnert-sich-an-ihr-vorbild-accg-201719164.html",
   "https://www.faz.net/aktuell/gesellschaft/smalltalk/brad-pitt-und-angelina-jolie-beenden-rechtsstreit-um-weingut-accg-201718620.html",
+  "https://www.faz.net/aktuell/gesellschaft/tiere/knochen-im-rachen-feuerwehr-rettet-krokodil-georges-accg-201721757.html",
   "https://www.faz.net/aktuell/gesellschaft/trends-nischen/gta-6-die-coolsten-easter-eggs-von-dexters-wohnung-bis-zur-hunde-insel-201716360.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/tanker-vor-ibiza-gesunken-neun-millionen-liter-treibstoffe-an-bord-accg-201718918.html",
@@ -902,6 +905,7 @@
   "https://www.spiegel.de/ausland/italien-suizid-von-italiens-ehemaligem-polizeichef-gianni-de-gennaro-wirft-fragen-auf-a-4438294c-29f6-402f-ab44-fe4c7d820ded#ref=rss",
   "https://www.spiegel.de/ausland/kilmar-abrego-garcia-verlaesst-nach-rechtsstreit-freiwillig-die-usa-donald-trump-feiert-das-a-40ef0733-21a6-4e91-89f0-81d9af656f7b#ref=rss",
   "https://www.spiegel.de/ausland/koalitionsverhandlungen-in-israel-beendet-gadi-eisenkot-die-aera-benjamin-netanyahu-a-d8187cb5-6b65-4517-b69d-c99eb7f00b1b#ref=rss",
+  "https://www.spiegel.de/ausland/midterms-donald-trump-verbreitet-verschwoerungsmythen-zu-wirtschaftsdaten-a-845c55c6-f6c8-4c14-8ede-28c240404469#ref=rss",
   "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
   "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-jared-kushner-berichtet-von-versprechen-wladimir-putins-keine-atomwaffen-einzusetzen-a-dc80f8fa-0f0b-4253-92d4-62657dd2d7ba#ref=rss",
@@ -1017,6 +1021,8 @@
   "https://www.theguardian.com/australia-news/2026/nov/27/beau-lamarre-condon-service-weapon-murder-police-recruiters-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/27/hugh-jackman-woodside-gas-project-wa-reef-murray-watt",
   "https://www.theguardian.com/australia-news/2026/nov/27/one-nation-pauline-hanson-gina-rinehart-aec-donations-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
+  "https://www.theguardian.com/australia-news/2026/nov/27/sam-wood-denied-bail-alleged-assault-queensland-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/27/sydney-fire-ants-outbreak-biosecurity-experts-ignored",
   "https://www.theguardian.com/australia-news/live/2026/nov/26/labor-anthony-albanese-pauline-hanson-one-nation-angus-taylor-coalition-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/26/marlboro-maker-altria-considering-takeover-bid-for-imperial-brands",
