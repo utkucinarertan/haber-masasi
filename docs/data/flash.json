@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T01:37+01:00",
+ "updatedAt": "2026-11-27T02:07+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,24 @@
   ],
   "tr": [
    {
+    "time": "2026-11-27T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/aym-tutuklu-cumhurbaskani-adayi-imamoglu-hakkinda-ihlal-karari-vermedi-2559713",
+    "text": {
+     "tr": "Anayasa Mahkemesi, tutuklu cumhurbaşkanı adayı Ekrem İmamoğlu'nun başvurusunu oy çokluğuyla reddetti.",
+     "de": "Das Verfassungsgericht in Ankara hat den Antrag des inhaftierten Präsidentschaftskandidaten Ekrem İmamoğlu abgelehnt."
+    }
+   },
+   {
+    "time": "2026-11-27T04:00:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/burdur-valisi-merkeze-cekildi-akp-li-vekil-tehdit-ediyor-demisti-2559781",
+    "text": {
+     "tr": "Burdur Valisi Tülay Baydar Bilgihan, bir vekille yaşanan tartışmanın ardından merkez çekildi.",
+     "de": "Die Gouverneurin von Burdur, Tülay Baydar Bilgihan, wurde nach einer Auseinandersetzung mit einem Abgeordneten ins Innenministerium versetzt."
+    }
+   },
+   {
     "time": "2026-11-27T01:52:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011395/habas-patronunu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -75,24 +93,6 @@
     "text": {
      "tr": "Trabzonspor Teknik Direktörü Thomas Reis, CSKA Sofya karşısında aldıkları 2-1'lik galibiyetin kolay olmadığını söyledi.",
      "de": "Trabzonspor-Trainer Thomas Reis äußerte sich nach dem 2:1-Sieg gegen ZSKA Sofia zum schwer erkämpften Erfolg."
-    }
-   },
-   {
-    "time": "2026-11-27T01:31:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011393/2027-dunya-kupasi-avrupa-elemeleri-turkiye-italya-ya-86-72-yenildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "A Milli Erkek Basketbol Takımı, 2027 Dünya Kupası Avrupa Elemeleri'nde konuk olduğu İtalya'ya 86-72 yenildi.",
-     "de": "Die türkische Basketball-Nationalmannschaft der Männer verlor in der WM-Qualifikation 2027 auswärts gegen Italien mit 86:72."
-    }
-   },
-   {
-    "time": "2026-11-27T01:05:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011392/tff-baskani-haciosmanoglu-besiktas-in-neden-istanbul-da-oynamadigini-acikladi-gerekce-guvenlik-degil-devlet-politikasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "text": {
-     "tr": "TFF Başkanı İbrahim Hacıosmanoğlu, Beşiktaş'ın Hapoel Beer-Şeva maçının İstanbul'da oynanmamasının güvenlik değil devlet politikası olduğunu açıkladı.",
-     "de": "TFF-Präsident Hacıosmanoğlu begründete die Verlegung des Beşiktaş-Spiels gegen Hapoel Be’er Scheva mit staatlicher Politik statt Sicherheitsbedenken."
     }
    }
   ],
@@ -231,11 +231,13 @@
   "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
   "https://www.bbc.co.uk/news/articles/cqlymky8kpzjo",
   "https://www.bbc.co.uk/news/articles/cqvg2n4mzl1jo",
+  "https://www.bbc.co.uk/news/articles/cqvg2nlr8kd8o",
   "https://www.bbc.co.uk/news/articles/cqwy4377yxnlo",
   "https://www.bbc.co.uk/news/articles/crx209kwk4kzo",
   "https://www.bbc.co.uk/news/articles/cwg7l5ve251ko",
   "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
   "https://www.bbc.co.uk/news/articles/cwz0k90rgpm8o",
+  "https://www.bbc.co.uk/news/articles/cx30g71rev23o",
   "https://www.bbc.co.uk/news/videos/c52e8ndplvemo",
   "https://www.bbc.co.uk/news/videos/c6evr2y40v0jo",
   "https://www.bbc.co.uk/news/videos/cm9309nwk7x9o",
@@ -243,6 +245,7 @@
   "https://www.bbc.co.uk/news/videos/cq808d704m22o",
   "https://www.bbc.co.uk/news/videos/cvglrz5yr79go",
   "https://www.bbc.co.uk/news/videos/cvze7yk7dy5lo",
+  "https://www.bbc.com/turkce/articles/c51k9z72nlrdo",
   "https://www.bbc.com/turkce/articles/c5742lzd1m20o",
   "https://www.bbc.com/turkce/articles/c63rg9vy987qo",
   "https://www.bbc.com/turkce/articles/c69q8yv2n1rno",
@@ -251,6 +254,7 @@
   "https://www.bbc.com/turkce/articles/ckedqgjqw1d4o",
   "https://www.bbc.com/turkce/articles/ckedqgw8xp2jo",
   "https://www.bbc.com/turkce/articles/ckn902gn0d8eo",
+  "https://www.bbc.com/turkce/articles/cm8940051ddwo",
   "https://www.bbc.com/turkce/articles/cmrlgzxy0rp6o",
   "https://www.bbc.com/turkce/articles/cmzx9wg64dxlo",
   "https://www.bbc.com/turkce/articles/cq39gdkr8knzo",
@@ -411,20 +415,25 @@
   "https://www.cumhuriyet.com.tr/turkiye/arnavutkoy-de-20-dakikalik-kovalamaca-kar-maskeli-3-supheli-yakalandi-kalasnikof-ele-gecirildi-2559513",
   "https://www.cumhuriyet.com.tr/turkiye/aym-den-ekrem-imamoglu-nun-tutukluluguna-iliskin-karar-hak-ihlali-yok-dendi-2559596",
   "https://www.cumhuriyet.com.tr/turkiye/aym-den-taraftarlari-ilgilendiren-kritik-karar-iki-kanun-hukmu-iptal-edildi-2559587",
+  "https://www.cumhuriyet.com.tr/turkiye/aym-tutuklu-cumhurbaskani-adayi-imamoglu-hakkinda-ihlal-karari-vermedi-2559713",
   "https://www.cumhuriyet.com.tr/turkiye/bakan-yumakli-ciftci-sayisinin-azalmasina-sebebi-buldu-modernitenin-getirmis-oldugu-yansimalar-2559618",
   "https://www.cumhuriyet.com.tr/turkiye/besiktas-ta-supheli-olum-otomobilde-silahla-vurulmus-halde-bulundu-2559561",
   "https://www.cumhuriyet.com.tr/turkiye/bicaklanan-17-yasindaki-genc-oldu-saldirgan-suc-aletiyle-yakalandi-2559775",
+  "https://www.cumhuriyet.com.tr/turkiye/bodrum-un-yesiline-turizm-bahanesiyle-beton-kusatmasi-2559788",
   "https://www.cumhuriyet.com.tr/turkiye/burdur-da-iki-otomobil-kafa-kafaya-carpisti-1-olu-2-si-agir-6-yarali-2559538",
+  "https://www.cumhuriyet.com.tr/turkiye/burdur-valisi-merkeze-cekildi-akp-li-vekil-tehdit-ediyor-demisti-2559781",
   "https://www.cumhuriyet.com.tr/turkiye/bursa-da-kadin-cinayeti-bosanma-asamasindaki-esini-okul-onunde-oldurup-intihar-etti-2559636",
   "https://www.cumhuriyet.com.tr/turkiye/cesedi-havlupana-asili-halde-bulunmustu-kizim-intihar-etmedi-2559700",
   "https://www.cumhuriyet.com.tr/turkiye/corum-da-kadin-cinayeti-esini-olduren-erkek-intihar-etti-2559599",
   "https://www.cumhuriyet.com.tr/turkiye/devlet-hastanesinde-bicak-parasi-ve-usulsuz-ameliyat-iddiasi-bakanlik-sorusturma-baslatti-2559529",
   "https://www.cumhuriyet.com.tr/turkiye/ehliyetsiz-surucunun-carptigi-kadin-oldu-17-yasindaki-surucu-gozaltina-alindi-2559772",
+  "https://www.cumhuriyet.com.tr/turkiye/ekrem-imamoglu-cumhuriyet-e-konustu-28-aylik-demokrasi-seferberligi-ilan-edelim-gerisi-kolay-2559773",
   "https://www.cumhuriyet.com.tr/turkiye/eski-bddk-baskani-sahap-kavcioglu-hakkinda-sorusturma-izni-2559516",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-de-halkin-mutfagi-hizmete-basladi-3-kap-sicak-yemek-50-tl-2559696",
   "https://www.cumhuriyet.com.tr/turkiye/eskisehir-deki-nadir-toprak-elementleri-konusunda-disisleri-nden-dikkat-ceken-yanit-imza-yok-calismalar-suruyor-2559624",
   "https://www.cumhuriyet.com.tr/turkiye/evinde-olu-bulunmustu-masterchef-sampiyonu-eren-kasikci-nin-otopsi-raporu-cikti-2559615",
   "https://www.cumhuriyet.com.tr/turkiye/feci-kaza-surucunun-cansiz-bedeni-1-5-saat-suren-calisma-sonucunda-cikartildi-2559743",
+  "https://www.cumhuriyet.com.tr/turkiye/fon-krizi-onergeleri-reddedilirken-meclis-baskanligi-da-genel-kurulu-isaret-etti-2559714",
   "https://www.cumhuriyet.com.tr/turkiye/fon-sorusturmasinda-yeni-gelisme-kemal-akkaya-adliyeye-sevk-edildi-2559625",
   "https://www.cumhuriyet.com.tr/turkiye/fon-soygununun-golgesinde-valiler-kararnamesi-tartismali-isimler-merkeze-cekildi-2559560",
   "https://www.cumhuriyet.com.tr/turkiye/gazeteci-ercan-kucuk-nato-haberi-nedeniyle-hakim-karsisina-cikti-dava-ertelendi-2559660",
@@ -443,13 +452,17 @@
   "https://www.cumhuriyet.com.tr/turkiye/kktc-deki-gemi-faciasinda-ikinci-kaptan-konustu-kaptan-tahliye-emri-vermeden-basmakinist-ile-birlikte-gemiden-kacti-2559783",
   "https://www.cumhuriyet.com.tr/turkiye/klikler-birbirlerine-operasyon-cekiyorlar-demisti-aydin-unal-dan-dikkat-ceken-fon-vurgunu-aciklamasi-sozun-bittigi-yerdeyiz-2559603",
   "https://www.cumhuriyet.com.tr/turkiye/komsulari-isiklarin-yanmadigini-fark-etti-evinde-olu-bulundu-2559724",
+  "https://www.cumhuriyet.com.tr/turkiye/lezzetle-sifanin-kesisme-noktasi-zeytinyagi-2559790",
   "https://www.cumhuriyet.com.tr/turkiye/lgs-kapsamindaki-merkezi-sinava-yonelik-ornek-sorular-yayimlandi-2559611",
+  "https://www.cumhuriyet.com.tr/turkiye/mesem-de-cocuklarin-is-guvenligi-ve-calisma-kosullarina-yonelik-denetimler-yetersiz-2559784",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-26-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559512",
   "https://www.cumhuriyet.com.tr/turkiye/milli-guvenlik-kurulu-bugun-toplanacak-iste-kritik-gundem-maddeleri-2559535",
   "https://www.cumhuriyet.com.tr/turkiye/mit-ten-siber-casusluk-operasyonu-kritik-kurumlarin-wi-fi-aglarini-hedef-alan-2-kisi-tutuklandi-2559572",
   "https://www.cumhuriyet.com.tr/turkiye/motosikletle-gelip-kursun-yagdirdilar-2-cocuk-yaralandi-2559789",
   "https://www.cumhuriyet.com.tr/turkiye/msb-den-malatya-ve-eskisehir-deki-helikopter-kazalarina-iliskin-aciklama-incelemeler-titizlikle-suruyor-2559586",
   "https://www.cumhuriyet.com.tr/turkiye/namik-tan-kimdir-yeni-parti-milletvekili-namik-tan-in-oglu-kim-neden-gozaltina-alindi-2559590",
+  "https://www.cumhuriyet.com.tr/turkiye/ogretmenler-atama-sayisini-yetersiz-buldu-gercek-ihtiyaca-adil-kadro-2559710",
+  "https://www.cumhuriyet.com.tr/turkiye/ozel-kuvvetler-de-gorevli-tabur-komutaninin-olumunde-calisma-kosullarinin-etkisi-arastirilmadi-2559708",
   "https://www.cumhuriyet.com.tr/turkiye/sakarya-da-20-kopek-olu-bulundu-valilikten-aciklama-geldi-2559606",
   "https://www.cumhuriyet.com.tr/turkiye/samsun-da-seyyar-saticiyi-el-sakasi-yaptigi-iddiasiyla-darbetti-2559562",
   "https://www.cumhuriyet.com.tr/turkiye/sanliurfa-da-3-uncu-kattan-dusen-kadin-oldu-olaya-iliskin-inceleme-baslatildi-2559600",
@@ -460,7 +473,10 @@
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-bakan-tekin-duyurdu-ogretmen-atamalari-ne-zaman-olacak-2559571",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-26-kasim-2026-nerede-ne-zaman-deprem-oldu-2559515",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-kemal-kilicdaroglu-devlet-bahceli-yi-ziyaret-edecek-2559609",
+  "https://www.cumhuriyet.com.tr/turkiye/tbmm-kit-komisyonu-nda-konusulmasini-istemediler-2559709",
   "https://www.cumhuriyet.com.tr/turkiye/toki-kiralik-konut-kurasi-ne-zaman-istanbul-toki-kiralik-konut-kura-tarihi-belli-oldu-mu-2559541",
+  "https://www.cumhuriyet.com.tr/turkiye/turk-ovun-calis-guven-mesaji-verdi-2559786",
+  "https://www.cumhuriyet.com.tr/turkiye/turkiye-cin-dostluk-vakfi-baskani-hasan-capan-a-cin-den-dostluk-elcisi-odulu-2559712",
   "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasi-ozcan-deniz-burcu-ozberk-ve-deniz-cakir-in-ifadeleri-ortaya-cikti-2559548",
   "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-sorusturmasinda-yeni-gelisme-3-kisiye-tutuklama-talebi-2559716",
   "https://www.cumhuriyet.com.tr/turkiye/unlulere-yonelik-uyusturucu-ve-fuhus-sorusturmasinda-dj-burak-yeter-gozaltina-alindi-2559544",
@@ -707,6 +723,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/untersuchung-zu-antisemitismus-kommt-201719622.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/vrm-beendet-druckauftrag-fuer-nius-wochenzeitung-201720215.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimer-und-proell-stellen-plan-fuer-europaeisches-tiktok-vor-201718951.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/maybrit-illner-im-zdf-und-die-frage-wo-gespart-werden-muss-accg-201721717.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/simon-abkarian-wird-neuer-chef-des-theatre-du-soleil-201720213.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/theater/wie-deutsche-kultur-auf-die-afd-reagieren-sollte-accg-201713925.html",
   "https://www.faz.net/aktuell/finanzen/andrea-orcel-will-aufsichtsratschef-der-commerzbank-werden-anstelle-von-jens-weidmann-accg-201718811.html",
@@ -732,6 +749,7 @@
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/dutzende-vermisste-in-indonesien-nach-ueberflutung-in-goldmine-accg-201715306.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/tanker-vor-ibiza-gesunken-neun-millionen-liter-treibstoffe-an-bord-accg-201718918.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/tankschiff-vor-ibiza-gesunken-behoerden-fuerchten-umweltkatastrophe-accg-201718918.html",
+  "https://www.faz.net/aktuell/gesellschaft/ungluecke/thanksgiving-sturm-chaos-an-der-us-ostkueste-und-new-yorker-parade-verschoben-accg-201721766.html",
   "https://www.faz.net/aktuell/gesellschaft/warnowbruecke-in-rostock-buergerschaft-stimmt-fuer-den-bau-201721510.html",
   "https://www.faz.net/aktuell/karriere-hochschule/anthropics-moralische-verfassung-fuer-ki-agenten-accg-201701353.html",
   "https://www.faz.net/aktuell/politik/ausland/berichte-ueber-antisemitische-aeusserungen-jordan-bardellas-201719432.html",
@@ -1083,6 +1101,7 @@
   "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
   "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
   "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
+  "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
   "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
   "https://www.welt.de/debatte/plus6b069898c75e09cb88d14f3e/streit-um-kassenleistungen-80-000-euro-fuer-eine-trans-op-nein-das-muss-die-solidargemeinschaft-nicht-zahlen.html",
   "https://www.welt.de/debatte/plus6b07da580ba62538f716de7c/spd-rentenplaene-besitzstandswahrung-auf-kosten-der-jugend.html",
