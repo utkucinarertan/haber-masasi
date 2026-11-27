@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T02:07+01:00",
+ "updatedAt": "2026-11-27T02:37+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-27T01:11:49+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/fussball/ausschreitungen-bei-besiktas-istanbul-europa-league-spiel-unterbrochen-accg-201721768.html",
+    "text": {
+     "tr": "Beşiktaş ile İsrail kulübü arasındaki Avrupa Ligi maçı, taraftarların çatışması ve güvenlik önlemleri nedeniyle 26. dakikada durduruldu.",
+     "de": "Das Europa-League-Spiel zwischen Beşiktaş und einem israelischen Verein wurde in der 26. Minute wegen Ausschreitungen und Zusammenstößen unterbrochen."
+    }
+   },
    {
     "time": "2026-11-27T01:05:00+01:00",
     "source": "Der Spiegel",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Şansölye Merz, AB liderlerinin gelecekteki bütçe görüşmelerini Perşembe günü erken saatlerde sonlandıracağını duyurdu.",
      "de": "Bundeskanzler Merz kündigte an, dass die EU-Staats- und Regierungschefs ihre Haushaltsberatungen bereits am Donnerstag beenden werden."
-    }
-   },
-   {
-    "time": "2026-11-26T22:21:09+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/sport/fussball/article6b08aeff09772de371850a3f/europapokal-freiburg-gewinnt-in-der-nachspielzeit-hoffenheim-dreht-partie.html",
-    "text": {
-     "tr": "SC Freiburg, TSG Hoffenheim ve Bayer Leverkusen Avrupa kupalarında oynadıkları karşılaşmaları kazandı.",
-     "de": "Im Europapokal haben der SC Freiburg, die TSG Hoffenheim und Bayer Leverkusen ihre Spiele gewonnen."
     }
    }
   ],
@@ -802,6 +802,7 @@
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/schaeffler-schliesst-standort-schwalbach-ende-einer-aera-accg-201681246.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/weniger-hessenfonds-foerderung-fuer-unternehmensnachfolge-201719486.html",
   "https://www.faz.net/aktuell/sport/formel-1/hamilton-und-leclerc-schweigen-ferrari-verhaengt-maulkorb-201721420.html",
+  "https://www.faz.net/aktuell/sport/fussball/ausschreitungen-bei-besiktas-istanbul-europa-league-spiel-unterbrochen-accg-201721768.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/florian-wirtz-begeistert-fc-liverpool-in-champions-league-in-bruegge-accg-201719181.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmich-zu-fall-jamal-musiala-attacke-auf-fc-bayern-muenchen-bosse-accg-201718387.html",
   "https://www.faz.net/aktuell/sport/fussball/champions-league/joshua-kimmichs-kritik-an-fc-bayern-bossen-im-fall-jamal-musiala-accg-201718387.html",
@@ -870,6 +871,7 @@
   "https://www.france24.com/en/aid-cuts-to-taliban-ruled-afghanistan-further-curb-women-s-access-to-healthcare-education-and-food",
   "https://www.france24.com/en/americas/20261126-unacceptable-major-economies-push-back-against-new-us-tariffs",
   "https://www.france24.com/en/asia-pacific/20261126-huge-explosion-at-oil-depot-in-bangkok-sends-fireball-into-sky",
+  "https://www.france24.com/en/citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
   "https://www.france24.com/en/europe-has-two-kinds-of-countries-small-countries-those-that-haven-t-yet-realised-they-re-small",
   "https://www.france24.com/en/europe/20261126-eu-leaders-face-showdown-over-ukraine-funding-as-divisions-deepen",
   "https://www.france24.com/en/europe/20261126-how-far-right-vox-winning-over-young-voters-ahead-spain-snap-election",
@@ -887,8 +889,10 @@
   "https://www.france24.com/en/middle-east/20261126-iraqi-court-to-sentence-20-french-nationals-for-is-group-membership",
   "https://www.france24.com/en/middle-east/20261126-israel-threatens-to-displace-one-million-palestinians-in-gaza-unless-hamas-disarms",
   "https://www.france24.com/en/nigeria-faces-rising-election-violence-in-run-up-to-vote",
+  "https://www.france24.com/en/rn-s-antisemitic-past-coming-back-to-haunt-them-will-le-pen-distance-herself-from-bardella",
   "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president",
   "https://www.france24.com/en/trump-urges-putin-to-end-military-aggression-in-europe",
+  "https://www.france24.com/en/tv-shows/a-propos/20261126-citizens-angry-with-the-establishment-as-spain-heads-to-the-polls",
   "https://www.france24.com/en/tv-shows/arts24/20261126-lost-homes-stolen-freedom-national-book-award-winners-on-exile-and-imprisonment",
   "https://www.france24.com/en/tv-shows/entre-nous/20261126-sacr%C3%A9-sel-france-s-love-of-salt",
   "https://www.france24.com/en/tv-shows/entre-nous/20261126-seasons-eatings-celebrating-thanksgiving-in-france",
@@ -899,8 +903,10 @@
   "https://www.france24.com/en/tv-shows/sports/20261126-injury-hit-psg-drop-first-points-of-champions-league-campaign-against-roma",
   "https://www.france24.com/en/tv-shows/spotlight/20261126-it-s-really-outrageous-women-face-violence-in-the-streets-and-what-we-see-online-is-even-worse",
   "https://www.france24.com/en/tv-shows/the-debate/20261126-sanchez-s-big-gamble-will-spain-swing-from-socialists-to-hard-right",
+  "https://www.france24.com/en/tv-shows/truth-or-fake/20261126-is-spain-s-snap-election-being-rigged-debunking-viral-claims",
   "https://www.france24.com/en/video/20261126-%C3%A9milie-k%C3%B6nig-the-muse-of-the-islamic-state-group-goes-on-trial-in-france",
   "https://www.france24.com/en/video/20261126-alleged-islamic-state-group-propagandist-emily-konig-on-trial-in-france",
+  "https://www.france24.com/en/video/20261126-black-friday-hype-stems-from-a-desire-to-be-part-of-a-collective-event-expert-says",
   "https://www.france24.com/en/video/20261126-egypt-31-people-killed-in-cairo-after-fuel-truck-overturns",
   "https://www.france24.com/en/video/20261126-eu-budget-talks-france-seeks-to-protect-common-agricultural-policy-subsidies",
   "https://www.france24.com/en/video/20261126-eu-chief-urges-leaders-to-compromise-for-budget-deal-by-year-end",
@@ -1001,6 +1007,7 @@
   "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
   "https://www.tagesschau.de/ausland/asien/mehr-frauen-in-russland-sterben-durch-gewalt-100.html",
   "https://www.tagesschau.de/ausland/asien/tote-aus-gefluteter-goldmine-geborgen-indonesien-100.html",
+  "https://www.tagesschau.de/ausland/europa/dodik-bosnien-sohn-100.html",
   "https://www.tagesschau.de/ausland/europa/eu-haushalt-ukraine-100.html",
   "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
   "https://www.tagesschau.de/ausland/europa/slowakei-blockiert-eu-haushalt-100.html",
