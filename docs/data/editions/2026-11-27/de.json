@@ -1,0 +1,789 @@
+{
+ "date": "2026-11-27",
+ "updatedAt": "2026-11-27T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "b7c0c5952472906c",
+   "overview": "Deutschland erlebte einen intensiv geprägten Nachrichten- und Politiktag, der von innenpolitischen Reformdebatten und außenpolitischen Spannungen bestimmt wurde. Während in Brüssel der EU-Sondergipfel zum Haushalt unter der harten Haltung von Bundeskanzler Merz vorzeitig abgebrochen wurde, brachten Tarifeinigungen und Rentendiskussionen Bewegung in die deutsche Wirtschaftspolitik. Gleichzeitig warfen der tödliche Drohnenangriff auf Rheinmetall-Mitarbeiter in Kuwait und Antiterror-Festnahmen in Köln und Heidelberg schwere sicherheitspolitische Fragen auf.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Terrorverdacht: Zwei Festnahmen in Köln und Heidelberg",
+     "summary": "Die Bundesanwaltschaft hat in Köln und Heidelberg zwei mutmaßliche Mitglieder einer pro-iranischen Gruppe festnehmen lassen. Den Männern wird vorgeworfen, Anschläge geplant zu haben, möglicherweise auch auf eine Synagoge in Köln.",
+     "category": "Inland",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/terrorverdacht-festnahmen-102.html",
+     "time": "2026-11-26T10:39:12+01:00"
+    },
+    {
+     "title": "Familienministerin Prien plädiert für bildschirmfreie Zeit bei Kleinkindern",
+     "summary": "Bundesfamilienministerin Prien hat sich dafür ausgesprochen, dass Kleinkinder in den ersten drei Lebensjahren ohne Bildschirme wie Smartphones, Tablets oder Fernseher aufwachsen. Sie begründete dies mit der Ablenkung und den Risiken durch digitale Medien im frühen Kindesalter.",
+     "category": "Innenpolitik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/prien-fuer-bildschirmfreie-kleinkindzeit-100.html",
+     "time": "2026-11-26T10:07:40+01:00"
+    },
+    {
+     "title": "Bundesverwaltungsgericht entscheidet über Waffenbesitz für frühere AfD-Jugendmitglieder",
+     "summary": "Eine Organisation unter Extremismusverdacht reicht laut einem Urteil des Bundesverwaltungsgerichts nicht aus, um Mitgliedern waffenrechtliche Erlaubnisse zu entziehen. Geklagt hatten zuvor Politiker der Alternative für Deutschland.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/afd-waffen-urteil-100.html",
+     "time": "2026-11-26T12:39:55+01:00"
+    },
+    {
+     "title": "Erzbistum Köln muss Rekordschmerzensgeld an Missbrauchsopfer zahlen",
+     "summary": "Das Oberlandesgericht Köln hat entschieden, dass das Erzbistum Köln einem Betroffenen 550.000 Euro Schmerzensgeld zahlen muss. Es handelt sich dabei um die bisher höchste Summe in einem solchen Fall in Deutschland.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/missbrauch-kirche-schmerzensgeld-102.html",
+     "time": "2026-11-26T14:37:34+01:00"
+    },
+    {
+     "title": "Wintereinbruch in Bayern sorgt für Verkehrsbehinderungen",
+     "summary": "In Oberbayern haben kräftige Schneefälle zu zahlreichen Verkehrsunfällen und vorübergehenden Sperrungen von Autobahnen geführt. Meteorologen prognostizieren für die kommenden Tage weiterhin frostiges Wetter im Süden.",
+     "category": "Wetter",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wetter/wetterthema/schnee-bayern-autobahnsperrung-100.html",
+     "time": "2026-11-26T22:54:39+01:00"
+    },
+    {
+     "title": "EU-Sondergipfel nach heftigem Streit um den Haushalt vorzeitig beendet",
+     "summary": "Wegen unüberbrückbarer Differenzen unter den EU-Staaten wurde der Sondergipfel zum langfristigen Haushalt vorzeitig abgebrochen. Bundeskanzler Friedrich Merz hatte zuvor auf weiteren Kürzungen und Rabatten für Deutschland beharrt.",
+     "category": "Europa",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+     "time": "2026-11-27T01:02:22+01:00"
+    },
+    {
+     "title": "Tarifeinigung in der deutschen Metall- und Elektroindustrie erzielt",
+     "summary": "Arbeitgeber und die Gewerkschaft IG Metall haben sich auf ein Lohnplus von insgesamt 4,3 Prozent in zwei Stufen geeinigt. Der Pilotabschluss sieht unter bestimmten Bedingungen auch betriebliche Ausnahmen vor.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/tarifabschluss-metall-elektroindustrie-100.html",
+     "time": "2026-11-26T17:43:33+01:00"
+    },
+    {
+     "title": "Spanier Pablo Hernández de Cos soll neuer EZB-Präsident werden",
+     "summary": "Als Nachfolger der im Februar ausscheidenden EZB-Chefin Christine Lagarde haben sich die EU-Spitzen auf den spanischen Notenbanker Pablo Hernández de Cos geeinigt. Auch von der Bundesregierung wird er unterstützt.",
+     "category": "Finanzen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wirtschaft/ezb-chef-de-cos-100.html",
+     "time": "2026-11-26T18:28:08+01:00"
+    },
+    {
+     "title": "Mitarbeiter des Rüstungskonzerns Rheinmetall bei Angriff in Kuwait getötet",
+     "summary": "Bei einem Drohnenangriff in Kuwait sind zwei italienische Mitarbeiter des deutschen Rüstungsunternehmens Rheinmetall ums Leben gekommen. Rom macht den Iran für die Attacke verantwortlich, während Teheran dies dementiert.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/ausland/asien/kuwait-tote-angriff-kuwait-100.html",
+     "time": "2026-11-26T19:08:12+01:00"
+    },
+    {
+     "title": "BGH stärkt Mieterrechte bei Balkonkraftwerken",
+     "summary": "Mieter haben grundsätzlich einen Anspruch darauf, Solaranlagen an ihren Balkonen zu installieren. Der Bundesgerichtshof hat klargestellt, dass Vermieter dies nur in wenigen Ausnahmefällen untersagen dürfen.",
+     "category": "Verbraucher",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/verbraucher/mietrecht-balkonkraftwerke-bgh-100.html",
+     "time": "2026-11-26T14:29:47+01:00"
+    },
+    {
+     "title": "Softwarekonzern SAP wird Ziel eines Hackerangriffs",
+     "summary": "Der deutsche Softwarehersteller SAP kämpft nach SPIEGEL-Informationen mit den Folgen eines Cyberangriffs. Es wurden verdächtige Aktivitäten identifiziert, bei denen möglicherweise auch Künstliche Intelligenz im Spiel war.",
+     "category": "IT-Sicherheit",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/sap-wird-opfer-von-hackerangriff-a-6648b5ce-5d74-48dc-86ea-9469705bb91d#ref=rss",
+     "time": "2026-11-26T20:14:00+01:00"
+    },
+    {
+     "title": "Deutsche Unternehmen forschen an Technologie für Waffendepots im All",
+     "summary": "Angesichts der globalen Sicherheitslage rückt der Weltraum stärker in den Fokus der Verteidigung. Eine neue Technologie aus Deutschland soll den raschen Transport von Ausrüstung und Materialien aus dem Erdorbit ermöglichen.",
+     "category": "Forschung",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/wissen/waffendepots-orbit-100.html",
+     "time": "2026-11-26T20:15:35+01:00"
+    },
+    {
+     "title": "Sparkassen bereiten Unterstützung für Google Pay vor",
+     "summary": "In aktuellen Updates der Sparkassen-App wurden Hinweise auf eine kommende Anbindung von Google Pay entdeckt. Der zuständige Sparkassenverband hat diese neue Funktion inzwischen offiziell bestätigt.",
+     "category": "Digitalisierung",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Sparkassen-bringen-Unterstuetzung-fuer-Google-Pay-11538771.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-26T10:45:00+01:00"
+    },
+    {
+     "title": "Ausserplanmässiges Update für Windows Server 2025 veröffentlicht",
+     "summary": "Microsoft hat ein schnelles Update bereitgestellt, um einen schwerwiegenden Absturzfehler mit dem Fehlercode 0x139 zu beheben. Betroffen waren Server-Systeme, die mit den November-Hotpatches aktualisiert worden waren.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Ausserplanmaessiges-Update-fuer-Windows-Server-2025-behebt-Absturzfehler-11538601.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-26T09:27:00+01:00"
+    },
+    {
+     "title": "Sicherheitsbehörde warnt vor laufenden Angriffssektoren auf Netzwerkhardware",
+     "summary": "Die US-IT-Sicherheitsbehörde hat eine dringende Warnung vor aktiven Ausnutzungen von zehn verschiedenen Sicherheitslücken herausgegeben. Betroffen sind unter anderem Produkte namhafter Netzwerk- und Gerätehersteller.",
+     "category": "Cyber-Security",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Angriffswarnung-auf-Danfoss-Geraete-HPE-Juniper-Router-Mitel-MiCollab-und-XO-11538657.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-26T10:12:00+01:00"
+    },
+    {
+     "title": "Füchse Berlin gewinnen deutsches Champions-League-Duell gegen Melsungen",
+     "summary": "In der EHF Champions League haben die Füchse Berlin das hart umkämpfte deutsche Duell gegen die MT Melsungen mit 33:29 für sich entschieden. Angeführt von Matchwinner Mathias Gidsel wahren die Berliner damit ihre Chancen.",
+     "category": "Handball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/hr/hr-mt-melsungen-unterliegt-im-deutsch-deutschen-champions-league-duell-berlin-100.html",
+     "time": "2026-11-26T23:22:58+01:00"
+    },
+    {
+     "title": "SC Freiburg feiert späten Last-Minute-Sieg gegen Twente Enschede",
+     "summary": "Der SC Freiburg hat in der Conference League ein packendes Heimspiel gegen Twente Enschede mit 2:1 gewonnen. Nach einem verschossenen Elfmeter von Matthias Ginter traf Jan-Niklas Beste in der Nachspielzeit zum entscheidenden Treffer.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/swr/swr-traumtor-und-spaetes-drama-sc-freiburg-jugelt-gegen-twente-enschede-100.html",
+     "time": "2026-11-26T23:25:00+01:00"
+    },
+    {
+     "title": "DHB-Frauen überzeugen im EM-Test gegen Frankreich",
+     "summary": "Die deutschen Handballerinnen haben bei ihrem vorletzten Testspiel vor der Europameisterschaft gegen Frankreich eine starke Leistung gezeigt. Mit stabiler Defensive und effizientem Angriff weckte das Team berechtigte Hoffnungen auf Edelmetall.",
+     "category": "Handball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/handball/nationalmannschaft/dhb-frauen-gegen-frankreich-schon-in-em-form,spielbericht-test-dhb-frauen-frankreich-100.html",
+     "time": "2026-11-26T22:04:08+01:00"
+    },
+    {
+     "title": "U21-Nationalmannschaft hat Losglück bei EM-Auslosung",
+     "summary": "Die deutsche U21-Fußballnationalmannschaft geht den Top-Favoriten bei der EM im Sommer 2027 zunächst aus dem Weg. In Gruppe D trifft das DFB-Team auf die Auswahl von Norwegen, Belgien und den Niederlanden.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/fussball/u21/u21-sub-mit-losglueck-duell-mit-niederlanden,auslosung-u21-em-albanien-serbien-100.html",
+     "time": "2026-11-26T20:38:45+01:00"
+    },
+    {
+     "title": "Deutschland nach Niederlage gegen Großbritannien aus dem Davis Cup ausgeschieden",
+     "summary": "Die deutsche Tennis-Auswahl hat beim Davis Cup in Bologna eine ordentliche Leistung gezeigt, musste sich jedoch Großbritannien geschlagen geben. Künftig strebt der Verband eine Verjüngung des Teams an.",
+     "category": "Tennis",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/tennis/davis-cup/davis-cup-deutschland-aus-verjuengung,davis-cup-deutschland-ausgeschieden-100.html",
+     "time": "2026-11-26T20:14:36+01:00"
+    },
+    {
+     "title": "Kulturstaatsminister Weimer wirbt für Plan zur Übertragung des Tiktok-Europageschäfts",
+     "summary": "Der Kulturstaatsminister treibt den Plan voran, Tiktok zur Ausgliederung seines Europageschäfts in ein Joint Venture zu drängen. Nach Regierungsangaben mangelt es dem Vorhaben weder an Unterstützern noch an potenziellen Investoren.",
+     "category": "Medienpolitik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/weimer-und-proell-stellen-plan-fuer-europaeisches-tiktok-vor-201718951.html",
+     "time": "2026-11-26T18:14:20+00:00"
+    },
+    {
+     "title": "Medienunternehmen VRM beendet Druckauftrag für rechtes Portal 'Nius'",
+     "summary": "Nach massiver Kritik aus verschiedenen Kreisen hat die Mainzer Verlagsgruppe VRM beschlossen, die gedruckte Wochenzeitung des rechten Portals 'Nius' nicht mehr zu produzieren. Der Schritt stößt sowohl auf Zustimmung als auch auf Kritik.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/vrm-beendet-druckauftrag-fuer-nius-wochenzeitung-201720215.html",
+     "time": "2026-11-26T15:45:14+00:00"
+    },
+    {
+     "title": "Angriff auf Mitarbeiter des rechtsextremen Magazins 'Compact' in Berlin",
+     "summary": "In Berlin sind zwei Mitarbeiter des rechtsextremen Mediums 'Compact' angegriffen worden. Die Ermittlungen zu dem Vorfall wurden vom polizeilichen Staatsschutz aufgenommen.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/angriff-auf-mitarbeiter-des-rechtsextremistischen-magazins-compact-201721268.html",
+     "time": "2026-11-26T17:41:35+00:00"
+    },
+    {
+     "title": "Deutschlandradio kündigt umfassenden Umbau des Deutschlandfunk-Programms an",
+     "summary": "Das Deutschlandradio hat eine weitreichende Umgestaltung des Programms des Deutschlandfunks angekündigt. Kritiker begleiten die Reformpläne des öffentlich-rechtlichen Rundfunks vorerst mit Skepsis.",
+     "category": "Rundfunk",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/deutschlandradio-verbraemt-totalumbau-beim-deutschlandfunk-201720488.html",
+     "time": "2026-11-26T15:51:51+00:00"
+    },
+    {
+     "title": "Christian Ulmen erwirkt einstweilige Verfügung gegen 'Spiegel'-Bericht",
+     "summary": "Das Landgericht Berlin hat dem Nachrichtenmagazin 'Spiegel' untersagt, einen Artikel über polizeiliche Ermittlungen zu einer Auseinandersetzung des Schauspielers Christian Ulmen mit seiner Ex-Frau weiter zu verbreiten.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/ulmen-erwirkt-einstweilige-verfuegung-gegen-spiegel-accg-201718936.html",
+     "time": "2026-11-26T12:11:14+00:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "922c7360b5f32bf6",
+   "overview": "Die heutigen Nachrichten werden von innenpolitischen Entwicklungen, Personalrochaden in der Wirtschaftsführung und den Europapokalspielen türkischer Fußballvereine dominiert. Während die politische Debatte nach der Entscheidung des Verfassungsgerichts zu Ekrem İmamoğlu anhält, standen die Neubesetzung an der Spitze der Bankenaufsicht BDDK und Erklärungen zu den Fondsermittlungen im Zentrum des wirtschaftlichen Interesses. Zudem sorgten die internationalen Begegnungen von Beşiktaş und Trabzonspor für Schlagzeilen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Verfassungsgericht lehnt Antrag von Ekrem İmamoğlu ab",
+     "summary": "Das Plenum des Verfassungsgerichts hat über die Individualbeschwerde des inhaftierten Istanbuler Großbürgermeisters Ekrem İmamoğlu entschieden. Obwohl das Gericht die Beschwerde bezüglich der langen Untersuchungshaft für zulässig erachtete, stellte es mehrheitlich keine Grundrechtsverletzung fest.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "Diken",
+     "url": "https://www.diken.com.tr/imamoglu-icin-aym-karari-ihlal-yok/",
+     "time": "2026-11-26T19:50:00+00:00"
+    },
+    {
+     "title": "Kommuniqué nach Sitzung des Nationalen Sicherheitsrates veröffentlicht",
+     "summary": "Nach der unter dem Vorsitz von Präsident Erdoğan abgehaltenen Sitzung des Nationalen Sicherheitsrates wurde ein Kommuniqué veröffentlicht. Darin wurde betont, dass der Kampf gegen den Terrorismus entschlossen fortgesetzt und keine Konzessionen gegenüber organisierten Verbrecherbanden gemacht werden.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/mgk-bildirisi-yayimlandi-terorsuz-turkiye-surecinde-kararlilik-mesaji-2086488",
+     "time": "2026-11-27T00:01:57+03:00"
+    },
+    {
+     "title": "Europaparlament fordert Maßnahmen gegen Türkei-Libyen-Abkommen",
+     "summary": "Das Europaparlament hat das Seerechtsabkommen zwischen der Türkei und Libyen als völkerrechtswidrig eingestuft. Ankara wies die Entscheidung als parteiisch und unbegründet zurück.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cvde1371y6z3o",
+     "time": "2026-11-26T12:08:25+00:00"
+    },
+    {
+     "title": "Özgür Özel trifft DEM-Partei-Vorsitzende zum Abendessen",
+     "summary": "Der Vorsitzende der Yeni Parti, Özgür Özel, ist mit den Co-Vorsitzenden der DEM-Partei, Tülay Hatimoğulları und Tuncer Bakırhan, zu einem Arbeitsessen zusammengekommen. Bei dem Treffen wurden aktuelle politische Entwicklungen besprochen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/ozel-dem-parti-es-genel-baskanlariyla-yemekte-bulustu-2086492",
+     "time": "2026-11-27T00:43:45+03:00"
+    },
+    {
+     "title": "Bewaffneter Angriff in Bağcılar: Zwei Kinder verletzt",
+     "summary": "Im Istanbuler Stadtteil Bağcılar haben zwei mutmaßliche Täter auf einem Motorrad das Feuer vor einem Friseursalon eröffnet. Bei dem Angriff wurden ein 16-Jähriger und ein unbeteiligtes 12-jähriges Kind verletzt und ins Krankenhaus gebracht.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/bagcilarda-sokak-ortasinda-silahli-saldiri-12-ve-16-yasindaki-iki-cocuk-2086495",
+     "time": "2026-11-27T02:37:00+03:00"
+    },
+    {
+     "title": "Yusuf Kenan Bağır zum BDDK-Vorsitzenden ernannt",
+     "summary": "Nach der Erteilung der Ermächtigung für Ermittlungen gegen den ehemaligen Chef Şahap Kavcıoğlu ist die Führungskrise bei der Bankenaufsicht BDDK beendet. Per Dekret im Amtsblatt wurde Yusuf Kenan Bağır zum neuen Präsidenten der Behörde ernannt.",
+     "category": "Personalie",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/bddk-baskanligina-yusuf-kenan-bagir-atandi-2086494",
+     "time": "2026-11-27T02:10:00+03:00"
+    },
+    {
+     "title": "EU-Automobilverordnung schließt die Türkei aus",
+     "summary": "In den neuen EU-Vorschriften für den Automobilsektor werden Anreize für Großbritannien geschaffen, während die Türkei vom Geltungsbereich ausgenommen wurde. Die Entscheidung sorgt trotz enger Lieferketten für Besorgnis in Exportkreisen.",
+     "category": "Außenhandel",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/gumruk-birligi-ortagina-avrupa-dan-veto-ingiltere-ye-tesvik-turkiye-ye-dislama-2559689",
+     "time": "2026-11-26T17:50:00+03:00"
+    },
+    {
+     "title": "Aktuelle Zahlen zu den Fondsermittlungen bekannt gegeben",
+     "summary": "Auf einer gemeinsamen Pressekonferenz hochrangiger Regierungsmitglieder wurden Details zu den Fondsermittlungen genannt. Demnach gibt es 638 Verdächtige, und es wurden über 45 Milliarden Türkische Lira sichergestellt.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Medyascope",
+     "url": "https://medyascope.tv/2026/11/26/45-milyar-tl-tahsil-edildi-638-supheli-var/",
+     "time": "2026-11-26T18:44:50+00:00"
+    },
+    {
+     "title": "Zwei neue Schritte der Zentralbank",
+     "summary": "Die Zentralbank der Republik Türkei hat einwöchige Repogeschäfte vorübergehend ausgesetzt. Zudem wurden die Zinssätze für Mindestreserven auf Einlagen in Türkischen Lira angepasst.",
+     "category": "Notenbank",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/tcmb-den-iki-yeni-hamle-repo-ihalelerine-durduruldu-zorunlu-karsilik-orani-degisti-2559734",
+     "time": "2026-11-26T22:44:00+03:00"
+    },
+    {
+     "title": "Zentralbank setzt Ankauf von inländischem Gold aus",
+     "summary": "Die Zentralbank der Republik Türkei hat den Ankauf von im Inland aus Erzen gewonnenem Gold vorübergehend eingestellt. Gründe und Dauer der Maßnahme wurden zunächst nicht mitgeteilt.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Euronews Türkçe İş",
+     "url": "https://tr.euronews.com/2026/11/26/merkez-bankasi-yurt-icinde-cevherden-uretilen-altin-alimina-ara-verdi",
+     "time": "2026-11-26T10:54:15+01:00"
+    },
+    {
+     "title": "GTA VI verursacht technische Probleme bei einigen PlayStation 5",
+     "summary": "Einige Spieler haben beim Ausführen des neuen Spiels GTA VI von Hardware-Problemen auf ihren Konsolen berichtet. Nutzer teilten in sozialen Medien mit, dass es zu Abstürzen und Überhitzungen bis hin zu Defekten während des Spielens kam.",
+     "category": "Gaming",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/gta-vi-bazi-playstation-5-lerde-sorun-cikartti-bazi-konsollar-oyunu-oynarken-yanmaya-basladi-2559719",
+     "time": "2026-11-26T21:48:00+03:00"
+    },
+    {
+     "title": "Beitrag zur heimischen Chip-Technologie von der Istanbul Gelişim Universität",
+     "summary": "Die Istanbul Gelişim Universität trägt im Rahmen ihrer Forschungs- und Entwicklungsaktivitäten im Bereich Ingenieurwesen zur Entwicklung innovativer einheimischer Chip-Technologien bei.",
+     "category": "Forschung",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/istanbul-gelisim-universitesi-nden-yerli-cip-teknolojilerine-katki-ar-chip-h229495",
+     "time": "2026-11-26T17:36:40+03:00"
+    },
+    {
+     "title": "Plattform X führt erstmals Kindersicherung ein",
+     "summary": "Die Social-Media-Plattform X hat neue Kindersicherungsfunktionen für jugendliche Nutzer im Alter zwischen 13 und 17 Jahren freigeschaltet.",
+     "category": "Social Media",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/x-e-ilk-kez-ebeveyn-kontrolu-eklendi-iste-detaylar-h229490",
+     "time": "2026-11-26T17:57:47+03:00"
+    },
+    {
+     "title": "WhatsApp bereitet eSIM-Dienst für Auslandsreisen vor",
+     "summary": "Der Messengerdienst WhatsApp testet eine integrierte eSIM- und Datenpaketfunktion, die das Wechseln physischer SIM-Karten bei Auslandsreisen überflüssig machen soll.",
+     "category": "Software",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/whatsapp-esim-hizmeti-sunmaya-hazirlaniyor-h229513",
+     "time": "2026-11-26T17:57:19+03:00"
+    },
+    {
+     "title": "Neue Batterietechnologie soll Elektroautos in vier Minuten laden",
+     "summary": "Forscher haben ein neues Grafitmaterial entwickelt, mit dem Batterien von Elektrofahrzeugen in vier Minuten aufgeladen werden und die Produktionskosten gesenkt werden können.",
+     "category": "Innovation",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/elektrikli-araclari-dort-dakikada-sarj-edecek-batarya-teknolojisi-h229525",
+     "time": "2026-11-26T17:57:34+03:00"
+    },
+    {
+     "title": "Beşiktaş schlägt Hapoel in Batumi mit 2:1",
+     "summary": "In der UEFA Europa League traf Beşiktaş in einer aus Sicherheitsgründen im georgischen Batumi ausgetragenen Partie auf den israelischen Club Hapoel. Die Schwarz-Weißen gewannen das Spiel durch Tore von Olaitan und Orkun Kökçü mit 2:1.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cwdd82qpd89mo",
+     "time": "2026-11-27T01:29:04+00:00"
+    },
+    {
+     "title": "Trabzonspor besiegt ZSKA Sofia auswärts mit 2:1",
+     "summary": "In der UEFA Conference League drehte Trabzonspor das Auswärtsspiel gegen den bulgarischen Vertreter ZSKA Sofia nach Rückstand und gewann mit 2:1. Die Tore für den Schwarz-Meer-Club fielen in der zweiten Halbzeit.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/spor-haberleri/firtina-avrupada-esti-trabzonspor-cska-sofyayi-903te-devirdi-2086493",
+     "time": "2026-11-27T01:06:33+03:00"
+    },
+    {
+     "title": "Türkische Basketball-Nationalmannschaft verliert in Italien",
+     "summary": "Die türkische Basketball-Nationalmannschaft hat ihr drittes Spiel in der Gruppe J der zweiten Qualifikationsrunde zur FIBA Weltmeisterschaft 2027 auswärts gegen Italien mit 86:72 verloren. Damit kassierte das Team seine erste Niederlage.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/12-dev-adam-italya-deplasmaninda-kayip-2559768",
+     "time": "2026-11-27T00:15:00+03:00"
+    },
+    {
+     "title": "Amedspor trennt sich von Mbaye Diagne",
+     "summary": "Amedspor hat bekannt gegeben, dass der Verein sich im gegenseitigen Einvernehmen von Stürmer Mbaye Diagne getrennt hat, nachdem es seit Saisonbeginn zu diversen Problemen gekommen war.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Medyascope",
+     "url": "https://medyascope.tv/2026/11/26/amedspor-mbaye-diagne-ile-yollarini-ayirdi/",
+     "time": "2026-11-26T18:25:40+00:00"
+    },
+    {
+     "title": "TFF-Präsident Hacıosmanoğlu äußert sich zum Spiel in Batumi",
+     "summary": "Der Präsident des Türkischen Fußballverbandes (TFF), İbrahim Hacıosmanoğlu, hat sich zu dem in Georgien ausgetragenen Spiel zwischen Beşiktaş und Hapoel geäußert. Er erklärte, dass man israelische Mannschaften nicht in der Türkei spielen lassen wolle.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/tff-baskani-macin-neden-batum-da-oynandigini-acikladi-israil-takimlarini-turkiye-ye-biz-istemiyoruz-2559791",
+     "time": "2026-11-27T01:04:00+03:00"
+    },
+    {
+     "title": "Stadttheater Istanbul führt das Stück 'Köşebaşı' auf",
+     "summary": "Die Stadttheater der Großstadtkommune Istanbul haben das von Ahmet Kutsi Tecer verfasste und 1947 uraufgeführte Theaterstück 'Köşebaşı' auf der Bühne des Harbiye Muhsin Ertuğrul aufgeführt.",
+     "category": "Theater",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/sehir-tiyatrosu-nun-cinarlari-kosebasi-oyunuyla-sahnedeydi-2559674",
+     "time": "2026-11-26T17:08:00+03:00"
+    },
+    {
+     "title": "Ausstellung 'Lebensbaum' im Atatürk Kulturzentrum eröffnet",
+     "summary": "Das Motiv des Lebensbaums als bedeutendes Symbol des kulturellen Gedächtnisses wird im Atatürk Kulturzentrum durch Interpretationen von neun zeitgenössischen Künstlern präsentiert.",
+     "category": "Ausstellung",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/hayat-agaci-akm-de-sanatseverler-ile-bulusuyor-2559635",
+     "time": "2026-11-26T15:18:00+03:00"
+    },
+    {
+     "title": "Pera-Museum richtet Konferenz zu Ehren von John Berger aus",
+     "summary": "Anlässlich des 100. Geburtstags von John Berger veranstaltet das Pera-Museum in Zusammenarbeit mit Metis Yayınları eine Konferenz zu Ehren des Autors und Kunstkritikers.",
+     "category": "Veranstaltung",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/john-berger-in-100-yasi-konferansi-2559675",
+     "time": "2026-11-26T17:11:00+03:00"
+    },
+    {
+     "title": "Ankara-Gespräche der Geschichtsstiftung werden fortgesetzt",
+     "summary": "Im Rahmen der Ankara-Gespräche der Geschichtsstiftung hält Gözde Somel einen Vortrag zum Thema 'Sowjetische Kulturdiplomatie in der Türkei im Schatten des Krieges 1939-1945'.",
+     "category": "Vortrag",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/tarih-vakfi-nda-gozde-somel-konusmasi-2559676",
+     "time": "2026-11-26T17:13:00+03:00"
+    },
+    {
+     "title": "350. Geburtstag von Mıkhitar Appahayr wird gefeiert",
+     "summary": "Der Gründer der Mechitaristenkongregation, Mıkhitar Appahayr, wird zu seinem 350. Geburtstag mit Veranstaltungen in Venedig, Eriwan und an der Pangaltı-Mechitaristen-Schule in Istanbul gewürdigt.",
+     "category": "Kultur",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Agos",
+     "url": "https://www.agos.com.tr/tr/haber/mikhitar-appahayr-350-yasinda-42629",
+     "time": "2026-11-26T10:50:00+03:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "543b779d157da65d",
+   "overview": "Das globale Geschehen zeigt ein vielschichtiges Bild, in dem diplomatische und innenpolitische Spannungen eng mit wirtschaftlichen und technologischen Entwicklungen verknüpft sind. Während in Europa Haushaltsstreitigkeiten und Führungswechsel dominieren, sorgen in Asien nukleare Drohungen und Wahlen für anhaltende Sicherheitsbedenken. Gleichzeitig runden massive Investitionen im Technologiesektor und wichtige Sportereignisse das aktuelle Weltgeschehen ab.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "EU-Sondergipfel nach tiefen Differenzen vorzeitig beendet",
+     "summary": "Der EU-Sondergipfel der 27 Staats- und Regierungschefs ist wegen unüberbrückbarer Differenzen vorzeitig abgebrochen worden. Bundeskanzler Friedrich Merz erklärte, dass der zweite Tag des Treffens angesichts der weiten Vorstellungen zum EU-Haushalt ausfallen müsse.",
+     "category": "Diplomasi",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau Ausland",
+     "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-vorzeitig-beendet-100.html",
+     "time": "2026-11-27T01:02:22+01:00"
+    },
+    {
+     "title": "Selenskyj kritisiert US-Fokus auf den Nahen Osten",
+     "summary": "Der ukrainische Präsident Wolodymyr Selenskyj hat in einem Interview mit der BBC kritisiert, dass sich die USA zu stark auf den Nahen Osten konzentrierten und Russland nicht hart genug angingen. Zudem bezeichnete er es als seltsam, dass Donald Trump Wladimir Putin als Freund bezeichnet habe.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
+     "time": "2026-11-26T22:49:27+00:00"
+    },
+    {
+     "title": "Neuseeland: Regierungskoalition verfehlt absolute Mehrheit knapp",
+     "summary": "Die endgültigen Ergebnisse der Parlamentswahl in Neuseeland zeigen, dass das rechte Regierungsbündnis unter Premierminister Christopher Luxon die absolute Mehrheit um einen Sitz verfehlt hat. Um an der Macht zu bleiben, ist die Koalition auf die Unterstützung einer Kleinpartei angewiesen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+     "time": "2026-11-27T02:38:15+00:00"
+    },
+    {
+     "title": "Zwei Rheinmetall-Mitarbeiter bei Angriff in Kuwait getötet",
+     "summary": "Bei einem Angriff in Kuwait sind zwei italienische Techniker getötet worden, die für den deutschen Rüstungskonzern Rheinmetall tätig waren. Während das italienische Außenministerium Iran die Verantwortung zuweist, dementiert Teheran die Beteiligung.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
+     "time": "2026-11-26T21:17:53+00:00"
+    },
+    {
+     "title": "Vietnam schafft Todesstrafe für sechs weitere Verbrechen ab",
+     "summary": "Vietnam hat beschlossen, die Todesstrafe für sechs weitere Straftaten abzuschaffen. Damit setzt das Land einen jahrzehntelangen Trend fort, die Anwendung der Höchststrafe im Zuge rechtlicher Reformen weiter einzuschränken.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/is-authoritarian-vietnam-ready-to-phase-out-the-death-penalty/a-80064271",
+     "time": "2026-11-26T15:19:00+00:00"
+    },
+    {
+     "title": "Pablo Hernandez de Cos als neuer EZB-Präsident nominiert",
+     "summary": "Europäische Staats- und Regierungschefs haben sich darauf geeinigt, den früheren Chef der spanischen Zentralbank, Pablo Hernandez de Cos, als nächsten Präsidenten der Europäischen Zentralbank vorzuschlagen. Er soll die Nachfolge von Christine Lagarde antreten.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/spain-s-de-cos-chosen-as-next-ecb-president",
+     "time": "2026-11-26T21:40:29+00:00"
+    },
+    {
+     "title": "China und Brasilien reagieren scharf auf US-Zollpläne",
+     "summary": "Peking hat nach den von US-Präsident Donald Trump vorgeschlagenen neuen Zöllen erklärt, sich 'notwendige Maßnahmen' vorzubehalten, und kritisierte die Abgaben als politische Manipulation. Auch Brasilien kündigte an, sich solchen Drohungen nicht zu beugen.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/us-news/2026/nov/26/brazil-china-react-to-new-trump-tariffs-threat",
+     "time": "2026-11-26T12:00:22+00:00"
+    },
+    {
+     "title": "Neues Abkommen zwischen UK und EU enthält Zehnjahresklausel",
+     "summary": "In neu veröffentlichten juristischen Dokumenten zu den Verträgen zwischen dem Vereinigten Königreich und der Europäischen Union sind Details über Beteiligungsgebühren und eine zehnjährige Kündigungsklausel bekannt geworden.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
+     "time": "2026-11-26T15:23:17+00:00"
+    },
+    {
+     "title": "Fluggesellschaft Norse Atlantic stellt Betrieb ein",
+     "summary": "Die Fluggesellschaft Norse Atlantic hat angesichts einer drohenden Pleite alle Flüge ausgesetzt. Das Unternehmen ist auf der Suche nach dringend benötigten Finanzmitteln, andernfalls droht ein Insolvenzverfahren.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/articles/c9kgmd0ldy0lo",
+     "time": "2026-11-26T14:28:22+00:00"
+    },
+    {
+     "title": "Bundesrichter stoppt FCC-Vorgehen gegen ABC-Lizenzen",
+     "summary": "Eine Bundesrichterin hat der US-Kommunikationsbehörde FCC unter der Leitung von Brendan Carr vorübergehend untersagt, Schritte zur Einschränkung der Rundfunklizenzen des Senders ABC einzuleiten. Damit gab das Gericht einer Klage des Netzwerks statt.",
+     "category": "Medien",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/us-news/2026/nov/25/brendan-carr-fcc-abc-licenses",
+     "time": "2026-11-26T02:52:47+00:00"
+    },
+    {
+     "title": "Grünes Licht für SpaceX-Pläne zum Start von einer Million Datensatelliten",
+     "summary": "SpaceX hat die Genehmigung erhalten, die sogenannte Starmind-Konstellation ins All zu bringen. Das Projekt zielt darauf ab, die wachsende Nachfrage nach Rechenleistung für Künstliche Intelligenz möglichst energie- und kosteneffizient zu decken.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/cwp836l8n1jgo",
+     "time": "2026-11-26T09:27:44+00:00"
+    },
+    {
+     "title": "Europäische Raumsonde untersucht chaotische Folgen des Asteroidenaufpralls",
+     "summary": "Die europäische Raumsonde Hera ist zum Schauplatz des DART-Asteroidenabwehrversuchs zurückgekehrt. Forscher wollen nun im Detail analysieren, welche massiven Spuren der gezielte Einschlag auf dem Himmelskörper hinterlassen hat.",
+     "category": "Wissenschaft",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/",
+     "time": "2026-11-25T22:36:45+00:00"
+    },
+    {
+     "title": "Studie: Entwässerung von Mooren treibt globale Erwärmung voran",
+     "summary": "Eine detaillierte historische Schätzung zeigt, wie viel CO2 durch die Trockenlegung von Torfgebieten seit dem Jahr 1800 freigesetzt wurde. Demnach ist dieser Eingriff für einen spürbaren Prozentsatz des globalen Temperaturanstiegs verantwortlich.",
+     "category": "Klima",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/science/2026/11/draining-peatlands-is-responsible-for-a-few-percent-of-our-global-warming/",
+     "time": "2026-11-26T12:15:42+00:00"
+    },
+    {
+     "title": "Ford präsentiert neuen Prototypen GT41 für Le Mans",
+     "summary": "Ford hat den neuen Rennwagen GT41 vorgestellt, mit dem der Autobahnkonzern im Jahr 2027 in die Langstrecken-Weltmeisterschaft einsteigen will. Ziel ist ein neuer Gesamtsieg beim traditionsreichen 24-Stunden-Rennen von Le Mans.",
+     "category": "Automobil",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/cars/2026/11/ford-unveils-the-gt41-as-it-hopes-to-win-le-mans-again/",
+     "time": "2026-11-26T18:00:29+00:00"
+    },
+    {
+     "title": "Pittsburgh Steelers stellen sich hinter Headcoach Mike McCarthy",
+     "summary": "Art Rooney II, Eigentümer und Präsident der Pittsburgh Steelers, hat Cheftrainer Mike McCarthy nach dessen heftigem Disput mit Quarterback Aaron Rodgers sein volles Vertrauen ausgesprochen. Rodgers' Verhalten bezeichnete er als Insubordination.",
+     "category": "NFL",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/26/steelers-owner-gives-backing-to-mike-mccarthy-in-row-aaron-rodgers",
+     "time": "2026-11-26T22:04:52+00:00"
+    },
+    {
+     "title": "Bournemouth feiert zehnten Sieg in Serie in der Europa League",
+     "summary": "Unter Trainer Marco Rose hat Bournemouth bei Celta Vigo einen 2:1-Sieg eingefahren, obwohl das Team in Unterzahl agieren musste. Es war der zehnte Pflichtspielsieg in Folge für den englischen Verein, der damit Kurs auf das Achtelfinale nimmt.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/26/europa-league-roundup-bournemouth-celta-vigo-celtic-milan-benfica",
+     "time": "2026-11-26T23:24:43+00:00"
+    },
+    {
+     "title": "Paris Fury nimmt Behauptung über Schizophrenie-Diagnose ihres Mannes zurück",
+     "summary": "Paris Fury, die Ehefrau des Schwergewichtsboxers Tyson Fury, hat ihre früheren Aussagen in einer Dokumentation korrigiert. Darin hatte sie fälschlicherweise behauptet, bei ihrem Mann sei nach dem Sieg gegen Wladimir Klitschko Schizophrenie diagnostiziert worden.",
+     "category": "Boxen",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/tyson-v-anthony-joshua-paris-fury-retracts-claim-her-husband-was-diagnosed-with-schizophrenia",
+     "time": "2026-11-27T00:17:07+00:00"
+    },
+    {
+     "title": "FIFA räumt Cyberangriff auf persönliche und geschäftliche Daten ein",
+     "summary": "Der Fußball-Weltverband FIFA hat bestätigt Ziel eines Cyberangriffs geworden zu sein. Nach Angaben der Organisation waren dabei begrenzte Mengen an persönlichen und geschäftlichen Informationen betroffen.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/fifa-says-a-cyberattack-against-it-targeted-a-limited-set-of-personal-and-business-information/a-80062660",
+     "time": "2026-11-26T14:45:00+00:00"
+    },
+    {
+     "title": "Bericht: Nathan Lyon vor Aus im australischen Testkader",
+     "summary": "Der erfahrene Spinner Nathan Lyon steht offenbar vor der Ausbootung aus dem australischen Testkader für das Duell gegen Neuseeland. Diese Entscheidung wirft Fragen zur Zukunft des 39-Jährigen im Nationalteam auf.",
+     "category": "Cricket",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/nathan-lyon-set-to-be-axed-from-australia-squad-nz-test",
+     "time": "2026-11-27T03:07:37+00:00"
+    },
+    {
+     "title": "Erste Interviews mit Huw Edwards nach Verurteilung wegen Missbrauchsdarstellungen",
+     "summary": "Der wegen des Besitzes von Missbrauchsdarstellungen verurteilte ehemalige BBC-Moderator Huw Edwards hat erstmals Interviews gegeben. Während Channel 4 die Ausstrahlung verteidigte, stießen die Gespräche in der Politik auf scharfe Kritik.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/c38x05jrjnx7o",
+     "time": "2026-11-27T00:38:03+00:00"
+    },
+    {
+     "title": "Gericht entscheidet: Gérard Depardieu muss wegen Vergewaltigung vor Gericht",
+     "summary": "Ein Berufungsgericht in Paris hat entschieden, dass sich der französische Schauspieler Gérard Depardieu wegen des Vorwurfs der Vergewaltigung der Schauspielerin Charlotte Arnould aus dem Jahr 2018 vor Gericht verantworten muss.",
+     "category": "Film",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cmlyd76kyx44o",
+     "time": "2026-11-26T14:44:26+00:00"
+    },
+    {
+     "title": "Duran-Duran-Gitarrist Andy Taylor mit 65 Jahren gestorben",
+     "summary": "Andy Taylor, der Gitarrist der britischen Popband Duran Duran, ist im Alter von 65 Jahren gestorben. Seine Bandkollegen würdigten ihn als Musiker, der ihrer Musik einen unverkennbaren Stempel aufgedrückt habe.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cmp3vk6vr44po",
+     "time": "2026-11-26T12:33:23+00:00"
+    },
+    {
+     "title": "Frühes Supermodel Veruschka mit 87 Jahren gestorben",
+     "summary": "Das deutsche Model und die Künstlerin Veruschka, die in den 1960er Jahren zu den ersten globalen Modeikonen zählte, ist im Alter von 87 Jahren gestorben. Bekannt war sie vor allem für ihre experimentellen und prägenden Fotokunstwerke.",
+     "category": "Kunst",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cmn50ezxdnewo",
+     "time": "2026-11-26T10:32:20+00:00"
+    },
+    {
+     "title": "Vater-Sohn-Duo gewinnt renommierten britischen Buchpreis",
+     "summary": "Ein aus Vater und Sohn bestehendes Team aus Bristol hat mit einem detailreichen Mitmach-Kinderbuch den Waterstones-Buchpreis gewonnen. Die Jury lobte das Werk als Musterbeispiel für herausragende Illustration und Gestaltung.",
+     "category": "Literatur",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC News World",
+     "url": "https://www.bbc.co.uk/news/articles/cmn4kq459gexo",
+     "time": "2026-11-26T06:09:07+00:00"
+    }
+   ]
+  }
+ ]
+}
