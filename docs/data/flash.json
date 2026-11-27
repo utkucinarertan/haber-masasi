@@ -1,6 +1,6 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-27T22:21+01:00",
+ "updatedAt": "2026-11-27T23:21+01:00",
  "countries": {
   "world": [
    {
@@ -56,6 +56,16 @@
   ],
   "de": [
    {
+    "time": "2026-11-27T23:10:29+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+    "importance": 2,
+    "text": {
+     "tr": "Almanya Çalışma Bakanı Alexander Schweitzer, yeni emeklilik reformu planlarının parti içinde ve kamuoyunda uzlaşma sağlayabileceğini söyledi.",
+     "de": "Bundesarbeitsminister Alexander Schweitzer bezeichnete seine Pläne für die Rentenreform als Grundlage für einen Konsens."
+    }
+   },
+   {
     "time": "2026-11-27T20:59:37+00:00",
     "source": "FAZ Nachrichten",
     "url": "https://www.faz.net/aktuell/sport/mehr-sport/andreas-obst-fuehrt-dbb-team-zur-wm-qualifikation-in-lettland-201725074.html",
@@ -93,16 +103,6 @@
     "text": {
      "tr": "Almanya'nın en büyük savunma şirketi Rheinmetall, geciken siparişler nedeniyle orta vadeli hedeflerini düşürdü.",
      "de": "Deutschlands größter Rüstungskonzern Rheinmetall hat wegen verzögerter Aufträge seine Ziele gesenkt."
-    }
-   },
-   {
-    "time": "2026-11-27T16:57:45+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/vermischtes/article6b09b0da83a96bc17460593c/ukraine-krieg-emotionale-szenen-an-der-grenze-neun-kinder-kehren-aus-russland-zurueck.html",
-    "importance": 2,
-    "text": {
-     "tr": "Rusya'dan kaçırılan dokuz Ukraynalı çocuk, sınırda gerçekleştirilen bir operasyonla ailelerine kavuştu.",
-     "de": "Neun aus Russland verschleppte ukrainische Kinder konnten bei einer Rückholaktion an der Grenze in ihre Heimat zurückkehren."
     }
    }
   ],
@@ -508,6 +508,16 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-27T23:10:29+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+    "importance": 2,
+    "text": {
+     "tr": "Almanya Çalışma Bakanı Alexander Schweitzer, yeni emeklilik reformu planlarının parti içinde ve kamuoyunda uzlaşma sağlayabileceğini söyledi.",
+     "de": "Bundesarbeitsminister Alexander Schweitzer bezeichnete seine Pläne für die Rentenreform als Grundlage für einen Konsens."
+    }
+   },
    {
     "time": "2026-11-27T20:59:37+00:00",
     "source": "FAZ Nachrichten",
@@ -1121,6 +1131,7 @@
   "https://tr.euronews.com/2026/11/27/sirbistanda-ogrenci-hareketi-cumhurbaskani-adayini-belirledi-kimya-profesoru-saicic",
   "https://tr.euronews.com/2026/11/27/time-out-alisveris-sehirleri-listesi-shanghai-birinci-avrupa-geride",
   "https://tr.euronews.com/2026/11/27/tripcom-kullanicilarina-gore-2027de-avrupada-aileler-icin-en-iyi-15-mekan",
+  "https://tr.euronews.com/2026/11/27/uganda-afrikanin-ilk-mrna-ebola-asi-denemesi-basladi",
   "https://tr.euronews.com/2026/11/27/ukrayna-kuzey-kore-rusyaya-silah-ve-muhimmat-sevkiyatini-askiya-aldi",
   "https://tr.euronews.com/2026/11/27/unlu-portreler-ve-ikonik-film-sahneleri-seni-gordugum-yerden-sergisinde",
   "https://tr.euronews.com/2026/11/27/yunanistanda-yeni-hiv-vakalarinin-yarisi-gec-teshis-ediliyor",
@@ -1142,6 +1153,7 @@
   "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
   "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
   "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
+  "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
   "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo",
   "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
   "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
@@ -1206,6 +1218,7 @@
   "https://www.cumhuriyet.com.tr/ekonomi/mahfi-egilmez-acikladi-altin-ve-gumus-neden-dusuyor-2559886",
   "https://www.cumhuriyet.com.tr/ekonomi/malatya-da-birlesik-emekliler-sendikasi-uyeleri-sokaga-cikti-secim-oncesi-vaatlere-karnimiz-tok-2559955",
   "https://www.cumhuriyet.com.tr/ekonomi/soma-dan-konya-ya-uzanan-isci-mucadelesi-milyarlik-alacaklar-odenmiyor-2559892",
+  "https://www.cumhuriyet.com.tr/ekonomi/spk-yeni-bultenini-yayimladi-167-kisiye-suc-duyurusu-milyonlarca-liralik-para-cezalari-2560083",
   "https://www.cumhuriyet.com.tr/ekonomi/trump-yonetiminden-cin-e-yeni-gumruk-vergisi-hamlesi-ticaret-ateskesi-tehlikede-2559840",
   "https://www.cumhuriyet.com.tr/gurme/cay-demlenene-kadar-hazir-buzluk-boregi-tarifi-2559993",
   "https://www.cumhuriyet.com.tr/gurme/dogu-anadolu-nun-sakli-hazinesi-girrik-tarifi-2560029",
@@ -1335,6 +1348,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/osym-duyurdu-yok-ykds-ve-ales-hafta-sonu-yapilacak-2559855",
   "https://www.cumhuriyet.com.tr/turkiye/parkta-pompali-tufekle-saldiri-7-kisi-gozaltina-alindi-2559847",
   "https://www.cumhuriyet.com.tr/turkiye/saray-dan-avrupa-parlamentosu-nun-turkiye-libya-kararina-tepki-2559809",
+  "https://www.cumhuriyet.com.tr/turkiye/sebze-ve-meyve-halindeki-nitelikli-yagma-sorusturmasinda-13-tutuklama-2560077",
   "https://www.cumhuriyet.com.tr/turkiye/sentetik-hap-tabletleyen-9-supheli-sucustu-yakalandi-2559936",
   "https://www.cumhuriyet.com.tr/turkiye/soma-ve-kangal-iscilerinden-konya-da-hak-arayisi-1-4-milyar-lira-alacagimiz-var-2559885",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-27-kasim-2026-nerede-ne-zaman-deprem-oldu-2559814",
@@ -1342,6 +1356,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-unlulere-uyusturucu-sorusturmasinda-yeni-gelisme-3-isim-tutuklandi-2559822",
   "https://www.cumhuriyet.com.tr/turkiye/sosyal-medyada-sehitlere-hakaret-supheli-gozaltina-alindi-2559898",
   "https://www.cumhuriyet.com.tr/turkiye/tapuda-sazan-sarmali-yontemiyle-3-5-milyon-liralik-vurgun-16-tutuklama-2559851",
+  "https://www.cumhuriyet.com.tr/turkiye/tcmb-bir-odeme-kurulusunun-faaliyet-iznini-iptal-etti-2560078",
   "https://www.cumhuriyet.com.tr/turkiye/tunceli-deki-hes-projesi-mahkemenin-iptal-kararinin-ardindan-yeniden-ced-olumlu-karari-verildi-2559877",
   "https://www.cumhuriyet.com.tr/turkiye/tunceli-pertek-te-koylulerden-keklik-avina-tepki-avcilar-geldiginde-sanki-burada-harp-oluyor-2559853",
   "https://www.cumhuriyet.com.tr/turkiye/turk-eczacilari-birligi-nden-cagri-atama-kurasi-sonuclari-incelensin-2559813",
@@ -1352,6 +1367,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/yunus-timlerinden-izmir-de-uyusturucu-operasyonu-22-kilo-pregabalin-ele-gecirildi-2559863",
   "https://www.cumhuriyet.com.tr/turkiye/yusuf-kenan-bagir-kimdir-bddk-baskani-yusuf-kenan-bagir-kac-yasinda-nereli-yusuf-kenan-bagir-hangi-gorevlerde-bulundu-2559825",
   "https://www.cumhuriyet.com.tr/tv-rehberi/kizilcik-serbeti-dizisinin-yeni-bolumu-ne-zaman-kizilcik-serbeti-dizisinin-son-bolumunde-ne-oldu-2559931",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/masterchef-dokunulmazlik-oyunu-kim-kazandi-26-kasim-persembe-masterchef-eleme-adayi-kim-oldu-2560082",
   "https://www.cumhuriyet.com.tr/tv-rehberi/soguk-soygun-filminin-konusu-ne-soguk-soygun-filminin-oyunculari-kim-2559933",
   "https://www.cumhuriyet.com.tr/tv-rehberi/soguk-soygun-filminin-konusu-ne-soguk-soygun-filminin-oyunculari-kim-2560003",
   "https://www.cumhuriyet.com.tr/tv-rehberi/tasacak-bu-deniz-dizisinin-son-bolumunde-ne-oldu-tasacak-bu-deniz-dizisinin-yeni-bolumu-var-mi-2559978",
@@ -1540,14 +1556,17 @@
   "https://www.evrensel.net/haber/6011503/savcilik-leyla-zana-ya-yonelik-cinsiyetci-tezahurat-nedeniyle-uc-kisi-hakkinda-takipsizlik-karari-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011504/kopan-ceki-demiri-basina-carpmisti-izbb-iscisi-kamil-capar-is-cinayetinde-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011505/yabanci-basina-silahlarla-roportaj-veren-suphelilere-yonelik-operasyonda-gozalti-sayisi-15-e-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011506/29-kasim-mitingine-basin-sendikalarindan-ortak-cagri-dayanismayi-sozden-eyleme-tasiyalim?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011507/kanarya-adalari-na-ulasan-teknedeki-10-dan-fazla-gocmen-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011508/gurcistan-buyukelcisi-disisleri-bakanligi-na-cagrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011509/besiktas-kafilesi-istanbul-a-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011510/38-bin-donum-orman-ve-tarim-alani-tehdit-altinda?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011511/girne-aciklarindaki-gemi-faciasi-sorusturmasi-polis-nezaretinde-tutulan-9-kisi-cezaevine-gonderildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011512/thy-de-hedef-12-ile-toplu-isten-cikarma-yasaniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011514/kuveyt-iki-italyan-in-hayatini-kaybettigi-iha-saldirisi-nedeniyle-iran-buyukelcisini-bakanliga-cagirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011515/bloomberg-turkiye-cop31-iklim-zirvesi-icin-yaklasik-700-milyon-dolar-harcadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011516/chd-uyesi-avukat-erdogan-akdogdu-tahliye-edildi-diger-dosyalari-inceleyecek-hakim-degistirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011517/buca-belediyesi-iscileri-bastemsilci-mahkemeyi-kazandi-ama-kazanmakla-bitmiyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011518/istanbul-valiligi-pazar-gununden-itibaren-etkili-olacak-soguk-hava-ve-firtinaya-karsi-uyardi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011519/birikim-varlik-yonetim-as-ye-tmsf-kayyum-olarak-atandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011520/egitim-is-acikladi-bir-ogrencinin-aylik-beslenme-cantasi-maliyeti-2-bin-251-liraya-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -1568,6 +1587,8 @@
   "https://www.evrensel.net/haber/6011535/marmara-kuzey-ege-ve-bati-karadeniz-icin-firtina-uyarisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011536/super-lig-de-13-haftanin-acilis-maclarinda-konya-ve-rize-son-dakikalarda-guldu?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011537/tahir-elci-cinayetinde-11-yil-kayip-13-saniye-karartilan-deliller-ve-cezasizlik-zirhi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011538/merkez-bankasi-fintlix-in-faaliyet-iznini-iptal-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011539/chp-li-gulsever-aractan-saat-1500-ten-itibaren-haber-alinamazken-ilgili-birimlere-neden-1910-da-bilgi-verildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/rezept-fuer-ihr-weihnachtsmenue-2026-lachsforelle-entenbrust-und-lebkuchenschnitte-accg-201625996.html",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-kinder-besser-lernen-haette-auch-ich-gut-in-mathe-sein-koennen-accg-201692367.html",
   "https://www.faz.net/aktuell/besser-leben/stil/weihnachten-64-geschenkideen-von-guenstig-bis-teuer-201659894.html",
@@ -1601,6 +1622,7 @@
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/straftaeter-nach-flucht-aus-bremer-psychiatrie-gefasst-accg-201722704.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/338-woerter-weniger-am-tag-reden-wir-noch-genug-miteinander-accg-201708315.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/haesslich-oder-authentisch-esslinger-weihnachtsbaum-sorgt-fuer-debatte-accg-201722280.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/mit-echse-bekannt-puppenspieler-michael-hatzius-verstorben-201725149.html",
   "https://www.faz.net/aktuell/gesellschaft/planetenschau-und-geminiden-der-sternhimmel-im-dezember-201719233.html",
   "https://www.faz.net/aktuell/gesellschaft/ungluecke/wintereinbruch-sorgt-fuer-400-unfaelle-im-suedlichen-oberbayern-accg-201722589.html",
   "https://www.faz.net/aktuell/gesellschaft/wetter-am-wochenende-es-wird-kalt-und-glatt-accg-201723512.html",
@@ -1624,6 +1646,7 @@
   "https://www.faz.net/aktuell/politik/inland/spd-hessen-generalsekretaerin-josefine-koebe-kuendigt-ruecktritt-an-accg-201723160.html",
   "https://www.faz.net/aktuell/politik/inland/wie-die-spd-in-den-rente-ihren-reformwillen-verlor-accg-201720637.html",
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lettland-meldet-verletzung-von-luftraum-durch-drohne-faz-110683325.html",
+  "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-putin-praesentiert-neues-russisches-atom-u-boot-faz-110683325.html",
   "https://www.faz.net/aktuell/reise/auf-nach-afrika-201632567.html",
   "https://www.faz.net/aktuell/rhein-main/erster-schneefall-in-hessen-erwartet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/ausschreitungen-beim-stuttgart-spiel-poseck-wirft-eintracht-frankfurt-taeter-opfer-umkehr-vor-201721598.html",
@@ -1649,6 +1672,7 @@
   "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-der-woche-testen-sie-ihr-wissen-heute-welche-hollywoodstars-kommen-zu-wetten-dass-faz-accg-201722845.html",
   "https://www.faz.net/aktuell/sport/formel-1/motorsport/motorrad-champion-marc-marquez-tritt-zurueck-accg-201723119.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-liga-1-fc-nuernberg-verliert-auch-in-heidenheim-201304614.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-niclas-fuellkrug-rettet-werder-bremen-gegen-gladbach-in-der-nachspielzeit-201304506.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-dreesen-antwortet-auf-kimmich-kritik-im-fall-musiala-201721093.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/jamal-musiala-topspieler-fehlt-fc-bayern-muenchen-wohl-bis-jahresende-201724329.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/joshua-kimmich-kritik-im-fall-jamal-musiala-riss-bei-fc-bayern-muenchen-201717499.html",
@@ -1657,6 +1681,7 @@
   "https://www.faz.net/aktuell/sport/fussball/islaendischer-fussball-nationaltorwart-ingvar-jonsson-mit-37-jahren-gestorben-accg-201722736.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/andreas-obst-fuehrt-dbb-team-zur-wm-qualifikation-in-lettland-201725074.html",
   "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-ansgar-knauffs-ewige-suche-nach-der-idealposition-accg-201719185.html",
+  "https://www.faz.net/aktuell/sport/sportpolitik/martin-engelhardt-verspricht-dosb-verbaenden-mehr-mitsprache-201722866.html",
   "https://www.faz.net/aktuell/sport/sportpolitik/sie-war-die-erste-afroamerikanerin-im-ioc-anita-defrantz-mit-74-jahren-gestorben-accg-201722507.html",
   "https://www.faz.net/aktuell/sport/wintersport/biathlon-weltcup-2026-2027-julia-tannheimer-zum-auftakt-siebte-201724799.html",
   "https://www.faz.net/aktuell/sport/wintersport/paarlauf-weltmeister-minerva-hase-und-nikita-volodin-in-weltklasse-form-accg-201722207.html",
@@ -1706,12 +1731,14 @@
   "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
   "https://www.france24.com/en/france/20261127-five-people-hospitalised-as-levski-sofia-and-marseille-fans-clash-ahead-of-europa-league-game",
   "https://www.france24.com/en/france/20261127-french-far-left-candidate-m%C3%A9lenchon-demands-thorough-overhaul-germany-ties",
+  "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
   "https://www.france24.com/en/from-bad-to-catastrophic-iran-s-justice-system-was-already-unfair-for-many-decades",
   "https://www.france24.com/en/is-spain-nostalgic-for-franco-would-traditional-right-pp-consider-an-alliance-with-far-right-vox",
   "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
   "https://www.france24.com/en/sport/20261127-turkey-summons-georgian-envoy-after-football-fans-pro-palestine-protest-sparks-clashes",
   "https://www.france24.com/en/tv-shows/access-asia/20261127-under-a-new-flag-north-korea-carves-out-identity-as-fully-fledged-nuclear-state",
   "https://www.france24.com/en/tv-shows/arts24/20261127-paris-paloma-tackles-greek-mythology-generative-ai-in-her-second-album-the-fatal-flaw",
+  "https://www.france24.com/en/tv-shows/eye-on-africa/20261127-uganda-to-withdraw-troops-from-dr-congo",
   "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
   "https://www.france24.com/en/tv-shows/press-review/20261127-why-is-india-so-afraid-of-pakistan-s-new-netflix-series",
   "https://www.france24.com/en/tv-shows/reporters/20261127-immigration-south-africa-no-longer-an-el-dorado-for-foreigners",
@@ -1825,6 +1852,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/bsw-parteitag-afd-sachsen-anhalt-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html",
   "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
   "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
   "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
@@ -1867,6 +1895,8 @@
   "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
   "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
   "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
+  "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
+  "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
   "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
   "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
   "https://www.theguardian.com/uk-news/2026/nov/27/police-believe-criminals-carried-out-robberies-during-don-toliver-manchester-gig-unknown-substance",
@@ -1918,6 +1948,7 @@
   "https://www.welt.de/politik/ausland/article6b091df509772de371850d14/ukraine-krieg-trump-fordert-putin-auf-militaerische-aggression-in-europa-einzustellen-merz-lobt-vorstoss.html",
   "https://www.welt.de/politik/ausland/article6b091e4846039c5f0be5bb9e/ukraine-krieg-es-ist-seltsam-sagt-selenskyj-ueber-trumps-beziehung-zu-putin-und-zieht-hitler-vergleich.html",
   "https://www.welt.de/politik/ausland/article6b0925d12c57ecf5a872a858/nordkorea-bremst-laut-ukraine-militaerhilfe-fuer-russland-wegen-aussage-von-vize-aussenminister.html",
+  "https://www.welt.de/politik/ausland/article6b09f40d7df78695bac963e0/afd-chefin-frau-weidel-hat-putins-sprechzettel-offenbar-gruendlich-studiert-sagt-der-ukrainische-botschafter.html",
   "https://www.welt.de/politik/ausland/plus6afc16b5bfa018bfcc989e36/frankreich-le-pen-hat-weder-die-intelligenz-noch-die-ernsthaftigkeit-noch-die-faehigkeiten-melonis.html",
   "https://www.welt.de/politik/ausland/plus6afc16b5bfa018bfcc989e36/frankreich-melenchon-oder-le-pen-waehlen-heisst-putin-waehlen.html",
   "https://www.welt.de/politik/ausland/plus6b0936fd09772de371850f35/zuwanderung-wir-machen-hier-nicht-schluss-grossbritannien-auf-dem-weg-zur-netto-null-migration.html",
@@ -1929,6 +1960,7 @@
   "https://www.welt.de/politik/deutschland/article6b09392f46039c5f0be5bd80/philipp-tuermer-kein-mensch-weiss-wofuer-die-spd-heute-steht-sagt-der-juso-chef.html",
   "https://www.welt.de/politik/deutschland/article6b0964196a4ea151d91c23a0/zentralrat-reagiert-auf-weidel-die-afd-sucht-seit-jahren-nach-einem-feigenblatt-fuer-ihre-ressentimentgeladene-politik.html",
   "https://www.welt.de/politik/deutschland/article6b098e5b3d0d9d6539f8fe55/rentenreform-schweitzer-legt-renten-gesetzentwurf-vor-rente-mit-63-bleibt-abgeordnete-sollen-einzahlen.html",
+  "https://www.welt.de/politik/deutschland/plus6b044fc066a00c9ca1fe11a0/spd-das-herz-schlaegt-links-der-juso-chef-redet-sich-auf-dem-bundeskongress-in-rage.html",
   "https://www.welt.de/politik/deutschland/plus6b06a265cd4642ba2eb17f53/was-gute-lehrer-ausmacht-wenn-wir-diese-positionierung-aufgeben-haben-wir-verloren.html",
   "https://www.welt.de/politik/deutschland/plus6b07f66809772de37184f266/aufwuchs-der-bundeswehr-massives-fuehrungsversagen-aerger-ueber-den-umbau-der-bundeswehrverwaltung.html",
   "https://www.welt.de/politik/deutschland/plus6b07f66809772de37184f266/aufwuchs-der-bundeswehr-verschlusssache-verteidigungsaufstellung.html",
@@ -1941,6 +1973,7 @@
   "https://www.welt.de/sport/fussball/bundesliga/article6b092e4609772de371850e54/fc-bayern-fall-musiala-kahn-kritisiert-die-bosse-und-manuel-neuer.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0989826a4ea151d91c2886/fc-bayern-naechster-rueckschlag-musiala-faellt-bis-auf-weiteres-aus.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b099d856a4ea151d91c2be4/bundesliga-ticker-werder-bremen-borussia-moenchengladbach-live.html",
+  "https://www.welt.de/sport/fussball/bundesliga/article6b099d856a4ea151d91c2be4/fuellkrug-nachspielzeit-wer-und-was-denn-sonst-werder-mit-dem-spaeten-ausgleich-gegen-gladbach.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0830351c4d5a00bfba002c/fussball-das-dilemma-des-fc-bayern-im-fall-jamal-musiala.html",
   "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b09504946039c5f0be5c080/fc-bayern-als-es-um-eine-geldstrafe-fuer-joshua-kimmich-geht-lacht-kompany.html",
   "https://www.welt.de/sport/golf/article6b09889d6a4ea151d91c2865/golf-seltener-als-ein-ass-von-dellingshausen-uebernimmt-mit-traumschlag-die-fuehrung.html",
