@@ -1,8 +1,28 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-27T15:21+01:00",
+ "updatedAt": "2026-11-27T16:21+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-27T15:00:13+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+    "importance": 2,
+    "text": {
+     "tr": "ABD Ulusal Sağlık Enstitüleri tarafından yayımlanan üç yeni araştırma, glifosat pestisitini kanser vakalarıyla ilişkilendirdi.",
+     "de": "Drei vom US-Gesundheitsinstitut veröffentlichte Studien bringen den umstrittenen Wirkstoff Glyphosat mit Krebs in Verbindung."
+    }
+   },
+   {
+    "time": "2026-11-27T14:55:15+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
+    "importance": 2,
+    "text": {
+     "tr": "Kanada Yüksek Mahkemesi, kamu görevlilerinin dini simge taşımasını yasaklayan Quebec eyalet yasasını büyük ölçüde onadı.",
+     "de": "Kanadas oberster Gerichtshof hat das umstrittene Verbot religiöser Symbole für öffentlich Bedienstete in Quebec weitgehend bestätigt."
+    }
+   },
    {
     "time": "2026-11-27T14:33:03+01:00",
     "source": "Euronews",
@@ -11,26 +31,6 @@
     "text": {
      "tr": "AB'nin 2028-2034 bütçesine yönelik ortak zirvesi, stratejik harcama anlaşmazlıkları nedeniyle çöktü.",
      "de": "Der EU-Gipfel zum langfristigen Haushalt für 2028 bis 2034 ist wegen Streitigkeiten über strategische Ausgaben vorerst gescheitert."
-    }
-   },
-   {
-    "time": "2026-11-27T13:53:58+01:00",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
-    "importance": 2,
-    "text": {
-     "tr": "Ukrayna askeri istihbaratına göre Kuzey Korean, Seul ile yaşanan gerginlikler nedeniyle Rusya'ya askeri yardımı askıya aldı.",
-     "de": "Nordkorea hat laut ukrainischen Geheimdienstangaben die Militärhilfe für Russland wegen Spannungen mit Seoul ausgesetzt."
-    }
-   },
-   {
-    "time": "2026-11-27T13:31:00+00:00",
-    "source": "DW World",
-    "url": "https://www.dw.com/en/the-gambia-election-can-barrow-secure-a-third-term/a-80076340",
-    "importance": 2,
-    "text": {
-     "tr": "Gambia'da seçmenler, mevcut Devlet Başkanı Adama Barrow'un üçüncü dönem için yarışacağı seçimler için sandık başına gidiyor.",
-     "de": "In Gambia stellt sich Präsident Adama Barrow bei der Wahl am 5. Dezember zur Wiederwahl für eine dritte Amtszeit."
     }
    },
    {
@@ -55,6 +55,16 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-27T15:31:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss",
+    "importance": 2,
+    "text": {
+     "tr": "Sırbistan'da öğrenci listesi, yaklaşan cumhurbaşkanlığı seçimleri için kimya profesörü Radomir Saičić'i aday gösterdi.",
+     "de": "In Serbien hat eine Studierendenliste den Chemieprofessor Radomir Saičić als Präsidentschaftskandidaten nominiert."
+    }
+   },
    {
     "time": "2026-11-27T15:00:01+01:00",
     "source": "tagesschau",
@@ -86,27 +96,37 @@
     }
    },
    {
-    "time": "2026-11-27T14:18:17+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
+    "time": "2026-11-27T14:34:47+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html",
     "importance": 2,
     "text": {
-     "tr": "Fransa ve Almanya'nın tutumları ve yaşanan anlaşmazlıklar nedeniyle AB özel bütçe zirvesi uzlaşma sağlanamadan sona erdi.",
-     "de": "Wegen Widerständen und Verhandlungsstragien ist der EU-Sondergipfel zum Haushalt ohne Einigung abgebrochen worden."
-    }
-   },
-   {
-    "time": "2026-11-27T13:57:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/bundeswehr-heico-huebner-wird-neuer-inspekteur-des-heeres-a-a16eb3ee-d796-436e-8e69-34a224079c4f#ref=rss",
-    "importance": 2,
-    "text": {
-     "tr": "Savunma Bakanı Boris Pistorius, Christian Freuding'in yerine General Heico Hübner'i ordunun yeni komutanı olarak atadı.",
-     "de": "Verteidigungsminister Pistorius hat Generalleutnant Heico Hübner zum neuen Inspekteur des Heeres ernannt."
+     "tr": "Almanya Çalışma Bakanı Alexander Schweitzer, yaşlılık sigortası reform tasarısı kapsamında erken emeklilik koşullarının kısıtlanmasını önerdi.",
+     "de": "Arbeitsminister Alexander Schweitzer hat einen Renten-Gesetzentwurf vorgelegt, der die abschlagsfreie Frührente einschränken soll."
     }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-27T18:11:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligi-butcesinde-fon-tartismasi-usta-fonlarda-sorun-olmadigini-soylediniz-dedi-yilmaz-iftira-diye-karsilik-verdi-2560001",
+    "importance": 2,
+    "text": {
+     "tr": "Cumhurbaşkanlığı bütçe görüşmelerinde İYİ Partili Erhan Usta ile Cumhurbaşkanı Yardımcısı Cevdet Yılmaz arasında fon tartışması yaşandı.",
+     "de": "Bei den Haushaltsberatungen kam es zwischen dem IYI-Politiker Erhan Usta und Vizepräsident Cevdet Yılmaz zu einem Streit über Fonds."
+    }
+   },
+   {
+    "time": "2026-11-27T17:49:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/hayata-donus-davasinda-zamanasimi-karari-kesinlesti-yargitay-yolu-da-kapatildi-2559994",
+    "importance": 2,
+    "text": {
+     "tr": "Bayrampaşa Cezaevi'ndeki Hayata Dönüş operasyonuna ilişkin davada zamanaşımı kararı kesinleşirken Yargıtay yolu kapatıldı.",
+     "de": "Im Prozess zum Gefängnis-Einsatz in Bayrampaşa wurde die Verjährung endgültig bestätigt und der Weg zum Kassationsgericht versperrt."
+    }
+   },
    {
     "time": "2026-11-27T17:02:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -136,31 +156,41 @@
      "tr": "Irak Petrol Bakanı Basım Muhammed Hudayr, 12 yıldır kapalı olan Irak-Türkiye petrol boru hattının günlük 300 bin varil kapasiteyle yeniden açıldığını açıkladı.",
      "de": "Der irakische Ölminister Basim Mohammed Hudair hat die Wiedereröffnung der seit zwölf Jahren geschlossenen irakisch-türkischen Ölpipeline mit einer Kapazität von 300.000 Barrel pro Tag bekannt gegeben."
     }
-   },
-   {
-    "time": "2026-11-27T16:09:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011488/israil-de-eisenkot-un-arap-partilerinin-destegiyle-hukumeti-kisa-surede-kurmasi-bekleniyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 2,
-    "text": {
-     "tr": "İsrail'de Gadi Eisenkot'un, Arap partilerinin dışarıdan vereceği destekle önümüzdeki hafta azınlık hükümetini kurması bekleniyor.",
-     "de": "In Israel wird erwartet, dass Gadi Eisenkot nächste Woche mit der Unterstützung arabischer Parteien eine Minderheitsregierung bildet."
-    }
-   },
-   {
-    "time": "2026-11-27T15:15:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/halk-tv-ye-sorusturma-hakkinda-gozalti-karari-verilen-kursad-oguz-dan-ilk-aciklama-2559937",
-    "importance": 2,
-    "text": {
-     "tr": "Halk TV'ye yönelik soruşturmada hakkında gözaltı kararı bulunan eski Haber Koordinatörü Kürşad Oğuz, yurt dışında olduğunu açıkladı.",
-     "de": "Der im Rahmen einer Untersuchung gegen Halk TV mit Haftbefehl gesuchte ehemalige Nachrichtenkoordinator Kürşad Oğuz erklärte, er befinde sich im Ausland."
-    }
    }
   ]
  },
  "archive": {
   "world": [
+   {
+    "time": "2026-11-27T15:00:13+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
+    "importance": 2,
+    "text": {
+     "tr": "ABD Ulusal Sağlık Enstitüleri tarafından yayımlanan üç yeni araştırma, glifosat pestisitini kanser vakalarıyla ilişkilendirdi.",
+     "de": "Drei vom US-Gesundheitsinstitut veröffentlichte Studien bringen den umstrittenen Wirkstoff Glyphosat mit Krebs in Verbindung."
+    }
+   },
+   {
+    "time": "2026-11-27T14:55:15+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
+    "importance": 2,
+    "text": {
+     "tr": "Kanada Yüksek Mahkemesi, kamu görevlilerinin dini simge taşımasını yasaklayan Quebec eyalet yasasını büyük ölçüde onadı.",
+     "de": "Kanadas oberster Gerichtshof hat das umstrittene Verbot religiöser Symbole für öffentlich Bedienstete in Quebec weitgehend bestätigt."
+    }
+   },
+   {
+    "time": "2026-11-27T14:50:15+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
+    "importance": 2,
+    "text": {
+     "tr": "Hackerların ABD Hava Kuvvetleri'nin Cloud One bulut bilişim platformuna sızdığı ve hassas verileri tehlikeye attığı bildirildi.",
+     "de": "Hacker haben laut Medienberichten die Cloud-Plattform der US-Luftwaffe infiltriert, wodurch sensible Daten gefährdet sein könnten."
+    }
+   },
    {
     "time": "2026-11-27T14:33:03+01:00",
     "source": "Euronews",
@@ -169,6 +199,16 @@
     "text": {
      "tr": "AB'nin 2028-2034 bütçesine yönelik ortak zirvesi, stratejik harcama anlaşmazlıkları nedeniyle çöktü.",
      "de": "Der EU-Gipfel zum langfristigen Haushalt für 2028 bis 2034 ist wegen Streitigkeiten über strategische Ausgaben vorerst gescheitert."
+    }
+   },
+   {
+    "time": "2026-11-27T14:20:00+00:00",
+    "source": "DW World",
+    "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728",
+    "importance": 2,
+    "text": {
+     "tr": "Norveçli düşük maliyetli havayolu şirketi Norse Atlantic, artan uçak yakıtı maliyetleri nedeniyle iflas başvurusunda bulundu.",
+     "de": "Die norwegische Billigfluggesellschaft Norse Atlantic hat infolge stark gestiegener Kerosinkosten Insolvenz angemeldet."
     }
    },
    {
@@ -379,6 +419,16 @@
   ],
   "de": [
    {
+    "time": "2026-11-27T15:31:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss",
+    "importance": 2,
+    "text": {
+     "tr": "Sırbistan'da öğrenci listesi, yaklaşan cumhurbaşkanlığı seçimleri için kimya profesörü Radomir Saičić'i aday gösterdi.",
+     "de": "In Serbien hat eine Studierendenliste den Chemieprofessor Radomir Saičić als Präsidentschaftskandidaten nominiert."
+    }
+   },
+   {
     "time": "2026-11-27T15:00:01+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
@@ -406,6 +456,16 @@
     "text": {
      "tr": "Amerikalı patenci Ilia Malinin, Japonya'daki eiskunstlauf yarışmasında kısa program dünya rekorunu kırdı.",
      "de": "Eiskunstläufer Ilia Malinin brach in Japan mit einer herausragenden Leistung den Weltrekord im Kurzprogramm."
+    }
+   },
+   {
+    "time": "2026-11-27T14:34:47+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html",
+    "importance": 2,
+    "text": {
+     "tr": "Almanya Çalışma Bakanı Alexander Schweitzer, yaşlılık sigortası reform tasarısı kapsamında erken emeklilik koşullarının kısıtlanmasını önerdi.",
+     "de": "Arbeitsminister Alexander Schweitzer hat einen Renten-Gesetzentwurf vorgelegt, der die abschlagsfreie Frührente einschränken soll."
     }
    },
    {
@@ -586,6 +646,26 @@
   ],
   "tr": [
    {
+    "time": "2026-11-27T18:11:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligi-butcesinde-fon-tartismasi-usta-fonlarda-sorun-olmadigini-soylediniz-dedi-yilmaz-iftira-diye-karsilik-verdi-2560001",
+    "importance": 2,
+    "text": {
+     "tr": "Cumhurbaşkanlığı bütçe görüşmelerinde İYİ Partili Erhan Usta ile Cumhurbaşkanı Yardımcısı Cevdet Yılmaz arasında fon tartışması yaşandı.",
+     "de": "Bei den Haushaltsberatungen kam es zwischen dem IYI-Politiker Erhan Usta und Vizepräsident Cevdet Yılmaz zu einem Streit über Fonds."
+    }
+   },
+   {
+    "time": "2026-11-27T17:49:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/siyaset/hayata-donus-davasinda-zamanasimi-karari-kesinlesti-yargitay-yolu-da-kapatildi-2559994",
+    "importance": 2,
+    "text": {
+     "tr": "Bayrampaşa Cezaevi'ndeki Hayata Dönüş operasyonuna ilişkin davada zamanaşımı kararı kesinleşirken Yargıtay yolu kapatıldı.",
+     "de": "Im Prozess zum Gefängnis-Einsatz in Bayrampaşa wurde die Verjährung endgültig bestätigt und der Weg zum Kassationsgericht versperrt."
+    }
+   },
+   {
     "time": "2026-11-27T17:02:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-harekete-gecti-yeni-akit-e-500-bin-tl-lik-tazminat-davasi-2559976",
@@ -749,7 +829,9 @@
   "https://tr.euronews.com/2026/11/27/almanya-ve-avusturya-tiktokun-avrupada-avrupa-mulkiyeti-cagrisi",
   "https://tr.euronews.com/2026/11/27/almanyada-ig-metall-ucret-anlasmasina-vardi-sanayi-krizi-surerken",
   "https://tr.euronews.com/2026/11/27/armani-luks-otel-imparatorlugunu-misir-ve-suudi-arabistana-genisletiyor",
+  "https://tr.euronews.com/2026/11/27/avrupada-black-friday-havasi-en-karamsar-tuketiciler-yunanistanda",
   "https://tr.euronews.com/2026/11/27/avrupada-ev-sahipleri-gunese-donuyor-vergi-ve-tesvikler-kistan-once-talebi-artirdi",
+  "https://tr.euronews.com/2026/11/27/avrupanin-yeni-isinma-teknolojisi-isi-pompalari-nedir-faturalari-dusurur-mu",
   "https://tr.euronews.com/2026/11/27/danimarka-nufus-kayit-sistemine-saldiri-11-bin-kisinin-verisi-calindi-18-yasindaki-genc-tu",
   "https://tr.euronews.com/2026/11/27/ecbnin-basina-gecmesi-beklenen-hernandez-de-cos-faizlerde-ne-degisecek",
   "https://tr.euronews.com/2026/11/27/fransada-enflasyon-kasimda-yuzde-29a-geriledi-enerji-fiyatlarinda-sert-dusus",
@@ -774,6 +856,7 @@
   "https://tr.euronews.com/video/2026/11/27/batumide-besiktas-hapoel-beer-sheva-maci-polisle-taraftarlar-catisti-16-gozalti",
   "https://tr.euronews.com/video/2026/11/27/cannon-beachte-king-tide-adam-ve-kopegini-denize-surukledi-yaralanmadilar",
   "https://tr.euronews.com/video/2026/11/27/estonya-rusya-ile-bes-kara-sinir-kapisini-kapatmaya-hazirlaniyor-aileler-ve-is-dunyasi-etk",
+  "https://tr.euronews.com/video/2026/11/27/londradaki-cake-bake-show-attenboroughun-100-yili-doga-temali-pastalarla-kutlandi",
   "https://tr.euronews.com/video/2026/11/27/marsilya-levski-maci-oncesi-tribunde-nazi-selami-iddiasi-goruntu-tepki-cekti",
   "https://tr.euronews.com/video/2026/11/27/moskovanin-en-buyuk-buz-pisti-sovyet-donemi-sergi-parkinda-20-bin-metrekarelik-alan",
   "https://tr.euronews.com/video/2026/11/27/ohioda-otoyol-rampinda-kamyon-askida-kaldi-cctv-goruntuleri-yayinlandi",
@@ -784,6 +867,7 @@
   "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
   "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
   "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
+  "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
   "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
   "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
   "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo",
@@ -827,16 +911,23 @@
   "https://www.cumhuriyet.com.tr/ekonomi/malatya-da-birlesik-emekliler-sendikasi-uyeleri-sokaga-cikti-secim-oncesi-vaatlere-karnimiz-tok-2559955",
   "https://www.cumhuriyet.com.tr/ekonomi/soma-dan-konya-ya-uzanan-isci-mucadelesi-milyarlik-alacaklar-odenmiyor-2559892",
   "https://www.cumhuriyet.com.tr/ekonomi/trump-yonetiminden-cin-e-yeni-gumruk-vergisi-hamlesi-ticaret-ateskesi-tehlikede-2559840",
+  "https://www.cumhuriyet.com.tr/gurme/cay-demlenene-kadar-hazir-buzluk-boregi-tarifi-2559993",
   "https://www.cumhuriyet.com.tr/gurme/ici-yumusacik-disi-hafif-citir-italyan-ekmegi-balkabakli-kekikli-focaccia-tarifi-2559841",
   "https://www.cumhuriyet.com.tr/gurme/kis-sofralarina-kitir-kitir-lezzet-pirasa-tursusu-tarifi-2559873",
   "https://www.cumhuriyet.com.tr/gurme/meksika-esintili-kat-kat-lezzet-chili-con-carne-lazanya-tarifi-2559910",
   "https://www.cumhuriyet.com.tr/is-dunyasi/yuan-huan-serisi-ucuncu-kitabiyla-devam-ediyor-bu-kez-hikayenin-parcasi-sensin-2559829",
   "https://www.cumhuriyet.com.tr/kultur-sanat/dune-avengers-doomsday-sinema-salonlarinda-aralik-maratonu-iste-vizyona-girecek-en-iddiali-9-film-2559878",
+  "https://www.cumhuriyet.com.tr/kultur-sanat/kadinlar-hitit-uygarligini-gelecege-tasidilar-2559997",
+  "https://www.cumhuriyet.com.tr/kultur-sanat/suc-ve-ceza-film-festivali-basladi-2559995",
+  "https://www.cumhuriyet.com.tr/otomotiv/honda-2-2-yil-garanti-programi-genisledi-iste-program-sartlari-ve-kapsama-alinan-modeller-2559998",
   "https://www.cumhuriyet.com.tr/otomotiv/volkswagen-den-hindistan-da-1-2-milyar-dolarlik-vergi-savunmasi-mercedes-bmw-ve-kia-da-aynisini-yapiyor-2559970",
+  "https://www.cumhuriyet.com.tr/siyaset/akp-ye-gecen-antalya-buyuksehir-belediyesi-baskan-vekili-busra-ozdemir-vicdanim-cok-rahat-geceden-sabaha-bir-karar-vermedim-2559999",
   "https://www.cumhuriyet.com.tr/siyaset/cafer-mahiroglu-ndan-operasyon-tepkisi-ne-tesaduf-dedi-kilicdaroglu-nun-aciklamasina-dikkat-cekti-2559919",
+  "https://www.cumhuriyet.com.tr/siyaset/cumhurbaskanligi-butcesinde-fon-tartismasi-usta-fonlarda-sorun-olmadigini-soylediniz-dedi-yilmaz-iftira-diye-karsilik-verdi-2560001",
   "https://www.cumhuriyet.com.tr/siyaset/dem-parti-sozcusu-dogan-dan-teyit-tespit-raporu-cikisi-surec-icin-bir-engele-donusmemeli-2559932",
   "https://www.cumhuriyet.com.tr/siyaset/fon-krizini-haberlestirmislerdi-gazeteciler-saban-sevinc-ve-mustafa-balci-48-gun-sonra-hakim-karsisinda-2559828",
   "https://www.cumhuriyet.com.tr/siyaset/halk-tv-ye-yeni-operasyon-12-kisiye-gozalti-karari-ece-uner-deniz-bayramoglu-ve-kursad-oguz-da-aralarinda-2559836",
+  "https://www.cumhuriyet.com.tr/siyaset/hayata-donus-davasinda-zamanasimi-karari-kesinlesti-yargitay-yolu-da-kapatildi-2559994",
   "https://www.cumhuriyet.com.tr/siyaset/meral-danis-bestas-tan-surec-sikayeti-iktidara-yakin-kanallara-cikamiyoruz-sansurle-karsi-karsiyayiz-2559957",
   "https://www.cumhuriyet.com.tr/siyaset/mhp-trabzon-il-baskanligi-acilisinda-gerginlik-bahceli-apo-ya-selam-soylesin-2559870",
   "https://www.cumhuriyet.com.tr/siyaset/ozgur-ozel-harekete-gecti-yeni-akit-e-500-bin-tl-lik-tazminat-davasi-2559976",
@@ -863,6 +954,8 @@
   "https://www.cumhuriyet.com.tr/spor/uefa-avrupa-ligi-nde-5-hafta-sona-erdi-2559808",
   "https://www.cumhuriyet.com.tr/turkiye/15-yasindaki-isil-oyku-dinc-in-olumune-iliskin-davada-yeni-gelisme-surucuye-beraat-talebi-2559913",
   "https://www.cumhuriyet.com.tr/turkiye/2026-saglik-bakanligi-personel-alimi-basvurulari-basladi-mi-saglik-bakanligi-personel-alimi-hangi-brans-ve-kadrolara-yapilacak-2559866",
+  "https://www.cumhuriyet.com.tr/turkiye/4-lastik-degismeli-diyerek-tuketiciyi-yaniltti-otomotiv-servisi-muhurlendi-2560002",
+  "https://www.cumhuriyet.com.tr/turkiye/84-yasindaki-kadin-yuruyen-merdivenden-dustu-hayatini-kaybetti-2560000",
   "https://www.cumhuriyet.com.tr/turkiye/adana-da-9-ogrenci-zehirlenme-suphesiyle-hastaneye-kaldirildi-2559974",
   "https://www.cumhuriyet.com.tr/turkiye/adliyelerde-avukatlara-cam-kapi-ve-guvenlik-engeli-meclis-gundemine-tasindi-2559954",
   "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-izmir-de-4-1-buyuklugunde-deprem-2559806",
@@ -898,6 +991,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/mesam-40-inci-yil-donumunu-kutladi-35-odul-sahiplerini-buldu-2559894",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-27-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559807",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-den-o-iller-icin-kuvvetli-yagis-uyarisi-2559921",
+  "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-tarih-verdi-marmara-ya-kar-ve-firtina-uyarisi-2559992",
   "https://www.cumhuriyet.com.tr/turkiye/milli-piyango-yilbasi-ozel-cekilisi-nde-buyuk-ikramiye-1-milyar-tl-2559874",
   "https://www.cumhuriyet.com.tr/turkiye/mugla-da-yogun-sis-gorus-mesafesi-15-metreye-dustu-2559868",
   "https://www.cumhuriyet.com.tr/turkiye/narin-guran-davasinda-yeni-gelisme-15-sanigin-yargilandigi-davada-karar-cikti-2559891",
@@ -923,12 +1017,14 @@
   "https://www.cumhuriyet.com.tr/tv-rehberi/kizilcik-serbeti-dizisinin-yeni-bolumu-ne-zaman-kizilcik-serbeti-dizisinin-son-bolumunde-ne-oldu-2559931",
   "https://www.cumhuriyet.com.tr/tv-rehberi/soguk-soygun-filminin-konusu-ne-soguk-soygun-filminin-oyunculari-kim-2559933",
   "https://www.cumhuriyet.com.tr/tv-rehberi/tasacak-bu-deniz-dizisinin-son-bolumunde-ne-oldu-tasacak-bu-deniz-dizisinin-yeni-bolumu-var-mi-2559978",
+  "https://www.cumhuriyet.com.tr/tv-rehberi/tehlikeli-sular-filminin-konusu-ne-tehlikeli-sular-filminin-oyunculari-kim-2559981",
   "https://www.cumhuriyet.com.tr/yasam/ajda-pekkan-davayi-kazandi-muzik-dunyasinda-dijital-haklar-yeniden-masada-2559917",
   "https://www.cumhuriyet.com.tr/yasam/beynimizin-hafiza-sistemi-yasanmamis-olaylar-neden-gercek-gibi-algilaniyor-2559980",
   "https://www.cumhuriyet.com.tr/yasam/bilim-insanlari-150-yillik-gizemi-cozdu-kopek-buyuklugunde-dev-akrep-kesfedildi-2559916",
   "https://www.cumhuriyet.com.tr/yasam/bilisim-dunyasinda-sifreleme-alarmi-yapay-zeka-internetin-guvenlik-duvarini-mi-asti-2559953",
   "https://www.cumhuriyet.com.tr/yasam/eylul-de-basladi-mart-a-kadar-durmayacak-andirin-in-yesil-altini-nda-hasat-suruyor-araclarin-giremedigi-kayaliklarda-yetisiyor-2559896",
   "https://www.cumhuriyet.com.tr/yasam/gece-yemek-yeme-istegi-neden-olur-gece-acligini-artiran-8-neden-2559872",
+  "https://www.cumhuriyet.com.tr/yasam/hasat-bitti-ama-asil-zahmetli-mesai-simdi-basladi-gunlerce-guneste-kurutulacak-2559996",
   "https://www.cumhuriyet.com.tr/yasam/karapinar-ovasi-ndan-fabrikaya-kamyonlarla-tasiniyor-gunde-10-bin-ton-mahsul-toplaniyor-2559903",
   "https://www.cumhuriyet.com.tr/yasam/kesislerin-binlerce-yillik-sirri-cozuldu-bu-ev-isleri-zihni-sakinlestirip-stresi-azaltiyor-2559890",
   "https://www.cumhuriyet.com.tr/yasam/sac-tellerinden-cikan-dna-sirri-cozdu-beethoven-in-vasiyeti-200-yil-sonra-yerine-getirildi-2559871",
@@ -942,6 +1038,8 @@
   "https://www.dw.com/de/mutmaßlicher-hackerangriff-auf-deutschen-softwarekonzern-sap/a-80072576",
   "https://www.dw.com/de/news-kompakt-neuseeland-vor-schwieriger-regierungsbildung/a-80070525",
   "https://www.dw.com/de/thanksgiving-sturm-in-den-usa-hunderttausende-ohne-strom/a-80073073",
+  "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728",
+  "https://www.dw.com/en/as-gambia-gears-up-for-election-can-barrow-secure-a-third-term/a-80076340",
   "https://www.dw.com/en/duterte-s-icc-trial-what-is-at-stake-for-the-philippines/a-80075657",
   "https://www.dw.com/en/german-catholic-church-abuse-victims-may-receive-higher-compensation/a-80071917",
   "https://www.dw.com/en/germany-s-tiny-bsw-is-a-party-in-crisis-as-it-is-set-to-hand-the-far-right-afd-power-in-saxony-anhalt/a-80074417",
@@ -964,6 +1062,7 @@
   "https://www.euronews.com/2026/11/27/kim-jong-un-watches-russian-performers-in-pyongyang",
   "https://www.euronews.com/2026/11/27/nato-jets-scrambled-after-drone-briefly-enters-latvian-airspace",
   "https://www.euronews.com/2026/11/27/north-korea-halts-russia-military-aid-over-seoul-row-kyiv-says",
+  "https://www.euronews.com/2026/11/27/russian-drone-strikes-hit-ukraines-energy-rail-and-civilian-infrastructure-causing-deaths",
   "https://www.euronews.com/2026/11/27/son-of-myanmars-suu-kyi-relieved-by-first-call-in-five-years-questions-militarys-motives",
   "https://www.euronews.com/2026/11/27/thanksgiving-turkeys-fall-from-the-sky-for-families-in-remote-alaska",
   "https://www.euronews.com/2026/11/27/video-captures-king-tide-sweeping-man-and-dog-into-the-sea",
@@ -971,6 +1070,7 @@
   "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-midday",
   "https://www.euronews.com/video/2026/11/27/latest-news-bulletin-november-27th-2026-morning",
   "https://www.euronews.com/video/2026/11/27/russia-moscows-iconic-soviet-era-expo-park-opens-its-20000-square-metre-outdoor-ice-rink",
+  "https://www.euronews.com/video/2026/11/27/uk-londons-cake-and-bake-show-honours-david-attenboroughs-centenary",
   "https://www.euronews.com/video/2026/11/27/video-shows-levski-fan-caught-giving-nazi-salute-before-marseille-match",
   "https://www.evrensel.net/haber/6011402/ab-liderleri-yeni-butce-pazarliginda-uzlasamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011403/altin-yeniden-yukseliste-gram-ve-ceyrek-altin-kac-lira?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -1065,6 +1165,16 @@
   "https://www.evrensel.net/haber/6011496/nizip-cezaevi-nde-supheli-olum?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011497/tilki-selim-lakapli-selim-isik-uskudar-da-yakalandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011498/tutuklama-sadece-foncuya-istisna?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011499/ozgur-ozel-yeni-akit-e-500-bin-tl-lik-tazminat-davasi-acti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011501/mardin-de-is-kazasi-insaat-iskelesinden-dusen-isci-agir-yaralandi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011502/berlin-de-amazon-un-deposu-onunde-filistin-eylemi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011503/savcilik-leyla-zana-ya-yonelik-cinsiyetci-tezahurat-nedeniyle-uc-kisi-hakkinda-takipsizlik-karari-verdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011504/kopan-ceki-demiri-basina-carpmisti-izbb-iscisi-kamil-capar-is-cinayetinde-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011505/yabanci-basina-silahlarla-roportaj-veren-suphelilere-yonelik-operasyonda-gozalti-sayisi-15-e-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011507/kanarya-adalari-na-ulasan-teknedeki-10-dan-fazla-gocmen-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011508/gurcistan-buyukelcisi-disisleri-bakanligi-na-cagrildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011509/besiktas-kafilesi-istanbul-a-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011511/girne-aciklarindaki-gemi-faciasi-sorusturmasi-polis-nezaretinde-tutulan-9-kisi-cezaevine-gonderildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/rezept-fuer-ihr-weihnachtsmenue-2026-lachsforelle-entenbrust-und-lebkuchenschnitte-accg-201625996.html",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-kinder-besser-lernen-haette-auch-ich-gut-in-mathe-sein-koennen-accg-201692367.html",
   "https://www.faz.net/aktuell/besser-leben/stil/weihnachten-64-geschenkideen-von-guenstig-bis-teuer-201659894.html",
@@ -1074,6 +1184,7 @@
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/patricia-nilsson-pornhub-weiss-mehr-ueber-uns-als-wir-ueber-uns-selbst-wissen-accg-201687915.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/patricia-nilsson-wie-pornos-zum-alltaeglichen-geschaeftsmodell-geworden-sind-accg-201687915.html",
   "https://www.faz.net/aktuell/feuilleton/kunstmarkt/lempertz-versteigert-koerbecke-altartafeln-und-mehr-accg-201710858.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/robert-de-niro-und-ben-stiller-in-meine-braut-unsere-schwiegertochter-und-ich-201720327.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesregierung-will-ki-anbieter-zu-urheberrecht-abgabe-zwingen-accg-201722383.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/talkshow/maybrit-illner-cdu-und-spd-starren-in-einen-abgrund-accg-201721717.html",
   "https://www.faz.net/aktuell/feuilleton/musik-und-buehne/konzert/joerg-widmann-leitet-das-lucerne-festival-forward-201714400.html",
@@ -1084,6 +1195,7 @@
   "https://www.faz.net/aktuell/finanzen/nvidia-und-dax-in-der-black-week-kommt-die-jahresendrally-accg-201722508.html",
   "https://www.faz.net/aktuell/fotografie/graciela-iturbide-leica-ehrt-die-fotografin-in-der-hall-of-fame-accg-201678548.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/flucht-aus-bremer-psychiatrie-straftaeter-in-hamburg-gefasst-accg-201722704.html",
+  "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/hamburg-polizisten-wegen-koerperverletzung-im-amt-verurteilt-201724281.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/straftaeter-nach-flucht-aus-bremer-psychiatrie-gefasst-accg-201722704.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/338-woerter-weniger-am-tag-reden-wir-noch-genug-miteinander-accg-201708315.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/haesslich-oder-authentisch-esslinger-weihnachtsbaum-sorgt-fuer-debatte-accg-201722280.html",
@@ -1104,20 +1216,24 @@
   "https://www.faz.net/aktuell/politik/ukraine/ukraine-liveticker-lettland-meldet-verletzung-von-luftraum-durch-drohne-faz-110683325.html",
   "https://www.faz.net/aktuell/reise/auf-nach-afrika-201632567.html",
   "https://www.faz.net/aktuell/rhein-main/erster-schneefall-in-hessen-erwartet-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+  "https://www.faz.net/aktuell/rhein-main/frankfurt/ausschreitungen-beim-stuttgart-spiel-poseck-wirft-eintracht-frankfurt-taeter-opfer-umkehr-vor-201721598.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/mehr-als-8000-baeume-als-ausgleich-fuer-nordmainische-s-bahn-accg-201719635.html",
   "https://www.faz.net/aktuell/rhein-main/kultur/kabarettarchiv-mainz-zeigt-schau-zu-schlagern-der-zwanziger-201662574.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/depressionen-in-hessen-klinikbehandlungen-um-74-prozent-gestiegen-accg-201717775.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/felix-schwenke-bewirbt-sich-um-spd-spitzenkandidatur-in-hessen-201723397.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/main-taunus-kreis-mann-bei-festnahme-schwer-verletzt-lka-ermittelt-gegen-polizeibeamte-accg-201723283.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/nadine-riedesel-schreibt-liebesroman-ueber-atlantikreise-von-vorfahrin-im-amerikanischen-unabhaengigkeitskrieg-accg-201719414.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/skigebiet-willingen-wann-startet-die-wintersaison-accg-201722098.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/so-kocht-und-isst-man-in-japan-zwei-neue-kochbuecher-widmen-sich-der-vielfalt-nippons-accg-201710863.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/weihnachtsgeschaeft-frankfurter-haendler-hoffen-auf-verkaufsoffene-sonntage-201716916.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/kredit-umschulden-wann-es-sich-lohnt-und-wann-nicht-accg-201687893.html",
+  "https://www.faz.net/aktuell/rhein-main/wirtschaft/noch-mehr-acai-bowls-an-der-berger-strasse-in-frankfurt-201688869.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/tarifverhandlungen-metallbranche-in-hessen-duerfte-pilotabschluss-uebernehmen-accg-201722478.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/umschuldung-wann-ein-neuer-kredit-wirklich-zinsen-spart-accg-201687893.html",
   "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-der-woche-testen-sie-ihr-wissen-heute-welche-hollywoodstars-kommen-zu-wetten-dass-faz-accg-201722845.html",
   "https://www.faz.net/aktuell/sport/formel-1/motorsport/motorrad-champion-marc-marquez-tritt-zurueck-accg-201723119.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/fc-bayern-muenchen-dreesen-antwortet-auf-kimmich-kritik-im-fall-musiala-201721093.html",
+  "https://www.faz.net/aktuell/sport/fussball/bundesliga/jamal-musiala-topspieler-fehlt-fc-bayern-muenchen-wohl-bis-jahresende-201724329.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/joshua-kimmich-kritik-im-fall-jamal-musiala-riss-bei-fc-bayern-muenchen-201717499.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/warum-medienrechtevergabe-in-frauen-bundesliga-historische-chance-ist-accg-201672613.html",
   "https://www.faz.net/aktuell/sport/fussball/islaendischer-fussball-nationaltorwart-ingvar-jonsson-mit-37-jahren-gestorben-accg-201722736.html",
@@ -1136,12 +1252,14 @@
   "https://www.faz.net/aktuell/wirtschaft/klima-nachhaltigkeit/die-energiewende-ist-mehr-als-eine-kostenrechnung-accg-201715367.html",
   "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/13-monatsrente-schweizer-stimmen-ueber-mehrwertsteuererhoehung-ab-accg-201714231.html",
   "https://www.faz.net/aktuell/wirtschaft/rekordschulden-und-ein-schwacher-ausblick-ein-haushalt-der-negativrekorde-201722642.html",
+  "https://www.faz.net/aktuell/wirtschaft/rente-mit-63-schweitzer-will-abschlagsfreie-fruehrente-einschraenken-201724330.html",
   "https://www.faz.net/aktuell/wirtschaft/tarifeinigung-in-der-metallindustrie-die-mitarbeiter-in-die-pflicht-nehmen-201722276.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/black-week-warum-ist-die-rabattschlacht-so-beliebt-accg-201699913.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-rheinmetall-mitarbeiter-durch-drohnenangriff-in-kuwait-getoetet-faz-200452404.html",
   "https://www.faz.net/aktuell/wirtschaft/unternehmen/nvidia-wird-zum-familienbetrieb-plant-jensen-huang-seine-nachfolge-accg-201717897.html",
   "https://www.faz.net/aktuell/wissen/geist-soziales/daniel-bell-und-der-widerspruch-des-kapitalismus-accg-201668696.html",
   "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/zerbricht-das-bsw-an-der-afd-faz-fruehdenker-201721719.html",
+  "https://www.faz.net/podcasts/wie-erklaere-ich-s-meinem-kind/weihnachtsgeschenke-fuer-kinder-erklaert-201720615.html",
   "https://www.faz.net/premium/meine-finanzen/rentenphase-wie-sie-vom-vermoegen-leben-accg-201708415.html",
   "https://www.faz.net/video/letzte-busfahrten-von-st-petersburg-nach-estland-vor-der-grenzschliessung-201723977.html",
   "https://www.faz.net/video/peru-vernichtet-kokain-in-einem-spezialofen-201722380.html",
@@ -1151,8 +1269,10 @@
   "https://www.france24.com/en/europe/20261127-sanchez-makes-last-bid-to-beat-the-right-ahead-of-spanish-vote",
   "https://www.france24.com/en/france/20261127-five-people-hospitalised-as-levski-sofia-and-marseille-fans-clash-ahead-of-europa-league-game",
   "https://www.france24.com/en/middle-east/20261127-israel-s-eisenkot-agrees-to-coalition-deal-with-left-wing-democrats",
+  "https://www.france24.com/en/tv-shows/focus/20261127-with-new-law-iraq-sees-rise-in-child-marriage-custody-battles",
   "https://www.france24.com/en/tv-shows/press-review/20261127-why-is-india-so-afraid-of-pakistan-s-new-netflix-series",
   "https://www.france24.com/en/tv-shows/reporters/20261127-immigration-south-africa-no-longer-an-el-dorado-for-foreigners",
+  "https://www.france24.com/en/tv-shows/revisited/20261127-japan-radical-past-retracing-far-left-groups-1970s",
   "https://www.france24.com/en/tv-shows/sports/20261127-lyon-held-and-marseille-pushed-in-mixed-europa-league-night-for-french-clubs",
   "https://www.france24.com/en/tv-shows/spotlight/20261127-tribal-loyalty-works-on-right-heart-on-the-left-sensitive-to-racism-antisemitism-human-rights",
   "https://www.france24.com/en/video/20261127-black-friday-the-evolution-of-a-shopping-phenomenon",
@@ -1170,32 +1290,39 @@
   "https://www.spiegel.de/ausland/china-ehemaliger-regionalpolitiker-wegen-korruption-zum-tode-verurteilt-a-2339c559-1efd-4593-b8e4-41e00d26e924#ref=rss",
   "https://www.spiegel.de/ausland/nordkorea-drosselt-offenbar-waffenlieferungen-an-russland-a-83fe0597-7903-4556-b445-af08b3de5d1b#ref=rss",
   "https://www.spiegel.de/ausland/oesterreich-fiaker-vor-dem-aus-wien-streitet-ueber-pferdekutschen-a-0b2962d3-7a87-4271-8421-3a8e81234c70#ref=rss",
+  "https://www.spiegel.de/ausland/serbien-studierendenliste-nominiert-chemieprofessor-als-praesidentschaftskandidat-a-a6382c22-ad83-40da-ab1c-4e60b160df20#ref=rss",
   "https://www.spiegel.de/ausland/ukraine-russland-krieg-frau-bei-drohnenangriff-auf-st-petersburg-verletzt-a-4d604758-b994-470c-bd3c-46fcb14e157e#ref=rss",
   "https://www.spiegel.de/karriere/heiligabend-und-silvester-muss-ich-an-diesen-tagen-urlaub-nehmen-a-1296909.html#ref=rss",
   "https://www.spiegel.de/kultur/kino/the-further-mis-adventures-of-cliff-booth-regisseur-david-fincher-nutzt-ki-um-arbeit-echter-menschen-zu-verbessern-a-181f66c5-058a-4c9d-955a-4e9491ecf049#ref=rss",
+  "https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-enthaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss",
   "https://www.spiegel.de/kultur/rot-gruen-rot-in-berlin-gegner-muessen-waehlern-bessere-angebote-machen-kommentar-a-602ebd72-1bb0-4cfe-b0dd-3d5f7a0b8f25#ref=rss",
   "https://www.spiegel.de/netzwelt/sap-was-wir-ueber-den-it-sicherheitsvorfall-bei-dem-softwarekonzern-wissen-und-was-nicht-a-c2a93fc5-a2b2-439e-954f-d9c6264468fe#ref=rss",
   "https://www.spiegel.de/panorama/esslingen-weihnachtsbaum-sorgt-fuer-diskussionen-haesslich-oder-authentisch-a-cd9aaf24-e3c0-413e-854e-b9eb8b44f913#ref=rss",
   "https://www.spiegel.de/panorama/gesellschaft/hamburg-altona-einsturzgefaehrdetes-haus-in-der-holstenstrasse-wird-vollstaendig-abgerissen-a-df904f7e-fd2f-48c7-a59d-d6709fa4b0d5#ref=rss",
+  "https://www.spiegel.de/panorama/gesellschaft/weihnachtsmaerkte-in-deutschland-diese-sechs-sollen-zu-den-besten-europas-gehoeren-a-783bdd55-5f30-4671-8f8a-9e98cabd4570#ref=rss",
   "https://www.spiegel.de/panorama/justiz/august-hanning-frueherer-bnd-chef-scheitert-mit-haftbeschwerde-a-75c470ba-5f6e-46d1-a0f1-9b4cc34934cb#ref=rss",
   "https://www.spiegel.de/panorama/justiz/gen-z-regelt-demonstrationen-wer-randalierte-nach-den-friedlichen-protesten-a-9543e0e3-9d28-4e89-9498-e9257dd10ba2#ref=rss",
   "https://www.spiegel.de/panorama/justiz/proiranische-terroristen-sollen-auch-anschlag-auf-synagoge-in-schweden-geplant-haben-a-a26c0711-a2b9-4f12-aefd-7dafea411cc1#ref=rss",
   "https://www.spiegel.de/panorama/leute/helene-fischer-wuerde-gern-einen-tag-lang-einfach-nur-poebeln-a-ee68450a-d5e2-48f7-81ac-2c5aff03b14e#ref=rss",
   "https://www.spiegel.de/panorama/usa-sturm-beschaedigt-kuesten-fast-eine-million-haushalte-ohne-strom-a-2c145727-f232-4687-b06c-7c3ecf344b6f#ref=rss",
+  "https://www.spiegel.de/panorama/wetter-minusgrade-und-glaette-am-ersten-adventswochenende-a-51f64aef-1c7a-47f6-b28e-2843340ef501#ref=rss",
   "https://www.spiegel.de/panorama/zugspitze-und-sauerland-starten-in-die-wintersaison-a-17c338ee-7739-4e4e-ad61-b23d77ada0cf#ref=rss",
   "https://www.spiegel.de/politik/bundeswehr-heico-huebner-wird-neuer-inspekteur-des-heeres-a-a16eb3ee-d796-436e-8e69-34a224079c4f#ref=rss",
   "https://www.spiegel.de/politik/deutschland/bsw-parteitag-in-dresden-ringt-um-kurs-zur-afd-zusammenarbeit-a-76fa5c12-4306-42ea-b5af-16dff89eeea4#ref=rss",
   "https://www.spiegel.de/politik/deutschland/friedrich-merz-das-schicksalsjahr-des-cdu-kanzlers-beginnt-jetzt-a-425929cf-a265-495d-8211-8c82318c8aa1#ref=rss",
+  "https://www.spiegel.de/politik/deutschland/julia-kloeckner-fordert-heidi-reichinnek-auf-sich-von-linken-blockieren-zu-distanzieren-a-fd433eed-c03a-4b17-a255-805857ed8319#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36#ref=rss",
   "https://www.spiegel.de/politik/deutschland/zentralrat-der-juden-josef-schuster-widerspricht-afd-chefin-alice-weidel-a-683a456b-c93e-4d37-aefb-14602532e3fa#ref=rss",
   "https://www.spiegel.de/politik/rente-thorsten-frei-dringt-auf-einigung-und-mahnt-verantwortung-fuer-das-land-an-a-07e8756d-edb9-4db9-9c8c-8d23eb6a2010#ref=rss",
   "https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss",
   "https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss",
   "https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss",
+  "https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss",
   "https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss",
   "https://www.spiegel.de/sport/motogp-weltmeister-marc-marquez-verkuendet-karriereende-im-stil-von-tatsaechlich-liebe-a-d0d37d33-133f-4175-a6a3-51c10a84384f#ref=rss",
   "https://www.spiegel.de/sport/schach/schach-wm-die-besten-memes-zum-duell-gukesh-sindarov-a-8a078535-ba55-49b0-8ede-66c0c94298df#ref=rss",
+  "https://www.spiegel.de/sport/wintersport/biathlon-karriere-mit-kind-janina-hettich-walz-ueber-kosten-und-krankheitsangst-a-e52767c9-9570-4ee4-8444-09f2547b1a51#ref=rss",
   "https://www.spiegel.de/sport/wintersport/eiskunstlauf-vierfach-gott-ilia-malinin-bricht-kurzprogramm-weltrekord-a-f9728e6e-fcea-4733-afd9-cbfc9bc0732d#ref=rss",
   "https://www.spiegel.de/sport/wintersport/nordische-kombiniererin-nathalie-armbruster-so-plant-sie-nach-dem-olympia-aus-ihrer-sportart-a-7108b12e-1d96-4d36-9977-868c27834c81#ref=rss",
   "https://www.spiegel.de/wirtschaft/arbeitsmarkt-herbstkonjunktur-kann-abwaertstrend-nicht-bremsen-a-1e340c77-d333-4766-b96e-ab7f1d5a2976#ref=rss",
@@ -1203,6 +1330,7 @@
   "https://www.spiegel.de/wirtschaft/geldanlage-es-kommt-auch-auf-die-zahl-hinter-dem-komma-an-a-c5e1071c-2310-4298-b4bb-c5aa6f4d64be#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/black-friday-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss",
+  "https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss",
   "https://www.spiegel.de/wirtschaft/tarifabschluss-in-der-metall-und-elektroindustrie-das-herz-der-deutschen-wirtschaft-schlaegt-noch-a-866a0dba-a8ab-471b-bdc7-ace99989afb2#ref=rss",
   "https://www.spiegel.de/wissenschaft/mensch/kinderwunsch-ein-kuenstlicher-kleber-fuer-gealterte-eizellen-a-43e23d6b-3566-4a44-9478-2e2b613fb07b#ref=rss",
   "https://www.spiegel.de/wissenschaft/technik/mikrochips-nanodraehte-koennten-kupfer-in-chips-abloesen-a-efaec81e-9074-4cb0-86d5-ff75f9308c4a#ref=rss",
@@ -1213,6 +1341,7 @@
   "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
   "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html",
   "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
+  "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
   "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
   "https://www.tagesschau.de/inland/bundestag-haushalt-rentenreform-schweitzer-100.html",
@@ -1243,6 +1372,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
   "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
+  "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
   "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
   "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
   "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
@@ -1252,11 +1382,13 @@
   "https://www.theguardian.com/politics/2026/nov/26/labour-split-over-rosebank-oilfield-exposed-by-letter-from-nearly-100-mps",
   "https://www.theguardian.com/politics/2026/nov/27/dwp-cyber-incident-pensions-benefits-systems-offline",
   "https://www.theguardian.com/politics/live/2026/nov/27/department-work-pensions-offline-cyber-incident-rosebank-slapps-latest-news-updates",
+  "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
   "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
   "https://www.theguardian.com/uk-news/2026/nov/27/up-to-1point4-million-uk-workers-risk-missing-out-zero-hours-shake-up",
   "https://www.theguardian.com/us-news/2026/nov/27/ai-retailer-consumer-guardrails",
   "https://www.theguardian.com/us-news/2026/nov/27/bigfoot-enthusiasts-sightings",
   "https://www.theguardian.com/us-news/2026/nov/27/first-thing-trump-claims-revised-economic-data-shows-pre-midterms-figures-were-fake",
+  "https://www.theguardian.com/us-news/2026/nov/27/glyphosate-cancer-studies-trump-epa",
   "https://www.theguardian.com/us-news/2026/nov/27/heavy-rain-wind-flooding-us-thanksgiving",
   "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
   "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
@@ -1264,8 +1396,10 @@
   "https://www.theguardian.com/world/2026/nov/27/for-whom-the-bells-troll-french-town-divided-over-churchs-night-time-chimes",
   "https://www.theguardian.com/world/2026/nov/27/israeli-justice-system-judges-call-drop-netanyahu-charges",
   "https://www.theguardian.com/world/2026/nov/27/mad-about-mara-the-diy-dance-movement-helping-young-nigerians-escape-the-daily-grind",
+  "https://www.theguardian.com/world/2026/nov/27/mass-casualty-event-europe-possible-russian-sabotage-says-thinktank",
   "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
   "https://www.theguardian.com/world/live/2026/nov/27/zelenskyy-putin-trump-comments-russia-ukraine-latest-news-updates",
+  "https://www.welt.de/debatte/article6b0976ab3d0d9d6539f8facc/jean-luc-melenchon-er-hetzt-gegen-juden-und-deutsche-die-linkspartei-laedt-ihn-trotzdem-ein.html",
   "https://www.welt.de/debatte/plus6b0695efd4a4a3142c5728da/machtkampf-um-ki-vorzensur-fuer-ki-worum-es-im-fall-huang-wirklich-geht.html",
   "https://www.welt.de/debatte/plus6b081c2c0307d967a6b53440/afd-chefin-alice-weidel-das-parteiverbotsverfahren-wird-2027-kommen.html",
   "https://www.welt.de/debatte/plus6b081f7a7af5dee5d20acbc1/ruanda-deal-robert-habeck-und-die-moral-des-nichtstuns.html",
@@ -1277,6 +1411,7 @@
   "https://www.welt.de/gesundheit/plus6a38ec557e682fc37fc03283/longevity-die-gebrechlichkeit-im-alter-kann-man-bei-fast-jedem-umkehren.html",
   "https://www.welt.de/iconist/partnerschaft/plus6b0945ab4f5d4fcd0acd2cbc/dating-nach-der-trennung-ich-bin-getrennt-ich-darf-das-mein-erster-kuss-nach-16-jahren.html",
   "https://www.welt.de/kultur/article6b094f553902428a0b42949e/haessliche-weihnachtsbaeume-jetzt-steckt-deutschland-auch-noch-in-der-tannen-krise.html",
+  "https://www.welt.de/kultur/article6b098a243d0d9d6539f8fd79/heino-nutzt-liedtext-aus-ns-zeit-fuer-neuen-song-youtube-sperrt-video.html",
   "https://www.welt.de/kultur/plus6b06cddc366061b7ba3e51ee/wenn-die-24-jaehrige-tochter-noch-einen-adventskalender-verlangt.html",
   "https://www.welt.de/kultur/plus6b070d6c10bfe646193e96c4/wie-funktioniert-der-beweis-der-riemannschen-vermutung-ein-gespraech-mit-claude-opus-5-5.html",
   "https://www.welt.de/politik/ausland/article6b08a3511c642858307a5521/eu-gipfel-vorzeitig-abgebrochen-magyar-macht-sich-ueber-ergebnislose-verhandlungen-lustig.html",
@@ -1288,13 +1423,17 @@
   "https://www.welt.de/politik/ausland/plus6afc16b5bfa018bfcc989e36/frankreich-le-pen-hat-weder-die-intelligenz-noch-die-ernsthaftigkeit-noch-die-faehigkeiten-melonis.html",
   "https://www.welt.de/politik/ausland/plus6afc16b5bfa018bfcc989e36/frankreich-melenchon-oder-le-pen-waehlen-heisst-putin-waehlen.html",
   "https://www.welt.de/politik/ausland/plus6b0936fd09772de371850f35/zuwanderung-wir-machen-hier-nicht-schluss-grossbritannien-auf-dem-weg-zur-netto-null-migration.html",
+  "https://www.welt.de/politik/ausland/plus6b0960ba98adb43a8b36832f/ukraine-krieg-zeit-zum-aufstehen-europas-schicksal-haengt-unaufloeslich-an-dem-der-ukraine.html",
   "https://www.welt.de/politik/deutschland/article6b09224646039c5f0be5bbe1/einkommensteuer-anhebung-des-grundfreibetrags-union-macht-spd-neues-angebot-bei-steuerreform.html",
   "https://www.welt.de/politik/deutschland/article6b092ceb09772de371850e36/rentenstreit-wirtschaftsrat-der-cdu-besteht-auf-abschaffung-der-rente-mit-63-und-nennt-spd-bigott.html",
   "https://www.welt.de/politik/deutschland/article6b092e2e09772de371850e4d/umfrage-union-verliert-spd-gewinnt-hinzu-ansehensverluste-fuer-regierungspolitiker.html",
   "https://www.welt.de/politik/deutschland/article6b0936083902428a0b4291e8/gendern-ideologische-verbissenheit-gruene-kritisieren-genderverbot-im-auswaertigen-amt.html",
   "https://www.welt.de/politik/deutschland/article6b09392f46039c5f0be5bd80/philipp-tuermer-kein-mensch-weiss-wofuer-die-spd-heute-steht-sagt-der-juso-chef.html",
   "https://www.welt.de/politik/deutschland/article6b0964196a4ea151d91c23a0/zentralrat-reagiert-auf-weidel-die-afd-sucht-seit-jahren-nach-einem-feigenblatt-fuer-ihre-ressentimentgeladene-politik.html",
+  "https://www.welt.de/politik/deutschland/article6b098e5b3d0d9d6539f8fe55/rentenreform-schweitzer-legt-renten-gesetzentwurf-vor-rente-mit-63-bleibt-abgeordnete-sollen-einzahlen.html",
   "https://www.welt.de/politik/deutschland/plus6b06a265cd4642ba2eb17f53/was-gute-lehrer-ausmacht-wenn-wir-diese-positionierung-aufgeben-haben-wir-verloren.html",
+  "https://www.welt.de/politik/deutschland/plus6b07f66809772de37184f266/aufwuchs-der-bundeswehr-verschlusssache-verteidigungsaufstellung.html",
+  "https://www.welt.de/politik/deutschland/plus6b08bd6709772de371850aa6/oeffentlich-rechtlicher-rundfunk-medienpolitische-notwehr-oder-taschenspielertrick-neue-rundfunk-regel-loest-kontroverse-aus.html",
   "https://www.welt.de/politik/deutschland/video6b08792e09772de3718505ef/wahl-in-sachsen-anhalt-das-ganze-ist-eigentlich-eine-klamotte-die-anti-afd-koalition-hat-nichts-anzubieten.html",
   "https://www.welt.de/sport/article6b09835e741a4ef947849eab/eiskunstlauf-druck-beiseite-geschoben-malinin-verzueckt-mit-weltrekord.html",
   "https://www.welt.de/sport/fussball/article6b092d2546039c5f0be5bca8/ingvar-jonsson-37-in-armen-seiner-lieben-verstorben-er-gehoerte-zu-islands-em-kultteam.html",
@@ -1305,8 +1444,10 @@
   "https://www.welt.de/vermischtes/article6b09463b09772de371851092/wetter-wintereinbruch-in-sueddeutschland-allein-400-unfaelle-in-oberbayern.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b0972b93d0d9d6539f8fa26/spionageverdacht-haftbeschwerde-abgewiesen-frueherer-bndchef-hanning-bleibt-in-untersuchungshaft.html",
   "https://www.welt.de/wirtschaft/article6b0944873902428a0b42932c/tanken-autofahrern-droht-im-neuen-jahr-ein-empfindlicher-preisschock.html",
+  "https://www.welt.de/wirtschaft/article6b09666f6a4ea151d91c241d/herr-bundeskanzler-wir-verpfaenden-die-zukunft-unserer-kinder-schreibt-diese-mittelstaendlerin.html",
   "https://www.welt.de/wirtschaft/plus6b0190f039a3e8110f0e54f1/bueroarbeit-am-rande-eines-nervenzusammenbruchs-der-fluch-der-vermeintlichen-ki-effizienz.html",
   "https://www.welt.de/wirtschaft/plus6b030d7d5842ff528b9e4070/die-methode-byd-chinas-neue-elektro-premiere-alarmiert-airbus-und-boeing.html",
+  "https://www.welt.de/wirtschaft/plus6b070edfd4a4a3142c573a17/jusos-die-naechste-wirre-idee-aus-der-sozialistischen-mottenkiste.html",
   "https://www.welt.de/wissenschaft/article6b07ffc61d0c4f9ebad704ec/krebs-forscher-entwickeln-nanoroboter-die-medikamente-direkt-ins-gehirn-liefern.html",
   "https://www.welt.de/wissenschaft/plus6b08176c7af5dee5d20ac90d/verpasste-zukunft-besuch-in-einem-deutschland-das-moeglich-gewesen-waere.html"
  ]
