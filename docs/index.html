@@ -160,7 +160,13 @@ footer.note a{color:var(--muted)}
 /* Profilim */
 dialog.sheet{border:0;padding:0;border-radius:16px;width:min(620px,calc(100vw - 24px));max-height:calc(100dvh - 24px);
   background:var(--bg,var(--surface));color:var(--ink);box-shadow:0 20px 60px rgba(0,0,0,.35)}
-dialog.sheet::backdrop{background:rgba(10,12,20,.55)}
+dialog.sheet::backdrop{background:transparent}
+/* ilk açılış: arkada haber yok, düz zemin üzerinde yalnız profil kurulumu */
+body.onboard > :not(#sheet){visibility:hidden}
+body.onboard dialog.sheet{box-shadow:none;border:1px solid var(--line)}
+body.onboard dialog.sheet::backdrop{background:var(--bg)}
+.sheet .need{margin:0 auto 0 0;align-self:center;font-size:.82rem;color:var(--muted)}
+.sheet button.primary:disabled{opacity:.45;cursor:not-allowed}
 .sheet .in{display:flex;flex-direction:column;gap:16px;padding:18px 18px 0}
 .sheet h2{margin:0;font-size:1.3rem}
 .sheet .lead{margin:0;color:var(--muted);font-size:.92rem}
@@ -224,7 +230,7 @@ dialog.sheet::backdrop{background:rgba(10,12,20,.55)}
       <label class="f"><span id="name-label"></span><input type="text" id="my-name" maxlength="30" autocomplete="given-name"></label>
       <div id="sheet-countries" style="display:flex;flex-direction:column;gap:10px"></div>
     </div>
-    <div class="foot"><button class="primary" id="sheet-done" value="ok"></button></div>
+    <div class="foot"><p class="need" id="sheet-need"></p><button class="primary" id="sheet-done" value="ok"></button></div>
   </form>
 </dialog>
 
@@ -242,8 +248,8 @@ const T = {
       foot:"Haberler seçilen kaynaklardan derlenir; özet ve değerlendirmeler her sabah yapay zekâ ile hazırlanır. Ayrıntı için haberin kaynağına gidin.",
       admin:"Yönetim", locale:"tr-TR",
       world:"Dünya", topics:{gundem:"Gündem", ekonomi:"Ekonomi", teknoloji:"Teknoloji", spor:"Spor", kultur:"Kültür-Sanat"}, topicsLabel:"Konular",
-      me:"Profilim", meTitle:"Profilim", meWelcome:"Hoş geldiniz! Takip etmek istediğiniz ülkeleri ve konuları seçin. İstediğiniz kadar kendi konunuzu ekleyebilirsiniz; ör. Beşiktaş, enflasyon, yapay zekâ.",
-      meLead:"Ülkeleri, ana konuları ve kendi konularınızı seçin. Profiliniz yalnızca bu cihazda saklanır.", myName:"Adınız (isteğe bağlı)",
+      me:"Profilim", meNeed:"Devam etmek için adınızı yazın ve en az bir ülke seçin.", meTitle:"Profilim", meWelcome:"Hoş geldiniz! Takip etmek istediğiniz ülkeleri ve konuları seçin. İstediğiniz kadar kendi konunuzu ekleyebilirsiniz; ör. Beşiktaş, enflasyon, yapay zekâ.",
+      meLead:"Ülkeleri, ana konuları ve kendi konularınızı seçin. Profiliniz yalnızca bu cihazda saklanır.", myName:"Adınız",
       mainTopics:"Ana konular", myTopics:"Kendi konularım", addPh:"Konu ekle, ör. Beşiktaş", add:"Ekle", done:"Tamam", addTab:"+ Konu",
       kwNone:q => `Son 48 saatte "${q}" ile ilgili haber bulunamadı.`, kwMore:n => `${n} haber daha`, kwLoading:"Aranıyor…", remove:"Kaldır",
       noTopic:"Görmek istediğiniz sekmeleri yukarıdan seçin.",
@@ -261,8 +267,8 @@ const T = {
       foot:"Stories are gathered from selected sources; summaries and analysis are written by AI every morning. Follow the link to read the full source.",
       admin:"Admin", locale:"en-GB",
       world:"World", topics:{gundem:"Top news", ekonomi:"Economy", teknoloji:"Technology", spor:"Sport", kultur:"Culture"}, topicsLabel:"Topics",
-      me:"My profile", meTitle:"My profile", meWelcome:"Welcome! Choose the countries and topics you want to follow. Add as many of your own topics as you like, e.g. Bayern, inflation, AI.",
-      meLead:"Choose countries, main topics and your own topics. Your profile is stored only on this device.", myName:"Your name (optional)",
+      me:"My profile", meNeed:"Enter your name and choose at least one country to continue.", meTitle:"My profile", meWelcome:"Welcome! Choose the countries and topics you want to follow. Add as many of your own topics as you like, e.g. Bayern, inflation, AI.",
+      meLead:"Choose countries, main topics and your own topics. Your profile is stored only on this device.", myName:"Your name",
       mainTopics:"Main topics", myTopics:"My topics", addPh:"Add a topic, e.g. Bayern", add:"Add", done:"Done", addTab:"+ Topic",
       kwNone:q => `No stories about "${q}" in the last 48 hours.`, kwMore:n => `${n} more`, kwLoading:"Searching…", remove:"Remove",
       noTopic:"Choose the tabs you want to see above.",
@@ -280,8 +286,8 @@ const T = {
       foot:"Die Meldungen stammen aus ausgewählten Quellen; Zusammenfassungen und Einordnung erstellt jeden Morgen eine KI. Den vollständigen Text finden Sie bei der Quelle.",
       admin:"Verwaltung", locale:"de-DE",
       world:"Welt", topics:{gundem:"Aktuelles", ekonomi:"Wirtschaft", teknoloji:"Technik", spor:"Sport", kultur:"Kultur"}, topicsLabel:"Themen",
-      me:"Mein Profil", meTitle:"Mein Profil", meWelcome:"Willkommen! Wählen Sie die Länder und Themen, denen Sie folgen möchten. Fügen Sie beliebig viele eigene Themen hinzu, z. B. Bayern, Inflation, KI.",
-      meLead:"Wählen Sie Länder, Hauptthemen und eigene Themen. Ihr Profil wird nur auf diesem Gerät gespeichert.", myName:"Ihr Name (optional)",
+      me:"Mein Profil", meNeed:"Geben Sie Ihren Namen ein und wählen Sie mindestens ein Land.", meTitle:"Mein Profil", meWelcome:"Willkommen! Wählen Sie die Länder und Themen, denen Sie folgen möchten. Fügen Sie beliebig viele eigene Themen hinzu, z. B. Bayern, Inflation, KI.",
+      meLead:"Wählen Sie Länder, Hauptthemen und eigene Themen. Ihr Profil wird nur auf diesem Gerät gespeichert.", myName:"Ihr Name",
       mainTopics:"Hauptthemen", myTopics:"Meine Themen", addPh:"Thema hinzufügen, z. B. Bayern", add:"Hinzufügen", done:"Fertig", addTab:"+ Thema",
       kwNone:q => `Keine Meldungen zu „${q}“ in den letzten 48 Stunden.`, kwMore:n => `${n} weitere`, kwLoading:"Suche läuft…", remove:"Entfernen",
       noTopic:"Wählen Sie oben die gewünschten Reiter.",
@@ -307,6 +313,7 @@ let pickedTopics = store.get("tabs", {});   // ülke kodu → okuyucunun açtı�
 const TOPIC_ORDER = ["gundem", "ekonomi", "teknoloji", "spor", "kultur"];
 let keywords = store.get("keywords", {});   // ülke kodu → kişinin kendi konuları (ör. ["Beşiktaş"])
 let myName = store.get("myName", "");
+if (!store.get("profileDone", false)) document.body.classList.add("onboard");
 const WORLD = "world";
 const t = () => T[lang] || T.tr;
 const countryName = code => { if (code === WORLD) return t().world; try { return new Intl.DisplayNames([lang], {type:"region"}).of(code.toUpperCase()); } catch { return code.toUpperCase(); } };
@@ -379,7 +386,7 @@ function allCountries(){
 }
 function renderChips(){
   const codes = allCountries();
-  if (!picked) picked = codes.slice();
+  if (!picked) picked = store.get("profileDone", false) ? codes.slice() : [];   // ilk açılışta ülkeyi kullanıcı seçer
   $("#chips").replaceChildren(...codes.map(code => {
     const b = el("button", "chip"); b.type = "button";
     b.setAttribute("aria-pressed", picked.includes(code));
@@ -423,12 +430,16 @@ async function loadAll(keep, manual){
       lang = config.languages.includes(nav) ? nav : (config.languages[0] || "tr");
     }
     applyLanguageUI();
+    if (!store.get("profileDone", false)){   // ilk açılış: önce ad, ülke ve konular; haberler sonra yüklenir
+      if (!picked) picked = [];
+      openProfile();
+      await new Promise(res => $("#sheet").addEventListener("close", res, {once:true}));
+    }
     if (!index.length){ renderChips(); showState(t().none, t().noneText(config.time)); return; }
     fillEditionSelect();
     const before = current && current.updatedAt + (flash?.updatedAt || "");
     const date = keep && current && index.some(e => e.date === current.date) ? current.date : index[0].date;
     await loadEdition(date);
-    if (!store.get("profileDone", false) && !$("#sheet").open) openProfile();
     if (manual){
       if (index[0].date !== todayTR()) showStatus("", t().notToday(config.time), 6000);
       else showStatus("ok", before && before === current?.updatedAt + (flash?.updatedAt || "") ? t().already : t().latest, 4000);
@@ -650,6 +661,7 @@ function openProfile(focusCode){
   $("#name-label").textContent = t().myName;
   $("#my-name").value = myName;
   $("#sheet-done").textContent = t().done;
+  checkReady();
   const wrap = $("#sheet-countries");
   wrap.replaceChildren(...allCountries().map(code => profileCountry(code)));
   const d = $("#sheet");
@@ -659,6 +671,12 @@ function openProfile(focusCode){
     box?.scrollIntoView({block:"center"}); box?.querySelector(".kwrow input")?.focus();
   }
 }
+function checkReady(){   // ilk kurulumda ad ve en az bir ülke zorunlu
+  const first = !store.get("profileDone", false);
+  const ok = !first || (myName && picked.length);
+  $("#sheet-done").disabled = !ok;
+  $("#sheet-need").textContent = ok ? "" : t().meNeed;
+}
 function profileCountry(code){
   const on = picked.includes(code);
   const box = el("div", "pc" + (on ? "" : " off")); box.dataset.code = code;
@@ -667,7 +685,7 @@ function profileCountry(code){
   const body = el("div", "body");
   cb.onchange = () => {
     picked = cb.checked ? [...picked, code] : picked.filter(c => c !== code);
-    box.classList.toggle("off", !cb.checked); saveProfile(); renderChips(); render();
+    box.classList.toggle("off", !cb.checked); saveProfile(); renderChips(); render(); checkReady();
   };
   // ana konular (+ son dakika)
   const cfgTopics = (config.countries.find(c => c.code === code)?.topics) || TOPIC_ORDER;
@@ -712,7 +730,7 @@ function profileCountry(code){
       keywords = {...keywords, [code]: [...list, k]};
       const cur = pickedTopics[code] || DEFAULT_TABS;   // yeni konu hemen açık gelsin
       pickedTopics = {...pickedTopics, [code]: [...cur, "kw:" + k]};
-      if (!picked.includes(code)){ picked = [...picked, code]; cb.checked = true; box.classList.remove("off"); renderChips(); }
+      if (!picked.includes(code)){ picked = [...picked, code]; cb.checked = true; box.classList.remove("off"); renderChips(); checkReady(); }
       saveProfile(); drawTags(); render();
     }
     inp.value = ""; inp.focus();
@@ -726,8 +744,9 @@ function profileCountry(code){
   return box;
 }
 $("#me").addEventListener("click", () => openProfile());
-$("#my-name").addEventListener("input", e => { myName = e.target.value.trim(); saveProfile(); applyLanguageUI(); });
-$("#sheet").addEventListener("close", () => { store.set("profileDone", true); render(); });
+$("#my-name").addEventListener("input", e => { myName = e.target.value.trim(); saveProfile(); applyLanguageUI(); checkReady(); });
+$("#sheet").addEventListener("cancel", e => { if (!store.get("profileDone", false)) e.preventDefault(); });   // Esc ile kurulum atlanmasın
+$("#sheet").addEventListener("close", () => { store.set("profileDone", true); document.body.classList.remove("onboard"); render(); });
 
 /* Son dakika: yalnızca en son baskı açıkken; baskı saatinden (07:00) beri saat başı eklenen tek cümlelik haberler */
 function renderFlash(code){
