@@ -21,9 +21,19 @@
      "use": "both"
     },
     {
-     "name": "DW Türkçe",
-     "url": "https://rss.dw.com/rdf/rss-tur-all",
+     "name": "DW Deutschland (EN)",
+     "url": "https://rss.dw.com/rdf/rss-en-ger",
      "use": "both"
+    },
+    {
+     "name": "DW Nachrichten",
+     "url": "https://rss.dw.com/xml/rss-de-news",
+     "use": "both"
+    },
+    {
+     "name": "BBC Europe",
+     "url": "https://feeds.bbci.co.uk/news/world/europe/rss.xml",
+     "use": "daily"
     },
     {
      "name": "Der Spiegel",
@@ -264,8 +274,8 @@
      "use": "both"
     },
     {
-     "name": "tagesschau Ausland",
-     "url": "https://www.tagesschau.de/ausland/index~rss2.xml",
+     "name": "Euronews",
+     "url": "https://www.euronews.com/rss?level=theme&name=news",
      "use": "both"
     },
     {

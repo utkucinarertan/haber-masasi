@@ -1,0 +1,13 @@
+{
+  "name": "haber-masasi-konular",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "wrangler dev --var MOCK_GEMINI:1",
+    "deploy": "wrangler deploy",
+    "test": "node test/unit.mjs"
+  },
+  "devDependencies": {
+    "wrangler": "^4.40.0"
+  }
+}

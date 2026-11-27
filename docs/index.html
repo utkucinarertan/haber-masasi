@@ -105,6 +105,7 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 @media (prefers-reduced-motion:reduce){.flash h3 .live{animation:none}}
 .flash ul{margin:0;padding-left:18px;display:flex;flex-direction:column;gap:7px;font-family:var(--f-body);font-size:.95rem;line-height:1.45}
 .flash li::marker{color:var(--live)}
+.flash li.top{font-weight:700}
 .flash li a{color:var(--muted);font-size:.78rem;text-decoration:none;white-space:nowrap;margin-left:4px}
 .flash li a:hover{color:var(--accent)}
 .flash .empty{margin:0;font-size:.88rem;color:var(--muted)}
@@ -493,7 +494,8 @@ function renderDesk(code, data){
       const b = el("button", "tchip" + (tp === "flash" ? " live" : "") + (isKw ? " kw" : ""));
       b.type = "button";
       if (tp === "flash") b.append(el("span", "livedot"));
-      b.append(document.createTextNode(tp === "flash" ? t().flash : isKw ? "#" + tp.slice(3) : (t().topics[tp] || tp)));
+      if (isKw) b.dataset.kw = code + "|" + tp.slice(3);
+      b.append(document.createTextNode(tp === "flash" ? t().flash : isKw ? "#" + kwLabel(code, tp.slice(3)) : (t().topics[tp] || tp)));
       b.setAttribute("aria-pressed", chosen.includes(tp));
       b.onclick = () => {
         const cur = pickedTopics[code] || DEFAULT_TABS;
@@ -559,14 +561,36 @@ function matcher(q){
   const words = norm(q).split(/\s+/).filter(Boolean).map(w => new RegExp("(^|[^a-z0-9])" + escRe(w)));
   return text => words.length && words.every(rx => rx.test(text));
 }
-const KW_SHOW = 10;
+/* Kendi konusu: konu sunucusu (config.topicApi) o ülkenin kaynaklarından en önemli 5 tekil haberi seçip kişinin
+   diline çevirir; sunucu yoksa ya da cevap vermezse havuzdaki eşleşmeler (tekrarlar ayıklanmış) gösterilir. */
+const KW_SHOW = 5;
+let kwLabels = store.get("kwLabels", {});   // "dil|ülke|konu" → konunun kişinin dilindeki adı
+const kwKey = (code, q) => `${lang}|${code}|${norm(q)}`;
+const kwLabel = (code, q) => kwLabels[kwKey(code, q)] || q;
+const digests = {};   // oturum içi önbellek
+function fetchDigest(code, q){
+  const api = (config.topicApi || "").replace(/\/$/, "");
+  if (!api) return Promise.resolve(null);
+  const k = kwKey(code, q);
+  if (!digests[k] || Date.now() - digests[k].at > 10 * 60 * 1000){
+    const qs = new URLSearchParams({country:code, q, lang, ...(profile ? {p:profile} : {})});
+    digests[k] = {at:Date.now(), promise:fetch(`${api}/topic?${qs}`).then(r => r.ok ? r.json() : null).catch(() => null)};
+  }
+  return digests[k].promise;
+}
+function uniqueHits(hits){   // aynı başlığın farklı kaynaklardaki kopyalarını ayıkla
+  const seen = new Set();
+  return hits.filter(i => { const k = i.n.split(/\s+/).slice(0, 7).join(" "); if (seen.has(k)) return false; seen.add(k); return true; });
+}
 function renderKeyword(code, q){
   const box = el("div", "topic");
-  box.append(el("h3", null, "#" + q));
+  const h = el("h3", null, "#" + kwLabel(code, q));
+  box.append(h);
   const holder = el("div"); holder.append(el("p", "kwempty", t().kwLoading)); box.append(holder);
-  loadPool(code).then(items => {
-    const test = matcher(q);
-    const hits = items.filter(i => test(i.n));
+  const local = loadPool(code).then(items => { const test = matcher(q); return uniqueHits(items.filter(i => test(i.n))); });
+  let done = false;
+  const showLocal = hits => {
+    if (done) return;
     if (!hits.length){ holder.replaceChildren(el("p", "kwempty", t().kwNone(q))); return; }
     const ul = el("ul", "kwlist");
     const show = n => { ul.replaceChildren(...hits.slice(0, n).map(i => kwItem(i))); };
@@ -577,8 +601,38 @@ function renderKeyword(code, q){
       more.onclick = () => { show(hits.length); more.remove(); };
       holder.append(more);
     }
-  });
+  };
+  const api = fetchDigest(code, q);
+  if (!config.topicApi) local.then(showLocal);
+  else {
+    local.then(hits => { if (!done && hits.length) showLocal(hits); });   // sunucu yanıtı gelene kadar ön sonuç
+    api.then(d => {
+      if (!d || d.error){ done = false; local.then(showLocal); return; }
+      done = true;
+      if (d.label && d.label !== kwLabels[kwKey(code, q)]){
+        kwLabels = {...kwLabels, [kwKey(code, q)]: d.label}; store.set("kwLabels", kwLabels);
+        h.textContent = "#" + d.label;
+        document.querySelectorAll(`.tchip.kw[data-kw="${CSS.escape(code + "|" + q)}"]`).forEach(b => b.lastChild.textContent = "#" + d.label);
+      }
+      if (!d.items?.length){ holder.replaceChildren(el("p", "kwempty", t().kwNone(kwLabel(code, q)))); return; }
+      const ol = el("ol", "items");
+      d.items.forEach(it => ol.append(digestItem(it)));
+      holder.replaceChildren(ol);
+    });
+  }
   return box;
+}
+function digestItem(it){
+  const li = el("li", "item");
+  const meta = el("div", "meta");
+  if (it.time) meta.append(el("span", null, fmtTime(it.time)));
+  li.append(meta, el("h4", null, it.title || ""), el("p", "sum", it.summary || ""));
+  const foot = el("div", "foot");
+  if (it.url && /^https:\/\//.test(it.url)){
+    const a = el("a", null, (it.source || "") + " ↗"); a.href = it.url; a.target = "_blank"; a.rel = "noopener"; foot.append(a);
+  }
+  li.append(foot);
+  return li;
 }
 function kwItem(i){
   const li = el("li");
@@ -685,7 +739,7 @@ function renderFlash(code){
   if (!all.length){ box.append(el("p", "empty", t().flashEmpty)); return box; }
   const ul = el("ul");
   all.slice(0, FLASH_SHOW).forEach(x => {
-    const li = el("li");
+    const li = el("li", x.importance === 3 ? "top" : null);
     li.append(document.createTextNode(x.text[lang] || x.text.tr));
     if (x.url && /^https:\/\//.test(x.url)){
       const a = el("a", null, (x.source || "") + " ↗"); a.href = x.url; a.target = "_blank"; a.rel = "noopener";
