@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">Haber Masası</string>
-    <string name="title_activity_main">Haber Masası</string>
+    <string name="app_name">News</string>
+    <string name="title_activity_main">News</string>
     <string name="package_name">app.habermasasi</string>
     <string name="custom_url_scheme">app.habermasasi</string>
 </resources>

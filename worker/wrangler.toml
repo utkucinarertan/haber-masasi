@@ -10,7 +10,7 @@ DATA_BASE = "https://utkucinarertan.github.io/haber-masasi/data/"
 # komutunun verdiği id buraya yazılır.
 [[kv_namespaces]]
 binding = "TOPICS"
-id = "BURAYA_KV_ID"
+id = "ffc1e7b9d4334a63abf0a65960e0b323"
 
 # Sabah yenilemesi: Almanya saatiyle 05:00-06:59 arası (yaz/kış saati için 03-05 UTC) 10 dakikada bir;
 # her çalışma en fazla 15 özet yeniler, zaten bugünkü olanlara dokunmaz.

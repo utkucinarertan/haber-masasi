@@ -4,7 +4,7 @@ Bu klasör, `docs/` altındaki web uygulamasını (PWA) Android ve iOS uygulamas
 **Capacitor 8** projesidir.
 
 - Uygulama kimliği (paket adı / Bundle ID): `app.habermasasi`
-- Uygulama adı: **Haber Masası**
+- Uygulama adı: **News**
 - Arayüz (HTML/CSS/JS) uygulamanın içine gömülür. Haberler (`data/*.json`) ise her açılışta
   canlı sunucudan çekilir; varsayılan adres `https://utkucinarertan.github.io/haber-masasi/`.
 - `admin.html` ve `sw.js` uygulamaya konmaz. Footer'daki "Yönetim" bağlantısı uygulamada gizlenir.

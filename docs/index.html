@@ -3,13 +3,13 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>Haber Masası</title>
+<title>News</title>
 <meta name="description" content="Günün önemli haberleri; Türkçe, İngilizce ve Almanca özet ve değerlendirmeyle.">
 <meta name="theme-color" content="#15192a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="Haber Masası">
+<meta name="apple-mobile-web-app-title" content="News">
 <meta name="format-detection" content="telephone=no">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
@@ -187,7 +187,7 @@ dialog.sheet::backdrop{background:rgba(10,12,20,.55)}
 <header class="appbar">
   <div class="row">
     <img class="logo" src="icons/icon-192.png" alt="">
-    <div class="title"><b id="brand">Haber Masası</b><span id="subtitle"></span></div>
+    <div class="title"><b id="brand">News</b><span id="subtitle"></span></div>
     <select class="langsel" id="lang" aria-label="Dil / Language / Sprache"></select>
     <button class="iconbtn" id="me" type="button">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>
@@ -230,7 +230,7 @@ dialog.sheet::backdrop{background:rgba(10,12,20,.55)}
 
 <script>
 const T = {
-  tr:{brand:"Haber Masası", today:"Bugünün baskısı", refresh:"Yenile", refreshTitle:"En son baskıyı getir", prepared:"Hazırlandı",
+  tr:{brand:"News", today:"Bugünün baskısı", refresh:"Yenile", refreshTitle:"En son baskıyı getir", prepared:"Hazırlandı",
       overview:"Günün değerlendirmesi", stories:n => n + " haber", imp:{3:"Çok önemli",2:"Önemli",1:"Gündem"},
       edition:"Baskı", countries:"Ülkeler", loading:"Haberler yükleniyor", loadingText:"Günün baskısı birkaç saniye içinde burada görünecek.",
       offline:"Haberlere ulaşılamıyor", offlineText:"İnternet bağlantınızı kontrol edip Yenile'ye basın.",
@@ -249,7 +249,7 @@ const T = {
       noTopic:"Görmek istediğiniz sekmeleri yukarıdan seçin.",
       flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste 30 dakikada bir güncellenir.",
       flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
-  en:{brand:"News Desk", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
+  en:{brand:"News", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
       overview:"The day at a glance", stories:n => n + (n === 1 ? " story" : " stories"), imp:{3:"Top story",2:"Important",1:"In brief"},
       edition:"Edition", countries:"Countries", loading:"Loading the news", loadingText:"Today's edition will appear here in a few seconds.",
       offline:"Can't reach the news", offlineText:"Check your internet connection and tap Refresh.",
@@ -268,7 +268,7 @@ const T = {
       noTopic:"Choose the tabs you want to see above.",
       flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every 30 minutes.",
       flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
-  de:{brand:"Nachrichtenpult", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
+  de:{brand:"News", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
       overview:"Der Tag im Überblick", stories:n => n + (n === 1 ? " Meldung" : " Meldungen"), imp:{3:"Sehr wichtig",2:"Wichtig",1:"Kurz notiert"},
       edition:"Ausgabe", countries:"Länder", loading:"Nachrichten werden geladen", loadingText:"Die heutige Ausgabe erscheint in wenigen Sekunden.",
       offline:"Nachrichten nicht erreichbar", offlineText:"Prüfen Sie Ihre Internetverbindung und tippen Sie auf Aktualisieren.",
