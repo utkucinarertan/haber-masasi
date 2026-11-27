@@ -1,6 +1,6 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T04:07+01:00",
+ "updatedAt": "2026-11-27T04:37+01:00",
  "countries": {
   "de": [
    {
@@ -51,6 +51,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-27T06:15:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011398/ege-denizi-nde-sarsinti-izmir-aciklarinda-4-1-buyuklugunde-deprem-meydana-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "İzmir'in Seferihisar ilçesi açıklarında Ege Denizi'nde 4,1 büyüklüğünde deprem meydana geldi.",
+     "de": "Vor der Küste von Izmir in der Ägäis hat sich ein Erdbeben der Stärke 4,1 ereignet."
+    }
+   },
+   {
     "time": "2026-11-27T04:00:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/turkiye/aym-tutuklu-cumhurbaskani-adayi-imamoglu-hakkinda-ihlal-karari-vermedi-2559713",
@@ -84,15 +93,6 @@
     "text": {
      "tr": "Şahap Kavcıoğlu'nun istifasının ardından BDDK Başkanlığına Yusuf Kenan Bağır atandı.",
      "de": "Yusuf Kenan Bağır wurde zum neuen Chef der Bankenaufsicht BDDK ernannt, nachdem Şahap Kavcıoğlu zurückgetreten war."
-    }
-   },
-   {
-    "time": "2026-11-27T01:46:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/spor/thomas-reis-tan-cska-sofya-galibiyeti-aciklamasi-bizim-icin-kolay-degildi-ama-2559799",
-    "text": {
-     "tr": "Trabzonspor Teknik Direktörü Thomas Reis, CSKA Sofya karşısında aldıkları 2-1'lik galibiyetin kolay olmadığını söyledi.",
-     "de": "Trabzonspor-Trainer Thomas Reis äußerte sich nach dem 2:1-Sieg gegen ZSKA Sofia zum schwer erkämpften Erfolg."
     }
    }
   ],
@@ -712,6 +712,8 @@
   "https://www.evrensel.net/haber/6011394/habas-ta-patronu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011395/habas-patronunu-kurtarma-operasyonu-iscileri-suclamak-icin-agiz-birligi-yapiyorlar?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011396/bddk-baskanligina-atanan-yusuf-kenan-bagir-kimdir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011397/duzce-de-patpat-ucuruma-yuvarlandi-1-olu-1-yarali?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011398/ege-denizi-nde-sarsinti-izmir-aciklarinda-4-1-buyuklugunde-deprem-meydana-geldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/stil/iris-von-arnim-wer-ist-die-modedesignerin-201674406.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/homophobie-in-afrika-die-angst-vor-der-herrschaft-des-anus-accg-201073007.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/neue-biographie-wer-war-jetzt-dieser-buddha-wirklich-201194393.html",
@@ -764,6 +766,7 @@
   "https://www.faz.net/aktuell/politik/ausland/liveblog-nahost-eisenkot-einigt-sich-mit-weiterer-partei-auf-koalitionsvereinbarung-faz-200583539.html",
   "https://www.faz.net/aktuell/politik/ausland/megahafen-chancay-chinas-tor-nach-suedamerika-accg-201696252.html",
   "https://www.faz.net/aktuell/politik/ausland/nationale-identitaet-taiwan-entdeckt-seine-berge-wieder-accg-201315581.html",
+  "https://www.faz.net/aktuell/politik/ausland/parlamentswahl-in-neuseeland-luxon-fehlt-ein-sitz-zur-mehrheit-accg-201721839.html",
   "https://www.faz.net/aktuell/politik/ausland/ukraine-hilfe-warum-putins-rechnung-noch-aufgehen-koennte-201715382.html",
   "https://www.faz.net/aktuell/politik/inland/erzbistum-koeln-muss-rekord-schmerzensgeld-zahlen-es-war-hoechste-zeit-201720114.html",
   "https://www.faz.net/aktuell/politik/inland/gruenes-herz-mario-voigt-stellt-thueringens-neue-landesmarke-vor-201719438.html",
@@ -1194,6 +1197,7 @@
   "https://www.welt.de/vermischtes/article6b083f7a049b92145ab3f909/gerard-depardieu-soll-erstmals-wegen-vergewaltigung-vor-gericht.html",
   "https://www.welt.de/vermischtes/article6b0872e909772de37185056c/wetter-sollte-keiner-unterwegs-sein-ploetzlicher-wintereinbruch-sorgt-fuer-chaos-a93-zeitweise-gesperrt.html",
   "https://www.welt.de/vermischtes/article6b08a26e1c4d5a00bfba0b15/hamburg-stundenlang-sucht-die-polizei-nach-leichenteilen-am-ende-ist-es-eine-puppe.html",
+  "https://www.welt.de/vermischtes/article6b08f38b09772de371850b7d/weihnachtsmarkt-haesslich-esslinger-weihnachtsbaum-erregt-anstoss.html",
   "https://www.welt.de/videos/video6b07cd9eeb921eaaa2fbe375/haushalts-debatte-mittlerweile-begreift-auch-der-letzte-im-land-dass-irgendwas-nicht-stimmen-kann.html",
   "https://www.welt.de/videos/video6b084f5e78855274ac4aba28/ukraine-politik-kushner-ist-kein-diplomat-er-ist-ein-schwiegersohn-und-mehr-nicht.html",
   "https://www.welt.de/wirtschaft/article6b07cc1bc75e09cb88d1667a/dgb-fordert-einmalige-vermoegensabgabe-fuer-allerreichste.html",
