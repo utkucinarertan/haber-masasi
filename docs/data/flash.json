@@ -1,8 +1,26 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-27T06:21+01:00",
+ "updatedAt": "2026-11-27T06:51+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-27T05:33:46+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/13-monatsrente-schweizer-stimmen-ueber-mehrwertsteuererhoehung-ab-accg-201714231.html",
+    "text": {
+     "tr": "İsviçre'de halk, 13. ay maaşı olarak talep edilen emekli maaşını finanse etmek için katma değer vergisi artışını oylayacak.",
+     "de": "Die Schweizer stimmen über eine Erhöhung der Mehrwertsteuer zur Finanzierung der geforderten 13. Monatsrente ab."
+    }
+   },
+   {
+    "time": "2026-11-27T05:31:38+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
+    "text": {
+     "tr": "Avustralya'da Erin Patterson, mantarla cinayet mahkumiyetine karşı Yüksek Mahkeme'ye temyiz başvurusunda bulundu.",
+     "de": "Erin Patterson hat beim Obersten Gericht Australiens Berufung gegen ihre Verurteilung wegen Tötungsdelikten eingelegt."
+    }
+   },
    {
     "time": "2026-11-27T05:15:26+00:00",
     "source": "BBC News World",
@@ -53,6 +71,15 @@
   ],
   "tr": [
    {
+    "time": "2026-11-27T08:00:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011403/altin-yeniden-yukseliste-gram-ve-ceyrek-altin-kac-lira?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "text": {
+     "tr": "Küresel piyasalardaki satış baskısının azalmasıyla ons altın 3 bin 600 doları, gram altın ise 5 bin 937 lirayı gördü.",
+     "de": "Nachlassender Verkaufsdruck an den Märkten trieb den Goldpreis auf über 3.600 Dollar je Feinunze und 5.937 Lira je Gramm."
+    }
+   },
+   {
     "time": "2026-11-27T07:59:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-izmir-de-4-1-buyuklugunde-deprem-2559806",
@@ -69,24 +96,53 @@
      "tr": "Avrupa Birliği liderleri, 2028-2034 yıllarını kapsayan yaklaşık 2 trilyon euroluk yeni bütçe müzakerelerinde uzlaşma sağlayamadı.",
      "de": "Die EU-Staats- und Regierungschefs konnten sich bei den Verhandlungen über den neuen Haushaltsplan für die Jahre 2028 bis 2034 nicht einigen."
     }
+   },
+   {
+    "time": "2026-11-27T05:39:00+00:00",
+    "source": "DW Türkçe",
+    "url": "https://www.dw.com/tr/şahap-kavcıoğlu-istifa-etmişti-bddk-ya-yeni-başkan-atandı/a-80070526",
+    "text": {
+     "tr": "Şahap Kavcıoğlu'nun istifasının ardından BDDK Başkanlığına Yusuf Kenan Bağır atandı.",
+     "de": "Nach dem Rücktritt von Şahap Kavcıoğlu wurde Yusuf Kenan Bağır zum neuen Chef der Bankenaufsicht BDDK ernannt."
+    }
+   },
+   {
+    "time": "2026-11-27T05:22:00+00:00",
+    "source": "DW Türkçe",
+    "url": "https://www.dw.com/tr/gebze-de-çöken-binaya-5-bilirkişi-raporu-belediye-asli-kusurlu/a-80062274",
+    "text": {
+     "tr": "Gebze'de 4 kişinin öldüğü bina çökmesine ilişkin 5. bilirkişi raporunda belediye görevlileri asli kusurlu bulundu.",
+     "de": "Im fünften Gutachten zum Gebäudeeinsturz in Gebze mit vier Toten werden die Gemeindebeamten als hauptverantwortlich eingestuft."
+    }
    }
   ]
  },
  "seen": [
   "https://tr.euronews.com/2026/11/27/abdde-sukran-gunu-sel-ve-siddetli-ruzgar-ulasimi-olumsuz-etkiledi",
+  "https://tr.euronews.com/2026/11/27/ingiltere-ab-gida-anlasmasi-erken-ayrilmanin-maliyeti-olacak",
   "https://tr.euronews.com/2026/11/27/liderler-kirmizi-cizgilerinden-vazgecmedi-ab-zirvesi-sonucsuz-kaldi",
   "https://tr.euronews.com/2026/11/27/pablo-hernandez-de-cos-avrupa-merkez-bankasinin-ilk-ispanyol-baskani-ve-uzlasi-teknokrati",
   "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
   "https://www.cumhuriyet.com.tr/turkiye/afad-duyurdu-izmir-de-4-1-buyuklugunde-deprem-2559806",
+  "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-27-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2559807",
+  "https://www.dw.com/tr/gebze-de-çöken-binaya-5-bilirkişi-raporu-belediye-asli-kusurlu/a-80062274",
+  "https://www.dw.com/tr/pedro-sanchez-ab-nin-son-büyük-sol-kalesi-düşüyor-mu/a-80051005",
+  "https://www.dw.com/tr/şahap-kavcıoğlu-istifa-etmişti-bddk-ya-yeni-başkan-atandı/a-80070526",
   "https://www.evrensel.net/haber/6011402/ab-liderleri-yeni-butce-pazarliginda-uzlasamadi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011403/altin-yeniden-yukseliste-gram-ve-ceyrek-altin-kac-lira?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-kinder-besser-lernen-haette-auch-ich-gut-in-mathe-sein-koennen-accg-201692367.html",
+  "https://www.faz.net/aktuell/eu-haushalt-das-scheitern-des-sondergipfels-wirft-zweifel-auf-accg-201721661.html",
   "https://www.faz.net/aktuell/rhein-main/frankfurt/mehr-als-8000-baeume-als-ausgleich-fuer-nordmainische-s-bahn-accg-201719635.html",
+  "https://www.faz.net/aktuell/wirtschaft/mehr-wirtschaft/13-monatsrente-schweizer-stimmen-ueber-mehrwertsteuererhoehung-ab-accg-201714231.html",
+  "https://www.faz.net/podcasts/f-a-z-podcast-fruehdenker/zerbricht-das-bsw-an-der-afd-faz-fruehdenker-201721719.html",
   "https://www.spiegel.de/ausland/oesterreich-fiaker-vor-dem-aus-wien-streitet-ueber-pferdekutschen-a-0b2962d3-7a87-4271-8421-3a8e81234c70#ref=rss",
   "https://www.spiegel.de/panorama/justiz/gen-z-regelt-demonstrationen-wer-randalierte-nach-den-friedlichen-protesten-a-9543e0e3-9d28-4e89-9498-e9257dd10ba2#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-bundestag-stimmt-ueber-umstrittenen-haushalt-2027-ab-black-friday-tech-bros-a-0b1477f8-87c0-41a9-a19e-58a8f241fb36#ref=rss",
   "https://www.spiegel.de/sport/wintersport/nordische-kombiniererin-nathalie-armbruster-so-plant-sie-nach-dem-olympia-aus-ihrer-sportart-a-7108b12e-1d96-4d36-9977-868c27834c81#ref=rss",
+  "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
   "https://www.tagesschau.de/ausland/ozeanien/neuseeland-parlamentswahl-106.html",
   "https://www.theguardian.com/australia-news/2026/nov/27/alan-jones-trial-defence-open-and-close-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
   "https://www.theguardian.com/world/2026/nov/27/spain-migrants-election-vox-far-right-europe",
   "https://www.welt.de/politik/ausland/article6b08dd3809772de371850af7/florida-haette-ihn-gerne-dabei-trump-wuerde-putin-besuch-bei-g20-gipfel-begruessen.html"
