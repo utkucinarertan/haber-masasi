@@ -1,0 +1,29 @@
+{
+  "name": "haber-masasi-mobile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Haber Masası: Capacitor wrapper (Android + iOS) around the docs/ PWA",
+  "type": "module",
+  "scripts": {
+    "web": "node scripts/copy-web.mjs",
+    "icon-src": "node scripts/make-icon-source.mjs",
+    "assets": "npm run icon-src && capacitor-assets generate --android --ios --iconBackgroundColor \"#15192a\" --iconBackgroundColorDark \"#15192a\" --splashBackgroundColor \"#15192a\" --splashBackgroundColorDark \"#15192a\"",
+    "sync": "npm run web && cap sync",
+    "android:debug": "npm run sync && cd android && gradlew assembleDebug",
+    "android:release": "npm run sync && cd android && gradlew bundleRelease",
+    "open:android": "cap open android",
+    "open:ios": "cap open ios"
+  },
+  "dependencies": {
+    "@capacitor/android": "^8.6.3",
+    "@capacitor/core": "^8.6.3",
+    "@capacitor/ios": "^8.6.3",
+    "@capacitor/splash-screen": "^8.0.2",
+    "@capacitor/status-bar": "^8.0.4"
+  },
+  "devDependencies": {
+    "@capacitor/assets": "^4.0.0",
+    "@capacitor/cli": "^8.6.3",
+    "sharp": "^0.35.5"
+  }
+}

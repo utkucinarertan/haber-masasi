@@ -1,0 +1,12 @@
+{
+  "appId": "app.habermasasi",
+  "appName": "Haber Masası",
+  "webDir": "www",
+  "backgroundColor": "#15192a",
+  "android": { "allowMixedContent": false },
+  "ios": { "contentInset": "never" },
+  "plugins": {
+    "SplashScreen": { "launchShowDuration": 800, "backgroundColor": "#15192a", "showSpinner": false },
+    "StatusBar": { "style": "DARK", "backgroundColor": "#15192a", "overlaysWebView": false }
+  }
+}
