@@ -1,6 +1,6 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-27T23:21+01:00",
+ "updatedAt": "2026-11-28T00:21+01:00",
  "countries": {
   "world": [
    {
@@ -56,6 +56,16 @@
   ],
   "de": [
    {
+    "time": "2026-11-27T23:46:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
+    "importance": 1,
+    "text": {
+     "tr": "Niclas Füllkrug, uzatma dakikalarında attığı golle Werder Bremen'e Gladbach karşısında beraberliği getirdi.",
+     "de": "Niclas Füllkrug rettete Werder Bremen mit seinem späten Treffer in der Nachspielzeit ein Unentschieden gegen Gladbach."
+    }
+   },
+   {
     "time": "2026-11-27T23:10:29+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
@@ -93,16 +103,6 @@
     "text": {
      "tr": "Birleşmiş Milletler, El Niño hava olayının küresel açlık krizini şiddetlendireceği konusunda uyarıda bulunarak 16 açlık merkezine dikkat çekti.",
      "de": "Die Vereinten Nationen warnen vor den Auswirkungen des Wetterphänomens El Niño, das die globale Hungerkrise in 16 Brennpunkten verschärft."
-    }
-   },
-   {
-    "time": "2026-11-27T17:24:31+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/wirtschaft/unternehmen/rheinmetall-senkt-ziele-armin-papperger-will-konservativer-planen-201723237.html",
-    "importance": 2,
-    "text": {
-     "tr": "Almanya'nın en büyük savunma şirketi Rheinmetall, geciken siparişler nedeniyle orta vadeli hedeflerini düşürdü.",
-     "de": "Deutschlands größter Rüstungskonzern Rheinmetall hat wegen verzögerter Aufträge seine Ziele gesenkt."
     }
    }
   ],
@@ -219,6 +219,16 @@
     "text": {
      "tr": "Belçika makamları, gerekli izinlerin alınmadığı gerekçesiyle Google'ın ülkenin güneyindeki veri merkezi inşaatını durdurdu.",
      "de": "Die belgischen Behörden haben Google angewiesen, den Bau eines großen Rechenzentrums im Süden des Landes wegen fehlender Genehmigungen einzustellen."
+    }
+   },
+   {
+    "time": "2026-11-27T16:46:47+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/videos/ckvg20y511p4o",
+    "importance": 2,
+    "text": {
+     "tr": "ABD'yi Şükran Günü'nde vuran şiddetli fırtınalar sele yol açtı ve yüzbinlerce kişi elektriksiz kaldı.",
+     "de": "Schwere Sturmtypen am Thanksgiving-Wochenende in den USA führten zu Überschwemmungen und Stromausfällen für Hunderttausende."
     }
    },
    {
@@ -508,6 +518,16 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-27T23:46:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
+    "importance": 1,
+    "text": {
+     "tr": "Niclas Füllkrug, uzatma dakikalarında attığı golle Werder Bremen'e Gladbach karşısında beraberliği getirdi.",
+     "de": "Niclas Füllkrug rettete Werder Bremen mit seinem späten Treffer in der Nachspielzeit ein Unentschieden gegen Gladbach."
+    }
+   },
    {
     "time": "2026-11-27T23:10:29+01:00",
     "source": "tagesschau",
@@ -1135,6 +1155,7 @@
   "https://tr.euronews.com/2026/11/27/ukrayna-kuzey-kore-rusyaya-silah-ve-muhimmat-sevkiyatini-askiya-aldi",
   "https://tr.euronews.com/2026/11/27/unlu-portreler-ve-ikonik-film-sahneleri-seni-gordugum-yerden-sergisinde",
   "https://tr.euronews.com/2026/11/27/yunanistanda-yeni-hiv-vakalarinin-yarisi-gec-teshis-ediliyor",
+  "https://tr.euronews.com/2026/11/28/boluda-10-kiz-cocugu-ve-3-personeli-tasiyan-arac-kayboldu-arama-calismalari-devam-ediyor",
   "https://tr.euronews.com/video/2026/11/27/batumide-besiktas-hapoel-beer-sheva-maci-polisle-taraftarlar-catisti-16-gozalti",
   "https://tr.euronews.com/video/2026/11/27/cannon-beachte-king-tide-adam-ve-kopegini-denize-surukledi-yaralanmadilar",
   "https://tr.euronews.com/video/2026/11/27/estonya-rusya-ile-bes-kara-sinir-kapisini-kapatmaya-hazirlaniyor-aileler-ve-is-dunyasi-etk",
@@ -1153,6 +1174,7 @@
   "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
   "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
   "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
+  "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
   "https://www.bbc.co.uk/news/articles/cmx2898wq2qjo",
   "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo",
   "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
@@ -1163,6 +1185,7 @@
   "https://www.bbc.co.uk/news/articles/cvrlgz6g0ekgo",
   "https://www.bbc.co.uk/news/articles/cw074p95ye5do",
   "https://www.bbc.co.uk/news/articles/cw4gnm3m9deno",
+  "https://www.bbc.co.uk/news/videos/ckvg20y511p4o",
   "https://www.bbc.co.uk/news/videos/cm9w9y8947xqo",
   "https://www.bbc.co.uk/sport/football/articles/c69q8y5x03ywo",
   "https://www.bbc.com/turkce/articles/cm3wgnj72l90o",
@@ -1589,6 +1612,7 @@
   "https://www.evrensel.net/haber/6011537/tahir-elci-cinayetinde-11-yil-kayip-13-saniye-karartilan-deliller-ve-cezasizlik-zirhi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011538/merkez-bankasi-fintlix-in-faaliyet-iznini-iptal-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011539/chp-li-gulsever-aractan-saat-1500-ten-itibaren-haber-alinamazken-ilgili-birimlere-neden-1910-da-bilgi-verildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011541/bolu-da-kaybolan-10-kiz-cocugunun-kaldigi-cocuk-evleri-sitesi-nedir?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/rezept-fuer-ihr-weihnachtsmenue-2026-lachsforelle-entenbrust-und-lebkuchenschnitte-accg-201625996.html",
   "https://www.faz.net/aktuell/besser-leben/psychologie/wie-kinder-besser-lernen-haette-auch-ich-gut-in-mathe-sein-koennen-accg-201692367.html",
   "https://www.faz.net/aktuell/besser-leben/stil/weihnachten-64-geschenkideen-von-guenstig-bis-teuer-201659894.html",
@@ -1816,6 +1840,7 @@
   "https://www.spiegel.de/politik/ukrainekrieg-friedrich-merz-begruesst-donald-trumps-ansage-an-wladimir-putin-a-b7fbe958-8a80-470f-836b-43abbb359b0f#ref=rss",
   "https://www.spiegel.de/politik/zdf-politbarometer-afd-bleibt-vor-union-spd-legt-in-umfragen-zu-a-5b5a576d-0fe0-49e4-96e5-ea0c6f468236#ref=rss",
   "https://www.spiegel.de/sport/fussball/conference-league-sc-freiburg-kapitaen-christian-guenter-fordert-rote-karte-fuer-elfmeterpunkt-sabotage-a-3054e28d-9f7d-4b45-b598-978cd0f5b52f#ref=rss",
+  "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-offensivstar-des-fc-bayern-faellt-bis-jahresende-aus-a-ceac02f8-2a37-4cda-90dc-77d45c926197#ref=rss",
   "https://www.spiegel.de/sport/fussball/jamal-musiala-oliver-kahn-sieht-spieler-durch-fc-bayern-bosse-beschaedigt-a-05cb5c4f-7ca5-4464-819f-e67db62bad1f#ref=rss",
   "https://www.spiegel.de/sport/fussball/laura-dahlmeier-in-hall-of-fame-aufgenommen-vater-andreas-erinnert-an-seine-tochter-a-2cabc13a-1865-461b-a292-bb01f92e679b#ref=rss",
@@ -1831,6 +1856,7 @@
   "https://www.spiegel.de/wirtschaft/service/black-friday-wie-das-shopping-zum-kontaktsport-wurde-a-f7053732-7607-4b87-9200-83a2582bac3b#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/bundeshaushalt-2027-diese-vier-grafiken-zeigen-wohin-ihr-steuergeld-fliesst-a-a443d60d-a93e-4300-bae9-f4bcd3d9c995#ref=rss",
   "https://www.spiegel.de/wirtschaft/service/handgepaeck-oberlandesgericht-frankfurt-am-main-erlaubt-nur-eine-tasche-a-1642d5d5-9ff0-4170-a85d-f224a9b9e54d#ref=rss",
+  "https://www.spiegel.de/wirtschaft/soziales/rente-riskanter-alleingang-von-arbeitsminister-alexander-schweitzer-a-778dd4a2-450d-4c05-8c27-9a8603ce449b#ref=rss",
   "https://www.spiegel.de/wirtschaft/tarifabschluss-in-der-metall-und-elektroindustrie-das-herz-der-deutschen-wirtschaft-schlaegt-noch-a-866a0dba-a8ab-471b-bdc7-ace99989afb2#ref=rss",
   "https://www.spiegel.de/wissenschaft/mensch/kinderwunsch-ein-kuenstlicher-kleber-fuer-gealterte-eizellen-a-43e23d6b-3566-4a44-9478-2e2b613fb07b#ref=rss",
   "https://www.spiegel.de/wissenschaft/natur/schmetterling-des-jahres-2027-gelbwuerfeliger-dickkopffalter-a-91843340-2c0e-44d1-8fa2-0f57775ad0cb#ref=rss",
@@ -1896,6 +1922,7 @@
   "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
   "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
   "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
+  "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
   "https://www.theguardian.com/uk-news/2026/nov/27/elderly-scrooge-severs-neighbours-christmas-lights-in-mobility-scooter-raid",
   "https://www.theguardian.com/uk-news/2026/nov/27/graham-thorpe-widow-legal-action-against-nhs-trust-after-inquest",
   "https://www.theguardian.com/uk-news/2026/nov/27/man-jailed-in-newcastle-for-blackmailing-vulnerable-girls-online",
