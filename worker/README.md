@@ -36,7 +36,7 @@ npx wrangler secret put GEMINI_API_KEY
 ```bash
 npx wrangler deploy
 ```
-   Sonunda `https://haber-masasi-konular.<hesabınız>.workers.dev` adresi çıkar.
+   Sonunda `https://app.<hesabınız>.workers.dev` adresi çıkar.
 
 3. Bu adresi `docs/data/config.json` dosyasına `"topicApi": "https://..."` olarak ekleyin (Claude'a söyleyin, o ekler).
 
