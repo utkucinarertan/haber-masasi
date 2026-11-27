@@ -1,8 +1,17 @@
 {
  "since": "2026-11-26T05:15+01:00",
- "updatedAt": "2026-11-27T02:37+01:00",
+ "updatedAt": "2026-11-27T03:07+01:00",
  "countries": {
   "de": [
+   {
+    "time": "2026-11-27T01:52:15+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/article6b08db961c4d5a00bfba0c53/zentralratspraesident-antisemitismus-sei-von-allen-seiten-gleich-gefaehrlich-warnt-schuster.html",
+    "text": {
+     "tr": "Almanya Yahudileri Merkez Konseyi Başkanı Josef Schuster, antisemitizmin her taraftan eşit derecede tehlikeli olduğu konusunda uyardı.",
+     "de": "Josef Schuster, der Präsident des Zentralrats der Juden in Deutschland, warnt, Antisemitismus sei von allen Seiten gleich gefährlich."
+    }
+   },
    {
     "time": "2026-11-27T01:11:49+00:00",
     "source": "FAZ Nachrichten",
@@ -37,15 +46,6 @@
     "text": {
      "tr": "Bournemouth'un Alman teknik direktörü Marco Rose, Celta Vigo galibiyetiyle takımını Avrupa Ligi'nde zirveye taşıdı.",
      "de": "Trainer Marco Rose hat den AFC Bournemouth nach dem Sieg gegen Celta Vigo an die Spitze der Europa-League-Tabelle geführt."
-    }
-   },
-   {
-    "time": "2026-11-26T22:28:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/politik/deutschland/eu-gipfel-merz-kuendigt-vorzeitiges-ende-der-haushaltsberatungen-an-a-7a483887-37b0-474f-9aeb-59cc2f83db36#ref=rss",
-    "text": {
-     "tr": "Şansölye Merz, AB liderlerinin gelecekteki bütçe görüşmelerini Perşembe günü erken saatlerde sonlandıracağını duyurdu.",
-     "de": "Bundeskanzler Merz kündigte an, dass die EU-Staats- und Regierungschefs ihre Haushaltsberatungen bereits am Donnerstag beenden werden."
     }
    }
   ],
@@ -98,6 +98,24 @@
   ],
   "world": [
    {
+    "time": "2026-11-27T02:39:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/libyen-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-a-6534c9d8-90ef-4e6b-9845-63a0937c11d4#ref=rss",
+    "text": {
+     "tr": "Libya ve İtalya, Ukrayna'nın Akdeniz'deki Rus gemilerine yönelik saldırılarını kınadı.",
+     "de": "Libyen und Italien kritisieren die Angriffe der Ukraine auf russische Schiffe im Mittelmeer."
+    }
+   },
+   {
+    "time": "2026-11-27T01:41:50+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
+    "text": {
+     "tr": "Yeni Zelanda'da genel seçimlerin kesin sonuçlarına göre iktidar koalisyonu parlamentoda çoğunluğu sağlayamadı.",
+     "de": "Die endgültigen Ergebnisse der Parlamentswahl in Neuseeland zeigen, dass die regierende Koalition keine Mehrheit hat."
+    }
+   },
+   {
     "time": "2026-11-27T00:10:55+00:00",
     "source": "The Guardian World",
     "url": "https://www.theguardian.com/australia-news/2026/nov/27/qantas-plane-aborted-landing-sydney-airport-mental-model-investigation",
@@ -122,24 +140,6 @@
     "text": {
      "tr": "Hong Kong'da yedi apartmanda 168 kişinin ölümüne yol açan büyük yangının üzerinden bir yıl geçti.",
      "de": "In Hongkong wird an den vor einem Jahr ausgebrochenen schweren Brand in sieben Wohnblöcken mit 168 Toten erinnert."
-    }
-   },
-   {
-    "time": "2026-11-26T23:01:40+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/uk-news/2026/nov/26/chance-of-snow-forecast-northern-england-scotland",
-    "text": {
-     "tr": "Meteoroloji yetkilileri, İngiltere'nin kuzeyi ve İskoçya'da önümüzdeki günlerde kar yağışı ve buzlanma bekliyor.",
-     "de": "Meteorologen sagen für die kommenden Tage Schneefälle und Glatteis im Norden Englands und in Schottland voraus."
-    }
-   },
-   {
-    "time": "2026-11-26T22:49:27+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
-    "text": {
-     "tr": "Ukrayna Devlet Başkanı Zelenskiy, ABD'nin Orta Doğu'ya odaklanıp Rusya'ya yeterince baskı yapmadığını belirtti.",
-     "de": "Der ukrainische Präsident Selenskyj kritisierte in einem Interview, die USA konzentrierten sich zu stark auf den Nahen Osten."
     }
    }
   ]
@@ -218,6 +218,7 @@
   "https://www.bbc.co.uk/news/articles/c39w9y5dx4k5o",
   "https://www.bbc.co.uk/news/articles/c3gre90l0g45o",
   "https://www.bbc.co.uk/news/articles/c61wr87wyg5wo",
+  "https://www.bbc.co.uk/news/articles/c670278qk879o",
   "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
   "https://www.bbc.co.uk/news/articles/c98r7p65edvgo",
   "https://www.bbc.co.uk/news/articles/c9gklryvj24do",
@@ -929,6 +930,7 @@
   "https://www.spiegel.de/ausland/italien-suizid-von-italiens-ehemaligem-polizeichef-gianni-de-gennaro-wirft-fragen-auf-a-4438294c-29f6-402f-ab44-fe4c7d820ded#ref=rss",
   "https://www.spiegel.de/ausland/kilmar-abrego-garcia-verlaesst-nach-rechtsstreit-freiwillig-die-usa-donald-trump-feiert-das-a-40ef0733-21a6-4e91-89f0-81d9af656f7b#ref=rss",
   "https://www.spiegel.de/ausland/koalitionsverhandlungen-in-israel-beendet-gadi-eisenkot-die-aera-benjamin-netanyahu-a-d8187cb5-6b65-4517-b69d-c99eb7f00b1b#ref=rss",
+  "https://www.spiegel.de/ausland/libyen-libyen-und-italien-kritisieren-ukrainischen-angriff-auf-russische-schiffe-a-6534c9d8-90ef-4e6b-9845-63a0937c11d4#ref=rss",
   "https://www.spiegel.de/ausland/midterms-donald-trump-verbreitet-verschwoerungsmythen-zu-wirtschaftsdaten-a-845c55c6-f6c8-4c14-8ede-28c240404469#ref=rss",
   "https://www.spiegel.de/ausland/nordkorea-kim-jong-un-fordert-breiteren-einsatz-taktischer-atomwaffen-a-f6e5f64e-8f4c-4ad9-b6c0-8ff08a308f51#ref=rss",
   "https://www.spiegel.de/ausland/thanksgiving-sturm-legt-ostkueste-lahm-parade-in-new-york-verschoben-a-91358455-f9be-4968-b156-81516d60641d#ref=rss",
@@ -1108,6 +1110,7 @@
   "https://www.theguardian.com/world/2026/nov/26/timms-review-pip-disability-benefits-claimants",
   "https://www.theguardian.com/world/2026/nov/26/what-would-be-the-fallout-from-a-nuclear-armed-satellite-detonated-into-space",
   "https://www.theguardian.com/world/2026/nov/27/nearly-half-of-ethnic-minority-people-in-uk-have-faced-racism-at-work-in-last-year-survey-finds",
+  "https://www.theguardian.com/world/2026/nov/27/new-zealand-nz-election-2026-final-results",
   "https://www.theguardian.com/world/2026/nov/27/threat-from-china-looms-large-over-taiwan-local-elections",
   "https://www.theguardian.com/world/live/2026/nov/26/eu-budget-summit-ukraine-russia-spain-serbia-elections-latest-news-updates",
   "https://www.welt.de/debatte/plus6b069898c75e09cb88d14f3e/streit-um-kassenleistungen-80-000-euro-fuer-eine-trans-op-nein-das-muss-die-solidargemeinschaft-nicht-zahlen.html",
@@ -1125,6 +1128,7 @@
   "https://www.welt.de/iconist/trends/plus6b0729e5d4a4a3142c573bba/absolute-beginner-ich-habe-noch-nie-eine-vulva-beruehrt-so-will-rtl-bei-der-entjungferung-helfen.html",
   "https://www.welt.de/kultur/plus6aff1ca439a3e8110f0e2b0e/politfluencer-am-narzissmus-der-kleinen-differenzen-leiden-vor-allem-linke.html",
   "https://www.welt.de/kultur/plus6b059f3aaabf9675c80f37a7/sprachkampf-die-denkfehler-in-der-broschuere-mit-der-die-bundeszentrale-fuers-gendern-wirbt.html",
+  "https://www.welt.de/politik/article6b08db961c4d5a00bfba0c53/zentralratspraesident-antisemitismus-sei-von-allen-seiten-gleich-gefaehrlich-warnt-schuster.html",
   "https://www.welt.de/politik/ausland/article6b07cbcad4a4a3142c574148/israel-richter-wollen-anklagepunkte-gegen-netanjahu-im-korruptionsprozess-fallen-lassen.html",
   "https://www.welt.de/politik/ausland/article6b07cd0cd4a4a3142c574154/russland-soll-ukraine-krieg-nicht-ausweiten-fordern-trump-und-rutte.html",
   "https://www.welt.de/politik/ausland/article6b07d24c0ba62538f716dded/ausnahmezustand-in-el-hierro-2100-migranten-erreichen-innerhalb-eines-tages-kanareninsel-jetzt-soll-das-militaer-helfen.html",
