@@ -1,6 +1,20 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-27T05:21+01:00",
- "countries": {},
- "seen": []
+ "updatedAt": "2026-11-27T05:51+01:00",
+ "countries": {
+  "world": [
+   {
+    "time": "2026-11-27T04:40:59+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b08dd3809772de371850af7/florida-haette-ihn-gerne-dabei-trump-wuerde-putin-besuch-bei-g20-gipfel-begruessen.html",
+    "text": {
+     "tr": "ABD Başkanı Trump, Rusya Devlet Başkanı Putin'in Florida'daki G20 Zirvesi'ne katılımını memnuniyetle karşılayacağını belirtti.",
+     "de": "US-Präsident Trump hat erklärt, er würde einen Besuch des russischen Präsidenten Putin beim G20-Gipfel in Florida begrüßen."
+    }
+   }
+  ]
+ },
+ "seen": [
+  "https://www.welt.de/politik/ausland/article6b08dd3809772de371850af7/florida-haette-ihn-gerne-dabei-trump-wuerde-putin-besuch-bei-g20-gipfel-begruessen.html"
+ ]
 }
