@@ -1,0 +1,739 @@
+{
+ "date": "2026-11-28",
+ "updatedAt": "2026-11-28T05:15+01:00",
+ "lang": "de",
+ "countries": [
+  {
+   "code": "de",
+   "key": "ae2c3152182e0a99",
+   "overview": "Im Zentrum der Berichterstattung stehen heute die Verabschiedung des Bundeshaushalts durch den Bundestag sowie die anhaltenden Diskussionen um die Rentenreform und mögliche Fahrplanreduzierungen im Zugverkehr zur Pünktlichkeitssteigerung. Wirtschaftlich sorgen die verhaltene Industriestimmung und ein IT-Vorfall beim Softwarekonzern SAP für Gesprächsstoff, während im Sport die erfolgreiche WM-Qualifikation der deutschen Basketballer herausragt.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Schweitzer legt Entwurf für Rentenreform vor",
+     "summary": "Bundesarbeitsminister Alexander Schweitzer hat einen ersten Entwurf für die lang umstrittene Rentenreform vorgelegt. Demnach soll die sogenannte Rente mit 63 im Kern bestehen bleiben, während der Vorstoß bei Gewerkschaften und Opposition auf geteiltes Echo stößt. Der Minister verteidigte die Pläne als Maßnahme zur Beitragsstabilisierung.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
+     "time": "2026-11-27T17:30:51+01:00"
+    },
+    {
+     "title": "Bundestag beschließt Stromsteuersenkung und Zuckersteuer",
+     "summary": "Der Deutsche Bundestag hat eine einjährige Senkung der Stromsteuer sowie die Einführung einer Zuckersteuer auf Getränke beschlossen. Zudem steigen die Abgaben auf hochprozentigen Alkohol. Die Maßnahmen sollen steuerliche Weichenstellungen für das kommende Jahr setzen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/innenpolitik/beschluss-zuckersteuer-stromsteuer-100.html",
+     "time": "2026-11-27T17:09:18+01:00"
+    },
+    {
+     "title": "Bilger schließt Reduzierung des Zugverkehrs für Pünktlichkeit nicht aus",
+     "summary": "Angesichts um 150 Prozent gestiegener Zugverspätungen auf den überlasteten Schienen in den vergangenen zehn Jahren zieht Verkehrsminister Steffen Bilger drastische Schritte in Betracht. Er schließt eine Reduzierung des Zugverkehrs nicht aus, um die Pünktlichkeit im Netz zu verbessern. Kritiker befürchten dadurch Einschränkungen für Pendler.",
+     "category": "Verkehr",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/politik/deutschland/article6b0a49bd7df78695bac9655f/verkehrsminister-bilger-schliesst-reduzierung-des-zugverkehrs-fuer-mehr-puenktlichkeit-nicht-aus.html",
+     "time": "2026-11-28T03:34:36+00:00"
+    },
+    {
+     "title": "Ex-BND-Chef Hanning bleibt in Untersuchungshaft",
+     "summary": "Der im Oktober festgenommene frühere BND-Chef August Hanning muss vorerst in Untersuchungshaft bleiben. Gegen den 80-Jährigen wird unter anderem wegen des Verdachts der Spionage ermittelt. Die internationale Dimension des Falls sorgt weiterhin für Aufsehen.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/bnd-hanning-untersuchungshaft-spionageverdacht-100.html",
+     "time": "2026-11-27T15:10:01+01:00"
+    },
+    {
+     "title": "Beginn der Ski-Saison in Deutschland mit höheren Preisen",
+     "summary": "Mit den ersten nennenswerten Schneefällen und kalten Temperaturen hat an der Zugspitze und im Sauerland die Ski-Saison in Deutschland begonnen. Wintersportler müssen sich in diesem Jahr jedoch auf höhere Kosten einstellen. Die Betreiber zeigen sich trotz gestiegener Preise optimistisch.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "tagesschau",
+     "url": "https://www.tagesschau.de/inland/gesellschaft/ski-saison-deutschland-100.html",
+     "time": "2026-11-27T15:12:31+01:00"
+    },
+    {
+     "title": "Industrie gibt schwarz-roter Wirtschaftspolitik ein „mangelhaft“",
+     "summary": "Die Wirtschaftspolitik der Bundesregierung unter Bundeskanzler Friedrich Merz stößt in der Industrie auf scharfe Kritik. Laut einer Umfrage der Deutschen Industrie- und Handelskammer sehen Unternehmen keine Fortschritte für den Standort Deutschland. Die Bewertungen fallen so schlecht aus wie zu Zeiten der Vorgängerregierung.",
+     "category": "Wirtschaft",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/wirtschaft/plus6b0974086a4ea151d91c25ae/regierungsbilanz-industrie-gibt-schwarz-roter-wirtschaftspolitik-ein-mangelhaft.html",
+     "time": "2026-11-28T00:10:00+00:00"
+    },
+    {
+     "title": "SAP erwägt offenbar Stellenabbau im großen Stil",
+     "summary": "Der deutsche Softwareriese SAP plant Medienberichten zufolge den Abbau von Tausenden Arbeitsplätzen. Hintergrund der Maßnahmen ist unter anderem die verstärkte Automatisierung durch künstliche Intelligenz. Die Belegschaft zeigt sich angesichts der Pläne besorgt.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "tagesschau Wirtschaft",
+     "url": "https://www.tagesschau.de/wirtschaft/unternehmen/sap-stellenabbau-geplant-100.html",
+     "time": "2026-11-27T12:09:46+01:00"
+    },
+    {
+     "title": "Uber sichert sich Mehrheit an Delivery Hero",
+     "summary": "Das US-amerikanische Start-up Uber treibt seine Expansionspläne voran und hat sich fast 90 Prozent der Anteile am Berliner Lieferdienst Delivery Hero gesichert. Die milliardenschwere Übernahme steht kurz vor dem Abschluss.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/uber-sichert-sich-fast-90-prozent-der-anteile-von-delivery-hero-a-e3ce4aeb-2c38-4e99-9069-dc1159a62ca3#ref=rss",
+     "time": "2026-11-27T14:08:00+01:00"
+    },
+    {
+     "title": "Arbeitgeber warnen vor Reform und Abschaffung der Minijobs",
+     "summary": "Im Zuge der geplanten Rentenreform stehen auch die Minijobs zur Debatte. Da diese Beschäftigungsform in zahlreichen Branchen extrem weit verbreitet ist, warnen Arbeitgeberverbände vor gravierenden Folgen für den Arbeitsmarkt bei einer Abschaffung.",
+     "category": "Arbeitsmarkt",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Die Welt",
+     "url": "https://www.welt.de/wirtschaft/article6b099f26741a4ef94784a295/umfrage-arbeitgeber-warnen-vor-reform-der-minijobs.html",
+     "time": "2026-11-28T00:08:25+00:00"
+    },
+    {
+     "title": "Traditionsreicher Klavierbauer Sauter stellt Insolvenzantrag",
+     "summary": "Das baden-württembergische Unternehmen Sauter, das seit über 200 Jahren Flügel und Klaviere baut, hat Insolvenz angemeldet. Der traditionsreiche Musikinstrumentenbauer benötigt finanzielle Unterstützung zur Bewältigung der Krise.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Spiegel Wirtschaft",
+     "url": "https://www.spiegel.de/wirtschaft/unternehmen/sauter-klavierbauer-stellt-insolvenzantrag-a-a3df64ca-76e0-4225-8baf-a40c22fb35f0#ref=rss",
+     "time": "2026-11-27T15:58:00+01:00"
+    },
+    {
+     "title": "Mutmaßlicher IT-Sicherheitsvorfall beim Softwarekonzern SAP",
+     "summary": "Der DAX-Konzern SAP hat in seinen Entwicklungssystemen verdächtige Aktivitäten festgestellt und einen IT-Sicherheitsvorfall eingeräumt. Bisher gebe es jedoch keine Hinweise auf unbefugten Zugriff auf sensible Kundendaten, versicherte das Unternehmen.",
+     "category": "Cybersecurity",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "DW Nachrichten",
+     "url": "https://www.dw.com/de/mutmaßlicher-hackerangriff-auf-deutschen-softwarekonzern-sap/a-80072576",
+     "time": "2026-11-27T10:41:00+00:00"
+    },
+    {
+     "title": "Vodafone-Klausel unwirksam: Kunden fordern Geld zurück",
+     "summary": "Ein Gerichtsurteil zu einer AGB-Klausel schwächt die Preiserhöhungen ab, die Vodafone im Jahr 2023 für zahlreiche Festnetzverträge vorgenommen hatte. Mehr als 100.000 Kunden haben nun rechtliche Handhabe, zu viel gezahlte Beträge zurückzufordern.",
+     "category": "Telekommunikation",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/vodafone-klausel-unwirksam-121-000-kunden-fordern-geld-zurueck-a-055809e6-cc04-4e85-9e74-8dbc3f41882e#ref=rss",
+     "time": "2026-11-27T09:45:00+01:00"
+    },
+    {
+     "title": "OpenAI wirft Apple Diebstahl von Geschäftsgeheimnissen vor",
+     "summary": "Der Streit zwischen dem KI-Entwickler OpenAI und Apple verschärft sich massiv. OpenAI wirft dem iPhone-Konzern vor, Geschäftsgeheimnisse entwendet und den Zugang zu wichtigen Lieferanten blockiert zu haben.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Spiegel Netzwelt",
+     "url": "https://www.spiegel.de/netzwelt/openai-ki-entwickler-wirft-apple-diebstahl-von-geschaeftsgeheimnissen-vor-a-97039215-746c-4cfc-9dc9-fa9c9adff1ef#ref=rss",
+     "time": "2026-11-27T22:44:00+01:00"
+    },
+    {
+     "title": "Klimaerwärmung: Erstmals sieben Tage am Stück über 2-Grad-Marke",
+     "summary": "Die globale Durchschnittstemperatur hat erstmals an sieben aufeinanderfolgenden Tagen die Schwelle von 2 Grad Celsius über dem vorindustriellen Niveau überschritten. Forscher werten dies als besorgniserregenden Meilenstein der Klimaerwärmung.",
+     "category": "Klima",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Klimaerwaermung-Erstmals-sieben-Tage-am-Stueck-global-ueber-2-Grad-Marke-11540177.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-27T11:33:00+01:00"
+    },
+    {
+     "title": "Neue App soll Unterrichtsgespräche gerechter gestalten",
+     "summary": "Bildungsforscher haben eine neue Anwendung entwickelt, um Unterrichtsgespräche an Schulen zu verändern. Die App soll sicherstellen, dass nicht immer dieselben Schüler zu Wort kommen und Diskussionen ausgewogener verlaufen.",
+     "category": "Bildung",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "heise online",
+     "url": "https://www.heise.de/news/Auch-die-Stillen-kommen-z-Wort-Neue-App-will-Unterrichtsgespraeche-aendern-11540417.html?wt_mc=rss.red.ho.top-news.atom.beitrag.beitrag",
+     "time": "2026-11-27T12:53:00+01:00"
+    },
+    {
+     "title": "Deutsche Basketballer lösen WM-Ticket in Lettland",
+     "summary": "Mit einem knappen Auswärtssieg gegen Lettland haben sich die deutschen Basketballer vorzeitig für die Weltmeisterschaft 2027 in Katar qualifiziert. In der umkämpften Partie in Riga wusste vor allem das DBB-Team taktisch zu überzeugen.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/basketball/nationalmannschaft/wm-qualifikation-lettland-dbb-100.html",
+     "time": "2026-11-27T21:35:49+01:00"
+    },
+    {
+     "title": "Niclas Füllkrug rettet Werder Bremen späten Punkt gegen Gladbach",
+     "summary": "In einem torreichen Bundesligaspiel hat Werder Bremen ein 3:3 gegen Borussia Mönchengladbach erkämpft. Obwohl die Gäste aus Gladbach im Laufe der Partie mehrfach führten, sicherte Füllkrug den Gastgebern mit einem Treffer in der Nachspielzeit das Unentschieden.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
+     "time": "2026-11-27T23:46:00+01:00"
+    },
+    {
+     "title": "Doppeltorschütze Stützle führt Ottawa in der NHL zum Sieg",
+     "summary": "Nationalspieler Tim Stützle setzt seine Erfolgsserie in der nordamerikanischen Profiliga NHL mit den Ottawa Senators fort. Beim Sieg im Spitzenspiel glänzte der Stürmer als doppelter Torschütze, während auch Moritz Seider siegreich blieb.",
+     "category": "Eishockey",
+     "topic": "spor",
+     "importance": 2,
+     "source": "kicker",
+     "url": "https://www.kicker.de/sieg-im-spitzenspiel-doppeltorschuetze-stuetzle-weiter-auf-erfolgskurs-1275769/artikel#omrss",
+     "time": "2026-11-27T23:02:28+00:00"
+    },
+    {
+     "title": "Gummersbach setzt Siegesserie in der Handball-Bundesliga fort",
+     "summary": "Der VfL Gummersbach hat in der Handball-Bundesliga einen weiteren Erfolg eingefahren. Gegen Erlangen feierte das Team den sechsten Sieg in Serie und baut damit seine starke Position in der Tabelle aus.",
+     "category": "Handball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "sportschau",
+     "url": "https://www.sportschau.de/regional/wdr/wdr-gummersbach-setzt-seine-siegesserie-gegen-erlangen-fort-100.html",
+     "time": "2026-11-27T23:39:43+01:00"
+    },
+    {
+     "title": "DOSB-Präsidentschaftskandidat Engelhardt verspricht Verbänden Mitsprache",
+     "summary": "Im Vorfeld der anstehenden Kampfabstimmung um den DOSB-Vorsitz hat Martin Engelhardt angekündigt, die Mitgliedsverbände stärker in Entscheidungsprozesse einzubinden. Dies soll den Verbänden eine bessere Planungssicherheit bei Finanzen und Erfolgen ermöglichen.",
+     "category": "Sportpolitik",
+     "topic": "spor",
+     "importance": 1,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/sport/sportpolitik/martin-engelhardt-verspricht-dosb-verbaenden-more-mitsprache-201722866.html",
+     "time": "2026-11-27T21:55:47+00:00"
+    },
+    {
+     "title": "Heinos neuer Song enthält Textpassage aus NS-Marschlied",
+     "summary": "Der Schlagersänger Heino steht wegen Passagen in seinem neuen Lied in der Kritik, die aus einem bekannten NS-Marschlied von 1938 stammen sollen. Das dazugehörige Musikvideo ist auf der Plattform YouTube inzwischen nicht mehr abrufbar.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 3,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/musik/erika-auf-der-heide-heinos-neues-lied-entaelt-textpassage-aus-ns-marschlied-a-5fbe7280-d4cc-4fd9-b5ca-9eb94d6968ce#ref=rss",
+     "time": "2026-11-27T16:12:00+01:00"
+    },
+    {
+     "title": "Puppenspieler und Kabarettist Michael Hatzius mit 44 Jahren gestorben",
+     "summary": "Der vor allem durch seine Kunstfigur „Echse“ bekannte Puppenspieler und Comedian Michael Hatzius ist verstorben. Der Künstler, der im Herbst mehrere Auftritte krankheitsabsagen musste, wurde 44 Jahre alt.",
+     "category": "Bühne",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "FAZ Nachrichten",
+     "url": "https://www.faz.net/aktuell/gesellschaft/menschen/mit-echse-bekannt-puppenspieler-michael-hatzius-verstorben-201725149.html",
+     "time": "2026-11-27T21:23:54+00:00"
+    },
+    {
+     "title": "ZDF gibt Gäste für erste „Wetten, dass..?“-Ausgabe nach Gottschalk bekannt",
+     "summary": "Im Dezember steht die erste Ausgabe der traditionsreichen Fernsehshow „Wetten, dass..?“ nach der Ära von Thomas Gottschalk an. Das ZDF hat nun Auftritte von Herbert Grönemeyer und Nina Chuba sowie Details zur Show angekündigt.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Spiegel Kultur",
+     "url": "https://www.spiegel.de/kultur/tv/wetten-dass-nina-chuba-und-herbert-groenemeyer-kommen-zu-ein-bagger-vielleicht-auch-a-62307cbf-090f-458c-8d5c-0e03ae9eb2a2#ref=rss",
+     "time": "2026-11-27T17:13:00+01:00"
+    },
+    {
+     "title": "Mitarbeiter des Magazins „Compact“ bei YouTube-Awards in Berlin angegriffen",
+     "summary": "Am Rande der YouTube-Awards in Berlin ist es nach Angaben der Beteiligten zu einem tätlichen Angriff auf Journalisten des rechtsextremen Mediums „Compact“ gekommen. Die Betroffenen behaupten, die Angreifer stammten aus dem Umfeld einer bekannten Musikerin.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Der Spiegel",
+     "url": "https://www.spiegel.de/kultur/musik/berlin-zwei-compact-journalisten-bei-youtube-awards-angegriffen-a-1eb51c98-15db-4c3f-b8fd-2e6dc52c64d9#ref=rss",
+     "time": "2026-11-27T18:33:00+01:00"
+    },
+    {
+     "title": "Medienfestival Televisionale in Weimar zu Ende gegangen",
+     "summary": "In Weimar hat das Medienfestival Televisionale seinen Abschluss gefunden. Im Zentrum der Veranstaltung standen Fragen zur Zukunft des Fernsehens, zur Filmförderung sowie die Verleihung von Preisen an herausragende Fernsehproduktionen.",
+     "category": "Kulturpolitik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "FAZ Feuilleton",
+     "url": "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/festival-televisionale-mausert-sich-zu-medien-hotspot-201722718.html",
+     "time": "2026-11-27T19:11:23+00:00"
+    }
+   ]
+  },
+  {
+   "code": "tr",
+   "key": "01065c7a49706469",
+   "overview": "Türkiye erlebt eine bewegte Innenpolitik mit Debatten um die Präsidentschaftskandidatur und laufenden juristischen Ermittlungen, während in der Wirtschaft Fondsabwicklungen und Haushaltsfragen im Vordergrund stehen. In der Außenpolitik ziehen regionale Kooperationsschritte und Sicherheitsfragen Aufmerksamkeit auf sich, begleitet von Kulturveranstaltungen und sportlichen Wettbewerben. Diese Entwicklungen spiegeln eine kritische Phase wider, in der gesellschaftliche und wirtschaftliche Ungleichgewichte genau beobachtet werden.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Erklärung zur Präsidentschaftskandidatur von Özgür Özel",
+     "summary": "Der Vorsitzende der YENİ-Partei, Özgür Özel, hat angekündigt, am Freitag, den 4. Dezember, in Ankara eine Pressekonferenz zur Präsidentschaftskandidatur abzuhalten. Özel betonte, dass die gesamte Türkei in der kommenden Woche über dieses Thema sprechen werde. Dabei wurde hervorgehoben, dass sich der Prozess am Willen der Nation orientieren wird.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cmpqrvg1g0r5o",
+     "time": "2026-11-27T20:16:40+00:00"
+    },
+    {
+     "title": "Festnahmeanordnungen im Zuge der Halk-TV-Ermittlungen",
+     "summary": "Im Rahmen der Ermittlungen wurden Haftbefehle gegen zwölf Personen erlassen, von denen neun festgenommen wurden. Zu den zur Polizeiwache gebrachten Personen gehören auch die Journalisten Ece Üner und Deniz Bayramoğlu. Die Operation stieß in der Medienlandschaft auf ein breites Echo.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cmge3r8983wno",
+     "time": "2026-11-27T17:26:30+00:00"
+    },
+    {
+     "title": "Mekka-Allianz betont gemeinsame Verteidigung",
+     "summary": "Die aus der Türkei, Pakistan und Saudi-Arabien bestehende Mekka-Allianz hat in Islamabad ihren Entschluss zur Stärkung der Verteidigungszusammenarbeit bekräftigt. Außenminister Hakan Fidan gab bekannt, dass auch die Aufnahme neuer Mitglieder in das Bündnis erörtert wurde. Bei den Gesprächen standen regionale Sicherheitsthemen im Mittelpunkt.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/mekke-i̇ttifakı-i̇slamabad-da-ortak-savunma-taahhüdü-gündemde/a-80076838",
+     "time": "2026-11-27T19:20:00+00:00"
+    },
+    {
+     "title": "In Bolu vermisste Kinder wohlbehalten aufgefunden",
+     "summary": "Zehn Mädchen und drei Betreuer, die von der Direktion des Kinderheims Kocaeli zu einem Tagesausflug nach Bolu Yedigöller gereist waren und stundenlang als vermisst galten, wurden lebend gefunden. Nach Abschluss der Suchmaßnahmen wurde erklärt, dass sich die Betroffenen in einem guten gesundheitlichen Zustand befinden.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cmx289847rl5o",
+     "time": "2026-11-28T00:54:39+00:00"
+    },
+    {
+     "title": "Kaltlufteinbruch und Sturmwarnung für Istanbul",
+     "summary": "Das Generaldirektorat für Meteorologie kündigte ab dem Wochenende starke Stürme im westlichen Schwarzen Meer, in der nördlichen Ägäis und im Marmarameer an. Das Gouvernement Istanbul und das Katastrophenzentrum AKOM gaben bekannt, dass die Temperaturen um 8 bis 10 Grad auf bis zu 3 Grad sinken werden. Die Bevölkerung wurde vor Sturm, Starkregen und Glatteis gewarnt.",
+     "category": "Wetter",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "Karar",
+     "url": "https://www.karar.com/guncel-haberler/istanbula-sibirya-soguklari-geliyor-firtinaya-saganaga-ve-buzlanmaya-2086715",
+     "time": "2026-11-28T07:14:47+03:00"
+    },
+    {
+     "title": "Zwischenzahlungen bei der Fondsabwicklung abgeschlossen",
+     "summary": "Das Präsidiale Kommunikationsamt gab bekannt, dass im Rahmen des Fondsabwicklungsprozesses insgesamt 199,55 Milliarden TL an rund eine halbe Million Investoren ausgezahlt wurden. Es wurde betont, dass der Prozess transparent durchgeführt wird und darauf abgezielt wird, die Verluste der Anspruchsberechtigten auszugleichen.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "BBC Türkçe",
+     "url": "https://www.bbc.com/turkce/articles/cm3wgnj72l90o",
+     "time": "2026-11-27T18:29:54+00:00"
+    },
+    {
+     "title": "SPK verhängt Handelsverbot und leitet Strafanzeigen gegen Tera Portföy ein",
+     "summary": "Der Kapitalmarktausschuss (SPK) hat wegen Transaktionen an den Aktienmärkten von TERA und PEKGY ein zweijähriges Handelsverbot gegen Tera Portföy Yönetimi AŞ verhängt. Im Bulletin wurde zudem bekannt gegeben, dass gegen 167 Personen Strafanzeige erstattet und Geldstrafen gegen verschiedene Unternehmen verhängt wurden.",
+     "category": "Regulierung",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/spk-yeni-bultenini-yayimladi-167-kisiye-suc-duyurusu-milyonlarca-liralik-para-cezalari-2560083",
+     "time": "2026-11-28T00:52:00+03:00"
+    },
+    {
+     "title": "Zentralbank entzieht Fintlix die Lizenz",
+     "summary": "Die Zentralbank der Republik Türkei (TCMB) hat die Lizenz von Fintlix Elektronik Para ve Ödeme Hizmetleri AŞ als E-Geld-Institut widerrufen. Die Entscheidung wurde im Amtsblatt veröffentlicht und trat in Kraft.",
+     "category": "Bankwesen",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/ekonomi-haberleri/merkez-bankasi-fintlixin-faaliyet-iznini-iptal-etti-2086713",
+     "time": "2026-11-28T01:54:21+03:00"
+    },
+    {
+     "title": "Verbrauchssteuer-Anpassung und neue Preiserhöhungen bei Kraftstoffen",
+     "summary": "Nach vorherigen Preissenkungen steht im Zuge einer Anpassung der Sonderverbrauchssteuer (ÖTV) eine neue Preiserhöhungsrunde bei Kraftstoffen bevor. Mit dem für den 1. Dezember erwarteten Anstieg an den Zapfsäulen werden die Benzin- und Dieselpreise wieder steigen.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/benzin-ve-motorine-dev-zam-yolda-tabelalar-1-aralik-ta-degisecek-2559899",
+     "time": "2026-11-27T13:03:00+03:00"
+    },
+    {
+     "title": "TMSF übernimmt Verwaltung von Birikim Varlık Yönetim",
+     "summary": "Der Sparversicherungsfonds (TMSF) wurde als Treuhänder für Birikim Varlık Yönetim AŞ ernannt, deren Vorstandsvorsitzender İnan Altınbaş im Rahmen der Fondsermittlungen festgenommen worden war. Die Entscheidung wurde nach rechtlichen Schritten in der Unternehmensführung umgesetzt.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Cumhuriyet Ekonomi",
+     "url": "https://www.cumhuriyet.com.tr/ekonomi/fon-sorusturmasinda-tutuklanmisti-birikim-varlik-yonetim-e-tmsf-kayyim-olarak-atandi-2560014",
+     "time": "2026-11-27T19:39:00+03:00"
+    },
+    {
+     "title": "OpenAI verklagt Apple wegen Geschäftsgeheimnissen",
+     "summary": "Das KI-Unternehmen OpenAI hat Apple verklagt und wirft dem Konzern vor, Geschäftsgeheimnisse entwendet, den Zugang zu Hardware-Lieferanten eingeschränkt und die Abwerbung von Ingenieuren behindert zu haben. Der Rechtsstreit erhält nach einer Klage von Apple im Juli eine neue Dimension.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Karar",
+     "url": "https://www.karar.com/teknoloji-haberleri/openaidan-applea-karsi-dava-2086710",
+     "time": "2026-11-28T00:15:20+03:00"
+    },
+    {
+     "title": "Hyundai stellt elektrisches SUV mit wechselbarem Akku vor",
+     "summary": "Hyundai hat erste Bilder seines neuen elektrischen SUV-Modells Ioniq M veröffentlicht, das eine Alternative zu langen Ladezeiten bietet. Das kompakte Modell mit Wechsellakku-Technologie soll 2027 auf den Markt kommen.",
+     "category": "Automotive",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/hyundai-bataryasi-degistirilebilen-elektrikli-suv-ioniq-m-h229568",
+     "time": "2026-11-27T17:19:36+03:00"
+    },
+    {
+     "title": "Apple bringt Update für das iPhone Duo",
+     "summary": "Apple reagiert auf Kritik bezüglich seines faltbaren iPhone-Modells. Das Unternehmen wird die von Nutzern geforderte und zuvor fehlende Face-ID-Funktion per Software-Update nachreichen.",
+     "category": "Hardware",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/apple-iphone-duo-icin-talep-edilen-ozelligi-guncellemeyle-ekliyor-2560046",
+     "time": "2026-11-27T22:52:00+03:00"
+    },
+    {
+     "title": "Stadion großen Krater auf von NASA gerammtem Asteroiden entdeckt",
+     "summary": "Wissenschaftler haben die Oberfläche des Asteroiden Dimorphos untersucht, in den die US-Raumfahrtbehörde NASA 2022 absichtlich die Raumsonde DART gesteuert hatte. Dabei wurde festgestellt, dass auf dem Himmelskörper ein stadiongroßer Krater entstanden ist.",
+     "category": "Raumfahrt",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Cumhuriyet Bilim-Teknoloji",
+     "url": "https://www.cumhuriyet.com.tr/bilim-teknoloji/nasa-nin-uzay-aracinin-carptigi-asteroidde-stadyum-buyuklugunde-krater-olustu-2560033",
+     "time": "2026-11-27T21:59:00+03:00"
+    },
+    {
+     "title": "Wissenschaftliche Studie zeigt kritisches Alter für Bildschirmnutzung bei Kindern",
+     "summary": "Einer neuen wissenschaftlichen Studie zufolge ist für die kindliche Entwicklung nicht nur die tägliche Bildschirmzeit entscheidend, sondern auch das Alter beim Erstkontakt mit Bildschirmen. Die Ergebnisse weisen auf langfristige Auswirkungen einer frühen Exposition hin.",
+     "category": "Forschung",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "Webtekno",
+     "url": "https://www.webtekno.com/cocuklarda-ekran-suresi-kritik-yaslar-hafiza-okul-basarisi-h229564",
+     "time": "2026-11-27T17:19:57+03:00"
+    },
+    {
+     "title": "Disziplinarverfahren nach Spiel zwischen Beşiktaş und Hapoel",
+     "summary": "Die UEFA hat wegen der Vorkommnisse im Stadion beim in Georgien ausgetragenen Spiel zwischen Beşiktaş und Hapoel Beer-Sheva ein Disziplinarverfahren eingeleitet. Die Ereignisse in Batumi führten zu diplomatischen Spannungen zwischen Ankara und Tiflis, während die Sportgemeinde in der Türkei geeint reagierte.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "DW Türkçe",
+     "url": "https://www.dw.com/tr/uefa-beşiktaş-ın-i̇srail-ekibiyle-maçı-gürcistan-la-ilişkileri-gerdi/a-80072446",
+     "time": "2026-11-27T10:13:00+00:00"
+    },
+    {
+     "title": "Alperen Şengün in den Top 5 der NBA MVP-Rangliste",
+     "summary": "Der türkische Nationalspieler Alperen Şengün, der in der NBA für die Houston Rockets spielt, ist dank seiner starken Leistungen in der MVP-Rangliste um einen Platz nach oben geklettert und hat den Sprung unter die Top 5 geschafft.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/alperen-sengun-mvp-siralamasinda-ilk-5-e-girdi-2560032",
+     "time": "2026-11-27T21:56:00+03:00"
+    },
+    {
+     "title": "Geldbußen des Verbands für Beşiktaş und Fenerbahçe",
+     "summary": "Der professionelle Fußball-Disziplinausschuss (PFDK) hat seine Disziplinarentscheidungen gegen Süper-Lig-Klubs bekannt gegeben. Demnach wurde Fenerbahçe mit einer Geldstrafe von 1,15 Millionen Lira und Beşiktaş mit 1,08 Millionen Lira belegt.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/pfdk-den-besiktas-ve-fenerbahce-ye-ceza-2560047",
+     "time": "2026-11-27T22:53:00+03:00"
+    },
+    {
+     "title": "Ergin Ataman reagiert auf Rassismusvorwürfe",
+     "summary": "Der Cheftrainer der türkischen Basketball-Nationalmannschaft, Ergin Ataman, hat auf die Interpretation seiner Kritik am FIBA-Spielerstatus als Rassismus reagiert. Ataman erklärte, dass er solche Anschuldigungen entschieden zurückweise.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/ergin-ataman-dan-irkcilik-suclamasina-yanit-bu-bilincli-ithami-reddettigimi-bilmenizi-isterim-2560026",
+     "time": "2026-11-27T21:07:00+03:00"
+    },
+    {
+     "title": "Datum für Auslosung der 5. Qualifikationsrunde im türkischen Pokal bekannt",
+     "summary": "Der türkische Fußballverband hat bekannt gegeben, dass die Auslosung der 5. Qualifikationsrunde des Ziraat-Türkei-Pokals am Freitag, den 4. Dezember, stattfinden wird. Die Spiele sollen am 22., 23. und 24. Dezember ausgetragen werden.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Cumhuriyet Spor",
+     "url": "https://www.cumhuriyet.com.tr/spor/turkiye-kupasi-nda-5-eleme-turu-kura-cekimi-tarihi-belli-oldu-2560023",
+     "time": "2026-11-27T20:45:00+03:00"
+    },
+    {
+     "title": "16. Internationales Verbrechen-und-Strafe-Filmfestival hat begonnen",
+     "summary": "Das vom Verein für Justiz und Kino organisierte 16. Internationale Verbrechen-und-Strafe-Filmfestival wurde mit einer Zeremonie im Cemal-Reşit-Rey-Konzertsaal eröffnet. Das Festival empfängt Filmfans noch bis zum 2. Dezember.",
+     "category": "Kino",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/suc-ve-ceza-film-festivali-basladi-2559995",
+     "time": "2026-11-27T17:52:00+03:00"
+    },
+    {
+     "title": "Historisches Erbe in Hatay nach Restaurierung wiedereröffnet",
+     "summary": "Kultur- und Tourismusminister Mehmet Nuri Ersoy hat 20 restaurierte historische Denkmäler in sechs Bezirken eröffnet. Es wurde mitgeteilt, dass bisher 4,3 Milliarden Lira in die Restaurierungsarbeiten in der Stadt geflossen sind und die Fertigstellung der verbleibenden Bauwerke angestrebt wird.",
+     "category": "Denkmalschutz",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/27/hatayin-tarihi-mirasi-yeniden-ayaga-kalkiyor-20-eser-restorasyon-sonrasi-acildi",
+     "time": "2026-11-27T14:17:11+01:00"
+    },
+    {
+     "title": "Kultur- und Kunstschaffende rufen zu Kundgebung in Kartal auf",
+     "summary": "Aufruf von Gewerkschaften und 101 Institutionen zur Teilnahme an der Kundgebung am Sonntag auf dem Kartal-Platz, an der sich auch Kultur-, Kunst- und Medienarbeiter beteiligen wollen. Bei der Veranstaltung sollen wirtschaftliche und soziale Forderungen geäußert werden.",
+     "category": "Kulturpolitik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/sendikalar-ve-101-kurum-pazar-gunu-kartal-da-yapilacak-mitinge-cagiriyor-2559794",
+     "time": "2026-11-27T04:00:00+03:00"
+    },
+    {
+     "title": "Ausstellung zum Thema hethitische Zivilisation eröffnet",
+     "summary": "Die Ausstellung „Jedes Motiv eine Zivilisationsgeschichte“ mit dem Thema der hethitischen Zivilisation wurde im Türkischen Badkulturmuseum II. Beyazıd eröffnet. Die Ausstellung präsentiert historische Motive dem kunstinteressierten Publikum.",
+     "category": "Ausstellung",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Cumhuriyet Kültür-Sanat",
+     "url": "https://www.cumhuriyet.com.tr/kultur-sanat/kadinlar-hitit-uygarligini-gelecege-tasidilar-2559997",
+     "time": "2026-11-27T17:54:00+03:00"
+    },
+    {
+     "title": "Erster Gast des 55. Istanbuler Musikfestivals bekannt gegeben",
+     "summary": "Es wurde bekannt gegeben, dass das Orchestre de Paris der erste Gast des 55. Istanbuler Musikfestivals sein wird. Das Orchester wird im Rahmen des Festivals gemeinsam mit Solisten Konzerte geben.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Euronews Türkçe Kültür",
+     "url": "https://tr.euronews.com/2026/11/27/55-istanbul-muzik-festivalinin-ilk-konugu-orchestre-de-paris",
+     "time": "2026-11-27T14:41:10+01:00"
+    }
+   ]
+  },
+  {
+   "code": "world",
+   "key": "af1a002c8783235e",
+   "overview": "Das globale Nachrichtengeschehen wird von geopolitischen Spannungen, wirtschaftlichen Belastungen, rechtlichen Konflikten im Bereich der künstlichen Intelligenz sowie wichtigen Sportereignissen geprägt. Während der Ukraine-Krieg und die Energiekrise die Märkte belasten, verlagert sich der Wettbewerb zwischen Technologiegiganten auf die juristische Ebene. Diese vielschichtigen Entwicklungen auf der internationalen Bühne signalisieren neue Krisen in Diplomatie und Wirtschaft.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Ukraine unterbreitet Schwarzmeer-Feuerpause",
+     "summary": "Die Ukraine hat ein Schwarzmeer-Angebot für eine Waffenruhe zur Wiederbelebung von Nahrungsmittelausfuhren vorgelegt und die Details mit internationalen Verbündeten geteilt. Kijev wartet nun auf eine Reaktion aus Moskau. Dieser Schritt gilt als entscheidend für die Ernährungssicherheit in der Region.",
+     "category": "Diplomatie",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/europe/20261127-ukraine-submits-black-sea-ceasefire-offer-awaits-russian-response",
+     "time": "2026-11-27T21:09:12+00:00"
+    },
+    {
+     "title": "Estland schließt Grenze zu Russland",
+     "summary": "Der estnische Außenminister Margus Tsahkna gab während eines Besuchs in Baku bekannt, dass sein Land am 1. Dezember die Grenze zu Russland schließen wird, um Europa zu sichern. Die Maßnahme ist Teil verschärfter Sicherheitsvorkehrungen des baltischen Staates.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "Euronews",
+     "url": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
+     "time": "2026-11-27T19:48:22+01:00"
+    },
+    {
+     "title": "Uganda zieht Truppen aus DR Kongo ab",
+     "summary": "Das ugandische Militär hat angekündigt, seine Truppen aus der Stadt Lubero im Osten der Demokratischen Republik Kongo abzuziehen. Dieser Schritt erfolgt nach drohenden Äußerungen, die eine diplomatische Krise zwischen den Nachbarländern ausgelöst hatten.",
+     "category": "Sicherheit",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/africa/20261127-uganda-withdraw-troops-dr-congo-town-after-army-chief-threat-row",
+     "time": "2026-11-27T17:56:28+00:00"
+    },
+    {
+     "title": "Petition gegen US-Botschafter in Kanada eingereicht",
+     "summary": "Eine von Hunderttausenden Kanadiern unterzeichnete Petition, die fordert, US-Botschafter Pete Hoekstra zur Persona non grata zu erklären, wurde dem Unterhaus vorgelegt. Dies verdeutlicht die anhaltenden Spannungen zwischen den Nachbarländern.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/world/2026/nov/27/pete-hoekstra-canada-us-ambassador-petition",
+     "time": "2026-11-27T21:24:10+00:00"
+    },
+    {
+     "title": "Kanadischer Oberster Gerichtshof stützt Säkularismusgesetz in Québec",
+     "summary": "Der Oberste Gerichtshof Kanadas hat das umstrittene Gesetz aus Québec, das religiöse Symbole für Bedienstete des öffentlichen Dienstes verbietet, weitgehend bestätigt. Während die Regierung das Gesetz zur Verteidigung der Säkularisierung für notwendig hält, bemängeln Kritiker die Einschränkung von Grundrechten.",
+     "category": "Justiz",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/canada-supreme-court-largely-upholds-quebec-secularism-bill/a-80072571",
+     "time": "2026-11-27T20:43:00+00:00"
+    },
+    {
+     "title": "S&P senkt Ausblick für Frankreichs Kreditwürdigkeit",
+     "summary": "Die Ratingagentur S&P hat den Bonitätsausblick Frankreichs von stabil auf negativ herabgesetzt und dies mit wachsendem Haushaltsdruck durch schwaches Wirtschaftswachstum und höhere Zinskosten begründet. Diese Faktoren erschweren den Abbau des Defizits.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "France 24",
+     "url": "https://www.france24.com/en/france/20261127-s-p-revises-france-s-outlook-from-stable-to-negative",
+     "time": "2026-11-27T22:00:20+00:00"
+    },
+    {
+     "title": "Fluggesellschaft Norse Atlantic meldet Insolvenz an",
+     "summary": "Die Billigfluggesellschaft Norse Atlantic hat Insolvenz angemeldet, nachdem die durch den Iran-Krieg verursachten Kerosinpreissprünge das Unternehmen in die Pleite trieben. Die Fluglinie hatte zuvor bereits Schwierigkeiten gehabt, Gewinne zu erzielen.",
+     "category": "Unternehmen",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/airline-norse-atlantic-files-for-bankruptcy-succumbing-to-aviation-fuel-costs/a-80076728",
+     "time": "2026-11-27T14:20:00+00:00"
+    },
+    {
+     "title": "EU-Haushaltsgipfel nach heftigem Streit gescheitert",
+     "summary": "Ein Gipfeltreffen der EU-Staats- und Regierungschefs über den langfristigen Haushalt ist an Differenzen über die Ukraine-Finanzierung und eine geplante Steuer für US-Technologiekonzerne gescheitert. Der Vorfall offenbart tiefe Risse zwischen den Mitgliedstaaten.",
+     "category": "Märkte",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "DW World",
+     "url": "https://www.dw.com/en/divisions-deepen-between-eu-member-states-after-tense-budget-summit/a-80078599",
+     "time": "2026-11-27T16:51:00+00:00"
+    },
+    {
+     "title": "Energiepreise steigen nach Gaspreissprung im Januar deutlich",
+     "summary": "Infolge des durch den Iran-Krieg ausgelösten Anstiegs der Gaspreise werden sich die Energiekosten für Millionen Haushalte im Januar um 26 Prozent erhöhen. Diese Entwicklung stellt Verbraucher vor enorme finanzielle Belastungen.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "BBC Business",
+     "url": "https://www.bbc.co.uk/news/videos/cwjd7y4jk581o",
+     "time": "2026-11-27T16:05:32+00:00"
+    },
+    {
+     "title": "Kritik an angeblichen Rabatten im Online-Handel",
+     "summary": "Einem Bericht des Thinktanks Groundwork Collaborative zufolge wurden viele Produkte zu Black Friday und Cyber Monday zum gleichen oder sogar höheren Preis angeboten als in den Vormonaten. Die Untersuchung wirft Händlern irreführende Praktiken vor.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "Guardian Business",
+     "url": "https://www.theguardian.com/global/2026/nov/27/amazon-sale-deals-deceive-customers-black-friday-cyber-monday",
+     "time": "2026-11-27T14:00:12+00:00"
+    },
+    {
+     "title": "OpenAI verklagt Apple wegen Diebstahls von Geschäftsgeheimnissen",
+     "summary": "OpenAI hat Apple verklagt und dem Technologiekonzern vorgeworfen, Geschäftsgeheimnisse gestohlen und Hardware-Lieferanten unter Druck gesetzt zu haben. Dieser Schritt erfolgt als Gegenklage auf einen früheren Rechtsstreit von Apple.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 3,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+     "time": "2026-11-27T23:28:50+00:00"
+    },
+    {
+     "title": "Intel stand vor Druck zur Anteilsabgabe für Staatshilfen",
+     "summary": "Berichten zufolge stand Intel unter erheblichem Druck, zehn Prozent der Anteile abzutreten, um zugesagte Staatssubventionen in Milliardenhöhe freizugeben. Damit sah sich der Chipkonzern vor eine harte Entscheidung gestellt.",
+     "category": "Politik",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "Ars Technica",
+     "url": "https://arstechnica.com/tech-policy/2026/11/intel-faced-a-choice-give-trump-10-or-face-consequences/",
+     "time": "2026-11-27T12:05:01+00:00"
+    },
+    {
+     "title": "Gamer klonen GTA 6 mit Hilfe von KI und geleakten Dateien",
+     "summary": "Ungeduldige Fans nutzen Künstliche Intelligenz und durchgesickerte Spieldateien, um das mit Spannung erwartete Spiel Grand Theft Auto 6 für den PC vorab in Eigenregie nachzubauen.",
+     "category": "Digitales",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "BBC Technology",
+     "url": "https://www.bbc.co.uk/news/articles/c64gn8pe5eeqo",
+     "time": "2026-11-28T01:30:50+00:00"
+    },
+    {
+     "title": "Nottingham Forest schlägt Chelsea in der Premier League",
+     "summary": "Dank zwei Treffern von Morgan Gibbs-White und einem spektakulären Tor von Igor Jesus hat Nottingham Forest den FC Chelsea mit 3-2 bezwungen. Für die Londoner ist dies die dritte Liga-Niederlage in Folge.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/27/nottingham-forest-chelsea-premier-league-match-report",
+     "time": "2026-11-27T22:10:35+00:00"
+    },
+    {
+     "title": "Columbus Crew wirft Inter Miami aus den MLS-Playoffs",
+     "summary": "Ein späten Treffer von Santiago Rodríguez besiegelte das Ausscheiden von Inter Miami gegen Columbus Crew. Damit ist die Titelverteidigung für das Team um Lionel Messi gescheitert.",
+     "category": "Fussball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/football/2026/nov/27/inter-miami-columbus-crew-mls-playoffs-lionel-messi",
+     "time": "2026-11-28T03:53:14+00:00"
+    },
+    {
+     "title": "Australiens Test-Kader ohne Nathan Lyon",
+     "summary": "Australische Selektoren haben den langjährigen Stammsprinter Nathan Lyon überraschend aus dem Kader für die bevorstehende Test-Serie gegen Neuseeland gestrichen. Damit endet dessen 13-jährige Ära.",
+     "category": "Cricket",
+     "topic": "spor",
+     "importance": 2,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/28/australia-test-squad-named-corey-rocchiccioli-ends-nathan-lyons-reign-as-first-choice-spinner",
+     "time": "2026-11-27T22:50:38+00:00"
+    },
+    {
+     "title": "Aaron Rodgers meldet sich während Live-Übertragung zu Wort",
+     "summary": "Nach seinem turbulenten Abschied von den Pittsburgh Steelers hat sich Quarterback Aaron Rodgers während der Live-Übertragung des Spiels gegen die Denver Broncos per Nachricht zu Wort gemeldet, um sich zu verteidigen.",
+     "category": "American Football",
+     "topic": "spor",
+     "importance": 1,
+     "source": "Guardian Sport",
+     "url": "https://www.theguardian.com/sport/2026/nov/27/aaron-rodgers-texts-into-amazon-broadcast-to-defend-himself-as-steelers-broncos",
+     "time": "2026-11-28T02:01:05+00:00"
+    },
+    {
+     "title": "Dokumentation beleuchtet Weg der Prinzessin von Wales nach Krebstherapie",
+     "summary": "Ein neuer BBC-Film namens 'Heal' begleitet die britische Prinzessin Catherine bei ihrer Besteigung der Three Peaks und dokumentiert ihren Weg nach der überstandenen Krebserkrankung.",
+     "category": "Film",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "The Guardian World",
+     "url": "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
+     "time": "2026-11-27T22:00:21+00:00"
+    },
+    {
+     "title": "Soundtrack von GTA 6 steigt in britischen Charts auf",
+     "summary": "Nach dem Rekordstart des Videospiels Grand Theft Auto 6 haben es gleich mehrere Songs aus dem offiziellen Soundtrack in die britischen Single-Charts geschafft.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "BBC Entertainment & Arts",
+     "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego",
+     "time": "2026-11-27T17:39:11+00:00"
+    }
+   ]
+  }
+ ]
+}
