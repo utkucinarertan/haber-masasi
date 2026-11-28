@@ -1,8 +1,18 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-28T03:21+01:00",
+ "updatedAt": "2026-11-28T04:21+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-28T02:39:28+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+    "importance": 1,
+    "text": {
+     "tr": "Avustralya'nın doğu kıyısını vuran şiddetli fırtına ve yağışlar nedeniyle birçok eyalette sel uyarıları yapıldı.",
+     "de": "Schwere Stürme und heftige Regenfälle haben an der Ostküste Australiens zu Überschwemmungen und Unwetterwarnungen geführt."
+    }
+   },
    {
     "time": "2026-11-28T01:02:05+00:00",
     "source": "The Guardian World",
@@ -11,16 +21,6 @@
     "text": {
      "tr": "Avustralya'nın Victoria eyaletinde seçmenler, koalisyon ile İşçi Partisi arasındaki kritik seçim için sandık başına gitti.",
      "de": "Voter in Australiens Bundesstaat Victoria gingen zu den Wahlen an die Urnen, während die Koalition die regierende Labour-Partei ablösen will."
-    }
-   },
-   {
-    "time": "2026-11-27T23:34:55+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
-    "importance": 1,
-    "text": {
-     "tr": "İngiltere Eğitim Bakanı, ulusal müfredat reformları kapsamında ilkokullarda öğrencilere okuma zamanı ayrılacağını duyuracak.",
-     "de": "Die britische Bildungsministerin wird voraussichtlich ankündigen, dass Schulen in England feste Lesezeiten für Schüler einrichten müssen."
     }
    },
    {
@@ -161,6 +161,16 @@
  },
  "archive": {
   "world": [
+   {
+    "time": "2026-11-28T02:39:28+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
+    "importance": 1,
+    "text": {
+     "tr": "Avustralya'nın doğu kıyısını vuran şiddetli fırtına ve yağışlar nedeniyle birçok eyalette sel uyarıları yapıldı.",
+     "de": "Schwere Stürme und heftige Regenfälle haben an der Ostküste Australiens zu Überschwemmungen und Unwetterwarnungen geführt."
+    }
+   },
    {
     "time": "2026-11-28T01:02:05+00:00",
     "source": "The Guardian World",
@@ -2007,6 +2017,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/27/erin-patterson-launches-high-court-appeal-over-mushroom-convictions-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/27/grace-tame-responds-former-murdoch-executive-nephew-rape-comment-ntwnfb",
   "https://www.theguardian.com/australia-news/2026/nov/27/raaf-pilot-robert-john-crawford-guilty-murder-wife-staged-as-lawn-mowing-accident-ntwnfb",
+  "https://www.theguardian.com/australia-news/2026/nov/28/australias-east-coast-deluged-by-storms-as-roads-flood-and-damaging-winds-forecast-for-nsw-and-victoria",
   "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
   "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
   "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
