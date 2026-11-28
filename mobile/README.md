@@ -3,8 +3,8 @@
 Bu klasör, `docs/` altındaki web uygulamasını (PWA) Android ve iOS uygulamasına çeviren
 **Capacitor 8** projesidir.
 
-- Uygulama kimliği (paket adı / Bundle ID): `app.habermasasi`
-- Uygulama adı: **News**
+- Uygulama kimliği (paket adı / Bundle ID): `com.newsbyfocus.app`
+- Uygulama adı: **NewsByFocus** (ana ekranda ve mağazada)
 - Arayüz (HTML/CSS/JS) uygulamanın içine gömülür. Haberler (`data/*.json`) ise her açılışta
   canlı sunucudan çekilir; varsayılan adres `https://utkucinarertan.github.io/haber-masasi/`.
 - `admin.html` ve `sw.js` uygulamaya konmaz. Footer'daki "Yönetim" bağlantısı uygulamada gizlenir.
@@ -159,7 +159,7 @@ Xcode → proje → **Signing & Capabilities** → Team olarak Apple Developer h
 2. Xcode'da hedef cihaz olarak **Any iOS Device (arm64)** seç. App → General bölümünde Version
    (ör. 1.0.0) ve Build (her yüklemede artır) değerlerini ayarla.
 3. **Product → Archive** → Organizer açılır → **Distribute App → App Store Connect → Upload**.
-4. App Store Connect'te uygulamayı oluştur (Bundle ID `app.habermasasi`), yüklenen derlemeyi önce
+4. App Store Connect'te uygulamayı oluştur (Bundle ID `com.newsbyfocus.app`), yüklenen derlemeyi önce
    TestFlight'ta dene, sonra "Submit for Review".
 5. Şifreleme sorusu: `Info.plist` dosyasında `ITSAppUsesNonExemptEncryption = NO` ayarlı. Uygulama
    yalnızca standart HTTPS kullandığı için muaf.

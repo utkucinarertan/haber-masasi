@@ -1,4 +1,4 @@
-package app.habermasasi;
+package com.newsbyfocus.app;
 
 import com.getcapacitor.BridgeActivity;
 

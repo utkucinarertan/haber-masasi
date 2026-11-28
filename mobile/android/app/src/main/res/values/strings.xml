@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">News</string>
-    <string name="title_activity_main">News</string>
-    <string name="package_name">app.habermasasi</string>
-    <string name="custom_url_scheme">app.habermasasi</string>
+    <string name="app_name">NewsByFocus</string>
+    <string name="title_activity_main">NewsByFocus</string>
+    <string name="package_name">com.newsbyfocus.app</string>
+    <string name="custom_url_scheme">com.newsbyfocus.app</string>
 </resources>

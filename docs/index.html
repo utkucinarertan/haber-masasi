@@ -3,14 +3,14 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<title>News</title>
+<title>NewsByFocus</title>
 <meta name="description" content="Seçtiğiniz ülkelerden günün en önemli haberleri, kendi dilinizde.">
 <script>try{var th=JSON.parse(localStorage.getItem("theme")||'"auto"');if(th==="light"||th==="dark")document.documentElement.dataset.theme=th}catch(e){}</script>
 <meta name="theme-color" content="#15192a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-<meta name="apple-mobile-web-app-title" content="News">
+<meta name="apple-mobile-web-app-title" content="NewsByFocus">
 <meta name="format-detection" content="telephone=no">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
@@ -124,7 +124,11 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 .imp.i3{color:var(--hi)} .imp.i2{color:var(--mid)} .imp.i1{color:var(--lo)}
 .item h4{margin:0;font-weight:700;font-size:1.06rem;line-height:1.3;text-wrap:balance}
 .item p.sum{margin:0;font-family:var(--f-body);font-size:.96rem;line-height:1.6;max-width:65ch}
-.foot{font-size:.8rem}
+.foot{font-size:.8rem;display:flex;align-items:center;gap:12px;flex-wrap:wrap}
+.sharebtn{border:0;background:transparent;color:var(--muted);display:inline-flex;align-items:center;gap:5px;font-weight:700;font-size:.78rem;padding:4px 0;margin-left:auto}
+.sharebtn svg{width:15px;height:15px}
+.sharebtn:hover{color:var(--accent)}
+[dir=rtl] .sharebtn{margin-left:0;margin-right:auto}
 .foot a{color:var(--accent);font-weight:600;text-decoration:none}
 .foot a:hover{text-decoration:underline}
 .state{margin-top:28px;padding:28px;border:1px dashed var(--line);border-radius:12px;text-align:center;color:var(--muted)}
@@ -225,7 +229,7 @@ body.onboard dialog.sheet::backdrop{background:var(--bg)}
 <header class="appbar">
   <div class="row">
     <img class="logo" src="icons/icon-192.png" alt="">
-    <div class="title"><b id="brand">News</b><span id="subtitle"></span></div>
+    <div class="title"><b id="brand">NewsByFocus</b><span id="subtitle"></span></div>
     <select class="langsel" id="lang" aria-label="Language"></select>
     <button class="iconbtn round" id="theme" type="button"></button>
     <button class="iconbtn" id="me" type="button">
@@ -252,7 +256,7 @@ body.onboard dialog.sheet::backdrop{background:var(--bg)}
   <div id="state" class="state"><strong>…</strong></div>
   <main class="desks" id="desks" hidden></main>
 
-  <footer class="note"><span id="footnote"></span></footer>
+  <footer class="note"><span id="footnote"></span> <a id="privacy-link" href="privacy.html"></a> · <a id="support-link" href="support.html"></a></footer>
 </div>
 
 <dialog class="sheet" id="sheet" aria-labelledby="sheet-title">
@@ -363,6 +367,9 @@ function applyLanguageUI(){
   $("#edition-select").setAttribute("aria-label", t().edition);
   $("#chips").setAttribute("aria-label", t().countries);
   $("#footnote").textContent = t().foot;
+  const legalLang = ["en", "tr", "de"].includes(lang) ? lang : "en";
+  $("#privacy-link").textContent = t().privacy; $("#privacy-link").href = "privacy.html?lang=" + legalLang;
+  $("#support-link").textContent = t().support; $("#support-link").href = "support.html?lang=" + legalLang;
   const sel = $("#lang");
   sel.replaceChildren(...LANG_ORDER.map(l => { const o = el("option", null, langName(l)); o.value = l; return o; }));
   sel.value = lang;
@@ -439,7 +446,8 @@ async function loadAll(keep, manual){
       }
       idx = await fetchAll();
     } catch {
-      if (!current) showState(t().offline, t().offlineText); else if (manual) showStatus("err", t().offlineKeep, 6000);
+      if (!current && restoreOffline()) showStatus("err", t().offlineKeep, 6000);
+      else if (!current) showState(t().offline, t().offlineText); else if (manual) showStatus("err", t().offlineKeep, 6000);
       return;
     }
     index = idx.editions || [];
@@ -493,6 +501,7 @@ async function loadEdition(date){
     else if (codes.length){ note.hidden = false; note.textContent = t().translateFailed; }
   } else if (!native){ note.hidden = false; note.textContent = t().translateFailed; }
   current = doc;
+  if (date === index[0]?.date) store.set("lastEdition", {index, config, flash, current, lang, profile});   // internetsiz açılış için
   $("#edition-select").value = date;
   renderChips();
   render();
@@ -689,7 +698,7 @@ function digestItem(it){
   li.append(meta, el("h4", null, it.title || ""), el("p", "sum", it.summary || ""));
   const foot = el("div", "foot");
   if (it.url && /^https:\/\//.test(it.url)){
-    const a = el("a", null, (it.source || "") + " ↗"); a.href = it.url; a.target = "_blank"; a.rel = "noopener"; foot.append(a);
+    const a = el("a", null, (it.source || "") + " ↗"); a.href = it.url; a.target = "_blank"; a.rel = "noopener"; foot.append(a, shareButton(it));
   }
   li.append(foot);
   return li;
@@ -935,6 +944,39 @@ function renderFlash(code){
   return box;
 }
 
+/* İnternet yokken: en son indirilen baskı (aynı dil ve profil) gösterilir */
+function restoreOffline(){
+  const c = store.get("lastEdition", null);
+  if (!c || c.lang !== lang || c.profile !== profile || !c.current) return false;
+  ({index, config, flash, current} = c);
+  applyLanguageUI(); fillEditionSelect(); renderChips(); render();
+  return true;
+}
+
+/* Telefon uygulamasında yerel özellikler (Capacitor): paylaşım menüsü ve kaynağı uygulama içinde açma */
+const native = name => window.Capacitor?.isNativePlatform?.() && window.Capacitor.registerPlugin ? window.Capacitor.registerPlugin(name) : null;
+const SHARE_ICON = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 12v7a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2v-7"/><path d="M16 6l-4-4-4 4"/><path d="M12 2v13"/></svg>';
+async function shareStory(it){
+  const data = {title: it.title || "", text: [it.title, it.summary].filter(Boolean).join("\n\n"), url: it.url};
+  try {
+    const sh = native("Share");
+    if (sh) return await sh.share({...data, dialogTitle: t().share});
+    if (navigator.share) return await navigator.share(data);
+    await navigator.clipboard.writeText(it.url); showStatus("ok", t().copied, 2500);
+  } catch {}
+}
+function shareButton(it){
+  const b = el("button", "sharebtn"); b.type = "button"; b.innerHTML = SHARE_ICON;
+  b.append(document.createTextNode(t().share)); b.setAttribute("aria-label", `${t().share}: ${it.title || ""}`);
+  b.onclick = () => shareStory(it);
+  return b;
+}
+document.addEventListener("click", e => {
+  const a = e.target.closest?.('a[target="_blank"]');
+  const br = a && /^https:\/\//.test(a.href) ? native("Browser") : null;
+  if (br){ e.preventDefault(); br.open({url: a.href, presentationStyle: "popover"}); }
+});
+
 function renderItem(it){
   const li = el("li", "item");
   const meta = el("div", "meta");
@@ -947,7 +989,7 @@ function renderItem(it){
   const foot = el("div", "foot");
   if (it.url && /^https:\/\//.test(it.url)){
     const a = el("a", null, (it.source || "") + " ↗"); a.href = it.url; a.target = "_blank"; a.rel = "noopener";
-    foot.append(a);
+    foot.append(a, shareButton(it));
   } else if (it.source) foot.append(el("span", null, it.source));
   li.append(foot);
   return li;

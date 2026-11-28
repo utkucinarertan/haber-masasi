@@ -1,0 +1,102 @@
+name: iOS yayını (TestFlight)
+
+# Mac gerekmeden iOS uygulamasını GitHub'ın macOS makinesinde derler, imzalar ve App Store Connect'e
+# (TestFlight) yükler. Elle başlatılır: Actions → "iOS yayını (TestFlight)" → Run workflow.
+#
+# Gerekli depo secret'ları (Settings → Secrets and variables → Actions):
+#   APPLE_TEAM_ID   Apple Developer → Membership details → Team ID (10 karakter)
+#   ASC_KEY_ID      App Store Connect → Users and Access → Integrations → App Store Connect API → Key ID
+#   ASC_ISSUER_ID   aynı sayfadaki Issuer ID
+#   ASC_KEY_P8      indirilen AuthKey_XXXX.p8 dosyasının içeriğinin tamamı (rolü: Admin)
+# Derleme numarası her çalıştırmada otomatik artar (GitHub çalıştırma numarası).
+
+on:
+  workflow_dispatch:
+    inputs:
+      version:
+        description: "Sürüm (kullanıcının gördüğü, ör. 1.0.0)"
+        required: true
+        default: "1.0.0"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ios-release
+  cancel-in-progress: false
+
+jobs:
+  ios:
+    runs-on: macos-15
+    timeout-minutes: 60
+    env:
+      TEAM_ID: ${{ secrets.APPLE_TEAM_ID }}
+      ASC_KEY_ID: ${{ secrets.ASC_KEY_ID }}
+      ASC_ISSUER_ID: ${{ secrets.ASC_ISSUER_ID }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Secret'ları denetle
+        run: |
+          for v in TEAM_ID ASC_KEY_ID ASC_ISSUER_ID; do
+            [ -n "${!v}" ] || { echo "::error::$v secret'ı tanımlı değil (mobile/README.md → iOS bulut derlemesi)"; exit 1; }
+          done
+          [ -n "${{ secrets.ASC_KEY_P8 }}" ] || { echo "::error::ASC_KEY_P8 secret'ı tanımlı değil"; exit 1; }
+          echo "${{ inputs.version }}" | grep -Eq '^[0-9]+(\.[0-9]+){1,2}$' || { echo "::error::Sürüm 1.0.0 biçiminde olmalı"; exit 1; }
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: mobile/package-lock.json
+
+      - name: Web arayüzünü uygulamaya kopyala
+        working-directory: mobile
+        run: |
+          npm ci
+          npm run web
+          npx cap sync ios
+
+      - name: App Store Connect anahtarı
+        run: |
+          mkdir -p "$RUNNER_TEMP/keys"
+          printf '%s' "${{ secrets.ASC_KEY_P8 }}" > "$RUNNER_TEMP/keys/AuthKey.p8"
+          cat > "$RUNNER_TEMP/ExportOptions.plist" <<EOF
+          <?xml version="1.0" encoding="UTF-8"?>
+          <!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+          <plist version="1.0"><dict>
+            <key>method</key><string>app-store-connect</string>
+            <key>destination</key><string>upload</string>
+            <key>teamID</key><string>$TEAM_ID</string>
+            <key>signingStyle</key><string>automatic</string>
+            <key>uploadSymbols</key><true/>
+            <key>manageAppVersionAndBuildNumber</key><false/>
+          </dict></plist>
+          EOF
+
+      - name: Derle ve imzala (archive)
+        run: |
+          xcodebuild -version
+          xcodebuild archive \
+            -project mobile/ios/App/App.xcodeproj -scheme App -configuration Release \
+            -destination "generic/platform=iOS" -archivePath "$RUNNER_TEMP/App.xcarchive" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$RUNNER_TEMP/keys/AuthKey.p8" \
+            -authenticationKeyID "$ASC_KEY_ID" -authenticationKeyIssuerID "$ASC_ISSUER_ID" \
+            DEVELOPMENT_TEAM="$TEAM_ID" CODE_SIGN_STYLE=Automatic \
+            MARKETING_VERSION="${{ inputs.version }}" CURRENT_PROJECT_VERSION="${{ github.run_number }}"
+
+      - name: App Store Connect'e yükle (TestFlight)
+        run: |
+          xcodebuild -exportArchive \
+            -archivePath "$RUNNER_TEMP/App.xcarchive" \
+            -exportOptionsPlist "$RUNNER_TEMP/ExportOptions.plist" \
+            -exportPath "$RUNNER_TEMP/export" \
+            -allowProvisioningUpdates \
+            -authenticationKeyPath "$RUNNER_TEMP/keys/AuthKey.p8" \
+            -authenticationKeyID "$ASC_KEY_ID" -authenticationKeyIssuerID "$ASC_ISSUER_ID"
+          echo "Sürüm ${{ inputs.version }} (derleme ${{ github.run_number }}) yüklendi. App Store Connect → TestFlight'ta 5-30 dakika içinde görünür." >> "$GITHUB_STEP_SUMMARY"
+
+      - name: Anahtarı sil
+        if: always()
+        run: rm -rf "$RUNNER_TEMP/keys"

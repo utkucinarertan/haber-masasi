@@ -1,0 +1,49 @@
+name: iOS derleme denetimi
+
+# Apple hesabı ve imza olmadan: iOS projesinin macOS'ta derlendiğini (simülatör için) denetler.
+# Mobil proje ya da uygulama arayüzü değişince kendiliğinden çalışır; elle de başlatılabilir.
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "mobile/**"
+      - "docs/index.html"
+      - "docs/i18n.js"
+      - ".github/workflows/ios-*.yml"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ios-check
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: macos-15
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: mobile/package-lock.json
+
+      - name: Web arayüzünü uygulamaya kopyala
+        working-directory: mobile
+        run: |
+          npm ci
+          npm run web
+          npx cap sync ios
+
+      - name: Simülatör için derle (imzasız)
+        run: |
+          xcodebuild -version
+          xcodebuild build \
+            -project mobile/ios/App/App.xcodeproj -scheme App -configuration Release \
+            -sdk iphonesimulator -destination "generic/platform=iOS Simulator" \
+            CODE_SIGNING_ALLOWED=NO
+          echo "iOS projesi derlendi (imzasız, simülatör)." >> "$GITHUB_STEP_SUMMARY"
