@@ -1,6 +1,6 @@
 {
  "since": "2026-11-28T05:15+01:00",
- "updatedAt": "2026-11-28T18:58+01:00",
+ "updatedAt": "2026-11-28T19:58+01:00",
  "countries": {
   "world": [
    {
@@ -14,6 +14,16 @@
     }
    },
    {
+    "time": "2026-11-28T18:29:42+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/28/los-angeles-earthquake",
+    "importance": 2,
+    "text": {
+     "tr": "Amerika Birleşik Devletleri'nin Kaliforniya eyaletine bağlı Los Angeles bölgesi açıklarında 5 büyüklüğünde deprem meydana geldi.",
+     "de": "Im Großraum Los Angeles im US-Bundesstaat Kalifornien hat sich ein Erdbeben der Stärke 5 ereignet."
+    }
+   },
+   {
     "time": "2026-11-28T16:53:20+00:00",
     "source": "BBC News World",
     "url": "https://www.bbc.co.uk/news/articles/cm752q30q5leo",
@@ -21,16 +31,6 @@
     "text": {
      "tr": "Myanmar'da askeri hükümetin düzenlediği hava saldırılarında bir düğün salonu ve okul hedef alındı, onlarca sivil yaşamını yitirdi.",
      "de": "Luftangriffe der Militärregierungsbehörden in Myanmar auf eine Hochzeitsfeier und eine Schule forderten Dutzende Ziviltote."
-    }
-   },
-   {
-    "time": "2026-11-28T16:52:58+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/middle-east/20261128-netanyahu-says-he-is-willing-to-let-eisenkot-be-israel-s-first-pm-under-rotation-proposal",
-    "importance": 2,
-    "text": {
-     "tr": "İsrail Başbakanı Binyamin Netanyahu, muhalefet lideri Gadi Eisenkot ile başbakanlık görevini dönüşümlü yürütmeyi teklif ettiğini açıkladı.",
-     "de": "Der israelische Premierminister Benjamin Netanjahu hat angeboten, das Amt bei einer Einigung im rotierenden Wechsel mit Oppositionsführer Gadi Eisenkot zu teilen."
     }
    },
    {
@@ -55,6 +55,16 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-28T19:03:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/regierungsbildung-in-israel-benjamin-netanyahu-will-sich-mit-gadi-eisenkot-als-ministerpraesident-abwechseln-a-7c2eef40-4759-479b-808a-2a66d3bb2eed#ref=rss",
+    "importance": 2,
+    "text": {
+     "tr": "İsrail Başbakanı Binyamin Netanyahu, koalisyon müzakereleri kapsamında başbakanlık görevini Gadi Eisenkot ile dönüşümlü yürütmeyi teklif etti.",
+     "de": "Israels Ministerpräsident Benjamin Netanyahu hat angeboten, das Amt des Regierungschefs in einer Koalition zunächst mit Gadi Eisenkot zu teilen."
+    }
+   },
    {
     "time": "2026-11-28T18:55:08+01:00",
     "source": "tagesschau",
@@ -94,20 +104,20 @@
      "tr": "Sahra Wagenknecht İttifakı (BSW) kongresinde AfD ile ilişkilerin sınırlandırılmasına yönelik önerge reddedildi ve bazı üyeler partiden ayrıldı.",
      "de": "Auf dem BSW-Parteitag in Dresden wurde ein Antrag zur stärkeren Abgrenzung von der AfD abgelehnt, woraufhin mehrere Mitglieder austraten."
     }
-   },
-   {
-    "time": "2026-11-28T16:30:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/karriere/mercedes-benz-ab-dezember-hohe-abfindungen-fuer-ingenieure-geplant-a-a00dbd03-bef6-4a91-a96b-93b20c4c63ee#ref=rss",
-    "importance": 1,
-    "text": {
-     "tr": "Mercedes-Benz, idari ve geliştirme birimlerindeki personeli azaltmak amacıyla aralık ayından itibaren yüksek tazminat ödemeleri planlıyor.",
-     "de": "Mercedes-Benz plant ab Dezember hohe Abfindungen für Ingenieure, um Stellen in Verwaltung und Entwicklung abzubauen."
-    }
    }
   ],
   "jp": [],
   "tr": [
+   {
+    "time": "2026-11-28T21:28:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011652/bolivya-da-binlerce-isci-yuksek-yasam-maliyetini-protesto-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Bolivya'da binlerce işçi yüksek yaşam maliyetini protesto ederken, ulaşım sendikaları motorin zammı nedeniyle pazartesi günü ulusal grev kararı aldı.",
+     "de": "In Bolivien protestierten हजारe Arbeiter gegen hohe Lebenshaltungskosten, während Verkehrsgewerkschaften für Montag einen Landesstreik ankündigten."
+    }
+   },
    {
     "time": "2026-11-28T20:26:00+03:00",
     "source": "Cumhuriyet Son Dakika",
@@ -147,21 +157,21 @@
      "tr": "Binance Kurucu Ortağı Changpeng Zhao, Bangkok'taki etkinlikte yapay zeka destekli saldırılara karşı küresel güvenlik ittifakı çağrısı yaptı.",
      "de": "Binance-Mitgründer Changpeng Zhao rief bei einer Konferenz in Bangkok zu einer globalen Allianz gegen KI-gestützte Angriffe auf."
     }
-   },
-   {
-    "time": "2026-11-28T17:20:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/haluk-levent-ve-mika-can-raun-un-instagram-hesaplari-turkiye-den-gorunmez-kilindi-2560230",
-    "importance": 2,
-    "text": {
-     "tr": "Haluk Levent ve Mika Can Raun'un milyonlarca takipçili Instagram hesapları, yasal talep doğrultusunda Türkiye'den erişime kapatıldı.",
-     "de": "Die Instagram-Konten von Haluk Levent und Mika Can Raun wurden auf rechtliche Anweisung in der Türkei gesperrt."
-    }
    }
   ]
  },
  "archive": {
   "de": [
+   {
+    "time": "2026-11-28T19:03:00+01:00",
+    "source": "Der Spiegel",
+    "url": "https://www.spiegel.de/ausland/regierungsbildung-in-israel-benjamin-netanyahu-will-sich-mit-gadi-eisenkot-als-ministerpraesident-abwechseln-a-7c2eef40-4759-479b-808a-2a66d3bb2eed#ref=rss",
+    "importance": 2,
+    "text": {
+     "tr": "İsrail Başbakanı Binyamin Netanyahu, koalisyon müzakereleri kapsamında başbakanlık görevini Gadi Eisenkot ile dönüşümlü yürütmeyi teklif etti.",
+     "de": "Israels Ministerpräsident Benjamin Netanyahu hat angeboten, das Amt des Regierungschefs in einer Koalition zunächst mit Gadi Eisenkot zu teilen."
+    }
+   },
    {
     "time": "2026-11-28T18:55:08+01:00",
     "source": "tagesschau",
@@ -435,6 +445,16 @@
   ],
   "tr": [
    {
+    "time": "2026-11-28T21:28:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011652/bolivya-da-binlerce-isci-yuksek-yasam-maliyetini-protesto-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Bolivya'da binlerce işçi yüksek yaşam maliyetini protesto ederken, ulaşım sendikaları motorin zammı nedeniyle pazartesi günü ulusal grev kararı aldı.",
+     "de": "In Bolivien protestierten हजारe Arbeiter gegen hohe Lebenshaltungskosten, während Verkehrsgewerkschaften für Montag einen Landesstreik ankündigten."
+    }
+   },
+   {
     "time": "2026-11-28T20:26:00+03:00",
     "source": "Cumhuriyet Son Dakika",
     "url": "https://www.cumhuriyet.com.tr/turkiye/ankara-da-yasa-disi-bahis-operasyonu-20-kisi-tutuklandi-2560265",
@@ -684,6 +704,26 @@
     "text": {
      "tr": "Afganistan'ın doğusundaki bir maden şirketinde meydana gelen patlamada en az 7 çocuk hayatını kaybetti, 90'dan fazla kişi yaralandı.",
      "de": "Bei einer Explosion an einer Minengesellschaft im Osten Afghanistans wurden mindestens sieben Kinder getötet und über 90 Menschen verletzt."
+    }
+   },
+   {
+    "time": "2026-11-28T18:29:42+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/us-news/2026/nov/28/los-angeles-earthquake",
+    "importance": 2,
+    "text": {
+     "tr": "Amerika Birleşik Devletleri'nin Kaliforniya eyaletine bağlı Los Angeles bölgesi açıklarında 5 büyüklüğünde deprem meydana geldi.",
+     "de": "Im Großraum Los Angeles im US-Bundesstaat Kalifornien hat sich ein Erdbeben der Stärke 5 ereignet."
+    }
+   },
+   {
+    "time": "2026-11-28T18:18:41+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/ukraine-restricts-reporting-on-impact-of-russian-strikes",
+    "importance": 2,
+    "text": {
+     "tr": "Ukrayna, Rusya'nın kış yaklaşırken artırdığı saldırılarının kritik altyapı üzerindeki etkisinin medyada haberleştirilmesini kısıtladı.",
+     "de": "Die Ukraine hat Medien die Veröffentlichung von Details über die Auswirkungen russischer Angriffe auf die kritische Infrastruktur untersagt."
     }
    },
    {
@@ -1107,6 +1147,7 @@
   "https://www.cumhuriyet.com.tr/gurme/tatli-severlerin-kralicesi-trilece-tarifi-2560178",
   "https://www.cumhuriyet.com.tr/gurme/turk-mutfaginin-dunyaya-armagani-kunefe-tarifi-2560221",
   "https://www.cumhuriyet.com.tr/gurme/turk-mutfak-kulturunun-klasik-efsanesi-revani-tarifi-2560164",
+  "https://www.cumhuriyet.com.tr/gurme/uzeri-nar-gibi-kizaran-kasik-kasik-lezzet-ev-yapimi-firin-sutlac-tarifi-2560275",
   "https://www.cumhuriyet.com.tr/otomotiv/dunyanin-en-degerli-50-otomobil-ureticisi-aciklandi-listede-16-cinli-dev-ve-2-turk-sirketi-var-2560183",
   "https://www.cumhuriyet.com.tr/siyaset/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi-2560142",
   "https://www.cumhuriyet.com.tr/siyaset/akp-ye-gececek-iddialari-gundemdeydi-mesut-kosedagi-ndan-dikkat-ceken-hamle-2560222",
@@ -1135,11 +1176,13 @@
   "https://www.cumhuriyet.com.tr/spor/fenerbahce-den-orta-saha-hamlesi-wiktor-nowak-2560228",
   "https://www.cumhuriyet.com.tr/spor/formula-1-katar-yarisi-ne-zaman-katar-gp-yarisi-saat-kacta-ve-hangi-kanalda-2560255",
   "https://www.cumhuriyet.com.tr/spor/galatasarayli-yunus-akgun-un-mutlu-gunu-2560095",
+  "https://www.cumhuriyet.com.tr/spor/gaziantep-fk-ust-uste-8-maglubiyetini-aldi-2560271",
   "https://www.cumhuriyet.com.tr/spor/heat-antetokounmpo-nun-kariyer-rekoruyla-knicks-i-yikti-2560137",
   "https://www.cumhuriyet.com.tr/spor/kazanan-cikmadi-bayern-munih-e-hamburg-celmesi-2560258",
   "https://www.cumhuriyet.com.tr/spor/kritik-mac-oncesi-fenerbahce-de-iki-isim-icin-sari-alarm-2560170",
   "https://www.cumhuriyet.com.tr/spor/kulupler-birligi-nden-yayin-ihalesi-icin-aciklama-hedefimiz-rekora-imza-atacak-bedelle-sonuclanmasidir-2560236",
   "https://www.cumhuriyet.com.tr/spor/paderborn-dan-schalke-ye-farkli-tarife-8-1-2560261",
+  "https://www.cumhuriyet.com.tr/spor/potadaki-derbide-kazanan-galatasaray-cagdas-faktoring-2560272",
   "https://www.cumhuriyet.com.tr/spor/samsunspor-genclerbirligi-ni-3-golle-maglup-etti-2560246",
   "https://www.cumhuriyet.com.tr/turkiye/10-kiz-cocugu-da-icindeydi-bolu-da-minibusun-camura-saplandigi-yol-goruntulendi-mahsur-kalmadan-once-bu-yollardan-gecmis-2560243",
   "https://www.cumhuriyet.com.tr/turkiye/10-kiz-cocugu-mahsur-kalmisti-bolu-da-minibusun-camura-saplandigi-yol-goruntulendi-mahsur-kalmadan-once-bu-yollardan-gecmis-2560243",
@@ -1158,6 +1201,7 @@
   "https://www.cumhuriyet.com.tr/turkiye/beraat-azaldi-mahkumiyet-artti-carpici-mlsa-raporu-davalarin-yuzde-63-unde-gazeteciler-yargilandi-2560165",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-da-10-kiz-cocugunun-mahsur-kaldigi-yolu-ormanci-anlatti-asagisi-cok-tehlikeli-2560096",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-da-10-kiz-cocuguyla-mahsur-kalan-minibusun-soforu-o-anlari-anlatti-kiz-cocuklarini-kendi-kizimdan-ayirmadim-2560093",
+  "https://www.cumhuriyet.com.tr/turkiye/bolu-da-mahsur-kalan-ogrencilerin-araci-balciktan-cikarildi-aracta-kalan-cocuklarin-camurlu-el-izleri-dikkat-cekti-2560273",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-daki-kayip-ogrenciler-olayiyla-ilgili-sosyal-medya-paylasimlarina-sorusturma-2560259",
   "https://www.cumhuriyet.com.tr/turkiye/bornova-da-uyusturucu-serasina-baskin-18-kok-hint-keneviri-bitkisi-ele-gecirildi-2560141",
   "https://www.cumhuriyet.com.tr/turkiye/bursa-da-tekstil-patronundan-iscilere-hakaret-ve-tehdit-bakanlik-inceleme-baslatti-2560252",
@@ -1218,6 +1262,7 @@
   "https://www.cumhuriyet.com.tr/yasam/studyoyu-terk-etti-masterchef-te-somer-sivrioglu-ile-tolga-arasinda-gergin-anlar-2560130",
   "https://www.cumhuriyet.com.tr/yasam/surekli-gergin-misiniz-strese-alistiginizi-gosteren-7-davranis-2560266",
   "https://www.cumhuriyet.com.tr/yasam/tugce-alaca-kimdir-yunus-akgun-un-esi-tugce-alaca-kac-yasinda-nereli-2560264",
+  "https://www.cumhuriyet.com.tr/yasam/yarin-hava-nasil-olacak-29-kasim-pazar-istanbul-ankara-izmir-hava-durumu-2560278",
   "https://www.cumhuriyet.com.tr/yasam/yillar-once-birakilan-ilaclar-bile-bagirsak-florasini-degistirebiliyor-bazi-kaygi-ilaclarinin-etkisi-antibiyotiklerle-yarisiyor-2560213",
   "https://www.dw.com/de/14-tote-migranten-bei-bootsunglück-vor-den-kanaren/a-80084267",
   "https://www.dw.com/de/gericht-stoppt-britisches-öl-projekt-vor-falklandinseln-vorerst-nicht/a-80085241",
@@ -1243,6 +1288,7 @@
   "https://www.dw.com/tr/özgür-özel-4-aralık-ta-çok-önemli-bir-açıklama-yapacak/a-80084198",
   "https://www.dw.com/tr/özgür-özel-için-fezleke-hazırlığı-dosya-ankara-ya-iletildi/a-80084881",
   "https://www.euronews.com/2026/11/28/australias-conservatives-hope-for-victory-in-trendsetting-state",
+  "https://www.euronews.com/2026/11/28/netanyahu-willing-to-let-eisenkot-serve-first-as-pm-in-unity-government",
   "https://www.euronews.com/2026/11/28/new-york-city-macys-100th-thanksgiving-day-parade-takes-place-after-historic-weather-delay",
   "https://www.euronews.com/2026/11/28/openai-and-apple-accuse-each-other-of-committing-trade-secret-theft-openai-countersues",
   "https://www.euronews.com/2026/11/28/russia-charges-air-force-deputy-chief-with-taking-large-bribe",
@@ -1344,6 +1390,12 @@
   "https://www.evrensel.net/haber/6011644/bakanlik-acikladi-iscileri-tehdit-eden-kyrtabu-tekstil-hakkinda-inceleme-baslatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011645/baraj-golunde-kaybolan-gencin-cansiz-bedenine-ulasildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011646/her-gun-olum-riskiyle-karsi-karsiyalar-dunyanin-en-tehlikeli-5-meslegi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011647/didf-goc-konferansi-basariyla-gerceklesti-birlikte-yasami-ve-ortak-mucadeleyi-guclendirebiliriz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011648/tarihte-iscilerin-calisma-kosullarini-degistiren-5-buyuk-grev?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011649/spot-piyasada-elektrik-fiyati-yarin-icin-3-bin-688-liraya-kadar-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011650/spot-dogal-gaz-piyasasinda-islem-hacmi-iki-katindan-fazla-artti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011651/samsun-emek-ve-demokrasi-gucleri-murat-cepni-serbest-birakilsin?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011652/bolivya-da-binlerce-isci-yuksek-yasam-maliyetini-protesto-etti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/eben-sadie-was-seine-weine-so-besonders-macht-accg-201695232.html",
   "https://www.faz.net/aktuell/besser-leben/essen/wenn-finnlands-botschaft-zur-weihnachtsfeier-laedt-accg-201712618.html",
   "https://www.faz.net/aktuell/besser-leben/stil/das-sind-die-wichtigsten-beautyneuheiten-des-jahres-201694357.html",
@@ -1355,6 +1407,7 @@
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/kino/wieso-goldenes-gift-als-bester-noir-krimi-gilt-accg-201716904.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesregierung-kaempft-fuer-urheberrecht-im-ki-zeitalter-201724087.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/nadja-scholz-soll-intendantin-des-deutschlandradios-werden-accg-201725892.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/vrm-verlag-erst-nius-jetzt-junge-welt-201726219.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/videospiel/politik-simulation-you-run-europe-bei-ard-gaming-201722775.html",
   "https://www.faz.net/aktuell/finanzen/altersvorsorgedepot-warum-die-boerse-jetzt-nicht-schlechtzureden-ist-201722813.html",
   "https://www.faz.net/aktuell/finanzen/boersenausverkauf-droht-jetzt-ein-echter-crash-accg-201720163.html",
@@ -1363,10 +1416,13 @@
   "https://www.faz.net/aktuell/finanzen/wie-geduldiges-vermoegen-gegen-hastige-maerkte-besteht-accg-201253057.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/kenneth-l-verkaufte-toedliche-giftdosen-25-jahre-haft-gefordert-accg-201725645.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/rebecca-taylor-schwangere-gefangene-flieht-mit-justizauto-in-new-mexico-accg-201725643.html",
+  "https://www.faz.net/aktuell/gesellschaft/mein-schiff-3-startet-nach-kollision-wieder-in-bremerhaven-201726469.html",
+  "https://www.faz.net/aktuell/gesellschaft/menschen/heino-zu-erika-habe-in-meiner-karriere-noch-kein-nazi-lied-aufgenommen-201726468.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/wann-achtsamkeit-und-yoga-uns-schaden-man-kann-hohe-mietpreise-nicht-wegatmen-accg-201654946.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/wie-fuehlen-sich-vaeter-beim-ikkimel-konzert-accg-201718932.html",
   "https://www.faz.net/aktuell/gesellschaft/smalltalk/lotto-millionaer-chico-kuersat-yildirim-gewinnt-erneut-accg-201725789.html",
   "https://www.faz.net/aktuell/karriere-hochschule/mein-urteil/arbeitsrecht-und-mitbestimmung-betriebsraete-koennen-auch-spaet-rechte-haben-accg-201711722.html",
+  "https://www.faz.net/aktuell/politik/ausland/ausschreitungen-in-tirana-am-nationalfeiertag-albaniens-201726277.html",
   "https://www.faz.net/aktuell/politik/ausland/lokalwahlen-in-taiwan-regierungspartei-gewinnt-hinzu-verliert-aber-in-taipeh-accg-201725935.html",
   "https://www.faz.net/aktuell/politik/ausland/melenchon-in-berlin-deutschenhasser-will-er-nicht-sein-accg-201725733.html",
   "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-die-hohe-bindungskraft-der-afd-accg-201716482.html",
@@ -1446,6 +1502,7 @@
   "https://www.france24.com/en/taipei-s-kuomintang-mayor-re-elected-in-tight-election-race",
   "https://www.france24.com/en/taiwan-awaits-local-election-results-as-china-watches",
   "https://www.france24.com/en/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders",
+  "https://www.france24.com/en/ukraine-restricts-reporting-on-impact-of-russian-strikes",
   "https://www.france24.com/en/what-are-the-main-issues-driving-spain-s-national-election",
   "https://www.france24.com/en/world-health-organization-sounds-alarm-as-measles-fight-stalls",
   "https://www.japantimes.co.jp/culture/2026/11/28/tv-streaming/vivant-season-2-controversies/",
@@ -1454,8 +1511,11 @@
   "https://www.japantimes.co.jp/sports/2026/11/28/more-sports/bronson-reed-wwe-wrestling/",
   "https://www.manager-magazin.de/unternehmen/industrie/mittelstand-wie-familienunternehmen-prym-zur-industrieholding-geformt-wird-a-5234f15b-9ab8-4a23-93b8-7084dd38f34f#ref=rss",
   "https://www.spiegel.de/ausland/deutsche-in-oesterreich-was-auswanderer-wissen-muessen-a-f1b58a14-0eeb-4ee2-a82b-46a18cd18be5#ref=rss",
+  "https://www.spiegel.de/ausland/jean-luc-melenchon-er-gilt-als-deutschlandhasser-nun-tritt-frankreichs-linker-praesidentschaftsanwaerter-in-berlin-auf-und-laesst-sich-feiern-a-b7b91ac4-567d-4169-99c1-6fbd69c68be6#ref=rss",
   "https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss",
   "https://www.spiegel.de/ausland/nvidia-affaere-donald-trump-der-sex-und-die-frage-nach-hochverrat-meinung-a-80b99851-30e6-4141-8914-f3b1bb1e3576#ref=rss",
+  "https://www.spiegel.de/ausland/regierungsbildung-in-israel-benjamin-netanyahu-will-sich-mit-gadi-eisenkot-als-ministerpraesident-abwechseln-a-7c2eef40-4759-479b-808a-2a66d3bb2eed#ref=rss",
+  "https://www.spiegel.de/ausland/usa-das-bizarre-interview-von-springer-chef-doepfner-mit-jared-kushner-a-a2533202-e91e-4b4e-be50-0c6443bd2fe8#ref=rss",
   "https://www.spiegel.de/ausland/usa-nach-den-midterms-kommt-jetzt-das-aus-fuer-neue-mega-data-center-a-e42518f5-8ec9-4177-9ac7-a6f2d42e366e#ref=rss",
   "https://www.spiegel.de/gesundheit/adhs-ist-fuer-mich-keine-krankheit-aber-es-kann-verdammt-krank-machen-podcast-a-a2070bab-b6c5-4021-8365-19ddb25a3eac#ref=rss",
   "https://www.spiegel.de/gesundheit/diagnose/durchfall-warum-die-raetselhafte-patientin-nichts-bei-sich-behalten-kann-a-5bd4a6a3-9ef5-4e12-a1a7-d293bf0914eb#ref=rss",
@@ -1524,6 +1584,7 @@
   "https://www.theguardian.com/us-news/2026/nov/28/epstein-lawyer-accountant-settlement",
   "https://www.theguardian.com/us-news/2026/nov/28/iowa-explosion-lead-levels-water-epa",
   "https://www.theguardian.com/us-news/2026/nov/28/kratom-synthetic-drug-overdoses-addiction-regulators",
+  "https://www.theguardian.com/us-news/2026/nov/28/los-angeles-earthquake",
   "https://www.theguardian.com/us-news/2026/nov/28/macys-thanksgiving-parade-new-york",
   "https://www.theguardian.com/us-news/2026/nov/28/oligarchs-trump-allies-congress-scrutiny",
   "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
@@ -1536,6 +1597,7 @@
   "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
   "https://www.welt.de/debatte/plus6b0860dc78855274ac4abc29/oeffentlich-rechtlicher-rundfunk-meinungskontrolle-ist-fuer-die-medienanstalten-ein-dynamisches-wachstumsfeld.html",
   "https://www.welt.de/debatte/plus6b0860dc78855274ac4abc29/oeffentlich-rechtlicher-rundfunk-unfreiwilliges-eingestaendnis-einer-existenziellen-systemkrise.html",
+  "https://www.welt.de/debatte/plus6b098f9c741a4ef94784a079/datenleaks-alles-was-sie-sagen-kann-und-wird-gegen-sie-verwendet-werden.html",
   "https://www.welt.de/geschichte/article6b0700ae10bfe646193e94f6/antike-artillerie-der-schmerz-laesst-bereits-die-todeswunde-spueren-ehe-man-das-geschoss-erkennt.html",
   "https://www.welt.de/kultur/musik/article6b0a80107df78695bac966db/historiker-und-buchautor-huldigung-die-er-nicht-verdient-hat-ilko-sascha-kowalczuk-erklaert-zerwuerfnis-mit-wolf-biermann.html",
   "https://www.welt.de/kultur/musik/article6b0a80107df78695bac966db/streit-ueber-tagebuecher-gedenken-huldigung-die-er-nicht-verdient-hat-ilko-sascha-kowalczuk-erklaert-zerwuerfnis-mit-wolf-biermann.html",
@@ -1549,6 +1611,8 @@
   "https://www.welt.de/politik/article6b0b07f0d6d8a1d6fd2ebc72/bsw-und-afd-gruene-zaehlen-wagenknecht-partei-nicht-mehr-zum-demokratischen-spektrum-projekt-mausetot-kommentiert-die-afd.html",
   "https://www.welt.de/politik/ausland/article6b09631f741a4ef947849a7b/neue-studie-anschlaege-entfuehrungen-morde-deutschland-im-visier-des-iran.html",
   "https://www.welt.de/politik/ausland/article6b0ae2ed741a4ef94784b68e/falklandinseln-seegerichtshof-weist-argentiniens-antrag-gegen-oelfoerderung-ab.html",
+  "https://www.welt.de/politik/ausland/article6b0b13c1741a4ef94784ba89/verdacht-gegen-iran-us-militaer-soll-drohnen-ueber-britischem-luftwaffenstuetzpunkt-abgewehrt-haben.html",
+  "https://www.welt.de/politik/ausland/article6b0b1aafd6d8a1d6fd2ebe1d/ukraine-krieg-daher-haben-die-russen-alle-hemmungen-verloren-militaerexperte-reisner-warnt-vor-hartem-winter.html",
   "https://www.welt.de/politik/deutschland/article6b09d216741a4ef94784ab6b/bundesparteitag-wir-entscheiden-immer-in-der-sache-bsw-vorsitzende-schliesst-zustimmung-zu-afd-haushalt-nicht-aus.html",
   "https://www.welt.de/politik/deutschland/article6b0a5fe37df78695bac965a3/ba-chefin-fachkraefte-mangel-nahles-will-ausgewanderte-deutsche-zurueckholen.html",
   "https://www.welt.de/politik/deutschland/article6b0a8b797df78695bac96780/bundestag-hauspost-ich-hab-ne-zwiebel-auf-dem-kopf-ferat-kocak-bekommt-muslimfeindliche-karikatur.html",
