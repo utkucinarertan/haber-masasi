@@ -1,7 +1,111 @@
 {
  "since": "2026-11-28T05:15+01:00",
- "updatedAt": "2026-11-28T11:23+01:00",
+ "updatedAt": "2026-11-28T12:23+01:00",
  "countries": {
+  "world": [
+   {
+    "time": "2026-11-28T14:19:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/yasam/james-webb-den-13-milyar-yillik-tarihi-kesif-evrenin-ilk-yildizlarinin-izini-tasiyan-ilkel-galaksi-bulundu-2560175",
+    "importance": 1,
+    "text": {
+     "tr": "James Webb Uzay Teleskobu, Büyük Patlama'dan 800 milyon yıl sonrasına ait kimyasal açıdan en saf ilkel galaksiyi keşfetti.",
+     "de": "Das James-Webb-Weltraumteleskop hat eine chemisch extrem reine Urgalaxie entdeckt, die 800 Millionen Jahre nach dem Urknall existierte."
+    }
+   },
+   {
+    "time": "2026-11-28T11:08:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011569/el-hierro-adasi-aciklarinda-gocmen-teknesi-alabora-olmustu-hayatini-kaybeden-gocmenlerin-sayisi-14-e-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 1,
+    "text": {
+     "tr": "Kanarya Adaları'na bağlı El Hierro açıklarında bir göçmen teknesinin alabora olması sonucu yaşamını yitirenlerin sayısı 14'e çıktı.",
+     "de": "Nach dem Kentern eines Migrantenboots vor der Kanareninsel El Hierro ist die Zahl der bestätigten Toten auf 14 gestiegen."
+    }
+   },
+   {
+    "time": "2026-11-28T10:59:52+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
+    "importance": 2,
+    "text": {
+     "tr": "Fransa genelinde binlerce kişi kadına yönelik şiddeti kınamak ve farkındalık yaratmak amacıyla kitlesel protestolara katıldı.",
+     "de": "In ganz Frankreich sind Tausende Menschen auf die Straße gegangen, um gegen Gewalt an Frauen zu protestieren."
+    }
+   },
+   {
+    "time": "2026-11-28T10:52:00+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+    "importance": 2,
+    "text": {
+     "tr": "İngiltere Çalışma ve Emeklilik Bakanlığı, siber saldırı şüphesi taşıyan ciddi bir olayın ardından çevrim içi hizmetlerini kapattı.",
+     "de": "Das britische Arbeits- und Rentenministerium hat seine Online-Dienste nach einem mutmaßlichen gravierenden Cyberangriff vorsorglich abgeschaltet."
+    }
+   },
+   {
+    "time": "2026-11-28T10:45:23+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
+    "importance": 1,
+    "text": {
+     "tr": "İsviçre'de pazar günü savunma sanayisi ve silah ihracatı kurallarının esnetilmesine yönelik halk oylaması yapılacak.",
+     "de": "In der Schweiz stimmt die Bevölkerung am Sonntag über eine Lockerung der Bestimmungen für Rüstungsexporte ab."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-28T13:17:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011588/yeni-parti-lideri-ozgur-ozel-ve-4-vekile-iliskin-dosya-fezleke-icin-ankara-da?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Yeni Parti lideri Özgür Özel ve dört milletvekili hakkındaki soruşturma dosyası dokunulmazlık fezlekesi için Ankara Cumhuriyet Başsavcılığına gönderildi.",
+     "de": "Die Ermittlungsakten zur Aufhebung der Immunität von Parteichef Özgür Özel und vier Abgeordneten wurden an die Staatsanwaltschaft Ankara übermittelt."
+    }
+   },
+   {
+    "time": "2026-11-28T12:56:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011581/mlsa-raporu-ifade-ozgurlugu-davalarinda-mahkumiyet-orani-yuzde-37-ye-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 1,
+    "text": {
+     "tr": "MLSA raporuna göre Türkiye'de ifade ve basın özgürlüğü davalarındaki mahkumiyet oranı yüzde 37'ye yükseldi.",
+     "de": "Laut einem MLSA-Bericht stieg die Verurteilungsquote in Prozessen zur Meinungs- und Pressefreiheit in der Türkei auf 37 Prozent."
+    }
+   },
+   {
+    "time": "2026-11-28T12:34:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/turkiye/ailem-guvende-adi-altinda-yeni-operasyon-dalgasi-30-ilde-70-gozalti-2560155",
+    "importance": 2,
+    "text": {
+     "tr": "Ankara merkezli 30 ilde yürütülen 'Ailem Güvende' operasyonları kapsamında 70 kişi gözaltına alındı.",
+     "de": "Im Rahmen der Ankara-geführten Operation „Familie in Sicherheit“ wurden in 30 Provinzen der Türkei 70 Personen festgenommen."
+    }
+   },
+   {
+    "time": "2026-11-28T12:30:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011578/imf-den-yuksek-emekli-ayliklarini-vergilendirin-onerisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 1,
+    "text": {
+     "tr": "IMF, Türkiye ile yürüttüğü istişarelerin ardından yüksek emekli maaşlarının vergilendirilmesini önerdi.",
+     "de": "Der IWF empfahl der Türkei nach Konsultationen zur Wirtschaftslage, höhere Renten künftig zu besteuern."
+    }
+   },
+   {
+    "time": "2026-11-28T12:13:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-manipulasyonuna-spk-kiskaci-tera-portfoy-e-2-yil-yasak-167-isim-yargiya-sevk-edildi-2560147",
+    "importance": 2,
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, Tera Portföy ve ilgili şirketlere 2 yıl işlem yasağı getirdi ve 167 kişiyi yargıya sevk etti.",
+     "de": "Die Kapitalmarktbehörde SPK hat Tera Portföy und verbundenen Unternehmen ein zweijähriges Handelsverbot auferlegt und 167 Personen an die Justiz übergeben."
+    }
+   }
+  ],
   "de": [
    {
     "time": "2026-11-28T10:34:00+01:00",
@@ -51,110 +155,6 @@
     "text": {
      "tr": "Çevre Bakanı Schneider, yaz aylarındaki düşük su seviyelerinin ardından Rhein nehrinin yeniden düzenlenmesini ve su altyapısına büyük yatırımlar yapılmasını istedi.",
      "de": "Umweltminister Schneider fordert nach niedrigen Pegelständen im Sommer massive Investitionen in die Wasserinfrastruktur und einen Umbau des Rheins."
-    }
-   }
-  ],
-  "tr": [
-   {
-    "time": "2026-11-28T12:56:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011581/mlsa-raporu-ifade-ozgurlugu-davalarinda-mahkumiyet-orani-yuzde-37-ye-yukseldi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 1,
-    "text": {
-     "tr": "MLSA raporuna göre Türkiye'de ifade ve basın özgürlüğü davalarındaki mahkumiyet oranı yüzde 37'ye yükseldi.",
-     "de": "Laut einem MLSA-Bericht stieg die Verurteilungsquote in Prozessen zur Meinungs- und Pressefreiheit in der Türkei auf 37 Prozent."
-    }
-   },
-   {
-    "time": "2026-11-28T12:34:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/turkiye/ailem-guvende-adi-altinda-yeni-operasyon-dalgasi-30-ilde-70-gozalti-2560155",
-    "importance": 2,
-    "text": {
-     "tr": "Ankara merkezli 30 ilde yürütülen 'Ailem Güvende' operasyonları kapsamında 70 kişi gözaltına alındı.",
-     "de": "Im Rahmen der Ankara-geführten Operation „Familie in Sicherheit“ wurden in 30 Provinzen der Türkei 70 Personen festgenommen."
-    }
-   },
-   {
-    "time": "2026-11-28T12:30:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011578/imf-den-yuksek-emekli-ayliklarini-vergilendirin-onerisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 1,
-    "text": {
-     "tr": "IMF, Türkiye ile yürüttüğü istişarelerin ardından yüksek emekli maaşlarının vergilendirilmesini önerdi.",
-     "de": "Der IWF empfahl der Türkei nach Konsultationen zur Wirtschaftslage, höhere Renten künftig zu besteuern."
-    }
-   },
-   {
-    "time": "2026-11-28T12:13:00+03:00",
-    "source": "Cumhuriyet Son Dakika",
-    "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-manipulasyonuna-spk-kiskaci-tera-portfoy-e-2-yil-yasak-167-isim-yargiya-sevk-edildi-2560147",
-    "importance": 2,
-    "text": {
-     "tr": "Sermaye Piyasası Kurulu, Tera Portföy ve ilgili şirketlere 2 yıl işlem yasağı getirdi ve 167 kişiyi yargıya sevk etti.",
-     "de": "Die Kapitalmarktbehörde SPK hat Tera Portföy und verbundenen Unternehmen ein zweijähriges Handelsverbot auferlegt und 167 Personen an die Justiz übergeben."
-    }
-   },
-   {
-    "time": "2026-11-28T12:07:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011572/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 2,
-    "text": {
-     "tr": "İçişleri Bakanlığı, 29 ilde IŞİD'e yönelik düzenlenen operasyonlarda 84 kişinin gözaltına alındığını açıkladı.",
-     "de": "Das Innenministerium gab bekannt, dass bei IWF-Operationen in 29 Provinzen 84 Personen festgenommen wurden."
-    }
-   }
-  ],
-  "world": [
-   {
-    "time": "2026-11-28T11:08:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011569/el-hierro-adasi-aciklarinda-gocmen-teknesi-alabora-olmustu-hayatini-kaybeden-gocmenlerin-sayisi-14-e-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 1,
-    "text": {
-     "tr": "Kanarya Adaları'na bağlı El Hierro açıklarında bir göçmen teknesinin alabora olması sonucu yaşamını yitirenlerin sayısı 14'e çıktı.",
-     "de": "Nach dem Kentern eines Migrantenboots vor der Kanareninsel El Hierro ist die Zahl der bestätigten Toten auf 14 gestiegen."
-    }
-   },
-   {
-    "time": "2026-11-28T10:45:23+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
-    "importance": 1,
-    "text": {
-     "tr": "İsviçre'de pazar günü savunma sanayisi ve silah ihracatı kurallarının esnetilmesine yönelik halk oylaması yapılacak.",
-     "de": "In der Schweiz stimmt die Bevölkerung am Sonntag über eine Lockerung der Bestimmungen für Rüstungsexporte ab."
-    }
-   },
-   {
-    "time": "2026-11-28T10:33:32+01:00",
-    "source": "Euronews Türkçe",
-    "url": "https://tr.euronews.com/2026/11/28/meksikadan-abdye-kartel-ihbar-hatti-tepkisi-egemenlige-mudahale",
-    "importance": 1,
-    "text": {
-     "tr": "Meksika Devlet Başkanı Sheinbaum, ABD'nin uyuşturucu kartellerine yönelik kurduğu ihbar hattını egemenliğe müdahale olarak niteledi.",
-     "de": "Mexikos Präsidentin Sheinbaum kritisierte eine US-Hinweishotline zu Drogenkartellen als Einmischung in die nationale Souveränität."
-    }
-   },
-   {
-    "time": "2026-11-28T10:14:37+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/ckp80jyz6dl8o",
-    "importance": 2,
-    "text": {
-     "tr": "Afganistan'ın Kunar vilayetinde bir okulun yakınında meydana gelen patlamada en az yedi öğrenci yaşamını yitirdi, yaklaşık 100 kişi yaralandı.",
-     "de": "Bei einer Explosion nahe einer Schule in der afghanischen Provinz Kunar wurden mindestens sieben Schüler getötet und knapp 100 verletzt."
-    }
-   },
-   {
-    "time": "2026-11-28T09:07:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss",
-    "importance": 1,
-    "text": {
-     "tr": "Fransız polisi, aşırı sağcı Ulusal Birlik partisine yönelik soruşturma kapsamında Marine Le Pen'in eski büro şefinin adreslerinde arama yaptı.",
-     "de": "Die französische Polizei hat im Rahmen von Ermittlungen gegen das Rassemblement National Räume von Marine Le Pens früherem Büroleiter durchsucht."
     }
    }
   ]
@@ -263,6 +263,16 @@
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-28T13:17:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011588/yeni-parti-lideri-ozgur-ozel-ve-4-vekile-iliskin-dosya-fezleke-icin-ankara-da?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Yeni Parti lideri Özgür Özel ve dört milletvekili hakkındaki soruşturma dosyası dokunulmazlık fezlekesi için Ankara Cumhuriyet Başsavcılığına gönderildi.",
+     "de": "Die Ermittlungsakten zur Aufhebung der Immunität von Parteichef Özgür Özel und vier Abgeordneten wurden an die Staatsanwaltschaft Ankara übermittelt."
+    }
+   },
    {
     "time": "2026-11-28T12:56:00+03:00",
     "source": "Evrensel",
@@ -396,6 +406,16 @@
   ],
   "world": [
    {
+    "time": "2026-11-28T14:19:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/yasam/james-webb-den-13-milyar-yillik-tarihi-kesif-evrenin-ilk-yildizlarinin-izini-tasiyan-ilkel-galaksi-bulundu-2560175",
+    "importance": 1,
+    "text": {
+     "tr": "James Webb Uzay Teleskobu, Büyük Patlama'dan 800 milyon yıl sonrasına ait kimyasal açıdan en saf ilkel galaksiyi keşfetti.",
+     "de": "Das James-Webb-Weltraumteleskop hat eine chemisch extrem reine Urgalaxie entdeckt, die 800 Millionen Jahre nach dem Urknall existierte."
+    }
+   },
+   {
     "time": "2026-11-28T11:08:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011569/el-hierro-adasi-aciklarinda-gocmen-teknesi-alabora-olmustu-hayatini-kaybeden-gocmenlerin-sayisi-14-e-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -403,6 +423,26 @@
     "text": {
      "tr": "Kanarya Adaları'na bağlı El Hierro açıklarında bir göçmen teknesinin alabora olması sonucu yaşamını yitirenlerin sayısı 14'e çıktı.",
      "de": "Nach dem Kentern eines Migrantenboots vor der Kanareninsel El Hierro ist die Zahl der bestätigten Toten auf 14 gestiegen."
+    }
+   },
+   {
+    "time": "2026-11-28T10:59:52+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
+    "importance": 2,
+    "text": {
+     "tr": "Fransa genelinde binlerce kişi kadına yönelik şiddeti kınamak ve farkındalık yaratmak amacıyla kitlesel protestolara katıldı.",
+     "de": "In ganz Frankreich sind Tausende Menschen auf die Straße gegangen, um gegen Gewalt an Frauen zu protestieren."
+    }
+   },
+   {
+    "time": "2026-11-28T10:52:00+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
+    "importance": 2,
+    "text": {
+     "tr": "İngiltere Çalışma ve Emeklilik Bakanlığı, siber saldırı şüphesi taşıyan ciddi bir olayın ardından çevrim içi hizmetlerini kapattı.",
+     "de": "Das britische Arbeits- und Rentenministerium hat seine Online-Dienste nach einem mutmaßlichen gravierenden Cyberangriff vorsorglich abgeschaltet."
     }
    },
    {
@@ -416,6 +456,16 @@
     }
    },
    {
+    "time": "2026-11-28T10:34:55+00:00",
+    "source": "France 24",
+    "url": "https://www.france24.com/en/world-health-organization-sounds-alarm-as-measles-fight-stalls",
+    "importance": 2,
+    "text": {
+     "tr": "Dünya Sağlık Örgütü küresel kızamık ölümlerinin 2025'te 72 bine gerilediğini ancak aşılanma aksamaları nedeniyle ilerlemenin yavaşladığını açıkladı.",
+     "de": "Laut WHO sanken die weltweiten Masern-Todesfälle 2025 auf 72.000, doch Impflücken gefährden die weiteren Fortschritte im Infektionsschutz."
+    }
+   },
+   {
     "time": "2026-11-28T10:33:32+01:00",
     "source": "Euronews Türkçe",
     "url": "https://tr.euronews.com/2026/11/28/meksikadan-abdye-kartel-ihbar-hatti-tepkisi-egemenlige-mudahale",
@@ -423,6 +473,16 @@
     "text": {
      "tr": "Meksika Devlet Başkanı Sheinbaum, ABD'nin uyuşturucu kartellerine yönelik kurduğu ihbar hattını egemenliğe müdahale olarak niteledi.",
      "de": "Mexikos Präsidentin Sheinbaum kritisierte eine US-Hinweishotline zu Drogenkartellen als Einmischung in die nationale Souveränität."
+    }
+   },
+   {
+    "time": "2026-11-28T10:18:00+00:00",
+    "source": "DW Türkçe",
+    "url": "https://www.dw.com/tr/i̇spanya-açıklarında-alabora-olan-türk-tankeri-çevre-felaketi-endişesine-yol-açtı/a-80084191",
+    "importance": 2,
+    "text": {
+     "tr": "İspanya açıklarında alabora olan ve motorin taşıyan Türk tankeri çevre felaketini önlemek için Cartagena Limanı'na çekilecek.",
+     "de": "Ein vor Spanien gekenterter türkischer Tanker mit Tonnen von Diesel wird zur Vermeidung einer Umweltkatastrophe nach Cartagena geschleppt."
     }
    },
    {
@@ -539,6 +599,7 @@
  },
  "seen": [
   "https://tr.euronews.com/2026/11/28/abd-ordusu-iran-limanlarina-yonelik-ablukayi-ihlal-eden-gemiye-ates-acti",
+  "https://tr.euronews.com/2026/11/28/ailem-guvende-sorusturmasi-70-kisi-gozaltina-alindi",
   "https://tr.euronews.com/2026/11/28/avrupada-genc-issizligi-en-yuksek-bosna-hersekte-en-dusuk-maltada",
   "https://tr.euronews.com/2026/11/28/avrupada-kis-gundonumunu-kutlamak-icin-en-iyi-duraklar",
   "https://tr.euronews.com/2026/11/28/boluda-kaybolan-10-kiz-cocugu-ve-uc-gorevli-sag-bulundu",
@@ -559,6 +620,8 @@
   "https://www.bbc.com/turkce/articles/c6lywr2w8lrzo",
   "https://www.bbc.com/turkce/articles/cm2d95j022e0o",
   "https://www.bbc.com/turkce/articles/cm5y1p23yl4yo",
+  "https://www.bbc.com/turkce/articles/cmx289847rl5o",
+  "https://www.bbc.com/turkce/articles/cqlyklnjg7klo",
   "https://www.cumhuriyet.com.tr/bilim-teknoloji/akilli-telefon-pazarinda-2027-tahmini-android-gerilerken-apple-buyuyebilir-2560145",
   "https://www.cumhuriyet.com.tr/dunya/libya-kaynaklari-hafter-in-ankara-daki-gorusmelerinin-icerigini-acikladi-2560120",
   "https://www.cumhuriyet.com.tr/egitim/aol-sinav-giris-belgesi-ne-zaman-yayinlanacak-acik-ogretim-lisesi-1-donem-sinavlari-ne-zaman-yapilacak-saat-kacta-2560124",
@@ -571,31 +634,40 @@
   "https://www.cumhuriyet.com.tr/gurme/ic-anadolu-mutfak-kulturunun-ferahlatici-klasigi-ayran-asi-corbasi-2560136",
   "https://www.cumhuriyet.com.tr/gurme/turk-mutfak-kulturunun-klasik-efsanesi-revani-tarifi-2560164",
   "https://www.cumhuriyet.com.tr/siyaset/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi-2560142",
+  "https://www.cumhuriyet.com.tr/siyaset/canakkale-sehitligi-nde-5-milyarlik-vurgun-iddiasi-alan-baskanligi-aciklama-yapti-2560166",
   "https://www.cumhuriyet.com.tr/siyaset/chd-uyesi-avukat-tahliye-edildi-karari-veren-hakim-degistirildi-2560126",
   "https://www.cumhuriyet.com.tr/siyaset/kahramanmaras-ta-depremzede-yurttaslarin-tepkisini-ceken-rezerv-alan-karari-mahallemizden-gitmek-istemiyoruz-2560129",
+  "https://www.cumhuriyet.com.tr/siyaset/komisyon-karari-sonrasi-tuncer-bakirhan-dan-ozgur-ozel-e-yeni-cagri-yeni-parti-nin-bize-bir-vefa-borcu-var-2560167",
+  "https://www.cumhuriyet.com.tr/siyaset/mhp-li-ozdemir-fon-meselesinin-cumhurbaskanimizi-aday-ilan-etmemizden-sonra-karsimiza-gelmesi-tesaduf-degil-2560171",
   "https://www.cumhuriyet.com.tr/siyaset/numan-kurtulmus-tan-yeni-surec-aciklamasi-cumhuriyet-tarihinin-ikinci-yuzyilinin-en-buyuk-projesi-2560158",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-parti-den-akin-gurlek-e-fatma-betul-sayan-kaya-gondermeli-hakim-degisikligi-sorulari-herhangi-bir-inceleme-baslatildi-mi-2560160",
   "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yanki-bagcioglu-ndan-pes-pese-yasanan-tsk-kazalari-icin-kritik-cagri-2560150",
+  "https://www.cumhuriyet.com.tr/spor/42-yasindaki-thiago-silva-dan-yeni-sozlesme-karari-2560169",
   "https://www.cumhuriyet.com.tr/spor/besiktas-derbisi-oncesi-galatasaray-da-victor-osimhen-gelismesi-2560118",
   "https://www.cumhuriyet.com.tr/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-28-kasim-cumartesi-gunu-mac-programi-2560127",
   "https://www.cumhuriyet.com.tr/spor/emre-belozoglu-ndan-kerem-akturkoglu-karari-2560153",
   "https://www.cumhuriyet.com.tr/spor/galatasarayli-yunus-akgun-un-mutlu-gunu-2560095",
   "https://www.cumhuriyet.com.tr/spor/heat-antetokounmpo-nun-kariyer-rekoruyla-knicks-i-yikti-2560137",
+  "https://www.cumhuriyet.com.tr/spor/kritik-mac-oncesi-fenerbahce-de-iki-isim-icin-sari-alarm-2560170",
   "https://www.cumhuriyet.com.tr/turkiye/abd-li-siyasetciler-sirketler-ve-turk-vekil-hedefte-x-hesaplarina-siber-saldiri-sorusturmasi-2560091",
   "https://www.cumhuriyet.com.tr/turkiye/ahbap-suphesi-istanbul-da-150-milyon-lira-degerinde-altin-dolu-canta-calindi-2560157",
   "https://www.cumhuriyet.com.tr/turkiye/ailem-guvende-adi-altinda-yeni-operasyon-dalgasi-30-ilde-70-gozalti-2560155",
   "https://www.cumhuriyet.com.tr/turkiye/ankara-da-uyusturucu-ve-fuhus-operasyonu-22-tutuklama-2560133",
   "https://www.cumhuriyet.com.tr/turkiye/bebek-anne-karninda-oldu-doktora-dava-acildi-meslekten-men-edilmesi-istendi-2560162",
+  "https://www.cumhuriyet.com.tr/turkiye/beraat-azaldi-mahkumiyet-artti-carpici-mlsa-raporu-davalarin-yuzde-63-unde-gazeteciler-yargilandi-2560165",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-da-10-kiz-cocugunun-mahsur-kaldigi-yolu-ormanci-anlatti-asagisi-cok-tehlikeli-2560096",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-da-10-kiz-cocuguyla-mahsur-kalan-minibusun-soforu-o-anlari-anlatti-kiz-cocuklarini-kendi-kizimdan-ayirmadim-2560093",
   "https://www.cumhuriyet.com.tr/turkiye/bornova-da-uyusturucu-serasina-baskin-18-kok-hint-keneviri-bitkisi-ele-gecirildi-2560141",
+  "https://www.cumhuriyet.com.tr/turkiye/cinli-is-insanina-gonderilmisti-istanbul-daki-bombali-kargo-paketi-davasinda-karar-cikti-2560172",
   "https://www.cumhuriyet.com.tr/turkiye/deprem-enkazi-tozlari-arastirmaya-konu-oldu-agir-metal-mikroplastik-ve-asbest-tespit-edildi-2560154",
   "https://www.cumhuriyet.com.tr/turkiye/istanbul-fatih-te-pes-dedirten-kuyumcu-soygunu-4-kilo-altin-caldilar-2560119",
+  "https://www.cumhuriyet.com.tr/turkiye/kayseri-de-aci-olay-balik-tutmaya-gittigi-sulama-kanalina-dusup-oldu-2560176",
   "https://www.cumhuriyet.com.tr/turkiye/kayseri-de-kanli-hesaplasma-husumetlisini-vurup-intihar-etti-2560122",
   "https://www.cumhuriyet.com.tr/turkiye/kredi-vaadiyle-dolandiricilik-davasinda-saniktan-bir-garip-savunma-kafam-karisiyor-2560131",
   "https://www.cumhuriyet.com.tr/turkiye/kucukcekmece-deki-5-katli-bina-yanginindan-aci-haber-olu-sayisi-3-e-yukseldi-2560121",
   "https://www.cumhuriyet.com.tr/turkiye/marmaris-te-gocmen-kacakciligi-operasyonu-2-tutuklama-2560149",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-28-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2560090",
+  "https://www.cumhuriyet.com.tr/turkiye/polisiz-dediler-feto-suclamasiyla-altinlari-caldilar-3-kisi-tutuklandi-2560168",
   "https://www.cumhuriyet.com.tr/turkiye/saldirinin-ardindan-arac-ve-kiyafet-degistirdiler-kacis-planlari-kamerada-2560159",
   "https://www.cumhuriyet.com.tr/turkiye/sarikamis-ta-aracin-carptigi-ayi-yasamini-yitirdi-2560134",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-28-kasim-2026-nerede-ne-zaman-deprem-oldu-2560092",
@@ -612,6 +684,8 @@
   "https://www.cumhuriyet.com.tr/yasam/iki-ilcede-hasadi-yapiliyor-tonuna-15-bin-lira-fiyat-aciklandi-ciftci-bekledigini-bulamadi-2560156",
   "https://www.cumhuriyet.com.tr/yasam/ipek-yolu-nun-son-duragindan-iskender-kebap-in-dogusuna-bursa-nin-zamansiz-ruhu-2559356",
   "https://www.cumhuriyet.com.tr/yasam/izmir-de-operasyon-46-gocmen-yakalandi-34-u-kurtarildi-2560132",
+  "https://www.cumhuriyet.com.tr/yasam/james-webb-den-13-milyar-yillik-tarihi-kesif-evrenin-ilk-yildizlarinin-izini-tasiyan-ilkel-galaksi-bulundu-2560175",
+  "https://www.cumhuriyet.com.tr/yasam/palamut-bitip-hamsi-gorunmeyince-tezgah-ona-kaldi-kilosu-250-tl-2560174",
   "https://www.cumhuriyet.com.tr/yasam/studyoyu-terk-etti-masterchef-te-somer-sivrioglu-ile-tolga-arasinda-gergin-anlar-2560130",
   "https://www.dw.com/de/news-kompakt-tödlicher-angriff-auf-gaza-helfer/a-80083580",
   "https://www.dw.com/de/pentagon-beschwichtigt-nach-bericht-über-cyberangriff-auf-us-luftwaffe/a-80083610",
@@ -619,11 +693,15 @@
   "https://www.dw.com/tr/bolu-da-endişeli-bekleyiş-sona-erdi-10-kız-çocuğu-ve-üç-görevli-bulundu/a-80083677",
   "https://www.dw.com/tr/fon-krizi-ara-ödemeler-sonrası-yatırımcıları-ne-bekliyor/a-80075848",
   "https://www.dw.com/tr/i̇mamoğlu-nun-35-yıllık-diploması-641-gündenasıl-iptal-edildi/a-80076918",
+  "https://www.dw.com/tr/i̇spanya-açıklarında-alabora-olan-türk-tankeri-çevre-felaketi-endişesine-yol-açtı/a-80084191",
   "https://www.dw.com/tr/tahir-elçi-cinayeti-11-yılda-neler-yaşandı/a-74927563",
+  "https://www.dw.com/tr/özgür-özel-4-aralık-ta-çok-önemli-bir-açıklama-yapacak/a-80084198",
   "https://www.euronews.com/2026/11/28/australias-conservatives-hope-for-victory-in-trendsetting-state",
   "https://www.euronews.com/2026/11/28/russia-charges-air-force-deputy-chief-with-taking-large-bribe",
   "https://www.euronews.com/2026/11/28/us-hotline-to-report-cartel-activities-slammed-as-foreign-interference-by-mexico",
+  "https://www.euronews.com/2026/11/28/us-military-denied-any-issues-with-computing-platform-after-hack-reported",
   "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
+  "https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-midday",
   "https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-morning",
   "https://www.evrensel.net/haber/6011542/spk-den-553-milyon-liralik-idari-para-cezasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011543/sinir-tanimayan-doktorlar-israil-in-gazze-de-klinigimize-duzenledigi-saldirida-2-calisanimiz-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -665,9 +743,23 @@
   "https://www.evrensel.net/haber/6011585/kadin-platformlarinin-instagram-hesaplarina-erisim-engeli-hesabi-kapatabilirsiniz-kadinlari-kapatamazsiniz?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011586/guney-kore-de-posta-servisine-duzenlenen-siber-saldirida-113-bini-askin-kisinin-bilgileri-sizdirildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011587/ihd-batman-subesi-nden-tahir-elci-icin-adalet-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011588/yeni-parti-lideri-ozgur-ozel-ve-4-vekile-iliskin-dosya-fezleke-icin-ankara-da?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011589/filistin-halkiyla-uluslararasi-dayanisma-gunu-hamas-tan-filistin-halkiyla-dayanisma-eylemlerini-artirma-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011590/gaziantepspor-amedspor-maci-ne-zaman-saat-kacta?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011591/kocaeli-de-is-cinayeti-iki-kamyon-arasinda-sikisan-sofor-yasamini-yitirdi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011592/alevi-koyunde-halka-ragmen-cami-insaati-meclis-gundeminde?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011593/yeni-partili-gokce-gokcen-hakim-degisikligi-chd-li-avukatlarin-tahliyesini-engellemek-icin-mi-yapildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011594/tahir-elci-nin-katledilisinin-11-inci-yilinda-adana-dan-adalet-ve-baris-cagrisi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011595/bir-yilda-bes-kaza-30-asker-hayatini-kaybetti-milletvekili-beker-helikopter-kazalarini-meclis-gundemine-tasidi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.faz.net/aktuell/besser-leben/essen/eben-sadie-was-seine-weine-so-besonders-macht-accg-201695232.html",
+  "https://www.faz.net/aktuell/besser-leben/essen/wenn-finnlands-botschaft-zur-weihnachtsfeier-laedt-accg-201712618.html",
+  "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/helene-cixous-deutet-medusa-schreiben-frauen-anders-als-maenner-201268934.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/peter-sloterdijk-ueber-enthemmung-afd-und-corona-leugner-accg-201722754.html",
   "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesregierung-kaempft-fuer-urheberrecht-im-ki-zeitalter-201724087.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/videospiel/politik-simulation-you-run-europe-bei-ard-gaming-201722775.html",
+  "https://www.faz.net/aktuell/finanzen/altersvorsorgedepot-warum-die-boerse-jetzt-nicht-schlechtzureden-ist-201722813.html",
+  "https://www.faz.net/aktuell/finanzen/boersenausverkauf-droht-jetzt-ein-echter-crash-accg-201720163.html",
+  "https://www.faz.net/aktuell/finanzen/fondsmanager-jan-ehrhardt-ein-crash-ist-das-noch-nicht-accg-201715914.html",
   "https://www.faz.net/aktuell/finanzen/wie-geduldiges-vermoegen-gegen-hastige-maerkte-besteht-accg-201253057.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/kenneth-l-verkaufte-toedliche-giftdosen-25-jahre-haft-gefordert-accg-201725645.html",
   "https://www.faz.net/aktuell/gesellschaft/kriminalitaet/rebecca-taylor-schwangere-gefangene-flieht-mit-justizauto-in-new-mexico-accg-201725643.html",
@@ -686,23 +778,44 @@
   "https://www.faz.net/aktuell/sport/fussball/mls-playoffs-mueller-und-vancouver-weiter-aus-fuer-messi-accg-201725439.html",
   "https://www.faz.net/aktuell/sport/fussball/regionalliga-reform-deutscher-fussball-vor-dfb-bundestag-vor-zerreissprobe-accg-201717757.html",
   "https://www.faz.net/aktuell/sport/mehr-sport/nba-topspiel-spurs-schlagen-lakers-fan-schubst-luka-doncic-accg-201725664.html",
+  "https://www.faz.net/aktuell/sport/rhein-main-sport/eintracht-frankfurt/eintracht-frankfurt-abhaengig-von-jonathan-burkardt-und-younes-ebnoutalib-accg-201723052.html",
   "https://www.faz.net/aktuell/sport/wintersport/eiskunstlauf-minerva-hase-und-nikita-volodin-setzen-erfolgsserie-fort-accg-201725608.html",
   "https://www.faz.net/aktuell/sport/wintersport/schoene-bescherung-was-rodeln-formel-1-und-schmiermittel-verbindet-201716536.html",
   "https://www.faz.net/aktuell/technik-motor/technik/ganzjahresreifen-lohnt-sich-der-wechsel-wirklich-accg-201673346.html",
   "https://www.faz.net/aktuell/wirtschaft/ein-schoener-haushalt-fuer-friedrich-merz-201721059.html",
+  "https://www.faz.net/aktuell/wirtschaft/unternehmen/business-liveticker-umweltminister-schneider-plaediert-fuer-umbau-des-rheins-faz-200452404.html",
   "https://www.faz.net/aktuell/wissen/archaeologie-altertum/neandertaler-im-abric-romani-forscher-rekonstruieren-holzwerkzeuge-accg-201709073.html",
   "https://www.faz.net/aktuell/wissen/geist-soziales/gesellschaftliche-trends-vereine-sterben-nicht-sie-veraendern-sich-accg-201692563.html",
   "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
   "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
+  "https://www.france24.com/en/europe-prepares-for-a-very-cold-winter-as-temperatures-are-expected-to-drop",
   "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
+  "https://www.france24.com/en/europe/20261128-three-days-dark-how-prepared-we-lights-go-out-france-cyber-attack-refrigerators-security",
+  "https://www.france24.com/en/france/20261128-france-holds-nationwide-protests-against-violence-towards-women",
+  "https://www.france24.com/en/immigration-a-key-issue-in-sunday-s-spanish-snap-election",
+  "https://www.france24.com/en/middle-east-surge-of-violence-in-occupied-west-bank",
+  "https://www.france24.com/en/more-children-reunited-with-their-families-amid-war-in-ukraine",
+  "https://www.france24.com/en/outbreak-of-diarrhea-amongst-young-children-in-gabon-africa",
+  "https://www.france24.com/en/syrian-kurds-protest-against-baghdad-leader-s-moves-to-assert-central-control",
+  "https://www.france24.com/en/taiwan-awaits-local-election-results-as-china-watches",
+  "https://www.france24.com/en/taiwan-holds-elections-to-choose-mayors-and-other-local-leaders",
+  "https://www.france24.com/en/what-are-the-main-issues-driving-spain-s-national-election",
+  "https://www.france24.com/en/world-health-organization-sounds-alarm-as-measles-fight-stalls",
+  "https://www.manager-magazin.de/unternehmen/industrie/mittelstand-wie-familienunternehmen-prym-zur-industrieholding-geformt-wird-a-5234f15b-9ab8-4a23-93b8-7084dd38f34f#ref=rss",
   "https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss",
+  "https://www.spiegel.de/gesundheit/adhs-ist-fuer-mich-keine-krankheit-aber-es-kann-verdammt-krank-machen-podcast-a-a2070bab-b6c5-4021-8365-19ddb25a3eac#ref=rss",
   "https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss",
   "https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss",
+  "https://www.spiegel.de/panorama/afghanistan-mehrere-tote-bei-explosion-nahe-schule-a-7f2d2901-cf4d-4ba0-83bd-bd580b72ce48#ref=rss",
+  "https://www.spiegel.de/panorama/gesellschaft/duisburg-warum-ein-vater-die-stadt-wegen-der-kita-schliesstage-verklagt-a-96fa309c-af28-442b-824a-27c00e14e1a1#ref=rss",
   "https://www.spiegel.de/politik/bsw-beraet-auf-parteitag-ueber-umgang-mit-afd-mitgruender-ernst-droht-erneut-mit-austritt-a-934e247e-3023-4da5-b420-f7c0d460efdc#ref=rss",
   "https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss",
+  "https://www.spiegel.de/sport/fussball/said-el-mala-beim-1-fc-koeln-warum-sich-der-20-jaehrige-als-fuehrungsspieler-sieht-a-0e90e107-f188-4aa7-a073-61be5d2400ac#ref=rss",
   "https://www.spiegel.de/sport/parkinson-emma-cornthwaite-faehrt-auf-trike-1700-kilometer-durch-grossbritannien-und-frankreich-a-b59ba1ca-baf3-449b-9548-c7be3d398b52#ref=rss",
+  "https://www.spiegel.de/sport/wintersport/biathlon-vanessa-voigt-hadert-nach-fehler-beim-saisonauftakt-a-320daf04-dcd5-4dd1-bca6-4c6aa1a48280#ref=rss",
   "https://www.spiegel.de/stil/weihnachten-bunter-christbaumschmuck-verdraengt-den-minimalismus-a-d377717c-d838-4de2-ba7e-4ddd45e8bed9#ref=rss",
+  "https://www.tagesschau.de/ausland/asien/explosion-an-schule-in-afghanistan-100.html",
   "https://www.tagesschau.de/ausland/asien/gaza-israel-angriff-hamas-aerzte-ohne-grenzen-100.html",
   "https://www.tagesschau.de/ausland/europa/schweiz-abstimmung-kriegsmaterialgesetz-100.html",
   "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
@@ -714,28 +827,37 @@
   "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
   "https://www.theguardian.com/business/2026/nov/28/sprouts-smaller-than-usual-heatwaves-drought-festive-vegetable",
   "https://www.theguardian.com/society/2026/nov/28/mental-health-patients-refusing-nhs-treatment-medical-history-shared",
+  "https://www.theguardian.com/technology/2026/nov/28/dwp-cyber-incident-probably-attack-former-uk-chief-technology-officer-david-knott",
   "https://www.theguardian.com/technology/2026/nov/28/woman-traumatised-sainsburys-shoplifting-ban-after-staff-facial-recognition-error",
   "https://www.theguardian.com/uk-news/2026/nov/28/new-immigration-rules-uk-unpaid-tv-licence-cycling-pavement-adult-convictions",
   "https://www.theguardian.com/world/2026/nov/28/mohammad-baraka-palestinian-eu-gaza-redundancy-pay-access",
+  "https://www.theguardian.com/world/2026/nov/28/spain-vote-election-could-far-right-power-first-time-franco",
   "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+  "https://www.welt.de/debatte/plus6b0860dc78855274ac4abc29/oeffentlich-rechtlicher-rundfunk-meinungskontrolle-ist-fuer-die-medienanstalten-ein-dynamisches-wachstumsfeld.html",
   "https://www.welt.de/geschichte/article6b0700ae10bfe646193e94f6/antike-artillerie-der-schmerz-laesst-bereits-die-todeswunde-spueren-ehe-man-das-geschoss-erkennt.html",
   "https://www.welt.de/kultur/musik/article6b0a80107df78695bac966db/historiker-und-buchautor-huldigung-die-er-nicht-verdient-hat-ilko-sascha-kowalczuk-erklaert-zerwuerfnis-mit-wolf-biermann.html",
   "https://www.welt.de/kultur/musik/article6b0a80107df78695bac966db/streit-ueber-tagebuecher-gedenken-huldigung-die-er-nicht-verdient-hat-ilko-sascha-kowalczuk-erklaert-zerwuerfnis-mit-wolf-biermann.html",
+  "https://www.welt.de/kultur/plus6b057c8c6a4309d5f179c685/cybercab-der-sicherheitsgewinn-ist-empirisch-nachgewiesen-in-deutschland-aber-wird-er-geringer-ausfallen.html",
   "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6b099797741a4ef94784a1c5/statt-allahu-akbarrieren-der-heimische-terror-des-tradwife-daseins.html",
   "https://www.welt.de/kultur/theater/article6b0a7d80741a4ef94784b085/nach-kurzer-schwerer-krankheit-bekannt-durch-die-echse-puppenspieler-michael-hatzius-stirbt-mit-44-jahren.html",
   "https://www.welt.de/politik/ausland/article6b09631f741a4ef947849a7b/neue-studie-anschlaege-entfuehrungen-morde-deutschland-im-visier-des-iran.html",
   "https://www.welt.de/politik/deutschland/article6b09d216741a4ef94784ab6b/bundesparteitag-wir-entscheiden-immer-in-der-sache-bsw-vorsitzende-schliesst-zustimmung-zu-afd-haushalt-nicht-aus.html",
   "https://www.welt.de/politik/deutschland/article6b0a5fe37df78695bac965a3/ba-chefin-fachkraefte-mangel-nahles-will-ausgewanderte-deutsche-zurueckholen.html",
   "https://www.welt.de/politik/deutschland/article6b0a8b797df78695bac96780/bundestag-hauspost-ich-hab-ne-zwiebel-auf-dem-kopf-ferat-kocak-bekommt-muslimfeindliche-karikatur.html",
+  "https://www.welt.de/politik/deutschland/article6b0aa5447df78695bac96940/rentenreform-arbeitgeber-schlagen-alarm-und-warnen-vor-einem-belastungsschub.html",
   "https://www.welt.de/politik/deutschland/plus6b07f87b09772de37184f2bd/konflikt-in-der-aussenpolitik-wenn-ueber-solidaritaet-mit-israel-in-der-afd-streit-losbricht.html",
+  "https://www.welt.de/politik/deutschland/plus6b0826757af5dee5d20acd08/gewalt-gegen-frauen-warum-der-wachsenden-zahl-an-vergewaltigungen-nur-wenige-urteile-folgen.html",
   "https://www.welt.de/politik/deutschland/plus6b0834a009772de37184fcd9/verteidigungspolitik-interne-dokumente-belegen-massive-ausweitung-der-deutsch-ukrainischen-militaerkooperation.html",
   "https://www.welt.de/politik/deutschland/plus6b09911783a96bc174605552/hubertus-heil-wir-wollen-dass-einsatz-und-leistung-zaehlen-nicht-herkunft-und-ellenbogen.html",
   "https://www.welt.de/sport/article6b0a9fe0741a4ef94784b286/bronson-reed-ruhe-in-frieden-grosser-mann-wrestling-star-stirbt-mit-nur-38-jahren.html",
+  "https://www.welt.de/sport/fussball/bundesliga/fc-bayern-muenchen/article6b0a9a487df78695bac968a6/fc-bayern-der-fall-jamal-musiala-zeigt-wie-pervers-der-fussball-geworden-ist.html",
   "https://www.welt.de/vermischtes/kriminalitaet/article6b0a92b6d6d8a1d6fd2eb286/erklaerung-der-anwaelte-fall-fernandes-ermittlungen-gegen-ulmen-werden-auf-mallorca-fortgesetzt.html",
   "https://www.welt.de/vermischtes/plus6b0966a23d0d9d6539f8f855/streit-mit-dem-partner-wie-man-die-macht-alter-beziehungsmuster-durchbrechen-kann.html",
   "https://www.welt.de/videos/video6b0a712f7df78695bac9662d/perm-putins-neues-atom-u-boot-serienmaessig-mit-hyperschallraketen-600-meter-tauchtiefe.html",
   "https://www.welt.de/wirtschaft/plus6af1a1b1a389bc337cfcb087/rente-absteiger-deutschland-und-was-schweden-daenemark-oder-singapur-besser-machen.html",
+  "https://www.welt.de/wirtschaft/plus6b094e8709772de3718511dc/wohnungsnot-bueroflaechen-als-wohnungen-die-grosse-wohnungs-hoffnung-entpuppt-sich-als-illusion.html",
   "https://www.welt.de/wirtschaft/plus6b096d433d0d9d6539f8f94a/um-sechs-uhr-morgens-champagner-in-der-lounge-das-wollen-nur-beamte-der-eu-sagt-ryanair-chef-oleary.html",
+  "https://www.welt.de/wissenschaft/plus6afaca04172b587f4434d597/psychologie-58-dunkle-merkmale-der-persoenlichkeit-ein-entscheidender-faktor.html",
   "https://www.welt.dehttps://www.welt.de/kaufberater/das-ist-der-beste-kaffeevollautomat-unter-500-euro/"
  ]
 }
