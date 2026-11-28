@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "updatedAt": "2026-11-28T05:15+01:00",
+ "updatedAt": "2026-11-28T15:57+01:00",
  "lang": "tr",
  "countries": [
   {
@@ -732,6 +732,270 @@
      "source": "BBC Entertainment & Arts",
      "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego",
      "time": "2026-11-27T17:39:11+00:00"
+    }
+   ]
+  },
+  {
+   "code": "jp",
+   "key": "32ed1798073a10b1",
+   "overview": "Bugünün haber akışında ekonomi, güvenlik politikaları ve büyük kurumsal veri sızıntıları ön plana çıkıyor. Japonya'nın güvenlik stratejilerindeki olası nükleer denizaltı tartışmaları ve TPP ortaklığı ile ticaret hamleleri dikkat çekerken, perakende ve finans sektöründeki geniş çaplı sızıntılar şirketlerin siber güvenlik açıklarını gözler önüne seriyor. Öte yandan spor dünyasında beyzbolcuların ve figür patencilerinin uluslararası transfer ve yarışma başarıları ülkenin gündemini meşgul ediyor.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Japonya'nın Güvenlik Belgesi Revizyonunda Nükleer Denizaltı Tartışması",
+     "summary": "Japonya'nın yıl sonuna kadar güncellenmesi beklenen güvenlik belgelerinde, tartışmalı bir konu olan nükleer denizaltılar hakkında bir sonuca varma ve değerlendirme sürecini başlatma taahhüdünde bulunması bekleniyor. Konu, ülkenin savunma politikasında yeni bir aşamaya işaret ediyor.",
+     "category": "Politika",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/japan-nuclear-submarines-security-documents/",
+     "time": "2026-11-28T14:48:00+09:00"
+    },
+    {
+     "title": "Japonya'da Doğum Sayısı 11 Yıl Sonra İlk Kez Artış Gösterdi",
+     "summary": "Japonya'da son yıllarda yaşanan düşüş eğiliminin ardından yıllık doğum sayısının 11 yıl sonra ilk kez arttığı bildirildi. Bu artışın, COVID-19 pandemisi sonrasında evlilik sayılarında görülen yükselişle bağlantılı olabileceği belirtiliyor.",
+     "category": "Toplum",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/society/japan-births-rise/",
+     "time": "2026-11-28T15:22:00+09:00"
+    },
+    {
+     "title": "Miyagi'deki Dağlık Alanda Bulunan İki Cesetle İlgili Soruşturma",
+     "summary": "Miyagi eyaletindeki dağlık bir alanda kimliği belirsiz iki kişinin cesedinin bulunmasıyla ilgili polis soruşturma başlattı. Ekipler, cesetlerden birinin Yokohama'dan kayıp olan bir lise kız öğrencisine ait olabileceği ihtimali üzerinde duruyor.",
+     "category": "Asayiş",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82799",
+     "time": "2026-11-28T22:13:07+09:00"
+    },
+    {
+     "title": "Shizuoka'da Yaban Domuzu Saldırısı: Yedi Kişi Yaralandı",
+     "summary": "Shizuoka'nın Shimizu semtinde bir yaban domuzunun dükkanın camını kırarak sokakta insanlara saldırması sonucu toplam yedi kişi yaralandı. Hayvanın ertesi sabah itlaf edildiği açıklandı.",
+     "category": "Olaylar",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82992",
+     "time": "2026-11-28T17:53:19+09:00"
+    },
+    {
+     "title": "Kayıp Ortaokul Öğrencisi İçin Yeni Fotoğraflar Paylaşıldı",
+     "summary": "Fukuşima eyaletinin Koriyama şehrinde kaybolan ortaokul birinci sınıf erkek öğrencinin babası, kamuoyundan yardım istemek amacıyla yeni fotoğraf ve videolar yayınladı. Polis ve aile kayıp çocuğun bulunması için bilgi arıyor.",
+     "category": "Asayiş",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de83037",
+     "time": "2026-11-28T19:21:00+09:00"
+    },
+    {
+     "title": "Nikkei Şirketinden Milyonlarca Kişilik Veri Sızıntısı Açıklaması",
+     "summary": "Nihon Keizai Shimbun (Nikkei), pazarlama faaliyetlerinde kullanılan dış kaynaklı bir hizmete düzenlenen siber saldırı sonucunda, elektronik versiyon abonelerinin de dahil olduğu yaklaşık 5,4 milyon kişinin kişisel verisinin sızdırılmış olabileceğini duyurdu. Şirket incelemelerini sürdürüyor.",
+     "category": "Siber Güvenlik",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82772",
+     "time": "2026-11-27T20:36:00+09:00"
+    },
+    {
+     "title": "Japonya'da TPP Destek Ofisi Kurulması Kararlaştırıldı",
+     "summary": "Vietnam'da düzenlenen TPP (Pasifik Ortaklığı için Kapsamlı ve İlerlemeli Anlaşma) bakanlar toplantısında, Japonya'da bir destek ofisi kurulması konusunda anlaşmaya varıldı. Toplantıda ayrıca BAE, Filipinler ve Endonezya ile katılım müzakereleri başlatıldı.",
+     "category": "Ticaret",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82819",
+     "time": "2026-11-28T05:17:00+09:00"
+    },
+    {
+     "title": "Daimaru Matsuzakaya Online Mağazasında Veri Sızıntısı Şüphesi",
+     "summary": "Daimaru Matsuzakaya Mağazaları, üçüncü şahısların izinsiz erişimi nedeniyle çevrim içi mağaza üyelerinin ve teslimat adreslerinin yer aldığı toplam 880 binden fazla kaydın sızmış olabileceğini açıkladı. Şirket müşterilerinden özür diledi.",
+     "category": "Perakende",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82785",
+     "time": "2026-11-27T21:42:20+09:00"
+    },
+    {
+     "title": "Mitsubishi Heavy Industries'e Yönelik Pnömoni Davasında Karar Kesinleşti",
+     "summary": "Yüksek Mahkeme, Mitsubishi Heavy Industries'in Nagasaki Tersanesi'nde çalışırken toz soluması nedeniyle pnömoniye yakalanan taşeron işçilerin açtığı toplu tazminat davasında tarafların temyizini reddederek tazminat kararını kesinleştirdi.",
+     "category": "Hukuk",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82821",
+     "time": "2026-11-28T05:19:04+09:00"
+    },
+    {
+     "title": "Japonya'da Devlet Desteğiyle Elektrik Fiyatları Düşüyor",
+     "summary": "Hükümetin sübvansiyon programını yeniden başlatmasıyla birlikte, aralık ayında kullanılacak elektrik tarifelerinde ülkedeki 10 büyük elektrik şirketinin tamamında düşüş gerçekleşeceği bildirildi.",
+     "category": "Enerji",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82770",
+     "time": "2026-11-27T20:52:07+09:00"
+    },
+    {
+     "title": "Amerikan Medyasından İddia: Çin'de Nvidia Yarı İletkenleri Tespit Edildi",
+     "summary": "Amerikan Bloomberg ajansının haberine göre, Nvidia'nın gelişmiş çiplerini barındıran sunucuların Şanghay'daki bir veri merkezinde kurulduğu belirlendi. Gelişme, ihracat kısıtlamalarının etkinliği konusundaki tartışmaları yeniden alevlendirdi.",
+     "category": "Yarı İletken",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82966",
+     "time": "2026-11-28T19:15:43+09:00"
+    },
+    {
+     "title": "Japon Hükümetinden Veri Merkezi Altyapısı İçin Yeni Kılavuz",
+     "summary": "Japon hükümeti, ülke genelinde artan veri merkezi yatırımları ile çevre sakinleri arasında yaşanan sürtünmeleri azaltmak amacıyla yeni bir kılavuz hazırlama kararı aldı. Düzenleme, şirketler, yerel yönetimler ve elektrik şirketlerinin uyması gereken kuralları belirleyecek.",
+     "category": "Dijital Altyapı",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82863",
+     "time": "2026-11-28T10:47:00+09:00"
+    },
+    {
+     "title": "Motorola'nın Amiral Gemisi Akıllı Telefonu Japonya Piyasasına Giriyor",
+     "summary": "Motorola, üst segment akıllı telefonu 'motorola signature' modelini aralık başında Japonya'da satışa sunacak. Cihaz, özellikle Japon pazarına özel 24 saat hizmet veren özel konsiyerj servisi ile rekabet avantajı sağlamayı hedefliyor.",
+     "category": "Mobil",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "ITmedia All News",
+     "url": "https://www.itmedia.co.jp/mobile/articles/2611/28/news014.html",
+     "time": "2026-11-28T06:00:00+09:00"
+    },
+    {
+     "title": "Japon Erişte Zinciri Yudetaro Veri Güvenliği Nedeniyle Kulübü Kapattı",
+     "summary": "Popüler erişte restoran zinciri Yudetaro, potansiyel kişisel veri sızıntılarını önlemek amacıyla yaklaşık 4 bin üyenin kayıtlı olduğu 'Doğum Günü Kulübü' uygulamasını sonlandırma kararı aldı. Şirket, müşteri verilerini elinde tutmama stratejisini benimsiyor.",
+     "category": "Güvenlik",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "ITmedia All News",
+     "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+     "time": "2026-11-28T10:00:00+09:00"
+    },
+    {
+     "title": "Lawson Ürün Geliştirmede Üretken Yapay Zeka Kullandı",
+     "summary": "Japon market zinciri Lawson, geçmiş satış verilerini kullanmadan tamamen üretken yapay zekanın tasarladığı sıra dışı konseptlere dayanan yeni unlu mamul ve tatlı ürünleri geliştirdi. Şirket, yapay zekanın sunduğu fikirleri ürüne dönüştürdü.",
+     "category": "Yapay Zeka",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "ITmedia All News",
+     "url": "https://www.itmedia.co.jp/business/articles/2611/28/news003.html",
+     "time": "2026-11-28T05:30:00+09:00"
+    },
+    {
+     "title": "Japon Beyzbol Yıldızları Teruaki Sato ve Kaima Taira MLB Kulüpleriyle Anlaştı",
+     "summary": "Hanshin Tigers formasıyla Japon beyzbol liginde üçü bir arada kral unvanı kazanan Teruaki Sato, Chicago Cubs ile 6 yıllık sözleşme imzalarken; Seibu Lions'tan Kaima Taira ise Toronto Blue Jays ile 5 yıllığına anlaştı. İki oyuncu da Amerikan ligine transfer oldu.",
+     "category": "Beyzbol",
+     "topic": "spor",
+     "importance": 3,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82844",
+     "time": "2026-11-28T08:31:00+09:00"
+    },
+    {
+     "title": "NHK Kupası'nda Ilia Malinin Şampiyon Oldu, Mone Chiba İkinci Sırada",
+     "summary": "Tokyo'nun Chofu şehrinde düzenlenen Grand Prix serisi son ayağı NHK Kupası'nda erkeklerde ABD'li Ilia Malinin şampiyonluğa ulaştı. Japon patenci Mone Chiba ise kadınlar kategorisinde ikinci sırada yer alarak Grand Prix Finalleri'ne katılma hakkı elde etti.",
+     "category": "Buz Pateni",
+     "topic": "spor",
+     "importance": 2,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82900",
+     "time": "2026-11-28T23:37:27+09:00"
+    },
+    {
+     "title": "Kosei Takahashi MLB'de Arizona Diamondbacks ile Anlaştı",
+     "summary": "Seibu Lions takımından yurtdışı serbest oyuncu (FA) hakkını kullanarak ABD'ye transfer olan pitcher Kosei Takahashi, Arizona Diamondbacks ile 1 yıllık sözleşme konusunda anlaşma sağladı.",
+     "category": "Beyzbol",
+     "topic": "spor",
+     "importance": 2,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82839",
+     "time": "2026-11-28T08:37:00+09:00"
+    },
+    {
+     "title": "Kashiwa Reysol J1 Ligi'nde İkinciliğe Yükseldi",
+     "summary": "J1 Futbol Ligi'nin 17. haftasında Kashiwa Reysol, üst sıralardaki rakibi Sanfrecce Hiroshima'yı mağlup ederek puan cetvelinde ikinci sıraya yükseldi.",
+     "category": "Futbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de83043",
+     "time": "2026-11-28T19:30:32+09:00"
+    },
+    {
+     "title": "Rui Hachimura 14 Sayı Kaydetti Ancak Clippers Maçı Kaybetti",
+     "summary": "NBA'de Los Angeles Clippers forması giyen Rui Hachimura, New Orleans Pelicans'a karşı oynanan karşılaşmada 14 sayı üretti. Ancak takımı maçtan 1 sayı farkla mağlup ayrılarak üst üste 6. yenilgisini aldı.",
+     "category": "Basketbol",
+     "topic": "spor",
+     "importance": 1,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82995",
+     "time": "2026-11-28T17:33:39+09:00"
+    },
+    {
+     "title": "Takuya Nagase Osho Unvan Maçına Hak Kazandı",
+     "summary": "Japon satrancı shogi dünyasında Takuya Nagase 9. dan, unvan maçına çıkmaya hak kazandı. Nagase, hedefinin Sota Fujii Osho'dan unvanı almak olduğunu belirtti.",
+     "category": "Shogi",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCW3FHTVCWUCVL02RM.html?ref=rows",
+     "time": "2026-11-27T19:30:10+09:00"
+    },
+    {
+     "title": "Kyoto'nun Geleneksel 'Manekiage' Töreni Başladı",
+     "summary": "Kyoto'daki Minamiza Tiyatrosu'nda aralık ayında düzenlenecek geleneksel 'Kaomise Kogyo' gösterileri öncesinde aktörlerin isimlerinin yazıldığı 61 geleneksel ahşap levha asıldı. Tören, şehrin aralık ayındaki kültürel manzarasına renk kattı.",
+     "category": "Sahne Sanatları",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCW30WZVCWPLZB002M.html?ref=rows",
+     "time": "2026-11-27T19:15:00+09:00"
+    },
+    {
+     "title": "Naoki Matayoshi ile Yapay Zeka Döneminde İnsan Olmak",
+     "summary": "Yapay zekanın iş yaşamını dönüştürdüğü bir çağda insanlara ne kalacağı sorusu NHK'nın özel programında ele alındı. Yazar Naoki Matayoshi ve uzmanlar, teknolojinin sanat ve edebiyata etkilerini tartıştı.",
+     "category": "Medya",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCV7X32VCVUCVL004M.html?ref=rows",
+     "time": "2026-11-28T11:00:00+09:00"
+    },
+    {
+     "title": "Grammy Ödülleri'nin Asya Kategorisindeki Çelişkileri",
+     "summary": "Babymetal grubunun aday gösterildiği ancak BTS'in yer almadığı Grammy Ödülleri'nin yeni 'Asya' kategorisi, müzik dünyasında ve basında farklı açılardan değerlendiriliyor. Uzmanlar ödül sistemindeki yapısal çelişkilere dikkat çekiyor.",
+     "category": "Müzik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCS1CWYVCSUCVL00TM.html?ref=rows",
+     "time": "2026-11-28T07:00:00+09:00"
+    },
+    {
+     "title": "Minamata Hastalığını Yakından Hissettirmek İçin Fotoğraf Sergisi",
+     "summary": "Minamata hastalığının etkilerini ve tarihini anlatan yüzlerce fotoğraf arasından seçilen özel kareler, vatandaşların çevre felaketini daha yakından anlamasını sağlamak amacıyla sergileniyor.",
+     "category": "Miras",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCN3CYBVCNUTIL00CM.html?ref=rows",
+     "time": "2026-11-28T06:00:00+09:00"
     }
    ]
   }

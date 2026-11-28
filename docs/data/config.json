@@ -347,6 +347,78 @@
      "use": "pool"
     }
    ]
+  },
+  {
+   "code": "jp",
+   "name": "Japan",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "feeds": [
+    {
+     "name": "NHK News",
+     "url": "https://www.nhk.or.jp/rss/news/cat0.xml",
+     "use": "both"
+    },
+    {
+     "name": "NHK Business News",
+     "url": "https://www.nhk.or.jp/rss/news/cat5.xml",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "NHK Sports",
+     "url": "https://www.nhk.or.jp/rss/news/cat7.xml",
+     "use": "daily",
+     "topic": "spor"
+    },
+    {
+     "name": "Asahi Shimbun Business",
+     "url": "https://rss.asahi.com/rss/asahi/business.rdf",
+     "use": "daily",
+     "topic": "ekonomi"
+    },
+    {
+     "name": "Asahi Shimbun Sports",
+     "url": "https://rss.asahi.com/rss/asahi/sports.rdf",
+     "use": "daily",
+     "topic": "spor"
+    },
+    {
+     "name": "Asahi Shimbun Culture",
+     "url": "https://rss.asahi.com/rss/asahi/culture.rdf",
+     "use": "daily",
+     "topic": "kultur"
+    },
+    {
+     "name": "Mainichi Shimbun Breaking",
+     "url": "https://mainichi.jp/rss/etc/mainichi-flash.rss",
+     "use": "flash"
+    },
+    {
+     "name": "ITmedia All News",
+     "url": "https://rss.itmedia.co.jp/rss/2.0/itmedia_all.xml",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "Impress PC Watch",
+     "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+     "use": "daily",
+     "topic": "teknoloji"
+    },
+    {
+     "name": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/feed/",
+     "use": "both"
+    }
+   ],
+   "addedBy": "app",
+   "addedAt": "2026-11-28"
   }
  ],
  "blocked": [

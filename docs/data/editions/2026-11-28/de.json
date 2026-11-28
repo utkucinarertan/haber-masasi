@@ -1,6 +1,6 @@
 {
  "date": "2026-11-28",
- "updatedAt": "2026-11-28T05:15+01:00",
+ "updatedAt": "2026-11-28T15:57+01:00",
  "lang": "de",
  "countries": [
   {
@@ -732,6 +732,270 @@
      "source": "BBC Entertainment & Arts",
      "url": "https://www.bbc.co.uk/news/articles/ckp80d8vz1ego",
      "time": "2026-11-27T17:39:11+00:00"
+    }
+   ]
+  },
+  {
+   "code": "jp",
+   "key": "32ed1798073a10b1",
+   "overview": "Im heutigen Nachrichtenstrom stehen wirtschaftliche Entwicklungen, sicherheitspolitische Debatten und massive Unternehmensdatendiebstähle im Vordergrund. Während Japan über mögliche Nuklear-U-Boot-Prüfungen in den Sicherheitsdokumenten sowie den Ausbau von Freihandelsabkommen berät, verdeutlichen weitreichende Sicherheitslecks bei großen Handels- und Finanzunternehmen anhaltende IT-Schwachstellen. Im Sport sorgen derweil internationale Transfererfolge japanischer Baseballprofis sowie herausragende Leistungen im Eiskunstlauf für Schlagzeilen.",
+   "topics": [
+    "gundem",
+    "ekonomi",
+    "teknoloji",
+    "spor",
+    "kultur"
+   ],
+   "items": [
+    {
+     "title": "Japan plant Debatte über Atom-U-Boote in Sicherheitsdokumenten",
+     "summary": "In den bis zum Jahresende anstehenden Aktualisierungen der japanischen Sicherheitsdokumente wird voraussichtlich die Erwägung des kontroversen Themas von Atom-U-Booten verankert. Die Regierung plant, die Diskussion zu diesem Thema einzuleiten und zu einem Abschluss zu bringen.",
+     "category": "Politik",
+     "topic": "gundem",
+     "importance": 3,
+     "source": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/japan-nuclear-submarines-security-documents/",
+     "time": "2026-11-28T14:48:00+09:00"
+    },
+    {
+     "title": "Geburtenrate in Japan steigt zum ersten Mal seit elf Jahren",
+     "summary": "Die Zahl der Neugeborenen in Japan hat nach jahrelangen Rückgängen erstmals wieder zugenommen. Experten führen diesen Anstieg auf eine erhöhte Heiratsrate nach der Pandemie zurück.",
+     "category": "Gesellschaft",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "The Japan Times",
+     "url": "https://www.japantimes.co.jp/news/2026/11/28/japan/society/japan-births-rise/",
+     "time": "2026-11-28T15:22:00+09:00"
+    },
+    {
+     "title": "Zwei Leichen in Miyagi-Bergen bei Suche nach vermisstem Mädchen entdeckt",
+     "summary": "Ermittler in Japan gehen Hinweisen nach, nachdem in einer bergigen Region der Präfektur Miyagi zwei Leichen gefunden wurden. Eine der Toten könnte ein vermisstes Oberschulmädchen aus Yokohama sein.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 2,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82799",
+     "time": "2026-11-28T22:13:07+09:00"
+    },
+    {
+     "title": "Wildschwein greift Menschen in Shizuoka an: Sieben Verletzte",
+     "summary": "In einem Wohngebiet in Shizuoka hat ein Wildschwein mehrere Passanten attackiert, nachdem es in ein Geschäft eingedrungen war. Insgesamt wurden sieben Personen verletzt, bevor das Tier getötet wurde.",
+     "category": "Vermischtes",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82992",
+     "time": "2026-11-28T17:53:19+09:00"
+    },
+    {
+     "title": "Vater veröffentlicht neue Fotos im Fall eines vermissten Schülers in Fukushima",
+     "summary": "Nach dem Verschwinden eines Mittelschülers in Koriyama in der Präfektur Fukushima hat der Vater neue Aufnahmen veröffentlicht, um Hinweise aus der Bevölkerung zu erhalten.",
+     "category": "Kriminalität",
+     "topic": "gundem",
+     "importance": 1,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de83037",
+     "time": "2026-11-28T19:21:00+09:00"
+    },
+    {
+     "title": "Nikkei meldet Datenleck mit Millionen betroffenen Datensätzen",
+     "summary": "Das japanische Medienunternehmen Nikkei hat bekannt gegeben, dass durch unbefugten Zugriff auf einen externen Dienst rund 5,4 Millionen persönliche Daten von Abonnenten und Nutzern abgeflossen sein könnten.",
+     "category": "Datenschutz",
+     "topic": "ekonomi",
+     "importance": 3,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82772",
+     "time": "2026-11-27T20:36:00+09:00"
+    },
+    {
+     "title": "Japan wird Sitz für CPTPP-Unterstützungsbüro",
+     "summary": "Bei einem Ministertreffen des Freihandelsabkommens CPTPP in Vietnam wurde beschlossen, ein Unterstützungsbüro in Japan einzurichten. Zudem wurden Beitrittsverhandlungen mit drei neuen Ländern aufgenommen.",
+     "category": "Handel",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82819",
+     "time": "2026-11-28T05:17:00+09:00"
+    },
+    {
+     "title": "Mögliches Datenleck im Online-Shop von Daimaru Matsuzakaya",
+     "summary": "Das Kaufhausunternehmen Daimaru Matsuzakaya hat mitgeteilt, dass durch unbefugten Zugriff Daten von über 880.000 Kunden und Lieferadressen aus dem Onlineshop gefährdet sein könnten.",
+     "category": "Einzelhandel",
+     "topic": "ekonomi",
+     "importance": 2,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82785",
+     "time": "2026-11-27T21:42:20+09:00"
+    },
+    {
+     "title": "Urteil im Staublungenerkrankungs-Prozess gegen Mitsubishi Heavy Industries rechtskräftig",
+     "summary": "Der oberste Gerichtshof Japans hat die Entschädigungszahlungen an ehemalige Werftarbeiter bestätigt, die in der Werft in Nagasaki an Staublunge erkrankt waren.",
+     "category": "Justiz",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82821",
+     "time": "2026-11-28T05:19:04+09:00"
+    },
+    {
+     "title": "Strompreise in Japan sinken im Dezember dank staatlicher Subventionen",
+     "summary": "Durch die Wiederaufnahme staatlicher Beihilfen verzeichnen alle zehn großen japanischen Stromversorger für den Verbrauchsmonat Dezember sinkende Tarife.",
+     "category": "Energie",
+     "topic": "ekonomi",
+     "importance": 1,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261127de82770",
+     "time": "2026-11-27T20:52:07+09:00"
+    },
+    {
+     "title": "US-Medien berichten über Nvidia-High-Tech-Chips in chinesischen Rechenzentren",
+     "summary": "Dem US-Sender Bloomberg zufolge wurden Server mit fortschrittlichen Halbleitern von Nvidia in einem Rechenzentrum in Shanghai entdeckt, was Fragen zur Einhaltung von Exportbeschränkungen aufwirft.",
+     "category": "Technologie",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82966",
+     "time": "2026-11-28T19:15:43+09:00"
+    },
+    {
+     "title": "Japanische Regierung plant Richtlinien für den Ausbau von Rechenzentren",
+     "summary": "Angesichts zunehmender Reibungen zwischen Betreibern und Anwohnern erarbeitet die japanische Regierung neue Leitlinien für den Bau von Rechenzentren, die von lokalen Behörden und Energieversorgern zu beachten sind.",
+     "category": "Infrastruktur",
+     "topic": "teknoloji",
+     "importance": 2,
+     "source": "NHK Business News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82863",
+     "time": "2026-11-28T10:47:00+09:00"
+    },
+    {
+     "title": "Motorola bringt Flaggschiff-Smartphone mit speziellem Concierge-Dienst nach Japan",
+     "summary": "Motorola bringt sein Top-Smartphone im Dezember in den japanischen Handel. Um sich im hart umkämpften Markt zu behaupten, setzt der Hersteller auf einen exklusiven 24-Stunden-Concierge-Dienst für japanische Kunden.",
+     "category": "Mobilfunk",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "ITmedia All News",
+     "url": "https://www.itmedia.co.jp/mobile/articles/2611/28/news014.html",
+     "time": "2026-11-28T06:00:00+09:00"
+    },
+    {
+     "title": "Japanische Nudelkette Yudetaro schafft Kundendatenbank wegen Risiken ab",
+     "summary": "Die japanische Restaurantkette Yudetaro hat beschlossen, ihr langjähriges Treueprogramm mit rund 4.000 Mitgliedern einzustellen, um jegliche Risiken im Zusammenhang mit Datenschutzverletzungen auszuschließen.",
+     "category": "Sicherheit",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "ITmedia All News",
+     "url": "https://www.itmedia.co.jp/news/article/2611/28/2000003529/",
+     "time": "2026-11-28T10:00:00+09:00"
+    },
+    {
+     "title": "Japanische Supermarktkette Lawson entwickelt Produkte mithilfe von KI",
+     "summary": "Die Convenience-Store-Kette Lawson hat neue Snacks auf Basis unkonventioneller Konzepte entwickelt, die von generativer künstlicher Intelligenz ohne Rückgriff auf historische Verkaufsdaten erstellt wurden.",
+     "category": "Künstliche Intelligenz",
+     "topic": "teknoloji",
+     "importance": 1,
+     "source": "ITmedia All News",
+     "url": "https://www.itmedia.co.jp/business/articles/2611/28/news003.html",
+     "time": "2026-11-28T05:30:00+09:00"
+    },
+    {
+     "title": "Japanische Baseball-Stars Teruaki Sato und Kaima Taira wechseln in die MLB",
+     "summary": "Der frühere Hanshin-Spieler Teruaki Sato hat einen Sechsjahresvertrag bei den Chicago Cubs unterzeichnet, während Pitcher Kaima Taira für fünf Jahre zu den Toronto Blue Jays wechselt.",
+     "category": "Baseball",
+     "topic": "spor",
+     "importance": 3,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82844",
+     "time": "2026-11-28T08:31:00+09:00"
+    },
+    {
+     "title": "Ilia Malinin gewinnt NHK-Trophy im Eiskunstlauf, Mone Chiba auf Platz zwei",
+     "summary": "Beim Grand-Prix-Finale der Eiskunstläufer in Tokio sicherte sich der US-Amerikaner Ilia Malinin den Sieg bei den Herren. Die Japanerin Mone Chiba belegte im Damen-Wettbewerb den zweiten Platz.",
+     "category": "Eiskunstlauf",
+     "topic": "spor",
+     "importance": 2,
+     "source": "NHK News",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82900",
+     "time": "2026-11-28T23:37:27+09:00"
+    },
+    {
+     "title": "Pitcher Kosei Takahashi wechselt zu den Arizona Diamondbacks",
+     "summary": "Der japanische Baseballspieler Kosei Takahashi hat sich laut US-Medienberichten auf einen Einjahresvertrag mit dem MLB-Club Arizona Diamondbacks geeinigt.",
+     "category": "Baseball",
+     "topic": "spor",
+     "importance": 2,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82839",
+     "time": "2026-11-28T08:37:00+09:00"
+    },
+    {
+     "title": "Kashiwa Reysol klettert in der J1 League auf den zweiten Platz",
+     "summary": "Durch einen Sieg im Spitzenspiel gegen Sanfrecce Hiroshima hat sich Kashiwa Reysol am 17. Spieltag der japanischen Fußball-Liga auf den zweiten Tabellenplatz verbessert.",
+     "category": "Fußball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de83043",
+     "time": "2026-11-28T19:30:32+09:00"
+    },
+    {
+     "title": "Rui Hachimura erzielt 14 Punkte bei Niederlage der Clippers",
+     "summary": "In der nordamerikanischen Basketball-Profiliga NBA steuerte Rui Hachimura 14 Punkte für die Clippers bei, die jedoch eine knappe Niederlage gegen die Pelicans hinnehmen mussten.",
+     "category": "Basketball",
+     "topic": "spor",
+     "importance": 1,
+     "source": "NHK Sports",
+     "url": "https://news.web.nhk/newsweb/na/nd-20261128de82995",
+     "time": "2026-11-28T17:33:39+09:00"
+    },
+    {
+     "title": "Takuya Nagase gewinnt Herausforderungsrecht im Shogi-Titelkampf",
+     "summary": "Im traditionellen japanischen Brettspiel Shogi hat sich Takuya Nagase den Platz des Herausforderers gesichert und kündigte an, den Titelträger Sota Fujii herauszufordern.",
+     "category": "Shogi",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCW3FHTVCWUCVL02RM.html?ref=rows",
+     "time": "2026-11-27T19:30:10+09:00"
+    },
+    {
+     "title": "Traditionelle 'Manekiage'-Zeremonie läutet Theater-Saison in Kyoto ein",
+     "summary": "Am Minamiza-Theater in Kyoto wurden 61 traditionelle Holztafeln mit den Namen der Kabuki-Darsteller für die bevorstehenden Aufführungen im Dezember angebracht.",
+     "category": "Theater",
+     "topic": "kultur",
+     "importance": 2,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCW30WZVCWPLZB002M.html?ref=rows",
+     "time": "2026-11-27T19:15:00+09:00"
+    },
+    {
+     "title": "Autor Naoki Matayoshi diskutiert über menschliche Rolle im KI-Zeitalter",
+     "summary": "In einer TV-Sendungsreihe beleuchtet der Autor Naoki Matayoshi gemeinsam mit Experten die Frage, welche Bedeutung der Mensch in einer zunehmend von künstlicher Intelligenz geprägten Arbeitswelt behält.",
+     "category": "Medien",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCV7X32VCVUCVL004M.html?ref=rows",
+     "time": "2026-11-28T11:00:00+09:00"
+    },
+    {
+     "title": "Grammy-Nominierungen werfen Fragen zur neuen Asien-Kategorie auf",
+     "summary": "Während die japanische Band Babymetal nominiert wurde, sorgt das Fehlen anderer großer Acts bei den Grammy Awards für Diskussionen über die Struktur und Kriterien der neuen regionalen Kategorien.",
+     "category": "Musik",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCS1CWYVCSUCVL00TM.html?ref=rows",
+     "time": "2026-11-28T07:00:00+09:00"
+    },
+    {
+     "title": "Fotoausstellung bringt die Geschichte der Minamata-Krankheit näher",
+     "summary": "Aus einer Sammlung von rund hundert historischen Aufnahmen wurde eine Fotoausstellung zusammengestellt, um den Besuchern die tragischen Folgen der Minamata-Krankheit und das Gedenken näherzubringen.",
+     "category": "Ausstellung",
+     "topic": "kultur",
+     "importance": 1,
+     "source": "Asahi Shimbun Culture",
+     "url": "https://www.asahi.com/articles/ASVCN3CYBVCNUTIL00CM.html?ref=rows",
+     "time": "2026-11-28T06:00:00+09:00"
     }
    ]
   }
