@@ -1,8 +1,28 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-28T00:21+01:00",
+ "updatedAt": "2026-11-28T01:21+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-27T23:34:55+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+    "importance": 1,
+    "text": {
+     "tr": "İngiltere Eğitim Bakanı, ulusal müfredat reformları kapsamında ilkokullarda öğrencilere okuma zamanı ayrılacağını duyuracak.",
+     "de": "Die britische Bildungsministerin wird voraussichtlich ankündigen, dass Schulen in England feste Lesezeiten für Schüler einrichten müssen."
+    }
+   },
+   {
+    "time": "2026-11-27T23:28:50+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "importance": 2,
+    "text": {
+     "tr": "OpenAI, ticari sırlarını çaldığı ve donanım tedarikçilerini baskı altında tuttuğu iddiasıyla Apple'a karşı dava açtı.",
+     "de": "OpenAI hat Apple in den USA verklagt und wirft dem Unternehmen vor, Geschäftsgeheimnisse gestohlen und Lieferanten unter Druck gesetzt zu haben."
+    }
+   },
    {
     "time": "2026-11-27T21:09:12+00:00",
     "source": "France 24",
@@ -11,26 +31,6 @@
     "text": {
      "tr": "Ukrayna, gıda ihracatını yeniden başlatmak amacıyla Karadeniz'de ateşkes teklifini müttefiklerine iletti ve Rusya'nın yanıtını bekliyor.",
      "de": "Die Ukraine hat den Verbündeten einen Vorschlag für einen Waffenstillstand im Schwarzen Meer zur Getreideausfuhr übermittelt und wartet auf Moskau."
-    }
-   },
-   {
-    "time": "2026-11-27T20:09:09+00:00",
-    "source": "BBC News World",
-    "url": "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
-    "importance": 2,
-    "text": {
-     "tr": "İspanya Başbakanı Pedro Sánchez, yaklaşan seçimler öncesinde seçmenlerden destek mitingleriyle oy istedi.",
-     "de": "Der spanische Ministerpräsident Pedro Sánchez warb bei Kundgebungen vor den bevorstehenden Wahlen um die Unterstützung der Wähler."
-    }
-   },
-   {
-    "time": "2026-11-27T19:48:22+01:00",
-    "source": "Euronews",
-    "url": "https://www.euronews.com/2026/11/27/estonia-will-close-border-with-russia-to-secure-europe-foreign-minister-says-during-baku-v",
-    "importance": 2,
-    "text": {
-     "tr": "Estonya Dışişleri Bakanı Margus Tsahkna, Avrupa'nın güvenliği için Rusya sınırının 1 Aralık'ta kapatılacağını açıkladı.",
-     "de": "Estland wird seine Grenze zu Russland am 1. Dezember schließen, um Europa zu sichern, wie Außenminister Margus Tsahkna mitteilte."
     }
    },
    {
@@ -56,6 +56,36 @@
   ],
   "de": [
    {
+    "time": "2026-11-28T00:35:35+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+    "importance": 2,
+    "text": {
+     "tr": "Alman kabinesi, ocak ayında yürürlüğe girmesi planlanan akaryakıt fiyatı tavanı tasarıcısını çarşamba günü görüşecek.",
+     "de": "Das Bundeskabinett will am Mittwoch über einen Entwurf für einen Spritpreisdeckel abstimmen, der ab Januar gelten soll."
+    }
+   },
+   {
+    "time": "2026-11-28T00:10:00+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/wirtschaft/plus6b0974086a4ea151d91c25ae/regierungsbilanz-industrie-gibt-schwarz-roter-wirtschaftspolitik-ein-mangelhaft.html",
+    "importance": 1,
+    "text": {
+     "tr": "Sanayi kuruluşları, bir DIHK anketine göre Friedrich Merz hükümetinin ekonomi politikasına 'zayıf' notu verdi.",
+     "de": "Industrieunternehmen haben der Wirtschaftspolitik der Regierung von Friedrich Merz laut einer DIHK-Umfrage die Note mangelhaft gegeben."
+    }
+   },
+   {
+    "time": "2026-11-28T00:05:23+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/wirtschaft/article6b096c526a4ea151d91c24cd/vw-tochter-traton-man-garantiert-jobs-bis-2035-trotz-spardruck-aus-wolfsburg.html",
+    "importance": 1,
+    "text": {
+     "tr": "Lojistik şirketi MAN, Wolfsburg'dan gelen baskılara rağmen Almanya'da 2035 yılına kadar iş garantisi verdiğini açıkladı.",
+     "de": "MAN hat seinen Mitarbeitern trotz Spardruck aus Wolfsburg Arbeitsplätze bis 2035 garantiert und investiert fast eine Milliarde Euro."
+    }
+   },
+   {
     "time": "2026-11-27T23:46:00+01:00",
     "source": "Der Spiegel",
     "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
@@ -73,36 +103,6 @@
     "text": {
      "tr": "Almanya Çalışma Bakanı Alexander Schweitzer, yeni emeklilik reformu planlarının parti içinde ve kamuoyunda uzlaşma sağlayabileceğini söyledi.",
      "de": "Bundesarbeitsminister Alexander Schweitzer bezeichnete seine Pläne für die Rentenreform als Grundlage für einen Konsens."
-    }
-   },
-   {
-    "time": "2026-11-27T20:59:37+00:00",
-    "source": "FAZ Nachrichten",
-    "url": "https://www.faz.net/aktuell/sport/mehr-sport/andreas-obst-fuehrt-dbb-team-zur-wm-qualifikation-in-lettland-201725074.html",
-    "importance": 2,
-    "text": {
-     "tr": "Almanya Basketbol Milli Takımı, deplasmanda Letonya'yı yenerek dünya şampiyonasına katılmaya hak kazandı.",
-     "de": "Die deutsche Basketball-Nationalmannschaft hat sich mit einem Sieg in Lettland für die Weltmeisterschaft qualifiziert."
-    }
-   },
-   {
-    "time": "2026-11-27T20:01:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/spanien-mindestens-acht-tote-auf-fluechtlingsboot-vor-el-hierro-a-cfe8e9a9-1634-409e-9390-970de196082f#ref=rss",
-    "importance": 2,
-    "text": {
-     "tr": "İspanya'nın El Hierro adası açıklarında bir göçmen teknesinde en az 8 kişi yaşamını yitirdi, yaklaşık 100 kişi kurtarıldı.",
-     "de": "Vor der Kanareninsel El Hierro sind mindestens acht Menschen auf einem Flüchtlingsboot ums Leben gekommen, rund 100 wurden gerettet."
-    }
-   },
-   {
-    "time": "2026-11-27T17:47:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/ausland/el-nino-uno-warnt-vor-verschaerfung-der-globalen-hungerkrise-a-717ca946-4e3d-42d0-930c-0275b5ebecdb#ref=rss",
-    "importance": 2,
-    "text": {
-     "tr": "Birleşmiş Milletler, El Niño hava olayının küresel açlık krizini şiddetlendireceği konusunda uyarıda bulunarak 16 açlık merkezine dikkat çekti.",
-     "de": "Die Vereinten Nationen warnen vor den Auswirkungen des Wetterphänomens El Niño, das die globale Hungerkrise in 16 Brennpunkten verschärft."
     }
    }
   ],
@@ -161,6 +161,26 @@
  },
  "archive": {
   "world": [
+   {
+    "time": "2026-11-27T23:34:55+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
+    "importance": 1,
+    "text": {
+     "tr": "İngiltere Eğitim Bakanı, ulusal müfredat reformları kapsamında ilkokullarda öğrencilere okuma zamanı ayrılacağını duyuracak.",
+     "de": "Die britische Bildungsministerin wird voraussichtlich ankündigen, dass Schulen in England feste Lesezeiten für Schüler einrichten müssen."
+    }
+   },
+   {
+    "time": "2026-11-27T23:28:50+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
+    "importance": 2,
+    "text": {
+     "tr": "OpenAI, ticari sırlarını çaldığı ve donanım tedarikçilerini baskı altında tuttuğu iddiasıyla Apple'a karşı dava açtı.",
+     "de": "OpenAI hat Apple in den USA verklagt und wirft dem Unternehmen vor, Geschäftsgeheimnisse gestohlen und Lieferanten unter Druck gesetzt zu haben."
+    }
+   },
    {
     "time": "2026-11-27T21:09:12+00:00",
     "source": "France 24",
@@ -518,6 +538,36 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-28T00:35:35+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
+    "importance": 2,
+    "text": {
+     "tr": "Alman kabinesi, ocak ayında yürürlüğe girmesi planlanan akaryakıt fiyatı tavanı tasarıcısını çarşamba günü görüşecek.",
+     "de": "Das Bundeskabinett will am Mittwoch über einen Entwurf für einen Spritpreisdeckel abstimmen, der ab Januar gelten soll."
+    }
+   },
+   {
+    "time": "2026-11-28T00:10:00+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/wirtschaft/plus6b0974086a4ea151d91c25ae/regierungsbilanz-industrie-gibt-schwarz-roter-wirtschaftspolitik-ein-mangelhaft.html",
+    "importance": 1,
+    "text": {
+     "tr": "Sanayi kuruluşları, bir DIHK anketine göre Friedrich Merz hükümetinin ekonomi politikasına 'zayıf' notu verdi.",
+     "de": "Industrieunternehmen haben der Wirtschaftspolitik der Regierung von Friedrich Merz laut einer DIHK-Umfrage die Note mangelhaft gegeben."
+    }
+   },
+   {
+    "time": "2026-11-28T00:05:23+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/wirtschaft/article6b096c526a4ea151d91c24cd/vw-tochter-traton-man-garantiert-jobs-bis-2035-trotz-spardruck-aus-wolfsburg.html",
+    "importance": 1,
+    "text": {
+     "tr": "Lojistik şirketi MAN, Wolfsburg'dan gelen baskılara rağmen Almanya'da 2035 yılına kadar iş garantisi verdiğini açıkladı.",
+     "de": "MAN hat seinen Mitarbeitern trotz Spardruck aus Wolfsburg Arbeitsplätze bis 2035 garantiert und investiert fast eine Milliarde Euro."
+    }
+   },
    {
     "time": "2026-11-27T23:46:00+01:00",
     "source": "Der Spiegel",
@@ -1179,6 +1229,7 @@
   "https://www.bbc.co.uk/news/articles/cmy49de4xx1zo",
   "https://www.bbc.co.uk/news/articles/cq3dgpy9lem3o",
   "https://www.bbc.co.uk/news/articles/cq4gnj2ldkyzo",
+  "https://www.bbc.co.uk/news/articles/cr9309nyg2vno",
   "https://www.bbc.co.uk/news/articles/cre3dj5n7dpwo",
   "https://www.bbc.co.uk/news/articles/crkgvjy7q83wo",
   "https://www.bbc.co.uk/news/articles/crx209ekq5xdo",
@@ -1879,6 +1930,7 @@
   "https://www.tagesschau.de/inland/innenpolitik/haushalt-2027-ueberblick-102.html",
   "https://www.tagesschau.de/inland/innenpolitik/rentenreform-entwurf-arbeitsministerium-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
+  "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
   "https://www.tagesschau.de/inland/innenpolitik/zentralrat-der-juden-kritik-afd-100.html",
   "https://www.tagesschau.de/inland/rentenplaene-reaktionen-100.html",
   "https://www.tagesschau.de/kommentar/rentenplaene-schweitzer-100.html",
@@ -1905,6 +1957,7 @@
   "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
   "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
   "https://www.theguardian.com/business/2026/nov/27/norse-atlantic-airways-files-for-bankruptcy-cancels-all-future-flights",
+  "https://www.theguardian.com/education/2026/nov/27/schools-in-england-must-set-aside-time-for-pupils-to-read-for-pleasure",
   "https://www.theguardian.com/environment/2026/nov/27/natural-england-objected-datacentre-ministers-abolish-bristol",
   "https://www.theguardian.com/environment/2026/nov/27/wa-police-investigating-after-iconic-500-year-old-king-jarrah-tree-chainsawed-in-national-park",
   "https://www.theguardian.com/food/2026/nov/27/britain-cows-milk-sales-record-low-oat-almond",
@@ -1920,6 +1973,7 @@
   "https://www.theguardian.com/stage/2026/nov/27/play-12-year-old-ecojustice-influencer-wins-shakespeares-globe-prize",
   "https://www.theguardian.com/technology/2026/nov/27/hackers-breach-us-air-force-cloud-computing",
   "https://www.theguardian.com/technology/2026/nov/27/meta-whistleblower-sarah-wynn-williams-calls-on-burnham-to-go-further-with-ban-on-non-disclosure-agreements",
+  "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
   "https://www.theguardian.com/technology/2026/nov/27/the-com-global-cybercrime-network-posing-chilling-threat-to-children",
   "https://www.theguardian.com/uk-news/2026/nov/27/catherine-princess-of-wales-heal-documentary-cancer",
   "https://www.theguardian.com/uk-news/2026/nov/27/charity-set-up-by-captain-tom-moores-family-applies-to-be-struck-off",
@@ -1937,6 +1991,7 @@
   "https://www.theguardian.com/us-news/2026/nov/27/jared-kushner-interview-peril-putin-corporate-rival",
   "https://www.theguardian.com/us-news/2026/nov/27/king-tides-us-coasts-storms-threaten-thanksgiving-celebrations",
   "https://www.theguardian.com/us-news/2026/nov/27/newly-released-documents-cia-waterboarding-9-11",
+  "https://www.theguardian.com/us-news/2026/nov/27/purse-found-woman-california-beach-wave",
   "https://www.theguardian.com/us-news/2026/nov/27/thanksgiving-meal-florida-mass-casualty-food-poisoning",
   "https://www.theguardian.com/world/2026/nov/27/at-critical-juncture-friedrich-merz-finds-germans-support-for-ukraine-wavering",
   "https://www.theguardian.com/world/2026/nov/27/belgian-authorities-order-google-to-halt-datacentre-construction-over-lack-of-permits",
@@ -2012,11 +2067,15 @@
   "https://www.welt.de/videos/video6b09bdd445ef2a8affbeee8b/taz-bezeichnet-aiwanger-als-faschisten-man-sollte-echt-mal-den-ball-flach-halten-absolut-unmenschlich.html",
   "https://www.welt.de/wirtschaft/article6b0944873902428a0b42932c/tanken-autofahrern-droht-im-neuen-jahr-ein-empfindlicher-preisschock.html",
   "https://www.welt.de/wirtschaft/article6b09666f6a4ea151d91c241d/herr-bundeskanzler-wir-verpfaenden-die-zukunft-unserer-kinder-schreibt-diese-mittelstaendlerin.html",
+  "https://www.welt.de/wirtschaft/article6b096c526a4ea151d91c24cd/vw-tochter-traton-man-garantiert-jobs-bis-2035-trotz-spardruck-aus-wolfsburg.html",
+  "https://www.welt.de/wirtschaft/article6b098c2783a96bc174605441/oeffentliche-ausschreibungen-deutschland-zahlt-doch-beim-ukraine-wiederaufbau-drohen-deutsche-firmen-leer-auszugehen.html",
+  "https://www.welt.de/wirtschaft/article6b099f26741a4ef94784a295/umfrage-arbeitgeber-warnen-vor-reform-der-minijobs.html",
   "https://www.welt.de/wirtschaft/plus6b0190f039a3e8110f0e54f1/bueroarbeit-am-rande-eines-nervenzusammenbruchs-der-fluch-der-vermeintlichen-ki-effizienz.html",
   "https://www.welt.de/wirtschaft/plus6b030d7d5842ff528b9e4070/die-methode-byd-chinas-neue-elektro-premiere-alarmiert-airbus-und-boeing.html",
   "https://www.welt.de/wirtschaft/plus6b070edfd4a4a3142c573a17/jusos-die-naechste-wirre-idee-aus-der-sozialistischen-mottenkiste.html",
   "https://www.welt.de/wirtschaft/plus6b093e644f5d4fcd0acd2c1f/autohaendler-ermittlungen-beim-autohaus-koenig-und-eine-bange-frage-der-mitarbeiter.html",
   "https://www.welt.de/wirtschaft/plus6b095df846039c5f0be5c2c4/ruestungsindustrie-wir-verkaufen-unser-know-how-die-schattenseite-des-ruestungsbooms-im-mittelstand.html",
+  "https://www.welt.de/wirtschaft/plus6b0974086a4ea151d91c25ae/regierungsbilanz-industrie-gibt-schwarz-roter-wirtschaftspolitik-ein-mangelhaft.html",
   "https://www.welt.de/wirtschaft/plus6b097e476a4ea151d91c26e8/kapitalmarkttag-kaufen-oder-warten-dieser-deal-entscheidet-ueber-die-zukunft-der-rheinmetall-aktie.html",
   "https://www.welt.de/wirtschaft/plus6b097e476a4ea151d91c26e8/kapitalmarkttag-rheinmetall-nach-dem-absturz-das-spricht-jetzt-fuer-ein-fulminantes-comeback-der-aktie.html",
   "https://www.welt.de/wissenschaft/article6b07ffc61d0c4f9ebad704ec/krebs-forscher-entwickeln-nanoroboter-die-medikamente-direkt-ins-gehirn-liefern.html",
