@@ -1,6 +1,6 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-28T02:21+01:00",
+ "updatedAt": "2026-11-28T03:21+01:00",
  "countries": {
   "world": [
    {
@@ -56,6 +56,16 @@
   ],
   "de": [
    {
+    "time": "2026-11-28T02:41:50+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+    "importance": 2,
+    "text": {
+     "tr": "Fransa'da Rassemblement National parti merkezinde ve Le Pen'in eski büro şefinin evinde arama yapıldı.",
+     "de": "In Frankreich wurden die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Le Pen durchsucht."
+    }
+   },
+   {
     "time": "2026-11-28T00:54:06+00:00",
     "source": "Die Welt",
     "url": "https://www.welt.de/politik/ausland/article6b0a23aa741a4ef94784ae66/ukraine-krieg-ukraine-gelingt-abschuss-einer-russischen-drohne-mit-einem-lasersystem.html",
@@ -93,16 +103,6 @@
     "text": {
      "tr": "Sanayi kuruluşları, bir DIHK anketine göre Friedrich Merz hükümetinin ekonomi politikasına 'zayıf' notu verdi.",
      "de": "Industrieunternehmen haben der Wirtschaftspolitik der Regierung von Friedrich Merz laut einer DIHK-Umfrage die Note mangelhaft gegeben."
-    }
-   },
-   {
-    "time": "2026-11-28T00:05:23+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/wirtschaft/article6b096c526a4ea151d91c24cd/vw-tochter-traton-man-garantiert-jobs-bis-2035-trotz-spardruck-aus-wolfsburg.html",
-    "importance": 1,
-    "text": {
-     "tr": "Lojistik şirketi MAN, Wolfsburg'dan gelen baskılara rağmen Almanya'da 2035 yılına kadar iş garantisi verdiğini açıkladı.",
-     "de": "MAN hat seinen Mitarbeitern trotz Spardruck aus Wolfsburg Arbeitsplätze bis 2035 garantiert und investiert fast eine Milliarde Euro."
     }
    }
   ],
@@ -548,6 +548,16 @@
    }
   ],
   "de": [
+   {
+    "time": "2026-11-28T02:41:50+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
+    "importance": 2,
+    "text": {
+     "tr": "Fransa'da Rassemblement National parti merkezinde ve Le Pen'in eski büro şefinin evinde arama yapıldı.",
+     "de": "In Frankreich wurden die Parteizentrale des Rassemblement National und die Wohnung des früheren Bürochefs von Le Pen durchsucht."
+    }
+   },
    {
     "time": "2026-11-28T00:54:06+00:00",
     "source": "Die Welt",
@@ -1253,6 +1263,7 @@
   "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo",
   "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
   "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
+  "https://www.bbc.co.uk/news/articles/cm3vg3lkrk03o",
   "https://www.bbc.co.uk/news/articles/cm5y1380q3vgo",
   "https://www.bbc.co.uk/news/articles/cm879e5yxjq5o",
   "https://www.bbc.co.uk/news/articles/cme3d4y094x7o",
@@ -1789,6 +1800,7 @@
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/tarifverhandlungen-metallbranche-in-hessen-duerfte-pilotabschluss-uebernehmen-accg-201722478.html",
   "https://www.faz.net/aktuell/rhein-main/wirtschaft/umschuldung-wann-ein-neuer-kredit-wirklich-zinsen-spart-accg-201687893.html",
   "https://www.faz.net/aktuell/spiele/news-quiz/news-quiz-der-woche-testen-sie-ihr-wissen-heute-welche-hollywoodstars-kommen-zu-wetten-dass-faz-accg-201722845.html",
+  "https://www.faz.net/aktuell/sport/formel-1/formel-1-pilot-hadjar-faehrt-in-katar-mechaniker-an-accg-201725283.html",
   "https://www.faz.net/aktuell/sport/formel-1/motorsport/motorrad-champion-marc-marquez-tritt-zurueck-accg-201723119.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/2-liga-1-fc-nuernberg-verliert-auch-in-heidenheim-201304614.html",
   "https://www.faz.net/aktuell/sport/fussball/bundesliga/bundesliga-niclas-fuellkrug-rettet-werder-bremen-gegen-gladbach-in-der-nachspielzeit-201304506.html",
@@ -1961,6 +1973,7 @@
   "https://www.tagesschau.de/ausland/asien/taliban-polizistin-100.html",
   "https://www.tagesschau.de/ausland/asien/westjordanland-gewalt-100.html",
   "https://www.tagesschau.de/ausland/europa/eu-haushalt-gipfel-analyse-100.html",
+  "https://www.tagesschau.de/ausland/europa/frankreich-durchsuchung-ex-mitarbeiter-le-pen-100.html",
   "https://www.tagesschau.de/ausland/europa/serbien-praesidentschaftswahl-professor-100.html",
   "https://www.tagesschau.de/ausland/europa/spanien-wahl-volkspartei-100.html",
   "https://www.tagesschau.de/ausland/europa/tankerunglueck-ibiza-vorsichtige-entwarnung-100.html",
@@ -2094,10 +2107,12 @@
   "https://www.welt.de/politik/deutschland/plus6b07f66809772de37184f266/aufwuchs-der-bundeswehr-massives-fuehrungsversagen-aerger-ueber-den-umbau-der-bundeswehrverwaltung.html",
   "https://www.welt.de/politik/deutschland/plus6b07f66809772de37184f266/aufwuchs-der-bundeswehr-verschlusssache-verteidigungsaufstellung.html",
   "https://www.welt.de/politik/deutschland/plus6b08bd6709772de371850aa6/oeffentlich-rechtlicher-rundfunk-medienpolitische-notwehr-oder-taschenspielertrick-neue-rundfunk-regel-loest-kontroverse-aus.html",
+  "https://www.welt.de/politik/deutschland/plus6b092acd46039c5f0be5bc71/jean-luc-melenchon-heimspiel-fuer-den-deutschlandhasser.html",
   "https://www.welt.de/politik/deutschland/plus6b093dfd4f5d4fcd0acd2c16/streit-ueber-rentenreform-was-jetzt-beginnt-koennte-auf-einen-epischen-konflikt-hinauslaufen.html",
   "https://www.welt.de/politik/deutschland/plus6b093dfd4f5d4fcd0acd2c16/streit-ueber-rentenreform-was-nun-beginnt-koennte-die-koalition-in-den-naechsten-tagen-an-den-abgrund-bringen.html",
   "https://www.welt.de/politik/deutschland/video6b08792e09772de3718505ef/wahl-in-sachsen-anhalt-das-ganze-ist-eigentlich-eine-klamotte-die-anti-afd-koalition-hat-nichts-anzubieten.html",
   "https://www.welt.de/sport/article6b09835e741a4ef947849eab/eiskunstlauf-druck-beiseite-geschoben-malinin-verzueckt-mit-weltrekord.html",
+  "https://www.welt.de/sport/article6b0a343e741a4ef94784ae9a/bronson-reed-wrestling-star-stirbt-mit-38-jahren-an-den-folgen-seiner-kampf-verletzungen.html",
   "https://www.welt.de/sport/fussball/article6b092d2546039c5f0be5bca8/ingvar-jonsson-37-in-armen-seiner-lieben-verstorben-er-gehoerte-zu-islands-em-kultteam.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b092e4609772de371850e54/fc-bayern-fall-musiala-kahn-kritisiert-die-bosse-und-manuel-neuer.html",
   "https://www.welt.de/sport/fussball/bundesliga/article6b0989826a4ea151d91c2886/fc-bayern-naechster-rueckschlag-musiala-faellt-bis-auf-weiteres-aus.html",
