@@ -556,7 +556,7 @@ function renderDesk(code, data){
   const chosen = tabs.filter(tp => want.includes(tp));
   const shown = available.length ? items.filter(it => chosen.includes(it.topic)) : items;
   const head = el("div", "desk-head");
-  head.append(flag(code), el("h2", null, countryName(code)), el("span", "count", t().stories(shown.length)));
+  head.append(flag(code), el("h2", null, countryName(code)), el("span", "count", shown.length ? t().stories(shown.length) : ""));
   sec.append(head);
   {
     const row = el("div", "tchips"); row.setAttribute("role", "group"); row.setAttribute("aria-label", t().topicsLabel);
