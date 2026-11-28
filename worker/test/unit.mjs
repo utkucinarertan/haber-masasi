@@ -9,7 +9,8 @@ class MemKV {
   async delete(k){ this.m.delete(k); }
   async list({prefix, cursor}){ return {keys: [...this.m.keys()].filter(k => k.startsWith(prefix)).map(name => ({name})), list_complete: true}; }
 }
-const env = {TOPICS: new MemKV(), DATA_BASE: "https://utkucinarertan.github.io/haber-masasi/data/", MOCK_GEMINI: "1"};
+const env = {TOPICS: new MemKV(), DATA_BASE: "https://www.newsbyfocus.com/data/", MOCK_GEMINI: "1",
+  mock: (system, user) => ({strings: JSON.parse(user).strings.map(s => s && "[ç] " + s)})};
 const waits = [];
 const ctx = {waitUntil: p => waits.push(p)};
 const call = async qs => { const r = await worker.fetch(new Request("https://x/topic?" + qs), env, ctx); await Promise.all(waits); return [r.status, await r.json()]; };
@@ -39,6 +40,28 @@ assert.equal(st, 200); assert.equal(d.items.length, 0);
 const reg = await env.TOPICS.get("reg:default:tr:besiktas", "json");
 console.log("kayıt:", reg);
 assert.deepEqual(reg.langs.sort(), ["de", "tr"]);
+
+// dil denetimi
+import {wrongLanguageText} from "../src/llm.js";
+assert.ok(wrongLanguageText("Gözaltına alınan taraftarlar serbest bırakıldı ve UEFA soruşturma açtı", "de"));
+assert.ok(!wrongLanguageText("Festgenommene Fans wurden freigelassen, und die UEFA hat eine Untersuchung eingeleitet", "de"));
+assert.ok(wrongLanguageText("UEFA opens an investigation into the match after the incidents", "zh"));
+assert.ok(!wrongLanguageText("欧足联对比赛中发生的事件展开调查，十六名球迷获释", "zh"));
+assert.ok(!wrongLanguageText("الاتحاد الأوروبي لكرة القدم يفتح تحقيقا في أحداث المباراة", "ar"));
+assert.ok(!wrongLanguageText("La UEFA abre una investigación por los incidentes del partido con los aficionados", "es"));
+
+// çeviri (taklit LLM): baskı ve son dakika
+const tr1 = await worker.fetch(new Request("https://x/translate?kind=edition&lang=es&c=tr&date=" + (await (await fetch(env.DATA_BASE + "index.json")).json()).editions[0].date), env, ctx);
+const ed = await tr1.json(); assert.equal(tr1.status, 200);
+assert.equal(ed.lang, "es"); assert.ok(ed.countries[0].items[0].title.startsWith("[ç] ")); console.log("çeviri:", ed.countries[0].items[0].title.slice(0, 60));
+const fl = await (await worker.fetch(new Request("https://x/translate?kind=flash&lang=fr&c=tr,de"), env, ctx)).json();
+console.log("son dakika çevirisi:", Object.keys(fl.countries), (Object.values(fl.countries)[0] || [])[0]?.text?.fr?.slice(0, 50));
+const wr = env.TOPICS.writes;
+await worker.fetch(new Request("https://x/translate?kind=flash&lang=fr&c=tr,de"), env, ctx);
+assert.equal(env.TOPICS.writes, wr, "aynı son dakika ikinci kez çevrilmemeli");
+// hazırlık: GitHub anahtarı yoksa 503, geçersiz ülke 400
+assert.equal((await worker.fetch(new Request("https://x/prepare?c=jp"), env, ctx)).status, 503);
+assert.equal((await worker.fetch(new Request("https://x/prepare?c=xx"), env, ctx)).status, 400);
 
 // sabah yenilemesi: bugünkü özetler varken bir şey yapmaz; eskiyince yeniler
 let n = await refresh(env); assert.equal(n, 0);

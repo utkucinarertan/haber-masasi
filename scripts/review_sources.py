@@ -38,7 +38,7 @@ SCHEMA = {"type": "object", "properties": {
     "suggestions": {"type": "array", "items": {"type": "object", "properties": {
         "name": {"type": "string"}, "url": {"type": "string"}, "language": {"type": "string"},
         "use": {"type": "string", "enum": ["daily", "flash", "both"]}, "reason": {"type": "string"},
-        "topic": {"type": "string", "enum": ["general", "ekonomi", "teknoloji", "spor"]},},
+        "topic": {"type": "string", "enum": ["general", "ekonomi", "teknoloji", "spor", "kultur"]},},
         "required": ["name", "url", "use", "reason"]}},
     "avoid": {"type": "array", "items": {"type": "object", "properties": {
         "domain": {"type": "string"}, "reason": {"type": "string"}}, "required": ["domain", "reason"]}}},
@@ -55,7 +55,7 @@ def prompt(country, feeds, blocked, today, topics="ekonomi, teknoloji, spor"):
 Goal: the app must only use editorially independent, reputable news outlets. An outlet is NOT acceptable if, as of today, it is state-controlled or government-aligned media, has had a court- or government-appointed trustee/administrator (e.g. "kayyum") placed over it, has been taken over by owners who turned it into a government mouthpiece, or has closed. Public service broadcasters with independent governance (e.g. ARD/tagesschau, ZDF, BBC, DW) are acceptable; state broadcasters and agencies under government control (e.g. TRT, Anadolu Ajansı) are not. Prefer outlets across the independent spectrum, not one political camp. Source origin rule: for a country, use only that country's own outlets plus international broadcasters (BBC, DW, Euronews, France 24, Guardian, etc.) and their feeds for that country or region - never a national outlet of a different country (e.g. no Turkish outlet for Germany, no German outlet for Türkiye). For "World" use only global/international outlets (BBC World, DW, Guardian, France 24, Euronews, NPR, etc.), never a single country's national outlet. Current feeds that break this rule: keep=false.
 
 1. current: for each feed below decide keep=true/false with a short reason (in Turkish).
-2. suggestions: up to 10 additional feeds from independent outlets covering {country} (prefer the country's own language; dedicated Turkish/German/English services of independent international broadcasters are welcome). Give exact, real https RSS/Atom URLs you are confident exist. use: "flash" for fast latest/breaking feeds, "daily" for curated top-story feeds, "both" for main feeds. topic: "general" for main news feeds, or "ekonomi", "teknoloji", "spor" for feeds dedicated to economy, technology/science or sport (use "daily" for those). The app needs at least two working dedicated feeds per enabled topic ({topics}); fill missing topics first. reason in Turkish.
+2. suggestions: up to 10 additional feeds from independent outlets covering {country} (prefer the country's own language; dedicated Turkish/German/English services of independent international broadcasters are welcome). Give exact, real https RSS/Atom URLs you are confident exist. use: "flash" for fast latest/breaking feeds, "daily" for curated top-story feeds, "both" for main feeds. topic: "general" for main news feeds, or "ekonomi", "teknoloji", "spor", "kultur" for feeds dedicated to economy, technology/science, sport or culture/arts (use "daily" for those). The app needs at least two working dedicated feeds per enabled topic ({topics}); fill missing topics first. reason in Turkish.
 3. avoid: domains (e.g. example.com) of well-known outlets for {country} that must not be used because they are not independent as of today, with a short Turkish reason.
 
 Never suggest these blocked domains: {", ".join(blocked) or "-"}
@@ -121,7 +121,7 @@ def review_country(country, blocked, today, since):
         have.add(url)
         f = {"name": str(s.get("name") or domain(url))[:60], "url": url,
              "use": s.get("use") if s.get("use") in ("daily", "flash", "both") else "both"}
-        if s.get("topic") in ("ekonomi", "teknoloji", "spor"):
+        if s.get("topic") in ("ekonomi", "teknoloji", "spor", "kultur"):
             f["topic"] = s["topic"]
         if works(f["name"], url, since):
             kept.append(f)
@@ -157,7 +157,8 @@ def review_profile():
     now = datetime.now(bn.zone(cfg))
     last = cfg.get("sourcesReviewedAt")
     forced = "--force" in sys.argv or os.environ.get("GITHUB_EVENT_NAME") == "workflow_dispatch"
-    if last and not forced and now - datetime.fromisoformat(last) < EVERY:
+    every = timedelta(days=max(1, int(cfg.get("sourceReviewDays", 7) or 7))) - timedelta(hours=12)
+    if last and not forced and now - datetime.fromisoformat(last) < every:
         bn.log(f"Son denetim {last}; bir hafta dolmadı.")
         return
     blocked = [domain("https://" + b["domain"]) for b in cfg.get("blocked", []) if b.get("domain")]

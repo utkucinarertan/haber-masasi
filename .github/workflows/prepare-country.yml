@@ -1,0 +1,53 @@
+name: Ülke hazırla
+
+# Uygulamada henüz haberi olmayan bir ülke seçilince konu sunucusu (Cloudflare Worker) bu işi başlatır.
+# Adım adları uygulamadaki ilerleme ekranında kullanılır; numaralarını değiştirmeyin.
+run-name: Hazırla ${{ inputs.country }}
+
+on:
+  workflow_dispatch:
+    inputs:
+      country:
+        description: "Ülke kodu (ör. jp)"
+        required: true
+      name:
+        description: "Ülke adı (İngilizce)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: prepare-${{ inputs.country }}
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    env:
+      GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      COUNTRY: ${{ inputs.country }}
+      COUNTRY_NAME: ${{ inputs.name }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: 1 Kaynakları belirle
+        run: python scripts/prepare_country.py sources "$COUNTRY" "$COUNTRY_NAME"
+
+      - name: 2 Kaynakları değerlendir
+        run: python scripts/prepare_country.py review "$COUNTRY"
+
+      - name: 3 Haberleri oluştur
+        run: python scripts/prepare_country.py build "$COUNTRY"
+
+      - name: 4 Yayınla
+        run: |
+          git config user.name "haber-masasi-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          python scripts/prepare_country.py publish "$COUNTRY"

@@ -25,7 +25,7 @@ SCHEMA = {"type": "object", "properties": {"feeds": {"type": "array", "items": {
     "type": "object", "properties": {
         "name": {"type": "string"}, "url": {"type": "string"},
         "language": {"type": "string"}, "use": {"type": "string", "enum": ["daily", "flash", "both"]},
-        "topic": {"type": "string", "enum": ["general", "ekonomi", "teknoloji", "spor"]},
+        "topic": {"type": "string", "enum": ["general", "ekonomi", "teknoloji", "spor", "kultur"]},
         "why": {"type": "string"}},
     "required": ["name", "url", "language", "use"]}}}, "required": ["feeds"]}
 
@@ -33,14 +33,14 @@ SCHEMA = {"type": "object", "properties": {"feeds": {"type": "array", "items": {
 def prompt(country, exclude):
     avoid = ("\nThese URLs did not work, do not suggest them again:\n" + "\n".join(exclude)) if exclude else ""
     return f"""You help configure a news app. List RSS or Atom feed URLs for news about {country}.
-The app has four topics: general news (Gündem), economy, technology and sport. Only editorially independent outlets: no state-controlled or government-aligned media, no outlets under a court- or government-appointed trustee.
+The app has five topics: general news (Gündem), economy, technology, sport and culture/arts. Only editorially independent outlets: no state-controlled or government-aligned media, no outlets under a court- or government-appointed trustee.
 
 Requirements:
 - Suggest 16 feeds from well-known, reputable outlets that cover {country}: the public broadcaster, major national newspapers and news sites across the political spectrum, and a news agency if it offers RSS. Prefer feeds in the country's own language; add Turkish, English or German services of international broadcasters (BBC, DW, Euronews, France 24, VOA, etc.) if they have a dedicated feed for {country} or its region.
 - Source origin rule: for a country, use only that country's own outlets plus international broadcasters (BBC, DW, Euronews, France 24, Guardian, etc.) and their feeds for that country or region - never a national outlet of a different country (e.g. no Turkish outlet for Germany, no German outlet for Türkiye). For "World" use only global/international outlets (BBC World, DW, Guardian, France 24, Euronews, NPR, etc.), never a single country's national outlet.
 - Give exact, real feed URLs (https) that you are confident exist, e.g. the outlet's main "top stories" or "latest news" feed. Do not invent paths.
 - use: "flash" for fast "latest / breaking / son dakika / Eilmeldungen" style feeds that update many times per hour, "daily" for curated top-story or politics/economy feeds, "both" for main feeds that serve both purposes.
-- topic: "general" for main news feeds; "ekonomi", "teknoloji" or "spor" for feeds dedicated to economy/business, technology/science or sport. Include at least two dedicated feeds for each of these three topics (topic feeds normally get use "daily").
+- topic: "general" for main news feeds; "ekonomi", "teknoloji", "spor" or "kultur" for feeds dedicated to economy/business, technology/science, sport or culture/arts. Include at least two dedicated feeds for each of these four topics (topic feeds normally get use "daily").
 - language: ISO 639-1 code of the feed's language.
 - why: a few words on what the feed covers.{avoid}"""
 
@@ -65,6 +65,17 @@ def main():
         raise SystemExit(f"Geçersiz ülke kodu: {code!r}")
     request = sys.argv[2] if len(sys.argv) > 2 else ""
     country = (sys.argv[3] if len(sys.argv) > 3 else "").strip() or code.upper()
+    kept, failed = find(code, country)
+    OUT.mkdir(exist_ok=True)
+    (OUT / f"{code}.json").write_text(json.dumps({
+        "code": code, "country": country, "request": request,
+        "createdAt": datetime.now(bn.TR_TZ).isoformat(timespec="seconds"),
+        "feeds": kept, "rejected": failed}, ensure_ascii=False, indent=1), encoding="utf-8")
+    bn.log(f"{country}: {len(kept)} çalışan kaynak bulundu, {len(failed)} adres çalışmadı.")
+
+
+def find(code, country):
+    """Gemini'nin önerdiği akışları dener; (çalışanlar, çalışmayan adresler) döndürür."""
     since = datetime.now(timezone.utc) - timedelta(days=3)
     kept, tried, failed = [], set(), []
     for round_no in range(2):
@@ -78,7 +89,7 @@ def main():
             f = {"name": str(f.get("name") or "").strip()[:60] or url, "url": url,
                  "use": f.get("use") if f.get("use") in ("daily", "flash", "both") else "both",
                  "language": str(f.get("language", ""))[:5], "why": str(f.get("why", ""))[:120],
-                 **({"topic": f["topic"]} if f.get("topic") in ("ekonomi", "teknoloji", "spor") else {})}
+                 **({"topic": f["topic"]} if f.get("topic") in ("ekonomi", "teknoloji", "spor", "kultur") else {})}
             n = try_feed(f, since)
             if n:
                 kept.append({**f, "items": n})
@@ -89,12 +100,7 @@ def main():
         if len(kept) >= 8 or len(kept) >= MAX_FEEDS:
             break
         time.sleep(5)
-    OUT.mkdir(exist_ok=True)
-    (OUT / f"{code}.json").write_text(json.dumps({
-        "code": code, "country": country, "request": request,
-        "createdAt": datetime.now(bn.TR_TZ).isoformat(timespec="seconds"),
-        "feeds": kept, "rejected": failed}, ensure_ascii=False, indent=1), encoding="utf-8")
-    bn.log(f"{country}: {len(kept)} çalışan kaynak bulundu, {len(failed)} adres çalışmadı.")
+    return kept, failed
 
 
 if __name__ == "__main__":

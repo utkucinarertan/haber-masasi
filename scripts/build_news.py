@@ -360,7 +360,7 @@ def summarize(country, items, langs):
 
 # ---------- Konu arama havuzu ----------
 
-def write_pool(cfg):
+def write_pool(cfg, only=None):
     """Her ülkenin TÜM kaynaklarından son POOL_HOURS saatin başlıklarını <profil>/pool/<ülke>.json'a yazar.
 
     Uygulama, kullanıcının eklediği konuları (ör. "Beşiktaş") bu havuzda telefonda arar: sunucu yok,
@@ -372,6 +372,8 @@ def write_pool(cfg):
     cache = {}
     for country in cfg.get("countries", []):
         codes.add(country["code"])
+        if only is not None and country["code"] not in only:
+            continue
         items = []
         for feed in country.get("feeds", []):
             key = feed["url"]
@@ -396,7 +398,7 @@ def write_pool(cfg):
             f'{{"updatedAt": "{datetime.now(timezone.utc).isoformat(timespec="minutes")}", "items": [\n{body}\n]}}\n',
             encoding="utf-8")
     for f in out_dir.glob("*.json"):   # kaldırılan ülkelerin havuzu
-        if f.stem not in codes:
+        if only is None and f.stem not in codes:
             f.unlink()
     log(f"Havuz: {len(codes)} ülke yazıldı.")
 
@@ -430,6 +432,19 @@ Your task:
 
 Languages (use the codes as JSON keys):
 {lang_lines}"""
+
+
+def apply_settings(cfg):
+    """Yönetim sayfasındaki ayarlar (config.json): LLM modeli ve yenileme sıklıkları."""
+    global GEMINI_MODELS, FLASH_EVERY, POOL_EVERY
+    models = [m for m in (cfg.get("llmModel"), cfg.get("llmFallback")) if isinstance(m, str) and m.strip()]
+    if models:
+        GEMINI_MODELS = [m.strip() for m in models]
+    try:
+        FLASH_EVERY = timedelta(minutes=max(15, int(cfg.get("flashEveryMinutes", 60))))
+        POOL_EVERY = timedelta(minutes=max(10, int(cfg.get("poolEveryMinutes", 30))))
+    except (TypeError, ValueError):
+        pass
 
 
 def zone(cfg):
@@ -504,7 +519,7 @@ def update_flash(cfg, now, langs):
             added += 1
         seen.update(it["url"] for _, it in by_id.values())   # incelenen haber bir daha gönderilmez
         log(f"  Gemini {len(got)} madde döndürdü.")
-    shown = {}
+    shown = {code: [] for code in codes}   # her ülke listede: yeni ülke "son dakikası yok" diye tekrar tekrar denenmesin
     for code in lines:
         lines[code] = sorted(lines[code], key=lambda x: x["time"], reverse=True)[:FLASH_ARCHIVE]
         shown[code] = pick_flash(lines[code])
@@ -769,6 +784,7 @@ def loop():
 def loop_profile(pid, next_build_try, next_flash_try, next_pool):
     tag = "" if pid == DEFAULT_PROFILE else f" [{pid}]"
     cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
+    apply_settings(cfg)
     langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
     now = datetime.now(zone(cfg))
     utc = datetime.now(timezone.utc)
@@ -783,6 +799,10 @@ def loop_profile(pid, next_build_try, next_flash_try, next_pool):
                 next_build_try[pid] = datetime.now(timezone.utc) + timedelta(minutes=3)
                 log(f"Tamamlanamayan: {', '.join(left)}; 3 dakika sonra yeniden denenecek.")
     utc = datetime.now(timezone.utc)
+    no_pool = [c["code"] for c in cfg.get("countries", []) if not (DATA / "pool" / f"{c['code']}.json").exists()]
+    if no_pool and utc < next_pool.get(pid, utc):   # yeni eklenen ülke: havuzunu beklemeden yaz
+        write_pool(cfg, only=set(no_pool))
+        publish(f"Konu havuzu{tag}: {', '.join(no_pool)}")
     if utc >= next_pool.get(pid, utc):
         write_pool(cfg)
         next_pool[pid] = utc + POOL_EVERY
@@ -790,7 +810,12 @@ def loop_profile(pid, next_build_try, next_flash_try, next_pool):
     now = datetime.now(zone(cfg))
     utc = datetime.now(timezone.utc)
     age = flash_age(cfg, now)
-    if (age is None or age >= FLASH_EVERY) and utc >= next_flash_try.get(pid, utc):
+    try:
+        have_flash = set(json.loads(FLASH.read_text(encoding="utf-8")).get("countries", {}))
+    except (OSError, ValueError):
+        have_flash = set()
+    new_country = any(c["code"] not in have_flash for c in cfg.get("countries", []))   # yeni eklenen ülke
+    if (age is None or age >= FLASH_EVERY or new_country) and utc >= next_flash_try.get(pid, utc):
         log(f"[{now:%H:%M}]{tag} Son dakika güncelleniyor.")
         try:
             update_flash(cfg, now, langs)
@@ -832,6 +857,7 @@ def main():
     if "--profile" in sys.argv:   # "Şimdi hazırla" belirli bir profil için
         use_profile(sys.argv[sys.argv.index("--profile") + 1].strip() or DEFAULT_PROFILE)
     cfg = without_blocked(json.loads(CONFIG.read_text(encoding="utf-8")))
+    apply_settings(cfg)
     langs = [l for l in cfg.get("languages", []) if l in LANGS] or ["tr"]
     if "--flash-only" not in sys.argv:
         now = datetime.now(zone(cfg))

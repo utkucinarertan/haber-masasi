@@ -5,6 +5,9 @@ compatibility_date = "2026-11-01"
 [vars]
 # uygulamanın yayınladığı veri klasörü (konu havuzu: pool/<ülke>.json)
 DATA_BASE = "https://www.newsbyfocus.com/data/"
+GITHUB_REPO = "utkucinarertan/haber-masasi"
+# gizli yönetim sayfasının yolu: https://app.newsbyfocus.workers.dev/<ADMIN_PATH> (uygulamada bağlantısı yok, şifreli)
+ADMIN_PATH = "studio"
 
 # Kendi konularının özetleri ve konu kaydı. Kurulumda `npx wrangler kv namespace create TOPICS`
 # komutunun verdiği id buraya yazılır.
@@ -16,3 +19,9 @@ id = "ffc1e7b9d4334a63abf0a65960e0b323"
 # her çalışma en fazla 15 özet yeniler, zaten bugünkü olanlara dokunmaz.
 [triggers]
 crons = ["*/10 3-5 * * *"]
+
+# yönetim sayfası metin olarak gömülür
+[[rules]]
+type = "Text"
+globs = ["**/*.html"]
+fallthrough = true

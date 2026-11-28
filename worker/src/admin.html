@@ -3,10 +3,10 @@
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
-<meta name="robots" content="noindex">
+<meta name="robots" content="noindex, nofollow">
 <title>News Yönetim</title>
 <meta name="theme-color" content="#15192a">
-<link rel="icon" href="icons/favicon.svg" type="image/svg+xml">
+<link rel="icon" href="https://www.newsbyfocus.com/icons/favicon.svg" type="image/svg+xml">
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&display=swap">
@@ -82,30 +82,31 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 </style>
 </head>
 <body>
-<header><div class="row"><img src="icons/icon-192.png" alt=""><b>News · Yönetim</b><a href="./">Uygulamaya dön</a></div></header>
+<header><div class="row"><img src="https://www.newsbyfocus.com/icons/icon-192.png" alt=""><b>News · Yönetim</b><a href="https://www.newsbyfocus.com/" target="_blank" rel="noopener">Uygulama</a><button class="btn" id="logout" hidden>Çıkış</button></div></header>
 <main>
 
 <section class="card" id="c-conn">
-  <h2><span class="n">1</span>GitHub bağlantısı</h2>
-  <p>Ayarlar ve günlük baskılar GitHub deposunda (<b id="repo-name"></b>) tutulur. Bu sayfanın değişiklik yapabilmesi için bir kez GitHub anahtarı girin; anahtar yalnızca bu cihazda saklanır. Uygulamayı kullananların hiçbir şey girmesi gerekmez.</p>
-  <ol class="help">
-    <li><a href="https://github.com/settings/personal-access-tokens/new" target="_blank" rel="noopener">Yeni GitHub anahtarı sayfasını</a> açın. Token name: <b>haber-masasi-yonetim</b>, Expiration: 1 yıl.</li>
-    <li><b>Repository access</b> → <b>Only select repositories</b> → <b>haber-masasi</b>.</li>
-    <li><b>Permissions → Repository permissions</b>: <b>Contents</b>, <b>Actions</b> ve <b>Secrets</b> için <b>Read and write</b> seçin.</li>
-    <li><b>Generate token</b> deyin, çıkan <code>github_pat_…</code> metnini aşağıya yapıştırın.</li>
-  </ol>
-  <div class="row2">
-    <label class="f">GitHub anahtarı<input type="password" id="gh-token" autocomplete="off" spellcheck="false" placeholder="github_pat_…"></label>
-    <div class="actions" style="flex:0 0 auto"><button class="btn primary" id="gh-connect">Bağlan</button><button class="btn" id="gh-forget" hidden>Bu cihazdan sil</button></div>
-  </div>
+  <h2><span class="n">1</span>Giriş</h2>
+  <p>Bu sayfa uygulamada görünmez; yalnızca adresini bilen yönetici şifreyle açar. GitHub ve LLM anahtarları sunucuda saklanır, tarayıcıya gelmez.</p>
+  <form class="row2" id="login-form" autocomplete="on">
+    <input type="text" name="username" value="admin" autocomplete="username" hidden>
+    <label class="f">Yönetici şifresi<input type="password" id="adm-pass" autocomplete="current-password" spellcheck="false"></label>
+    <div class="actions" style="flex:0 0 auto"><button class="btn primary" id="adm-login" type="submit">Giriş</button></div>
+  </form>
   <div class="msg" id="gh-msg"></div>
 </section>
 
-<div class="lock-note" id="lock-note"><b>Aşağıdaki bölümler kilitli.</b> Bu tarayıcı GitHub'a bağlı değil. Bağlantı her tarayıcıda ayrı tutulur; başka bir tarayıcıda bağlandıysanız burada da bir kez <a href="#c-conn">1. adımda</a> GitHub anahtarını yapıştırıp <b>Bağlan</b> deyin.</div>
+<div class="lock-note" id="lock-note"><b>Aşağıdaki bölümler kilitli.</b> Değişiklik yapmak için şifreyle giriş yapın.</div>
 <div id="locked" class="locked">
 <section class="card" id="c-gemini">
-  <h2><span class="n">2</span>Gemini anahtarı <span class="pill" id="gem-state">bilinmiyor</span></h2>
-  <p>Haberleri her sabah özetleyen Google Gemini'nin anahtarı. Ücretsizdir, kart istemez. Anahtar GitHub'a şifrelenerek kaydedilir; bu sayfada bile bir daha görünmez.</p>
+  <h2><span class="n">2</span>LLM ayarı ve anahtarı <span class="pill" id="gem-state">bilinmiyor</span></h2>
+  <p>Haberleri seçen, özetleyen ve çeviren model Google Gemini'dir. Anahtar hem GitHub'a (günlük baskı, son dakika, kaynak denetimi) hem konu sunucusuna (kişisel konular, çeviri) kaydedilir; bu sayfada bile bir daha görünmez.</p>
+  <div class="row2">
+    <label class="f">Ana model<input type="text" id="llm-model" list="llm-models" spellcheck="false" placeholder="gemini-3.8-flash"></label>
+    <label class="f">Yedek model (ana model yanıt vermezse)<input type="text" id="llm-fallback" list="llm-models" spellcheck="false" placeholder="gemini-3.5-flash-lite"></label>
+    <datalist id="llm-models"><option value="gemini-3.8-flash"><option value="gemini-3.5-flash-lite"><option value="gemini-3.8-pro"></datalist>
+  </div>
+  <p class="hint">Model değişikliği "Ayarları kaydet" ile kaydedilir (7. adım).</p>
   <ol class="help">
     <li><a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener">aistudio.google.com/app/apikey</a> adresinde Google hesabınızla giriş yapın.</li>
     <li><b>Create API key</b> deyin, anahtarı kopyalayıp aşağıya yapıştırın.</li>
@@ -141,8 +142,14 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
   <div class="row2">
     <label class="f">Baskının her gün en geç hazır olacağı saat (Almanya saati)<select id="cfg-time"></select></label>
   </div>
-  <p>Baskı bu saatten yaklaşık 45 dakika önce hazırlanmaya başlar ve iki ülke de bu saatte hazır olur. Bir ülke başarısız olursa birkaç dakika arayla yeniden denenir. Son dakika 30 dakikada bir güncellenir. Bunları sürekli çalışan "Haber döngüsü" yapar; GitHub'ın zamanlayıcısına bağlı değildir.</p>
-  <div class="f" style="font-weight:700;font-size:.9rem">Diller (kullanıcı bunlardan birini seçer)</div>
+  <p>Baskı bu saatten yaklaşık 45 dakika önce hazırlanmaya başlar ve tüm ülkeler bu saatte hazır olur. Bir ülke başarısız olursa birkaç dakika arayla yeniden denenir. Bunları sürekli çalışan "Haber döngüsü" yapar; GitHub'ın zamanlayıcısına bağlı değildir.</p>
+  <div class="row2">
+    <label class="f">Son dakika yenileme sıklığı<select id="cfg-flash"><option value="30">30 dakika</option><option value="60">1 saat</option><option value="120">2 saat</option><option value="180">3 saat</option></select></label>
+    <label class="f">Konu havuzu (kişisel konular) yenileme<select id="cfg-pool"><option value="15">15 dakika</option><option value="30">30 dakika</option><option value="60">1 saat</option></select></label>
+    <label class="f">Bağımsız kaynak denetimi<select id="cfg-review"><option value="3">3 günde bir</option><option value="7">Haftada bir</option><option value="14">2 haftada bir</option><option value="30">Ayda bir</option></select></label>
+  </div>
+  <div class="f" style="font-weight:700;font-size:.9rem">Baskının doğrudan yazıldığı diller</div>
+  <p class="hint">Uygulama 12 dilde kullanılabilir. Burada seçilmeyen bir dil seçildiğinde haberler istek üzerine çevrilir ve saklanır. Seçilen her dil sabah baskısını uzatır ve LLM maliyetini artırır.</p>
   <div class="checks" id="cfg-langs"></div>
 </section>
 
@@ -187,6 +194,8 @@ input[type=text],input[type=password],input[type=url],select{padding:9px 11px;bo
 const REPO = "utkucinarertan/haber-masasi";
 const WORKFLOW = "daily-news.yml";
 const LANGS = {tr:"Türkçe", en:"İngilizce", de:"Almanca"};
+const APP = "https://www.newsbyfocus.com/";
+const API = location.origin;
 const REGIONS = "AD AE AF AG AL AM AO AR AT AU AZ BA BB BD BE BF BG BH BI BJ BN BO BR BS BT BW BY BZ CA CD CF CG CH CI CL CM CN CO CR CU CV CY CZ DE DJ DK DM DO DZ EC EE EG ER ES ET FI FJ FM FR GA GB GD GE GH GM GN GQ GR GT GW GY HK HN HR HT HU ID IE IL IN IQ IR IS IT JM JO JP KE KG KH KI KM KN KP KR KW KZ LA LB LC LI LK LR LS LT LU LV LY MA MC MD ME MG MH MK ML MM MN MR MT MU MV MW MX MY MZ NA NE NG NI NL NO NP NR NZ OM PA PE PG PH PK PL PS PT PW PY QA RO RS RU RW SA SB SC SD SE SG SI SK SL SM SN SO SR SS ST SV SY SZ TD TG TH TJ TL TM TN TO TR TT TV TW TZ UA UG US UY UZ VA VC VE VN VU WS XK YE ZA ZM ZW".split(" ");
 const nameTR = new Intl.DisplayNames(["tr"], {type:"region"});
 const nameEN = new Intl.DisplayNames(["en"], {type:"region"});
@@ -204,20 +213,25 @@ const store = {
   get(k){ try { return localStorage.getItem(k) || ""; } catch { return ""; } },
   set(k, v){ try { v ? localStorage.setItem(k, v) : localStorage.removeItem(k); } catch {} },
 };
-$("#repo-name").textContent = REPO;
 
 /* ---------- GitHub API ---------- */
-let token = store.get("admin-gh-token");
+const sess = {
+  get(){ try { return sessionStorage.getItem("adm-session") || ""; } catch { return ""; } },
+  set(v){ try { v ? sessionStorage.setItem("adm-session", v) : sessionStorage.removeItem("adm-session"); } catch {} },
+};
+let token = sess.get();
 async function gh(path, opts = {}){
-  const r = await fetch("https://api.github.com/" + path, {...opts, headers:{
-    "Authorization":"Bearer " + token, "Accept":"application/vnd.github+json", "X-GitHub-Api-Version":"2022-11-28",
-    ...(opts.body ? {"Content-Type":"application/json"} : {})}});
+  const r = await fetch(API + "/adm/gh/" + path, {...opts, headers:{
+    "Authorization":"Bearer " + token, ...(opts.body ? {"Content-Type":"application/json"} : {})}});
   if (r.status === 204) return null;
   if (r.status === 404 && opts.allow404) return null;
   const data = await r.json().catch(() => ({}));
   if (!r.ok){
-    const hint = r.status === 401 ? `GitHub anahtarı geçersiz ya da süresi dolmuş (GitHub: ${data.message || "401"}). Anahtarı yeniden oluşturduysanız yenisini 1. adımda yapıştırıp Bağlan deyin.`
-      : r.status === 403 || r.status === 404 ? "GitHub anahtarının bu işlem için izni yok (Contents, Actions ve Secrets: Read and write gerekli)."
+    if (r.status === 401 && data.error === "auth"){ logout("Oturum süresi doldu; yeniden giriş yapın."); }
+    const hint = data.error === "auth" ? "Oturum süresi doldu; yeniden giriş yapın."
+      : data.error === "not-configured" ? "Sunucuda GitHub anahtarı tanımlı değil (GITHUB_TOKEN)."
+      : r.status === 401 ? `Sunucudaki GitHub anahtarı geçersiz ya da süresi dolmuş (GitHub: ${data.message || "401"}).`
+      : r.status === 403 || r.status === 404 ? "Sunucudaki GitHub anahtarının bu işlem için izni yok (Contents, Actions ve Secrets: Read and write gerekli)."
       : `GitHub hatası (${r.status}): ${data.message || ""}`;
     const e = new Error(hint); e.status = r.status; throw e;
   }
@@ -233,19 +247,36 @@ async function connect(){
   say("#gh-msg", "", "Bağlanılıyor…");
   try {
     const repo = await gh(`repos/${REPO}`);
-    if (!repo.permissions?.push) throw new Error("Bu GitHub anahtarıyla depoya yazılamıyor. Anahtarda haber-masasi deposunu ve Contents: Read and write iznini seçin.");
-    store.set("admin-gh-token", token);
-    $("#gh-forget").hidden = false; $("#gh-token").value = ""; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)";
+    if (!repo.permissions?.push) throw new Error("Sunucudaki GitHub anahtarıyla depoya yazılamıyor (Contents: Read and write gerekli).");
     setLocked(false);
-    say("#gh-msg", "ok", "Bağlandı.");
+    $("#c-conn").hidden = true; $("#logout").hidden = false;
+    say("#gh-msg", "ok", "Giriş yapıldı.");
     await Promise.all([loadProfiles().then(loadConfig), checkSecret(), loadRuns()]);
   } catch (e){
     setLocked(true);
     say("#gh-msg", "err", e.message);
   }
 }
-$("#gh-connect").onclick = () => { const v = $("#gh-token").value.trim(); if (v) token = v; if (!token) return say("#gh-msg", "err", "GitHub anahtarını yapıştırın."); connect(); };
-$("#gh-forget").onclick = () => { store.set("admin-gh-token", ""); token = ""; $("#gh-forget").hidden = true; $("#gh-token").placeholder = "github_pat_…"; setLocked(true); say("#gh-msg", "", "Anahtar bu cihazdan silindi."); };
+function logout(msg){
+  sess.set(""); token = ""; setLocked(true);
+  $("#c-conn").hidden = false; $("#logout").hidden = true;
+  say("#gh-msg", msg ? "err" : "", msg || "Çıkış yapıldı.");
+}
+$("#login-form").onsubmit = async e => {
+  e.preventDefault();
+  const password = $("#adm-pass").value;
+  if (!password) return say("#gh-msg", "err", "Şifreyi yazın.");
+  const btn = $("#adm-login"); btn.disabled = true;
+  try {
+    const r = await fetch(API + "/adm/login", {method:"POST", headers:{"Content-Type":"application/json"}, body:JSON.stringify({password})});
+    const j = await r.json().catch(() => ({}));
+    if (!r.ok) throw new Error(r.status === 429 ? "Çok fazla yanlış deneme. 15 dakika sonra yeniden deneyin." : "Şifre yanlış.");
+    token = j.token; sess.set(token); $("#adm-pass").value = "";
+    await connect();
+  } catch (err){ say("#gh-msg", "err", err.message); }
+  finally { btn.disabled = false; }
+};
+$("#logout").onclick = () => logout();
 
 /* ---------- 2. Gemini anahtarı ---------- */
 async function checkSecret(){
@@ -257,7 +288,8 @@ async function checkSecret(){
   } catch { pill.className = "pill"; pill.textContent = "kontrol edilemedi"; }
 }
 async function testGemini(key){
-  const r = await fetch("https://generativelanguage.googleapis.com/v1beta/models/gemini-3.8-flash:generateContent", {
+  const model = ($("#llm-model").value.trim() || "gemini-3.8-flash").replace(/[^a-z0-9.\-]/g, "");
+  const r = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/${model}:generateContent`, {
     method:"POST", headers:{"Content-Type":"application/json", "x-goog-api-key":key},
     body:JSON.stringify({contents:[{role:"user", parts:[{text:"Yalnızca 'tamam' yaz."}]}], generationConfig:{maxOutputTokens:20}})});
   if (r.ok) return;
@@ -296,6 +328,9 @@ $("#gem-save").onclick = async () => {
     say("#gem-msg", "", "GitHub'a şifrelenerek kaydediliyor…");
     const pub = await gh(`repos/${REPO}/actions/secrets/public-key`);
     await gh(`repos/${REPO}/actions/secrets/GEMINI_API_KEY`, {method:"PUT", body:JSON.stringify({encrypted_value:await seal(key, pub.key), key_id:pub.key_id})});
+    say("#gem-msg", "", "Konu sunucusuna kaydediliyor…");
+    const kr = await fetch(API + "/adm/llm-key", {method:"POST", headers:{"Content-Type":"application/json", "Authorization":"Bearer " + token}, body:JSON.stringify({key})});
+    if (!kr.ok) throw new Error("Anahtar GitHub'a kaydedildi ama konu sunucusuna kaydedilemedi.");
     $("#gem-key").value = "";
     say("#gem-msg", "ok", "Gemini anahtarı kaydedildi.");
     checkSecret();
@@ -313,8 +348,8 @@ const DEFAULT_PROFILE = "default";
 let profiles = [{id:DEFAULT_PROFILE, name:"Varsayılan"}], profilesSha = null;
 let profile = store.get("admin-profile") || DEFAULT_PROFILE;
 const cfgPath = (id = profile) => id === DEFAULT_PROFILE ? "docs/data/config.json" : `docs/data/p/${id}/config.json`;
-const dataPath = () => profile === DEFAULT_PROFILE ? "data/" : `data/p/${profile}/`;
-const appLink = () => new URL(profile === DEFAULT_PROFILE ? "./" : `./?p=${profile}`, location.href).href;
+const dataPath = () => APP + (profile === DEFAULT_PROFILE ? "data/" : `data/p/${profile}/`);
+const appLink = () => APP + (profile === DEFAULT_PROFILE ? "" : `?p=${profile}`);
 const profileName = id => (profiles.find(x => x.id === id) || {}).name || id;
 function normalizeProfiles(list){
   const out = [{id:DEFAULT_PROFILE, name:(list.find(x => x.id === DEFAULT_PROFILE) || {}).name || "Varsayılan"}];
@@ -396,6 +431,11 @@ async function loadConfig(){
 }
 function renderConfig(){
   timeSel.value = cfg.time && /^\d\d:00$/.test(cfg.time) ? cfg.time : "06:00";
+  $("#llm-model").value = cfg.llmModel || "";
+  $("#llm-fallback").value = cfg.llmFallback || "";
+  $("#cfg-flash").value = String(cfg.flashEveryMinutes || 60);
+  $("#cfg-pool").value = String(cfg.poolEveryMinutes || 30);
+  $("#cfg-review").value = String(cfg.sourceReviewDays || 7);
   $("#cfg-blocked").value = (cfg.blocked || []).map(b => b.domain + (b.reason ? " " + b.reason : "")).join("\n");
   $("#cfg-langs").replaceChildren(...Object.entries(LANGS).map(([code, name]) => {
     const l = el("label"); const c = el("input"); c.type = "checkbox"; c.value = code; c.checked = cfg.languages.includes(code);
@@ -433,6 +473,7 @@ function renderCountry(c = {code:"", feeds:[]}){
   const llm = el("button", "btn llm", "✨ LLM ile ekle"); llm.type = "button";
   llm.title = "Gemini bu ülkenin haber kaynaklarını bulsun ve denesin";
   top.append(img, sel, llm, del);
+  if (c.addedBy === "app") top.append(el("span", "pill", "uygulamadan · " + (c.addedAt || "")));
   const feeds = el("div", "feeds"); feeds.style.cssText = "display:flex;flex-direction:column;gap:6px";
   (c.feeds?.length ? c.feeds : [{}]).forEach(f => feeds.append(feedRow(f)));
   const add = el("button", "btn", "+ Kaynak ekle"); add.type = "button"; add.style.alignSelf = "flex-start";
@@ -504,7 +545,8 @@ function readConfig(){
     if (!feeds.length) throw new Error(`${cTR(code)} için en az bir kaynak girin.`);
     const topics = [...box.querySelectorAll(".ctopics input:checked")].map(i => i.value);
     if (!topics.length) throw new Error(`${cTR(code)} için en az bir konu seçin.`);
-    countries.push({code, name:cEN(code), topics, feeds});
+    const prev = cfg.countries.find(x => x.code === code) || {};
+    countries.push({code, name:cEN(code), topics, feeds, ...(prev.addedBy ? {addedBy:prev.addedBy, addedAt:prev.addedAt} : {})});
   }
   if (!countries.length) throw new Error("En az bir ülke ekleyin.");
   const blocked = [];
@@ -516,7 +558,10 @@ function readConfig(){
     if (!blocked.some(b => b.domain === domain)) blocked.push({domain, reason:why.join(" ")});
   }
   // denetimin tarihi gibi bu formda olmayan alanlar korunur
-  return {...cfg, time:timeSel.value, timezone:cfg.timezone || "Europe/Berlin", languages, countries, blocked};
+  const model = v => v.trim().replace(/[^a-z0-9.\-]/g, "");
+  return {...cfg, time:timeSel.value, timezone:cfg.timezone || "Europe/Berlin", languages, countries, blocked,
+    llmModel:model($("#llm-model").value) || "gemini-3.8-flash", llmFallback:model($("#llm-fallback").value),
+    flashEveryMinutes:+$("#cfg-flash").value, poolEveryMinutes:+$("#cfg-pool").value, sourceReviewDays:+$("#cfg-review").value};
 }
 
 $("#cfg-save").onclick = async () => {
@@ -599,10 +644,11 @@ $("#review-now").onclick = async () => {
   finally { setTimeout(() => btn.disabled = false, 8000); }
 };
 
-if (token){ $("#gh-forget").hidden = false; $("#gh-token").placeholder = "Kayıtlı (değiştirmek için yenisini yapıştırın)"; connect(); }
+$("#repo-name") && ($("#repo-name").textContent = REPO);
+if (token) connect();
 else {
-  // Bağlanmadan önce de mevcut ayarları göster
-  fetch("data/profiles.json?t=" + Date.now()).then(r => r.ok ? r.json() : {profiles:[]}).catch(() => ({profiles:[]}))
+  setLocked(true);
+  fetch(APP + "data/profiles.json?t=" + Date.now()).then(r => r.ok ? r.json() : {profiles:[]}).catch(() => ({profiles:[]}))
     .then(j => { profiles = normalizeProfiles(j.profiles || []); if (!profiles.some(x => x.id === profile)) profile = DEFAULT_PROFILE; renderProfiles();
       return fetch(dataPath() + "config.json?t=" + Date.now()); })
     .then(r => r.json()).then(c => { cfg = c; renderConfig(); loadReview(); }).catch(() => {});

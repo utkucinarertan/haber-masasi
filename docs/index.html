@@ -4,7 +4,8 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <title>News</title>
-<meta name="description" content="Günün önemli haberleri; Türkçe, İngilizce ve Almanca özet ve değerlendirmeyle.">
+<meta name="description" content="Seçtiğiniz ülkelerden günün en önemli haberleri, kendi dilinizde.">
+<script>try{var th=JSON.parse(localStorage.getItem("theme")||'"auto"');if(th==="light"||th==="dark")document.documentElement.dataset.theme=th}catch(e){}</script>
 <meta name="theme-color" content="#15192a">
 <meta name="apple-mobile-web-app-capable" content="yes">
 <meta name="mobile-web-app-capable" content="yes">
@@ -28,10 +29,15 @@
   --top:env(safe-area-inset-top,0px); --bottom:env(safe-area-inset-bottom,0px);
   color-scheme:light;
 }
-@media (prefers-color-scheme:dark){:root{
+/* Gece modu: sistem ayarı (otomatik) ya da kullanıcının seçimi (html[data-theme]) */
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]){
   --bg:#10131c; --surface:#181c28; --ink:#e8eaf1; --muted:#9aa1b4; --line:#2a3042;
   --accent:#9db4ff; --accent-soft:#222b46; --live:#ff7b72; --bar:#0b0d14; --bar-ink:#e8eaf1; --bar-muted:#8a92a6;
   --hi:#ff6b7c; --mid:#f0a640; --lo:#8a92a6; --ok:#5fd394; --err:#ff8a7a; color-scheme:dark}}
+:root[data-theme=dark]{
+  --bg:#10131c; --surface:#181c28; --ink:#e8eaf1; --muted:#9aa1b4; --line:#2a3042;
+  --accent:#9db4ff; --accent-soft:#222b46; --live:#ff7b72; --bar:#0b0d14; --bar-ink:#e8eaf1; --bar-muted:#8a92a6;
+  --hi:#ff6b7c; --mid:#f0a640; --lo:#8a92a6; --ok:#5fd394; --err:#ff8a7a; color-scheme:dark}
 
 *{box-sizing:border-box}
 html{-webkit-text-size-adjust:100%;overscroll-behavior:none}
@@ -125,7 +131,8 @@ button:focus-visible,select:focus-visible,a:focus-visible,input:focus-visible{ou
 .state strong{display:block;color:var(--ink);font-size:1.1rem;margin-bottom:4px}
 .state button{margin-top:14px}
 .primary{border:0;border-radius:10px;background:var(--accent);color:#fff;padding:10px 16px;font-weight:700}
-@media (prefers-color-scheme:dark){.primary{color:#0b0d14}}
+@media (prefers-color-scheme:dark){:root:not([data-theme=light]) .primary{color:#0b0d14}}
+:root[data-theme=dark] .primary{color:#0b0d14}
 footer.note{margin-top:32px;font-size:.78rem;color:var(--muted);border-top:1px solid var(--line);padding-top:12px}
 
 .langsel{appearance:none;-webkit-appearance:none;border:0;border-radius:999px;background:rgba(255,255,255,.1) url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' fill='none' stroke='%23c9cdd9' stroke-width='1.6'/%3E%3C/svg%3E") no-repeat right 11px center/10px;
@@ -185,6 +192,31 @@ body.onboard dialog.sheet::backdrop{background:var(--bg)}
 .sheet .kwtag button:hover{color:var(--err);background:var(--surface)}
 .sheet .foot{position:sticky;bottom:0;background:inherit;padding:12px 18px 16px;display:flex;justify-content:flex-end;gap:8px;border-top:1px solid var(--line);margin-top:16px}
 .sheet .btn2{border:1px solid var(--line);background:var(--surface);color:var(--ink);border-radius:10px;padding:9px 14px;font-weight:700}
+.sheet .langgrid{display:flex;flex-wrap:wrap;gap:6px}
+.sheet .langgrid button{border:1px solid var(--line);background:var(--surface);border-radius:999px;padding:6px 12px;font-weight:700;font-size:.86rem;color:var(--ink)}
+.sheet .langgrid button[aria-pressed="true"]{border-color:var(--accent);background:var(--accent);color:var(--surface)}
+.sheet input[type=search]{width:100%;padding:10px 12px;border:1px solid var(--line);border-radius:10px;background:var(--surface);color:var(--ink);font:inherit}
+.sheet .clist{margin-top:8px;max-height:min(300px,40dvh);overflow:auto;border:1px solid var(--line);border-radius:12px;background:var(--surface);
+  display:grid;grid-template-columns:repeat(auto-fill,minmax(170px,1fr));gap:2px;padding:6px}
+.sheet .clist label{display:flex;align-items:center;gap:8px;padding:7px 8px;border-radius:8px;font-weight:600;font-size:.9rem;cursor:pointer;min-width:0}
+.sheet .clist label span{overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.sheet .clist label:hover{background:var(--accent-soft)}
+.sheet .clist input{width:18px;height:18px;accent-color:var(--accent);flex:none}
+.sheet .clist .flag{width:24px;height:17px}
+.sheet .clist .none{grid-column:1/-1;color:var(--muted);font-size:.88rem;padding:8px}
+.preplist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:10px}
+.preplist li{border:1px solid var(--line);border-radius:12px;background:var(--surface);padding:12px 14px;display:flex;flex-direction:column;gap:8px}
+.preplist .hd{display:flex;align-items:center;gap:10px;font-weight:800}
+.preplist .st{margin-left:auto;font-size:.82rem;font-weight:700;color:var(--muted)}
+.preplist .st.ok{color:var(--ok)} .preplist .st.err{color:var(--err)}
+.preplist .bar{display:grid;grid-template-columns:repeat(4,1fr);gap:4px}
+.preplist .bar i{height:5px;border-radius:3px;background:var(--line)}
+.preplist .bar i.done{background:var(--accent)}
+.preplist .bar i.now{background:var(--accent);animation:pulse 1.2s ease-in-out infinite}
+.preplist .step{font-size:.86rem;color:var(--muted)}
+.spinner{width:34px;height:34px;border-radius:50%;border:3px solid var(--line);border-top-color:var(--accent);animation:spin 1s linear infinite}
+@media (prefers-reduced-motion:reduce){.preplist .bar i.now,.spinner{animation:none}}
+[dir=rtl] .preplist .st{margin-left:0;margin-right:auto}
 @media (max-width:600px){dialog.sheet{width:100vw;max-width:100vw;max-height:100dvh;height:100dvh;border-radius:0;margin:0}}
 </style>
 
@@ -194,7 +226,8 @@ body.onboard dialog.sheet::backdrop{background:var(--bg)}
   <div class="row">
     <img class="logo" src="icons/icon-192.png" alt="">
     <div class="title"><b id="brand">News</b><span id="subtitle"></span></div>
-    <select class="langsel" id="lang" aria-label="Dil / Language / Sprache"></select>
+    <select class="langsel" id="lang" aria-label="Language"></select>
+    <button class="iconbtn round" id="theme" type="button"></button>
     <button class="iconbtn" id="me" type="button">
       <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="8" r="4"/><path d="M4 21c1.5-4 4.5-6 8-6s6.5 2 8 6"/></svg>
       <span class="label" id="me-label">Profilim</span>
@@ -219,83 +252,33 @@ body.onboard dialog.sheet::backdrop{background:var(--bg)}
   <div id="state" class="state"><strong>…</strong></div>
   <main class="desks" id="desks" hidden></main>
 
-  <footer class="note"><span id="footnote"></span> <a href="admin.html" id="admin-link">Yönetim</a></footer>
+  <footer class="note"><span id="footnote"></span></footer>
 </div>
 
 <dialog class="sheet" id="sheet" aria-labelledby="sheet-title">
-  <form method="dialog">
-    <div class="in">
+  <form method="dialog" id="sheet-form">
+    <div class="in" id="setup">
       <h2 id="sheet-title"></h2>
       <p class="lead" id="sheet-lead"></p>
+      <div><div class="sub" id="lang-title"></div><div class="langgrid" id="sheet-langs" role="group"></div></div>
       <label class="f"><span id="name-label"></span><input type="text" id="my-name" maxlength="30" autocomplete="given-name"></label>
+      <div><div class="sub" id="countries-title"></div>
+        <input type="search" id="csearch" autocomplete="off" spellcheck="false">
+        <div class="clist" id="sheet-clist" role="group"></div></div>
       <div id="sheet-countries" style="display:flex;flex-direction:column;gap:10px"></div>
     </div>
-    <div class="foot"><p class="need" id="sheet-need"></p><button class="primary" id="sheet-done" value="ok"></button></div>
+    <div class="in" id="prep" hidden>
+      <div class="spinner" aria-hidden="true"></div>
+      <h2 id="prep-title"></h2>
+      <p class="lead" id="prep-lead"></p>
+      <ul class="preplist" id="prep-list" aria-live="polite"></ul>
+    </div>
+    <div class="foot"><p class="need" id="sheet-need"></p><button type="button" class="btn2" id="prep-skip" hidden></button><button type="button" class="primary" id="sheet-done"></button></div>
   </form>
 </dialog>
 
+<script src="i18n.js"></script>
 <script>
-const T = {
-  tr:{brand:"News", today:"Bugünün baskısı", refresh:"Yenile", refreshTitle:"En son baskıyı getir", prepared:"Hazırlandı",
-      overview:"Günün değerlendirmesi", stories:n => n + " haber", imp:{3:"Çok önemli",2:"Önemli",1:"Gündem"},
-      edition:"Baskı", countries:"Ülkeler", loading:"Haberler yükleniyor", loadingText:"Günün baskısı birkaç saniye içinde burada görünecek.",
-      offline:"Haberlere ulaşılamıyor", offlineText:"İnternet bağlantınızı kontrol edip Yenile'ye basın.",
-      offlineKeep:"İnternete bağlanılamadı; son indirilen baskı gösteriliyor.", none:"Henüz baskı yok",
-      noneText:time => `İlk baskı her sabah hazırlanır (Almanya saatiyle ${time}).`, notToday:time => `Bugünün baskısı henüz hazır değil; her sabah hazırlanır (Almanya saatiyle ${time}).`,
-      latest:"En son baskı yüklendi.", already:"Zaten en son baskıyı okuyorsunuz.", failed:"Bu baskı açılamadı",
-      failedText:"Bağlantınızı kontrol edin ya da başka bir gün seçin.", pick:"Haberlerini görmek istediğiniz ülkeleri yukarıdan seçin.",
-      onlyLang:l => `Bu gün için haberler yalnızca ${l} olarak mevcut.`, noCountry:"Bu ülke için bu gün haber hazırlanmadı.",
-      foot:"Haberler seçilen kaynaklardan derlenir; özet ve değerlendirmeler her sabah yapay zekâ ile hazırlanır. Ayrıntı için haberin kaynağına gidin.",
-      admin:"Yönetim", locale:"tr-TR",
-      world:"Dünya", topics:{gundem:"Gündem", ekonomi:"Ekonomi", teknoloji:"Teknoloji", spor:"Spor", kultur:"Kültür-Sanat"}, topicsLabel:"Konular",
-      me:"Profilim", meNeed:"Devam etmek için adınızı yazın ve en az bir ülke seçin.", meTitle:"Profilim", meWelcome:"Hoş geldiniz! Takip etmek istediğiniz ülkeleri ve konuları seçin. İstediğiniz kadar kendi konunuzu ekleyebilirsiniz; ör. Beşiktaş, enflasyon, yapay zekâ.",
-      meLead:"Ülkeleri, ana konuları ve kendi konularınızı seçin. Profiliniz yalnızca bu cihazda saklanır.", myName:"Adınız",
-      mainTopics:"Ana konular", myTopics:"Kendi konularım", addPh:"Konu ekle, ör. Beşiktaş", add:"Ekle", done:"Tamam", addTab:"+ Konu",
-      kwNone:q => `Son 48 saatte "${q}" ile ilgili haber bulunamadı.`, kwMore:n => `${n} haber daha`, kwLoading:"Aranıyor…", remove:"Kaldır",
-      noTopic:"Görmek istediğiniz sekmeleri yukarıdan seçin.",
-      flash:"Son dakika", flashSince:h => `${h}'den beri`, flashEmpty:"Şimdilik yeni haber yok; liste 30 dakikada bir güncellenir.",
-      flashUpd:h => `Güncellendi ${h}`, more:n => `Tümünü göster (${n})`, less:"Daha az göster"},
-  en:{brand:"News", today:"Today's edition", refresh:"Refresh", refreshTitle:"Get the latest edition", prepared:"Prepared",
-      overview:"The day at a glance", stories:n => n + (n === 1 ? " story" : " stories"), imp:{3:"Top story",2:"Important",1:"In brief"},
-      edition:"Edition", countries:"Countries", loading:"Loading the news", loadingText:"Today's edition will appear here in a few seconds.",
-      offline:"Can't reach the news", offlineText:"Check your internet connection and tap Refresh.",
-      offlineKeep:"No connection; showing the last downloaded edition.", none:"No editions yet",
-      noneText:time => `The first edition is ready every morning by ${time} (German time).`, notToday:time => `Today's edition isn't ready yet; it is ready every morning by ${time} (German time).`,
-      latest:"Latest edition loaded.", already:"You are already reading the latest edition.", failed:"This edition couldn't be opened",
-      failedText:"Check your connection or pick another day.", pick:"Choose the countries you want to follow above.",
-      onlyLang:l => `For this day the news is only available in ${l}.`, noCountry:"No stories were prepared for this country on this day.",
-      foot:"Stories are gathered from selected sources; summaries and analysis are written by AI every morning. Follow the link to read the full source.",
-      admin:"Admin", locale:"en-GB",
-      world:"World", topics:{gundem:"Top news", ekonomi:"Economy", teknoloji:"Technology", spor:"Sport", kultur:"Culture"}, topicsLabel:"Topics",
-      me:"My profile", meNeed:"Enter your name and choose at least one country to continue.", meTitle:"My profile", meWelcome:"Welcome! Choose the countries and topics you want to follow. Add as many of your own topics as you like, e.g. Bayern, inflation, AI.",
-      meLead:"Choose countries, main topics and your own topics. Your profile is stored only on this device.", myName:"Your name",
-      mainTopics:"Main topics", myTopics:"My topics", addPh:"Add a topic, e.g. Bayern", add:"Add", done:"Done", addTab:"+ Topic",
-      kwNone:q => `No stories about "${q}" in the last 48 hours.`, kwMore:n => `${n} more`, kwLoading:"Searching…", remove:"Remove",
-      noTopic:"Choose the tabs you want to see above.",
-      flash:"Latest", flashSince:h => `since ${h}`, flashEmpty:"No new stories yet; the list updates every 30 minutes.",
-      flashUpd:h => `Updated ${h}`, more:n => `Show all (${n})`, less:"Show less"},
-  de:{brand:"News", today:"Heutige Ausgabe", refresh:"Aktualisieren", refreshTitle:"Neueste Ausgabe laden", prepared:"Erstellt",
-      overview:"Der Tag im Überblick", stories:n => n + (n === 1 ? " Meldung" : " Meldungen"), imp:{3:"Sehr wichtig",2:"Wichtig",1:"Kurz notiert"},
-      edition:"Ausgabe", countries:"Länder", loading:"Nachrichten werden geladen", loadingText:"Die heutige Ausgabe erscheint in wenigen Sekunden.",
-      offline:"Nachrichten nicht erreichbar", offlineText:"Prüfen Sie Ihre Internetverbindung und tippen Sie auf Aktualisieren.",
-      offlineKeep:"Keine Verbindung; die zuletzt geladene Ausgabe wird angezeigt.", none:"Noch keine Ausgabe",
-      noneText:time => `Die erste Ausgabe ist jeden Morgen bis ${time} Uhr fertig.`, notToday:time => `Die heutige Ausgabe ist noch nicht fertig; sie ist jeden Morgen bis ${time} Uhr fertig.`,
-      latest:"Neueste Ausgabe geladen.", already:"Sie lesen bereits die neueste Ausgabe.", failed:"Diese Ausgabe konnte nicht geöffnet werden",
-      failedText:"Prüfen Sie die Verbindung oder wählen Sie einen anderen Tag.", pick:"Wählen Sie oben die Länder, die Sie verfolgen möchten.",
-      onlyLang:l => `Für diesen Tag gibt es die Nachrichten nur auf ${l}.`, noCountry:"Für dieses Land wurden an diesem Tag keine Meldungen erstellt.",
-      foot:"Die Meldungen stammen aus ausgewählten Quellen; Zusammenfassungen und Einordnung erstellt jeden Morgen eine KI. Den vollständigen Text finden Sie bei der Quelle.",
-      admin:"Verwaltung", locale:"de-DE",
-      world:"Welt", topics:{gundem:"Aktuelles", ekonomi:"Wirtschaft", teknoloji:"Technik", spor:"Sport", kultur:"Kultur"}, topicsLabel:"Themen",
-      me:"Mein Profil", meNeed:"Geben Sie Ihren Namen ein und wählen Sie mindestens ein Land.", meTitle:"Mein Profil", meWelcome:"Willkommen! Wählen Sie die Länder und Themen, denen Sie folgen möchten. Fügen Sie beliebig viele eigene Themen hinzu, z. B. Bayern, Inflation, KI.",
-      meLead:"Wählen Sie Länder, Hauptthemen und eigene Themen. Ihr Profil wird nur auf diesem Gerät gespeichert.", myName:"Ihr Name",
-      mainTopics:"Hauptthemen", myTopics:"Meine Themen", addPh:"Thema hinzufügen, z. B. Bayern", add:"Hinzufügen", done:"Fertig", addTab:"+ Thema",
-      kwNone:q => `Keine Meldungen zu „${q}“ in den letzten 48 Stunden.`, kwMore:n => `${n} weitere`, kwLoading:"Suche läuft…", remove:"Entfernen",
-      noTopic:"Wählen Sie oben die gewünschten Reiter.",
-      flash:"Eilmeldungen", flashSince:h => `seit ${h} Uhr`, flashEmpty:"Noch keine neuen Meldungen; die Liste wird alle 30 Minuten aktualisiert.",
-      flashUpd:h => `Aktualisiert ${h}`, more:n => `Alle anzeigen (${n})`, less:"Weniger anzeigen"},
-};
-const NATIVE = {tr:"Türkçe", en:"English", de:"Deutsch"};
-const LANG_IN = {tr:{tr:"Türkçe",en:"İngilizce",de:"Almanca"}, en:{tr:"Turkish",en:"English",de:"German"}, de:{tr:"Türkisch",en:"Englisch",de:"Deutsch"}};
 const TZ = () => config.timezone || "Europe/Berlin";   // baskı günü bu saat dilimine göre
 const $ = s => document.querySelector(s);
 const el = (tag, cls, text) => { const n = document.createElement(tag); if (cls) n.className = cls; if (text != null) n.textContent = text; return n; };
@@ -308,6 +291,15 @@ let config = {time:"06:00", timezone:"Europe/Berlin", languages:["tr"], countrie
 let index = [], current = null, loading = false, flash = null;
 const FLASH_SHOW = 5;   // ülke başına en fazla 5 son dakika maddesi (en yeniler)
 let lang = store.get("lang", null);
+if (!T[lang]){ const nav = (navigator.language || "en").slice(0, 2).toLowerCase(); lang = T[nav] ? nav : "en"; }
+let theme = store.get("theme", "auto");
+/* Uygulamanın sunduğu ülkeler: dünyanın en büyük ekonomileri + Türkiye (+ Dünya). Konu sunucusundaki liste ile aynı. */
+const COUNTRY_LIST = ["world", "us", "cn", "de", "jp", "in", "gb", "fr", "it", "ca", "br", "ru", "kr", "au", "mx", "es",
+  "id", "nl", "sa", "tr", "ch", "pl", "tw", "be", "se", "ie", "ar", "ae", "sg", "il", "at", "no", "th", "ph", "vn", "bd",
+  "my", "dk", "ng", "eg", "za", "co", "cl", "fi", "cz", "pt", "ro", "nz", "gr", "pk", "qa", "hu", "kz", "kw", "pe"];
+let muted = store.get("muted", []);   // seçili ama şu an gizlenen ülkeler (üstteki düğmeler)
+let preparing = new Set();            // haberleri hâlâ hazırlanan ülkeler
+let flashL = null;                    // son dakikanın okuyucunun dilindeki hâli
 let picked = store.get("countries", null);
 let pickedTopics = store.get("tabs", {});   // ülke kodu → okuyucunun açtığı sekmeler (flash = son dakika)
 const TOPIC_ORDER = ["gundem", "ekonomi", "teknoloji", "spor", "kultur"];
@@ -315,7 +307,10 @@ let keywords = store.get("keywords", {});   // ülke kodu → kişinin kendi kon
 let myName = store.get("myName", "");
 if (!store.get("profileDone", false)) document.body.classList.add("onboard");
 const WORLD = "world";
-const t = () => T[lang] || T.tr;
+const t = () => T[lang] || T.en;
+const langName = l => { try { const n = new Intl.DisplayNames([l], {type:"language"}).of(l); return n.charAt(0).toLocaleUpperCase(l) + n.slice(1); } catch { return l; } };
+const API = () => profile ? "" : (config.topicApi || "").replace(/\/$/, "");
+const sleep = ms => new Promise(r => setTimeout(r, ms));
 const countryName = code => { if (code === WORLD) return t().world; try { return new Intl.DisplayNames([lang], {type:"region"}).of(code.toUpperCase()); } catch { return code.toUpperCase(); } };
 const GLOBE = '<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="12" cy="12" r="9"/><path d="M3 12h18M12 3c2.5 2.7 3.8 5.7 3.8 9s-1.3 6.3-3.8 9c-2.5-2.7-3.8-5.7-3.8-9S9.5 5.7 12 3z"/></svg>';
 const flag = code => {
@@ -358,6 +353,7 @@ async function getJSON(path){
 /* ---- Dil ve ülke seçimi ---- */
 function applyLanguageUI(){
   document.documentElement.lang = lang;
+  document.documentElement.dir = RTL.includes(lang) ? "rtl" : "ltr";
   document.title = t().brand;
   $("#brand").textContent = t().brand;
   if (myName || profileLabel) $("#brand").append(el("span", "who", " · " + (myName || profileLabel)));
@@ -367,33 +363,50 @@ function applyLanguageUI(){
   $("#edition-select").setAttribute("aria-label", t().edition);
   $("#chips").setAttribute("aria-label", t().countries);
   $("#footnote").textContent = t().foot;
-  $("#admin-link").textContent = t().admin;
   const sel = $("#lang");
-  sel.replaceChildren(...config.languages.map(l => { const o = el("option", null, NATIVE[l] || l); o.value = l; return o; }));
+  sel.replaceChildren(...LANG_ORDER.map(l => { const o = el("option", null, langName(l)); o.value = l; return o; }));
   sel.value = lang;
-  sel.hidden = config.languages.length < 2;
+  applyTheme();
 }
-$("#lang").addEventListener("change", e => {
-  lang = e.target.value; store.set("lang", lang);
+function setLang(l){
+  if (!T[l] || l === lang) return;
+  lang = l; store.set("lang", lang); flashL = null;
   applyLanguageUI(); fillEditionSelect();
-  if (current) loadEdition(current.date); else renderChips();
-});
+  if ($("#sheet").open) renderSheet();
+  if (current && !document.body.classList.contains("onboard")) loadEdition(current.date); else renderChips();
+}
+$("#lang").addEventListener("change", e => setLang(e.target.value));
 
-function allCountries(){
-  const codes = config.countries.map(c => c.code);
-  for (const c of (current?.countries || [])) if (!codes.includes(c.code)) codes.push(c.code);
-  return codes;
+const THEMES = ["auto", "light", "dark"];
+const THEME_ICON = {
+  auto:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="12" cy="12" r="9"/><path d="M12 3a9 9 0 0 0 0 18z" fill="currentColor"/></svg>',
+  light:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round"><circle cx="12" cy="12" r="4"/><path d="M12 2v2M12 20v2M4.9 4.9l1.4 1.4M17.7 17.7l1.4 1.4M2 12h2M20 12h2M4.9 19.1l1.4-1.4M17.7 6.3l1.4-1.4"/></svg>',
+  dark:'<svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linejoin="round"><path d="M21 12.8A9 9 0 1 1 11.2 3a7 7 0 0 0 9.8 9.8z"/></svg>'};
+function applyTheme(){
+  if (theme === "auto") delete document.documentElement.dataset.theme; else document.documentElement.dataset.theme = theme;
+  const b = $("#theme");
+  b.innerHTML = THEME_ICON[theme];
+  const label = `${t().theme}: ${{auto:t().themeAuto, light:t().themeLight, dark:t().themeDark}[theme]}`;
+  b.title = label; b.setAttribute("aria-label", label);
+}
+$("#theme").addEventListener("click", () => { theme = THEMES[(THEMES.indexOf(theme) + 1) % 3]; store.set("theme", theme); applyTheme(); });
+
+/* Seçilebilecek ülkeler: kişisel (yönetici) profilde o profilin ülkeleri, uygulamada büyük ekonomiler listesi */
+function catalog(){
+  const codes = profile ? config.countries.map(c => c.code) : COUNTRY_LIST.slice();
+  for (const c of picked || []) if (!codes.includes(c)) codes.push(c);
+  const coll = new Intl.Collator(lang);
+  return codes.sort((a, b) => a === WORLD ? -1 : b === WORLD ? 1 : coll.compare(countryName(a), countryName(b)));
 }
 function renderChips(){
-  const codes = allCountries();
-  if (!picked) picked = store.get("profileDone", false) ? codes.slice() : [];   // ilk açılışta ülkeyi kullanıcı seçer
-  $("#chips").replaceChildren(...codes.map(code => {
+  if (!picked) picked = store.get("profileDone", false) ? config.countries.map(c => c.code) : [];
+  $("#chips").replaceChildren(...picked.map(code => {
     const b = el("button", "chip"); b.type = "button";
-    b.setAttribute("aria-pressed", picked.includes(code));
+    b.setAttribute("aria-pressed", !muted.includes(code));
     b.append(el("span", "tick"), flag(code), document.createTextNode(countryName(code)));
     b.onclick = () => {
-      picked = picked.includes(code) ? picked.filter(c => c !== code) : [...picked, code];
-      store.set("countries", picked); renderChips(); render();
+      muted = muted.includes(code) ? muted.filter(c => c !== code) : [...muted, code];
+      store.set("muted", muted); renderChips(); render();
     };
     return b;
   }));
@@ -407,6 +420,12 @@ function fillEditionSelect(){
   if (current) s.value = current.date;
 }
 
+async function fetchAll(){
+  const [idx, cfg, fl] = await Promise.all([getJSON("index.json"), getJSON("config.json").catch(() => config),
+                                           getJSON("flash.json").catch(() => flash)]);
+  config = cfg; flash = fl; flashL = null;
+  return idx;
+}
 async function loadAll(keep, manual){
   if (loading) return;
   loading = true;
@@ -418,22 +437,19 @@ async function loadAll(keep, manual){
         const ok = await fetch(dataPath("config.json") + "?t=" + Date.now(), {cache:"no-store"}).then(r => r.ok).catch(() => true);
         if (!ok){ profile = ""; store.set("profile", ""); profileLabel = ""; }
       }
-      [idx, config, flash] = await Promise.all([getJSON("index.json"), getJSON("config.json").catch(() => config),
-                                         getJSON("flash.json").catch(() => flash)]);
+      idx = await fetchAll();
     } catch {
       if (!current) showState(t().offline, t().offlineText); else if (manual) showStatus("err", t().offlineKeep, 6000);
       return;
     }
     index = idx.editions || [];
-    if (!config.languages.includes(lang)){
-      const nav = (navigator.language || "tr").slice(0, 2);
-      lang = config.languages.includes(nav) ? nav : (config.languages[0] || "tr");
-    }
     applyLanguageUI();
-    if (!store.get("profileDone", false)){   // ilk açılış: önce ad, ülke ve konular; haberler sonra yüklenir
+    if (!store.get("profileDone", false)){   // ilk açılış: önce dil, ad, ülke ve konular (+ hazırlık); haberler sonra yüklenir
       if (!picked) picked = [];
       openProfile();
-      await new Promise(res => $("#sheet").addEventListener("close", res, {once:true}));
+      await new Promise(res => sheetWaiters.push(res));
+      try { index = (await fetchAll()).editions || []; } catch {}
+      applyLanguageUI();
     }
     if (!index.length){ renderChips(); showState(t().none, t().noneText(config.time)); return; }
     fillEditionSelect();
@@ -449,18 +465,51 @@ async function loadAll(keep, manual){
   }
 }
 
+const translated = {};   // "tarih|dil|ülkeler" → çevrilmiş baskı (oturum içi)
 async function loadEdition(date){
   const entry = index.find(e => e.date === date);
   const langs = entry?.langs || [lang];
-  const use = langs.includes(lang) ? lang : (langs.includes("tr") ? "tr" : langs[0]);
-  try { current = await getJSON(`editions/${date}/${use}.json`); }
+  const native = langs.includes(lang);
+  const use = native ? lang : (langs.includes("tr") ? "tr" : langs[0]);
+  let doc;
+  try { doc = await getJSON(`editions/${date}/${use}.json`); }
   catch { showState(t().failed, t().failedText); return; }
-  $("#edition-select").value = date;
   const note = $("#note-lang");
-  note.hidden = use === lang;
-  note.textContent = use === lang ? "" : t().onlyLang(LANG_IN[lang]?.[use] || use);
+  note.hidden = true; note.textContent = "";
+  if (!native && API()){
+    const codes = (picked || []).filter(c => (doc.countries || []).some(x => x.code === c));
+    const key = `${date}|${lang}|${doc.updatedAt}|${codes.join(",")}`;
+    if (codes.length && !translated[key]){
+      showState(t().translating, "");
+      try {
+        const r = await fetch(`${API()}/translate?kind=edition&date=${date}&lang=${lang}&c=${codes.join(",")}`);
+        if (!r.ok) throw new Error(r.status);
+        const tr = await r.json();
+        const byCode = Object.fromEntries((tr.countries || []).filter(c => !c.untranslated).map(c => [c.code, c]));
+        translated[key] = {...doc, lang, countries: (doc.countries || []).map(c => byCode[c.code] || c), partial: (tr.failed || []).length > 0};
+      } catch { translated[key] = null; }
+    }
+    if (translated[key]){ doc = translated[key]; if (doc.partial){ note.hidden = false; note.textContent = t().translateFailed; } }
+    else if (codes.length){ note.hidden = false; note.textContent = t().translateFailed; }
+  } else if (!native){ note.hidden = false; note.textContent = t().translateFailed; }
+  current = doc;
+  $("#edition-select").value = date;
   renderChips();
   render();
+  localizeFlash();
+}
+/* Son dakika: yayın dillerinde değilse konu sunucusu çevirir (her saat yeni maddeler) */
+async function localizeFlash(){
+  if (!flash || !API() || (config.languages || []).includes(lang) || flashL?.lang === lang && flashL.updatedAt === flash.updatedAt) return;
+  const codes = (picked || []).filter(c => flash.countries?.[c]?.length);
+  if (!codes.length) return;
+  try {
+    const r = await fetch(`${API()}/translate?kind=flash&lang=${lang}&c=${codes.join(",")}`);
+    if (!r.ok) return;
+    const tr = await r.json();
+    flashL = {lang, updatedAt: flash.updatedAt, countries: {...flash.countries, ...(tr.countries || {})}};
+    render();
+  } catch {}
 }
 $("#edition-select").addEventListener("change", e => loadEdition(e.target.value));
 $("#update").addEventListener("click", () => loadAll(false, true));
@@ -469,7 +518,7 @@ function render(){
   if (!current) return;
   $("#subtitle").textContent = current.date === todayTR() ? t().today : fmtDate(current.date);
   $("#stamp").textContent = current.updatedAt ? `${t().prepared}: ${fmtTime(current.updatedAt)}` : "";
-  const order = allCountries().filter(c => picked.includes(c));
+  const order = (picked || []).filter(c => !muted.includes(c));
   if (!order.length){ showState(t().pick, ""); return; }
   $("#state").hidden = true;
   const desks = $("#desks"); desks.hidden = false;
@@ -526,7 +575,7 @@ function renderDesk(code, data){
   }
   const kwChosen = chosen.filter(tp => tp.startsWith("kw:"));
   for (const tp of kwChosen) sec.append(renderKeyword(code, tp.slice(3)));
-  if (!data){ if (!kwChosen.length) sec.append(el("p", "stamp", t().noCountry)); return sec; }
+  if (!data){ if (!kwChosen.length) sec.append(el("p", "stamp", preparing.has(code) ? t().preparingCountry : t().noCountry)); return sec; }
   // günün değerlendirmesi Gündem'e aittir (konusuz eski baskılarda her zaman)
   if (data.overview && (!available.length || chosen.includes("gundem"))){
     const ov = el("div", "overview");
@@ -654,23 +703,59 @@ function kwItem(i){
 
 /* Profilim: cihazda saklanır (ad, ülkeler, ana konular, kendi konuları) */
 function saveProfile(){ store.set("keywords", keywords); store.set("tabs", pickedTopics); store.set("countries", picked); store.set("myName", myName); }
+let csearch = "";
 function openProfile(focusCode){
-  const first = !store.get("profileDone", false);
-  $("#sheet-title").textContent = t().meTitle;
-  $("#sheet-lead").textContent = first ? t().meWelcome : t().meLead;
-  $("#name-label").textContent = t().myName;
-  $("#my-name").value = myName;
-  $("#sheet-done").textContent = t().done;
-  checkReady();
-  const wrap = $("#sheet-countries");
-  wrap.replaceChildren(...allCountries().map(code => profileCountry(code)));
+  $("#setup").hidden = false; $("#prep").hidden = true; $("#prep-skip").hidden = true;
+  csearch = ""; $("#csearch").value = "";
+  renderSheet();
   const d = $("#sheet");
   if (!d.open) d.showModal();
   if (focusCode){
-    const box = wrap.querySelector(`[data-code="${focusCode}"]`);
+    const box = $("#sheet-countries").querySelector(`[data-code="${focusCode}"]`);
     box?.scrollIntoView({block:"center"}); box?.querySelector(".kwrow input")?.focus();
   }
 }
+function renderSheet(){
+  const first = !store.get("profileDone", false);
+  $("#sheet-title").textContent = t().meTitle;
+  $("#sheet-lead").textContent = first ? t().meWelcome : t().meLead;
+  $("#lang-title").textContent = t().langTitle;
+  $("#sheet-langs").replaceChildren(...LANG_ORDER.map(l => {
+    const b = el("button", null, langName(l)); b.type = "button"; b.lang = l;
+    b.setAttribute("aria-pressed", l === lang); b.onclick = () => setLang(l);
+    return b;
+  }));
+  $("#name-label").textContent = t().myName;
+  $("#my-name").value = myName;
+  $("#countries-title").textContent = t().countriesTitle;
+  $("#csearch").placeholder = t().countrySearch;
+  $("#sheet-done").textContent = t().save;
+  renderCountryList();
+  $("#sheet-countries").replaceChildren(...picked.map(code => profileCountry(code)));
+  checkReady();
+}
+function renderCountryList(){
+  const q = norm(csearch.trim());
+  const rows = catalog().filter(code => !q || norm(countryName(code)).includes(q) || code === q
+    || norm(code === WORLD ? "world" : new Intl.DisplayNames(["en"], {type:"region"}).of(code.toUpperCase())).includes(q));
+  const box = $("#sheet-clist");
+  box.replaceChildren(...rows.map(code => {
+    const l = el("label"); const cb = el("input"); cb.type = "checkbox"; cb.checked = picked.includes(code);
+    cb.onchange = () => togglePicked(code, cb.checked);
+    l.append(cb, flag(code), el("span", null, countryName(code)));
+    return l;
+  }));
+  if (!rows.length) box.append(el("div", "none", t().noMatch));
+}
+function togglePicked(code, on){
+  picked = on ? (picked.includes(code) ? picked : [...picked, code]) : picked.filter(c => c !== code);
+  if (!on) muted = muted.filter(c => c !== code);
+  saveProfile(); store.set("muted", muted);
+  renderCountryList();
+  $("#sheet-countries").replaceChildren(...picked.map(c => profileCountry(c)));
+  checkReady(); renderChips(); render();
+}
+$("#csearch").addEventListener("input", e => { csearch = e.target.value; renderCountryList(); });
 function checkReady(){   // ilk kurulumda ad ve en az bir ülke zorunlu
   const first = !store.get("profileDone", false);
   const ok = !first || (myName && picked.length);
@@ -683,10 +768,7 @@ function profileCountry(code){
   const hd = el("label", "hd"); const cb = el("input"); cb.type = "checkbox"; cb.checked = on;
   hd.append(cb, flag(code), document.createTextNode(countryName(code)));
   const body = el("div", "body");
-  cb.onchange = () => {
-    picked = cb.checked ? [...picked, code] : picked.filter(c => c !== code);
-    box.classList.toggle("off", !cb.checked); saveProfile(); renderChips(); render(); checkReady();
-  };
+  cb.onchange = () => togglePicked(code, cb.checked);
   // ana konular (+ son dakika)
   const cfgTopics = (config.countries.find(c => c.code === code)?.topics) || TOPIC_ORDER;
   const main = el("div"); main.append(el("div", "sub", t().mainTopics));
@@ -746,12 +828,95 @@ function profileCountry(code){
 $("#me").addEventListener("click", () => openProfile());
 $("#my-name").addEventListener("input", e => { myName = e.target.value.trim(); saveProfile(); applyLanguageUI(); checkReady(); });
 $("#sheet").addEventListener("cancel", e => { if (!store.get("profileDone", false)) e.preventDefault(); });   // Esc ile kurulum atlanmasın
-$("#sheet").addEventListener("close", () => { store.set("profileDone", true); document.body.classList.remove("onboard"); render(); });
+/* Pencere kapanınca (Kaydet, hazırlık bitti ya da Esc): bazı tarayıcılar "close" olayını geciktirdiği için doğrudan da çağrılır */
+const sheetWaiters = [];
+function sheetClosed(){
+  if (!store.get("profileDone", false) || document.body.classList.contains("onboard")){
+    store.set("profileDone", true); document.body.classList.remove("onboard");
+  }
+  sheetWaiters.splice(0).forEach(res => res());
+  render();
+}
+$("#sheet").addEventListener("close", sheetClosed);
+$("#sheet-done").addEventListener("click", saveAndPrepare);
+$("#prep-skip").addEventListener("click", () => finishSheet());
+let prepRun = 0;
+async function saveAndPrepare(){
+  if ($("#sheet-done").disabled) return;
+  saveProfile();
+  const need = await missingCountries(picked);
+  if (!need.length) return finishSheet();
+  await runPrep(need);
+}
+async function missingCountries(codes){   // konu sunucusuna sor: hangi ülkenin haberi henüz yok?
+  if (!API() || !codes.length) return [];
+  try {
+    const r = await fetch(`${API()}/prepare?c=${codes.join(",")}`);
+    if (!r.ok) return [];
+    const st = (await r.json()).countries || {};
+    return codes.filter(c => st[c] && st[c].state !== "ready");
+  } catch { return []; }
+}
+async function runPrep(codes){
+  const my = ++prepRun;
+  preparing = new Set(codes);
+  $("#setup").hidden = true; $("#prep").hidden = false;
+  $("#sheet-done").hidden = true; $("#sheet-need").textContent = "";
+  $("#prep-title").textContent = t().prepTitle;
+  $("#prep-lead").textContent = t().prepLead;
+  const skip = $("#prep-skip"); skip.textContent = t().prepContinue; skip.hidden = true;
+  const rows = {};
+  $("#prep-list").replaceChildren(...codes.map(code => {
+    const li = el("li"); const hd = el("div", "hd");
+    const st = el("span", "st", t().prepWait);
+    hd.append(flag(code), el("span", null, countryName(code)), st);
+    const bar = el("div", "bar"); for (let i = 0; i < 4; i++) bar.append(el("i"));
+    const step = el("div", "step", "");
+    li.append(hd, bar, step); rows[code] = {st, bar, step};
+    return li;
+  }));
+  const started = Date.now();
+  let fails = 0;
+  while (my === prepRun && $("#sheet").open){
+    let st = null;
+    try {
+      const r = await fetch(`${API()}/prepare?c=${codes.join(",")}&start=1`);
+      if (r.ok) st = (await r.json()).countries; else fails++;
+    } catch { fails++; }
+    if (st){
+      fails = 0;
+      for (const code of codes){
+        const s = st[code] || {state:"working", step:0}, row = rows[code];
+        const steps = t().prepSteps;
+        row.bar.querySelectorAll("i").forEach((b, i) => { b.className = s.state === "ready" || i < s.step - 1 ? "done" : i === s.step - 1 && s.state === "working" ? "now" : ""; });
+        if (s.state === "ready"){ row.st.className = "st ok"; row.st.textContent = t().prepReady; row.step.textContent = ""; preparing.delete(code); }
+        else if (s.state === "failed"){ row.st.className = "st err"; row.st.textContent = ""; row.step.textContent = t().prepFailed; }
+        else { row.st.className = "st"; row.st.textContent = s.step ? `${s.step}/4` : t().prepWait; row.step.textContent = s.step ? steps[s.step - 1] : ""; }
+      }
+      const done = codes.every(c => ["ready", "failed"].includes(st[c]?.state));
+      if (done) break;
+    } else if (fails >= 3){ $("#sheet-need").textContent = t().prepOffline; }
+    if (Date.now() - started > 90e3 || codes.some(c => st?.[c]?.state === "ready")) skip.hidden = false;
+    if (Date.now() - started > 30 * 60e3) break;
+    await sleep(8000);
+  }
+  if (my === prepRun && $("#sheet").open) finishSheet();
+}
+function finishSheet(){
+  prepRun++;
+  $("#sheet-done").hidden = false;
+  const d = $("#sheet");
+  const wasFirst = sheetWaiters.length > 0;   // ilk açılışta yükleme pencerenin kapanmasını bekliyor
+  if (d.open) d.close();
+  sheetClosed();
+  if (!wasFirst) loadAll(true);
+}
 
 /* Son dakika: yalnızca en son baskı açıkken; baskı saatinden (07:00) beri saat başı eklenen tek cümlelik haberler */
 function renderFlash(code){
   if (!flash || !current || current.date !== index[0]?.date) return null;
-  const all = (flash.countries?.[code] || []).filter(x => x.text && (x.text[lang] || x.text.tr));
+  const src = flashL?.lang === lang ? flashL : flash;
+  const all = (src.countries?.[code] || []).filter(x => x.text && (x.text[lang] || x.text.tr));
   const box = el("div", "flash");
   const h = el("h3"); h.append(el("span", "live"), document.createTextNode(t().flash));
   box.append(h);
@@ -788,7 +953,7 @@ function renderItem(it){
   return li;
 }
 
-if (!T[lang]){ const nav = (navigator.language || "tr").slice(0, 2); lang = T[nav] ? nav : "tr"; }
+applyLanguageUI();
 showState(t().loading, t().loadingText);
 if (profile) fetch("data/profiles.json?t=" + Date.now()).then(r => r.json()).then(j => {
   profileLabel = (j.profiles || []).find(x => x.id === profile)?.name || ""; if (profileLabel) applyLanguageUI();
