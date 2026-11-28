@@ -1,8 +1,18 @@
 {
  "since": "2026-11-27T05:15+01:00",
- "updatedAt": "2026-11-28T01:21+01:00",
+ "updatedAt": "2026-11-28T02:21+01:00",
  "countries": {
   "world": [
+   {
+    "time": "2026-11-28T01:02:05+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+    "importance": 2,
+    "text": {
+     "tr": "Avustralya'nın Victoria eyaletinde seçmenler, koalisyon ile İşçi Partisi arasındaki kritik seçim için sandık başına gitti.",
+     "de": "Voter in Australiens Bundesstaat Victoria gingen zu den Wahlen an die Urnen, während die Koalition die regierende Labour-Partei ablösen will."
+    }
+   },
    {
     "time": "2026-11-27T23:34:55+00:00",
     "source": "The Guardian World",
@@ -11,16 +21,6 @@
     "text": {
      "tr": "İngiltere Eğitim Bakanı, ulusal müfredat reformları kapsamında ilkokullarda öğrencilere okuma zamanı ayrılacağını duyuracak.",
      "de": "Die britische Bildungsministerin wird voraussichtlich ankündigen, dass Schulen in England feste Lesezeiten für Schüler einrichten müssen."
-    }
-   },
-   {
-    "time": "2026-11-27T23:28:50+00:00",
-    "source": "The Guardian World",
-    "url": "https://www.theguardian.com/technology/2026/nov/27/openai-countersues-apple-trade-secrets",
-    "importance": 2,
-    "text": {
-     "tr": "OpenAI, ticari sırlarını çaldığı ve donanım tedarikçilerini baskı altında tuttuğu iddiasıyla Apple'a karşı dava açtı.",
-     "de": "OpenAI hat Apple in den USA verklagt und wirft dem Unternehmen vor, Geschäftsgeheimnisse gestohlen und Lieferanten unter Druck gesetzt zu haben."
     }
    },
    {
@@ -56,6 +56,16 @@
   ],
   "de": [
    {
+    "time": "2026-11-28T00:54:06+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b0a23aa741a4ef94784ae66/ukraine-krieg-ukraine-gelingt-abschuss-einer-russischen-drohne-mit-einem-lasersystem.html",
+    "importance": 2,
+    "text": {
+     "tr": "Ukrayna, Carmine Sky tarafından geliştirilen bir lazer hava savunma sistemiyle Rus insansız hava aracını düşürdü.",
+     "de": "Der Ukraine gelang erstmals der Abschuss einer russischen Drohne mit einem experimentellen Lasersystem der Firma Carmine Sky."
+    }
+   },
+   {
     "time": "2026-11-28T00:35:35+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
@@ -63,6 +73,16 @@
     "text": {
      "tr": "Alman kabinesi, ocak ayında yürürlüğe girmesi planlanan akaryakıt fiyatı tavanı tasarıcısını çarşamba günü görüşecek.",
      "de": "Das Bundeskabinett will am Mittwoch über einen Entwurf für einen Spritpreisdeckel abstimmen, der ab Januar gelten soll."
+    }
+   },
+   {
+    "time": "2026-11-28T00:18:25+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b0a1cd97df78695bac964cc/objekt-am-himmel-betrieb-am-flughafen-koeln-bonn-nach-drohensichtung-eingestellt.html",
+    "importance": 2,
+    "text": {
+     "tr": "Kölner-Bonn Havalimanı üzerinde bir insansız hava aracının tespit edilmesi üzerine tüm uçuşlar askıya alındı.",
+     "de": "Nach einer Drohnensichtung über dem Flughafen Köln-Bonn wurden sämtliche Starts und Landungen vorübergehend eingestellt."
     }
    },
    {
@@ -83,26 +103,6 @@
     "text": {
      "tr": "Lojistik şirketi MAN, Wolfsburg'dan gelen baskılara rağmen Almanya'da 2035 yılına kadar iş garantisi verdiğini açıkladı.",
      "de": "MAN hat seinen Mitarbeitern trotz Spardruck aus Wolfsburg Arbeitsplätze bis 2035 garantiert und investiert fast eine Milliarde Euro."
-    }
-   },
-   {
-    "time": "2026-11-27T23:46:00+01:00",
-    "source": "Der Spiegel",
-    "url": "https://www.spiegel.de/sport/fussball/fussball-bundesliga-niclas-fuellkrug-rettet-werder-bremen-spaet-punkt-gegen-gladbach-a-94a30fb6-786d-46b3-af87-43a7c6ed1511#ref=rss",
-    "importance": 1,
-    "text": {
-     "tr": "Niclas Füllkrug, uzatma dakikalarında attığı golle Werder Bremen'e Gladbach karşısında beraberliği getirdi.",
-     "de": "Niclas Füllkrug rettete Werder Bremen mit seinem späten Treffer in der Nachspielzeit ein Unentschieden gegen Gladbach."
-    }
-   },
-   {
-    "time": "2026-11-27T23:10:29+01:00",
-    "source": "tagesschau",
-    "url": "https://www.tagesschau.de/inland/innenpolitik/schweitzer-interview-100.html",
-    "importance": 2,
-    "text": {
-     "tr": "Almanya Çalışma Bakanı Alexander Schweitzer, yeni emeklilik reformu planlarının parti içinde ve kamuoyunda uzlaşma sağlayabileceğini söyledi.",
-     "de": "Bundesarbeitsminister Alexander Schweitzer bezeichnete seine Pläne für die Rentenreform als Grundlage für einen Konsens."
     }
    }
   ],
@@ -161,6 +161,16 @@
  },
  "archive": {
   "world": [
+   {
+    "time": "2026-11-28T01:02:05+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+    "importance": 2,
+    "text": {
+     "tr": "Avustralya'nın Victoria eyaletinde seçmenler, koalisyon ile İşçi Partisi arasındaki kritik seçim için sandık başına gitti.",
+     "de": "Voter in Australiens Bundesstaat Victoria gingen zu den Wahlen an die Urnen, während die Koalition die regierende Labour-Partei ablösen will."
+    }
+   },
    {
     "time": "2026-11-27T23:34:55+00:00",
     "source": "The Guardian World",
@@ -539,6 +549,16 @@
   ],
   "de": [
    {
+    "time": "2026-11-28T00:54:06+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/ausland/article6b0a23aa741a4ef94784ae66/ukraine-krieg-ukraine-gelingt-abschuss-einer-russischen-drohne-mit-einem-lasersystem.html",
+    "importance": 2,
+    "text": {
+     "tr": "Ukrayna, Carmine Sky tarafından geliştirilen bir lazer hava savunma sistemiyle Rus insansız hava aracını düşürdü.",
+     "de": "Der Ukraine gelang erstmals der Abschuss einer russischen Drohne mit einem experimentellen Lasersystem der Firma Carmine Sky."
+    }
+   },
+   {
     "time": "2026-11-28T00:35:35+01:00",
     "source": "tagesschau",
     "url": "https://www.tagesschau.de/inland/innenpolitik/spritpreisdeckel-entwurf-kabinett-100.html",
@@ -546,6 +566,16 @@
     "text": {
      "tr": "Alman kabinesi, ocak ayında yürürlüğe girmesi planlanan akaryakıt fiyatı tavanı tasarıcısını çarşamba günü görüşecek.",
      "de": "Das Bundeskabinett will am Mittwoch über einen Entwurf für einen Spritpreisdeckel abstimmen, der ab Januar gelten soll."
+    }
+   },
+   {
+    "time": "2026-11-28T00:18:25+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b0a1cd97df78695bac964cc/objekt-am-himmel-betrieb-am-flughafen-koeln-bonn-nach-drohensichtung-eingestellt.html",
+    "importance": 2,
+    "text": {
+     "tr": "Kölner-Bonn Havalimanı üzerinde bir insansız hava aracının tespit edilmesi üzerine tüm uçuşlar askıya alındı.",
+     "de": "Nach einer Drohnensichtung über dem Flughafen Köln-Bonn wurden sämtliche Starts und Landungen vorübergehend eingestellt."
     }
    },
    {
@@ -1219,6 +1249,7 @@
   "https://www.bbc.co.uk/news/articles/c6rrg28npvzeo",
   "https://www.bbc.co.uk/news/articles/c820q9wgrpyyo",
   "https://www.bbc.co.uk/news/articles/c8wy5p4gdnwvo",
+  "https://www.bbc.co.uk/news/articles/cj20q9pw0116o",
   "https://www.bbc.co.uk/news/articles/ckd71ypy9e8eo",
   "https://www.bbc.co.uk/news/articles/ckm2mz3prq77o",
   "https://www.bbc.co.uk/news/articles/ckr5grlq78n9o",
@@ -1243,6 +1274,7 @@
   "https://www.bbc.com/turkce/articles/cm3wgxjn1e20o",
   "https://www.bbc.com/turkce/articles/cmge3r8983wno",
   "https://www.bbc.com/turkce/articles/cmpqrvg1g0r5o",
+  "https://www.bbc.com/turkce/articles/cmvg20er901ro",
   "https://www.bbc.com/turkce/articles/cmwy0wpr9xyzo",
   "https://www.bbc.com/turkce/articles/cmx289847rl5o",
   "https://www.bbc.com/turkce/articles/cq0l36egyn30o",
@@ -1464,7 +1496,19 @@
   "https://www.cumhuriyet.com.tr/yasam/sac-tellerinden-cikan-dna-sirri-cozdu-beethoven-in-vasiyeti-200-yil-sonra-yerine-getirildi-2559871",
   "https://www.cumhuriyet.com.tr/yasam/unye-bahcelerinde-hasat-basladi-hem-besin-degeri-cok-yuksek-hem-ureticisine-kazandiriyor-2559902",
   "https://www.cumhuriyet.com.tr/yasam/yillar-gecse-de-zihinden-silinmiyor-en-kalici-anilar-hangi-yaslarda-olusuyor-2559888",
+  "https://www.cumhuriyet.com.tr/yazarlar/arif-kizilyalin/neredesin-tff-2560062",
+  "https://www.cumhuriyet.com.tr/yazarlar/isik-kansu/yemen-de-olecekmisiz-2560056",
+  "https://www.cumhuriyet.com.tr/yazarlar/jale-ozgenturk/orta-diregi-kim-eritti-2560059",
+  "https://www.cumhuriyet.com.tr/yazarlar/mehmet-ali-guller/trump-kurtlere-sirt-dondu-2560055",
+  "https://www.cumhuriyet.com.tr/yazarlar/miyase-ilknur/kediyi-aslan-goren-fare-kim-2560053",
+  "https://www.cumhuriyet.com.tr/yazarlar/murat-agirel/adalet-kime-gore-adalet-2560054",
+  "https://www.cumhuriyet.com.tr/yazarlar/mustafa-balbay/terorsuz-ve-ana-muhalefetsiz-turkiye-2560051",
+  "https://www.cumhuriyet.com.tr/yazarlar/oktay-eksi/kaos-2560050",
+  "https://www.cumhuriyet.com.tr/yazarlar/olaylar-ve-gorusler/aladag-dan-suleymancilara-bakmak-s-can-atalay-2560048",
+  "https://www.cumhuriyet.com.tr/yazarlar/oner-yagci/dostlar-bir-bir-gidiyor-2560058",
   "https://www.cumhuriyet.com.tr/yazarlar/orhan-bursali/koc-bilim-odulu-nu-kazanan-bilim-insani-prof-dr-utkan-demirci-akademik-girisimci-2559857",
+  "https://www.cumhuriyet.com.tr/yazarlar/orsan-k-oymen/sahte-muslumanlar-2560052",
+  "https://www.cumhuriyet.com.tr/yazarlar/tugrul-aksar/futbol-buyudu-gelir-kuculdu-2560063",
   "https://www.cumhuriyet.com.tr/yerel-gundem/atakum-da-siddetsiz-dunya-mumkun-cagrisi-2559975",
   "https://www.cumhuriyet.com.tr/yerel-gundem/ortahisar-belediyesi-caglayan-daki-kentsel-donusumun-yuzde-35-ini-tamamladi-2559977",
   "https://www.cumhuriyet.com.tr/yerel-gundem/yumurtalik-ta-gida-isletmelerine-siki-denetim-2559979",
@@ -1953,6 +1997,7 @@
   "https://www.theguardian.com/australia-news/2026/nov/28/jess-wilson-melbourne-sewage-plants-privatisation-risks-water-and-wetlands",
   "https://www.theguardian.com/australia-news/2026/nov/28/nsw-labor-is-trampling-over-party-principles-with-preselections-by-captains-call-members-say",
   "https://www.theguardian.com/australia-news/2026/nov/28/vic-election-labor-faces-electoral-wipeout-as-voters-turn-to-liberals-and-one-nation-ntwnfb",
+  "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
   "https://www.theguardian.com/business/2026/nov/27/bank-tax-rise-customers-bank-of-england-andrew-bailey",
   "https://www.theguardian.com/business/2026/nov/27/british-gas-owner-seeks-urgent-government-talks-gas-storage-faciity-future",
@@ -2031,6 +2076,7 @@
   "https://www.welt.de/politik/ausland/article6b091e4846039c5f0be5bb9e/ukraine-krieg-es-ist-seltsam-sagt-selenskyj-ueber-trumps-beziehung-zu-putin-und-zieht-hitler-vergleich.html",
   "https://www.welt.de/politik/ausland/article6b0925d12c57ecf5a872a858/nordkorea-bremst-laut-ukraine-militaerhilfe-fuer-russland-wegen-aussage-von-vize-aussenminister.html",
   "https://www.welt.de/politik/ausland/article6b09f40d7df78695bac963e0/afd-chefin-frau-weidel-hat-putins-sprechzettel-offenbar-gruendlich-studiert-sagt-der-ukrainische-botschafter.html",
+  "https://www.welt.de/politik/ausland/article6b0a23aa741a4ef94784ae66/ukraine-krieg-ukraine-gelingt-abschuss-einer-russischen-drohne-mit-einem-lasersystem.html",
   "https://www.welt.de/politik/ausland/plus6afc16b5bfa018bfcc989e36/frankreich-le-pen-hat-weder-die-intelligenz-noch-die-ernsthaftigkeit-noch-die-faehigkeiten-melonis.html",
   "https://www.welt.de/politik/ausland/plus6afc16b5bfa018bfcc989e36/frankreich-melenchon-oder-le-pen-waehlen-heisst-putin-waehlen.html",
   "https://www.welt.de/politik/ausland/plus6b0936fd09772de371850f35/zuwanderung-wir-machen-hier-nicht-schluss-grossbritannien-auf-dem-weg-zur-netto-null-migration.html",
@@ -2042,6 +2088,7 @@
   "https://www.welt.de/politik/deutschland/article6b09392f46039c5f0be5bd80/philipp-tuermer-kein-mensch-weiss-wofuer-die-spd-heute-steht-sagt-der-juso-chef.html",
   "https://www.welt.de/politik/deutschland/article6b0964196a4ea151d91c23a0/zentralrat-reagiert-auf-weidel-die-afd-sucht-seit-jahren-nach-einem-feigenblatt-fuer-ihre-ressentimentgeladene-politik.html",
   "https://www.welt.de/politik/deutschland/article6b098e5b3d0d9d6539f8fe55/rentenreform-schweitzer-legt-renten-gesetzentwurf-vor-rente-mit-63-bleibt-abgeordnete-sollen-einzahlen.html",
+  "https://www.welt.de/politik/deutschland/article6b0a1cd97df78695bac964cc/objekt-am-himmel-betrieb-am-flughafen-koeln-bonn-nach-drohensichtung-eingestellt.html",
   "https://www.welt.de/politik/deutschland/plus6b044fc066a00c9ca1fe11a0/spd-das-herz-schlaegt-links-der-juso-chef-redet-sich-auf-dem-bundeskongress-in-rage.html",
   "https://www.welt.de/politik/deutschland/plus6b06a265cd4642ba2eb17f53/was-gute-lehrer-ausmacht-wenn-wir-diese-positionierung-aufgeben-haben-wir-verloren.html",
   "https://www.welt.de/politik/deutschland/plus6b07f66809772de37184f266/aufwuchs-der-bundeswehr-massives-fuehrungsversagen-aerger-ueber-den-umbau-der-bundeswehrverwaltung.html",
