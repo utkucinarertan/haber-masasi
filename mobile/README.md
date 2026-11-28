@@ -1,4 +1,6 @@
-# Haber Masası: telefon uygulaması (Google Play + App Store)
+# NewsByFocus: telefon uygulaması (Google Play + App Store)
+
+> **App Store'a çıkış için güncel rehber: [APP_STORE.md](APP_STORE.md)** (bulut derleme, mağaza metinleri, gizlilik etiketi, ekran görüntüleri).
 
 Bu klasör, `docs/` altındaki web uygulamasını (PWA) Android ve iOS uygulamasına çeviren
 **Capacitor 8** projesidir.
