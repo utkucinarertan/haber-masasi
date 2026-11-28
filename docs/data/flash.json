@@ -1,7 +1,133 @@
 {
  "since": "2026-11-28T05:15+01:00",
- "updatedAt": "2026-11-28T05:22+01:00",
- "countries": {},
- "archive": {},
- "seen": []
+ "updatedAt": "2026-11-28T06:22+01:00",
+ "countries": {
+  "de": [
+   {
+    "time": "2026-11-28T05:58:25+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+    "importance": 2,
+    "text": {
+     "tr": "Çalışma Bakanı Schweitzer'in emeklilik planları Birlik partilerinden eleştiri aldı.",
+     "de": "Arbeitsminister Schweitzers Rentenpläne stoßen auf heftige Kritik in der Union."
+    }
+   },
+   {
+    "time": "2026-11-28T05:09:19+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b0a5fe37df78695bac965a3/ba-chefin-fachkraefte-mangel-nahles-will-ausgewanderte-deutsche-zurueckholen.html",
+    "importance": 1,
+    "text": {
+     "tr": "Federal İş Bulma Ajansı Başkanı Nahles, yurt dışındaki kalifiye Almanları ülkeye geri getirmek istiyor.",
+     "de": "BA-Chefin Nahles will ausgewanderte deutsche Fachkräfte zurückholen."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-28T07:24:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011543/sinir-tanimayan-doktorlar-israil-in-gazze-de-klinigimize-duzenledigi-saldirida-2-calisanimiz-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Sınır Tanımayan Doktorlar, Gazze'deki kliniklerine düzenlenen İsrail saldırısında 2 çalışanının öldüğünü açıkladı.",
+     "de": "Ärzte ohne Grenzen gab an, dass bei einem israelischen Angriff auf ihre Klinik in Gaza zwei Mitarbeiter getötet wurden."
+    }
+   },
+   {
+    "time": "2026-11-28T07:19:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011542/spk-den-553-milyon-liralik-idari-para-cezasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, üçü gerçek 10 kişiye 55,3 milyon lira idari para cezası verdi.",
+     "de": "Die türkische Kapitalmarktaufsicht SPK hat Geldstrafen in Höhe von 55,3 Millionen Lira verhängt."
+    }
+   }
+  ],
+  "world": [
+   {
+    "time": "2026-11-28T04:19:16+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+    "importance": 2,
+    "text": {
+     "tr": "Peru'da bir askeri helikopterin düşmesi sonucu 8 kişi hayatını kaybetti.",
+     "de": "Bei einem Absturz eines peruanischen Militärhelikopters wurden acht Menschen getötet."
+    }
+   }
+  ]
+ },
+ "archive": {
+  "de": [
+   {
+    "time": "2026-11-28T05:58:25+01:00",
+    "source": "tagesschau",
+    "url": "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+    "importance": 2,
+    "text": {
+     "tr": "Çalışma Bakanı Schweitzer'in emeklilik planları Birlik partilerinden eleştiri aldı.",
+     "de": "Arbeitsminister Schweitzers Rentenpläne stoßen auf heftige Kritik in der Union."
+    }
+   },
+   {
+    "time": "2026-11-28T05:09:19+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/politik/deutschland/article6b0a5fe37df78695bac965a3/ba-chefin-fachkraefte-mangel-nahles-will-ausgewanderte-deutsche-zurueckholen.html",
+    "importance": 1,
+    "text": {
+     "tr": "Federal İş Bulma Ajansı Başkanı Nahles, yurt dışındaki kalifiye Almanları ülkeye geri getirmek istiyor.",
+     "de": "BA-Chefin Nahles will ausgewanderte deutsche Fachkräfte zurückholen."
+    }
+   }
+  ],
+  "tr": [
+   {
+    "time": "2026-11-28T07:24:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011543/sinir-tanimayan-doktorlar-israil-in-gazze-de-klinigimize-duzenledigi-saldirida-2-calisanimiz-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Sınır Tanımayan Doktorlar, Gazze'deki kliniklerine düzenlenen İsrail saldırısında 2 çalışanının öldüğünü açıkladı.",
+     "de": "Ärzte ohne Grenzen gab an, dass bei einem israelischen Angriff auf ihre Klinik in Gaza zwei Mitarbeiter getötet wurden."
+    }
+   },
+   {
+    "time": "2026-11-28T07:19:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011542/spk-den-553-milyon-liralik-idari-para-cezasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, üçü gerçek 10 kişiye 55,3 milyon lira idari para cezası verdi.",
+     "de": "Die türkische Kapitalmarktaufsicht SPK hat Geldstrafen in Höhe von 55,3 Millionen Lira verhängt."
+    }
+   }
+  ],
+  "world": [
+   {
+    "time": "2026-11-28T04:19:16+00:00",
+    "source": "BBC News World",
+    "url": "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+    "importance": 2,
+    "text": {
+     "tr": "Peru'da bir askeri helikopterin düşmesi sonucu 8 kişi hayatını kaybetti.",
+     "de": "Bei einem Absturz eines peruanischen Militärhelikopters wurden acht Menschen getötet."
+    }
+   }
+  ]
+ },
+ "seen": [
+  "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
+  "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-28-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2560090",
+  "https://www.evrensel.net/haber/6011542/spk-den-553-milyon-liralik-idari-para-cezasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011543/sinir-tanimayan-doktorlar-israil-in-gazze-de-klinigimize-duzenledigi-saldirida-2-calisanimiz-hayatini-kaybetti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011544/tayvan-cin-e-ait-askeri-hava-araclari-ada-cevresinde-33-ucus-yapti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-reaktionen-auf-schweitzers-plaene-ringen-um-rente-geht-weiter-faz-110093143.html",
+  "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
+  "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
+  "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
+  "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
+  "https://www.welt.de/politik/deutschland/article6b0a5fe37df78695bac965a3/ba-chefin-fachkraefte-mangel-nahles-will-ausgewanderte-deutsche-zurueckholen.html"
+ ]
 }
