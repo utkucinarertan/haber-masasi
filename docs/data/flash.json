@@ -1,6 +1,6 @@
 {
  "since": "2026-11-28T05:15+01:00",
- "updatedAt": "2026-11-28T09:22+01:00",
+ "updatedAt": "2026-11-28T10:23+01:00",
  "countries": {
   "de": [
    {
@@ -11,6 +11,26 @@
     "text": {
      "tr": "Köln/Bonn Havalimanı'nda tespit edilen bir insansız hava aracı nedeniyle uçak seferleri gece saatlerinde geçici olarak durduruldu.",
      "de": "Wegen einer gesichteten Drohne ist der Flugbetrieb am Flughafen Köln/Bonn in der Nacht vorübergehend eingestellt worden."
+    }
+   },
+   {
+    "time": "2026-11-28T09:13:19+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/wintersport/eiskunstlauf-minerva-hase-und-nikita-volodin-setzen-erfolgsserie-fort-accg-201725608.html",
+    "importance": 1,
+    "text": {
+     "tr": "Alman Eiskunstlauf çifti Minerva Hase ve Nikita Volodin, Tokio'daki Grand Prix'de birinci oldu.",
+     "de": "Das deutsche Eiskunstlauf-Paar Minerva Hase und Nikita Volodin hat den Grand Prix in Tokio gewonnen."
+    }
+   },
+   {
+    "time": "2026-11-28T08:41:29+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/videos/video6b0a712f7df78695bac9662d/perm-putins-neues-atom-u-boot-serienmaessig-mit-hyperschallraketen-600-meter-tauchtiefe.html",
+    "importance": 2,
+    "text": {
+     "tr": "Rusya Devlet Başkanı Vladimir Putin, hipersonik füzelerle donatılmış yeni Perm nükleer denizaltısını hizmete soktu.",
+     "de": "Wladimir Putin hat das neue atomgetriebene U-Boot »Perm« mit Hyperschallraketen offiziell in Dienst gestellt."
     }
    },
    {
@@ -32,29 +52,29 @@
      "tr": "Ulaştırma Bakanı Steffen Bilger, aşırı yüklenen demir yolu ağında tren seferlerinin azaltılması ihtimalini dışlamadı.",
      "de": "Verkehrsminister Steffen Bilger schließt wegen des überlasteten Schienennetzes eine Reduzierung von Zugverbindungen nicht aus."
     }
-   },
-   {
-    "time": "2026-11-28T07:05:00+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/deutschland/plus6b0834a009772de37184fcd9/verteidigungspolitik-interne-dokumente-belegen-massive-ausweitung-der-deutsch-ukrainischen-militaerkooperation.html",
-    "importance": 2,
-    "text": {
-     "tr": "Almanya, iç belgelerin de doğruladığı üzere Ukrayna ile askeri iş birliğini ve savaşta test edilmiş silah teknolojisi tedarikini büyük ölçüde artırıyor.",
-     "de": "Deutschland weitet laut internen Dokumenten die deutsch-ukrainische Militärkooperation massiv aus und setzt auf kriegserprobte Waffentechnologie."
-    }
-   },
-   {
-    "time": "2026-11-28T06:59:55+00:00",
-    "source": "Die Welt",
-    "url": "https://www.welt.de/politik/ausland/article6b09631f741a4ef947849a7b/neue-studie-anschlaege-entfuehrungen-morde-deutschland-im-visier-des-iran.html",
-    "importance": 2,
-    "text": {
-     "tr": "Yeni bir çalışma, Köln'deki bir sinagoga yönelik planlanan saldırı girişimi dahil olmak üzere İran destekli unsurların Avrupa'daki faaliyetlerini artırdığını ortaya koydu.",
-     "de": "Eine Studie zeigt, dass mit dem Iran verbündete Kräfte ihre Aktivitäten in Europa und besonders in Deutschland deutlich ausgeweitet haben."
-    }
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-28T12:13:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-manipulasyonuna-spk-kiskaci-tera-portfoy-e-2-yil-yasak-167-isim-yargiya-sevk-edildi-2560147",
+    "importance": 2,
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, Tera Portföy ve ilgili şirketlere 2 yıl işlem yasağı getirdi ve 167 kişiyi yargıya sevk etti.",
+     "de": "Die Kapitalmarktbehörde SPK hat Tera Portföy und verbundenen Unternehmen ein zweijähriges Handelsverbot auferlegt und 167 Personen an die Justiz übergeben."
+    }
+   },
+   {
+    "time": "2026-11-28T12:07:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011572/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "İçişleri Bakanlığı, 29 ilde IŞİD'e yönelik düzenlenen operasyonlarda 84 kişinin gözaltına alındığını açıkladı.",
+     "de": "Das Innenministerium gab bekannt, dass bei IWF-Operationen in 29 Provinzen 84 Personen festgenommen wurden."
+    }
+   },
    {
     "time": "2026-11-28T10:43:00+03:00",
     "source": "Evrensel",
@@ -84,26 +104,6 @@
      "tr": "Türkiye'de enerji nakil ve iletim hatları için 9 ilde acele kamulaştırma kararları Resmi Gazete'de yayımlandı.",
      "de": "In der Türkei wurden im Amtsblatt Eilenteignungen für Energieübertragungsleitungen in neun Provinzen veröffentlicht."
     }
-   },
-   {
-    "time": "2026-11-28T09:49:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011553/kuzey-kore-ve-rusya-ekonomik-is-birligi-protokolu-imzaladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 1,
-    "text": {
-     "tr": "Kuzey Kore ve Rusya, Pyongyang'da gerçekleştirilen toplantıda ticaret, enerji ve tarım alanlarını kapsayan ekonomik iş birliği protokolü imzaladı.",
-     "de": "Nordkorea und Russland haben in Pjöngjang ein wirtschaftliches Kooperationsprotokoll in den Bereichen Handel, Energie und Landwirtschaft unterzeichnet."
-    }
-   },
-   {
-    "time": "2026-11-28T08:52:00+03:00",
-    "source": "Evrensel",
-    "url": "https://www.evrensel.net/haber/6011548/konaklama-vergisinde-yuzde-1-uygulamasi-2027-sonuna-kadar-uzatildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
-    "importance": 1,
-    "text": {
-     "tr": "Türkiye'de konaklama vergisinin yüzde 1 olarak uygulanması 2027 yılının sonuna kadar uzatıldı.",
-     "de": "Die Türkei hat den ermäßigten Steuersatz von einem Prozent auf Übernachtungen bis Ende 2027 verlängert."
-    }
    }
   ],
   "world": [
@@ -128,6 +128,16 @@
     }
    },
    {
+    "time": "2026-11-28T08:49:53+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+    "importance": 2,
+    "text": {
+     "tr": "Avustralya'nın Victoria eyaletindeki seçimlerde koalisyon zafer kazandı ve Labor partisinin 12 yıllık iktidarı sona erdi.",
+     "de": "Bei den Wahlen im australischen Bundesstaat Victoria hat die Koalition gewonnen und die zwölfjährige Regierungszeit der Labor-Partei beendet."
+    }
+   },
+   {
     "time": "2026-11-28T08:40:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011546/ispanya-basbakani-snchez-erken-genel-secim-oncesi-partisinin-kapanis-mitingine-katildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -146,16 +156,6 @@
      "tr": "ABD ordusu, İran limanlarına yönelik deniz ablukasını ihlal eden bir gemiye ateş açtı.",
      "de": "Das US-Militär hat auf ein Schiff geschossen, das die Seeblockade iranischer Häfen verletzt hat."
     }
-   },
-   {
-    "time": "2026-11-28T07:12:00+00:00",
-    "source": "France 24",
-    "url": "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
-    "importance": 2,
-    "text": {
-     "tr": "Moskova yönetimi gece kenti hedef alan dronların düşürüldüğünü duyururken Ukrayna bir Rus İHA'sını lazerle vurduğunu açıkladı.",
-     "de": "Moskau meldete die Abwehr nächtlicher Drohnenangriffe, während die Ukraine den Abschuss einer russischen Drohne mittels Lasertechnik bekannt gab."
-    }
    }
   ]
  },
@@ -169,6 +169,26 @@
     "text": {
      "tr": "Köln/Bonn Havalimanı'nda tespit edilen bir insansız hava aracı nedeniyle uçak seferleri gece saatlerinde geçici olarak durduruldu.",
      "de": "Wegen einer gesichteten Drohne ist der Flugbetrieb am Flughafen Köln/Bonn in der Nacht vorübergehend eingestellt worden."
+    }
+   },
+   {
+    "time": "2026-11-28T09:13:19+00:00",
+    "source": "FAZ Nachrichten",
+    "url": "https://www.faz.net/aktuell/sport/wintersport/eiskunstlauf-minerva-hase-und-nikita-volodin-setzen-erfolgsserie-fort-accg-201725608.html",
+    "importance": 1,
+    "text": {
+     "tr": "Alman Eiskunstlauf çifti Minerva Hase ve Nikita Volodin, Tokio'daki Grand Prix'de birinci oldu.",
+     "de": "Das deutsche Eiskunstlauf-Paar Minerva Hase und Nikita Volodin hat den Grand Prix in Tokio gewonnen."
+    }
+   },
+   {
+    "time": "2026-11-28T08:41:29+00:00",
+    "source": "Die Welt",
+    "url": "https://www.welt.de/videos/video6b0a712f7df78695bac9662d/perm-putins-neues-atom-u-boot-serienmaessig-mit-hyperschallraketen-600-meter-tauchtiefe.html",
+    "importance": 2,
+    "text": {
+     "tr": "Rusya Devlet Başkanı Vladimir Putin, hipersonik füzelerle donatılmış yeni Perm nükleer denizaltısını hizmete soktu.",
+     "de": "Wladimir Putin hat das neue atomgetriebene U-Boot »Perm« mit Hyperschallraketen offiziell in Dienst gestellt."
     }
    },
    {
@@ -233,6 +253,26 @@
    }
   ],
   "tr": [
+   {
+    "time": "2026-11-28T12:13:00+03:00",
+    "source": "Cumhuriyet Son Dakika",
+    "url": "https://www.cumhuriyet.com.tr/ekonomi/borsa-manipulasyonuna-spk-kiskaci-tera-portfoy-e-2-yil-yasak-167-isim-yargiya-sevk-edildi-2560147",
+    "importance": 2,
+    "text": {
+     "tr": "Sermaye Piyasası Kurulu, Tera Portföy ve ilgili şirketlere 2 yıl işlem yasağı getirdi ve 167 kişiyi yargıya sevk etti.",
+     "de": "Die Kapitalmarktbehörde SPK hat Tera Portföy und verbundenen Unternehmen ein zweijähriges Handelsverbot auferlegt und 167 Personen an die Justiz übergeben."
+    }
+   },
+   {
+    "time": "2026-11-28T12:07:00+03:00",
+    "source": "Evrensel",
+    "url": "https://www.evrensel.net/haber/6011572/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+    "importance": 2,
+    "text": {
+     "tr": "İçişleri Bakanlığı, 29 ilde IŞİD'e yönelik düzenlenen operasyonlarda 84 kişinin gözaltına alındığını açıkladı.",
+     "de": "Das Innenministerium gab bekannt, dass bei IWF-Operationen in 29 Provinzen 84 Personen festgenommen wurden."
+    }
+   },
    {
     "time": "2026-11-28T10:43:00+03:00",
     "source": "Evrensel",
@@ -336,6 +376,16 @@
     }
    },
    {
+    "time": "2026-11-28T08:49:53+00:00",
+    "source": "The Guardian World",
+    "url": "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
+    "importance": 2,
+    "text": {
+     "tr": "Avustralya'nın Victoria eyaletindeki seçimlerde koalisyon zafer kazandı ve Labor partisinin 12 yıllık iktidarı sona erdi.",
+     "de": "Bei den Wahlen im australischen Bundesstaat Victoria hat die Koalition gewonnen und die zwölfjährige Regierungszeit der Labor-Partei beendet."
+    }
+   },
+   {
     "time": "2026-11-28T08:40:00+03:00",
     "source": "Evrensel",
     "url": "https://www.evrensel.net/haber/6011546/ispanya-basbakani-snchez-erken-genel-secim-oncesi-partisinin-kapanis-mitingine-katildi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -425,19 +475,31 @@
   "https://tr.euronews.com/2026/11/28/fransa-nadir-topraklar-icin-stratejik-stok-kuruyor-direnc-pahali-olacak",
   "https://tr.euronews.com/2026/11/28/isvicrede-atik-su-takibi-bilim-insanlari-olasi-yeni-pandemiyi-erkenden-saptamayi-hedefliyo",
   "https://tr.euronews.com/2026/11/28/italyanin-enerji-sistemi-bataryalar-gunes-sonrasi-pahali-gazi-azaltabilir",
+  "https://tr.euronews.com/2026/11/28/kaotik-ab-butce-zirvesi-sonucsuz-kaldi-gorusmelerde-simdi-ne-olacak",
   "https://tr.euronews.com/2026/11/28/rus-hava-uzay-kuvvetlerinin-ikinci-ismine-rusvet-suclamasi",
   "https://tr.euronews.com/2026/11/28/saatchi-galleryde-conversations-with-strangers-ping-pongla-yabancilar-bulusuyor",
   "https://tr.euronews.com/2026/11/28/uganda-afrikanin-ilk-mrna-ebola-asi-denemesi-basladi",
+  "https://tr.euronews.com/2026/11/28/ukrayna-ilk-kez-lazer-silahiyla-rus-jet-ihasini-vurdugunu-duyurdu",
+  "https://tr.euronews.com/video/2026/11/28/video-putin-rusyanin-en-yeni-nukleer-denizaltisini-tanitti",
+  "https://www.bbc.co.uk/news/articles/cvwy08g70ldko",
   "https://www.bbc.co.uk/news/articles/cwp9d85mlp88o",
   "https://www.bbc.com/turkce/articles/c6lywr2w8lrzo",
+  "https://www.bbc.com/turkce/articles/cm2d95j022e0o",
+  "https://www.bbc.com/turkce/articles/cm5y1p23yl4yo",
+  "https://www.cumhuriyet.com.tr/bilim-teknoloji/akilli-telefon-pazarinda-2027-tahmini-android-gerilerken-apple-buyuyebilir-2560145",
   "https://www.cumhuriyet.com.tr/dunya/libya-kaynaklari-hafter-in-ankara-daki-gorusmelerinin-icerigini-acikladi-2560120",
   "https://www.cumhuriyet.com.tr/egitim/aol-sinav-giris-belgesi-ne-zaman-yayinlanacak-acik-ogretim-lisesi-1-donem-sinavlari-ne-zaman-yapilacak-saat-kacta-2560124",
   "https://www.cumhuriyet.com.tr/ekonomi/abd-de-mal-ticaret-acigi-artti-mart-2025-ten-sonraki-en-yuksek-seviye-2560115",
+  "https://www.cumhuriyet.com.tr/ekonomi/borsa-manipulasyonuna-spk-kiskaci-tera-portfoy-e-2-yil-yasak-167-isim-yargiya-sevk-edildi-2560147",
   "https://www.cumhuriyet.com.tr/ekonomi/bu-hafta-hangi-yatirim-araci-kazandirdi-altin-dolar-borsa-ve-fonlarda-haftalik-tablo-2560135",
   "https://www.cumhuriyet.com.tr/ekonomi/dev-bankadan-altin-icin-kritik-dolar-tahmini-yukselisin-tarihi-belli-oldu-2560128",
+  "https://www.cumhuriyet.com.tr/ekonomi/spk-den-agir-yaptirim-paketi-55-3-milyon-lira-ceza-116-islem-yasagi-ve-bir-bankaya-faaliyet-durdurma-2560144",
+  "https://www.cumhuriyet.com.tr/ekonomi/tarih-belli-oldu-spk-den-26-yatirim-fonuna-yeniden-islem-izni-2560143",
   "https://www.cumhuriyet.com.tr/gurme/ic-anadolu-mutfak-kulturunun-ferahlatici-klasigi-ayran-asi-corbasi-2560136",
+  "https://www.cumhuriyet.com.tr/siyaset/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi-2560142",
   "https://www.cumhuriyet.com.tr/siyaset/chd-uyesi-avukat-tahliye-edildi-karari-veren-hakim-degistirildi-2560126",
   "https://www.cumhuriyet.com.tr/siyaset/kahramanmaras-ta-depremzede-yurttaslarin-tepkisini-ceken-rezerv-alan-karari-mahallemizden-gitmek-istemiyoruz-2560129",
+  "https://www.cumhuriyet.com.tr/siyaset/yeni-partili-yanki-bagcioglu-ndan-pes-pese-yasanan-tsk-kazalari-icin-kritik-cagri-2560150",
   "https://www.cumhuriyet.com.tr/spor/besiktas-derbisi-oncesi-galatasaray-da-victor-osimhen-gelismesi-2560118",
   "https://www.cumhuriyet.com.tr/spor/bugun-hangi-maclar-var-saat-kacta-hangi-kanalda-28-kasim-cumartesi-gunu-mac-programi-2560127",
   "https://www.cumhuriyet.com.tr/spor/galatasarayli-yunus-akgun-un-mutlu-gunu-2560095",
@@ -446,23 +508,34 @@
   "https://www.cumhuriyet.com.tr/turkiye/ankara-da-uyusturucu-ve-fuhus-operasyonu-22-tutuklama-2560133",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-da-10-kiz-cocugunun-mahsur-kaldigi-yolu-ormanci-anlatti-asagisi-cok-tehlikeli-2560096",
   "https://www.cumhuriyet.com.tr/turkiye/bolu-da-10-kiz-cocuguyla-mahsur-kalan-minibusun-soforu-o-anlari-anlatti-kiz-cocuklarini-kendi-kizimdan-ayirmadim-2560093",
+  "https://www.cumhuriyet.com.tr/turkiye/bornova-da-uyusturucu-serasina-baskin-18-kok-hint-keneviri-bitkisi-ele-gecirildi-2560141",
   "https://www.cumhuriyet.com.tr/turkiye/istanbul-fatih-te-pes-dedirten-kuyumcu-soygunu-4-kilo-altin-caldilar-2560119",
   "https://www.cumhuriyet.com.tr/turkiye/kayseri-de-kanli-hesaplasma-husumetlisini-vurup-intihar-etti-2560122",
   "https://www.cumhuriyet.com.tr/turkiye/kredi-vaadiyle-dolandiricilik-davasinda-saniktan-bir-garip-savunma-kafam-karisiyor-2560131",
   "https://www.cumhuriyet.com.tr/turkiye/kucukcekmece-deki-5-katli-bina-yanginindan-aci-haber-olu-sayisi-3-e-yukseldi-2560121",
+  "https://www.cumhuriyet.com.tr/turkiye/marmaris-te-gocmen-kacakciligi-operasyonu-2-tutuklama-2560149",
   "https://www.cumhuriyet.com.tr/turkiye/meteoroloji-acikladi-28-kasim-2026-hava-durumu-raporu-bugun-hava-nasil-olacak-2560090",
   "https://www.cumhuriyet.com.tr/turkiye/sarikamis-ta-aracin-carptigi-ayi-yasamini-yitirdi-2560134",
   "https://www.cumhuriyet.com.tr/turkiye/son-dakika-depremler-deprem-mi-oldu-28-kasim-2026-nerede-ne-zaman-deprem-oldu-2560092",
+  "https://www.cumhuriyet.com.tr/turkiye/turistik-erzurum-kars-bolgesel-treni-biletleri-satisa-cikti-sefer-tarihleri-ve-saatleri-belli-oldu-2560140",
   "https://www.cumhuriyet.com.tr/turkiye/usak-ta-feci-kaza-astsubay-surucu-ve-ailesinden-2-kisi-hayatini-kaybetti-2560117",
   "https://www.cumhuriyet.com.tr/turkiye/yakilarak-oldurulen-afgan-madenci-davasinda-yeni-gelisme-yargitay-cezalari-onadi-2560123",
   "https://www.cumhuriyet.com.tr/turkiye/yer-bursa-silahla-ates-acmisti-evine-duzenlenen-operasyonla-yakalandi-2560116",
   "https://www.cumhuriyet.com.tr/tv-rehberi/tv-yayin-akisi-28-kasim-cumartesi-bugun-hangi-kanalda-ne-var-2560094",
+  "https://www.cumhuriyet.com.tr/yasam/bu-urunler-kansere-neden-oluyor-goz-ardi-edilen-iki-sonsuz-kimyasal-karaciger-kanseri-riskini-2-5-katina-cikariyor-2560148",
   "https://www.cumhuriyet.com.tr/yasam/findiga-alternatif-olarak-ekildi-sahilde-basladi-300-rakimdaki-bahcelere-kadar-ulasti-2560125",
+  "https://www.cumhuriyet.com.tr/yasam/hem-metrelerce-yuksekten-toplaniyor-hem-3-asamada-satiliyor-koyun-tek-gecim-kaynagi-2560146",
+  "https://www.cumhuriyet.com.tr/yasam/ipek-yolu-nun-son-duragindan-iskender-kebap-in-dogusuna-bursa-nin-zamansiz-ruhu-2559356",
   "https://www.cumhuriyet.com.tr/yasam/izmir-de-operasyon-46-gocmen-yakalandi-34-u-kurtarildi-2560132",
   "https://www.cumhuriyet.com.tr/yasam/studyoyu-terk-etti-masterchef-te-somer-sivrioglu-ile-tolga-arasinda-gergin-anlar-2560130",
+  "https://www.dw.com/de/news-kompakt-tödlicher-angriff-auf-gaza-helfer/a-80083580",
   "https://www.dw.com/en/indian-workers-fill-germany-s-labor-gaps-but-face-hurdles-and-risks/a-80072882",
+  "https://www.dw.com/tr/bolu-da-endişeli-bekleyiş-sona-erdi-10-kız-çocuğu-ve-üç-görevli-bulundu/a-80083677",
+  "https://www.dw.com/tr/fon-krizi-ara-ödemeler-sonrası-yatırımcıları-ne-bekliyor/a-80075848",
   "https://www.dw.com/tr/i̇mamoğlu-nun-35-yıllık-diploması-641-gündenasıl-iptal-edildi/a-80076918",
+  "https://www.dw.com/tr/tahir-elçi-cinayeti-11-yılda-neler-yaşandı/a-74927563",
   "https://www.euronews.com/2026/11/28/russia-charges-air-force-deputy-chief-with-taking-large-bribe",
+  "https://www.euronews.com/2026/11/28/us-hotline-to-report-cartel-activities-slammed-as-foreign-interference-by-mexico",
   "https://www.euronews.com/2026/11/28/us-military-fires-at-a-ship-that-violated-blockade-of-iranian-ports",
   "https://www.euronews.com/video/2026/11/28/latest-news-bulletin-november-28th-2026-morning",
   "https://www.evrensel.net/haber/6011542/spk-den-553-milyon-liralik-idari-para-cezasi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
@@ -489,21 +562,34 @@
   "https://www.evrensel.net/haber/6011567/kdp-ve-ynk-bagdat-in-kararlarini-gorusmek-uzere-bir-araya-geliyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011568/kanada-dan-diplomatlarina-flort-uygulamasi-ve-iliski-yasagi-hazirligi-duzenleme-cin-ve-rusya-yi-kapsayacak?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
   "https://www.evrensel.net/haber/6011569/el-hierro-adasi-aciklarinda-gocmen-teknesi-alabora-olmustu-hayatini-kaybeden-gocmenlerin-sayisi-14-e-cikti?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011570/ses-es-genel-baskani-mehmet-siddik-akin-ana-dil-engeli-saglik-hizmetine-erisimi-zorlastiriyor?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011571/ailem-guvende-operasyonlarinda-yeni-dalga-70-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011572/29-ilde-isid-operasyonu-84-kisi-gozaltina-alindi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.evrensel.net/haber/6011573/iran-abd-ile-mesaj-alisverisi-suruyor-ancak-gorusmeler-yavasladi?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_syndication",
+  "https://www.faz.net/aktuell/besser-leben/essen/eben-sadie-was-seine-weine-so-besonders-macht-accg-201695232.html",
   "https://www.faz.net/aktuell/feuilleton/buecher/sachbuch/peter-sloterdijk-ueber-enthemmung-afd-und-corona-leugner-accg-201722754.html",
+  "https://www.faz.net/aktuell/feuilleton/medien-und-film/medienpolitik/bundesregierung-kaempft-fuer-urheberrecht-im-ki-zeitalter-201724087.html",
+  "https://www.faz.net/aktuell/finanzen/wie-geduldiges-vermoegen-gegen-hastige-maerkte-besteht-accg-201253057.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/wann-achtsamkeit-und-yoga-uns-schaden-man-kann-hohe-mietpreise-nicht-wegatmen-accg-201654946.html",
   "https://www.faz.net/aktuell/gesellschaft/menschen/wie-fuehlen-sich-vaeter-beim-ikkimel-konzert-accg-201718932.html",
   "https://www.faz.net/aktuell/politik/inland/allensbach-umfrage-die-hohe-bindungskraft-der-afd-accg-201716482.html",
+  "https://www.faz.net/aktuell/politik/inland/die-fehler-der-mitte-das-hat-die-afd-erst-stark-gemacht-accg-201709164.html",
   "https://www.faz.net/aktuell/politik/inland/liveticker-bundespolitik-reaktionen-auf-schweitzers-plaene-ringen-um-rente-geht-weiter-faz-110093143.html",
+  "https://www.faz.net/aktuell/rhein-main/millionenschaden-nach-grossbrand-bei-grillanzuender-hersteller-in-alsfeld-aktuelle-nachrichten-aus-frankfurt-hessen-faz-19735361.html",
+  "https://www.faz.net/aktuell/rhein-main/region-und-hessen/darmstadt-gruendet-gmbh-fuer-die-mathildenhoehe-accg-201723809.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/finanznot-der-kommunen-bad-nauheim-erhoeht-die-grundsteuer-accg-201722908.html",
   "https://www.faz.net/aktuell/rhein-main/region-und-hessen/langgoenser-talbruecke-auf-a-45-soll-gesprengt-werden-accg-201723436.html",
   "https://www.faz.net/aktuell/sport/fussball/mls-playoffs-mueller-und-vancouver-weiter-aus-fuer-messi-accg-201725439.html",
   "https://www.faz.net/aktuell/sport/fussball/regionalliga-reform-deutscher-fussball-vor-dfb-bundestag-vor-zerreissprobe-accg-201717757.html",
+  "https://www.faz.net/aktuell/sport/wintersport/eiskunstlauf-minerva-hase-und-nikita-volodin-setzen-erfolgsserie-fort-accg-201725608.html",
   "https://www.faz.net/aktuell/technik-motor/technik/ganzjahresreifen-lohnt-sich-der-wechsel-wirklich-accg-201673346.html",
+  "https://www.faz.net/aktuell/wirtschaft/ein-schoener-haushalt-fuer-friedrich-merz-201721059.html",
   "https://www.faz.net/aktuell/wissen/archaeologie-altertum/neandertaler-im-abric-romani-forscher-rekonstruieren-holzwerkzeuge-accg-201709073.html",
   "https://www.france24.com/en/americas/20261128-us-military-cloud-platform-reportedly-hacked-as-pentagon-insists-systems-are-secure",
   "https://www.france24.com/en/asia-pacific/20261128-taiwan-holds-local-elections-under-beijing-s-watchful-gaze",
   "https://www.france24.com/en/europe/20261128-live-ukraine-downs-russian-drone-with-laser-technology-as-moscow-intercepts-overnight-assault",
   "https://www.spiegel.de/ausland/marine-le-pen-polizei-durchsuchte-wohnung-und-buero-von-ex-bueroleiter-ambroise-de-rancourt-a-7b23f3fc-b6b2-49c6-b056-5862cb945914#ref=rss",
+  "https://www.spiegel.de/kultur/michael-hatzius-ist-tot-puppenspieler-und-comedian-mit-44-jahren-gestorben-a-ddfc894c-8769-4889-9982-ed630a21ed5f#ref=rss",
   "https://www.spiegel.de/kultur/wolf-biermann-ilko-sascha-kowalczuk-ueber-tagebuch-debatte-a-4f7f2b82-ce4f-4c17-91ba-31063924fb23#ref=rss",
   "https://www.spiegel.de/politik/deutsche-bahn-verkehrsminister-bilger-schliesst-reduzierung-von-zugverbindungen-nicht-aus-a-93f03fc0-0a5b-4e7e-9499-9f9241fafc80#ref=rss",
   "https://www.spiegel.de/politik/deutschland/news-pedro-sanchez-unter-druck-welthungerkrise-streit-um-arbeitsminister-schweitzer-a-3d869da9-bc60-41fd-b33a-7cae1ee61e1d#ref=rss",
@@ -511,6 +597,7 @@
   "https://www.tagesschau.de/inland/regional/nordrheinwestfalen/drohnensichtung-flugverkehr-am-airport-koelnbonn-gestoppt-100.html",
   "https://www.tagesschau.de/inland/rentenplaene-reaktionen-102.html",
   "https://www.tagesschau.de/inland/umweltminister-schneider-rhein-umbau-100.html",
+  "https://www.theguardian.com/australia-news/2026/nov/28/victoria-election-2026-winner-announced-who-won-poll-win-coalition-labor-victorian-state-results",
   "https://www.theguardian.com/australia-news/live/2026/nov/28/victorian-election-live-results-updates-premier-ben-carroll-jess-wilson-warren-pickering-2026-victoria-polls-votes-latest-news-ntwnfb",
   "https://www.theguardian.com/business/2026/nov/28/ai-bots-wreak-havoc-uk-restaurant-bookings-meta-muse",
   "https://www.theguardian.com/business/2026/nov/28/french-succession-bernard-arnault-lvmh",
@@ -521,14 +608,19 @@
   "https://www.theguardian.com/world/2026/nov/28/yuri-football-together-russia-war-dead-ukraine",
   "https://www.welt.de/geschichte/article6b0700ae10bfe646193e94f6/antike-artillerie-der-schmerz-laesst-bereits-die-todeswunde-spueren-ehe-man-das-geschoss-erkennt.html",
   "https://www.welt.de/kultur/musik/article6b0a80107df78695bac966db/historiker-und-buchautor-huldigung-die-er-nicht-verdient-hat-ilko-sascha-kowalczuk-erklaert-zerwuerfnis-mit-wolf-biermann.html",
+  "https://www.welt.de/kultur/musik/article6b0a80107df78695bac966db/streit-ueber-tagebuecher-gedenken-huldigung-die-er-nicht-verdient-hat-ilko-sascha-kowalczuk-erklaert-zerwuerfnis-mit-wolf-biermann.html",
   "https://www.welt.de/kultur/stuetzen-der-gesellschaft/plus6b099797741a4ef94784a1c5/statt-allahu-akbarrieren-der-heimische-terror-des-tradwife-daseins.html",
   "https://www.welt.de/kultur/theater/article6b0a7d80741a4ef94784b085/nach-kurzer-schwerer-krankheit-bekannt-durch-die-echse-puppenspieler-michael-hatzius-stirbt-mit-44-jahren.html",
   "https://www.welt.de/politik/ausland/article6b09631f741a4ef947849a7b/neue-studie-anschlaege-entfuehrungen-morde-deutschland-im-visier-des-iran.html",
+  "https://www.welt.de/politik/deutschland/article6b09d216741a4ef94784ab6b/bundesparteitag-wir-entscheiden-immer-in-der-sache-bsw-vorsitzende-schliesst-zustimmung-zu-afd-haushalt-nicht-aus.html",
   "https://www.welt.de/politik/deutschland/article6b0a5fe37df78695bac965a3/ba-chefin-fachkraefte-mangel-nahles-will-ausgewanderte-deutsche-zurueckholen.html",
+  "https://www.welt.de/politik/deutschland/article6b0a8b797df78695bac96780/bundestag-hauspost-ich-hab-ne-zwiebel-auf-dem-kopf-ferat-kocak-bekommt-muslimfeindliche-karikatur.html",
   "https://www.welt.de/politik/deutschland/plus6b07f87b09772de37184f2bd/konflikt-in-der-aussenpolitik-wenn-ueber-solidaritaet-mit-israel-in-der-afd-streit-losbricht.html",
   "https://www.welt.de/politik/deutschland/plus6b0834a009772de37184fcd9/verteidigungspolitik-interne-dokumente-belegen-massive-ausweitung-der-deutsch-ukrainischen-militaerkooperation.html",
   "https://www.welt.de/politik/deutschland/plus6b09911783a96bc174605552/hubertus-heil-wir-wollen-dass-einsatz-und-leistung-zaehlen-nicht-herkunft-und-ellenbogen.html",
   "https://www.welt.de/vermischtes/plus6b0966a23d0d9d6539f8f855/streit-mit-dem-partner-wie-man-die-macht-alter-beziehungsmuster-durchbrechen-kann.html",
-  "https://www.welt.de/wirtschaft/plus6b096d433d0d9d6539f8f94a/um-sechs-uhr-morgens-champagner-in-der-lounge-das-wollen-nur-beamte-der-eu-sagt-ryanair-chef-oleary.html"
+  "https://www.welt.de/videos/video6b0a712f7df78695bac9662d/perm-putins-neues-atom-u-boot-serienmaessig-mit-hyperschallraketen-600-meter-tauchtiefe.html",
+  "https://www.welt.de/wirtschaft/plus6b096d433d0d9d6539f8f94a/um-sechs-uhr-morgens-champagner-in-der-lounge-das-wollen-nur-beamte-der-eu-sagt-ryanair-chef-oleary.html",
+  "https://www.welt.dehttps://www.welt.de/kaufberater/das-ist-der-beste-kaffeevollautomat-unter-500-euro/"
  ]
 }
